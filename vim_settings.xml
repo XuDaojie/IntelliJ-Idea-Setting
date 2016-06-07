@@ -107,10 +107,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/RunDataPrivilegeBean.java" timestamp="1461737530118">
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeFragment.java" timestamp="1465205585930">
-        <mark key="]" line="125" column="20" />
-        <mark key="^" line="125" column="20" />
-        <mark key="." line="125" column="20" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeFragment.java" timestamp="1465270886175">
+        <mark key="]" line="110" column="36" />
+        <mark key="^" line="110" column="36" />
+        <mark key="." line="110" column="36" />
+        <mark key="[" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketListInteractor.java" timestamp="1462436186451">
         <mark key="[" line="5" column="12" />
@@ -264,7 +265,7 @@
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1465260045889">
+      <file name="/a.dummy" timestamp="1465271171188">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/main_home_fragment.xml" timestamp="1464935230585">
@@ -393,9 +394,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/BasePresenter.java" timestamp="1461986888266">
         <mark key="[" line="8" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465268083904">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable-v21/selector_round_blue_small.xml" timestamp="1464155961885">
         <mark key="[" line="8" column="11" />
       </file>
@@ -488,7 +486,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFVSTCA9IENvbnN0YW50c05ldC5CQVNFX1VSTDsKCiAgICBwcml2YXRlIFJldHJvZml0IG1SZXRyb2ZpdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -500,37 +498,37 @@
         <text>jkeh</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIG1MaW5lYXJMYXlvdXQuZ2V0V2lkdGgoKSArICIiKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">5YWz5rOo5Zyo6L+U5Zue6aaW6aG15pe25LiN6L+b6KGM5Yi35paw44CCCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFVSTCA9IENvbnN0YW50c05ldC5CQVNFX1VSTDsKCiAgICBwcml2YXRlIFJldHJvZml0IG1SZXRyb2ZpdDsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudFRyYW5zYWN0aW9uIGZ0ID0gZm0uYmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>mContext</text>
+      <register name="7" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIExpZmVjeWNsZUFjdGl2aXR5IGV4dGVuZHMgQWN0aXZpdHkgewo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIExpZmVjeWNsZUFjdGl2aXR5IGV4dGVuZHMgQWN0aXZpdHkgewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIG1MaW5lYXJMYXlvdXQuZ2V0V2lkdGgoKSArICIiKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>;</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIG1MaW5lYXJMYXlvdXQuZ2V0V2lkdGgoKSArICIiKQo=</text>
+      </register>
       <register name="9" type="4">
-        <text>BaseActivity</text>
+        <text>getSupportFragmentManager</text>
       </register>
       <register name="8" type="4">
-        <text>getSupportFragmentManager</text>
+        <text>mContext</text>
       </register>
     </registers>
     <search>
