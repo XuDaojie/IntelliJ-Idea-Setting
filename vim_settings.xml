@@ -36,6 +36,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/build.gradle" timestamp="1457262285368">
         <mark key="[" line="24" column="52" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable-v21/selector_gray_press.xml" timestamp="1465379183784">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/java/me/xdj/animatenote/WindowTransitionActivity.java" timestamp="1456566326009">
         <mark key="[" line="14" column="60" />
       </file>
@@ -363,10 +369,10 @@
         <mark key="[" line="5" column="29" />
       </file>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-23/android/widget/ImageView.java" timestamp="1465374671275" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/MainActivity.java" timestamp="1465374727619">
-        <mark key="[" line="208" column="34" />
-        <mark key="]" line="208" column="34" />
-        <mark key="." line="208" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/MainActivity.java" timestamp="1465378535563">
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BusinessTargetBean.java" timestamp="1462948904083">
         <mark key="[" line="5" column="29" />
@@ -448,6 +454,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketSubActivity.java" timestamp="1462610378481">
         <mark key="[" line="24" column="26" />
       </file>
+      <file name="/Dummy.txt" timestamp="1465379146470">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/CloudComponentsBean.java" timestamp="1464225888311">
         <mark key="[" line="8" column="34" />
       </file>
@@ -494,6 +503,7 @@
         <mark key="^" line="180" column="12" />
         <mark key="." line="166" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/view_main_bottom.xml" timestamp="1465379090344" />
       <file name="/fragment.java" timestamp="1465373884858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -539,8 +549,8 @@
       <jump line="155" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/DashboadLoadListActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
@@ -551,45 +561,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudFRyYW5zYWN0aW9uIGZ0ID0gZm0uYmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>, PorterDuff.Mode.SRC_ATOP</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbVJ1bkl2LnNldEltYWdlUmVzb3VyY2UoUi5taXBtYXAuaWNfbWFpbl9ydW5fcHJlc3MpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text>mColorBlue</text>
+        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
       </register>
       <register name="4" type="4">
-        <text>null</text>
+        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="6" type="4">
+        <text>, PorterDuff.Mode.SRC_ATOP</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text>mServiceIv.setImageResource(R.mipmap.ic_main_service);
-//        Drawable servicePress = ContextCompat.getDrawable(this, R.mipmap.ic_main_service);
-//        servicePress.setColorFilter(null);
-//        mServiceIv.setImageDrawable(servicePress);</text>
+        <text>mColorBlue</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgRHJhd2FibGUgc2VydmljZVByZXNzID0gQ29udGV4dENvbXBhdC5nZXREcmF3YWJsZSh0aGlzLCBSLm1pcG1hcC5pCg==</text>
+      <register name="8" type="4">
+        <text>null</text>
       </register>
-      <register name="9" type="4">
-        <text>c_main_service);
-//                servicePress.setColorFilter(mColorBlue, PorterDuff.Mode.SRC_ATOP);
-                //DrawableCompat.setTint(servicePress, Color.parseColor(&quot;#000000&quot;));
-//                mServiceIv.setImageDrawable(servicePress);
-//                mServiceIv.setImageResource(R.mipmap.ic_main_service_press);</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
