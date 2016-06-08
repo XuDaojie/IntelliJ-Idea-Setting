@@ -319,7 +319,7 @@
         <mark key="]" line="59" column="45" />
         <mark key="." line="59" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/FavorFragment.java" timestamp="1465349813006">
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/FavorFragment.java" timestamp="1465369177307">
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="0" />
         <mark key="." line="192" column="0" />
@@ -361,6 +361,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/MiddleStateBean.java" timestamp="1464337578697">
         <mark key="[" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-23/android/widget/ImageView.java" timestamp="1465374671275" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/MainActivity.java" timestamp="1465374727619">
+        <mark key="[" line="208" column="34" />
+        <mark key="]" line="208" column="34" />
+        <mark key="." line="208" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BusinessTargetBean.java" timestamp="1462948904083">
         <mark key="[" line="5" column="29" />
@@ -427,7 +433,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/AndroidManifest.xml" timestamp="1464137183158">
         <mark key="[" line="95" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" timestamp="1465205065632" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" timestamp="1465370893273" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_alert_list_activity.xml" timestamp="1464865661196">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -488,6 +494,11 @@
         <mark key="^" line="180" column="12" />
         <mark key="." line="166" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1465373884858">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1" column="14" filename="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/layout/content_main.xml" />
@@ -528,11 +539,11 @@
       <jump line="155" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/DashboadLoadListActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1Qb3J0UXR5VHYuc2V0VGV4dChIdG1sLmZyb21IdG1sKCLnq6/lj6PmgLvmlbAgIiArIHBvcnRDb3VudHMpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -540,38 +551,45 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudFRyYW5zYWN0aW9uIGZ0ID0gZm0uYmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1Qb3J0UXR5VHYuc2V0VGV4dChIdG1sLmZyb21IdG1sKCLnq6/lj6PmgLvmlbAgIiArIHBvcnRDb3VudHMpKTsK</text>
+      <register name="1" type="4">
+        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>, PorterDuff.Mode.SRC_ATOP</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text>Html.fromHtml(</text>
+        <text>mColorBlue</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>null</text>
       </register>
-      <register name="5" type="4">
-        <text>Html.fromHtml(</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgOwo=</text>
+      <register name="7" type="4">
+        <text>mServiceIv.setImageResource(R.mipmap.ic_main_service);
+//        Drawable servicePress = ContextCompat.getDrawable(this, R.mipmap.ic_main_service);
+//        servicePress.setColorFilter(null);
+//        mServiceIv.setImageDrawable(servicePress);</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IEBCaW5kKFIuaWQuZGV2aWNlX3R2KQogICAgVGV4dFZpZXcgbURldmljZVR2OwogICAgQEJpbmQoUi5pZC53YXJuX3R2KQogICAgVGV4dFZpZXcgbVdhcm5UdjsKICAgIEBCaW5kKFIuaWQucG9ydF9xdHlfdHYpCiAgICBUZXh0VmlldyBtUG9ydFF0eVR2OwogICAgQEJpbmQoUi5pZC5jcml0aWNhbF90dikKICAgIFRleHRWaWV3IG1Dcml0aWNhbFR2OwogICAgQEJpbmQoUi5pZC5yb3V0ZV9sbCkKICAgIExpbmVhckxheW91dCBtUm91dGVMbDsKICAgIEBCaW5kKFIuaWQubG9hZF9jb3VudF90dikKICAgIFRleHRWaWV3IG1Mb2FkQ291bnRUdjsKICAgIEBCaW5kKFIuaWQubG9hZF93YXJuX3R2KQogICAgVGV4dFZpZXcgbUxvYWRXYXJuVHY7CiAgICBAQmluZChSLmlkLmxvYWRfY3JpdGljYWxfdHYpCiAgICBUZXh0VmlldyBtTG9hZENyaXRpY2FsVHY7CiAgICBAQmluZChSLmlkLmxvYWRfbGwpCiAgICBMaW5lYXJMYXlvdXQgbUxvYWRMbDsKICAgIEBCaW5kKFIuaWQubXVsdGlfc3RhdGVfdmlldykKICAgIE11bHRpU3RhdGVWaWV3IG1NdWx0aVN0YXRlVmlldw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgRHJhd2FibGUgc2VydmljZVByZXNzID0gQ29udGV4dENvbXBhdC5nZXREcmF3YWJsZSh0aGlzLCBSLm1pcG1hcC5pCg==</text>
       </register>
       <register name="9" type="4">
-        <text>IsasServer</text>
+        <text>c_main_service);
+//                servicePress.setColorFilter(mColorBlue, PorterDuff.Mode.SRC_ATOP);
+                //DrawableCompat.setTint(servicePress, Color.parseColor(&quot;#000000&quot;));
+//                mServiceIv.setImageDrawable(servicePress);
+//                mServiceIv.setImageResource(R.mipmap.ic_main_service_press);</text>
       </register>
     </registers>
     <search>
