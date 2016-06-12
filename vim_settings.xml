@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
@@ -368,7 +368,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/MiddleStateBean.java" timestamp="1464337578697">
         <mark key="[" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-23/android/widget/ImageView.java" timestamp="1465374671275" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/MainActivity.java" timestamp="1465378535563">
         <mark key="[" line="206" column="0" />
         <mark key="]" line="206" column="0" />
@@ -503,10 +502,10 @@
         <mark key="^" line="180" column="12" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/view_main_bottom.xml" timestamp="1465379812168">
-        <mark key="]" line="131" column="51" />
-        <mark key="^" line="131" column="51" />
-        <mark key="." line="131" column="51" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/view_main_bottom.xml" timestamp="1465693893156">
+        <mark key="[" line="93" column="9" />
+        <mark key="]" line="93" column="9" />
+        <mark key="." line="93" column="9" />
       </file>
       <file name="/fragment.java" timestamp="1465373884858">
         <mark key="[" line="0" column="0" />
@@ -553,11 +552,11 @@
       <jump line="155" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/DashboadLoadListActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>LinearLayout</text>
       </register>
       <register name="-" type="4">
-        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
+        <text>LinearLayout</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -565,38 +564,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudFRyYW5zYWN0aW9uIGZ0ID0gZm0uYmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>LinearLayout</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbVJ1bkl2LnNldEltYWdlUmVzb3VyY2UoUi5taXBtYXAuaWNfbWFpbl9ydW5fcHJlc3MpOwo=</text>
+      <register name="2" type="4">
+        <text>ImageView</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbVJ1bkl2LnNldEltYWdlUmVzb3VyY2UoUi5taXBtYXAuaWNfbWFpbl9ydW5fcHJlc3MpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>, PorterDuff.Mode.SRC_ATOP</text>
+        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text>mColorBlue</text>
+        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
       </register>
       <register name="8" type="4">
-        <text>null</text>
+        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>, PorterDuff.Mode.SRC_ATOP</text>
       </register>
     </registers>
     <search>
