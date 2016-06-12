@@ -44,6 +44,11 @@
         <mark key="." line="14" column="32" />
         <mark key="[" line="14" column="31" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/widget/MyListView.java" timestamp="1465701906563">
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="[" line="34" column="37" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/Constants.java" timestamp="1464244148263">
         <mark key="[" line="10" column="52" />
       </file>
@@ -92,6 +97,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/RunCodeStepperFragment.java" timestamp="1461747038436">
         <mark key="[" line="60" column="50" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/glide_activity.xml" timestamp="1465701840677">
+        <mark key="]" line="38" column="35" />
+        <mark key="^" line="25" column="32" />
+        <mark key="." line="38" column="35" />
+        <mark key="[" line="38" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/RunCodeFragment.java" timestamp="1461827055681">
         <mark key="[" line="74" column="8" />
@@ -223,8 +234,20 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/webview/WebViewActivity.java" timestamp="1465142417080">
         <mark key="[" line="20" column="63" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/glide/GlideActivity.java" timestamp="1465703502200">
+        <mark key="]" line="128" column="46" />
+        <mark key="^" line="128" column="46" />
+        <mark key="." line="128" column="46" />
+        <mark key="[" line="128" column="42" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/BaseRunFragment.java" timestamp="1463553005499">
         <mark key="[" line="55" column="43" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/glide_list_item.xml" timestamp="1465703583394">
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="31" />
+        <mark key="[" line="12" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Nari/app/src/main/java/nari/bocai/com/nari/bean/DeviceEffectChartBean.java" timestamp="1460560791694">
         <mark key="[" line="7" column="36" />
@@ -402,6 +425,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/activity/RepairActivity.java" timestamp="1464620667656">
         <mark key="[" line="311" column="58" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/glide/GlideListActivity.java" timestamp="1465701319179">
+        <mark key="]" line="75" column="23" />
+        <mark key="." line="75" column="23" />
+        <mark key="[" line="75" column="23" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/isas_net_fragment.xml" timestamp="1464763066889">
         <mark key="]" line="129" column="41" />
         <mark key="^" line="129" column="41" />
@@ -426,7 +454,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/BasePresenter.java" timestamp="1461986888266">
         <mark key="[" line="8" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465287296501">
+      <file name="/Dummy.txt" timestamp="1465698855214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable-v21/selector_round_blue_small.xml" timestamp="1464155961885">
@@ -517,50 +545,50 @@
       <jump line="155" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/DashboadLoadListActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgUmVxdWVzdEJvZHkgZmlsZUJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUoTWVkaWFUeXBlLnBhcnNlKCJpbWFnZS9qcGVnIiksIGZpbGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>MyTools.createImageFile().getPath()</text>
+        <text>wrap_content</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+      <register name="3" type="4">
+        <text>match_parent</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFJlcXVlc3RCb2R5IGZpbGVCb2R5ID0gUmVxdWVzdEJvZHkuY3JlYXRlKE1lZGlhVHlwZS5wYXJzZSgiYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtIiksIGZpbGUpOwo=</text>
+      <register name="2" type="4">
+        <text>wrap_content</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgUmVxdWVzdEJvZHkgZmlsZUJvZHkgPSBSZXF1ZXN0Qm9keS5jcmVhdGUoTWVkaWFUeXBlLnBhcnNlKCJpbWFnZS9qcGVnIiksIGZpbGUpOwo=</text>
+      <register name="1" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudFRyYW5zYWN0aW9uIGZ0ID0gZm0uYmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBmaWxlUGF0aCA9ICBnZXRFeHRlcm5hbENhY2hlRGlyKCkuZ2V0UGF0aCgpICsgIi8iICsgZmlsZU5hbWU7Cgo=</text>
+      <register name="7" type="4">
+        <text>ListView</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUobUltZ1BhdGhzLmdldChpKSk7Cg==</text>
+      <register name="6" type="4">
+        <text>listfooter</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQml0bWFwIGJtcCA9IEJpdG1hcEZhY3RvcnkuZGVjb2RlRmlsZShtSW1nUGF0aHMuZ2V0KGkpKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHB1YmxpYyBNeUxpc3RWaWV3KENvbnRleHQgY29udGV4dCkgewogICAgICAgIHN1cGVyKGNvbnRleHQpOwogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYm1wID0gRmlsZVV0aWxzLmNvbXByZXNzSW1hZ2VTaXplKGJtcCk7Cg==</text>
+      <register name="4" type="4">
+        <text>wrap_content</text>
       </register>
-      <register name="9" type="4">
-        <text>MyTools.createImageFile().getPath()</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucGxhY2Vob2xkZXIoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgRmlsZVV0aWxzLnNhdmVCaXRtYXAyZmlsZShibXAsIGZpbGVQYXRoKTsK</text>
+      <register name="8" type="4">
+        <text>mContext</text>
       </register>
     </registers>
     <search>
