@@ -335,8 +335,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DatabaseControllerBean.java" timestamp="1460165898674">
         <mark key="[" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/scroll_recycler_activity.xml" timestamp="1465786935479">
-        <mark key="[" line="5" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/scroll_recycler_activity.xml" timestamp="1465803017062">
+        <mark key="[" line="1" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/utils/ItemClickSupport.java" timestamp="1465281369806">
         <mark key="[" line="59" column="45" />
@@ -527,8 +527,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/chart/RedisLineChartPresenter.java" timestamp="1463391483895">
         <mark key="[" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/recyclerviewsample/ScrollRecyclerActivity.java" timestamp="1465782550332">
-        <mark key="[" line="12" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/recyclerviewsample/ScrollRecyclerActivity.java" timestamp="1465802885840">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="23" />
+        <mark key="." line="44" column="23" />
+        <mark key="^" line="39" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/IsasNetFragment.java" timestamp="1465351633296">
         <mark key="[" line="166" column="0" />
@@ -587,10 +590,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>sectionAdapter</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>sectionAdapter</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -599,37 +602,37 @@
         <text encoding="base64">ICAgICAgICBGcmFnbWVudFRyYW5zYWN0aW9uIGZ0ID0gZm0uYmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>7</text>
+        <text>sectionAdapter</text>
       </register>
       <register name="2" type="4">
-        <text>LinearLayout</text>
+        <text>sectionAdapter</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text>ImageView</text>
+        <text>rootView</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>tvTitle</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>HeaderViewHolder</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbVJ1bkl2LnNldEltYWdlUmVzb3VyY2UoUi5taXBtYXAuaWNfbWFpbl9ydW5fcHJlc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGl0ZW1Ib2xkZXIuaXRlbVZpZXcuc2V0T25DbGlja0xpc3RlbmVyKG5ldyBWaWV3Lk9uQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChnZXRDb250ZXh0KCksIFN0cmluZy5mb3JtYXQoIkNsaWNrZWQgb24gcG9zaXRpb24gIyVzIG9mIFNlY3Rpb24gJXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VjdGlvbkFkYXB0ZXIuZ2V0U2VjdGlvblBvc2l0aW9uKGl0ZW1Ib2xkZXIuZ2V0QWRhcHRlclBvc2l0aW9uKCkpLCB0aXRsZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
+        <text>7</text>
       </register>
       <register name="8" type="4">
-        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
+        <text>LinearLayout</text>
       </register>
       <register name="9" type="4">
-        <text>mColorGray, PorterDuff.Mode.SRC_ATOP</text>
+        <text>ImageView</text>
       </register>
     </registers>
     <search>
