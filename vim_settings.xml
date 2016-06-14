@@ -246,11 +246,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_grid_item.xml" timestamp="1461737149605">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/ServiceFragment.java" timestamp="1465888371680">
-        <mark key="]" line="597" column="24" />
-        <mark key="^" line="576" column="29" />
-        <mark key="." line="597" column="24" />
-        <mark key="[" line="597" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/ServiceFragment.java" timestamp="1465889056460">
+        <mark key="]" line="614" column="79" />
+        <mark key="^" line="620" column="41" />
+        <mark key="." line="614" column="79" />
+        <mark key="[" line="614" column="79" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/java/me/xdj/animatenote/WindowTransitionActivity.java" timestamp="1456566326009">
         <mark key="[" line="14" column="60" />
@@ -632,49 +632,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>convertView</text>
+        <text>getChild</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>convertView</text>
+        <text>getChild</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text>convertView</text>
       </register>
       <register name="2" type="4">
-        <text>h</text>
+        <text>groupTitleList.get(groupPosition)</text>
       </register>
       <register name="1" type="4">
-        <text>convertView</text>
+        <text>getChild</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudFRyYW5zYWN0aW9uIGZ0ID0gZm0uYmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>n</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
-      </register>
-      <register name="5" type="4">
-        <text>n</text>
-      </register>
-      <register name="4" type="4">
         <text>g</text>
       </register>
+      <register name="5" type="4">
+        <text>t</text>
+      </register>
+      <register name="4" type="4">
+        <text>h</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
