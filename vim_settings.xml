@@ -192,8 +192,10 @@
         <mark key="^" line="165" column="54" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/main_service_fragment.xml" timestamp="1465178675250">
-        <mark key="[" line="86" column="49" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/main_service_fragment.xml" timestamp="1465806752262">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/MiddleDetailListBean.java" timestamp="1464340773125">
         <mark key="[" line="7" column="35" />
@@ -591,11 +593,11 @@
       <jump line="155" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/DashboadLoadListActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBEcmF3YWJsZSBkcmF3YWJsZSA9IENvbnRleHRDb21wYXQuZ2V0RHJhd2FibGUobUNvbnRleHQsIFIuZHJhd2FibGUuc2hhcGVfcm91bmRfYmx1ZV9taW4pOwovLyAgICAgICAgICAgIHZpZXdIb2xkZXIubVRpdGxlVHYuc2V0QmFja2dyb3VuZChDb2xvclN0YXRlTGlzdC4pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>com.bocai.chinamobile.ui.widget.My</text>
       </register>
       <register name="-" type="4">
-        <text>sectionAdapter</text>
+        <text>com.bocai.chinamobile.ui.widget.My</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -603,38 +605,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudFRyYW5zYWN0aW9uIGZ0ID0gZm0uYmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBEcmF3YWJsZSBkcmF3YWJsZSA9IENvbnRleHRDb21wYXQuZ2V0RHJhd2FibGUobUNvbnRleHQsIFIuZHJhd2FibGUuc2hhcGVfcm91bmRfYmx1ZV9taW4pOwovLyAgICAgICAgICAgIHZpZXdIb2xkZXIubVRpdGxlVHYuc2V0QmFja2dyb3VuZChDb2xvclN0YXRlTGlzdC4pOwo=</text>
+      <register name="1" type="4">
+        <text>com.bocai.chinamobile.ui.widget.My</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBDbG91ZENvbXBvbmVudHNCZWFuLkRhdGFCZWFuIGRhdGEgPSAoQ2xvdWRDb21wb25lbnRzQmVhbi5EYXRhQmVhbikgZ2V0Q2hpbGQoZ3JvdXBQb3NpdGlvbiwgY2hpbGRQb3NpdGlvbik7Ci8vICAgICAgICAgICAgdmlld0hvbGRlci5tVGV4dC5zZXRUZXh0KGRhdGEuZ2V0Q09NUE9ORU5UX05BTUUoKSk7Ci8vICAgICAgICAgICAgR2xpZGUud2l0aChtQ29udGV4dCkKLy8gICAgICAgICAgICAgICAgICAgIC5sb2FkKENvbnN0YW50c05ldC5CQVNFX1VSTF9MYW9aaG9uZ3lpICsgZGF0YS5nZXRJQ09OX1VSTCgpKQovLyAgICAgICAgICAgICAgICAgICAgLnBsYWNlaG9sZGVyKFIubWlwbWFwLmJnX21hcmtldF9wbGFjZSkKLy8gICAgICAgICAgICAgICAgICAgIC5lcnJvcihSLm1pcG1hcC5iZ19tYXJrZXRfcGxhY2UpCi8vICAgICAgICAgICAgICAgICAgICAuaW50byh2aWV3SG9sZGVyLm1JbWFnZSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBEcmF3YWJsZSBkcmF3YWJsZSA9IENvbnRleHRDb21wYXQuZ2V0RHJhd2FibGUobUNvbnRleHQsIFIuZHJhd2FibGUuc2hhcGVfcm91bmRfYmx1ZV9taW4pOwovLyAgICAgICAgICAgIHZpZXdIb2xkZXIubVRpdGxlVHYuc2V0QmFja2dyb3VuZChDb2xvclN0YXRlTGlzdC4pOwo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNsYXNzIENoaWxkR3JpZFZpZXdIb2xkZXIgewovLyAgICAgICAgICAgIEBCaW5kKFIuaWQuZ3JpZCkKLy8gICAgICAgICAgICBHcmlkVmlldyBtR3JpZDsKLy8KLy8gICAgICAgICAgICBDaGlsZEdyaWRWaWV3SG9sZGVyKFZpZXcgdmlldykgewovLyAgICAgICAgICAgICAgICBCdXR0ZXJLbmlmZS5iaW5kKHRoaXMsIHZpZXcpOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBDbG91ZENvbXBvbmVudHNCZWFuLkRhdGFCZWFuIGRhdGEgPSAoQ2xvdWRDb21wb25lbnRzQmVhbi5EYXRhQmVhbikgZ2V0Q2hpbGQoZ3JvdXBQb3NpdGlvbiwgY2hpbGRQb3NpdGlvbik7Ci8vICAgICAgICAgICAgdmlld0hvbGRlci5tVGV4dC5zZXRUZXh0KGRhdGEuZ2V0Q09NUE9ORU5UX05BTUUoKSk7Ci8vICAgICAgICAgICAgR2xpZGUud2l0aChtQ29udGV4dCkKLy8gICAgICAgICAgICAgICAgICAgIC5sb2FkKENvbnN0YW50c05ldC5CQVNFX1VSTF9MYW9aaG9uZ3lpICsgZGF0YS5nZXRJQ09OX1VSTCgpKQovLyAgICAgICAgICAgICAgICAgICAgLnBsYWNlaG9sZGVyKFIubWlwbWFwLmJnX21hcmtldF9wbGFjZSkKLy8gICAgICAgICAgICAgICAgICAgIC5lcnJvcihSLm1pcG1hcC5iZ19tYXJrZXRfcGxhY2UpCi8vICAgICAgICAgICAgICAgICAgICAuaW50byh2aWV3SG9sZGVyLm1JbWFnZSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>sectionAdapter</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGNsYXNzIENoaWxkR3JpZFZpZXdIb2xkZXIgewovLyAgICAgICAgICAgIEBCaW5kKFIuaWQuZ3JpZCkKLy8gICAgICAgICAgICBHcmlkVmlldyBtR3JpZDsKLy8KLy8gICAgICAgICAgICBDaGlsZEdyaWRWaWV3SG9sZGVyKFZpZXcgdmlldykgewovLyAgICAgICAgICAgICAgICBCdXR0ZXJLbmlmZS5iaW5kKHRoaXMsIHZpZXcpOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0K</text>
       </register>
       <register name="5" type="4">
         <text>sectionAdapter</text>
       </register>
       <register name="6" type="4">
-        <text>rootView</text>
+        <text>sectionAdapter</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text>tvTitle</text>
+        <text>rootView</text>
       </register>
       <register name="8" type="4">
-        <text>HeaderViewHolder</text>
+        <text>tvTitle</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGl0ZW1Ib2xkZXIuaXRlbVZpZXcuc2V0T25DbGlja0xpc3RlbmVyKG5ldyBWaWV3Lk9uQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChnZXRDb250ZXh0KCksIFN0cmluZy5mb3JtYXQoIkNsaWNrZWQgb24gcG9zaXRpb24gIyVzIG9mIFNlY3Rpb24gJXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VjdGlvbkFkYXB0ZXIuZ2V0U2VjdGlvblBvc2l0aW9uKGl0ZW1Ib2xkZXIuZ2V0QWRhcHRlclBvc2l0aW9uKCkpLCB0aXRsZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="9" type="4">
+        <text>HeaderViewHolder</text>
       </register>
     </registers>
     <search>
