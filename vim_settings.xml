@@ -10,11 +10,6 @@
         <mark key="." line="1" column="1" />
         <mark key="[" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketLinePresenter.java" timestamp="1465958234945">
-        <mark key="]" line="112" column="5648" />
-        <mark key="^" line="112" column="5648" />
-        <mark key="." line="112" column="5648" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/FavorFragment.java" timestamp="1465899240524">
         <mark key="]" line="192" column="0" />
         <mark key="." line="192" column="0" />
@@ -38,12 +33,6 @@
         <mark key="]" line="15" column="28" />
         <mark key="." line="15" column="28" />
         <mark key="[" line="15" column="28" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketFragment.java" timestamp="1465958419700">
-        <mark key="]" line="107" column="42" />
-        <mark key="^" line="107" column="42" />
-        <mark key="." line="107" column="42" />
-        <mark key="[" line="107" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/Constants.java" timestamp="1464244148263">
         <mark key="[" line="10" column="52" />
@@ -286,6 +275,9 @@
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1465959751517">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/server_info_group.xml" timestamp="1464227532995">
         <mark key="[" line="0" column="38" />
       </file>
@@ -506,53 +498,184 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ParentData = new Gson().fromJson(
-                &quot;&quot;,
-                AppMarketBean.DataBean.class)</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>null</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="3" type="4">
-        <text>/</text>
+        <text>{\n&quot; +
+                            &quot;  \&quot;errorCode\&quot;: \&quot;0\&quot;,\n&quot; +
+                            &quot;  \&quot;errorDesc\&quot;: \&quot;\&quot;,\n&quot; +
+                            &quot;  \&quot;data\&quot;: [\n&quot; +
+                            &quot;    {\n&quot; +
+                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;全省CRM业务量\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50007\&quot;,\n&quot; +
+                            &quot;      \&quot;SUB_MODULE\&quot;: 0,\n&quot; +
+                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
+                            &quot;      \&quot;SEQ_NO\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;timestamp:时间;value:CRM业务量,crmvalue:全省CRM业务量(测试字段)\&quot;,\n&quot; +
+                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/newcrm/fetchCrmBusinessCurveDataController\&quot;\n&quot; +
+                            &quot;    },\n&quot; +
+                            &quot;    {\n&quot; +
+                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;HA-PROXY\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50004\&quot;,\n&quot; +
+                            &quot;      \&quot;SUB_MODULE\&quot;: 0,\n&quot; +
+                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
+                            &quot;      \&quot;SEQ_NO\&quot;: 2,\n&quot; +
+                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;TIME:名称;TOTAL_SESSION_SCUR:会话数\&quot;,\n&quot; +
+                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/newcrm/fetchHaProxyDataController\&quot;\n&quot; +
+                            &quot;    },\n&quot; +
+                            &quot;    {\n&quot; +
+                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;线程\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50003\&quot;,\n&quot; +
+                            &quot;      \&quot;SUB_MODULE\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
+                            &quot;      \&quot;SEQ_NO\&quot;: 3,\n&quot; +
+                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;CONTAINER_TYPE:系统名称;THREAD_COUNTS:线程数\&quot;,\n&quot; +
+                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 2,\n&quot; +
+                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/newcrm/fetchThreadDataController\&quot;\n&quot; +
+                            &quot;    },\n&quot; +
+                            &quot;    {\n&quot; +
+                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;负载均衡Web连接数\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50008\&quot;,\n&quot; +
+                            &quot;      \&quot;SUB_MODULE\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
+                            &quot;      \&quot;SEQ_NO\&quot;: 4,\n&quot; +
+                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;itemName:名称;value:连接数;timeStamp:时间\&quot;,\n&quot; +
+                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 2,\n&quot; +
+                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/network/fetchNcrmArrayConnectsController\&quot;\n&quot; +
+                            &quot;    },\n&quot; +
+                            &quot;    {\n&quot; +
+                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;ZOOKEEPER\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50001\&quot;,\n&quot; +
+                            &quot;      \&quot;SUB_MODULE\&quot;: 0,\n&quot; +
+                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
+                            &quot;      \&quot;SEQ_NO\&quot;: 5,\n&quot; +
+                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;SERVER_NAME:主机名称;ZNODE_COUNTS:ZNODE数量;CONNECTS:连接数;STATUS:状态\&quot;,\n&quot; +
+                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 2,\n&quot; +
+                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/newcrm/fetchZookeeperDataController\&quot;\n&quot; +
+                            &quot;    },\n&quot; +
+                            &quot;    {\n&quot; +
+                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;REDIS\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50002\&quot;,\n&quot; +
+                            &quot;      \&quot;SUB_MODULE\&quot;: 0,\n&quot; +
+                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
+                            &quot;      \&quot;SEQ_NO\&quot;: 6,\n&quot; +
+                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;SERVER_NAME:主机名称;KEYS:KEYS;CONNECTS:连接数;MEM_USED:内存\&quot;,\n&quot; +
+                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 2,\n&quot; +
+                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/newcrm/fetchRedisDataController\&quot;\n&quot; +
+                            &quot;    },\n&quot; +
+                            &quot;    {\n&quot; +
+                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;数据库健康状况\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50005\&quot;,\n&quot; +
+                            &quot;      \&quot;SUB_MODULE\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
+                            &quot;      \&quot;SEQ_NO\&quot;: 7,\n&quot; +
+                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;COMP_ALIAS:数据库名称;HEALTH_VALUE:分数;GATH_TIME:采集时间\&quot;,\n&quot; +
+                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 2,\n&quot; +
+                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/appMarket/fetchNewCrmDatabaseController\&quot;\n&quot; +
+                            &quot;    },\n&quot; +
+                            &quot;    {\n&quot; +
+                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;服务器健康状况\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50006\&quot;,\n&quot; +
+                            &quot;      \&quot;SUB_MODULE\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
+                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
+                            &quot;      \&quot;SEQ_NO\&quot;: 8,\n&quot; +
+                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;hostname:主机名;value:CPU利用率;timestamp:采集时间\&quot;,\n&quot; +
+                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 2,\n&quot; +
+                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
+                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/appMarket/fetchCrmServerPerfDataController\&quot;\n&quot; +
+                            &quot;    }\n&quot; +
+                            &quot;  ]\n&quot; +
+                            &quot;}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8gLy8gVE9ETzogMTYvNi8xNSAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGlmIChpZHggPT0gMSk=</text>
       </register>
       <register name="1" type="4">
-        <text>ParentData = new Gson().fromJson(
-                &quot;&quot;,
-                AppMarketBean.DataBean.class)</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWJlci5kKGpzb25FbGVtZW50LnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAganNvbkVsZW1lbnQgPSBKc29uVXRpbHMuZ2V0Um9vdEVsZW1lbnQoIiIpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>app_market_list_item</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDphcHBjb21wYXQtdjc6MjMuMS4xJwo=</text>
+      <register name="6" type="4">
+        <text>/</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6cmVjeWNsZXJ2aWV3LXY3OjIzLjEuMScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8gLy8gVE9ETzogMTYvNi8xNSAgCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ParentData = new Gson().fromJson(
+                &quot;&quot;,
+                AppMarketBean.DataBean.class)</text>
       </register>
-      <register name="9" type="4">
-        <text>light_gray</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDphcHBjb21wYXQtdjc6MjMuMS4xJwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>white</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6cmVjeWNsZXJ2aWV3LXY3OjIzLjEuMScK</text>
       </register>
     </registers>
     <search>
