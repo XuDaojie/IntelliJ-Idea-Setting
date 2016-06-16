@@ -112,10 +112,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/FetchSwitchOverBean.java" timestamp="1460606094918">
         <mark key="[" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/MainActivity.java" timestamp="1466060736782">
-        <mark key="]" line="73" column="24" />
-        <mark key="." line="73" column="24" />
-        <mark key="[" line="73" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/MainActivity.java" timestamp="1466061700750">
+        <mark key="]" line="92" column="42" />
+        <mark key="." line="92" column="42" />
+        <mark key="[" line="92" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/res/values/styles.xml" timestamp="1462379866385">
         <mark key="[" line="17" column="12" />
@@ -298,7 +298,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_server_chart_activity.xml" timestamp="1461638280923">
         <mark key="[" line="7" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1466058715903">
+      <file name="/a.dummy" timestamp="1466061986212">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.txt" timestamp="1461748803291">
@@ -530,49 +530,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>doubleBack</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>doubleBack</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDpjYXJkdmlldy12NzoyMy4xLjEnCg==</text>
+      <register name="3" type="4">
+        <text>false</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>mDoubleBack</text>
       </register>
       <register name="1" type="4">
-        <text>false</text>
+        <text>doubleBack</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="4">
-        <text>gradl</text>
+        <text>123456</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="6" type="4">
-        <text>13883064211</text>
-      </register>
-      <register name="5" type="4">
-        <text>123456</text>
-      </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6cmVjeWNsZXJ2aWV3LXY3OjIzLjEuMScK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDpjYXJkdmlldy12NzoyMy4xLjEnCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyMy4xLjEnCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>gradl</text>
+      </register>
+      <register name="8" type="4">
+        <text>13883064211</text>
       </register>
     </registers>
     <search>
