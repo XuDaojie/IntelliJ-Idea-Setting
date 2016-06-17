@@ -91,7 +91,7 @@
         <mark key="[" line="351" column="9" />
         <mark key="x" line="153" column="23" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/common/Event.java" timestamp="1466129445696">
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/common/Event.java" timestamp="1466133722904">
         <mark key="]" line="9" column="19" />
         <mark key="." line="9" column="19" />
         <mark key="[" line="10" column="66" />
@@ -339,14 +339,16 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/App.java" timestamp="1463623911902">
         <mark key="[" line="23" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/model/imp/UserInfoModelImp.java" timestamp="1466130645258">
-        <mark key="[" line="561" column="52" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/model/imp/UserInfoModelImp.java" timestamp="1466134074922">
+        <mark key="]" line="521" column="83" />
+        <mark key="." line="521" column="83" />
+        <mark key="[" line="521" column="83" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/OrderFragment.java" timestamp="1466130557952">
-        <mark key="]" line="199" column="47" />
-        <mark key="^" line="199" column="47" />
-        <mark key="." line="199" column="47" />
-        <mark key="[" line="50" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/OrderFragment.java" timestamp="1466133745012">
+        <mark key="]" line="201" column="47" />
+        <mark key="^" line="201" column="47" />
+        <mark key="." line="201" column="47" />
+        <mark key="[" line="120" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/lifecycle_fragment.xml" timestamp="1464917259882">
         <mark key="[" line="11" column="44" />
@@ -460,29 +462,27 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else if (TextUtils.equals(orderState, ConstantsNet.PARAM_ORDER_PENDING_PAYMENT)) {
-
-                            }</text>
+        <text>取消订单</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>pending_payment</text>
+        <text>取消订单</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="4">
-        <text>pending_payment</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>else if (TextUtils.equals(orderState, ConstantsNet.PARAM_ORDER_PENDING_PAYMENT)) {
 
                             }</text>
+      </register>
+      <register name="1" type="4">
+        <text>取消订单</text>
       </register>
       <register name="0" type="2">
         <text />
@@ -494,16 +494,16 @@
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text>CURRENT_FRAGMENT</text>
-      </register>
-      <register name="5" type="4">
         <text>fragments</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>CURRENT_FRAGMENT</text>
       </register>
+      <register name="4" type="4">
+        <text>pending_payment</text>
+      </register>
       <register name="9" type="4">
-        <text>isVisibleToUser</text>
+        <text>CURRENT_FRAGMENT</text>
       </register>
       <register name="8" type="4">
         <text>CURRENT_FRAGMENT</text>
