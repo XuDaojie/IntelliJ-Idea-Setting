@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
@@ -179,11 +179,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/login/LoginContact.java" timestamp="1462158776653">
         <mark key="[" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/msg_list_frag.xml" timestamp="1466393731582">
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="[" line="5" column="41" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/msg_list_frag.xml" timestamp="1466410981006">
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="[" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/MiddleCriticalBean.java" timestamp="1464331790597">
         <mark key="[" line="7" column="33" />
@@ -304,9 +303,6 @@
         <mark key="[" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/bean/AddOrderBean.java" timestamp="1466392533157" />
-      <file name="/a.dummy" timestamp="1466388608832">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
       </file>
@@ -407,6 +403,7 @@
         <mark key="." line="624" column="40" />
         <mark key="[" line="624" column="40" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/OrderFragment.java" timestamp="1466410769487" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/lifecycle_fragment.xml" timestamp="1464917259882">
         <mark key="[" line="11" column="44" />
       </file>
@@ -424,9 +421,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/MyGridView.java" timestamp="1465714323033">
         <mark key="[" line="26" column="57" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1466156356212">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable-v21/selector_round_blue_small.xml" timestamp="1464155961885">
         <mark key="[" line="8" column="11" />
@@ -475,11 +469,11 @@
       <file name="vim_settings.xml" timestamp="1465788609761">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/MsgListFragment.java" timestamp="1466392997484">
-        <mark key="]" line="104" column="75" />
-        <mark key="^" line="100" column="92" />
-        <mark key="." line="104" column="75" />
-        <mark key="[" line="104" column="75" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/MsgListFragment.java" timestamp="1466410776069">
+        <mark key="]" line="107" column="75" />
+        <mark key="^" line="103" column="92" />
+        <mark key="." line="107" column="75" />
+        <mark key="[" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/MiddleStateBean.java" timestamp="1464337578697">
         <mark key="[" line="5" column="29" />
@@ -532,49 +526,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>LinearLayout</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>LinearLayout</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="4">
-        <text>r</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkLyIK</text>
       </register>
       <register name="2" type="4">
-        <text>a</text>
+        <text>LinearLayout</text>
       </register>
       <register name="1" type="4">
-        <text>y</text>
+        <text>LinearLayout</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="4">
-        <text>getData</text>
+        <text>r</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text>getDetailData</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>y</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52NC53aWRnZXQuU3dpcGVSZWZyZXNoTGF5b3V0CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC8i</text>
       </register>
       <register name="9" type="4">
-        <text>DataEntity</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>DataDetailEntity</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
