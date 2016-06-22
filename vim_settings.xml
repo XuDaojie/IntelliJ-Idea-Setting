@@ -307,11 +307,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/view_stub_view.xml" timestamp="1464015438294">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/QuestionBackAty.java" timestamp="1466561881754">
-        <mark key="]" line="55" column="57" />
-        <mark key="^" line="52" column="63" />
-        <mark key="." line="55" column="57" />
-        <mark key="[" line="55" column="57" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/QuestionBackAty.java" timestamp="1466564116833">
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="[" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketPiePresenter.java" timestamp="1462788785409">
         <mark key="[" line="5" column="35" />
@@ -339,6 +338,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_server_chart_activity.xml" timestamp="1461638280923">
         <mark key="[" line="7" column="36" />
+      </file>
+      <file name="/a.dummy" timestamp="1466564455440">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
@@ -443,11 +445,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/bean/UnreadMsgQtyBean.java" timestamp="1466149371112">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_question_back_aty.xml" timestamp="1466561112850">
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_question_back_aty.xml" timestamp="1466564259562">
         <mark key="]" line="27" column="24" />
         <mark key="^" line="27" column="42" />
         <mark key="." line="27" column="24" />
-        <mark key="[" line="27" column="24" />
+        <mark key="[" line="56" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DatabaseControllerBean.java" timestamp="1460165898674">
         <mark key="[" line="5" column="37" />
@@ -504,9 +506,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable-v21/selector_round_blue_small.xml" timestamp="1464155961885">
         <mark key="[" line="8" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1466556310411">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/src/main/res/layout/app_bar_main.xml" timestamp="1454770787872">
         <mark key="[" line="23" column="50" />
       </file>
@@ -530,6 +529,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/PackageInfo.java" timestamp="1462434500556">
         <mark key="[" line="3" column="28" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/LoginAty.java" timestamp="1466564014799" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/AppMarketListFragment.java" timestamp="1462433959391">
         <mark key="[" line="5" column="34" />
       </file>
@@ -628,8 +628,8 @@
       <jump line="153" column="22" filename="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/BasketFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>内容不能为空</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy/pqozor4HmiYvmnLrnmoTmoLzlvI/lpoLmnpzkuI3mmK8KLy8gICAgICAgICAgICAgICAgICAgIGlmICghQ29tbW9uVXRpbHMuaXNNb2JpbGVOTyhTdHJpbmdIZWxwZXIuZ2V0RWRpdFRleHRDb250ZW50KGVVc2VyTmFtZSkpKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3RIZWxwZXIuc2hvd0NvbmZpcm0oTG9naW5BdHkudGhpcywgZ2V0U3RyaW5nKFIuc3RyaW5nLnRvYXN0X2xvZ2luX3Bob25lX2Vycm9yKSk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwovLyAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -641,37 +641,37 @@
         <text>jkeh</text>
       </register>
       <register name="3" type="4">
-        <text>/aty_setting_et_back</text>
-      </register>
-      <register name="2" type="4">
         <text>this</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>内容不能为空</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy/pqozor4HmiYvmnLrnmoTmoLzlvI/lpoLmnpzkuI3mmK8KLy8gICAgICAgICAgICAgICAgICAgIGlmICghQ29tbW9uVXRpbHMuaXNNb2JpbGVOTyhTdHJpbmdIZWxwZXIuZ2V0RWRpdFRleHRDb250ZW50KGVVc2VyTmFtZSkpKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3RIZWxwZXIuc2hvd0NvbmZpcm0oTG9naW5BdHkudGhpcywgZ2V0U3RyaW5nKFIuc3RyaW5nLnRvYXN0X2xvZ2luX3Bob25lX2Vycm9yKSk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwovLyAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="4">
-        <text>eeeee</text>
+        <text>api/v1/Feedback/Suggestion</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text>api/v1/Feedback/Suggestion</text>
-      </register>
-      <register name="5" type="4">
         <text>suggesion</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>SuggestBean</text>
       </register>
+      <register name="4" type="4">
+        <text>/aty_setting_et_back</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52NC53aWRnZXQuU3BhY2UKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMTBkcCIvPg==</text>
+        <text>color</text>
       </register>
       <register name="8" type="4">
-        <text>color</text>
+        <text>eeeee</text>
       </register>
     </registers>
     <search>
