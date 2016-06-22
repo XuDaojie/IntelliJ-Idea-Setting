@@ -74,11 +74,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/FetchDomainsBean.java" timestamp="1461736309673">
         <mark key="[" line="56" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/MineFragment.java" timestamp="1466504777174">
-        <mark key="]" line="163" column="62" />
-        <mark key="^" line="110" column="18" />
-        <mark key="." line="163" column="62" />
-        <mark key="[" line="163" column="62" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/MineFragment.java" timestamp="1466576247465">
+        <mark key="]" line="165" column="62" />
+        <mark key="^" line="112" column="18" />
+        <mark key="." line="165" column="62" />
+        <mark key="[" line="47" column="68" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/paas_dcos_fragment.xml" timestamp="1464597160427">
         <mark key="[" line="6" column="61" />
@@ -88,6 +88,11 @@
         <mark key="^" line="421" column="13" />
         <mark key="." line="428" column="48" />
         <mark key="[" line="428" column="48" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/App.java" timestamp="1466575351545">
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/RunCodeStepperFragment.java" timestamp="1461747038436">
         <mark key="[" line="60" column="50" />
@@ -104,11 +109,20 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/life_cycle_activity.xml" timestamp="1464915874123">
         <mark key="[" line="17" column="38" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/AllFoodFragment.java" timestamp="1466576240591">
+        <mark key="[" line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BusModuleBean.java" timestamp="1463543126406">
         <mark key="[" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/FetchSwitchOverBean.java" timestamp="1460606094918">
         <mark key="[" line="7" column="34" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/MainActivity.java" timestamp="1466577810333">
+        <mark key="]" line="100" column="12" />
+        <mark key="^" line="81" column="70" />
+        <mark key="." line="100" column="12" />
+        <mark key="[" line="100" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/common/Event.java" timestamp="1466151424202">
         <mark key="]" line="9" column="19" />
@@ -245,6 +259,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Nari/app/src/main/res/layout/chart_real_time_fragment.xml" timestamp="1460559971201">
         <mark key="[" line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/BasketFragment.java" timestamp="1466576215628">
+        <mark key="[" line="45" column="133" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_light_gray_border_left.xml" timestamp="1465900040041">
         <mark key="[" line="10" column="28" />
@@ -482,6 +499,9 @@
         <mark key="." line="35" column="38" />
         <mark key="[" line="35" column="38" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/HomeFragment.java" timestamp="1466576194627">
+        <mark key="[" line="51" column="177" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/lifecycle_fragment.xml" timestamp="1464917259882">
         <mark key="[" line="11" column="44" />
       </file>
@@ -628,52 +648,54 @@
       <jump line="153" column="22" filename="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/BasketFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>FragmentTransaction ft = fm.beginTransaction();
+            ft.remove()</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>HomeFragment.TA</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGlmIChDb250ZXh0Q29tcGF0LmNoZWNrU2VsZlBlcm1pc3Npb24odGhpcywgTWFuaWZlc3QucGVybWlzc2lvbi5XUklURV9FWFRFUk5BTF9TVE9SQUdFKQogICAgICAgICAgICAgICAgICAgICE9IFBhY2thZ2VNYW5hZ2VyLlBFUk1JU1NJT05fR1JBTlRFRCkgewogICAgICAgICAgICB9</text>
+        <text>HomeFragment.TA</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGNocm9tZTovL2luc3BlY3QvI2RldmljZXMK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIG1GcmFnbWVudHMuYWRkKGZtLmZpbmRGcmFnbWVudEJ5VGFnKCJGcmFnbWVudF9UQUdfIiArIDIpKTsKICAgICAgICAgICAgbUZyYWdtZW50cy5hZGQoZm0uZmluZEZyYWdtZW50QnlUYWcoIkZyYWdtZW50X1RBR18iICsgMykpOw==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>FragmentTransaction ft = fm.beginTransaction();
+            ft.remove()</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
-      <register name="7" type="4">
-        <text>//    public static DisplayImageOptions options_round; // DisplayImageOptions是用于设置图片显示的类</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="6" type="4">
-        <text>String</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>this</text>
+        <text>if (fragment == null) {
+            
+        }</text>
       </register>
       <register name="4" type="4">
-        <text>ActivityCompat.requestPermissions(this,
-                        new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
-                        WRITE_EXTERNAL_STORAGE);</text>
+        <text>Fragments.get(index).getClass().getName()</text>
       </register>
       <register name="9" type="4">
-        <text>thisActivity</text>
+        <text encoding="base64">IGlmIChDb250ZXh0Q29tcGF0LmNoZWNrU2VsZlBlcm1pc3Npb24odGhpcywgTWFuaWZlc3QucGVybWlzc2lvbi5XUklURV9FWFRFUk5BTF9TVE9SQUdFKQogICAgICAgICAgICAgICAgICAgICE9IFBhY2thZ2VNYW5hZ2VyLlBFUk1JU1NJT05fR1JBTlRFRCkgewogICAgICAgICAgICB9</text>
       </register>
-      <register name="8" type="4">
-        <text>MY_PERMISSIONS_REQUEST_ACCESS_COARSE_LOCATION</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vICAgIGNocm9tZTovL2luc3BlY3QvI2RldmljZXMK</text>
       </register>
     </registers>
     <search>
