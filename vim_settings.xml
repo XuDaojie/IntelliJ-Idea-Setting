@@ -38,16 +38,23 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/README.md" timestamp="1456973158713">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/PaySuccessActivity.java" timestamp="1466588397761">
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
-        <mark key="[" line="13" column="29" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/PaySuccessActivity.java" timestamp="1466594392970">
+        <mark key="]" line="89" column="37" />
+        <mark key="^" line="74" column="16" />
+        <mark key="." line="89" column="37" />
+        <mark key="[" line="89" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BusinessTargetBean.java" timestamp="1462948904083">
         <mark key="[" line="5" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunDcosListActivity.java" timestamp="1461748332393">
         <mark key="[" line="57" column="58" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/utils/FileUtils.java" timestamp="1466593245810">
+        <mark key="]" line="44" column="25" />
+        <mark key="^" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="[" line="44" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/adapter/ShopPromotionsListAdapter.java" timestamp="1460547046725">
         <mark key="[" line="29" column="27" />
@@ -289,6 +296,9 @@
         <mark key="." line="7" column="0" />
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/adapter/HomeRecommendAdp.java" timestamp="1466594510632">
+        <mark key="[" line="44" column="15" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/SuggestBackAty.java" timestamp="1466561241233" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/main_service_fragment.xml" timestamp="1465178675250">
         <mark key="[" line="86" column="49" />
@@ -453,8 +463,8 @@
         <mark key="." line="35" column="38" />
         <mark key="[" line="35" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/HomeFragment.java" timestamp="1466589357340">
-        <mark key="[" line="51" column="177" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/HomeFragment.java" timestamp="1466593966217">
+        <mark key="[" line="82" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/lifecycle_fragment.xml" timestamp="1464917259882">
         <mark key="[" line="11" column="44" />
@@ -596,52 +606,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wrap_content</text>
+        <text>mActivity</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>mActivity</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="3" type="4">
-        <text>PaymentActivity</text>
+        <text>mActivity</text>
       </register>
       <register name="2" type="4">
-        <text>aty_helpcenter_namer</text>
+        <text>mActivity</text>
       </register>
       <register name="1" type="4">
-        <text>wrap_content</text>
+        <text>mActivity</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="4">
-        <text>else {
-                        mProgress.
-                    }</text>
+        <text>wrap_content</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text>Bind(R.id.container)
-    FrameLayout mContainer;</text>
+        <text>home</text>
       </register>
       <register name="5" type="4">
-        <text>Horizontal</text>
+        <text>mActivity</text>
       </register>
       <register name="4" type="4">
-        <text>wrap_content</text>
+        <text>todayRecommendList</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>PaymentActivity</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>aty_helpcenter_namer</text>
       </register>
     </registers>
     <search>
