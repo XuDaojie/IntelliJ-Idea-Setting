@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
@@ -19,6 +19,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/layout/activity_property.xml" timestamp="1455197398512">
         <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/bean/request/QuestionBackBean.java" timestamp="1466561063198">
+        <mark key="[" line="5" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/util/TextHelper.java" timestamp="1466130878860">
         <mark key="[" line="5" column="24" />
@@ -80,11 +83,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/paas_dcos_fragment.xml" timestamp="1464597160427">
         <mark key="[" line="6" column="61" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/net/UserService.java" timestamp="1466473100476">
-        <mark key="]" line="421" column="15" />
-        <mark key="^" line="413" column="127" />
-        <mark key="." line="421" column="15" />
-        <mark key="[" line="421" column="15" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/net/UserService.java" timestamp="1466561073996">
+        <mark key="]" line="428" column="48" />
+        <mark key="^" line="421" column="13" />
+        <mark key="." line="428" column="48" />
+        <mark key="[" line="428" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/RunCodeStepperFragment.java" timestamp="1461747038436">
         <mark key="[" line="60" column="50" />
@@ -297,14 +300,18 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/WebViewActivity.java" timestamp="1463640889980">
         <mark key="[" line="43" column="34" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/SuggestBackAty.java" timestamp="1466561241233" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/main_service_fragment.xml" timestamp="1465178675250">
         <mark key="[" line="86" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/view_stub_view.xml" timestamp="1464015438294">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/QuestionBackAty.java" timestamp="1466559421257">
-        <mark key="[" line="10" column="29" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/QuestionBackAty.java" timestamp="1466561881754">
+        <mark key="]" line="55" column="57" />
+        <mark key="^" line="52" column="63" />
+        <mark key="." line="55" column="57" />
+        <mark key="[" line="55" column="57" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketPiePresenter.java" timestamp="1462788785409">
         <mark key="[" line="5" column="35" />
@@ -439,11 +446,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/bean/UnreadMsgQtyBean.java" timestamp="1466149371112">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_question_back_aty.xml" timestamp="1466559714575">
-        <mark key="]" line="18" column="28" />
-        <mark key="^" line="50" column="28" />
-        <mark key="." line="18" column="28" />
-        <mark key="[" line="18" column="28" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_question_back_aty.xml" timestamp="1466561112850">
+        <mark key="]" line="27" column="24" />
+        <mark key="^" line="27" column="42" />
+        <mark key="." line="27" column="24" />
+        <mark key="[" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DatabaseControllerBean.java" timestamp="1460165898674">
         <mark key="[" line="5" column="37" />
@@ -625,49 +632,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eeeee</text>
+        <text>内容不能为空</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>eeeee</text>
+        <text>内容不能为空</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52NC53aWRnZXQuU3BhY2UKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMTBkcCIvPg==</text>
+        <text>/aty_setting_et_back</text>
       </register>
       <register name="2" type="4">
-        <text>color</text>
+        <text>this</text>
       </register>
       <register name="1" type="4">
-        <text>eeeee</text>
+        <text>内容不能为空</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="4">
-        <text>paddingLeft</text>
+        <text>eeeee</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text>SuggestBackAty</text>
+        <text>api/v1/Feedback/Suggestion</text>
       </register>
       <register name="5" type="4">
-        <text>common_background</text>
+        <text>suggesion</text>
       </register>
       <register name="4" type="4">
-        <text>grey</text>
+        <text>SuggestBean</text>
       </register>
       <register name="9" type="4">
-        <text>dialog_view_pop_tish</text>
+        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52NC53aWRnZXQuU3BhY2UKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMTBkcCIvPg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjEwZHAiCg==</text>
+      <register name="8" type="4">
+        <text>color</text>
       </register>
     </registers>
     <search>
