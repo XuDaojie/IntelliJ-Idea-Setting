@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
@@ -231,7 +231,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/RedisClusterBean.java" timestamp="1463129555594">
         <mark key="[" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/values/colors.xml" timestamp="1466156723013">
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/values/colors.xml" timestamp="1466559687177">
         <mark key="[" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_grid_item.xml" timestamp="1461737149605">
@@ -302,6 +302,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/view_stub_view.xml" timestamp="1464015438294">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/QuestionBackAty.java" timestamp="1466559421257">
+        <mark key="[" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketPiePresenter.java" timestamp="1462788785409">
         <mark key="[" line="5" column="35" />
@@ -436,10 +439,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/bean/UnreadMsgQtyBean.java" timestamp="1466149371112">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_question_back_aty.xml" timestamp="1466557790176">
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="[" line="23" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_question_back_aty.xml" timestamp="1466559714575">
+        <mark key="]" line="18" column="28" />
+        <mark key="^" line="50" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="[" line="18" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DatabaseControllerBean.java" timestamp="1460165898674">
         <mark key="[" line="5" column="37" />
@@ -620,50 +624,50 @@
       <jump line="153" column="22" filename="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/BasketFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjEwZHAiCg==</text>
+      <register name="&quot;" type="4">
+        <text>eeeee</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>dialog_view_pop_tish</text>
+        <text>eeeee</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9saW5fc2hhcGVfc3VnZ2VzdF9iYWNrIgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52NC53aWRnZXQuU3BhY2UKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMTBkcCIvPg==</text>
       </register>
       <register name="2" type="4">
-        <text>dialog_view_pop_tish</text>
+        <text>color</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjEwZHAiCg==</text>
+      <register name="1" type="4">
+        <text>eeeee</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgaW5pdEV2ZW50KCkgewogICAgICAgIHN1cGVyLmluaXRFdmVudCgpOwogICAgICAgIFJ4QWRhcHRlclZpZXcuaXRlbUNsaWNrcyhtTGlzdCkKICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUocG9zaXRpb24gLT4gewogICAgICAgICAgICAgICAgICAgIE1zZ1F1ZXVlTGlzdEJlYW4uRGF0YUJlYW4gYmVhbiA9IChNc2dRdWV1ZUxpc3RCZWFuLkRhdGFCZWFuKSBtTGlzdC5nZXRJdGVtQXRQb3NpdGlvbihwb3NpdGlvbik7CgogICAgICAgICAgICAgICAgfSk7CiAgICB9</text>
+        <text>paddingLeft</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text>getMsgQueueList</text>
+        <text>SuggestBackAty</text>
       </register>
       <register name="5" type="4">
-        <text>9</text>
+        <text>common_background</text>
       </register>
       <register name="4" type="4">
-        <text>xxx</text>
+        <text>grey</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>dialog_view_pop_tish</text>
       </register>
-      <register name="8" type="4">
-        <text>MsgQueueListBean</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjEwZHAiCg==</text>
       </register>
     </registers>
     <search>
