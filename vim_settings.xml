@@ -38,11 +38,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/README.md" timestamp="1456973158713">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/PaySuccessActivity.java" timestamp="1466644232149">
-        <mark key="]" line="47" column="60" />
-        <mark key="^" line="48" column="50" />
-        <mark key="." line="47" column="60" />
-        <mark key="[" line="47" column="60" />
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/PaySuccessActivity.java" timestamp="1466644928268">
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="[" line="104" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BusinessTargetBean.java" timestamp="1462948904083">
         <mark key="[" line="5" column="29" />
@@ -349,7 +349,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_server_chart_activity.xml" timestamp="1461638280923">
         <mark key="[" line="7" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1466587810391">
+      <file name="/a.dummy" timestamp="1466645479035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.txt" timestamp="1461748803291">
@@ -416,6 +416,11 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/colors.xml" timestamp="1460885989420">
         <mark key="[" line="11" column="38" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/item_product.xml" timestamp="1466645363619">
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="[" line="4" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/androidTest/java/com/bocai/chinamobile/ApplicationTest.java" timestamp="1463365629687">
         <mark key="[" line="7" column="3" />
@@ -494,9 +499,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable-v21/selector_round_blue_small.xml" timestamp="1464155961885">
         <mark key="[" line="8" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1466586729592">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_help_list_aty.xml" timestamp="1466579888036">
         <mark key="[" line="4" column="41" />
@@ -611,13 +613,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>match_parent</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -626,34 +628,34 @@
         <text>mActivity</text>
       </register>
       <register name="2" type="4">
-        <text>mActivity</text>
+        <text>null</text>
       </register>
       <register name="1" type="4">
-        <text>null</text>
+        <text>match_parent</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="4">
-        <text>home</text>
+        <text>mActivity</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text>mActivity</text>
+        <text>todayRecommendList</text>
       </register>
       <register name="5" type="4">
-        <text>todayRecommendList</text>
+        <text>mActivity</text>
       </register>
       <register name="4" type="4">
         <text>mActivity</text>
       </register>
       <register name="9" type="4">
-        <text>aty_helpcenter_namer</text>
+        <text>wrap_content</text>
       </register>
       <register name="8" type="4">
-        <text>wrap_content</text>
+        <text>home</text>
       </register>
     </registers>
     <search>
