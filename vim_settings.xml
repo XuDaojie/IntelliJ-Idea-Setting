@@ -183,7 +183,7 @@
         <mark key="^" line="16" column="25" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnimationsDemo/app/src/main/java/com/example/android/animationsdemo/ZoomActivity.java" timestamp="1467024634931">
+      <file name="$USER_HOME$/AndroidStudioProjects/AnimationsDemo/app/src/main/java/com/example/android/animationsdemo/ZoomActivity.java" timestamp="1467044607518">
         <mark key="[" line="128" column="52" />
         <mark key="]" line="128" column="51" />
         <mark key="^" line="128" column="51" />
@@ -494,11 +494,11 @@
       <file name="vim_settings.xml" timestamp="1465788609761">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/java/me/xdj/animatenote/PropertyActivity.java" timestamp="1467040882401">
-        <mark key="[" line="24" column="50" />
-        <mark key="]" line="22" column="40" />
-        <mark key="^" line="22" column="40" />
-        <mark key="." line="22" column="40" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/java/me/xdj/animatenote/PropertyActivity.java" timestamp="1467045045284">
+        <mark key="[" line="62" column="75" />
+        <mark key="]" line="62" column="75" />
+        <mark key="^" line="75" column="63" />
+        <mark key="." line="62" column="75" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/paas_dcos_fragment.xml" timestamp="1464597160427">
         <mark key="[" line="6" column="61" />
@@ -643,11 +643,6 @@
         <mark key="]" line="93" column="9" />
         <mark key="." line="93" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1465373884858">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="1" column="14" filename="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/layout/content_main.xml" />
@@ -692,10 +687,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LinearLayout</text>
+        <text>width</text>
       </register>
       <register name="-" type="4">
-        <text>LinearLayout</text>
+        <text>width</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -704,537 +699,37 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>LinearLayout</text>
+        <text>width</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IE9iamVjdEFuaW1hdG9yIGFuaW1hdG9yID0gbmV3IE9iamVjdEFuaW1hdG9yKCk7CiAgICAgICAgICAgICAgICBhbmltYXRvci5zZXREdXJhdGlvbigyMDAwKTs=</text>
+        <text>width</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1JbWcuc2V0U2NhbGVYKDJmKTsKICAgICAgICAgICAgICAgIG1JbWcuc2V0U2NhbGVZKDJmKTsK</text>
+      <register name="3" type="4">
+        <text>height</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTdGF0ZW1lbnRXaXRoRW1wdHlCb2R5IikK</text>
+      <register name="4" type="4">
+        <text>width</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjIzLjQuMCcK</text>
+      <register name="5" type="4">
+        <text>height</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52NC53aWRnZXQuTmVzdGVkU2Nyb2xsVmlldyB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCg==</text>
+      <register name="6" type="4">
+        <text>LinearLayout</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text>create</text>
+        <text encoding="base64">IE9iamVjdEFuaW1hdG9yIGFuaW1hdG9yID0gbmV3IE9iamVjdEFuaW1hdG9yKCk7CiAgICAgICAgICAgICAgICBhbmltYXRvci5zZXREdXJhdGlvbigyMDAwKTs=</text>
       </register>
-      <register name="8" type="4">
-        <text>// TODO: 16/6/15 测试
-            appModuleBean = new Gson().fromJson(
-                    &quot;{\n&quot; +
-                            &quot;  \&quot;errorCode\&quot;: \&quot;0\&quot;,\n&quot; +
-                            &quot;  \&quot;errorDesc\&quot;: \&quot;\&quot;,\n&quot; +
-                            &quot;  \&quot;data\&quot;: [\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;全省CRM业务量\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50007\&quot;,\n&quot; +
-                            &quot;      \&quot;SUB_MODULE\&quot;: 0,\n&quot; +
-                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
-                            &quot;      \&quot;SEQ_NO\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;timestamp:时间;value:CRM业务量(测试字段);crmvalue:全省CRM业务量(测试字段)\&quot;,\n&quot; +
-                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/newcrm/fetchCrmBusinessCurveDataController\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;HA-PROXY\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50004\&quot;,\n&quot; +
-                            &quot;      \&quot;SUB_MODULE\&quot;: 0,\n&quot; +
-                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
-                            &quot;      \&quot;SEQ_NO\&quot;: 2,\n&quot; +
-                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;TIME:名称;TOTAL_SESSION_SCUR:会话数\&quot;,\n&quot; +
-                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/newcrm/fetchHaProxyDataController\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;线程\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50003\&quot;,\n&quot; +
-                            &quot;      \&quot;SUB_MODULE\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
-                            &quot;      \&quot;SEQ_NO\&quot;: 3,\n&quot; +
-                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;CONTAINER_TYPE:系统名称;THREAD_COUNTS:线程数\&quot;,\n&quot; +
-                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 2,\n&quot; +
-                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/newcrm/fetchThreadDataController\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;负载均衡Web连接数\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50008\&quot;,\n&quot; +
-                            &quot;      \&quot;SUB_MODULE\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
-                            &quot;      \&quot;SEQ_NO\&quot;: 4,\n&quot; +
-                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;itemName:名称;value:连接数;timeStamp:时间\&quot;,\n&quot; +
-                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 2,\n&quot; +
-                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/network/fetchNcrmArrayConnectsController\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;ZOOKEEPER\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50001\&quot;,\n&quot; +
-                            &quot;      \&quot;SUB_MODULE\&quot;: 0,\n&quot; +
-                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
-                            &quot;      \&quot;SEQ_NO\&quot;: 5,\n&quot; +
-                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;SERVER_NAME:主机名称;ZNODE_COUNTS:ZNODE数量;CONNECTS:连接数;STATUS:状态\&quot;,\n&quot; +
-                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 2,\n&quot; +
-                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/newcrm/fetchZookeeperDataController\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;REDIS\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50002\&quot;,\n&quot; +
-                            &quot;      \&quot;SUB_MODULE\&quot;: 0,\n&quot; +
-                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
-                            &quot;      \&quot;SEQ_NO\&quot;: 6,\n&quot; +
-                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;SERVER_NAME:主机名称;KEYS:KEYS;CONNECTS:连接数;MEM_USED:内存\&quot;,\n&quot; +
-                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 2,\n&quot; +
-                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/newcrm/fetchRedisDataController\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;数据库健康状况\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50005\&quot;,\n&quot; +
-                            &quot;      \&quot;SUB_MODULE\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
-                            &quot;      \&quot;SEQ_NO\&quot;: 7,\n&quot; +
-                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;COMP_ALIAS:数据库名称;HEALTH_VALUE:分数;GATH_TIME:采集时间\&quot;,\n&quot; +
-                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 2,\n&quot; +
-                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/appMarket/fetchNewCrmDatabaseController\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;APP_NAME\&quot;: \&quot;新CRM\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_PROVIDER\&quot;: \&quot;iBruce\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_NAME\&quot;: \&quot;服务器健康状况\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_MODULE_ID\&quot;: \&quot;50006\&quot;,\n&quot; +
-                            &quot;      \&quot;SUB_MODULE\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;APP_ICON_URL\&quot;: \&quot;/iToolChain/appMarketIcon/crm.png\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_CREATED\&quot;: \&quot;2016-05-11 00:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;APP_ID\&quot;: \&quot;bfeaa949ca261f67efae94ea45d00809\&quot;,\n&quot; +
-                            &quot;      \&quot;SEQ_NO\&quot;: 8,\n&quot; +
-                            &quot;      \&quot;DATA_FIELDS\&quot;: \&quot;hostname:主机名;value:CPU利用率;timestamp:采集时间\&quot;,\n&quot; +
-                            &quot;      \&quot;DISPLAY_TYPE\&quot;: 2,\n&quot; +
-                            &quot;      \&quot;APP_STATUS\&quot;: 1,\n&quot; +
-                            &quot;      \&quot;REQUEST_URL\&quot;: \&quot;http://laozhongyi.zj.chinamobile.com:8080/iToolChain/api/appMarket/fetchCrmServerPerfDataController\&quot;\n&quot; +
-                            &quot;    }\n&quot; +
-                            &quot;  ]\n&quot; +
-                            &quot;}&quot;,
-                    AppModuleBean.class);
-            JsonElement jsonElement = JsonUtils.getRootElement(
-                    &quot;{\n&quot; +
-                            &quot;  \&quot;errorCode\&quot;: \&quot;0\&quot;,\n&quot; +
-                            &quot;  \&quot;errorDesc\&quot;: \&quot;\&quot;,\n&quot; +
-                            &quot;  \&quot;appModuleCode\&quot;: \&quot;50007\&quot;,\n&quot; +
-                            &quot;  \&quot;data\&quot;: [\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 03:35:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;11\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 03:40:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;12\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 03:45:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;15\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 03:50:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;12\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 03:55:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;12\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 04:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;11\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 04:05:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;16\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 04:10:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;13\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 04:15:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;11\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 04:20:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;6\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 04:25:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;9\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 04:30:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;7\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 04:35:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;11\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 04:40:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;15\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 04:45:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;23\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 04:50:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;12\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 04:55:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;14\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 05:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;13\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 05:05:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;22\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 05:10:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;20\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 05:15:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;31\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 05:20:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;30\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 05:25:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;41\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 05:30:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;33\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 05:35:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;35\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 05:40:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;48\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 05:45:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;39\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 05:50:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;43\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 05:55:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;37\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 06:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;52\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 06:05:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;61\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 06:10:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;71\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 06:15:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;52\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 06:20:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;70\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 06:25:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;79\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 06:30:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;73\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;1060\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 06:35:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;76\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 06:40:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;97\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 06:45:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;87\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 06:50:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;101\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 06:55:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;94\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 07:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;130\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 07:05:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;181\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 07:10:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;210\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 07:15:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;206\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 07:20:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;281\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 07:25:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;283\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 07:30:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;298\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 07:35:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;349\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 07:40:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;383\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 07:45:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;406\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;14\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 07:50:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;447\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 07:55:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;462\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 08:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;527\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 08:05:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;700\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;700\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 08:10:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;1019\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 08:15:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;1235\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 08:20:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;1572\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 08:25:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;1822\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 08:30:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;2007\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 08:35:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;2038\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 08:40:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;2106\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 08:45:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;2210\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 08:50:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;2068\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 08:55:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;2001\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 09:00:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;2190\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 09:05:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;2294\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 09:10:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;2260\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 09:15:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;2562\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 09:20:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;2489\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    },\n&quot; +
-                            &quot;    {\n&quot; +
-                            &quot;      \&quot;timestamp\&quot;: \&quot;2016-06-15 09:25:00\&quot;,\n&quot; +
-                            &quot;      \&quot;value\&quot;: \&quot;2534\&quot;,\n&quot; +
-                            &quot;      \&quot;crmvalue\&quot;: \&quot;12\&quot;\n&quot; +
-                            &quot;    }\n&quot; +
-                            &quot;  ]\n&quot; +
-                            &quot;}&quot;
-            );</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1JbWcuc2V0U2NhbGVYKDJmKTsKICAgICAgICAgICAgICAgIG1JbWcuc2V0U2NhbGVZKDJmKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>yValsArray</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTdGF0ZW1lbnRXaXRoRW1wdHlCb2R5IikK</text>
       </register>
     </registers>
     <search>
