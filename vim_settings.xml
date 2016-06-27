@@ -494,7 +494,12 @@
       <file name="vim_settings.xml" timestamp="1465788609761">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/java/me/xdj/animatenote/PropertyActivity.java" timestamp="1467022467747" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/java/me/xdj/animatenote/PropertyActivity.java" timestamp="1467040882401">
+        <mark key="[" line="24" column="50" />
+        <mark key="]" line="22" column="40" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="40" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/paas_dcos_fragment.xml" timestamp="1464597160427">
         <mark key="[" line="6" column="61" />
       </file>
@@ -595,8 +600,10 @@
       <file name="/a.regexp" timestamp="1461748781094">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/layout/activity_property.xml" timestamp="1455197398512">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/layout/activity_property.xml" timestamp="1467040849319">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/list_fragment.xml" timestamp="1463552151612">
         <mark key="[" line="16" column="63" />
@@ -685,10 +692,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IE9iamVjdEFuaW1hdG9yIGFuaW1hdG9yID0gbmV3IE9iamVjdEFuaW1hdG9yKCk7CiAgICAgICAgICAgICAgICBhbmltYXRvci5zZXREdXJhdGlvbigyMDAwKTs=</text>
+        <text>LinearLayout</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>LinearLayout</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -697,30 +704,33 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IE9iamVjdEFuaW1hdG9yIGFuaW1hdG9yID0gbmV3IE9iamVjdEFuaW1hdG9yKCk7CiAgICAgICAgICAgICAgICBhbmltYXRvci5zZXREdXJhdGlvbigyMDAwKTs=</text>
+        <text>LinearLayout</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1JbWcuc2V0U2NhbGVYKDJmKTsKICAgICAgICAgICAgICAgIG1JbWcuc2V0U2NhbGVZKDJmKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IE9iamVjdEFuaW1hdG9yIGFuaW1hdG9yID0gbmV3IE9iamVjdEFuaW1hdG9yKCk7CiAgICAgICAgICAgICAgICBhbmltYXRvci5zZXREdXJhdGlvbigyMDAwKTs=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTdGF0ZW1lbnRXaXRoRW1wdHlCb2R5IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1JbWcuc2V0U2NhbGVYKDJmKTsKICAgICAgICAgICAgICAgIG1JbWcuc2V0U2NhbGVZKDJmKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjIzLjQuMCcK</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTdGF0ZW1lbnRXaXRoRW1wdHlCb2R5IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52NC53aWRnZXQuTmVzdGVkU2Nyb2xsVmlldyB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjIzLjQuMCcK</text>
       </register>
-      <register name="6" type="4">
-        <text>create</text>
+      <register name="6" type="2">
+        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52NC53aWRnZXQuTmVzdGVkU2Nyb2xsVmlldyB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
+        <text>create</text>
+      </register>
+      <register name="8" type="4">
         <text>// TODO: 16/6/15 测试
             appModuleBean = new Gson().fromJson(
                     &quot;{\n&quot; +
@@ -1223,11 +1233,8 @@
                             &quot;}&quot;
             );</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>yValsArray</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lRGF0YSA9IG5ldyBKc29uVXRpbHMuZ2V0Um9vdEVsZW1lbnQoKTsK</text>
       </register>
     </registers>
     <search>
