@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
@@ -314,8 +314,11 @@
         <mark key="." line="10" column="21" />
         <mark key="[" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketPresenter.java" timestamp="1466996915289">
-        <mark key="[" line="99" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketPresenter.java" timestamp="1466998430778">
+        <mark key="]" line="218" column="94" />
+        <mark key="^" line="325" column="70" />
+        <mark key="." line="218" column="94" />
+        <mark key="[" line="218" column="94" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/ConstantsNet.java" timestamp="1464224931096">
         <mark key="[" line="16" column="106" />
@@ -405,9 +408,6 @@
         <mark key="[" line="7" column="36" />
       </file>
       <file name="/a.txt" timestamp="1461748803291">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1466996517935">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/net/RetrofitManager.java" timestamp="1466751370669">
@@ -681,49 +681,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>消息队列3级页面</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>消息队列3级页面</text>
+        <text>null</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChqc29uRWxlbWVudCAhPSBodG1sT2JqZWN0KSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIVRleHRIZWxwZXIuZXF1YWxzKCIwIiwgSnNvblV0aWxzLmdldEVycm9yQ29kZShqc29uRWxlbWVudCkpKSB7Ci8vCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbU1hcmtldFZpZXcuaGlkZUxvYWRpbmcoKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkVycm9yKG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigpKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>消息队列3级页面</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>String</text>
       </register>
       <register name="1" type="4">
-        <text>消息队列3级页面</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG1FbnRyaWVzLnNpemUoKSA9PSBhcHBNb2R1bGVCZWFuLmdldERhdGEoKS5zaXplKCkpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1NYXJrZXRWaWV3LnNob3dBcHBMaXN0KGFwcE1vZHVsZUJlYW4sIG1FbnRyaWVzKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1NYXJrZXRWaWV3LmhpZGVMb2FkaW5nKCk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXBwTWFya2V0VXRpbHMuZ2V0RGF0YUluZGV4KGFwcE1vZHVsZUJlYW4sIGpzb25FbGVtZW50KTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE86IDE2LzUvMTMK</text>
       </register>
-      <register name="9" type="4">
-        <text>deleteAddress</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChqc29uRWxlbWVudCAhPSBodG1sT2JqZWN0KSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIVRleHRIZWxwZXIuZXF1YWxzKCIwIiwgSnNvblV0aWxzLmdldEVycm9yQ29kZShqc29uRWxlbWVudCkpKSB7Ci8vCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbU1hcmtldFZpZXcuaGlkZUxvYWRpbmcoKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkVycm9yKG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigpKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG1FbnRyaWVzLnNpemUoKSA9PSBhcHBNb2R1bGVCZWFuLmdldERhdGEoKS5zaXplKCkpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1NYXJrZXRWaWV3LnNob3dBcHBMaXN0KGFwcE1vZHVsZUJlYW4sIG1FbnRyaWVzKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1NYXJrZXRWaWV3LmhpZGVMb2FkaW5nKCk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXBwTWFya2V0VXRpbHMuZ2V0RGF0YUluZGV4KGFwcE1vZHVsZUJlYW4sIGpzb25FbGVtZW50KTsK</text>
       </register>
     </registers>
     <search>
