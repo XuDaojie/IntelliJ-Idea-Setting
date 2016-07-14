@@ -29,12 +29,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/adapter/ConfirmProductAdp.java" timestamp="1466056422287">
         <mark key="[" line="53" column="84" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/MineFragment.java" timestamp="1468458483508">
-        <mark key="]" line="125" column="18" />
-        <mark key="^" line="125" column="18" />
-        <mark key="." line="125" column="18" />
-        <mark key="[" line="40" column="48" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/life_cycle_activity.xml" timestamp="1464915874123">
         <mark key="[" line="17" column="38" />
       </file>
@@ -254,11 +248,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/ServerTargetBean.java" timestamp="1461650697875">
         <mark key="[" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/downloadmanager/DownloadManagerActivity.java" timestamp="1468382415655">
-        <mark key="]" line="15" column="57" />
-        <mark key="^" line="15" column="57" />
-        <mark key="." line="15" column="57" />
-        <mark key="[" line="15" column="58" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/downloadmanager/DownloadManagerActivity.java" timestamp="1468477237612">
+        <mark key="]" line="16" column="57" />
+        <mark key="^" line="16" column="57" />
+        <mark key="." line="16" column="57" />
+        <mark key="[" line="16" column="58" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/bean/request/QuestionBackBean.java" timestamp="1466646805583">
         <mark key="[" line="5" column="31" />
@@ -269,11 +263,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/Constants.java" timestamp="1464244148263">
         <mark key="[" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/UpdateUtils.java" timestamp="1468375383893">
-        <mark key="]" line="39" column="18" />
-        <mark key="^" line="39" column="18" />
-        <mark key="." line="39" column="18" />
-        <mark key="[" line="21" column="50" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/UpdateUtils.java" timestamp="1468476754836">
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/README.md" timestamp="1456973158713">
         <mark key="[" line="0" column="1" />
@@ -415,12 +408,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/WeatherAppForKotlin/app/build.gradle" timestamp="1457418419141">
         <mark key="[" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/MainActivity.java" timestamp="1468475399018">
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="[" line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunServerManagerDetailActivity.java" timestamp="1468394530432">
         <mark key="]" line="218" column="34" />
         <mark key="^" line="154" column="77" />
@@ -477,11 +464,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/colors.xml" timestamp="1460885989420">
         <mark key="[" line="11" column="38" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/build.gradle" timestamp="1468475380481">
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="[" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/androidTest/java/com/bocai/chinamobile/ApplicationTest.java" timestamp="1463365629687">
         <mark key="[" line="7" column="3" />
@@ -604,8 +586,8 @@
       <jump line="41" column="56" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/tipview/TipViewActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getLoginInfo().getData().getLOGIN_TOKEN_KEY())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -616,47 +598,38 @@
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKHNhdmVkSW5zdGFuY2VTdGF0ZSAhPSBudWxsKSB7Ci8vICAgICAgICAgICAgbUFwcElkID0gc2F2ZWRJbnN0YW5jZVN0YXRlLmdldFN0cmluZyhBUFBfSUQpOwovLyAgICAgICAgICAgIG1BcHBNb2R1bGVJZCA9IHNhdmVkSW5zdGFuY2VTdGF0ZS5nZXRTdHJpbmcoQVBQX01PVURVTEVfSUQpOwovLyAgICAgICAgICAgIG1UaXRsZSA9IHNhdmVkSW5zdGFuY2VTdGF0ZS5nZXRTdHJpbmcoVElUTEUpOwogICAgICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlyVG9rZW4gPSAiMWU0NWQ1MjEyZTAyMWQ3ZjAwY2UyNTc1OTg0OTNjNDYiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCdW5kbGUgYnVuZGxlID0gZ2V0SW50ZW50KCkuZ2V0RXh0cmFzKCk7CiAgICAgICAgaWYgKGJ1bmRsZSAhPSBudWxsKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="4">
-        <text>/            ft.replace(R.id.favor_fl, mFavorFrag);
-//
-//            ft.replace(R.id.isas_net_fl, mIsasNetFrag);
-//            ft.replace(R.id.isas_server_fl, mIsasServerFrag);
-//
-//            ft.replace(R.id.paas_between_fl, mPaasBetweenFrag);
-//            ft.replace(R.id.paas_big_data_fl, mPaasBigDataFrag);
-//            ft.replace(R.id.paas_db_fl, mPaasDbFrag);
-//            ft.replace(R.id.paas_docs_fl, mDcosFrag);
-//            ft.commit();</text>
+        <text encoding="base64">QVBQX01PVURVTEVfSUQgPSAiYXBwX21vdWR1bGVfaWQiOwo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgKHNhdmVkSW5zdGFuY2VTdGF0ZSAhPSBudWxsKSB7Ci8vICAgICAgICAgICAgbUFwcElkID0gc2F2ZWRJbnN0YW5jZVN0YXRlLmdldFN0cmluZyhBUFBfSUQpOwovLyAgICAgICAgICAgIG1BcHBNb2R1bGVJZCA9IHNhdmVkSW5zdGFuY2VTdGF0ZS5nZXRTdHJpbmcoQVBQX01PVURVTEVfSUQpOwovLyAgICAgICAgICAgIG1UaXRsZSA9IHNhdmVkSW5zdGFuY2VTdGF0ZS5nZXRTdHJpbmcoVElUTEUpOwogICAgICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">QVBQX01PVURVTEVfSUQgPSAiYXBwX21vdWR1bGVfaWQiOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBCdW5kbGUgYnVuZGxlID0gZ2V0SW50ZW50KCkuZ2V0RXh0cmFzKCk7CiAgICAgICAgaWYgKGJ1bmRsZSAhPSBudWxsKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBtUmVkID0gIiNGRTAwMDAiOwogICAgcHJpdmF0ZSBTdHJpbmcgbU9yYW5nZSA9ICIjRkU4RTA0IjsKICAgIHByaXZhdGUgU3RyaW5nIG1HcmVlbiA9ICIjNjVCNzZEIjsK</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
