@@ -26,7 +26,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketLineFragment.java" timestamp="1468549907934">
         <mark key="[" line="215" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/res/layout/activity_date_picker.xml" timestamp="1468829778201">
+      <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/res/layout/activity_date_picker.xml" timestamp="1468831772495">
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="[" line="18" column="0" />
@@ -58,6 +58,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/adapter/ConfirmProductAdp.java" timestamp="1466056422287">
         <mark key="[" line="53" column="84" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/res/layout-v21/date_picker_view.xml" timestamp="1468831796439">
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="[" line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/MineFragment.java" timestamp="1468511541850">
         <mark key="[" line="141" column="19" />
       </file>
@@ -80,11 +85,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxErrorService.java" timestamp="1462447541370">
         <mark key="[" line="32" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/java/com/bocai/bocutilandroid/features/DatePickerActivity.java" timestamp="1468822986712">
-        <mark key="]" line="44" column="3" />
-        <mark key="^" line="44" column="3" />
-        <mark key="." line="44" column="3" />
-        <mark key="[" line="34" column="40" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/java/com/bocai/bocutilandroid/features/DatePickerActivity.java" timestamp="1468831604562">
+        <mark key="]" line="36" column="114" />
+        <mark key="^" line="37" column="78" />
+        <mark key="." line="36" column="114" />
+        <mark key="[" line="36" column="114" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/MsgLisrAty.java" timestamp="1466384749286">
         <mark key="[" line="9" column="24" />
@@ -211,7 +216,7 @@
         <mark key="[" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/SublimePicker/sublimepickerlibrary/src/main/java/com/appeaser/sublimepickerlibrary/datepicker/SimpleMonthView.java" timestamp="1468812978030" />
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/platforms/android-23/data/res/layout/date_picker_dialog.xml" timestamp="1468823387368" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/platforms/android-23/data/res/layout/date_picker_dialog.xml" timestamp="1468830953882" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/MsgQueueBean.java" timestamp="1466491100218">
         <mark key="[" line="8" column="27" />
       </file>
@@ -340,7 +345,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/change_pwd_activity.xml" timestamp="1468513074078">
         <mark key="[" line="43" column="39" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-23/android/app/DatePickerDialog.java" timestamp="1468823113235" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-23/android/app/DatePickerDialog.java" timestamp="1468831591405" />
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/refresh/src/main/java/me/xdj/refresh/HeaderViewRecyclerAdapter.java" timestamp="1456973702476">
         <mark key="[" line="9" column="39" />
       </file>
@@ -479,7 +484,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/MyGridView.java" timestamp="1465714323033">
         <mark key="[" line="26" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468813451484">
+      <file name="/Dummy.txt" timestamp="1468830837443">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -504,6 +509,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/ChangePwdActivity.java" timestamp="1464683389265">
         <mark key="[" line="108" column="111" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/res/layout/date_picker_view.xml" timestamp="1468830962265">
+        <mark key="[" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable-v21/selector_white_border_left.xml" timestamp="1465900207923">
         <mark key="[" line="3" column="60" />
@@ -557,50 +565,51 @@
       <jump line="41" column="56" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/tipview/TipViewActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>android:calendarViewShown=&quot;false&quot;</text>
+        <text>false</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGVQaWNrZXIgZGF0ZVBpY2tlciA9IAogICAgICAgICAgICAgICAgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA8IEJ1aWxkLlZFUlNJT05fQ09ERVMuSE9ORVlDT01CKSB7CiAgICAgICAgICAgICAgICAgICAgKChWaWV3R3JvdXApIGRhdGVQaWNrZXIuZ2V0Q2hpbGRBdCgwKSkuZ2V0Q2hpbGRBdCgxKS5zZXRWaXNpYmlsaXR5KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgVmlldy5HT05FKTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UIDwgQnVpbGQuVkVSU0lPTl9DT0RFUy5JQ0VfQ1JFQU1fU0FORFdJQ0gpIHsKICAgICAgICAgICAgICAgICAgICAoKFZpZXdHcm91cCkgKChWaWV3R3JvdXApIGRhdGVQaWNrZXIuZ2V0Q2hpbGRBdCgwKSkuZ2V0Q2hpbGRBdCgwKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRDaGlsZEF0KDEpLnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+      <register name="2" type="4">
+        <text>((ViewGroup) ((ViewGroup) dp.getChildAt(0)).getChildAt(0))
+                        .getChildAt(1).setVisibility(View.GONE);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGVQaWNrZXIgZHAgPSBkYXRlUGlja2VyRGlhbG9nLmdldERhdGVQaWNrZXIoKTsK</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIiCg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgLy8gVE9ETzogYWRkIHNldENvbnRlbnRWaWV3KC4uLikgaW52b2NhdGlvbgogICAgICAgIEJ1dHRlcktuaWZlLmJpbmQodGhpcyk7CiAgICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIiCg==</text>
-      </register>
-      <register name="4" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIC8vIFRPRE86IGFkZCBzZXRDb250ZW50VmlldyguLi4pIGludm9jYXRpb24KICAgICAgICBCdXR0ZXJLbmlmZS5iaW5kKHRoaXMpOwogICAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldGNvbnRlbnQK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGVQaWNrZXIgZGF0ZVBpY2tlciA9IAogICAgICAgICAgICAgICAgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA8IEJ1aWxkLlZFUlNJT05fQ09ERVMuSE9ORVlDT01CKSB7CiAgICAgICAgICAgICAgICAgICAgKChWaWV3R3JvdXApIGRhdGVQaWNrZXIuZ2V0Q2hpbGRBdCgwKSkuZ2V0Q2hpbGRBdCgxKS5zZXRWaXNpYmlsaXR5KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgVmlldy5HT05FKTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UIDwgQnVpbGQuVkVSU0lPTl9DT0RFUy5JQ0VfQ1JFQU1fU0FORFdJQ0gpIHsKICAgICAgICAgICAgICAgICAgICAoKFZpZXdHcm91cCkgKChWaWV3R3JvdXApIGRhdGVQaWNrZXIuZ2V0Q2hpbGRBdCgwKSkuZ2V0Q2hpbGRBdCgwKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRDaGlsZEF0KDEpLnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgLy8gVE9ETzogYWRkIHNldENvbnRlbnRWaWV3KC4uLikgaW52b2NhdGlvbgogICAgICAgIEJ1dHRlcktuaWZlLmJpbmQodGhpcyk7CiAgICB9</text>
       </register>
     </registers>
     <search>
