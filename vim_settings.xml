@@ -81,7 +81,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunDcosListActivity.java" timestamp="1461748332393">
         <mark key="[" line="57" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/DashboadBetweenListDetailsActivity.java" timestamp="1468550011121">
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/DashboadBetweenListDetailsActivity.java" timestamp="1468809460095">
         <mark key="[" line="84" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/download_manager_activity.xml" timestamp="1468377454852">
@@ -186,6 +186,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/MsgLisrAty.java" timestamp="1466384749286">
         <mark key="[" line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BetweenHealthFragment.java" timestamp="1468809938929" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/change_pwd_activity.xml" timestamp="1468513074078">
         <mark key="[" line="43" column="39" />
       </file>
@@ -351,7 +352,7 @@
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1468568500707">
+      <file name="/a.dummy" timestamp="1468809461267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/server_info_group.xml" timestamp="1464227532995">
@@ -590,8 +591,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable-v21/selector_white_border_left.xml" timestamp="1465900207923">
         <mark key="[" line="3" column="60" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BetweenCriticalFragment.java" timestamp="1464683893749">
-        <mark key="[" line="69" column="33" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BetweenCriticalFragment.java" timestamp="1468810127667">
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="[" line="87" column="41" />
       </file>
       <file name="vim_settings.xml" timestamp="1465788609761">
         <mark key="[" line="0" column="0" />
@@ -645,55 +648,66 @@
       <jump line="41" column="56" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/tipview/TipViewActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>eng</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>eng</text>
+        <text>getSTATUS</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBjaGVjayhDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBjaGVjayhjb250ZXh0LCBmYWxzZSk7CiAgICB9</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="1" type="4">
         <text encoding="base64">bmV3IE9ic2VydmVyPEZpclZlcnNpb25Kc29uPigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25Db21wbGV0ZWQoKSB7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKGUsICLoh6rliqjmm7TmlrAiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV4dChGaXJWZXJzaW9uSnNvbiBqc29uKSB7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9</text>
+      </register>
+      <register name="2" type="4">
+        <text>switch (data.getWARNINGTYPE()) {
+                        case &quot;DOWN&quot;:
+                            warnType = &quot;0&quot;;
+                            break;
+                        case &quot;过载&quot;:
+                            warnType = &quot;1&quot;;
+                            break;
+                        case &quot;正常&quot;:
+                            warnType = &quot;2&quot;;
+                            break;
+                        default:
+                            warnType = &quot;2&quot;;
+                    }</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpc0Rvd25sb2FkaW5nKENPbnRleHQgY0Rvd25sb2FkTWFuYWdlciBkb3dubG9hZE1hbmFnZXIsICkgewo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgIGlzRG93bmxvYWRDb21wbGV0ZWQoQ29udGV4dCBjb250ZXh0LCBEb3dubG9hZE1hbmFnZXIgZG93bmxvYWRNYW5hZ2VyLCBTdHJpbmcgdXJsKSB7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgIGlzRG93bmxvYWRDb21wbGV0ZWQoQ29udGV4dCBjb250ZXh0LCBEb3dubG9hZE1hbmFnZXIgZG93bmxvYWRNYW5hZ2VyLCBTdHJpbmcgdXJsKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgIGlzRG93bmxvYWRDb21wbGV0ZWQoQ29udGV4dCBjb250ZXh0LCBEb3dubG9hZE1hbmFnZXIgZG93bmxvYWRNYW5hZ2VyLCBTdHJpbmcgdXJsKSB7Cg==</text>
-      </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>**
      * 
      * @param context
      * @param installCompelted 
      */</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBjaGVjayhDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBjaGVjayhjb250ZXh0LCBmYWxzZSk7CiAgICB9</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>url)) {
-                        Toast.makeText(context, &quot;更新正在下</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpc0Rvd25sb2FkaW5nKENPbnRleHQgY0Rvd25sb2FkTWFuYWdlciBkb3dubG9hZE1hbmFnZXIsICkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgIGlzRG93bmxvYWRDb21wbGV0ZWQoQ29udGV4dCBjb250ZXh0LCBEb3dubG9hZE1hbmFnZXIgZG93bmxvYWRNYW5hZ2VyLCBTdHJpbmcgdXJsKSB7Cg==</text>
       </register>
     </registers>
     <search>
