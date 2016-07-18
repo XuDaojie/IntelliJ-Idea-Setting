@@ -186,7 +186,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/MsgLisrAty.java" timestamp="1466384749286">
         <mark key="[" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BetweenHealthFragment.java" timestamp="1468809938929" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BetweenHealthFragment.java" timestamp="1468810735912">
+        <mark key="[" line="93" column="21" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/change_pwd_activity.xml" timestamp="1468513074078">
         <mark key="[" line="43" column="39" />
       </file>
@@ -204,6 +206,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/refresh/src/main/java/me/xdj/refresh/HeaderViewRecyclerAdapter.java" timestamp="1456973702476">
         <mark key="[" line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BetweenWarnFragment.java" timestamp="1468810844301">
+        <mark key="[" line="86" column="56" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/AppBlockCanaryContext.java" timestamp="1463623999011">
         <mark key="[" line="7" column="35" />
@@ -352,7 +357,7 @@
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1468809461267">
+      <file name="/a.dummy" timestamp="1468811209769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/server_info_group.xml" timestamp="1464227532995">
@@ -525,7 +530,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/MyGridView.java" timestamp="1465714323033">
         <mark key="[" line="26" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468578472138">
+      <file name="/Dummy.txt" timestamp="1468811286544">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -591,10 +596,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable-v21/selector_white_border_left.xml" timestamp="1465900207923">
         <mark key="[" line="3" column="60" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BetweenCriticalFragment.java" timestamp="1468810127667">
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="[" line="87" column="41" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BetweenCriticalFragment.java" timestamp="1468810837166">
+        <mark key="]" line="88" column="33" />
+        <mark key="." line="88" column="33" />
+        <mark key="[" line="88" column="33" />
       </file>
       <file name="vim_settings.xml" timestamp="1465788609761">
         <mark key="[" line="0" column="0" />
@@ -648,8 +653,8 @@
       <jump line="41" column="56" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/tipview/TipViewActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>getSTATUS</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
