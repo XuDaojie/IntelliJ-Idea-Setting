@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
@@ -239,7 +239,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_help_list_aty.xml" timestamp="1466579888036">
         <mark key="[" line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" timestamp="1468888818943" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/LoadBalanceStatistics.java" timestamp="1464762771301">
         <mark key="[" line="8" column="36" />
       </file>
@@ -424,6 +423,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_light_gray_border_left.xml" timestamp="1465900040041">
         <mark key="[" line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Android-PickerView/pickerview/src/main/res/layout/include_pickerview_topbar.xml" timestamp="1468909460136" />
       <file name="$USER_HOME$/AndroidStudioProjects/Android-PickerView/pickerview/src/main/java/com/bigkoo/pickerview/OptionsPickerView.java" timestamp="1468908655811" />
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/AndroidManifest.xml" timestamp="1466750189680">
         <mark key="[" line="21" column="82" />
@@ -440,8 +440,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/README.md" timestamp="1467100694659">
         <mark key="[" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/java/com/bocai/bocutilandroid/widget/PickerView.java" timestamp="1468908531188">
-        <mark key="[" line="12" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/java/com/bocai/bocutilandroid/widget/PickerView.java" timestamp="1468909532388">
+        <mark key="]" line="28" column="65" />
+        <mark key="^" line="28" column="65" />
+        <mark key="." line="28" column="65" />
+        <mark key="[" line="27" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/BaseRunFragment.java" timestamp="1463553005499">
         <mark key="[" line="55" column="43" />
@@ -610,13 +613,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgLy8gVE9ETzogYWRkIHNldENvbnRlbnRWaWV3KC4uLikgaW52b2NhdGlvbgogICAgICAgIEJ1dHRlcktuaWZlLmJpbmQodGhpcyk7CiAgICB9</text>
+        <text>mSubmitBtn</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>mSubmitBtn</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
