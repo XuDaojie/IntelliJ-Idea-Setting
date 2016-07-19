@@ -198,7 +198,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/refresh/src/main/java/me/xdj/refresh/HeaderViewRecyclerAdapter.java" timestamp="1456973702476">
         <mark key="[" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/dagger2/src/main/java/io/github/xudaojie/LoginContact.java" timestamp="1468854394828" />
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/common/MainEvent.java" timestamp="1466068972849">
         <mark key="[" line="10" column="23" />
       </file>
@@ -336,7 +335,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/values/strings.xml" timestamp="1468854793927" />
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/animator/test.xml" timestamp="1467020904038">
         <mark key="[" line="1" column="64" />
       </file>
@@ -358,6 +356,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/adapter/ConfirmProductAdp.java" timestamp="1466056422287">
         <mark key="[" line="53" column="84" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" timestamp="1468941514735" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_alert_list_activity.xml" timestamp="1464865661196">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -377,8 +376,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/BasePresenter.java" timestamp="1461986888266">
         <mark key="[" line="8" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468857429845">
+      <file name="/Dummy.txt" timestamp="1468942285064">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/AndroidManifest.xml" timestamp="1464865902012">
         <mark key="[" line="72" column="72" />
@@ -618,7 +619,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/bean/UnreadMsgQtyBean.java" timestamp="1466149371112">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/values-v21/styles.xml" timestamp="1468854838836" />
       <file name="$USER_HOME$/AndroidStudioProjects/Nari/app/src/main/java/nari/bocai/com/nari/MainActivity.java" timestamp="1464936150237">
         <mark key="[" line="368" column="63" />
         <mark key="]" line="368" column="63" />
@@ -760,7 +760,6 @@
       <file name="vim_settings.xml" timestamp="1465788609761">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/dagger2/src/main/java/io/github/xudaojie/simple/LoginFragment.java" timestamp="1468857018471" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/dagger/DaggerFragment.java" timestamp="1468767300704">
         <mark key="[" line="8" column="28" />
       </file>
@@ -903,10 +902,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LoginActivity</text>
+        <text>注入类均为无参构造函数可无需Modul</text>
       </register>
       <register name="-" type="4">
-        <text>LoginActivity</text>
+        <text>注入类均为无参构造函数可无需Modul</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
