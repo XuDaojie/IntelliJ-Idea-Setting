@@ -277,7 +277,7 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1465984532912">
+      <file name="/a.dummy" timestamp="1468995275181">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable-v21/selector_gray_press.xml" timestamp="1465379183784">
@@ -294,7 +294,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunStepperActivity.java" timestamp="1466069620655">
         <mark key="[" line="108" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/login/LoginPresenter.java" timestamp="1468994379124">
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/login/LoginPresenter.java" timestamp="1468995187971">
         <mark key="[" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidNote/gradle/wrapper/gradle-wrapper.properties" timestamp="1457262249275">
@@ -384,6 +384,9 @@
         <mark key="^" line="622" column="38" />
         <mark key="." line="737" column="40" />
         <mark key="[" line="737" column="40" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/login_activity.xml" timestamp="1468996086585">
+        <mark key="[" line="7" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/net/ProductService.java" timestamp="1466683761752">
         <mark key="]" line="80" column="36" />
@@ -751,6 +754,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/BaseRunFragment.java" timestamp="1463553005499">
         <mark key="[" line="55" column="43" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/BaseLifecycle.java" timestamp="1468995253614" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_domain_list_activity.xml" timestamp="1461728469216">
         <mark key="[" line="32" column="45" />
       </file>
@@ -792,6 +796,11 @@
         <mark key="^" line="69" column="11" />
         <mark key="." line="69" column="11" />
         <mark key="[" line="69" column="13" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/login_fragment.xml" timestamp="1468996079601">
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="[" line="112" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_server_chart_activity.xml" timestamp="1461638280923">
         <mark key="[" line="7" column="36" />
@@ -866,8 +875,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DatabaseControllerBean.java" timestamp="1460165898674">
         <mark key="[" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/App.java" timestamp="1463623911902">
-        <mark key="[" line="23" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/App.java" timestamp="1468995880574">
+        <mark key="[" line="22" column="91" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/activity/RepairActivity.java" timestamp="1464620667656">
         <mark key="[" line="311" column="58" />
@@ -900,7 +909,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/MyGridView.java" timestamp="1465714323033">
         <mark key="[" line="26" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1466996546478">
+      <file name="/Dummy.txt" timestamp="1468995275168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/src/main/res/layout/app_bar_main.xml" timestamp="1454770787872">
@@ -998,16 +1007,16 @@
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text />
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="4">
-        <text>M</text>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1016,22 +1025,22 @@
         <text />
       </register>
       <register name="7" type="4">
-        <text>link</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
         <text>holo_red_dark</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>scaleX</text>
       </register>
+      <register name="4" type="4">
+        <text>M</text>
+      </register>
       <register name="9" type="4">
-        <text>ic_launcher</text>
+        <text>link</text>
       </register>
       <register name="8" type="4">
         <text>link</text>
