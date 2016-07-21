@@ -95,6 +95,11 @@
         <mark key="." line="28" column="31" />
         <mark key="[" line="28" column="31" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/MineFragment.java" timestamp="1469068184049">
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="[" line="162" column="19" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/DiscountZoneAty.java" timestamp="1466753704244">
         <mark key="]" line="141" column="78" />
         <mark key="." line="141" column="78" />
@@ -428,7 +433,6 @@
         <mark key="." line="94" column="41" />
         <mark key="[" line="95" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" timestamp="1467017306444" />
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/net/ConstantsNet.java" timestamp="1466751466556">
         <mark key="]" line="11" column="1" />
         <mark key="^" line="11" column="1" />
@@ -675,6 +679,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/AppBlockCanaryContext.java" timestamp="1463623999011">
         <mark key="[" line="7" column="35" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxAccountService.java" timestamp="1469068861798">
+        <mark key="]" line="50" column="63" />
+        <mark key="^" line="42" column="75" />
+        <mark key="." line="50" column="63" />
+        <mark key="[" line="50" column="63" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/core/convert/CustomConverterFactory.java" timestamp="1465956142115">
         <mark key="]" line="46" column="53" />
         <mark key="." line="46" column="53" />
@@ -733,6 +743,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/AndroidManifest.xml" timestamp="1466750189680">
         <mark key="[" line="21" column="82" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/main_mine_fragment.xml" timestamp="1469067780322">
+        <mark key="]" line="110" column="38" />
+        <mark key="^" line="110" column="38" />
+        <mark key="." line="110" column="38" />
+        <mark key="[" line="121" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/ConstantsNet.java" timestamp="1464224931096">
         <mark key="[" line="16" column="106" />
@@ -999,50 +1015,50 @@
       <jump line="41" column="56" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/tipview/TipViewActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>RequestBody</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>RequestBody</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuYm90dG9tX3NwYWNlKQogICAgVmlldyBtQm90dG9tU3BhY2U7Cg==</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>holo_red_dark</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text>holo_red_dark</text>
-      </register>
-      <register name="5" type="4">
         <text>scaleX</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>M</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="4">
         <text>link</text>
       </register>
       <register name="8" type="4">
-        <text>link</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
