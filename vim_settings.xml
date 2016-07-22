@@ -872,8 +872,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/server_info_group.xml" timestamp="1464227532995">
         <mark key="[" line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/menu/menu_run_server.xml" timestamp="1469153237743">
-        <mark key="[" line="1" column="65" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/menu/menu_run_server.xml" timestamp="1469154273128">
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="26" />
+        <mark key="[" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/RealTimeAlertBean.java" timestamp="1464866026429">
         <mark key="]" line="50" column="56" />
@@ -923,6 +926,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/bean/UnreadMsgQtyBean.java" timestamp="1466149371112">
         <mark key="[" line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunServerManagerListActivity.java" timestamp="1469154294495">
+        <mark key="[" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DatabaseControllerBean.java" timestamp="1460165898674">
         <mark key="[" line="5" column="37" />
@@ -1053,13 +1059,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgUm90YXRlRHJhd2FibGUgcm90YXRlRHJhd2FibGUgPSBuZXcgUm90YXRlRHJhd2FibGUoKTsKICAgICAgICByb3RhdGVEcmF3YWJsZS5pbnZhbGlkYXRlRHJhd2FibGUobURvd24pOwogICAgICAgIHJvdGF0ZURyYXdhYmxlLnNldA==</text>
+        <text>always</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>Drawable</text>
+        <text>always</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
