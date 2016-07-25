@@ -1,6 +1,4 @@
-<code_scheme name="Default (1)">
-  <option name="FIELD_NAME_PREFIX" value="m" />
-  <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
+<code_scheme name="Me">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -32,6 +30,9 @@
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <Objective-C-extensions>
     <option name="GENERATE_INSTANCE_VARIABLES_FOR_PROPERTIES" value="ASK" />
     <option name="RELEASE_STYLE" value="IVAR" />
@@ -61,7 +62,6 @@
     </extensions>
   </Objective-C-extensions>
   <XML>
-    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="XML">
