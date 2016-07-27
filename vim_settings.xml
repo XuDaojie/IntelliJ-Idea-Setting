@@ -196,8 +196,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable-v21/selector_white_border_bottom.xml" timestamp="1464243305136">
         <mark key="[" line="3" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadReceiver.java" timestamp="1469586517437">
-        <mark key="[" line="31" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadReceiver.java" timestamp="1469602152349">
+        <mark key="[" line="29" column="55" />
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="30" column="10" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/refresh/src/main/java/me/xdj/refresh/HeaderViewRecyclerAdapter.java" timestamp="1456973702476">
         <mark key="[" line="9" column="39" />
@@ -562,12 +565,12 @@
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadManager.java" timestamp="1469600312743">
-        <mark key="'" line="95" column="91" />
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="26" />
-        <mark key="." line="49" column="26" />
-        <mark key="^" line="51" column="15" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadManager.java" timestamp="1469602453461">
+        <mark key="'" line="80" column="91" />
+        <mark key="[" line="63" column="62" />
+        <mark key="]" line="63" column="62" />
+        <mark key="." line="63" column="62" />
+        <mark key="^" line="149" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/App.java" timestamp="1463623911902">
         <mark key="[" line="23" column="39" />
@@ -697,11 +700,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/animator/card_flip_left_in.xml" timestamp="1466920142632">
         <mark key="[" line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/DownloadManagerActivity.java" timestamp="1469600622641">
-        <mark key="[" line="29" column="123" />
-        <mark key="]" line="112" column="44" />
-        <mark key="." line="112" column="44" />
-        <mark key="^" line="112" column="44" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/DownloadManagerActivity.java" timestamp="1469601968994">
+        <mark key="[" line="34" column="123" />
+        <mark key="]" line="116" column="44" />
+        <mark key="." line="116" column="44" />
+        <mark key="^" line="116" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/activity/RepairActivity.java" timestamp="1464620667656">
         <mark key="[" line="311" column="58" />
@@ -948,10 +951,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>service</text>
+        <text>chain.request()</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>chain.request()</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -959,38 +962,38 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2UK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgT2tEb3dubG9hZE1hbmFnZXIgZ2V0RG93bmxvYWRNYW5hZ2VyKENvbnRleHQgY29udGV4dCkgewogICAgICAgIGZpbmFsIE9rRG93bmxvYWRNYW5hZ2VyW10gZG93bmxvYWRNYW5hZ2VyID0gbmV3IE9rRG93bmxvYWRNYW5hZ2VyWzFdOwogICAgICAgIEludGVudCBpID0gbmV3IEludGVudChjb250ZXh0LCBPa0Rvd25sb2FkTWFuYWdlci5jbGFzcyk7CiAgICAgICAgY29udGV4dC5iaW5kU2VydmljZShpLCBuZXcgU2VydmljZUNvbm5lY3Rpb24oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25TZXJ2aWNlQ29ubmVjdGVkKENvbXBvbmVudE5hbWUgbmFtZSwgSUJpbmRlciBzZXJ2aWNlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIExvZy5kKCJiaW5kU2VydmljZSIsICJTZXJ2aWNlQ29ubmVjdGlvbiIpOwogICAgICAgICAgICAgICAgICAgICAgICBkb3dubG9hZE1hbmFnZXJbMF0gPSAoKE9rRG93bmxvYWRNYW5hZ2VyLk15QnVuZGVyKXNlcnZpY2UpLmdldFNlcnZpY2UoKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBkb3dubG9hZE1hbmFnZXIuZG93bmxvYWQoKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU2VydmljZURpc2Nvbm5lY3RlZChDb21wb25lbnROYW1lIG5hbWUpIHsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgQ29udGV4dC5CSU5EX0FVVE9fQ1JFQVRFKTsKCiAgICAgICAgcmV0dXJuIGRvd25sb2FkTWFuYWdlclswXTsKICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVF1ZXVlLnB1dCh1cmwsIHBlcmNlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2UK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVF1ZXVlLnB1dCh1cmwsIHBlcmNlbnQpOwo=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">IGlmIChtUXVldWUgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1RdWV1ZSA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgSW50ZWdlcj4gbVF1ZXVlOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGRvd25sb2FkTWFuYWdlci5lbnF1ZXVlKCk7CiAgICAgICAgICAgICAgICAgICAgZG93bmxvYWRNYW5hZ2VyLnJlbW92ZSgpOwogICAgICAgICAgICAgICAgICAgIGRvd25sb2FkTWFuYWdlci5wYXN1ZSgpOw==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGRvd25sb2FkTWFuYWdlci5lbnF1ZXVlKCk7CiAgICAgICAgICAgICAgICAgICAgZG93bmxvYWRNYW5hZ2VyLnJlbW92ZSgpOwogICAgICAgICAgICAgICAgICAgIGRvd25sb2FkTWFuYWdlci5wYXN1ZSgpOw==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RvcFNlbGYoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
