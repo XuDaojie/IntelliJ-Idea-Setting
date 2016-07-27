@@ -562,11 +562,12 @@
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadManager.java" timestamp="1469548119532">
-        <mark key="[" line="63" column="74" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="139" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadManager.java" timestamp="1469581113325">
+        <mark key="'" line="83" column="91" />
+        <mark key="[" line="76" column="69" />
+        <mark key="]" line="80" column="71" />
+        <mark key="." line="80" column="71" />
+        <mark key="^" line="80" column="71" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/App.java" timestamp="1463623911902">
         <mark key="[" line="23" column="39" />
@@ -943,13 +944,14 @@
       <jump line="144" column="40" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/ServiceFragment.java" />
       <jump line="184" column="96" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/IsasNetFragment.java" />
       <jump line="41" column="56" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/tipview/TipViewActivity.java" />
+      <jump line="81" column="91" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRvd25sb2FkTWFuYWdlci5lbnF1ZXVlKCk7CiAgICAgICAgICAgICAgICAgICAgZG93bmxvYWRNYW5hZ2VyLnJlbW92ZSgpOwogICAgICAgICAgICAgICAgICAgIGRvd25sb2FkTWFuYWdlci5wYXN1ZSgpOw==</text>
+        <text>chain.request()</text>
       </register>
       <register name="-" type="4">
-        <text>点击继续</text>
+        <text>chain.request()</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
