@@ -38,6 +38,14 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunDcosListActivity.java" timestamp="1461748332393">
         <mark key="[" line="57" column="58" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/base/BaseActivity.java" timestamp="1469672508980">
+        <mark key="[" line="61" column="9" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/values/styles.xml" timestamp="1469672013674">
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="[" line="9" column="20" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/AndroidManifest.xml" timestamp="1469528610295">
         <mark key="]" line="76" column="36" />
         <mark key="." line="76" column="36" />
@@ -202,7 +210,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/app_market_list_item_add.xml" timestamp="1464684647674">
         <mark key="[" line="9" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1469530333810">
+      <file name="/a.dummy" timestamp="1469672518427">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -589,10 +597,10 @@
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/build.gradle" timestamp="1469670104163">
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-        <mark key="[" line="70" column="29" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/build.gradle" timestamp="1469671545346">
+        <mark key="]" line="67" column="63" />
+        <mark key="." line="67" column="63" />
+        <mark key="[" line="67" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/server_info_group.xml" timestamp="1464227532995">
         <mark key="[" line="0" column="38" />
@@ -701,7 +709,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/MyGridView.java" timestamp="1465714323033">
         <mark key="[" line="26" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469530333792">
+      <file name="/Dummy.txt" timestamp="1469672518414">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/src/main/res/layout/app_bar_main.xml" timestamp="1454770787872">
@@ -786,31 +796,49 @@
       <jump line="41" column="56" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/tipview/TipViewActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3.1.0'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZQo=</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>3.1.0'</text>
+        <text>android</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuZG93bmxvYWQpCiAgICBCdXR0b24gbURvd25sb2FkOw==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZGF0ZV9waWNrZXIiPuaXpeacn+mAieaLqTwvc3RyaW5nPgo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZQo=</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="4">
+        <text encoding="base64">IG1Eb3dubG9hZC5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IFZpZXcuT25DbGlja0xpc3RlbmVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgICAgICAgICAgICAgIFN0cmluZyB1cmwgPSAiaHR0cDovL3BrZzMuZmlyLmltLzcxZGEzZGUwMWEyOGNmZjNmOTg4NGFkYTEwMmUyMmZkYmFkYWFiMzUuYXBrP2F0dG5hbWU9YXBwLXJlbGVhc2UuYXBrXzEuMC5hcGsiOwogICAgICAgICAgICAgICAgVXBkYXRlVXRpbHMuYWxlcnREb3dubG9hZCh0aGlzLCB1cmwsICJ2MS4xLjEiLCAi5rKh5ZWl5pu05pawIik7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuZG93bmxvYWQpCiAgICBCdXR0b24gbURvd25sb2FkOw==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgLy8gVE9ETzogYWRkIHNldENvbnRlbnRWaWV3KC4uLikgaW52b2NhdGlvbgogICAgICAgIEJ1dHRlcktuaWZlLmJpbmQodGhpcyk7CiAgICB9Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>mDownload.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -818,24 +846,6 @@
                 UpdateUtils.alertDownload(this, url, &quot;v1.1.1&quot;, &quot;没啥更新&quot;);
             }
         });</text>
-      </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IG1Eb3dubG9hZC5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IFZpZXcuT25DbGlja0xpc3RlbmVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgICAgICAgICAgICAgIFN0cmluZyB1cmwgPSAiaHR0cDovL3BrZzMuZmlyLmltLzcxZGEzZGUwMWEyOGNmZjNmOTg4NGFkYTEwMmUyMmZkYmFkYWFiMzUuYXBrP2F0dG5hbWU9YXBwLXJlbGVhc2UuYXBrXzEuMC5hcGsiOwogICAgICAgICAgICAgICAgVXBkYXRlVXRpbHMuYWxlcnREb3dubG9hZCh0aGlzLCB1cmwsICJ2MS4xLjEiLCAi5rKh5ZWl5pu05pawIik7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgLy8gVE9ETzogYWRkIHNldENvbnRlbnRWaWV3KC4uLikgaW52b2NhdGlvbgogICAgICAgIEJ1dHRlcktuaWZlLmJpbmQodGhpcyk7CiAgICB9Cg==</text>
       </register>
     </registers>
     <search>
