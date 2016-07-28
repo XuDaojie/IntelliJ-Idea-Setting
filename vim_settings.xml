@@ -117,6 +117,12 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="27" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/quest_detil_context.xml" timestamp="1469699799695">
+        <mark key="]" line="25" column="52" />
+        <mark key="^" line="25" column="52" />
+        <mark key="." line="25" column="52" />
+        <mark key="[" line="25" column="22" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/MsgLisrAty.java" timestamp="1466384749286">
         <mark key="[" line="9" column="24" />
       </file>
@@ -291,6 +297,11 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/login_activity.xml" timestamp="1468996086585">
         <mark key="[" line="7" column="42" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/question/QuestionActivity.java" timestamp="1469699003626">
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="[" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/MsgQueueBean.java" timestamp="1466491100218">
         <mark key="[" line="8" column="27" />
@@ -498,6 +509,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/main_radiobutton.xml" timestamp="1466747560493">
         <mark key="[" line="5" column="37" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/activity_question_detail.xml" timestamp="1469699586974">
+        <mark key="[" line="13" column="37" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/HelperCenterAty.java" timestamp="1466584005419">
         <mark key="]" line="92" column="45" />
         <mark key="." line="92" column="45" />
@@ -703,6 +717,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/src/main/res/layout/app_bar_main.xml" timestamp="1454770787872">
         <mark key="[" line="23" column="50" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1469699171973">
+        <mark key="]" line="66" column="42" />
+        <mark key="^" line="66" column="42" />
+        <mark key="." line="66" column="42" />
+        <mark key="[" line="66" column="43" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/util/NetworkImageHolderView.java" timestamp="1466755816529">
         <mark key="]" line="21" column="51" />
         <mark key="." line="21" column="51" />
@@ -783,7 +803,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0Q29tcGF0LmdldERyYXdhYmxlKCkKICAgICAgICBDb250ZXh0Q29tcGF0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -795,42 +815,41 @@
         <text>jkeh</text>
       </register>
       <register name="3" type="4">
-        <text>Fragment currentFragment = fragmentManager.findFragmentById(frameId);
-        if (currentFragment == fragment) return;</text>
-      </register>
-      <register name="2" type="4">
         <text>else {
                     ActivityUtils.showFragmentToActivity(getSupportFragmentManager(),
                             switchFragment);
                 }</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBDb250ZXh0Q29tcGF0LmdldERyYXdhYmxlKCkKICAgICAgICBDb250ZXh0Q29tcGF0Lgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudEZyYWdtZW50ICE9IG51bGwpIHsK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudEZyYWdtZW50ICE9IG51bGwpIHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHJhbnNhY3Rpb24uaGlkZShjdXJyZW50RnJhZ21lbnQpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>else {
-        }</text>
+      <register name="4" type="4">
+        <text>Fragment currentFragment = fragmentManager.findFragmentById(frameId);
+        if (currentFragment == fragment) return;</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
