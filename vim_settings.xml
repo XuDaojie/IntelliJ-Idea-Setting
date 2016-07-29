@@ -15,18 +15,6 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_db_switch_list_fragment.xml" timestamp="1469758772117">
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="[" line="6" column="4" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/RunDbSwitchFragment.java" timestamp="1469763196946">
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="[" line="103" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/util/TextHelper.java" timestamp="1466130878860">
         <mark key="[" line="5" column="24" />
       </file>
@@ -45,12 +33,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="[" line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/RunDbLogListFragment.java" timestamp="1469691433351">
-        <mark key="]" line="42" column="37" />
-        <mark key="^" line="42" column="37" />
-        <mark key="." line="42" column="37" />
-        <mark key="[" line="92" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunDcosListActivity.java" timestamp="1461748332393">
         <mark key="[" line="57" column="58" />
@@ -169,6 +151,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/bean/HelpListBean.java" timestamp="1466579410099">
         <mark key="[" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/sharelib/src/main/java/cn/sharesdk/onekeyshare/OnekeySharePage.java" timestamp="1469779321039" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/MiddleCriticalBean.java" timestamp="1464331790597">
         <mark key="[" line="7" column="33" />
       </file>
@@ -340,10 +323,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/login_activity.xml" timestamp="1468996086585">
         <mark key="[" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/values-v19/styles.xml" timestamp="1469778128973">
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="[" line="3" column="64" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/values-v19/styles.xml" timestamp="1469778868586">
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="[" line="2" column="74" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/question/QuestionActivity.java" timestamp="1469699003626">
         <mark key="]" line="37" column="0" />
@@ -371,6 +355,9 @@
         <mark key="]" line="94" column="41" />
         <mark key="." line="94" column="41" />
         <mark key="[" line="95" column="58" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/platforms/android-23/data/res/values/themes.xml" timestamp="1469778645122">
+        <mark key="[" line="687" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/LoadBalanceStatistics.java" timestamp="1464762771301">
         <mark key="[" line="8" column="36" />
@@ -414,12 +401,6 @@
         <mark key="]" line="192" column="0" />
         <mark key="." line="192" column="0" />
         <mark key="[" line="192" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/menu/menu_run_db_list.xml" timestamp="1469687161908">
-        <mark key="]" line="7" column="33" />
-        <mark key="^" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-        <mark key="[" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/RunDbListFragment.java" timestamp="1469763216334">
         <mark key="]" line="151" column="19" />
@@ -872,13 +853,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>android:style/Theme.DeviceDefault.Dialog.NoActionBa</text>
+        <text>Black</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>android:style/Theme.DeviceDefault.Dialog.NoActionBa</text>
+        <text>Black</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
