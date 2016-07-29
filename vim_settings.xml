@@ -158,6 +158,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/common_activity.xml" timestamp="1463382955711">
         <mark key="[" line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/drawable/dialog_no_padding.xml" timestamp="1469781478455">
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/ActivityUtils.java" timestamp="1469693907789">
         <mark key="]" line="73" column="26" />
         <mark key="." line="73" column="26" />
@@ -185,6 +190,11 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/webview/WebViewActivity.java" timestamp="1465142417080">
         <mark key="[" line="20" column="63" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/values-v23/styles.xml" timestamp="1469782051859">
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="[" line="2" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/model/ProductModel.java" timestamp="1466684065834">
         <mark key="[" line="18" column="25" />
@@ -260,6 +270,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BaseFragment.java" timestamp="1469691477829">
         <mark key="[" line="110" column="5" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/sharelib/src/main/res/values/ssdk_oks_color_drawables.xml" timestamp="1469780019933" />
       <file name="$USER_HOME$/AndroidStudioProjects/AnimationsDemo/app/src/main/res/layout/activity_zoom.xml" timestamp="1467082461210">
         <mark key="[" line="57" column="44" />
       </file>
@@ -323,7 +334,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/login_activity.xml" timestamp="1468996086585">
         <mark key="[" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/values-v19/styles.xml" timestamp="1469778868586">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/values-v19/styles.xml" timestamp="1469779903400">
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
@@ -479,10 +490,10 @@
         <mark key="." line="13" column="33" />
         <mark key="[" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/values/styles.xml" timestamp="1466663203243">
+      <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/values/styles.xml" timestamp="1469781385227">
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-        <mark key="[" line="20" column="0" />
+        <mark key="[" line="26" column="74" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/AllFoodFragment.java" timestamp="1466650428095">
         <mark key="[" line="106" column="63" />
@@ -763,7 +774,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/src/main/res/layout/app_bar_main.xml" timestamp="1454770787872">
         <mark key="[" line="23" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1469776909662">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1469780587228">
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
         <mark key="[" line="90" column="11" />
@@ -853,22 +864,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Black</text>
+        <text>Material.Dialog.NoActionBar&quot;</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>Black</text>
+        <text>Material.Dialog.NoActionBar&quot;</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgLy8gVE9ETzogYWRkIHNldENvbnRlbnRWaWV3KC4uLikgaW52b2NhdGlvbgogICAgICAgIEJ1dHRlcktuaWZlLmJpbmQodGhpcyk7CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgLy8gVE9ETzogYWRkIHNldENvbnRlbnRWaWV3KC4uLikgaW52b2NhdGlvbgogICAgICAgIEJ1dHRlcktuaWZlLmJpbmQodGhpcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmNvbG9yUHJpbWFyeURhcmsiPkBjb2xvci93aGl0ZTwvaXRlbT4KICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmNvbG9yUHJpbWFyeSI+QGNvbG9yL3doaXRlPC9pdGVtPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -877,7 +888,7 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8RnJhbWVMYXlvdXQKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiPgoKCgogICAgICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
@@ -885,17 +896,17 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgLy8gVE9ETzogYWRkIHNldENvbnRlbnRWaWV3KC4uLikgaW52b2NhdGlvbgogICAgICAgIEJ1dHRlcktuaWZlLmJpbmQodGhpcyk7CiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgLy8gVE9ETzogYWRkIHNldENvbnRlbnRWaWV3KC4uLikgaW52b2NhdGlvbgogICAgICAgIEJ1dHRlcktuaWZlLmJpbmQodGhpcyk7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8RnJhbWVMYXlvdXQKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiPgoKCgogICAgICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
