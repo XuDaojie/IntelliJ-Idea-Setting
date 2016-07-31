@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
@@ -105,6 +105,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/model/ProductModel.java" timestamp="1466684065834">
         <mark key="[" line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/build/intermediates/res/merged/debug/values/values.xml" timestamp="1469976475966">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/Event.java" timestamp="1463552705511">
         <mark key="[" line="18" column="54" />
       </file>
@@ -150,6 +155,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/CHANGELOG.md" timestamp="1464748362546">
         <mark key="[" line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/README.md" timestamp="1469975972355">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/adapter/ShopPromotionsListAdapter.java" timestamp="1460547046725">
         <mark key="[" line="29" column="27" />
@@ -391,7 +399,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469974830061">
+      <file name="/Dummy.txt" timestamp="1469976813247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -592,6 +600,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/adapter/DashboadDcosAdapter.java" timestamp="1464083321808">
         <mark key="[" line="55" column="42" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/AndroidManifest.xml" timestamp="1469976440899">
+        <mark key="[" line="6" column="8" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/ServerTargetBean.java" timestamp="1461650697875">
         <mark key="[" line="8" column="30" />
       </file>
@@ -604,6 +615,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/build.gradle" timestamp="1469976623704">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/present/imp/ProductPresenterImp.java" timestamp="1466683522381">
         <mark key="[" line="73" column="21" />
@@ -957,11 +973,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer state = mQueues.get(url);
-        if (state != null) return;</text>
+        <text>button</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>button</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -970,39 +985,40 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>Integer state = mQueues.get(url);
-        if (state != null) return;</text>
+        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJBcHBUaGVtZSIgcGFyZW50PSJUaGVtZS5BcHBDb21wYXQuTGlnaHQuRGFya0FjdGlvbkJhciI+CiAgICAgICAgPCEtLSBDdXN0b21pemUgeW91ciB0aGVtZSBoZXJlLiAtLT4KICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnkiPkBjb2xvci9jb2xvclByaW1hcnk8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iY29sb3JQcmltYXJ5RGFyayI+QGNvbG9yL2NvbG9yUHJpbWFyeURhcms8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iY29sb3JBY2NlbnQiPkBjb2xvci9jb2xvckFjY2VudDwvaXRlbT4KICAgIDwvc3R5bGU+Cjwv</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aWYgKG1RdWV1ZXMgPT0gbnVsbCkgewogICAgICAgICAgICBtUXVldWVzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIH0=</text>
+        <text>compile 'com.android.support:appcompat-v7:24.1.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha4'</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text>Integer state = mQueues.get(url);
+        if (state != null) return;</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKG1RdWV1ZXMgPT0gbnVsbCkgewogICAgICAgICAgICBtUXVldWVzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="4">
         <text>if (!apkName.endsWith(&quot;.apk&quot;)) {
         }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVBlcmNlbnQgPSBwZXJjZW50Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBtSWQgPSAxMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVBlcmNlbnQgPSBwZXJjZW50Owo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1QZXJjZW50ID0gMDsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBtSWQgPSAxMDsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBTdHJpbmcgdXJsID0gImh0dHA6Ly9wa2czLmZpci5pbS83MWRhM2RlMDFhMjhjZmYzZjk4ODRhZGExMDJlMjJmZGJhZGFhYjM1LmFwaz9hdHRuYW1lPWFwcC1yZWxlYXNlLmFwa18xLjAuYXBrIjsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1QZXJjZW50ID0gMDsK</text>
       </register>
     </registers>
     <search>
