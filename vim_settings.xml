@@ -571,12 +571,12 @@
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadManager.java" timestamp="1469965137994">
-        <mark key="'" line="82" column="91" />
-        <mark key="[" line="142" column="58" />
-        <mark key="]" line="142" column="58" />
-        <mark key="." line="142" column="58" />
-        <mark key="^" line="142" column="62" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadManager.java" timestamp="1469973943408">
+        <mark key="'" line="86" column="91" />
+        <mark key="[" line="147" column="8" />
+        <mark key="]" line="147" column="8" />
+        <mark key="." line="147" column="8" />
+        <mark key="^" line="146" column="62" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/App.java" timestamp="1463623911902">
         <mark key="[" line="23" column="39" />
@@ -706,10 +706,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/animator/card_flip_left_in.xml" timestamp="1466920142632">
         <mark key="[" line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/DownloadManagerActivity.java" timestamp="1469964372684">
-        <mark key="[" line="144" column="21" />
-        <mark key="]" line="144" column="22" />
-        <mark key="." line="144" column="22" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/DownloadManagerActivity.java" timestamp="1469974526468">
+        <mark key="[" line="100" column="43" />
+        <mark key="]" line="145" column="22" />
+        <mark key="." line="145" column="22" />
         <mark key="^" line="30" column="120" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/activity/RepairActivity.java" timestamp="1464620667656">
@@ -957,7 +957,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>Integer state = mQueues.get(url);
+        if (state != null) return;</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -969,38 +970,39 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>if (!apkName.endsWith(&quot;.apk&quot;)) {
-        }</text>
+        <text>Integer state = mQueues.get(url);
+        if (state != null) return;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVBlcmNlbnQgPSBwZXJjZW50Owo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKG1RdWV1ZXMgPT0gbnVsbCkgewogICAgICAgICAgICBtUXVldWVzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIH0=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>if (!apkName.endsWith(&quot;.apk&quot;)) {
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBtSWQgPSAxMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVBlcmNlbnQgPSBwZXJjZW50Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1QZXJjZW50ID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBtSWQgPSAxMDsK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBTdHJpbmcgdXJsID0gImh0dHA6Ly9wa2czLmZpci5pbS83MWRhM2RlMDFhMjhjZmYzZjk4ODRhZGExMDJlMjJmZGJhZGFhYjM1LmFwaz9hdHRuYW1lPWFwcC1yZWxlYXNlLmFwa18xLjAuYXBrIjsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1QZXJjZW50ID0gMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBTdHJpbmcgdXJsID0gImh0dHBzOi8vcWQueG15YXBwLmNvbS9teWFwcC9xcXRlYW0vQW5kcm9pZFFRL21vYmlsZXFxX2FuZHJvaWQuYXBrIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIE9rRG93bmxvYWRNYW5hZ2VyIGRvd25sb2FkTWFuYWdlciA9IE9rRG93bmxvYWRNYW5hZ2VyLmdldERvd25sb2FkTWFuYWdlcihtQ29udGV4dCk7Ci8vICAgICAgICAgICAgICAgICAgICBkb3dubG9hZE1hbmFnZXIuZG93bmxvYWQoMTAsIHVybCk7Cgo=</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBTdHJpbmcgdXJsID0gImh0dHA6Ly9wa2czLmZpci5pbS83MWRhM2RlMDFhMjhjZmYzZjk4ODRhZGExMDJlMjJmZGJhZGFhYjM1LmFwaz9hdHRuYW1lPWFwcC1yZWxlYXNlLmFwa18xLjAuYXBrIjsK</text>
       </register>
     </registers>
     <search>
