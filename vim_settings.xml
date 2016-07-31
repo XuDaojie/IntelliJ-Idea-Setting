@@ -571,12 +571,12 @@
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadManager.java" timestamp="1469675658634">
-        <mark key="'" line="89" column="91" />
-        <mark key="[" line="192" column="31" />
-        <mark key="]" line="172" column="30" />
-        <mark key="." line="172" column="30" />
-        <mark key="^" line="172" column="30" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadManager.java" timestamp="1469965137994">
+        <mark key="'" line="82" column="91" />
+        <mark key="[" line="142" column="58" />
+        <mark key="]" line="142" column="58" />
+        <mark key="." line="142" column="58" />
+        <mark key="^" line="142" column="62" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/App.java" timestamp="1463623911902">
         <mark key="[" line="23" column="39" />
@@ -706,11 +706,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/animator/card_flip_left_in.xml" timestamp="1466920142632">
         <mark key="[" line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/DownloadManagerActivity.java" timestamp="1469961717799">
-        <mark key="[" line="102" column="110" />
-        <mark key="]" line="103" column="41" />
-        <mark key="." line="103" column="41" />
-        <mark key="^" line="103" column="41" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/DownloadManagerActivity.java" timestamp="1469964372684">
+        <mark key="[" line="144" column="21" />
+        <mark key="]" line="144" column="22" />
+        <mark key="." line="144" column="22" />
+        <mark key="^" line="30" column="120" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/activity/RepairActivity.java" timestamp="1464620667656">
         <mark key="[" line="311" column="58" />
@@ -732,7 +732,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/MiddleCriticalBean.java" timestamp="1464331790597">
         <mark key="[" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/download_manager_activity.xml" timestamp="1469586596440">
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/download_manager_activity.xml" timestamp="1469963320548">
         <mark key="[" line="16" column="34" />
         <mark key="]" line="13" column="27" />
         <mark key="^" line="13" column="27" />
@@ -957,10 +957,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nvironment.getDataDirectory()</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>nvironment.getDataDirectory()</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -969,37 +969,38 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgT2tEb3dubG9hZE1hbmFnZXIgZ2V0RG93bmxvYWRNYW5hZ2VyKENvbnRleHQgY29udGV4dCkgewogICAgICAgIGZpbmFsIE9rRG93bmxvYWRNYW5hZ2VyW10gZG93bmxvYWRNYW5hZ2VyID0gbmV3IE9rRG93bmxvYWRNYW5hZ2VyWzFdOwogICAgICAgIEludGVudCBpID0gbmV3IEludGVudChjb250ZXh0LCBPa0Rvd25sb2FkTWFuYWdlci5jbGFzcyk7CiAgICAgICAgY29udGV4dC5iaW5kU2VydmljZShpLCBuZXcgU2VydmljZUNvbm5lY3Rpb24oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25TZXJ2aWNlQ29ubmVjdGVkKENvbXBvbmVudE5hbWUgbmFtZSwgSUJpbmRlciBzZXJ2aWNlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIExvZy5kKCJiaW5kU2VydmljZSIsICJTZXJ2aWNlQ29ubmVjdGlvbiIpOwogICAgICAgICAgICAgICAgICAgICAgICBkb3dubG9hZE1hbmFnZXJbMF0gPSAoKE9rRG93bmxvYWRNYW5hZ2VyLk15QnVuZGVyKXNlcnZpY2UpLmdldFNlcnZpY2UoKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBkb3dubG9hZE1hbmFnZXIuZG93bmxvYWQoKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU2VydmljZURpc2Nvbm5lY3RlZChDb21wb25lbnROYW1lIG5hbWUpIHsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgQ29udGV4dC5CSU5EX0FVVE9fQ1JFQVRFKTsKCiAgICAgICAgcmV0dXJuIGRvd25sb2FkTWFuYWdlclswXTsKICAgIH0=</text>
+        <text>if (!apkName.endsWith(&quot;.apk&quot;)) {
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVBlcmNlbnQgPSBwZXJjZW50Owo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVF1ZXVlLnB1dCh1cmwsIHBlcmNlbnQpOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGlmIChtUXVldWUgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1RdWV1ZSA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBtSWQgPSAxMDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1QZXJjZW50ID0gMDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgSW50ZWdlcj4gbVF1ZXVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGRvd25sb2FkTWFuYWdlci5lbnF1ZXVlKCk7CiAgICAgICAgICAgICAgICAgICAgZG93bmxvYWRNYW5hZ2VyLnJlbW92ZSgpOwogICAgICAgICAgICAgICAgICAgIGRvd25sb2FkTWFuYWdlci5wYXN1ZSgpOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBTdHJpbmcgdXJsID0gImh0dHA6Ly9wa2czLmZpci5pbS83MWRhM2RlMDFhMjhjZmYzZjk4ODRhZGExMDJlMjJmZGJhZGFhYjM1LmFwaz9hdHRuYW1lPWFwcC1yZWxlYXNlLmFwa18xLjAuYXBrIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBTdHJpbmcgdXJsID0gImh0dHBzOi8vcWQueG15YXBwLmNvbS9teWFwcC9xcXRlYW0vQW5kcm9pZFFRL21vYmlsZXFxX2FuZHJvaWQuYXBrIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIE9rRG93bmxvYWRNYW5hZ2VyIGRvd25sb2FkTWFuYWdlciA9IE9rRG93bmxvYWRNYW5hZ2VyLmdldERvd25sb2FkTWFuYWdlcihtQ29udGV4dCk7Ci8vICAgICAgICAgICAgICAgICAgICBkb3dubG9hZE1hbmFnZXIuZG93bmxvYWQoMTAsIHVybCk7Cgo=</text>
       </register>
     </registers>
     <search>
