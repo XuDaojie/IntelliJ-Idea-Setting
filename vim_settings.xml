@@ -255,7 +255,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/app_market_list_item_add.xml" timestamp="1464684647674">
         <mark key="[" line="9" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1470042736159">
+      <file name="/a.dummy" timestamp="1470045384352">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -469,8 +469,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/Constants.java" timestamp="1464244148263">
         <mark key="[" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/UpdateUtils.java" timestamp="1470040365093">
-        <mark key="[" line="134" column="13" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/UpdateUtils.java" timestamp="1470045023515">
+        <mark key="[" line="67" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/README.md" timestamp="1456973158713">
         <mark key="[" line="0" column="1" />
@@ -681,6 +681,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunServerManagerDetailActivity.java" timestamp="1469497717150">
         <mark key="[" line="163" column="50" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/java/com/bocai/bocutilandroid/features/ShareActivity.java" timestamp="1470045445553" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_server_chart_activity.xml" timestamp="1461638280923">
         <mark key="[" line="7" column="36" />
       </file>
@@ -708,10 +709,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/core/event/MainEvent.java" timestamp="1461814454422">
         <mark key="[" line="19" column="5" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/sharelib/src/main/java/cn/sharesdk/common/ShareUtil.java" timestamp="1470042800055">
-        <mark key="'" line="81" column="16" />
-        <mark key="[" line="72" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_db_list_item.xml" timestamp="1460603589207">
         <mark key="[" line="33" column="25" />
@@ -798,11 +795,19 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/MyGridView.java" timestamp="1465714323033">
         <mark key="[" line="26" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470039110728">
+      <file name="/Dummy.txt" timestamp="1470045397099">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/src/main/res/layout/app_bar_main.xml" timestamp="1454770787872">
         <mark key="[" line="23" column="50" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1470046474327">
+        <mark key="]" line="138" column="26" />
+        <mark key="^" line="138" column="26" />
+        <mark key="." line="138" column="26" />
+        <mark key="[" line="138" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/menu/menu_question_detail.xml" timestamp="1469776376978">
         <mark key="]" line="9" column="26" />
@@ -891,48 +896,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Switch</text>
+        <text>wtf</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>Switch</text>
+        <text>wtf</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="4">
-        <text>new DialogInterface.OnClickListener() {
-                                    @Override
-                                    public void onClick(DialogInterface dialog, int which) {
-                                        viewHolder.mSwitch1.setChecked(!viewHolder.mSwitch1.isChecked());
-                                    }
-                                }</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">dAo=</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25TYXZlSW5zdGFuY2VTdGF0ZShCdW5kbGUgb3V0U3RhdGUsIFBlcnNpc3RhYmxlQnVuZGxlIG91dFBlcnNpc3RlbnRTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uU2F2ZUluc3RhbmNlU3RhdGUob3V0U3RhdGUsIG91dFBlcnNpc3RlbnRTdGF0ZSk7CgogICAgfQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgSnNvbk9iamVjdCBqc29uT2JqZWN0ID0gbmV3IEpzb25PYmplY3QoKTsKICAgICAgICBqc29uT2JqZWN0LmFkZFByb3BlcnR5KCJhdXRob3JpemVkVG9rZW5LZXkiLCBBdXRoLmdldFRva2VuKCkpOwogICAgICAgIGpzb25PYmplY3QuYWRkUHJvcGVydHkoIm9yZGVySWQiLCBkYXRhLmdldE9SREVSX0lEKCkpOwogICAgICAgIGpzb25PYmplY3QuYWRkUHJvcGVydHkoInNlY3VyaXR5Q29kZSIsIGNvZGUpOw==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgSnNvbk9iamVjdCBqc29uT2JqZWN0ID0gbmV3IEpzb25PYmplY3QoKTsKICAgICAgICBqc29uT2JqZWN0LmFkZFByb3BlcnR5KCJhdXRob3JpemVkVG9rZW5LZXkiLCBBdXRoLmdldFRva2VuKCkpOwogICAgICAgIGpzb25PYmplY3QuYWRkUHJvcGVydHkoIm9yZGVySWQiLCBkYXRhLmdldE9SREVSX0lEKCkpOwogICAgICAgIGpzb25PYmplY3QuYWRkUHJvcGVydHkoInNlY3VyaXR5Q29kZSIsIGNvZGUpOw==</text>
+        <text>new DialogInterface.OnClickListener() {
+                                    @Override
+                                    public void onClick(DialogInterface dialog, int which) {
+                                        //viewHolder.mSwitch1.setChecked(!viewHolder.mSwitch1.isChecked());
+                                    }
+                                }</text>
       </register>
       <register name="5" type="4">
         <text>new DialogInterface.OnClickListener() {
                                     @Override
                                     public void onClick(DialogInterface dialog, int which) {
-                                        //viewHolder.mSwitch1.setChecked(!viewHolder.mSwitch1.isChecked());
+                                        viewHolder.mSwitch1.setChecked(!viewHolder.mSwitch1.isChecked());
                                     }
                                 }</text>
       </register>
@@ -944,11 +949,11 @@
                                     }
                                 }</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICA8IS0tIEZpbGwgdGhlIHNjcmVlbiAtLT4KICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmxheW91dF93aWR0aCI+bWF0Y2hfcGFyZW50PC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6bGF5b3V0X2hlaWdodCI+bWF0Y2hfcGFyZW50PC9pdGVtPgoKICAgICAgICA8IS0tIE5vIGJhY2tncm91bmRzLCB0aXRsZXMgb3Igd2luZG93IGZsb2F0IC0tPgogICAgICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93QmFja2dyb3VuZCI+QG51bGw8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iYW5kcm9pZDp3aW5kb3dOb1RpdGxlIj50cnVlPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93SXNGbG9hdGluZyI+ZmFsc2U8L2l0ZW0+CgogICAgICAgIDwhLS0gSnVzdCB0byBwcm92ZSBpdCdzIHdvcmtpbmcgLS0+CiAgICAgICAgPCEtLTxpdGVtIG5hbWU9ImFuZHJvaWQ6YmFja2dyb3VuZCI+QGFuZHJvaWQ6Y29sb3IvdHJhbnNwYXJlbnQ8L2l0ZW0+LS0+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25TYXZlSW5zdGFuY2VTdGF0ZShCdW5kbGUgb3V0U3RhdGUsIFBlcnNpc3RhYmxlQnVuZGxlIG91dFBlcnNpc3RlbnRTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uU2F2ZUluc3RhbmNlU3RhdGUob3V0U3RhdGUsIG91dFBlcnNpc3RlbnRTdGF0ZSk7CgogICAgfQo=</text>
       </register>
     </registers>
     <search>
