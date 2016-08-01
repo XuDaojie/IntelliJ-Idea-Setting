@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
@@ -28,6 +28,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/build.gradle" timestamp="1457262285368">
         <mark key="[" line="24" column="52" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/city_picker_view.xml" timestamp="1470066288897">
+        <mark key="[" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_white_border_left.xml" timestamp="1465900812824">
         <mark key="[" line="5" column="41" />
@@ -135,6 +138,11 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunDbListActivity.java" timestamp="1464570024412">
         <mark key="[" line="71" column="28" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/bottomsheet/BottomSheetActivity.java" timestamp="1470066872363">
+        <mark key="[" line="25" column="58" />
+        <mark key="]" line="25" column="58" />
+        <mark key="." line="25" column="58" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/statusbar/StatusBarActivity.java" timestamp="1468772289790">
         <mark key="[" line="2" column="0" />
@@ -399,10 +407,15 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469976813247">
+      <file name="/Dummy.txt" timestamp="1470066591133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/bottom_sheet_view.xml" timestamp="1470066684282">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="37" />
+        <mark key="." line="5" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkHttpReceiver.java" timestamp="1469521565295">
         <mark key="[" line="24" column="37" />
@@ -865,10 +878,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/RunCodeFragment.java" timestamp="1461827055681">
         <mark key="[" line="74" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/AndroidManifest.xml" timestamp="1469519196513">
-        <mark key="[" line="114" column="38" />
-        <mark key="]" line="114" column="38" />
-        <mark key="." line="114" column="38" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/AndroidManifest.xml" timestamp="1470065870716">
+        <mark key="[" line="99" column="57" />
+        <mark key="]" line="115" column="38" />
+        <mark key="." line="115" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/MsgQueueBean.java" timestamp="1466491100218">
         <mark key="[" line="8" column="27" />
@@ -973,10 +986,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>button</text>
+        <text>view_custom_group_view</text>
       </register>
       <register name="-" type="4">
-        <text>button</text>
+        <text>view_custom_group_view</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
