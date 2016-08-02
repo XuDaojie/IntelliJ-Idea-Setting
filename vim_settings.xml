@@ -388,6 +388,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/adapter/ConfirmProductAdp.java" timestamp="1466056422287">
         <mark key="[" line="53" column="84" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" timestamp="1470144962438" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_alert_list_activity.xml" timestamp="1464865661196">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -686,10 +687,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/main_radiobutton.xml" timestamp="1466747560493">
         <mark key="[" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteUtils.java" timestamp="1470143936576">
-        <mark key="[" line="6" column="26" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteUtils.java" timestamp="1470146530984">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/NotificationClickReceiver.java" timestamp="1470143888861" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/NoScrollViewPager.java" timestamp="1463554951546">
         <mark key="[" line="55" column="33" />
       </file>
@@ -750,7 +753,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/animator/card_flip_left_in.xml" timestamp="1466920142632">
         <mark key="[" line="50" column="54" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/DownloadManagerActivity.java" timestamp="1469974526468">
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/DownloadManagerActivity.java" timestamp="1470145403212">
         <mark key="[" line="100" column="43" />
         <mark key="]" line="145" column="22" />
         <mark key="." line="145" column="22" />
@@ -1001,7 +1004,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNRTGl0ZURhdGFiYXNlIERBVEFCQVNFOwoKICAgIHB1YmxpYyBzdGF0aWMgU1FMaXRlRGF0YWJhc2UgZ2V0RGF0YWJhc2UoKSB7CiAgICAgICAgaWYgKCkKICAgICAgICAgICAgCiAgICAgICAgcmV0dXJuIERBVEFCQVNFOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -1012,8 +1015,8 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNRTGl0ZURhdGFiYXNlIERBVEFCQVNFOwoKICAgIHB1YmxpYyBzdGF0aWMgU1FMaXRlRGF0YWJhc2UgZ2V0RGF0YWJhc2UoKSB7CiAgICAgICAgaWYgKCkKICAgICAgICAgICAgCiAgICAgICAgcmV0dXJuIERBVEFCQVNFOwogICAgfQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1021,32 +1024,32 @@
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzYXZlRmlsZShTdHJpbmcgb3V0UGF0aCwgSW5wdXRTdHJlYW0gc3RyZWFtKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIEZpbGUgZmlsZSA9IG5ldyBGaWxlKG91dFBhdGgpOwogICAgICAgIGludCBsZW47CiAgICAgICAgYnl0ZVtdIGJ1ZiA9IG5ldyBieXRlWzIwNDhdOwoKLy8gICAgICAgIElucHV0U3RyZWFtIHN0cmVhbSA9IHJlc3BvbnNlLmJvZHkoKS5ieXRlU3RyZWFtKCk7CiAgICAgICAgRmlsZU91dHB1dFN0cmVhbSBmb3MgPSBudWxsOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGZvcyA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKGZpbGUpOwogICAgICAgICAgICB3aGlsZSAoKGxlbiA9IHN0cmVhbS5yZWFkKGJ1ZikpICE9IC0xKSB7CiAgICAgICAgICAgICAgICBmb3Mud3JpdGUoYnVmLCAwLCBsZW4pOwogICAgICAgICAgICB9CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgZm9zLmZsdXNoKCk7CiAgICAgICAgICAgIGZvcy5jbG9zZSgpOwogICAgICAgICAgICBzdHJlYW0uY2xvc2UoKTsKICAgICAgICB9CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJBcHBUaGVtZSIgcGFyZW50PSJUaGVtZS5BcHBDb21wYXQuTGlnaHQuRGFya0FjdGlvbkJhciI+CiAgICAgICAgPCEtLSBDdXN0b21pemUgeW91ciB0aGVtZSBoZXJlLiAtLT4KICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnkiPkBjb2xvci9jb2xvclByaW1hcnk8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iY29sb3JQcmltYXJ5RGFyayI+QGNvbG9yL2NvbG9yUHJpbWFyeURhcms8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iY29sb3JBY2NlbnQiPkBjb2xvci9jb2xvckFjY2VudDwvaXRlbT4KICAgIDwvc3R5bGU+Cjwv</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzYXZlRmlsZShTdHJpbmcgb3V0UGF0aCwgSW5wdXRTdHJlYW0gc3RyZWFtKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIEZpbGUgZmlsZSA9IG5ldyBGaWxlKG91dFBhdGgpOwogICAgICAgIGludCBsZW47CiAgICAgICAgYnl0ZVtdIGJ1ZiA9IG5ldyBieXRlWzIwNDhdOwoKLy8gICAgICAgIElucHV0U3RyZWFtIHN0cmVhbSA9IHJlc3BvbnNlLmJvZHkoKS5ieXRlU3RyZWFtKCk7CiAgICAgICAgRmlsZU91dHB1dFN0cmVhbSBmb3MgPSBudWxsOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGZvcyA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKGZpbGUpOwogICAgICAgICAgICB3aGlsZSAoKGxlbiA9IHN0cmVhbS5yZWFkKGJ1ZikpICE9IC0xKSB7CiAgICAgICAgICAgICAgICBmb3Mud3JpdGUoYnVmLCAwLCBsZW4pOwogICAgICAgICAgICB9CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgZm9zLmZsdXNoKCk7CiAgICAgICAgICAgIGZvcy5jbG9zZSgpOwogICAgICAgICAgICBzdHJlYW0uY2xvc2UoKTsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="5" type="4">
-        <text>compile 'com.android.support:appcompat-v7:24.1.1'
-    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha4'</text>
+        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJBcHBUaGVtZSIgcGFyZW50PSJUaGVtZS5BcHBDb21wYXQuTGlnaHQuRGFya0FjdGlvbkJhciI+CiAgICAgICAgPCEtLSBDdXN0b21pemUgeW91ciB0aGVtZSBoZXJlLiAtLT4KICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnkiPkBjb2xvci9jb2xvclByaW1hcnk8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iY29sb3JQcmltYXJ5RGFyayI+QGNvbG9yL2NvbG9yUHJpbWFyeURhcms8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iY29sb3JBY2NlbnQiPkBjb2xvci9jb2xvckFjY2VudDwvaXRlbT4KICAgIDwvc3R5bGU+Cjwv</text>
       </register>
       <register name="6" type="4">
-        <text>Integer state = mQueues.get(url);
-        if (state != null) return;</text>
+        <text>compile 'com.android.support:appcompat-v7:24.1.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha4'</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">aWYgKG1RdWV1ZXMgPT0gbnVsbCkgewogICAgICAgICAgICBtUXVldWVzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIH0=</text>
+        <text>Integer state = mQueues.get(url);
+        if (state != null) return;</text>
       </register>
       <register name="8" type="4">
+        <text encoding="base64">aWYgKG1RdWV1ZXMgPT0gbnVsbCkgewogICAgICAgICAgICBtUXVldWVzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="9" type="4">
         <text>if (!apkName.endsWith(&quot;.apk&quot;)) {
         }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVBlcmNlbnQgPSBwZXJjZW50Owo=</text>
       </register>
     </registers>
     <search>
