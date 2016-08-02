@@ -31,6 +31,7 @@
         <mark key="." line="7" column="3" />
         <mark key="[" line="34" column="37" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/bean/BaseBean.java" timestamp="1470133538377" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/app/App.java" timestamp="1469698075816">
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -507,6 +508,7 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="26" column="74" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/service/convert/GsonResponseBodyConverter.java" timestamp="1470133299526" />
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/fragment/AllFoodFragment.java" timestamp="1466650428095">
         <mark key="[" line="106" column="63" />
       </file>
@@ -748,10 +750,10 @@
         <mark key="." line="13" column="22" />
         <mark key="[" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/activity_answer_question.xml" timestamp="1470131162408">
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
-        <mark key="[" line="1" column="1" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/activity_answer_question.xml" timestamp="1470133009230">
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="[" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DatabaseDetailBean.java" timestamp="1460604026120">
         <mark key="[" line="5" column="33" />
@@ -902,25 +904,40 @@
       <jump line="82" column="16" filename="$USER_HOME$/AndroidStudioProjects/Seeking/sharelib/src/main/java/cn/sharesdk/common/ShareUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LinearLayout</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>LinearLayout</text>
+        <text>RelativeLayout</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text encoding="base64">ICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Ij9hdHRyL2FjdGlvbkJhclNpemUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRUb3A9InRydWUi</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">PExpbmVhckxheW91dAogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiPgoKICAgICAgICAgICAKICAgICAgICA8L0xpbmVhckxheW91dD4=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="0" type="2">
+        <text />
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">dHZfYW5zd2VyCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="5" type="4">
         <text>Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -928,27 +945,12 @@
         ButterKnife.bind(this);
     }</text>
       </register>
-      <register name="0" type="2">
-        <text />
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>//                        PopuwindowTool.getInstance().show
-                        //                ReportImgEntity reportImg = imgEntities.get(position);</text>
-      </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>//                        PopuwindowTool.getInstance().show
+                        //                ReportImgEntity reportImg = imgEntities.get(position);</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
