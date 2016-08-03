@@ -282,6 +282,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnimationsDemo/app/src/main/res/layout/activity_zoom.xml" timestamp="1467082461210">
         <mark key="[" line="57" column="44" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/cquestion/CreateQuestinActivity.java" timestamp="1470196730694">
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="47" column="3" />
+        <mark key="." line="43" column="0" />
+        <mark key="[" line="45" column="29" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/selector_white_border_bottom.xml" timestamp="1464243360556">
         <mark key="[" line="3" column="57" />
       </file>
@@ -314,6 +320,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/MiddleHealthBean.java" timestamp="1464315485972">
         <mark key="[" line="5" column="29" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/AndroidManifest.xml" timestamp="1470196217334" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_domain_log_list_item.xml" timestamp="1469086960538">
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
@@ -554,6 +561,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/res/layout/toolbar.xml" timestamp="1470131417274">
         <mark key="[" line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/activity_create_questin.xml" timestamp="1470196443770">
+        <mark key="[" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/refresh/src/main/java/me/xdj/refresh/HeaderViewRecyclerAdapter.java" timestamp="1456973702476">
         <mark key="[" line="9" column="39" />
@@ -907,40 +917,37 @@
       <jump line="82" column="16" filename="$USER_HOME$/AndroidStudioProjects/Seeking/sharelib/src/main/java/cn/sharesdk/common/ShareUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>WHITE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>WHITE</text>
+        <text>MODIFY_AUDIO_SETTINGS</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Ij9hdHRyL2FjdGlvbkJhclNpemUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRUb3A9InRydWUi</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">PExpbmVhckxheW91dAogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiPgoKICAgICAgICAgICAKICAgICAgICA8L0xpbmVhckxheW91dD4=</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHZfYW5zd2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -948,15 +955,17 @@
         ButterKnife.bind(this);
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>//                        PopuwindowTool.getInstance().show
-                        //                ReportImgEntity reportImg = imgEntities.get(position);</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Ij9hdHRyL2FjdGlvbkJhclNpemUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRUb3A9InRydWUi</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHZfYW5zd2VyCg==</text>
       </register>
     </registers>
     <search>
