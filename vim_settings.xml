@@ -187,6 +187,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/java/io/github/xudaojie/okdownloadmanager/sample/MainActivity.java" timestamp="1470240131445">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_help_list_aty.xml" timestamp="1466579888036">
         <mark key="[" line="4" column="41" />
       </file>
@@ -215,6 +220,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_main.xml" timestamp="1466747582055">
         <mark key="[" line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470242374384" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/dagger2/src/main/java/io/github/xudaojie/LoginFragment.java" timestamp="1468855207944">
         <mark key="[" line="74" column="3" />
         <mark key="]" line="74" column="3" />
@@ -235,6 +241,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/refresh/src/main/java/me/xdj/refresh/HeaderViewRecyclerAdapter.java" timestamp="1456973702476">
         <mark key="[" line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/AndroidManifest.xml" timestamp="1470239875020">
+        <mark key="[" line="5" column="79" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/common/MainEvent.java" timestamp="1466068972849">
         <mark key="[" line="10" column="23" />
@@ -445,6 +454,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/AndroidManifest.xml" timestamp="1464865902012">
         <mark key="[" line="72" column="72" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/platforms/android-24/android.jar!/android/database/Cursor.class" timestamp="1470241097196" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/fragment/TestFragmentActivity.java" timestamp="1465142550855">
         <mark key="[" line="8" column="34" />
       </file>
@@ -481,11 +491,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1470151067475">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="71" />
+      <file name="/fragment.java" timestamp="1470241308078">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
         <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="71" />
+        <mark key="." line="1" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/ConfirmOrderAty.java" timestamp="1466125835450">
         <mark key="[" line="207" column="40" />
@@ -695,8 +705,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/main_radiobutton.xml" timestamp="1466747560493">
         <mark key="[" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteUtils.java" timestamp="1470237223840">
-        <mark key="[" line="47" column="55" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteUtils.java" timestamp="1470242990196">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="56" column="28" />
+        <mark key="." line="56" column="28" />
+        <mark key="^" line="56" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/NoScrollViewPager.java" timestamp="1463554951546">
         <mark key="[" line="55" column="33" />
@@ -1008,11 +1021,11 @@
       <jump line="81" column="91" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gImNyZWF0ZSB0YWJsZSB0X2Rvd25sb2FkX21hbmFnZXIgKGlkIGludGVnZXIpOyI7CiAgICAgICAgZGIuZXhlY1NRTChzcWwpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>download.db</text>
+        <text>isOpen</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1020,49 +1033,53 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gImNyZWF0ZSB0YWJsZSB0X2Rvd25sb2FkX21hbmFnZXIgKGlkIGludGVnZXIpOyI7CiAgICAgICAgZGIuZXhlY1NRTChzcWwpOw==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRvd25sb2FkKCk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGN1cnNvci5jbG9zZSgpOwogICAgICAgICAgICBkYi5jbG9zZSgpOwogICAgICAgIH0=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5SG9zdD0xMjcuMC4wLjEKb3JnLmdyYWRsZS5qdm1hcmdzPS1YbXgxNTM2bQpzeXN0ZW1Qcm9wLmh0dHAucHJveHlQb3J0PTEwODAK</text>
+      <register name="3" type="4">
+        <text>if (tableExist(sDatabase)) {
+            createTable(sDatabase);
+        }</text>
       </register>
       <register name="4" type="4">
-        <text>String sql = &quot;UPDATE &quot; + TABLE_NAME +&quot;\n&quot; +
-                &quot;SET status = ?,\n&quot; +
-                &quot; total_size_bytes = ?\n&quot; +
-                &quot;WHERE\n&quot; +
-                &quot;    id = ?&quot;;
-        Object[] args = new Object[] {status, totalSizeBytes, id};
-        db.execSQL(sql, args);</text>
+        <text>ActivityCompat.requestPermissions(mContext,
+                            new String[] {
+                                    Manifest.permission.WRITE_EXTERNAL_STORAGE},
+                            EXTERNAL_STORAGE_REQ_CODE);</text>
       </register>
       <register name="5" type="4">
-        <text>db, id, true, System.currentTimeMillis(),
-                localUri, null, null,
-                null, OkDownloadManager.STATUS_PENDING, title, 0, null</text>
+        <text>|| ContextCompat.checkSelfPermission(mContext, Manifest.permission.MOUNT_UNMOUNT_FILESYSTEMS)
+                        != PackageManager.PERMISSION_GRANTED</text>
       </register>
       <register name="6" type="4">
-        <text>else {
-            sDatabase
-            return 
-        }</text>
+        <text>// 权限申请曾被拒绝,给用户提示
+                    if (ActivityCompat.shouldShowRequestPermissionRationale(
+                            mContext,
+                            Manifest.permission.WRITE_EXTERNAL_STORAGE))  {
+                        Toast.makeText(mContext, &quot;请在设置中打开权限&quot;, Toast.LENGTH_SHORT).show();
+                    } else {
+                        ActivityCompat.requestPermissions(mContext,
+                                new String[] {Manifest.permission.WRITE_EXTERNAL_STORAGE},
+                                EXTERNAL_STORAGE_REQ_CODE);
+                    }</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNRTGl0ZURhdGFiYXNlIERBVEFCQVNFOwoKICAgIHB1YmxpYyBzdGF0aWMgU1FMaXRlRGF0YWJhc2UgZ2V0RGF0YWJhc2UoKSB7CiAgICAgICAgaWYgKCkKICAgICAgICAgICAgCiAgICAgICAgcmV0dXJuIERBVEFCQVNFOwogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRvd25sb2FkKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5SG9zdD0xMjcuMC4wLjEKb3JnLmdyYWRsZS5qdm1hcmdzPS1YbXgxNTM2bQpzeXN0ZW1Qcm9wLmh0dHAucHJveHlQb3J0PTEwODAK</text>
       </register>
     </registers>
     <search>
