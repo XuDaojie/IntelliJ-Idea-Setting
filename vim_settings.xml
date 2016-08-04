@@ -39,7 +39,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunDcosListActivity.java" timestamp="1461748332393">
         <mark key="[" line="57" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/base/BaseActivity.java" timestamp="1470105705415">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/base/BaseActivity.java" timestamp="1470296076589">
         <mark key="]" line="37" column="14" />
         <mark key="." line="37" column="14" />
         <mark key="[" line="37" column="14" />
@@ -82,7 +82,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/README.md" timestamp="1469530266760">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/build.gradle" timestamp="1470209441147">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/build.gradle" timestamp="1470296564870">
         <mark key="[" line="60" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/values/dimens.xml" timestamp="1469774186851">
@@ -118,11 +118,11 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1470211155617">
-        <mark key="]" line="57" column="27" />
-        <mark key="^" line="57" column="27" />
-        <mark key="." line="57" column="27" />
-        <mark key="[" line="83" column="11" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1470296998634">
+        <mark key="]" line="90" column="16" />
+        <mark key="^" line="95" column="97" />
+        <mark key="." line="90" column="16" />
+        <mark key="[" line="90" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/MsgLisrAty.java" timestamp="1466384749286">
         <mark key="[" line="9" column="24" />
@@ -312,11 +312,6 @@
         <mark key="]" line="119" column="42" />
         <mark key="." line="119" column="42" />
         <mark key="[" line="119" column="42" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/cquestion/CreateQuestionActivity.java" timestamp="1470210816112">
-        <mark key="]" line="43" column="26" />
-        <mark key="^" line="43" column="26" />
-        <mark key="." line="43" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/rotate_down_to_right.xml" timestamp="1469088919712">
         <mark key="]" line="1" column="1" />
@@ -583,10 +578,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/RunDataPrivilegeBean.java" timestamp="1461737530118">
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/adpter/ImageAdapter.java" timestamp="1470292117818">
-        <mark key="]" line="60" column="32" />
-        <mark key="." line="60" column="32" />
-        <mark key="[" line="60" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/adpter/ImageAdapter.java" timestamp="1470295802290">
+        <mark key="]" line="61" column="44" />
+        <mark key="." line="61" column="44" />
+        <mark key="[" line="61" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketListInteractor.java" timestamp="1462436186451">
         <mark key="[" line="5" column="12" />
@@ -707,6 +702,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" timestamp="1469775850163">
         <mark key="[" line="80" column="27" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/constants/Constants.java" timestamp="1470295781866">
+        <mark key="[" line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_domain_list_activity.xml" timestamp="1461728469216">
         <mark key="[" line="32" column="45" />
       </file>
@@ -767,6 +765,9 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
         <mark key="[" line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/cquestion/second/SecondActivity.java" timestamp="1470296940673">
+        <mark key="[" line="34" column="79" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/AndroidManifest.xml" timestamp="1470021345878">
         <mark key="[" line="83" column="78" />
@@ -986,13 +987,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>SecondActivity</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>SecondActivity</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
