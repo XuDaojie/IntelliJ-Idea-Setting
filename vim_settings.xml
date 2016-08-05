@@ -91,10 +91,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/dagger/LoginPresenterModule.java" timestamp="1468770092219">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1470369512135">
-        <mark key="[" line="25" column="71" />
-        <mark key="]" line="25" column="72" />
-        <mark key="." line="25" column="72" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1470378566249">
+        <mark key="[" line="91" column="16" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/lifecycle_fragment.xml" timestamp="1464917259882">
         <mark key="[" line="11" column="44" />
@@ -1031,8 +1031,8 @@
       <jump line="81" column="91" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mContext</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGV4aXN0Owo=</text>
       </register>
       <register name="-" type="4">
         <text>mContext</text>
@@ -1043,10 +1043,16 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHVwZGF0ZShDb250ZXh0IGNvbnRleHQsIGxvbmcgaWQsIGludCBzdGF0dXMsIGxvbmcgdG90YWxTaXplQnl0ZXMpIHsKICAgICAgICB1cGRhdGUoaWQsIHN0YXR1cywgdG90YWxTaXplQnl0ZXMpOwogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGV4aXN0Owo=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHVwZGF0ZShDb250ZXh0IGNvbnRleHQsIGxvbmcgaWQsIGludCBzdGF0dXMsIGxvbmcgdG90YWxTaXplQnl0ZXMpIHsKICAgICAgICB1cGRhdGUoaWQsIHN0YXR1cywgdG90YWxTaXplQnl0ZXMpOwogICAgfQ==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>if (sDatabase == null) {
             sDatabase = SQLiteDatabase.openOrCreateDatabase(
                     context.getFilesDir() + &quot;/&quot; + DATABASE_NAME, null);
@@ -1059,47 +1065,32 @@
             
         }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">c3RhdHVzID09IDgK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gImNyZWF0ZSB0YWJsZSB0X2Rvd25sb2FkX21hbmFnZXIgKGlkIGludGVnZXIpOyI7CiAgICAgICAgZGIuZXhlY1NRTChzcWwpOw==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGN1cnNvci5jbG9zZSgpOwogICAgICAgICAgICBkYi5jbG9zZSgpOwogICAgICAgIH0=</text>
-      </register>
       <register name="6" type="4">
-        <text>if (tableExist(sDatabase)) {
-            createTable(sDatabase);
-        }</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGN1cnNvci5jbG9zZSgpOwogICAgICAgICAgICBkYi5jbG9zZSgpOwogICAgICAgIH0=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
+        <text>if (tableExist(sDatabase)) {
+            createTable(sDatabase);
+        }</text>
+      </register>
+      <register name="8" type="4">
         <text>ActivityCompat.requestPermissions(mContext,
                             new String[] {
                                     Manifest.permission.WRITE_EXTERNAL_STORAGE},
                             EXTERNAL_STORAGE_REQ_CODE);</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>|| ContextCompat.checkSelfPermission(mContext, Manifest.permission.MOUNT_UNMOUNT_FILESYSTEMS)
                         != PackageManager.PERMISSION_GRANTED</text>
-      </register>
-      <register name="9" type="4">
-        <text>// 权限申请曾被拒绝,给用户提示
-                    if (ActivityCompat.shouldShowRequestPermissionRationale(
-                            mContext,
-                            Manifest.permission.WRITE_EXTERNAL_STORAGE))  {
-                        Toast.makeText(mContext, &quot;请在设置中打开权限&quot;, Toast.LENGTH_SHORT).show();
-                    } else {
-                        ActivityCompat.requestPermissions(mContext,
-                                new String[] {Manifest.permission.WRITE_EXTERNAL_STORAGE},
-                                EXTERNAL_STORAGE_REQ_CODE);
-                    }</text>
       </register>
     </registers>
     <search>
