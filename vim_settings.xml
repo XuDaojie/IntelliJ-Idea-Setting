@@ -236,7 +236,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/app_market_list_item_add.xml" timestamp="1464684647674">
         <mark key="[" line="9" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1470358143303">
+      <file name="/a.dummy" timestamp="1470363120029">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -612,9 +612,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/MiddleDetailListBean.java" timestamp="1464340773125">
         <mark key="[" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/base/view/CommFooterVH.java" timestamp="1470122618910">
-        <mark key="[" line="30" column="55" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_light_gray_border_top.xml" timestamp="1469085604298">
         <mark key="]" line="5" column="41" />
         <mark key="." line="5" column="41" />
@@ -715,11 +712,6 @@
       </file>
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/build.gradle" timestamp="1470215840676">
-        <mark key="]" line="67" column="63" />
-        <mark key="." line="67" column="63" />
-        <mark key="[" line="67" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/server_info_group.xml" timestamp="1464227532995">
         <mark key="[" line="0" column="38" />
@@ -829,7 +821,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/MyGridView.java" timestamp="1465714323033">
         <mark key="[" line="26" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470358143264">
+      <file name="/Dummy.txt" timestamp="1470363120005">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -927,8 +919,8 @@
       <jump line="12" column="22" filename="$USER_HOME$/AndroidStudioProjects/Seeking/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>openGallerySingle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -940,44 +932,44 @@
         <text>jkeh</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IEBPdmVycmlkZQogICAgdm9pZCBhZGRJbWFnZShpbnQgcG9zaXRpb24sICkgewogICAgICAgIAogICAgfQ==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="4">
-        <text encoding="base64">cHVibGljIE15R3JvdXBWaWV3SG9sZGVyKFZpZXcgaXRlbVZpZXcpIHsKICAgICAgICB9Cg==</text>
+        <text>tatic class ViewHolder {
+
+    }</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text>tatic class ViewHolder {
-
-    }</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IHN0YXRpYyBjbGFzcyBWaWV3SG9sZGVyIHsKICAgICAgICAgICAgQEJpbmRWaWV3KFIuaWQudHZfbmFtZV9hbnN3ZXIpCiAgICAgICAgICAgIFRleHRWaWV3IHR2TmFtZUFuc3dlcjsKICAgICAgICAgICAgQEJpbmRWaWV3KFIuaWQudHZfcXVlc3Rpb25fdGltZV9hbnN3ZXIpCiAgICAgICAgICAgIFRleHRWaWV3IHR2UXVlc3Rpb25UaW1lQW5zd2VyOwogICAgICAgICAgICBAQmluZFZpZXcoUi5pZC50dl9hbnN3ZXJfY29udGV4dCkKICAgICAgICAgICAgVGV4dFZpZXcgdHZBbnN3ZXJDb250ZXh0OwogICAgICAgICAgICBAQmluZFZpZXcoUi5pZC5ndl9hbnN3ZXJfaW1nKQogICAgICAgICAgICBTbGlkaW5nRHJhd2VyR3JpZFZpZXcgZ3ZBbnN3ZXJJbWc7CiAgICAgICAgICAgIEBCaW5kVmlldyhSLmlkLmx2X3ZpZGVvKQogICAgICAgICAgICBMaXN0VmlldyBsdlZpZGVvOwoKICAgICAgICAgICAgVmlld0hvbGRlcihWaWV3IHZpZXcpIHsKICAgICAgICAgICAgICAgIEJ1dHRlcktuaWZlLmJpbmQodGhpcywgdmlldyk7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Ly8gICAgICAgIFJ4QWRhcHRlclZpZXcuaXRlbUNsaWNrcyhndkFuc3dlckltZykKLy8gICAgICAgICAgICAgICAgLnN1YnNjcmliZShuZXcgQWN0aW9uMTxJbnRlZ2VyPigpIHsKLy8gICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgY2FsbChJbnRlZ2VyIHBvc2l0aW9uKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgVG9BY3Rpdml0eVV0aWwuZ2V0SW5zdGFuY2UoKS50b05leHRBY3Rpdml0eShtQ29udGV4dCwgUXVlc3Rpb25EZXRhaWxBY3Rpdml0eS5jbGFzcyk7Ci8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBzZXRSZWNvcmRWaWV3KCkgewogICAgICAgIGlmICh2aWRlb0VudGl0eUxpc3Quc2l6ZSgpIDw9IDMpIHsKICAgICAgICAgICAgU3RyaW5nIGNvbnRlbnQgPSBTdHJpbmdVdGlscy5mb3JtYXQoKDMgLSB2aWRlb0VudGl0eUxpc3Quc2l6ZSgpKSArICIiLCBnZXRSU3RyaW5nKFIuc3RyaW5nLnZpY2VvX2hpbnQpKTsKICAgICAgICB9CiAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>@Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         // TODO: add setContentView(...) invocation
         ButterKnife.bind(this);
     }</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">cHVibGljIE15R3JvdXBWaWV3SG9sZGVyKFZpZXcgaXRlbVZpZXcpIHsKICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
