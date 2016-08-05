@@ -91,6 +91,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/dagger/LoginPresenterModule.java" timestamp="1468770092219">
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1470369512135">
+        <mark key="[" line="25" column="71" />
+        <mark key="]" line="25" column="72" />
+        <mark key="." line="25" column="72" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/lifecycle_fragment.xml" timestamp="1464917259882">
         <mark key="[" line="11" column="44" />
       </file>
@@ -218,11 +223,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_main.xml" timestamp="1466747582055">
         <mark key="[" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470322217120">
-        <mark key="[" line="264" column="93" />
-        <mark key="]" line="123" column="47" />
-        <mark key="." line="123" column="47" />
-        <mark key="^" line="123" column="47" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470369392449">
+        <mark key="[" line="133" column="73" />
+        <mark key="]" line="133" column="73" />
+        <mark key="." line="133" column="73" />
+        <mark key="^" line="130" column="61" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/dagger2/src/main/java/io/github/xudaojie/LoginFragment.java" timestamp="1468855207944">
         <mark key="[" line="74" column="3" />
@@ -710,8 +715,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/main_radiobutton.xml" timestamp="1466747560493">
         <mark key="[" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteUtils.java" timestamp="1470363468254">
-        <mark key="[" line="187" column="5" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteUtils.java" timestamp="1470368804566">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="4" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="23" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/NoScrollViewPager.java" timestamp="1463554951546">
         <mark key="[" line="55" column="33" />
@@ -1024,20 +1032,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if (sDatabase == null) {
-            sDatabase = SQLiteDatabase.openOrCreateDatabase(
-                    context.getFilesDir() + &quot;/&quot; + DATABASE_NAME, null);
-        } else if (!sDatabase.isOpen()) {
-            sDatabase = SQLiteDatabase.openDatabase(context.getFilesDir() + &quot;/&quot; + DATABASE_NAME, null,
-                    SQLiteDatabase.OPEN_READWRITE);
-        }
-
-        if (!tableExist(sDatabase)) {
-            
-        }</text>
+        <text>mContext</text>
       </register>
       <register name="-" type="4">
-        <text>isDbLockedByCurrentThread</text>
+        <text>mContext</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1046,6 +1044,9 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHVwZGF0ZShDb250ZXh0IGNvbnRleHQsIGxvbmcgaWQsIGludCBzdGF0dXMsIGxvbmcgdG90YWxTaXplQnl0ZXMpIHsKICAgICAgICB1cGRhdGUoaWQsIHN0YXR1cywgdG90YWxTaXplQnl0ZXMpOwogICAgfQ==</text>
+      </register>
+      <register name="2" type="4">
         <text>if (sDatabase == null) {
             sDatabase = SQLiteDatabase.openOrCreateDatabase(
                     context.getFilesDir() + &quot;/&quot; + DATABASE_NAME, null);
@@ -1058,37 +1059,37 @@
             
         }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c3RhdHVzID09IDgK</text>
-      </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gImNyZWF0ZSB0YWJsZSB0X2Rvd25sb2FkX21hbmFnZXIgKGlkIGludGVnZXIpOyI7CiAgICAgICAgZGIuZXhlY1NRTChzcWwpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">c3RhdHVzID09IDgK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGN1cnNvci5jbG9zZSgpOwogICAgICAgICAgICBkYi5jbG9zZSgpOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gImNyZWF0ZSB0YWJsZSB0X2Rvd25sb2FkX21hbmFnZXIgKGlkIGludGVnZXIpOyI7CiAgICAgICAgZGIuZXhlY1NRTChzcWwpOw==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGN1cnNvci5jbG9zZSgpOwogICAgICAgICAgICBkYi5jbG9zZSgpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="6" type="4">
         <text>if (tableExist(sDatabase)) {
             createTable(sDatabase);
         }</text>
-      </register>
-      <register name="6" type="4">
-        <text>ActivityCompat.requestPermissions(mContext,
-                            new String[] {
-                                    Manifest.permission.WRITE_EXTERNAL_STORAGE},
-                            EXTERNAL_STORAGE_REQ_CODE);</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
+        <text>ActivityCompat.requestPermissions(mContext,
+                            new String[] {
+                                    Manifest.permission.WRITE_EXTERNAL_STORAGE},
+                            EXTERNAL_STORAGE_REQ_CODE);</text>
+      </register>
+      <register name="8" type="4">
         <text>|| ContextCompat.checkSelfPermission(mContext, Manifest.permission.MOUNT_UNMOUNT_FILESYSTEMS)
                         != PackageManager.PERMISSION_GRANTED</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>// 权限申请曾被拒绝,给用户提示
                     if (ActivityCompat.shouldShowRequestPermissionRationale(
                             mContext,
@@ -1099,9 +1100,6 @@
                                 new String[] {Manifest.permission.WRITE_EXTERNAL_STORAGE},
                                 EXTERNAL_STORAGE_REQ_CODE);
                     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
