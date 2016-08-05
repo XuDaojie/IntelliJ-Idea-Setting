@@ -415,6 +415,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/adapter/ConfirmProductAdp.java" timestamp="1466056422287">
         <mark key="[" line="53" column="84" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" timestamp="1470358557596" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_alert_list_activity.xml" timestamp="1464865661196">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -633,7 +634,6 @@
       <file name="/a.txt" timestamp="1461748803291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/platforms/android-24/android.jar!/android/database/sqlite/SQLiteDatabase.class" timestamp="1470323351166" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/App.java" timestamp="1463623911902">
         <mark key="[" line="23" column="39" />
       </file>
@@ -710,10 +710,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/main_radiobutton.xml" timestamp="1466747560493">
         <mark key="[" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteUtils.java" timestamp="1470327112229">
-        <mark key="[" line="109" column="49" />
-        <mark key="]" line="109" column="49" />
-        <mark key="." line="109" column="49" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteUtils.java" timestamp="1470363468254">
+        <mark key="[" line="187" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/NoScrollViewPager.java" timestamp="1463554951546">
         <mark key="[" line="55" column="33" />
@@ -1026,7 +1024,17 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isDbLockedByCurrentThread</text>
+        <text>if (sDatabase == null) {
+            sDatabase = SQLiteDatabase.openOrCreateDatabase(
+                    context.getFilesDir() + &quot;/&quot; + DATABASE_NAME, null);
+        } else if (!sDatabase.isOpen()) {
+            sDatabase = SQLiteDatabase.openDatabase(context.getFilesDir() + &quot;/&quot; + DATABASE_NAME, null,
+                    SQLiteDatabase.OPEN_READWRITE);
+        }
+
+        if (!tableExist(sDatabase)) {
+            
+        }</text>
       </register>
       <register name="-" type="4">
         <text>isDbLockedByCurrentThread</text>
@@ -1037,37 +1045,50 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c3RhdHVzID09IDgK</text>
+      <register name="1" type="4">
+        <text>if (sDatabase == null) {
+            sDatabase = SQLiteDatabase.openOrCreateDatabase(
+                    context.getFilesDir() + &quot;/&quot; + DATABASE_NAME, null);
+        } else if (!sDatabase.isOpen()) {
+            sDatabase = SQLiteDatabase.openDatabase(context.getFilesDir() + &quot;/&quot; + DATABASE_NAME, null,
+                    SQLiteDatabase.OPEN_READWRITE);
+        }
+
+        if (!tableExist(sDatabase)) {
+            
+        }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gImNyZWF0ZSB0YWJsZSB0X2Rvd25sb2FkX21hbmFnZXIgKGlkIGludGVnZXIpOyI7CiAgICAgICAgZGIuZXhlY1NRTChzcWwpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">c3RhdHVzID09IDgK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGN1cnNvci5jbG9zZSgpOwogICAgICAgICAgICBkYi5jbG9zZSgpOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gImNyZWF0ZSB0YWJsZSB0X2Rvd25sb2FkX21hbmFnZXIgKGlkIGludGVnZXIpOyI7CiAgICAgICAgZGIuZXhlY1NRTChzcWwpOw==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGN1cnNvci5jbG9zZSgpOwogICAgICAgICAgICBkYi5jbG9zZSgpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="4">
         <text>if (tableExist(sDatabase)) {
             createTable(sDatabase);
         }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>ActivityCompat.requestPermissions(mContext,
                             new String[] {
                                     Manifest.permission.WRITE_EXTERNAL_STORAGE},
                             EXTERNAL_STORAGE_REQ_CODE);</text>
       </register>
-      <register name="6" type="4">
-        <text>|| ContextCompat.checkSelfPermission(mContext, Manifest.permission.MOUNT_UNMOUNT_FILESYSTEMS)
-                        != PackageManager.PERMISSION_GRANTED</text>
-      </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
+        <text>|| ContextCompat.checkSelfPermission(mContext, Manifest.permission.MOUNT_UNMOUNT_FILESYSTEMS)
+                        != PackageManager.PERMISSION_GRANTED</text>
+      </register>
+      <register name="8" type="4">
         <text>// 权限申请曾被拒绝,给用户提示
                     if (ActivityCompat.shouldShowRequestPermissionRationale(
                             mContext,
@@ -1079,11 +1100,8 @@
                                 EXTERNAL_STORAGE_REQ_CODE);
                     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRvd25sb2FkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
