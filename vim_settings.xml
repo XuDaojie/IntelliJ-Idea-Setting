@@ -223,10 +223,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_main.xml" timestamp="1466747582055">
         <mark key="[" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470586378618">
-        <mark key="[" line="259" column="18" />
-        <mark key="]" line="259" column="18" />
-        <mark key="." line="259" column="18" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470588423706">
+        <mark key="[" line="144" column="84" />
+        <mark key="]" line="144" column="84" />
+        <mark key="." line="144" column="84" />
         <mark key="^" line="182" column="56" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/dagger2/src/main/java/io/github/xudaojie/LoginFragment.java" timestamp="1468855207944">
@@ -320,7 +320,7 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadReceiver.java" timestamp="1470586299632">
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadReceiver.java" timestamp="1470588238048">
         <mark key="[" line="36" column="49" />
         <mark key="]" line="36" column="49" />
         <mark key="." line="36" column="49" />
@@ -452,7 +452,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470585131080">
+      <file name="/Dummy.txt" timestamp="1470588513339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -507,7 +507,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1470324595028">
+      <file name="/fragment.java" timestamp="1470588262536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="20" />
@@ -679,7 +679,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/build.gradle" timestamp="1470585509512">
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/build.gradle" timestamp="1470588139980">
         <mark key="[" line="38" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/present/imp/ProductPresenterImp.java" timestamp="1466683522381">
@@ -734,8 +734,10 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/NotificationClickReceiver.java" timestamp="1470586220098">
-        <mark key="[" line="21" column="54" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/NotificationClickReceiver.java" timestamp="1470588125772">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/NoScrollViewPager.java" timestamp="1463554951546">
         <mark key="[" line="55" column="33" />
@@ -1059,21 +1061,24 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAvL+WmguaenOaWh+S7tuWQjeS4jeS4uuepuu+8jOivtOaYjuW3sue7j+WtmOWcqOS6hu+8jOeEtuWQjuiOt+WPlnVyae+8jOi/m+ihjOWuieijhQogICAgICAgIEZpbGUgcGF0aCA9IG5ldyBGaWxlKGZpbGVQYXRoKTsKICAgICAgICBpZighcGF0aC5leGlzdHMoKSl7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgVXJpIHVyaSA9IFVyaS5mcm9tRmlsZShwYXRoKTsKICAgICAgICBJbnRlbnQgaW5zdGFsbCA9IG5ldyBJbnRlbnQoSW50ZW50LkFDVElPTl9WSUVXKTsKICAgICAgICBpbnN0YWxsLmFkZEZsYWdzKEludGVudC5GTEFHX0FDVElWSVRZX05FV19UQVNLKTsKICAgICAgICBpbnN0YWxsLnNldERhdGFBbmRUeXBlKHVyaSwiYXBwbGljYXRpb24vdm5kLmFuZHJvaWQucGFja2FnZS1hcmNoaXZlIik7CiAgICAgICAgLy8g5omn6KGM5oSP5Zu+6L+b6KGM5a6J6KOFCiAgICAgICAgY29udGV4dC5zdGFydEFjdGl2aXR5KGluc3RhbGwpOw==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IEludGVudCBpID0gbmV3IEludGVudChtQ29udGV4dCwgT2tEb3dubG9hZE1hbmFnZXIuY2xhc3MpOwogICAgICAgICAgICAgICAgICAgIGkucHV0RXh0cmEoImlkIiwgKGludCkgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwogICAgICAgICAgICAgICAgICAgIGkucHV0RXh0cmEoInVybCIsIHVybCk7CiAgICAgICAgICAgICAgICAgICAgaS5wdXRFeHRyYSgidGl0bGUiLCAiVGVzdERvd25sb2FkIik7CiAgICAgICAgICAgICAgICAgICAgaS5wdXRFeHRyYSgiZmlsZU5hbWUiLCAidGVzdC5hcGsiKTsKICAgICAgICAgICAgICAgICAgICBzdGFydFNlcnZpY2UoaSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IEludGVudCBpID0gbmV3IEludGVudChtQ29udGV4dCwgT2tEb3dubG9hZE1hbmFnZXIuY2xhc3MpOwogICAgICAgICAgICAgICAgICAgIGkucHV0RXh0cmEoImlkIiwgKGludCkgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwogICAgICAgICAgICAgICAgICAgIGkucHV0RXh0cmEoInVybCIsIHVybCk7CiAgICAgICAgICAgICAgICAgICAgaS5wdXRFeHRyYSgidGl0bGUiLCAiVGVzdERvd25sb2FkIik7CiAgICAgICAgICAgICAgICAgICAgaS5wdXRFeHRyYSgiZmlsZU5hbWUiLCAidGVzdC5hcGsiKTsKICAgICAgICAgICAgICAgICAgICBzdGFydFNlcnZpY2UoaSk7</text>
+      </register>
+      <register name="4" type="4">
         <text>else {
                                                     mSQLiteHelper.update(id, STATUS_RUNNING, contentLength);
                                                 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>public void update(long id, int status) {
         SQLiteDatabase db = getWritableDatabase();
 
@@ -1085,19 +1090,19 @@
         db.execSQL(sql, args);
     }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETzogMTYvOC8zIHRvdGFsU2l6ZemcgOimgeS/ruaUuQogICAgICAgICAgICAgICAgICAgICAgICBtU1FMaXRlSGVscGVyLnVwZGF0ZShpZCwgT2tEb3dubG9hZE1hbmFnZXIuU1RBVFVTX1JVTk5JTkcsIDApOwogICAgICAgICAgICAgICAgICAgICAgICBtU1FMaXRlSGVscGVyLmNsb3NlKCk7</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGV4aXN0Owo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHVwZGF0ZShDb250ZXh0IGNvbnRleHQsIGxvbmcgaWQsIGludCBzdGF0dXMsIGxvbmcgdG90YWxTaXplQnl0ZXMpIHsKICAgICAgICB1cGRhdGUoaWQsIHN0YXR1cywgdG90YWxTaXplQnl0ZXMpOwogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGV4aXN0Owo=</text>
       </register>
       <register name="8" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHVwZGF0ZShDb250ZXh0IGNvbnRleHQsIGxvbmcgaWQsIGludCBzdGF0dXMsIGxvbmcgdG90YWxTaXplQnl0ZXMpIHsKICAgICAgICB1cGRhdGUoaWQsIHN0YXR1cywgdG90YWxTaXplQnl0ZXMpOwogICAgfQ==</text>
+      </register>
+      <register name="9" type="4">
         <text>if (sDatabase == null) {
             sDatabase = SQLiteDatabase.openOrCreateDatabase(
                     context.getFilesDir() + &quot;/&quot; + DATABASE_NAME, null);
@@ -1109,9 +1114,6 @@
         if (!tableExist(sDatabase)) {
             
         }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">c3RhdHVzID09IDgK</text>
       </register>
     </registers>
     <search>
