@@ -85,6 +85,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/sample/src/main/java/me/xdj/ninesquare/sample/ZoomActivity.java" timestamp="1470646977592">
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="113" column="31" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Nari/app/src/main/java/nari/bocai/com/nari/bean/DeviceEffectChartBean.java" timestamp="1460560791694">
         <mark key="[" line="7" column="36" />
       </file>
@@ -368,6 +373,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xdj/ninesquare/ImageFragment.java" timestamp="1470646947054" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/common_activity.xml" timestamp="1463382955711">
         <mark key="[" line="5" column="4" />
       </file>
@@ -388,6 +394,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/MiddleHealthBean.java" timestamp="1464315485972">
         <mark key="[" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/sample/src/main/AndroidManifest.xml" timestamp="1470646309120">
+        <mark key="[" line="19" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/paas_dcos_fragment.xml" timestamp="1464597160427">
         <mark key="[" line="6" column="61" />
@@ -509,7 +518,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1470588262536">
+      <file name="/fragment.java" timestamp="1470645972829">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="20" />
@@ -547,6 +556,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/menu/menu_pay_success.xml" timestamp="1466643938981">
         <mark key="[" line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xdj/ninesquare/ZoomActivity.java" timestamp="1470645845551">
+        <mark key="[" line="112" column="25" />
+        <mark key="]" line="115" column="92" />
+        <mark key="^" line="115" column="92" />
+        <mark key="." line="115" column="92" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/layout/activity_tweend.xml" timestamp="1455197431579">
         <mark key="[" line="39" column="42" />
@@ -870,6 +885,12 @@
         <mark key="]" line="206" column="0" />
         <mark key="." line="206" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/sample/src/main/java/me/xdj/ninesquare/sample/MainActivity.java" timestamp="1470646561882">
+        <mark key="[" line="139" column="91" />
+        <mark key="]" line="139" column="90" />
+        <mark key="^" line="139" column="90" />
+        <mark key="." line="139" column="90" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/dagger/DaggerActivity.java" timestamp="1468770368212">
         <mark key="[" line="37" column="44" />
         <mark key="]" line="17" column="0" />
@@ -1051,11 +1072,11 @@
       <jump line="81" column="91" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/OkDownloadManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SQLiteDatabase</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>SQLiteDatabase</text>
+        <text>int currentImgPosition, int pagerCount, final String[] urlArray</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1063,59 +1084,43 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAvL+WmguaenOaWh+S7tuWQjeS4jeS4uuepuu+8jOivtOaYjuW3sue7j+WtmOWcqOS6hu+8jOeEtuWQjuiOt+WPlnVyae+8jOi/m+ihjOWuieijhQogICAgICAgIEZpbGUgcGF0aCA9IG5ldyBGaWxlKGZpbGVQYXRoKTsKICAgICAgICBpZighcGF0aC5leGlzdHMoKSl7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgVXJpIHVyaSA9IFVyaS5mcm9tRmlsZShwYXRoKTsKICAgICAgICBJbnRlbnQgaW5zdGFsbCA9IG5ldyBJbnRlbnQoSW50ZW50LkFDVElPTl9WSUVXKTsKICAgICAgICBpbnN0YWxsLmFkZEZsYWdzKEludGVudC5GTEFHX0FDVElWSVRZX05FV19UQVNLKTsKICAgICAgICBpbnN0YWxsLnNldERhdGFBbmRUeXBlKHVyaSwiYXBwbGljYXRpb24vdm5kLmFuZHJvaWQucGFja2FnZS1hcmNoaXZlIik7CiAgICAgICAgLy8g5omn6KGM5oSP5Zu+6L+b6KGM5a6J6KOFCiAgICAgICAgY29udGV4dC5zdGFydEFjdGl2aXR5KGluc3RhbGwpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBab29tQWN0aXZpdHkgbmV3SW5zdGFuY2UoaW50IGN1cnJlbnRJbWdQb3NpdGlvbiwgaW50IHBhZ2VyQ291bnQpIHsKLy8gICAgICAgIEJ1bmRsZSBidW5kbGUgPSBuZXcgQnVuZGxlKCk7Ci8vICAgICAgICBidW5kbGUucHV0SW50KFBPU0lUSU9OLCBjdXJyZW50SW1nUG9zaXRpb24pOwovLyAgICAgICAgYnVuZGxlLnB1dEludChQQUdFUl9DT1VOVCwgcGFnZXJDb3VudCk7Ci8vCi8vICAgICAgICBab29tQWN0aXZpdHkgZnJhZ21lbnQgPSBuZXcgWm9vbUFjdGl2aXR5KCk7Ci8vICAgICAgICBmcmFnbWVudC5zZXRBcmd1bWVudHMoYnVuZGxlKTsKLy8KLy8gICAgICAgIHJldHVybiBmcmFnbWVudDsKLy8gICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IEludGVudCBpID0gbmV3IEludGVudChtQ29udGV4dCwgT2tEb3dubG9hZE1hbmFnZXIuY2xhc3MpOwogICAgICAgICAgICAgICAgICAgIGkucHV0RXh0cmEoImlkIiwgKGludCkgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwogICAgICAgICAgICAgICAgICAgIGkucHV0RXh0cmEoInVybCIsIHVybCk7CiAgICAgICAgICAgICAgICAgICAgaS5wdXRFeHRyYSgidGl0bGUiLCAiVGVzdERvd25sb2FkIik7CiAgICAgICAgICAgICAgICAgICAgaS5wdXRFeHRyYSgiZmlsZU5hbWUiLCAidGVzdC5hcGsiKTsKICAgICAgICAgICAgICAgICAgICBzdGFydFNlcnZpY2UoaSk7</text>
+        <text>mPhotoAdapter = new ImageFragment.PhotoAdapter() {
+            @Override
+            public void loadPhoto(int position, ImageView imageView) {
+                
+            }
+        };</text>
       </register>
-      <register name="4" type="4">
-        <text>else {
-                                                    mSQLiteHelper.update(id, STATUS_RUNNING, contentLength);
-                                                }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>public void update(long id, int status) {
-        SQLiteDatabase db = getWritableDatabase();
-
-        String sql = &quot;UPDATE &quot; + TABLE_NAME + &quot;\n&quot; +
-                &quot;SET status = ?,\n&quot; +
-                &quot;WHERE\n&quot; +
-                &quot;    id = ?&quot;;
-        Object[] args = new Object[]{status, id};
-        db.execSQL(sql, args);
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETzogMTYvOC8zIHRvdGFsU2l6ZemcgOimgeS/ruaUuQogICAgICAgICAgICAgICAgICAgICAgICBtU1FMaXRlSGVscGVyLnVwZGF0ZShpZCwgT2tEb3dubG9hZE1hbmFnZXIuU1RBVFVTX1JVTk5JTkcsIDApOwogICAgICAgICAgICAgICAgICAgICAgICBtU1FMaXRlSGVscGVyLmNsb3NlKCk7</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFRhcmdldChJVGFyZ2V0IHRhcmdldCkgewogICAgICAgIG1UYXJnZXQgPSB0YXJnZXQ7CiAgICB9CgogICAgcHVibGljIEltYWdlRnJhZ21lbnQuUGhvdG9BZGFwdGVyIGdldFBob3RvQWRhcHRlcigpIHsKICAgICAgICByZXR1cm4gbVBob3RvQWRhcHRlcjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRQaG90b0FkYXB0ZXIoSW1hZ2VGcmFnbWVudC5QaG90b0FkYXB0ZXIgcGhvdG9BZGFwdGVyKSB7CiAgICAgICAgbVBob3RvQWRhcHRlciA9IHBob3RvQWRhcHRlcjsKICAgIH0=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGV4aXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHVwZGF0ZShDb250ZXh0IGNvbnRleHQsIGxvbmcgaWQsIGludCBzdGF0dXMsIGxvbmcgdG90YWxTaXplQnl0ZXMpIHsKICAgICAgICB1cGRhdGUoaWQsIHN0YXR1cywgdG90YWxTaXplQnl0ZXMpOwogICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text>if (sDatabase == null) {
-            sDatabase = SQLiteDatabase.openOrCreateDatabase(
-                    context.getFilesDir() + &quot;/&quot; + DATABASE_NAME, null);
-        } else if (!sDatabase.isOpen()) {
-            sDatabase = SQLiteDatabase.openDatabase(context.getFilesDir() + &quot;/&quot; + DATABASE_NAME, null,
-                    SQLiteDatabase.OPEN_READWRITE);
-        }
-
-        if (!tableExist(sDatabase)) {
-            
-        }</text>
+        <text encoding="base64">cHJpdmF0ZSB2b2lkIHBsYXlab29tSW5BbmltYXRvcihmaW5hbCBWaWV3IHRhcmdldFZpZXcpIHsKICAgICAgICBpZiAobUN1cnJlbnRBbmltYXRvciAhPSBudWxsKSB7CiAgICAgICAgICAgIG1DdXJyZW50QW5pbWF0b3IuY2FuY2VsKCk7CiAgICAgICAgfQogICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5MT0xMSVBPUCkgewogICAgICAgICAgICBtQWN0aXZpdHkKICAgICAgICAgICAgICAgICAgICAuZ2V0V2luZG93KCkKICAgICAgICAgICAgICAgICAgICAuc2V0U3RhdHVzQmFyQ29sb3IoQ29udGV4dENvbXBhdC5nZXRDb2xvcihtQWN0aXZpdHksIGFuZHJvaWQuUi5jb2xvci5ibGFjaykpOwogICAgICAgIH0KICAgICAgICBtUm9vdC5zZXRCYWNrZ3JvdW5kUmVzb3VyY2UoYW5kcm9pZC5SLmNvbG9yLmJsYWNrKTsKCiAgICAgICAgUmVjdCBzdGFydEJvdW5kcyA9IG5ldyBSZWN0KCk7CiAgICAgICAgUmVjdCBmaW5hbEJvdW5kcyA9IG5ldyBSZWN0KCk7CiAgICAgICAgUG9pbnQgZ2xvYmFsT2Zmc2V0ID0gbmV3IFBvaW50KCk7CgogICAgICAgIHRhcmdldFZpZXcuZ2V0R2xvYmFsVmlzaWJsZVJlY3Qoc3RhcnRCb3VuZHMpOwogICAgICAgIG1BY3Rpdml0eS5nZXRXaW5kb3coKS5nZXREZWNvclZpZXcoKS5nZXRHbG9iYWxWaXNpYmxlUmVjdChmaW5hbEJvdW5kcywgZ2xvYmFsT2Zmc2V0KTsKCiAgICAgICAgaW50IHN0YXR1c0JhckhlaWdodCA9IGdldFN0YXR1c0JhckhlaWdodChtQWN0aXZpdHkpOwovLyAgICAgICAgc3RhdHVzQmFySGVpZ2h0ID0gZ2V0UmVzb3VyY2VzKCkuZ2V0RGltZW5zaW9uUGl4ZWxTaXplKFIuZGltZW4uc3RhdGVzX2Jhcl9oZWlnaHQpOwogICAgICAgIHN0YXJ0Qm91bmRzLm9mZnNldCgtZ2xvYmFsT2Zmc2V0LngsIC0oc3RhdHVzQmFySGVpZ2h0ICsgZ2xvYmFsT2Zmc2V0LnkpKTsKICAgICAgICBmaW5hbEJvdW5kcy5vZmZzZXQoLWdsb2JhbE9mZnNldC54LCAtKHN0YXR1c0JhckhlaWdodCArIGdsb2JhbE9mZnNldC55KSk7Ci8vICAgICAgICBzdGFydEJvdW5kcy5vZmZzZXQoLWdsb2JhbE9mZnNldC54LCAtZ2xvYmFsT2Zmc2V0LnkpOwovLyAgICAgICAgZmluYWxCb3VuZHMub2Zmc2V0KC1nbG9iYWxPZmZzZXQueCwgLWdsb2JhbE9mZnNldC55KTsKCiAgICAgICAgZmxvYXQgc3RhcnRTY2FsZTsKCiAgICAgICAgaWYgKChmbG9hdCkgZmluYWxCb3VuZHMud2lkdGgoKSAvIGZpbmFsQm91bmRzLmhlaWdodCgpCiAgICAgICAgICAgICAgICA+IChmbG9hdCkgc3RhcnRCb3VuZHMud2lkdGgoKSAvIHN0YXJ0Qm91bmRzLmhlaWdodCgpKSB7CiAgICAgICAgICAgIHN0YXJ0U2NhbGUgPSAoZmxvYXQpIHN0YXJ0Qm91bmRzLmhlaWdodCgpIC8gZmluYWxCb3VuZHMuaGVpZ2h0KCk7CgogICAgICAgICAgICBmbG9hdCBzdGFydFdpZHRoID0gc3RhcnRTY2FsZSAqIGZpbmFsQm91bmRzLndpZHRoKCk7IC8vIOiOt+W+l+e8qeaUvuWQjueahOWuvQogICAgICAgICAgICBmbG9hdCBkZXRhaWxXaWR0aCA9IChzdGFydFdpZHRoIC0gc3RhcnRCb3VuZHMud2lkdGgoKSkgLyAyOwogICAgICAgICAgICBzdGFydEJvdW5kcy5sZWZ0IC09IGRldGFpbFdpZHRoOwogICAgICAgICAgICBzdGFydEJvdW5kcy5yaWdodCArPSBkZXRhaWxXaWR0aDsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzdGFydFNjYWxlID0gKGZsb2F0KSBzdGFydEJvdW5kcy53aWR0aCgpIC8gZmluYWxCb3VuZHMud2lkdGgoKTsKCiAgICAgICAgICAgIGZsb2F0IHN0YXJ0SGVpZ2h0ID0gc3RhcnRTY2FsZSAqIGZpbmFsQm91bmRzLmhlaWdodCgpOwogICAgICAgICAgICBmbG9hdCBkZWx0YUhlaWdodCA9IChzdGFydEhlaWdodCAtIHN0YXJ0Qm91bmRzLmhlaWdodCgpKSAvIDI7CiAgICAgICAgICAgIHN0YXJ0Qm91bmRzLnRvcCAtPSBkZWx0YUhlaWdodDsKICAgICAgICAgICAgc3RhcnRCb3VuZHMuYm90dG9tICs9IGRlbHRhSGVpZ2h0OwogICAgICAgIH0KCiAgICAgICAgbVZpZXdQYWdlci5zZXRQaXZvdFgoMCk7CiAgICAgICAgbVZpZXdQYWdlci5zZXRQaXZvdFkoMCk7CiAgICAgICAgbVZpZXdQYWdlci5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7CgogICAgICAgIEFuaW1hdG9yU2V0IHNldCA9IG5ldyBBbmltYXRvclNldCgpOwogICAgICAgIHNldC5hZGRMaXN0ZW5lcihuZXcgQW5pbWF0b3JMaXN0ZW5lckFkYXB0ZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFuaW1hdGlvbkNhbmNlbChBbmltYXRvciBhbmltYXRpb24pIHsKICAgICAgICAgICAgICAgIHN1cGVyLm9uQW5pbWF0aW9uQ2FuY2VsKGFuaW1hdGlvbik7CiAgICAgICAgICAgICAgICBtQ3VycmVudEFuaW1hdG9yID0gbnVsbDsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFuaW1hdGlvbkVuZChBbmltYXRvciBhbmltYXRpb24pIHsKICAgICAgICAgICAgICAgIHN1cGVyLm9uQW5pbWF0aW9uRW5kKGFuaW1hdGlvbik7CiAgICAgICAgICAgICAgICBtQ3VycmVudEFuaW1hdG9yID0gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgICAgIHNldAogICAgICAgICAgICAgICAgLnBsYXkoT2JqZWN0QW5pbWF0b3Iub2ZGbG9hdChtVmlld1BhZ2VyLCBWaWV3LlgsIHN0YXJ0Qm91bmRzLmxlZnQsIGZpbmFsQm91bmRzLmxlZnQpKQogICAgICAgICAgICAgICAgLndpdGgoT2JqZWN0QW5pbWF0b3Iub2ZGbG9hdChtVmlld1BhZ2VyLCBWaWV3LlksIHN0YXJ0Qm91bmRzLnRvcCwgZmluYWxCb3VuZHMudG9wKSkKICAgICAgICAgICAgICAgIC53aXRoKE9iamVjdEFuaW1hdG9yLm9mRmxvYXQobVZpZXdQYWdlciwgVmlldy5TQ0FMRV9YLCBzdGFydFNjYWxlLCAxZikpCiAgICAgICAgICAgICAgICAud2l0aChPYmplY3RBbmltYXRvci5vZkZsb2F0KG1WaWV3UGFnZXIsIFZpZXcuU0NBTEVfWSwgc3RhcnRTY2FsZSwgMWYpKTsKCiAgICAgICAgc2V0LnNldER1cmF0aW9uKDMwMCAqIDEpOwogICAgICAgIHNldC5zdGFydCgpOwogICAgICAgIG1DdXJyZW50QW5pbWF0b3IgPSBzZXQ7CiAgICB9</text>
       </register>
     </registers>
     <search>
