@@ -301,6 +301,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/menu/menu_server.xml" timestamp="1461637732709">
         <mark key="[" line="2" column="4" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/common/phone/ToActivityUtil.java" timestamp="1470728257251" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/gradle.properties" timestamp="1470364724149">
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -338,7 +339,7 @@
         <mark key="." line="18" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailModel.java" timestamp="1470723425749">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailModel.java" timestamp="1470729076574">
         <mark key="]" line="16" column="15" />
         <mark key="^" line="17" column="4" />
         <mark key="." line="16" column="15" />
@@ -697,7 +698,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" timestamp="1469775850163">
         <mark key="[" line="80" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/constants/Constants.java" timestamp="1470295781866">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/constants/Constants.java" timestamp="1470728462062">
         <mark key="[" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_domain_list_activity.xml" timestamp="1461728469216">
@@ -820,8 +821,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/bean/UnreadMsgQtyBean.java" timestamp="1466149371112">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/fragment/circle/acc/vh/CircleListVH.java" timestamp="1470725709577">
-        <mark key="[" line="197" column="20" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/fragment/circle/acc/vh/CircleListVH.java" timestamp="1470728578729">
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="[" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/cquestion/second/SecondContract.java" timestamp="1470300791436">
         <mark key="[" line="19" column="25" />
@@ -877,10 +881,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/build.gradle" timestamp="1470621342478">
         <mark key="[" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1470725580916">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1470729027074">
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
-        <mark key="[" line="165" column="0" />
+        <mark key="[" line="144" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/menu/menu_question_detail.xml" timestamp="1469776376978">
         <mark key="]" line="9" column="26" />
@@ -975,14 +979,14 @@
       <jump line="12" column="22" filename="$USER_HOME$/AndroidStudioProjects/Seeking/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Constants.QUESTION_DETAIL_ID</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>integer</text>
+        <text>Constants.QUESTION_DETAIL_ID</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
