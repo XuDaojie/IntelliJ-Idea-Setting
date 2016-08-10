@@ -392,7 +392,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/menu/menu_server.xml" timestamp="1461637732709">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/FileUtils.java" timestamp="1470789448423">
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/FileUtils.java" timestamp="1470790692723">
         <mark key="[" line="69" column="30" />
         <mark key="]" line="69" column="30" />
         <mark key="." line="69" column="30" />
@@ -1030,10 +1030,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2048</text>
+        <text>512</text>
       </register>
       <register name="-" type="4">
-        <text>2048</text>
+        <text>512</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
