@@ -97,10 +97,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/dagger/LoginPresenterModule.java" timestamp="1468770092219">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1470671879515">
-        <mark key="[" line="148" column="40" />
-        <mark key="]" line="148" column="40" />
-        <mark key="." line="148" column="40" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1470843122414">
+        <mark key="[" line="228" column="125" />
+        <mark key="]" line="232" column="23" />
+        <mark key="." line="232" column="23" />
+        <mark key="^" line="232" column="23" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/lifecycle_fragment.xml" timestamp="1464917259882">
         <mark key="[" line="11" column="44" />
@@ -204,7 +205,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/java/io/github/xudaojie/okdownloadmanager/sample/MainActivity.java" timestamp="1470840625636">
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/java/io/github/xudaojie/okdownloadmanager/sample/MainActivity.java" timestamp="1470841646692">
         <mark key="[" line="91" column="8" />
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
@@ -238,11 +239,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_main.xml" timestamp="1466747582055">
         <mark key="[" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470840479842">
-        <mark key="[" line="344" column="65" />
-        <mark key="]" line="344" column="65" />
-        <mark key="." line="344" column="65" />
-        <mark key="^" line="362" column="19" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470843357321">
+        <mark key="[" line="244" column="8" />
+        <mark key="]" line="244" column="8" />
+        <mark key="." line="244" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/MsgLisrAty.java" timestamp="1466384749286">
         <mark key="[" line="9" column="24" />
@@ -380,22 +380,16 @@
         <mark key="^" line="51" column="64" />
         <mark key="." line="51" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/res/layout/activity_main.xml" timestamp="1470791398598">
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="26" column="28" />
-        <mark key="^" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/common_activity.xml" timestamp="1463382955711">
         <mark key="[" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/menu/menu_server.xml" timestamp="1461637732709">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/FileUtils.java" timestamp="1470840045015">
-        <mark key="[" line="75" column="42" />
-        <mark key="]" line="68" column="30" />
-        <mark key="." line="68" column="30" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/FileUtils.java" timestamp="1470842215877">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunDcosListActivity.java" timestamp="1461748332393">
         <mark key="[" line="57" column="58" />
@@ -474,7 +468,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470672277427">
+      <file name="/Dummy.txt" timestamp="1470842270463">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -523,7 +517,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1470840637170">
+      <file name="/fragment.java" timestamp="1470841573343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="26" />
         <mark key="^" line="0" column="20" />
@@ -1030,7 +1024,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>Request.Builder requestBuilder = new Request.Builder()
+                .url(url)
+                .get();</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -1042,25 +1038,36 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IDE2LzgvMyB0b3RhbFNpemXpnIDopoHkv67mlLkKLy8gICAgICAgICAgICAgICAgICAgICAgICBtU1FMaXRlSGVscGVyLnVwZGF0ZShpZCwgT2tEb3dubG9hZE1hbmFnZXIuU1RBVFVTX1JVTk5JTkcsIDEwMjQpOw==</text>
+        <text>Request.Builder requestBuilder = new Request.Builder()
+                .url(url)
+                .get();</text>
       </register>
       <register name="2" type="4">
-        <text>//            mHttpClient = new OkHttpClient();
-//            mHttpClient.networkInterceptors()</text>
+        <text encoding="base64">Ci8vICAgICAgICBJbnB1dFN0cmVhbSBzdHJlYW0gPSByZXNwb25zZS5ib2R5KCkuYnl0ZVN0cmVhbSgpOwovLyAgICAgICAgRmlsZU91dHB1dFN0cmVhbSBmb3MgPSBudWxsOw==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bVVybEFycmF5W10K</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IDE2LzgvMyB0b3RhbFNpemXpnIDopoHkv67mlLkKLy8gICAgICAgICAgICAgICAgICAgICAgICBtU1FMaXRlSGVscGVyLnVwZGF0ZShpZCwgT2tEb3dubG9hZE1hbmFnZXIuU1RBVFVTX1JVTk5JTkcsIDEwMjQpOw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>//            mHttpClient = new OkHttpClient();
+//            mHttpClient.networkInterceptors()</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">bVVybEFycmF5W10K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBab29tQWN0aXZpdHkgbmV3SW5zdGFuY2UoaW50IGN1cnJlbnRJbWdQb3NpdGlvbiwgaW50IHBhZ2VyQ291bnQpIHsKLy8gICAgICAgIEJ1bmRsZSBidW5kbGUgPSBuZXcgQnVuZGxlKCk7Ci8vICAgICAgICBidW5kbGUucHV0SW50KFBPU0lUSU9OLCBjdXJyZW50SW1nUG9zaXRpb24pOwovLyAgICAgICAgYnVuZGxlLnB1dEludChQQUdFUl9DT1VOVCwgcGFnZXJDb3VudCk7Ci8vCi8vICAgICAgICBab29tQWN0aXZpdHkgZnJhZ21lbnQgPSBuZXcgWm9vbUFjdGl2aXR5KCk7Ci8vICAgICAgICBmcmFnbWVudC5zZXRBcmd1bWVudHMoYnVuZGxlKTsKLy8KLy8gICAgICAgIHJldHVybiBmcmFnbWVudDsKLy8gICAgfQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>mPhotoAdapter = new ImageFragment.PhotoAdapter() {
             @Override
             public void loadPhoto(int position, ImageView imageView) {
@@ -1068,17 +1075,8 @@
             }
         };</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFRhcmdldChJVGFyZ2V0IHRhcmdldCkgewogICAgICAgIG1UYXJnZXQgPSB0YXJnZXQ7CiAgICB9CgogICAgcHVibGljIEltYWdlRnJhZ21lbnQuUGhvdG9BZGFwdGVyIGdldFBob3RvQWRhcHRlcigpIHsKICAgICAgICByZXR1cm4gbVBob3RvQWRhcHRlcjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRQaG90b0FkYXB0ZXIoSW1hZ2VGcmFnbWVudC5QaG90b0FkYXB0ZXIgcGhvdG9BZGFwdGVyKSB7CiAgICAgICAgbVBob3RvQWRhcHRlciA9IHBob3RvQWRhcHRlcjsKICAgIH0=</text>
       </register>
     </registers>
     <search>
