@@ -75,6 +75,7 @@
         <mark key="." line="5" column="41" />
         <mark key="[" line="5" column="41" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/design/23.4.0/design-23.4.0-sources.jar!/android/support/design/widget/AppBarLayout.java" timestamp="1470823942567" />
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/activity/FindActivity.java" timestamp="1465284829894">
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
@@ -151,11 +152,6 @@
         <mark key="." line="61" column="44" />
         <mark key="[" line="82" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/view/behavior/RelativeLayoutBehavior.java" timestamp="1470823081458">
-        <mark key="]" line="67" column="92" />
-        <mark key="." line="67" column="92" />
-        <mark key="[" line="67" column="92" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/anim/pop_infoselect_bottom_in.xml" timestamp="1470305118037">
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
@@ -196,7 +192,7 @@
         <mark key="." line="46" column="53" />
         <mark key="[" line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/activity_question_detail.xml" timestamp="1470823157901">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/activity_question_detail.xml" timestamp="1470824103615">
         <mark key="]" line="44" column="5" />
         <mark key="^" line="9" column="22" />
         <mark key="." line="44" column="5" />
@@ -438,9 +434,6 @@
         <mark key="." line="37" column="0" />
         <mark key="[" line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/question_detail_answer.xml" timestamp="1470796776708">
-        <mark key="[" line="19" column="9" />
-      </file>
       <file name="/Dummy.txt" timestamp="1470814991819">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -534,13 +527,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LinearLayout</text>
+        <text>coordinatorLayout</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>LinearLayout</text>
+        <text>coordinatorLayout</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
