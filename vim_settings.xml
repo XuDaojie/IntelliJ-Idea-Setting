@@ -97,12 +97,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/dagger/LoginPresenterModule.java" timestamp="1468770092219">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1470843122414">
-        <mark key="[" line="228" column="125" />
-        <mark key="]" line="232" column="23" />
-        <mark key="." line="232" column="23" />
-        <mark key="^" line="232" column="23" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/lifecycle_fragment.xml" timestamp="1464917259882">
         <mark key="[" line="11" column="44" />
       </file>
@@ -239,10 +233,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_main.xml" timestamp="1466747582055">
         <mark key="[" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470843357321">
-        <mark key="[" line="244" column="8" />
-        <mark key="]" line="244" column="8" />
-        <mark key="." line="244" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470887096371">
+        <mark key="[" line="284" column="85" />
+        <mark key="]" line="187" column="21" />
+        <mark key="." line="187" column="21" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/MsgLisrAty.java" timestamp="1466384749286">
         <mark key="[" line="9" column="24" />
@@ -468,7 +462,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470842270463">
+      <file name="/Dummy.txt" timestamp="1470845344915">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1024,12 +1018,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Request.Builder requestBuilder = new Request.Builder()
-                .url(url)
-                .get();</text>
+        <text>(int) System.currentTimeMillis()</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>(int) System.currentTimeMillis()</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
