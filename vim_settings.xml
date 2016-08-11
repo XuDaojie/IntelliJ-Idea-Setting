@@ -32,6 +32,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/city_picker_view.xml" timestamp="1470066288897">
         <mark key="[" line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-23/android/app/DownloadManager.java" timestamp="1470921290219" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_white_border_left.xml" timestamp="1465900812824">
         <mark key="[" line="5" column="41" />
         <mark key="]" line="5" column="41" />
@@ -171,6 +172,7 @@
         <mark key="]" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/platforms/android-24/android.jar!/android/app/DownloadManager.class" timestamp="1470921114584" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/statusbar/StatusBarActivity.java" timestamp="1468772289790">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -238,8 +240,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_main.xml" timestamp="1466747582055">
         <mark key="[" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470902439320">
-        <mark key="[" line="123" column="30" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470921070066">
+        <mark key="[" line="344" column="4" />
         <mark key="]" line="123" column="30" />
         <mark key="." line="123" column="30" />
       </file>
@@ -467,7 +469,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470845344915">
+      <file name="/Dummy.txt" timestamp="1470904840563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -792,6 +794,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/animator/card_flip_left_in.xml" timestamp="1466920142632">
         <mark key="[" line="50" column="54" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/download/DownloadManagerActivity.java" timestamp="1470921232991">
+        <mark key="[" line="65" column="70" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/activity/RepairActivity.java" timestamp="1464620667656">
         <mark key="[" line="311" column="58" />
       </file>
@@ -1025,10 +1030,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(int) System.currentTimeMillis())</text>
+        <text>测试断点续传。</text>
       </register>
       <register name="-" type="4">
-        <text>(int) System.currentTimeMillis())</text>
+        <text>测试断点续传。</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
