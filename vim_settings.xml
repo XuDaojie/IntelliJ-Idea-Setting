@@ -204,11 +204,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/java/io/github/xudaojie/okdownloadmanager/sample/MainActivity.java" timestamp="1470841646692">
-        <mark key="[" line="91" column="8" />
-        <mark key="]" line="91" column="8" />
-        <mark key="." line="91" column="8" />
-        <mark key="^" line="72" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/java/io/github/xudaojie/okdownloadmanager/sample/MainActivity.java" timestamp="1470900990672">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_help_list_aty.xml" timestamp="1466579888036">
         <mark key="[" line="4" column="41" />
@@ -238,10 +238,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_main.xml" timestamp="1466747582055">
         <mark key="[" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470896070627">
-        <mark key="[" line="178" column="56" />
-        <mark key="]" line="178" column="56" />
-        <mark key="." line="178" column="56" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470900284067">
+        <mark key="[" line="126" column="19" />
+        <mark key="]" line="126" column="19" />
+        <mark key="." line="126" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/MsgLisrAty.java" timestamp="1466384749286">
         <mark key="[" line="9" column="24" />
@@ -322,7 +322,7 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadReceiver.java" timestamp="1470897556219">
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadReceiver.java" timestamp="1470898160804">
         <mark key="[" line="90" column="45" />
         <mark key="]" line="90" column="45" />
         <mark key="." line="90" column="45" />
@@ -516,7 +516,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1470895514431">
+      <file name="/fragment.java" timestamp="1470898475438">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="26" />
         <mark key="^" line="0" column="20" />
@@ -733,10 +733,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/main_radiobutton.xml" timestamp="1466747560493">
         <mark key="[" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/NotificationClickReceiver.java" timestamp="1470896906611">
-        <mark key="[" line="20" column="59" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/NotificationClickReceiver.java" timestamp="1470897845133">
+        <mark key="[" line="19" column="59" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/NoScrollViewPager.java" timestamp="1463554951546">
         <mark key="[" line="55" column="33" />
@@ -1025,16 +1025,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//            db.beginTransaction();
-//            ContentValues values = new ContentValues();
-//            values.put(&quot;status&quot;, status);
-//            values.put(&quot;total_size_bytes&quot;, totalSizeBytes);
-//            int number = db.update(TABLE_NAME, values, &quot;id = ?&quot;, new String[] {id + &quot;&quot;});
-//            Log.d(TAG, &quot;status:&quot; + status + &quot; id &quot; + id + &quot; number &quot; + number);
-//            db.endTransaction();</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTUUxpdGVIZWxwZXIgc3FMaXRlSGVscGVyID0gU1FMaXRlSGVscGVyLmdldEluc3RhbmNlKG1Db250ZXh0KTsKICAgICAgICAgICAgICAgICAgICBDdXJzb3IgY3Vyc29yID0gc3FMaXRlSGVscGVyLmdldFBhdXNlQ3Vyc29yKCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGN1cnNvci5nZXRDb3VudCgpID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICB3aGlsZSAoY3Vyc29yLm1vdmVUb05leHQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGlkID0gY3Vyc29yLmdldEludCgwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9rRG93bmxvYWRNYW5hZ2VyLmRvd25sb2FkKG1Db250ZXh0LCBpZCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>totalSizeBytes</text>
+        <text>FILENAME</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1043,6 +1037,36 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTUUxpdGVIZWxwZXIgc3FMaXRlSGVscGVyID0gU1FMaXRlSGVscGVyLmdldEluc3RhbmNlKG1Db250ZXh0KTsKICAgICAgICAgICAgICAgICAgICBDdXJzb3IgY3Vyc29yID0gc3FMaXRlSGVscGVyLmdldFBhdXNlQ3Vyc29yKCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGN1cnNvci5nZXRDb3VudCgpID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICB3aGlsZSAoY3Vyc29yLm1vdmVUb05leHQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGlkID0gY3Vyc29yLmdldEludCgwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9rRG93bmxvYWRNYW5hZ2VyLmRvd25sb2FkKG1Db250ZXh0LCBpZCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IGlmIChpbnRlbnQgIT0gbnVsbCAmJiBpbnRlbnQuaGFzRXh0cmEoQ09MVU1OX0lEKSkgewoKICAgICAgICB9IGVsc2Ug</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
+        <text>//        // TODO: 16/8/10 检查当前未下载完成的链接
+//        Cursor cursor = mSQLiteHelper.getPauseCursor();
+//        while (cursor.moveToNext()) {
+//            int id = cursor.getInt(0);
+//            String title = cursor.getString(1);
+//            String uri = cursor.getString(2);
+//            String localUri = cursor.getString(3);
+//            Log.d(TAG, &quot;Title &quot; + title + &quot; Uri &quot; + uri + &quot; localUri &quot; + localUri);
+//
+//            File file = new File(localUri + TEMP_SUFFIX);
+//
+//            download(id, uri, title, localUri, file.length());
+//
+//            // TODO: 16/8/11 测试断点续传
+//            return super.onStartCommand(intent, flags, startId);
+//        }</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoY3Vyc29yLm1vdmVUb0ZpcnN0KCkpIHsKICAgICAgICAgICAgU3RyaW5nIHRpdGxlID0gY3Vyc29yLmdldFN0cmluZygxKTsKICAgICAgICAgICAgU3RyaW5nIHVyaSA9IGN1cnNvci5nZXRTdHJpbmcoMik7CiAgICAgICAgICAgIFN0cmluZyBsb2NhbFVyaSA9IGN1cnNvci5nZXRTdHJpbmcoMyk7CiAgICAgICAgICAgIExvZy5kKFRBRywgIlRpdGxlICIgKyB0aXRsZSArICIgVXJpICIgKyB1cmkgKyAiIGxvY2FsVXJpICIgKyBsb2NhbFVyaSk7CgogICAgICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShsb2NhbFVyaSArIFRFTVBfU1VGRklYKTsKCi8vICAgICAgICAgICAgZG93bmxvYWQoaWQsIHVyaSwgdGl0bGUsIGxvY2FsVXJpLCBmaWxlLmxlbmd0aCgpKTsKICAgICAgICAgICAgSW50ZW50IGkgPSBuZXcgSW50ZW50KGNvbnRleHQsIE9rRG93bmxvYWRNYW5hZ2VyLmNsYXNzKTsKICAgICAgICAgICAgaS5wdXRFeHRyYShDT0xVTU5fSUQsIChpbnQpIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgICAgICAgICAgaS5wdXRFeHRyYShDT0xVTU5fVVJJLCB1cmkpOwogICAgICAgICAgICBpLnB1dEV4dHJhKENPTFVNTl9USVRMRSwgdGl0bGUpOwogICAgICAgICAgICBpLnB1dEV4dHJhKEZJTEVOQU1FLCBsb2NhbFVyaSk7CiAgICAgICAgICAgIGNvbnRleHQuc3RhcnRTZXJ2aWNlKGkpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="4">
         <text>//            db.beginTransaction();
 //            ContentValues values = new ContentValues();
 //            values.put(&quot;status&quot;, status);
@@ -1051,38 +1075,22 @@
 //            Log.d(TAG, &quot;status:&quot; + status + &quot; id &quot; + id + &quot; number &quot; + number);
 //            db.endTransaction();</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgZGIuYmVnaW5UcmFuc2FjdGlvbigpOwovLyAgICAgICAgICAgIENvbnRlbnRWYWx1ZXMgdmFsdWVzID0gbmV3IENvbnRlbnRWYWx1ZXMoKTsKLy8gICAgICAgICAgICB2YWx1ZXMucHV0KCJzdGF0dXMiLCBzdGF0dXMpOwovLyAgICAgICAgICAgIHZhbHVlcy5wdXQoInRvdGFsX3NpemVfYnl0ZXMiLCB0b3RhbFNpemVCeXRlcyk7Ci8vICAgICAgICAgICAgaW50IG51bWJlciA9IGRiLnVwZGF0ZShUQUJMRV9OQU1FLCB2YWx1ZXMsICJpZCA9ID8iLCBuZXcgU3RyaW5nW10ge2lkICsgIiJ9KTsKLy8gICAgICAgICAgICBMb2cuZChUQUcsICJzdGF0dXM6IiArIHN0YXR1cyArICIgaWQgIiArIGlkICsgIiBudW1iZXIgIiArIG51bWJlcik7Ci8vICAgICAgICAgICAgZGIuZW5kVHJhbnNhY3Rpb24oKTs=</text>
-      </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGlmIChkb25lKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1VcmwgPSBudWxsOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtUGVyY2VudCA9IC0xOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJkb3dubG9hZCBkb25lOyB1cmw6ICIgKyBtVXJsKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
-      </register>
-      <register name="4" type="4">
-        <text>Request.Builder requestBuilder = new Request.Builder()
-                .url(url)
-                .get();</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ci8vICAgICAgICBJbnB1dFN0cmVhbSBzdHJlYW0gPSByZXNwb25zZS5ib2R5KCkuYnl0ZVN0cmVhbSgpOwovLyAgICAgICAgRmlsZU91dHB1dFN0cmVhbSBmb3MgPSBudWxsOw==</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IDE2LzgvMyB0b3RhbFNpemXpnIDopoHkv67mlLkKLy8gICAgICAgICAgICAgICAgICAgICAgICBtU1FMaXRlSGVscGVyLnVwZGF0ZShpZCwgT2tEb3dubG9hZE1hbmFnZXIuU1RBVFVTX1JVTk5JTkcsIDEwMjQpOw==</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgZGIuYmVnaW5UcmFuc2FjdGlvbigpOwovLyAgICAgICAgICAgIENvbnRlbnRWYWx1ZXMgdmFsdWVzID0gbmV3IENvbnRlbnRWYWx1ZXMoKTsKLy8gICAgICAgICAgICB2YWx1ZXMucHV0KCJzdGF0dXMiLCBzdGF0dXMpOwovLyAgICAgICAgICAgIHZhbHVlcy5wdXQoInRvdGFsX3NpemVfYnl0ZXMiLCB0b3RhbFNpemVCeXRlcyk7Ci8vICAgICAgICAgICAgaW50IG51bWJlciA9IGRiLnVwZGF0ZShUQUJMRV9OQU1FLCB2YWx1ZXMsICJpZCA9ID8iLCBuZXcgU3RyaW5nW10ge2lkICsgIiJ9KTsKLy8gICAgICAgICAgICBMb2cuZChUQUcsICJzdGF0dXM6IiArIHN0YXR1cyArICIgaWQgIiArIGlkICsgIiBudW1iZXIgIiArIG51bWJlcik7Ci8vICAgICAgICAgICAgZGIuZW5kVHJhbnNhY3Rpb24oKTs=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text>//            mHttpClient = new OkHttpClient();
-//            mHttpClient.networkInterceptors()</text>
+        <text encoding="base64">IGlmIChkb25lKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1VcmwgPSBudWxsOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtUGVyY2VudCA9IC0xOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJkb3dubG9hZCBkb25lOyB1cmw6ICIgKyBtVXJsKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">bVVybEFycmF5W10K</text>
+      <register name="8" type="4">
+        <text>Request.Builder requestBuilder = new Request.Builder()
+                .url(url)
+                .get();</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ci8vICAgICAgICBJbnB1dFN0cmVhbSBzdHJlYW0gPSByZXNwb25zZS5ib2R5KCkuYnl0ZVN0cmVhbSgpOwovLyAgICAgICAgRmlsZU91dHB1dFN0cmVhbSBmb3MgPSBudWxsOw==</text>
       </register>
     </registers>
     <search>
