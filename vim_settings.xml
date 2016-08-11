@@ -32,7 +32,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/city_picker_view.xml" timestamp="1470066288897">
         <mark key="[" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-23/android/app/DownloadManager.java" timestamp="1470921290219" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-23/android/app/DownloadManager.java" timestamp="1470924996485" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_white_border_left.xml" timestamp="1465900812824">
         <mark key="[" line="5" column="41" />
         <mark key="]" line="5" column="41" />
@@ -240,10 +240,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_main.xml" timestamp="1466747582055">
         <mark key="[" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470921070066">
-        <mark key="[" line="344" column="4" />
-        <mark key="]" line="123" column="30" />
-        <mark key="." line="123" column="30" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadManager.java" timestamp="1470924990831">
+        <mark key="[" line="564" column="15" />
+        <mark key="]" line="564" column="15" />
+        <mark key="." line="564" column="15" />
+        <mark key="^" line="320" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/MsgLisrAty.java" timestamp="1466384749286">
         <mark key="[" line="9" column="24" />
@@ -1030,10 +1031,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>测试断点续传。</text>
+        <text>DownloadManager</text>
       </register>
       <register name="-" type="4">
-        <text>测试断点续传。</text>
+        <text>DownloadManager</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1042,15 +1043,38 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTUUxpdGVIZWxwZXIgc3FMaXRlSGVscGVyID0gU1FMaXRlSGVscGVyLmdldEluc3RhbmNlKG1Db250ZXh0KTsKICAgICAgICAgICAgICAgICAgICBDdXJzb3IgY3Vyc29yID0gc3FMaXRlSGVscGVyLmdldFBhdXNlQ3Vyc29yKCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGN1cnNvci5nZXRDb3VudCgpID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICB3aGlsZSAoY3Vyc29yLm1vdmVUb05leHQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGlkID0gY3Vyc29yLmdldEludCgwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9rRG93bmxvYWRNYW5hZ2VyLmRvd25sb2FkKG1Db250ZXh0LCBpZCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICAgKiBCeSBkZWZhdWx0LCBhbGwgbmV0d29yayB0eXBlcyBhcmUgYWxsb3dlZC4gQ29uc2lkZXIgdXNpbmcKICAgICAgICAgKiB7QGxpbmsgI3NldEFsbG93ZWRPdmVyTWV0ZXJlZChib29sZWFuKX0gaW5zdGVhZCwgc2luY2UgaXQncyBtb3JlCiAgICAgICAgICogZmxleGlibGUu</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGlmIChpbnRlbnQgIT0gbnVsbCAmJiBpbnRlbnQuaGFzRXh0cmEoQ09MVU1OX0lEKSkgewoKICAgICAgICB9IGVsc2Ug</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBWSVNJQklMSVRZX0hJRERFTiA9IDI7CiAgICAgICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgVklTSUJJTElUWV9WSVNJQkxFID0gMDsKICAgICAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBWSVNJQklMSVRZX1ZJU0lCTEVfTk9USUZZX0NPTVBMRVRFRCA9IDE7CiAgICAgICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgVklTSUJJTElUWV9WSVNJQkxFX05PVElGWV9PTkxZX0NPTVBMRVRJT04gPSAzOw==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgKiBUaGUgZG93bmxvYWRlZCBmaWxlIGlzIG5vdCBzY2FubmVkIGJ5IE1lZGlhU2Nhbm5lci4gQnV0IGl0IGNhbiBiZQogICAgICAgICAqIG1hZGUgc2Nhbm5hYmxlIGJ5IGNhbGxpbmcge0BsaW5rICNhbGxvd1NjYW5uaW5nQnlNZWRpYVNjYW5uZXIoKX0uCiAgICAgICAgICo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBTZXQgdGhlIGxvY2FsIGRlc3RpbmF0aW9uIGZvciB0aGUgZG93bmxvYWRlZCBmaWxlIHRvIHRoZSBzeXN0ZW0gY2FjaGUgZGlyICgvY2FjaGUpLgogICAgICAgICAqIFRoaXMgaXMgb25seSBhdmFpbGFibGUgdG8gU3lzdGVtIGFwcHMgd2l0aCB0aGUgcGVybWlzc2lvbgogICAgICAgICAqIHtAbGluayBhbmRyb2lkLk1hbmlmZXN0LnBlcm1pc3Npb24jQUNDRVNTX0NBQ0hFX0ZJTEVTWVNURU19LgogICAgICAgICAqIHtAbGluayBhbmRyb2lkLk1hbmlmZXN0LnBlcm1pc3Npb24jRklMRX0uCiAgICAgICAgICogPHA+CiAgICAgICAgICogVGhlIGRvd25sb2FkZWQgZmlsZSBpcyBub3Qgc2Nhbm5lZCBieSBNZWRpYVNjYW5uZXIuCiAgICAgICAgICogQnV0IGl0IGNhbiBiZSBtYWRlIHNjYW5uYWJsZSBieSBjYWxsaW5nIHtAbGluayAjYWxsb3dTY2FubmluZ0J5TWVkaWFTY2FubmVyKCl9LgogICAgICAgICAqIDxwPgogICAgICAgICAqIEZpbGVzIGRvd25sb2FkZWQgdG8gL2NhY2hlIG1heSBiZSBkZWxldGVkIGJ5IHRoZSBzeXN0ZW0gYXQgYW55IHRpbWUgdG8gcmVjbGFpbSBzcGFjZS4KICAgICAgICAgKgogICAgICAgICAqIEByZXR1cm4gdGhpcyBvYmplY3QKICAgICAgICAgKiBAaGlkZQogICAgICAgICAqLwogICAgICAgIHB1YmxpYyBSZXF1ZXN0IHNldERlc3RpbmF0aW9uVG9TeXN0ZW1DYWNoZSgpIHsKICAgICAgICAgICAgbVVzZVN5c3RlbUNhY2hlID0gdHJ1ZTsKICAgICAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgKiA8cD4KICAgICAgICAgKiBUaGUgZG93bmxvYWRlZCBmaWxlIGlzIG5vdCBzY2FubmVkIGJ5IE1lZGlhU2Nhbm5lci4KICAgICAgICAgKiBCdXQgaXQgY2FuIGJlIG1hZGUgc2Nhbm5hYmxlIGJ5IGNhbGxpbmcge0BsaW5rICNhbGxvd1NjYW5uaW5nQnlNZWRpYVNjYW5uZXIoKX0uCiAgICAgICAgICogPHA+</text>
+      </register>
+      <register name="6" type="4">
+        <text>/**
+         * 
+         */</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTUUxpdGVIZWxwZXIgc3FMaXRlSGVscGVyID0gU1FMaXRlSGVscGVyLmdldEluc3RhbmNlKG1Db250ZXh0KTsKICAgICAgICAgICAgICAgICAgICBDdXJzb3IgY3Vyc29yID0gc3FMaXRlSGVscGVyLmdldFBhdXNlQ3Vyc29yKCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGN1cnNvci5nZXRDb3VudCgpID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICB3aGlsZSAoY3Vyc29yLm1vdmVUb05leHQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IGlkID0gY3Vyc29yLmdldEludCgwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9rRG93bmxvYWRNYW5hZ2VyLmRvd25sb2FkKG1Db250ZXh0LCBpZCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IGlmIChpbnRlbnQgIT0gbnVsbCAmJiBpbnRlbnQuaGFzRXh0cmEoQ09MVU1OX0lEKSkgewoKICAgICAgICB9IGVsc2Ug</text>
+      </register>
+      <register name="9" type="4">
         <text>//        // TODO: 16/8/10 检查当前未下载完成的链接
 //        Cursor cursor = mSQLiteHelper.getPauseCursor();
 //        while (cursor.moveToNext()) {
@@ -1067,35 +1091,6 @@
 //            // TODO: 16/8/11 测试断点续传
 //            return super.onStartCommand(intent, flags, startId);
 //        }</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoY3Vyc29yLm1vdmVUb0ZpcnN0KCkpIHsKICAgICAgICAgICAgU3RyaW5nIHRpdGxlID0gY3Vyc29yLmdldFN0cmluZygxKTsKICAgICAgICAgICAgU3RyaW5nIHVyaSA9IGN1cnNvci5nZXRTdHJpbmcoMik7CiAgICAgICAgICAgIFN0cmluZyBsb2NhbFVyaSA9IGN1cnNvci5nZXRTdHJpbmcoMyk7CiAgICAgICAgICAgIExvZy5kKFRBRywgIlRpdGxlICIgKyB0aXRsZSArICIgVXJpICIgKyB1cmkgKyAiIGxvY2FsVXJpICIgKyBsb2NhbFVyaSk7CgogICAgICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShsb2NhbFVyaSArIFRFTVBfU1VGRklYKTsKCi8vICAgICAgICAgICAgZG93bmxvYWQoaWQsIHVyaSwgdGl0bGUsIGxvY2FsVXJpLCBmaWxlLmxlbmd0aCgpKTsKICAgICAgICAgICAgSW50ZW50IGkgPSBuZXcgSW50ZW50KGNvbnRleHQsIE9rRG93bmxvYWRNYW5hZ2VyLmNsYXNzKTsKICAgICAgICAgICAgaS5wdXRFeHRyYShDT0xVTU5fSUQsIChpbnQpIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgICAgICAgICAgaS5wdXRFeHRyYShDT0xVTU5fVVJJLCB1cmkpOwogICAgICAgICAgICBpLnB1dEV4dHJhKENPTFVNTl9USVRMRSwgdGl0bGUpOwogICAgICAgICAgICBpLnB1dEV4dHJhKEZJTEVOQU1FLCBsb2NhbFVyaSk7CiAgICAgICAgICAgIGNvbnRleHQuc3RhcnRTZXJ2aWNlKGkpOwogICAgICAgIH0=</text>
-      </register>
-      <register name="5" type="4">
-        <text>//            db.beginTransaction();
-//            ContentValues values = new ContentValues();
-//            values.put(&quot;status&quot;, status);
-//            values.put(&quot;total_size_bytes&quot;, totalSizeBytes);
-//            int number = db.update(TABLE_NAME, values, &quot;id = ?&quot;, new String[] {id + &quot;&quot;});
-//            Log.d(TAG, &quot;status:&quot; + status + &quot; id &quot; + id + &quot; number &quot; + number);
-//            db.endTransaction();</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgZGIuYmVnaW5UcmFuc2FjdGlvbigpOwovLyAgICAgICAgICAgIENvbnRlbnRWYWx1ZXMgdmFsdWVzID0gbmV3IENvbnRlbnRWYWx1ZXMoKTsKLy8gICAgICAgICAgICB2YWx1ZXMucHV0KCJzdGF0dXMiLCBzdGF0dXMpOwovLyAgICAgICAgICAgIHZhbHVlcy5wdXQoInRvdGFsX3NpemVfYnl0ZXMiLCB0b3RhbFNpemVCeXRlcyk7Ci8vICAgICAgICAgICAgaW50IG51bWJlciA9IGRiLnVwZGF0ZShUQUJMRV9OQU1FLCB2YWx1ZXMsICJpZCA9ID8iLCBuZXcgU3RyaW5nW10ge2lkICsgIiJ9KTsKLy8gICAgICAgICAgICBMb2cuZChUQUcsICJzdGF0dXM6IiArIHN0YXR1cyArICIgaWQgIiArIGlkICsgIiBudW1iZXIgIiArIG51bWJlcik7Ci8vICAgICAgICAgICAgZGIuZW5kVHJhbnNhY3Rpb24oKTs=</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGlmIChkb25lKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1VcmwgPSBudWxsOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtUGVyY2VudCA9IC0xOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJkb3dubG9hZCBkb25lOyB1cmw6ICIgKyBtVXJsKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text>Request.Builder requestBuilder = new Request.Builder()
-                .url(url)
-                .get();</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci8vICAgICAgICBJbnB1dFN0cmVhbSBzdHJlYW0gPSByZXNwb25zZS5ib2R5KCkuYnl0ZVN0cmVhbSgpOwovLyAgICAgICAgRmlsZU91dHB1dFN0cmVhbSBmb3MgPSBudWxsOw==</text>
       </register>
     </registers>
     <search>
