@@ -175,7 +175,6 @@
         <mark key="." line="1" column="1" />
         <mark key="[" line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1470876001212" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/fragment/honest/qlist/vh/QuestionListVH.java" timestamp="1470738467917">
         <mark key="]" line="95" column="89" />
         <mark key="^" line="92" column="89" />
@@ -287,10 +286,10 @@
         <mark key="." line="206" column="0" />
         <mark key="[" line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/common/GlideUtil.java" timestamp="1470907654459">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/common/GlideUtil.java" timestamp="1470910041725">
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-        <mark key="[" line="21" column="0" />
+        <mark key="[" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/values/colors.xml" timestamp="1470736428854">
         <mark key="]" line="12" column="17" />
@@ -440,6 +439,11 @@
         <mark key="." line="37" column="0" />
         <mark key="[" line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/item_gv_img.xml" timestamp="1470910812468">
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="[" line="9" column="31" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/question_detail_answer.xml" timestamp="1470907820538" />
       <file name="/Dummy.txt" timestamp="1470909198519">
         <mark key="]" line="0" column="0" />
@@ -451,7 +455,7 @@
         <mark key="." line="30" column="4" />
         <mark key="[" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1470909412320">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1470911097110">
         <mark key="]" line="237" column="33" />
         <mark key="^" line="109" column="93" />
         <mark key="." line="237" column="33" />
@@ -534,13 +538,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getMediumThumbnail</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>getMediumThumbnail</text>
+        <text>match_parent</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
