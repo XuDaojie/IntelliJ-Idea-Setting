@@ -196,9 +196,7 @@
         <mark key="." line="46" column="53" />
         <mark key="[" line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/activity_question_detail.xml" timestamp="1470882680068">
-        <mark key="[" line="10" column="43" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/activity_question_detail.xml" timestamp="1470909195295" />
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/HelperCenterAty.java" timestamp="1466584005419">
         <mark key="]" line="92" column="45" />
         <mark key="." line="92" column="45" />
@@ -300,7 +298,7 @@
         <mark key="[" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/cquestion/adpter/VoiceAdapter.java" timestamp="1470906974254" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailPresenter.java" timestamp="1470907364473" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailPresenter.java" timestamp="1470908841935" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/view/behavior/RelativeLayoutBehavior1.java" timestamp="1470825411836">
         <mark key="]" line="47" column="21" />
         <mark key="^" line="47" column="21" />
@@ -312,7 +310,7 @@
         <mark key="." line="112" column="0" />
         <mark key="[" line="112" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470878007153">
+      <file name="/a.dummy" timestamp="1470909198551">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -442,8 +440,8 @@
         <mark key="." line="37" column="0" />
         <mark key="[" line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/question_detail_answer.xml" timestamp="1470907750266" />
-      <file name="/Dummy.txt" timestamp="1470878007139">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/question_detail_answer.xml" timestamp="1470907820538" />
+      <file name="/Dummy.txt" timestamp="1470909198519">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -453,16 +451,16 @@
         <mark key="." line="30" column="4" />
         <mark key="[" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1470907343713">
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-        <mark key="[" line="232" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1470909412320">
+        <mark key="]" line="237" column="33" />
+        <mark key="^" line="109" column="93" />
+        <mark key="." line="237" column="33" />
+        <mark key="[" line="237" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/menu/menu_question_detail.xml" timestamp="1470883172445">
-        <mark key="]" line="11" column="34" />
-        <mark key="^" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="[" line="3" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/menu/menu_question_detail.xml" timestamp="1470908822187">
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/AndroidManifest.xml" timestamp="1464137183158">
         <mark key="]" line="94" column="41" />
@@ -536,36 +534,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>getMediumThumbnail</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>getMediumThumbnail</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIC8vIOaXpeacn+mAieaLqQogICAgY29tcGlsZSAnY29tLmJpZ2tvbzpwaWNrZXJ2aWV3OjIuMS4wJw==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIDwhLS08aXRlbS0tPgogICAgPCEtLWFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX3NoYXJlIi0tPgogICAgPCEtLWFuZHJvaWQ6b3JkZXJJbkNhdGVnb3J5PSI5MCItLT4KICAgIDwhLS1hbmRyb2lkOnRpdGxlPSJAc3RyaW5nL3NlZF9hbnN3ZXIiLS0+CiAgICA8IS0tYW5kcm9pZDppY29uPSJAbWlwbWFwL2ltZ19tZW51X2ljbiItLT4KICAgIDwhLS1hcHA6c2hvd0FzQWN0aW9uPSJpZlJvb20iIC8+LS0+</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90dl9hbnN3ZXIiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudEJvdHRvbT0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvc2VsZWN0b3JfcmVjdF9yZWQiCiAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyIgogICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IkBkaW1lbi9kaW1lbl8xNiIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3F1ZXN0aW9uX2RldGFpbF9hbnN3ZXJfcXVlc3Rpb24iCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3Ivd2hpdGUiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IkBkaW1lbi90ZXh0X3NpemVfMTYiCiAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIKICAgICAgICAgICAgdG9vbHM6dmlzaWJpbGl0eT0idmlzaWJsZSIvPg==</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hcHBlYXNlci5zdWJsaW1lcGlja2VybGlicmFyeTpzdWJsaW1lcGlja2VybGlicmFyeToyLjEuMScgLy8g5pel5pyf6YCJ5oupCg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5iaWdrb286cGlja2VydmlldzoyLjEuMCcgLy8g5Lu/aU9T5pel5pyf6YCJ5oupCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIC8vIOaXpeacn+mAieaLqQogICAgY29tcGlsZSAnY29tLmJpZ2tvbzpwaWNrZXJ2aWV3OjIuMS4wJw==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>PopuwindowTool.getInstance().showToolBar(this, new PopuwindowTool.OnClicksListener() {
             @Override
             public void clicksShare(View view) {
@@ -588,27 +598,6 @@
                 });
             }
         }, toolbar);</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hcHBlYXNlci5zdWJsaW1lcGlja2VybGlicmFyeTpzdWJsaW1lcGlja2VybGlicmFyeToyLjEuMScgLy8g5pel5pyf6YCJ5oupCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5iaWdrb286cGlja2VydmlldzoyLjEuMCcgLy8g5Lu/aU9T5pel5pyf6YCJ5oupCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5BcHBCYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KCiAgICA8L2FuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LkFwcEJhckxheW91dD4=</text>
-      </register>
-      <register name="8" type="4">
-        <text>//                PopuwindowTool.getInstance().showReport(QuestionDetailActivity.this, new PopuwindowTool.OnClicksListener() {
-//                    @Override
-//                    public void clicksShare(View view) {
-//                    }
-//
-//                    @Override
-//                    public void clicksReport(View view) {
-//
-//                    }
-//                }, toolbar);</text>
       </register>
     </registers>
     <search>
