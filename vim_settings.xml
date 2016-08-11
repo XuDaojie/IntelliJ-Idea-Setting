@@ -206,6 +206,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/view/behavior/TestLayout.java" timestamp="1470824852586">
         <mark key="[" line="37" column="25" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/.gitignore" timestamp="1470877990575">
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/drawable/dialog_no_padding.xml" timestamp="1469781478455">
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -287,12 +292,6 @@
         <mark key="." line="12" column="17" />
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailPresenter.java" timestamp="1470818322735">
-        <mark key="]" line="14" column="2" />
-        <mark key="^" line="14" column="2" />
-        <mark key="." line="14" column="2" />
-        <mark key="[" line="46" column="50" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/view/behavior/RelativeLayoutBehavior1.java" timestamp="1470825411836">
         <mark key="]" line="47" column="21" />
         <mark key="^" line="47" column="21" />
@@ -304,7 +303,7 @@
         <mark key="." line="112" column="0" />
         <mark key="[" line="112" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470826357071">
+      <file name="/a.dummy" timestamp="1470878007153">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -345,10 +344,10 @@
         <mark key="." line="368" column="63" />
         <mark key="[" line="368" column="63" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/gradle.properties" timestamp="1470364724149">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/gradle.properties" timestamp="1470877419128">
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-        <mark key="[" line="13" column="0" />
+        <mark key="[" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/common/phone/ToActivityUtil.java" timestamp="1470738346720">
         <mark key="]" line="92" column="9" />
@@ -433,7 +432,7 @@
         <mark key="." line="37" column="0" />
         <mark key="[" line="37" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470826357055">
+      <file name="/Dummy.txt" timestamp="1470878007139">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -443,11 +442,8 @@
         <mark key="." line="30" column="4" />
         <mark key="[" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1470800454875">
-        <mark key="]" line="257" column="0" />
-        <mark key="^" line="100" column="27" />
-        <mark key="." line="257" column="0" />
-        <mark key="[" line="257" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1470877809543">
+        <mark key="[" line="128" column="64" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/menu/menu_question_detail.xml" timestamp="1469776376978">
         <mark key="]" line="9" column="26" />
@@ -526,13 +522,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5BcHBCYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KCiAgICA8L2FuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LkFwcEJhckxheW91dD4=</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>coordinatorLayout</text>
+        <text>#</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
