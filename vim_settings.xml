@@ -206,10 +206,11 @@
         <mark key="." line="46" column="53" />
         <mark key="[" line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/activity_question_detail.xml" timestamp="1470965199108">
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="[" line="42" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/activity_question_detail.xml" timestamp="1470991320250">
+        <mark key="]" line="101" column="44" />
+        <mark key="^" line="65" column="37" />
+        <mark key="." line="101" column="44" />
+        <mark key="[" line="101" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/HelperCenterAty.java" timestamp="1466584005419">
         <mark key="]" line="92" column="45" />
@@ -336,7 +337,7 @@
         <mark key="." line="4" column="40" />
         <mark key="[" line="4" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1470985429640">
+      <file name="/a.dummy" timestamp="1470990969509">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -358,7 +359,7 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/item_question_answer.xml" timestamp="1470988104890">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/item_question_answer.xml" timestamp="1470989254095">
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
         <mark key="[" line="75" column="58" />
@@ -477,6 +478,11 @@
         <mark key="." line="9" column="31" />
         <mark key="[" line="9" column="31" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/view/behavior/LinearLayoutBehavior.java" timestamp="1470990913331">
+        <mark key="]" line="20" column="69" />
+        <mark key="." line="20" column="69" />
+        <mark key="[" line="20" column="69" />
+      </file>
       <file name="/Dummy.txt" timestamp="1470984688801">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -487,11 +493,11 @@
         <mark key="." line="30" column="4" />
         <mark key="[" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1470988312223">
-        <mark key="]" line="274" column="11" />
-        <mark key="^" line="274" column="11" />
-        <mark key="." line="274" column="11" />
-        <mark key="[" line="250" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1470991539296">
+        <mark key="]" line="179" column="36" />
+        <mark key="^" line="251" column="11" />
+        <mark key="." line="179" column="36" />
+        <mark key="[" line="179" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/AndroidManifest.xml" timestamp="1464137183158">
         <mark key="]" line="94" column="41" />
@@ -513,7 +519,7 @@
         <mark key="." line="21" column="51" />
         <mark key="[" line="21" column="51" />
       </file>
-      <file name="/fragment.java" timestamp="1470907420574">
+      <file name="/fragment.java" timestamp="1470990876786">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -570,31 +576,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-     * 为null或 &quot;&quot; 返回0
-     * @param value
-     * @return
-     */
-    public static String numberValue(String value) {
-
-    }</text>
+        <text>tvAccept</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>tvAccept</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHYuZ2V0SWQoKSkgewogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="0" type="2">
+        <text />
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PFZpZXdTdHViCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIvPg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIKICAgICAgICAgICAgICAgIHRvb2xzOnZpc2liaWxpdHk9InZpc2libGUi</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIKICAgICAgICAgICAgICAgIHRvb2xzOnZpc2liaWxpdHk9InZpc2libGUi</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBvbkNyZWF0ZShCdW5kbGUgc2F2ZWRJbnN0YW5jZVN0YXRlKSB7CiAgICAgICAgc3VwZXIub25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlKTsKICAgICAgICAvLyBUT0RPOiBhZGQgc2V0Q29udGVudFZpZXcoLi4uKSBpbnZvY2F0aW9uCiAgICAgICAgQnV0dGVyS25pZmUuYmluZCh0aGlzKTsKICAgIH0=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcuc2V0QW5zd2VyQnRuRW5hYmxlZCh0cnVlKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="8" type="4">
         <text>/**
      * 为null或 &quot;&quot; 返回0
      * @param value
@@ -603,30 +626,6 @@
     public static String numberValue(String value) {
 
     }</text>
-      </register>
-      <register name="0" type="2">
-        <text />
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1WaWV3LnNldEFuc3dlclZpZXcobnVsbCk7IC8vIFRPRE86IDE2LzgvMTAg5rWL6K+VCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKCEiMDAwMCIuZXF1YWxzKCgoQXBpRXhjZXB0aW9uKWUpLmdldFJldHVybkNvZGUoKSkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcuc2V0UXVlc3Rpb25BbnN3ZXJlZCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICB2aWV3LnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdikgewoKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBsaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCA2OyBpKyspIHsKICAgICAgICAgICAgbGlzdC5hZGQoImh0dHA6Ly9waWMud2Vud2VuLnNvc28uY29tL3AvMjAxMTA1MTUvMjAxMTA1MTUwMDE5MTYtMTA0ODI3ODY1LmpwZyIpOwogICAgICAgIH0KCiAgICAgICAgZ3ZRdWVzdGlvbkltZ3Muc2V0QWRhcHRlcihuZXcgSW1hZ2VHVmFkcHRlcihtQ29udGV4dCwgbGlzdCkpOw==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBydkFuc3dlci5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
       </register>
     </registers>
     <search>
