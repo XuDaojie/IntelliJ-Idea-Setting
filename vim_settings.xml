@@ -186,6 +186,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/res/layout/toolbar.xml" timestamp="1470882677382">
         <mark key="[" line="8" column="47" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/quest_detail_context.xml" timestamp="1471256567949">
+        <mark key="]" line="91" column="12" />
+        <mark key="^" line="61" column="20" />
+        <mark key="." line="91" column="12" />
+        <mark key="[" line="91" column="12" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/core/convert/CustomConverterFactory.java" timestamp="1465956142115">
         <mark key="]" line="46" column="53" />
         <mark key="." line="46" column="53" />
@@ -303,6 +309,11 @@
         <mark key="." line="12" column="17" />
         <mark key="[" line="14" column="43" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/cquestion/adpter/VoiceAdapter.java" timestamp="1471255946898">
+        <mark key="]" line="46" column="37" />
+        <mark key="." line="46" column="37" />
+        <mark key="[" line="46" column="37" />
+      </file>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-23/android/webkit/WebViewFragment.java" timestamp="1471246497586" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailPresenter.java" timestamp="1471254824275">
         <mark key="]" line="64" column="15" />
@@ -315,7 +326,7 @@
         <mark key="." line="112" column="0" />
         <mark key="[" line="112" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1471254004550">
+      <file name="/a.dummy" timestamp="1471257434795">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -325,10 +336,10 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/item_question_answer.xml" timestamp="1470989254095">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/item_question_answer.xml" timestamp="1471256163343">
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
-        <mark key="[" line="75" column="58" />
+        <mark key="[" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionPresenter.java" timestamp="1470301197872">
         <mark key="]" line="58" column="3" />
@@ -449,7 +460,7 @@
         <mark key="." line="20" column="69" />
         <mark key="[" line="20" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471254004539">
+      <file name="/Dummy.txt" timestamp="1471257434784">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -459,12 +470,12 @@
         <mark key="." line="30" column="4" />
         <mark key="[" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1471255097929">
-        <mark key="p" line="302" column="56" />
-        <mark key="]" line="278" column="70" />
-        <mark key="^" line="272" column="60" />
-        <mark key="." line="278" column="70" />
-        <mark key="[" line="278" column="70" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1471257432024">
+        <mark key="p" line="335" column="56" />
+        <mark key="]" line="299" column="80" />
+        <mark key="^" line="265" column="26" />
+        <mark key="." line="299" column="80" />
+        <mark key="[" line="299" column="80" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/AndroidManifest.xml" timestamp="1464137183158">
         <mark key="]" line="94" column="41" />
@@ -552,59 +563,63 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>context</text>
+        <text>entity</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>entity</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IDxtZS54ZGoudmlldy5NdWx0aVN0YXRlVmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbXVsdGlfc3RhdGVfdmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4KICAgICAgICA8V2ViVmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3dlYl92aWV3IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgLz4KICAgIDwvbWUueGRqLnZpZXcuTXVsdGlTdGF0ZVZpZXc+</text>
+        <text encoding="base64">IEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblBhZ2VGaW5pc2hlZChXZWJWaWV3IHZpZXcsIFN0cmluZyB1cmwpIHsKICAgICAgICAgICAgICAgIHN1cGVyLm9uUGFnZUZpbmlzaGVkKHZpZXcsIHVybCk7CiAgICAgICAgICAgICAgICBtTXVsdGlTdGF0ZVZpZXcuc2V0Vmlld1N0YXRlKE11bHRpU3RhdGVWaWV3LlZJRVdfU1RBVEVfQ09OVEVOVCk7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQud2ViX3ZpZXcpCiAgICBXZWJWaWV3IG1XZWJWaWV3OwogICAgQEJpbmQoUi5pZC50aXRsZV90dikKICAgIFRleHRWaWV3IG1UaXRsZVR2OwogICAgQEJpbmQoUi5pZC50b29sYmFyKQogICAgVG9vbGJhciBtVG9vbGJhcjsKICAgIEBCaW5kKFIuaWQubXVsdGlfc3RhdGVfdmlldykKICAgIE11bHRpU3RhdGVWaWV3IG1NdWx0aVN0YXRlVmlldzs=</text>
+        <text>this.mVideoEntities = videoEntities;
+        mLayoutInflater = LayoutInflater.from(context);
+        this.mContext = context;
+        // 获取系统宽度
+        WindowManager wManager = (WindowManager) mContext
+                .getSystemService(Context.WINDOW_SERVICE);
+        DisplayMetrics outMetrics = new DisplayMetrics();
+        wManager.getDefaultDisplay().getMetrics(outMetrics);
+        mMaxItemWith = (int) (outMetrics.widthPixels * 0.5f);
+        mMinItemWith = (int) (outMetrics.widthPixels * 0.15f);
+        if (null != monDataSetChangedListener) {
+            monDataSetChangedListener.dataChanged();
+        }</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblBhZ2VGaW5pc2hlZChXZWJWaWV3IHZpZXcsIFN0cmluZyB1cmwpIHsKICAgICAgICAgICAgICAgIHN1cGVyLm9uUGFnZUZpbmlzaGVkKHZpZXcsIHVybCk7CiAgICAgICAgICAgICAgICBtTXVsdGlTdGF0ZVZpZXcuc2V0Vmlld1N0YXRlKE11bHRpU3RhdGVWaWV3LlZJRVdfU1RBVEVfQ09OVEVOVCk7CiAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgbVZvaWNlQWRhcHRlciA9IG5ldyBWb2ljZUFkYXB0ZXIodmlkZW9FbnRpdHlMaXN0LCBjb250ZXh0KTsKLy8gICAgICAgICAgICBob2xkZXIubHZWaWRlby5zZXRBZGFwdGVyKG1Wb2ljZUFkYXB0ZXIpOw==</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpbmNsdWRlIGxheW91dD0iQGxheW91dC90b29sYmFyIiAvPgo=</text>
+      <register name="7" type="4">
+        <text>if (mWebView != null) {
+            mWebView.destroy();
+        }</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIDxtZS54ZGoudmlldy5NdWx0aVN0YXRlVmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbXVsdGlfc3RhdGVfdmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4KCiAgICA8L21lLnhkai52aWV3Lk11bHRpU3RhdGVWaWV3Pg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>if (mWebView != null) {
-            mWebView.destroy();
-        }</text>
-      </register>
-      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOm1heD0iMTAwIgogICAgICAgIHRvb2xzOnByb2dyZXNzPSI1MCI=</text>
       </register>
-      <register name="9" type="4">
-        <text>new AppMarketLinePresenter(
-                this,
-                lineView,
-                mMarketInteractor,
-                mAppId,
-                mAppModuleId,
-                url,
-                params,
-                data);</text>
+      <register name="5" type="4">
+        <text encoding="base64">IDxtZS54ZGoudmlldy5NdWx0aVN0YXRlVmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbXVsdGlfc3RhdGVfdmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4KICAgICAgICA8V2ViVmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3dlYl92aWV3IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgLz4KICAgIDwvbWUueGRqLnZpZXcuTXVsdGlTdGF0ZVZpZXc+</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQud2ViX3ZpZXcpCiAgICBXZWJWaWV3IG1XZWJWaWV3OwogICAgQEJpbmQoUi5pZC50aXRsZV90dikKICAgIFRleHRWaWV3IG1UaXRsZVR2OwogICAgQEJpbmQoUi5pZC50b29sYmFyKQogICAgVG9vbGJhciBtVG9vbGJhcjsKICAgIEBCaW5kKFIuaWQubXVsdGlfc3RhdGVfdmlldykKICAgIE11bHRpU3RhdGVWaWV3IG1NdWx0aVN0YXRlVmlldzs=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGxheW91dD0iQGxheW91dC90b29sYmFyIiAvPgo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgQnVuZGxlIGJ1bmRsZSA9IG5ldyBCdW5kbGUoKTsKICAgICAgICBidW5kbGUucHV0U3RyaW5nKFBhcmFtcy5LRVlfVVJMLCB1cmwpOw==</text>
+        <text encoding="base64">ICAgIDxtZS54ZGoudmlldy5NdWx0aVN0YXRlVmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbXVsdGlfc3RhdGVfdmlldyIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4KCiAgICA8L21lLnhkai52aWV3Lk11bHRpU3RhdGVWaWV3Pg==</text>
       </register>
     </registers>
     <search>
