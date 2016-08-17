@@ -48,10 +48,10 @@
         <mark key="." line="71" column="0" />
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/common/Event.java" timestamp="1470357988397">
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/common/Event.java" timestamp="1471400079235">
         <mark key="]" line="18" column="46" />
         <mark key="." line="18" column="46" />
-        <mark key="[" line="18" column="45" />
+        <mark key="[" line="19" column="55" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/DisplayUtil.java" timestamp="1464939861048">
         <mark key="]" line="15" column="28" />
@@ -102,6 +102,11 @@
         <mark key="]" line="6" column="43" />
         <mark key="." line="6" column="43" />
         <mark key="[" line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/fragment/myquestion/MyQuestionFragment.java" timestamp="1471401748536">
+        <mark key="]" line="71" column="56" />
+        <mark key="." line="71" column="56" />
+        <mark key="[" line="71" column="56" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/build.gradle" timestamp="1471396758280">
         <mark key="]" line="21" column="29" />
@@ -181,7 +186,6 @@
         <mark key="." line="4" column="27" />
         <mark key="[" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1471319192850" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/res/layout/toolbar.xml" timestamp="1470882677382">
         <mark key="[" line="8" column="47" />
       </file>
@@ -319,18 +323,18 @@
         <mark key="." line="12" column="17" />
         <mark key="[" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailPresenter.java" timestamp="1471332627406">
-        <mark key="]" line="182" column="34" />
-        <mark key="^" line="182" column="34" />
-        <mark key="." line="182" column="34" />
-        <mark key="[" line="151" column="25" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailPresenter.java" timestamp="1471400210291">
+        <mark key="]" line="84" column="82" />
+        <mark key="^" line="84" column="82" />
+        <mark key="." line="84" column="82" />
+        <mark key="[" line="78" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/login_fragment.xml" timestamp="1468996079601">
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
         <mark key="[" line="112" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1471396042710">
+      <file name="/a.dummy" timestamp="1471401562680">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -478,7 +482,7 @@
         <mark key="." line="20" column="69" />
         <mark key="[" line="20" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471395844948">
+      <file name="/Dummy.txt" timestamp="1471401562670">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -592,13 +596,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;$compileSdkVersion&quot;</text>
+        <text>fetch</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;$compileSdkVersion&quot;</text>
+        <text>fetch</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
