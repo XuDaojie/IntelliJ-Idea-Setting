@@ -48,10 +48,10 @@
         <mark key="." line="71" column="0" />
         <mark key="[" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/common/Event.java" timestamp="1471400079235">
-        <mark key="]" line="18" column="46" />
-        <mark key="." line="18" column="46" />
-        <mark key="[" line="19" column="55" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/common/Event.java" timestamp="1471424967417">
+        <mark key="]" line="20" column="46" />
+        <mark key="." line="20" column="46" />
+        <mark key="[" line="12" column="65" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/DisplayUtil.java" timestamp="1464939861048">
         <mark key="]" line="15" column="28" />
@@ -88,10 +88,11 @@
         <mark key="." line="162" column="0" />
         <mark key="[" line="162" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/base/BaseActivity.java" timestamp="1471310580324">
-        <mark key="]" line="37" column="14" />
-        <mark key="." line="37" column="14" />
-        <mark key="[" line="37" column="14" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/base/BaseActivity.java" timestamp="1471425619809">
+        <mark key="]" line="255" column="20" />
+        <mark key="^" line="255" column="20" />
+        <mark key="." line="255" column="20" />
+        <mark key="[" line="232" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/AndroidManifest.xml" timestamp="1469528610295">
         <mark key="]" line="76" column="36" />
@@ -323,18 +324,12 @@
         <mark key="." line="12" column="17" />
         <mark key="[" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailPresenter.java" timestamp="1471400210291">
-        <mark key="]" line="84" column="82" />
-        <mark key="^" line="84" column="82" />
-        <mark key="." line="84" column="82" />
-        <mark key="[" line="78" column="24" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/login_fragment.xml" timestamp="1468996079601">
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
         <mark key="[" line="112" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1471404405745">
+      <file name="/a.dummy" timestamp="1471426034989">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -486,7 +481,7 @@
         <mark key="." line="20" column="69" />
         <mark key="[" line="20" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471404394360">
+      <file name="/Dummy.txt" timestamp="1471426034950">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -496,11 +491,10 @@
         <mark key="." line="30" column="4" />
         <mark key="[" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1471402949487">
-        <mark key="]" line="353" column="87" />
-        <mark key="^" line="353" column="57" />
-        <mark key="." line="353" column="87" />
-        <mark key="[" line="353" column="87" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailActivity.java" timestamp="1471426162356">
+        <mark key="]" line="157" column="7" />
+        <mark key="." line="157" column="7" />
+        <mark key="[" line="157" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/menu/menu_question_detail.xml" timestamp="1470908822187">
         <mark key="]" line="8" column="0" />
@@ -528,11 +522,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/AppMarketFragment.java" timestamp="1471250469829">
         <mark key="[" line="63" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1471332592884">
-        <mark key="]" line="0" column="20" />
+      <file name="/fragment.java" timestamp="1471424762073">
+        <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="21" />
+        <mark key="[" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/vitamio/build.gradle" timestamp="1471396889662">
         <mark key="]" line="6" column="22" />
@@ -600,39 +594,36 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Part</text>
+        <text encoding="base64">IFJ4QnVzVXRpbC5nZXREZWZhdWx0KCkudG9PYnNlcnZlcmFibGUoRXZlbnQuY2xhc3MpCiAgICAgICAgICAgICAgICAuY29tcG9zZSh0aGlzLjxFdmVudD5iaW5kVW50aWxFdmVudChBY3Rpdml0eUV2ZW50LkRFU1RST1kpKQogICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCiAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKG5ldyBPYnNlcnZlcjxFdmVudD4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25Db21wbGV0ZWQoKSB7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkVycm9yKFRocm93YWJsZSBlKSB7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbk5leHQoRXZlbnQgZXZlbnQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGV2ZW50LndoYXQgPT0gRXZlbnQuTE9HT1VUKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcmFtZUhvbWUuY2FsbE9uQ2xpY2soKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChldmVudC53aGF0ID09IEV2ZW50LkxPR09VVF9MT1NFX0VGRklDQUNZKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0VXRpbC5nZXRJbnN0YW5jZSgpLnNob3coUi5zdHJpbmcuaGludF9sb2dpbl9vdGhlcik7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvQWN0aXZpdHlVdGlsLmdldEluc3RhbmNlKCkudG9OZXh0KE1haW5UYWJBdHkudGhpcywgTG9naW5BY3Rpdml0eS5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b2tlblJ1bm91dCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgQXBwTWFuYWdlci5nZXRBcHBNYW5hZ2VyKCkuZmluaXNoQWxsQWN0aXZpdHkoTWFpblRhYkF0eS50aGlzKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChldmVudC53aGF0ID09IEV2ZW50LlVOTE9HSU4pIHsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>Part</text>
+        <text>tokenRunoutDialog</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBTbWFsbFRodW1ibmFpbDsK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IHB1YmxpYyBTdHJpbmcgZ2V0SWQoKSB7CiAgICAgICAgICAgIHJldHVybiBJZDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldElkKFN0cmluZyBJZCkgewogICAgICAgICAgICB0aGlzLklkID0gSWQ7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldE1lZGl1bVRodW1ibmFpbCgpIHsKICAgICAgICAgICAgcmV0dXJuIE1lZGl1bVRodW1ibmFpbDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldE1lZGl1bVRodW1ibmFpbChTdHJpbmcgTWVkaXVtVGh1bWJuYWlsKSB7CiAgICAgICAgICAgIHRoaXMuTWVkaXVtVGh1bWJuYWlsID0gTWVkaXVtVGh1bWJuYWlsOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFN0cmluZyBnZXRSZWxhdGl2ZVBhdGgoKSB7CiAgICAgICAgICAgIHJldHVybiBSZWxhdGl2ZVBhdGg7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXRSZWxhdGl2ZVBhdGgoU3RyaW5nIFJlbGF0aXZlUGF0aCkgewogICAgICAgICAgICB0aGlzLlJlbGF0aXZlUGF0aCA9IFJlbGF0aXZlUGF0aDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0U21hbGxUaHVtYm5haWwoKSB7CiAgICAgICAgICAgIHJldHVybiBTbWFsbFRodW1ibmFpbDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldFNtYWxsVGh1bWJuYWlsKFN0cmluZyBTbWFsbFRodW1ibmFpbCkgewogICAgICAgICAgICB0aGlzLlNtYWxsVGh1bWJuYWlsID0gU21hbGxUaHVtYm5haWw7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBJZDsK</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IFJ4QnVzVXRpbC5nZXREZWZhdWx0KCkudG9PYnNlcnZlcmFibGUoRXZlbnQuY2xhc3MpCiAgICAgICAgICAgICAgICAuY29tcG9zZSh0aGlzLjxFdmVudD5iaW5kVW50aWxFdmVudChBY3Rpdml0eUV2ZW50LkRFU1RST1kpKQogICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCiAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKG5ldyBPYnNlcnZlcjxFdmVudD4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25Db21wbGV0ZWQoKSB7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkVycm9yKFRocm93YWJsZSBlKSB7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbk5leHQoRXZlbnQgZXZlbnQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGV2ZW50LndoYXQgPT0gRXZlbnQuTE9HT1VUKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcmFtZUhvbWUuY2FsbE9uQ2xpY2soKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChldmVudC53aGF0ID09IEV2ZW50LkxPR09VVF9MT1NFX0VGRklDQUNZKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0VXRpbC5nZXRJbnN0YW5jZSgpLnNob3coUi5zdHJpbmcuaGludF9sb2dpbl9vdGhlcik7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvQWN0aXZpdHlVdGlsLmdldEluc3RhbmNlKCkudG9OZXh0KE1haW5UYWJBdHkudGhpcywgTG9naW5BY3Rpdml0eS5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b2tlblJ1bm91dCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgQXBwTWFuYWdlci5nZXRBcHBNYW5hZ2VyKCkuZmluaXNoQWxsQWN0aXZpdHkoTWFpblRhYkF0eS50aGlzKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChldmVudC53aGF0ID09IEV2ZW50LlVOTE9HSU4pIHsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgbVZpZXcuc2V0QW5zd2VyRW5hYmxlZChmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIG1WaWV3LnNldENsb3NlbHlFbmFibGVkKGZhbHNlKTs=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIG1WaWV3LnNldEFuc3dlckVuYWJsZWQodHJ1ZSk7</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIG1WaWV3LnNldEFuc3dlckVuYWJsZWQodHJ1ZSk7</text>
-      </register>
-      <register name="5" type="4">
         <text>ew DiaLogUtil().OnClickListener() {
                             @Override
                             public void onClick(View v) {
@@ -640,14 +631,17 @@
                             }
                         }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">bmV3IFZpZXcuT25DbGlja0xpc3RlbmVyKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBpZiAobVBhZ2VUeXBlID09IENvbnN0YW50cy5QQUdFX1RZUEVfUVVFU1RJT05fVU5TT0xWRUQpIHsKICAgICAgICAgICAgZmFiUXVlc3Rpb25DbG9zZWx5LnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsKICAgICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBTbWFsbFRodW1ibmFpbDsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgbVZpZXcuc2V0QW5zd2VyRW5hYmxlZChmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIG1WaWV3LnNldENsb3NlbHlFbmFibGVkKGZhbHNlKTs=</text>
       </register>
     </registers>
     <search>
