@@ -97,7 +97,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/dagger/LoginPresenterModule.java" timestamp="1468770092219">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1471359378714">
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1471362645050">
         <mark key="[" line="254" column="24" />
         <mark key="]" line="254" column="24" />
         <mark key="^" line="110" column="44" />
@@ -205,11 +205,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/java/io/github/xudaojie/okdownloadmanager/sample/MainActivity.java" timestamp="1471358785667">
-        <mark key="[" line="56" column="21" />
-        <mark key="]" line="56" column="21" />
-        <mark key="." line="56" column="21" />
-        <mark key="^" line="92" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/java/io/github/xudaojie/okdownloadmanager/sample/MainActivity.java" timestamp="1471406164265">
+        <mark key="[" line="55" column="55" />
+        <mark key="]" line="55" column="21" />
+        <mark key="." line="55" column="21" />
+        <mark key="^" line="91" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/activity_help_list_aty.xml" timestamp="1466579888036">
         <mark key="[" line="4" column="41" />
@@ -323,10 +323,10 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadReceiver.java" timestamp="1470898160804">
-        <mark key="[" line="90" column="45" />
-        <mark key="]" line="90" column="45" />
-        <mark key="." line="90" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/OkDownloadReceiver.java" timestamp="1471363203157">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/app_market_list_item_check.xml" timestamp="1464774497964">
         <mark key="[" line="1" column="1" />
@@ -470,7 +470,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471362297942">
+      <file name="/Dummy.txt" timestamp="1471364191763">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -497,11 +497,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/list_fragment.xml" timestamp="1463552151612">
         <mark key="[" line="16" column="63" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/DownloadService.java" timestamp="1471360504771">
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="0" />
-        <mark key="." line="242" column="0" />
-        <mark key="^" line="161" column="41" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/DownloadService.java" timestamp="1471405771703">
+        <mark key="[" line="171" column="70" />
+        <mark key="]" line="111" column="44" />
+        <mark key="." line="111" column="44" />
+        <mark key="^" line="236" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnimationsDemo/app/src/main/res/layout/activity_zoom.xml" timestamp="1467082461210">
         <mark key="[" line="57" column="44" />
@@ -525,11 +525,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1471360896548">
+      <file name="/fragment.java" timestamp="1471364066764">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
+        <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="32" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/ConfirmOrderAty.java" timestamp="1466125835450">
         <mark key="[" line="207" column="40" />
@@ -1043,10 +1043,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>file.getParentFile().exists())</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>file.getParentFile().exists())</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
