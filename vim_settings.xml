@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
@@ -97,11 +97,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/dagger/LoginPresenterModule.java" timestamp="1468770092219">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1471362645050">
-        <mark key="[" line="254" column="24" />
-        <mark key="]" line="254" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1471420621375">
+        <mark key="[" line="133" column="5" />
+        <mark key="]" line="121" column="0" />
         <mark key="^" line="110" column="44" />
-        <mark key="." line="254" column="24" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/lifecycle_fragment.xml" timestamp="1464917259882">
         <mark key="[" line="11" column="44" />
@@ -205,7 +205,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/java/io/github/xudaojie/okdownloadmanager/sample/MainActivity.java" timestamp="1471418797418">
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/java/io/github/xudaojie/okdownloadmanager/sample/MainActivity.java" timestamp="1471421102971">
         <mark key="'" line="54" column="55" />
         <mark key="[" line="54" column="55" />
         <mark key="]" line="54" column="21" />
@@ -471,7 +471,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471415900832">
+      <file name="/Dummy.txt" timestamp="1471420143161">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -498,11 +498,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/list_fragment.xml" timestamp="1463552151612">
         <mark key="[" line="16" column="63" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/DownloadService.java" timestamp="1471418875886">
-        <mark key="[" line="236" column="8" />
-        <mark key="]" line="236" column="8" />
-        <mark key="." line="236" column="8" />
-        <mark key="^" line="235" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/DownloadService.java" timestamp="1471420130171">
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+        <mark key="^" line="213" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnimationsDemo/app/src/main/res/layout/activity_zoom.xml" timestamp="1467082461210">
         <mark key="[" line="57" column="44" />
@@ -664,6 +664,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/gradle/wrapper/gradle-wrapper.properties" timestamp="1470584725059">
         <mark key="[" line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/platforms/android-24/android.jar!/android/database/sqlite/SQLiteDatabase.class" timestamp="1471420521959" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/App.java" timestamp="1463623911902">
         <mark key="[" line="23" column="39" />
       </file>
@@ -1044,8 +1045,8 @@
       <jump line="54" column="55" filename="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/java/io/github/xudaojie/okdownloadmanager/sample/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Modified</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Modified</text>
@@ -1056,40 +1057,58 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKG1TUUxpdGVIZWxwZXIuZ2V0RG93bmxvYWRDb3VudCgpID49IDEpIHsKICAgICAgICAgICAgTm90aWZpY2F0aW9uVXRpbHMuc2hvd1BlbmRpbmcobUNvbnRleHQsIHRpdGxlLCAoaW50KSBpZCk7CiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgbVVybCA9IHVybDs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgc2V0RGVzdGluYXRpb25Gcm9tQmFzZShGaWxlIGJhc2UsIFN0cmluZyBzdWJQYXRoKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">cHVibGljIHZvaWQgaW5zZXJ0KFNRTGl0ZURhdGFiYXNlIGRiLAogICAgICAgICAgICAgICAgICAgICAgIGxvbmcgaWQsIGJvb2xlYW4gYWxsb3dXcml0ZSwgbG9uZyB0aW1lbGluZSwKICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbG9jYWxVcmksIFN0cmluZyBtZWRpYVR5cGUsIFN0cmluZyBtZWRpYVByb3ZpZGVyVXJpLAogICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyByZWFzb24sIGludCBzdGF0dXMsIFN0cmluZyB0aXRsZSwKICAgICAgICAgICAgICAgICAgICAgICBsb25nIGN1cnJlbnRTaXplQnl0ZXMsIGxvbmcgdG90YWxTaXplQnl0ZXMsIFN0cmluZyB1cmkpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBTdHJpbmcgbG9jYWxGaWxlTmFtZSA9IGxvY2FsVXJpOwogICAgICAgICAgICBpbnQgYWxsb3dXcml0ZUludCA9IDE7CiAgICAgICAgICAgIGlmICghYWxsb3dXcml0ZSkgYWxsb3dXcml0ZUludCA9IDA7CiAgICAgICAgICAgIE9iamVjdFtdIGJpbmRBcmFncyA9IG5ldyBPYmplY3RbXXsKICAgICAgICAgICAgICAgICAgICBhbGxvd1dyaXRlSW50LCBpZCwgdGltZWxpbmUsCiAgICAgICAgICAgICAgICAgICAgbG9jYWxGaWxlTmFtZSwgbG9jYWxVcmksIG1lZGlhVHlwZSwgbWVkaWFQcm92aWRlclVyaSwgcmVhc29uLAogICAgICAgICAgICAgICAgICAgIHN0YXR1cywgdGl0bGUsIGN1cnJlbnRTaXplQnl0ZXMsIHRvdGFsU2l6ZUJ5dGVzLCB1cml9OwogICAgICAgICAgICBkYi5leGVjU1FMKCJJTlNFUlQgSU5UTyAiICsgVEFCTEVfTkFNRSArCiAgICAgICAgICAgICAgICAgICAgIiBWQUxVRVMoPywgPywgPywgPywgPywgPywgPywgPywgPywgPywgPywgPywgPykiLCBiaW5kQXJhZ3MpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHgK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IC8qKgogICAgICAgICAqIFNldCB0aGUgbG9jYWwgZGVzdGluYXRpb24gZm9yIHRoZSBkb3dubG9hZGVkIGZpbGUgdG8gYSBwYXRoIHdpdGhpbgogICAgICAgICAqIHRoZSBhcHBsaWNhdGlvbidzIGV4dGVybmFsIGZpbGVzIGRpcmVjdG9yeSAoYXMgcmV0dXJuZWQgYnkKICAgICAgICAgKiB7QGxpbmsgQ29udGV4dCNnZXRFeHRlcm5hbEZpbGVzRGlyKFN0cmluZyl9LgogICAgICAgICAqIDxwPgogICAgICAgICAqIEBwYXJhbSBjb250ZXh0IHRoZSB7QGxpbmsgQ29udGV4dH0gdG8gdXNlIGluIGRldGVybWluaW5nIHRoZSBleHRlcm5hbAogICAgICAgICAqICAgICAgICAgICAgZmlsZXMgZGlyZWN0b3J5CiAgICAgICAgICogQHBhcmFtIGRpclR5cGUgdGhlIGRpcmVjdG9yeSB0eXBlIHRvIHBhc3MgdG8KICAgICAgICAgKiAgICAgICAgICAgIHtAbGluayBDb250ZXh0I2dldEV4dGVybmFsRmlsZXNEaXIoU3RyaW5nKX0KICAgICAgICAgKiBAcGFyYW0gc3ViUGF0aCB0aGUgcGF0aCB3aXRoaW4gdGhlIGV4dGVybmFsIGRpcmVjdG9yeSwgaW5jbHVkaW5nIHRoZQogICAgICAgICAqICAgICAgICAgICAgZGVzdGluYXRpb24gZmlsZW5hbWUKICAgICAgICAgKiBAcmV0dXJuIHRoaXMgb2JqZWN0CiAgICAgICAgICogQHRocm93cyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24gSWYgdGhlIGV4dGVybmFsIHN0b3JhZ2UgZGlyZWN0b3J5CiAgICAgICAgICogICAgICAgICAgICAgY2Fubm90IGJlIGZvdW5kIG9yIGNyZWF0ZWQuCiAgICAgICAgICovCiAgICAgICAgcHVibGljIFJlcXVlc3Qgc2V0RGVzdGluYXRpb25JbkV4dGVybmFsRmlsZXNEaXIoQ29udGV4dCBjb250ZXh0LCBTdHJpbmcgZGlyVHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHN1YlBhdGgpIHsKICAgICAgICAgICAgZmluYWwgRmlsZSBmaWxlID0gY29udGV4dC5nZXRFeHRlcm5hbEZpbGVzRGlyKGRpclR5cGUpOwogICAgICAgICAgICBpZiAoZmlsZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCJGYWlsZWQgdG8gZ2V0IGV4dGVybmFsIHN0b3JhZ2UgZmlsZXMgZGlyZWN0b3J5Iik7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoZmlsZS5leGlzdHMoKSkgewogICAgICAgICAgICAgICAgaWYgKCFmaWxlLmlzRGlyZWN0b3J5KCkpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKGZpbGUuZ2V0QWJzb2x1dGVQYXRoKCkgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIiBhbHJlYWR5IGV4aXN0cyBhbmQgaXMgbm90IGEgZGlyZWN0b3J5Iik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBpZiAoIWZpbGUubWtkaXJzKCkpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCJVbmFibGUgdG8gY3JlYXRlIGRpcmVjdG9yeTogIisKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGUuZ2V0QWJzb2x1dGVQYXRoKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHNldERlc3RpbmF0aW9uRnJvbUJhc2UoZmlsZSwgc3ViUGF0aCk7CiAgICAgICAgICAgIHJldHVybiB0aGlzOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBpbnNlcnQoU1FMaXRlRGF0YWJhc2UgZGIsIGxvbmcgaWQsIFN0cmluZyB1cmwsIFN0cmluZyBsb2NhbFVyaSwgU3RyaW5nIHRpdGxlKSB7CiAgICAgICAgaW5zZXJ0KGRiLCBpZCwgdHJ1ZSwgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCksCiAgICAgICAgICAgICAgICBsb2NhbFVyaSwgbnVsbCwgbnVsbCwKICAgICAgICAgICAgICAgIG51bGwsIE9rRG93bmxvYWRNYW5hZ2VyLlNUQVRVU19QRU5ESU5HLCB0aXRsZSwgMCwgMCwgdXJsKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBpbnNlcnQobG9uZyBpZCwgU3RyaW5nIHVyaSwgU3RyaW5nIGxvY2FsVXJpLCBTdHJpbmcgdGl0bGUsIGludCBzdGF0dXMpIHsKICAgICAgICBTUUxpdGVEYXRhYmFzZSBkYiA9IGdldFdyaXRhYmxlRGF0YWJhc2UoKTsKCiAgICAgICAgaW5zZXJ0KGRiLCBpZCwgdHJ1ZSwgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCksCiAgICAgICAgICAgICAgICBsb2NhbFVyaSwgbnVsbCwgbnVsbCwKICAgICAgICAgICAgICAgIG51bGwsIHN0YXR1cywgdGl0bGUsIDAsIDAsIHVyaSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgaW5zZXJ0KGxvbmcgaWQsIFN0cmluZyB1cmwsIFN0cmluZyBsb2NhbFVyaSwgU3RyaW5nIHRpdGxlKSB7CiAgICAgICAgU1FMaXRlRGF0YWJhc2UgZGIgPSBnZXRXcml0YWJsZURhdGFiYXNlKCk7CgogICAgICAgIGluc2VydChkYiwgaWQsIHVybCwgbG9jYWxVcmksIHRpdGxlKTsKICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoIWZpbGUuZXhpc3RzKCkpIHsKICAgICAgICAgICAgZmlsZS5jcmVhdGVOZXdGaWxlKCk7CiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text>f (!file.exists()) {
-            file.createNewFile();
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgfQo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAocG9zID09IDApIHsKICAgICAgICAgICAgbVNRTGl0ZUhlbHBlci5pbnNlcnQoaWQsIHVybCwgZmlsZVBhdGgsIHRpdGxlKTsKICAgICAgICB9</text>
+        <text encoding="base64">IHB1YmxpYyB2b2lkIGluc2VydChsb25nIGlkLCBTdHJpbmcgdXJpLCBTdHJpbmcgbG9jYWxVcmksIFN0cmluZyB0aXRsZSwgaW50IHN0YXR1cykgewogICAgICAgIFNRTGl0ZURhdGFiYXNlIGRiID0gZ2V0V3JpdGFibGVEYXRhYmFzZSgpOwoKICAgICAgICBpbnNlcnQoZGIsIGlkLCB0cnVlLCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSwKICAgICAgICAgICAgICAgIGxvY2FsVXJpLCBudWxsLCBudWxsLAogICAgICAgICAgICAgICAgbnVsbCwgc3RhdHVzLCB0aXRsZSwgMCwgMCwgdXJpKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBpbnNlcnQobG9uZyBpZCwgU3RyaW5nIHVybCwgU3RyaW5nIGxvY2FsVXJpLCBTdHJpbmcgdGl0bGUpIHsKICAgICAgICBTUUxpdGVEYXRhYmFzZSBkYiA9IGdldFdyaXRhYmxlRGF0YWJhc2UoKTsKCiAgICAgICAgaW5zZXJ0KGRiLCBpZCwgdXJsLCBsb2NhbFVyaSwgdGl0bGUpOwogICAg</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICAgICAgLy8gVE9ETzogMTYvOC8xNiDku7vliqHkuI3lrZjlnKgKICAgICAgICAgICAgfQ==</text>
+        <text>//            int downloadType = intent.getIntExtra(DOWNLOAD_TYPE, DOWNLOAD_MODE_NEW_TASK);
+//            if (downloadType != DOWNLOAD_MODE_CONTINUE) {
+//                String fileName = intent.getStringExtra(OkDownloadManager.FILENAME);
+//                int id = intent.getIntExtra(OkDownloadManager.COLUMN_ID, 0);
+//                String url = intent.getStringExtra(OkDownloadManager.COLUMN_URI);
+//                String title = intent.getStringExtra(OkDownloadManager.COLUMN_TITLE);
+//                String filePath = Environment.getExternalStorageDirectory() + &quot;/Download/&quot; + fileName;
+//
+//                filePath = FileUtils.checkOrCreateFileName(filePath, 0);
+//
+//                download(id, url, title, filePath, 0);
+//            } else {
+//                int id = intent.getIntExtra(OkDownloadManager.COLUMN_ID, 0);
+//                String url = intent.getStringExtra(OkDownloadManager.COLUMN_URI);
+//                String title = intent.getStringExtra(OkDownloadManager.COLUMN_TITLE);
+//                String filePath = intent.getStringExtra(OkDownloadManager.COLUMN_LOCAL_URI);
+//
+//                File file = new File(filePath + TEMP_SUFFIX);
+//
+//                download(id, url, title, filePath, file.length());
+//            }</text>
       </register>
     </registers>
     <search>
