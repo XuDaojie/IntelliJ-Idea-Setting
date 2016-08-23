@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="I" line="212" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
@@ -286,6 +286,11 @@
         <mark key="." line="80" column="28" />
         <mark key="[" line="82" column="52" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/menu/menu_device_repair.xml" timestamp="1471915646087">
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="[" line="17" column="24" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_db_list_activity.xml" timestamp="1469688243705">
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
@@ -312,6 +317,11 @@
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="17" />
         <mark key="[" line="86" column="49" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairContact.java" timestamp="1471915848109">
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="[" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/MainActivity.java" timestamp="1465897245490">
         <mark key="]" line="206" column="0" />
@@ -368,6 +378,12 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
         <mark key="[" line="20" column="42" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/AndroidManifest.xml" timestamp="1471915410159">
+        <mark key="]" line="32" column="39" />
+        <mark key="^" line="38" column="26" />
+        <mark key="." line="32" column="39" />
+        <mark key="[" line="32" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionPresenter.java" timestamp="1470301197872">
         <mark key="]" line="58" column="3" />
@@ -495,6 +511,12 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairActivity.java" timestamp="1471915527350">
+        <mark key="]" line="17" column="42" />
+        <mark key="^" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="[" line="17" column="43" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/DashboadListActivity.java" timestamp="1464768871752">
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
@@ -603,13 +625,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>android.support.v7.app.</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
       </register>
       <register name="-" type="4">
-        <text>android.support.v7.app.</text>
+        <text>class</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
