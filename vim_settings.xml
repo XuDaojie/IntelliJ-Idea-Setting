@@ -661,7 +661,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BetweenCriticalBean.java" timestamp="1464331817322">
         <mark key="[" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/CaptureActivity.java" timestamp="1472352562963" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/CaptureActivity.java" timestamp="1472353750755">
+        <mark key="[" line="79" column="21" />
+        <mark key="]" line="79" column="21" />
+        <mark key="." line="79" column="21" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/MainActivity.java" timestamp="1468772552898">
         <mark key="[" line="65" column="18" />
         <mark key="]" line="65" column="18" />
@@ -735,6 +739,7 @@
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="17" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/graphics/Bitmap.java" timestamp="1472353693412" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/BaseView.java" timestamp="1468766947370">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="7" />
@@ -1074,10 +1079,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BinaryBitmap</text>
+        <text>bitmap</text>
       </register>
       <register name="-" type="4">
-        <text>BinaryBitmap</text>
+        <text>bitmap</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
