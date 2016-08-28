@@ -409,7 +409,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/paas_dcos_fragment.xml" timestamp="1464597160427">
         <mark key="[" line="6" column="61" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/e88788f756edecae963417e07b690e88aaaa7c15/core-3.2.1-sources.jar!/com/google/zxing/RGBLuminanceSource.java" timestamp="1472352582931" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxErrorService.java" timestamp="1462447541370">
         <mark key="[" line="32" column="64" />
       </file>
@@ -626,11 +625,11 @@
         <mark key="]" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/MainActivity.java" timestamp="1472363391364">
-        <mark key="[" line="111" column="33" />
-        <mark key="]" line="111" column="33" />
-        <mark key="^" line="80" column="19" />
-        <mark key="." line="111" column="33" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/MainActivity.java" timestamp="1472366643006">
+        <mark key="[" line="80" column="65" />
+        <mark key="]" line="51" column="88" />
+        <mark key="^" line="86" column="19" />
+        <mark key="." line="51" column="88" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/.gitignore" timestamp="1472289318146">
         <mark key="[" line="1" column="7" />
@@ -661,7 +660,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BetweenCriticalBean.java" timestamp="1464331817322">
         <mark key="[" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/CaptureActivity.java" timestamp="1472356649568" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/MainActivity.java" timestamp="1468772552898">
         <mark key="[" line="65" column="18" />
         <mark key="]" line="65" column="18" />
@@ -735,7 +733,6 @@
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/graphics/Bitmap.java" timestamp="1472353693412" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/BaseView.java" timestamp="1468766947370">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="7" />
@@ -850,6 +847,7 @@
         <mark key="]" line="192" column="0" />
         <mark key="." line="192" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/e88788f756edecae963417e07b690e88aaaa7c15/core-3.2.1-sources.jar!/com/google/zxing/NotFoundException.java" timestamp="1472366556359" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketListInteractor.java" timestamp="1462436186451">
         <mark key="[" line="5" column="12" />
       </file>
@@ -1075,10 +1073,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>decodeFile</text>
+        <text>test_2</text>
       </register>
       <register name="-" type="4">
-        <text>decodeFile</text>
+        <text>test_2</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1086,26 +1084,31 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>esult result = new MultiFormatReader().decode(bitmap);
+                String resultStr = result.getText();
+                System.out.println(resultStr);</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuVG9vbGJhcgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIvPg==</text>
+        <text>BufferedImage image = ImageIO.read(file);//读取文件
+                LuminanceSource source = new BufferedImageLuminanceSource(image);
+                BinaryBitmap bitmap = new BinaryBitmap(new HybridBinarizer(
+                        source));</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuVG9vbGJhcgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIvPg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="4">
+        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuVG9vbGJhcgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIvPg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">PGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuenhpbmcudmlldy5WaWV3ZmluZGVyVmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI1MGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNTBkcCIv</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -1113,11 +1116,11 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuenhpbmcudmlldy5WaWV3ZmluZGVyVmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI1MGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNTBkcCIv</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIHZvaWQgaW5zZXJ0KFNRTGl0ZURhdGFiYXNlIGRiLAogICAgICAgICAgICAgICAgICAgICAgIGxvbmcgaWQsIGJvb2xlYW4gYWxsb3dXcml0ZSwgbG9uZyB0aW1lbGluZSwKICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbG9jYWxVcmksIFN0cmluZyBtZWRpYVR5cGUsIFN0cmluZyBtZWRpYVByb3ZpZGVyVXJpLAogICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyByZWFzb24sIGludCBzdGF0dXMsIFN0cmluZyB0aXRsZSwKICAgICAgICAgICAgICAgICAgICAgICBsb25nIGN1cnJlbnRTaXplQnl0ZXMsIGxvbmcgdG90YWxTaXplQnl0ZXMsIFN0cmluZyB1cmkpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBTdHJpbmcgbG9jYWxGaWxlTmFtZSA9IGxvY2FsVXJpOwogICAgICAgICAgICBpbnQgYWxsb3dXcml0ZUludCA9IDE7CiAgICAgICAgICAgIGlmICghYWxsb3dXcml0ZSkgYWxsb3dXcml0ZUludCA9IDA7CiAgICAgICAgICAgIE9iamVjdFtdIGJpbmRBcmFncyA9IG5ldyBPYmplY3RbXXsKICAgICAgICAgICAgICAgICAgICBhbGxvd1dyaXRlSW50LCBpZCwgdGltZWxpbmUsCiAgICAgICAgICAgICAgICAgICAgbG9jYWxGaWxlTmFtZSwgbG9jYWxVcmksIG1lZGlhVHlwZSwgbWVkaWFQcm92aWRlclVyaSwgcmVhc29uLAogICAgICAgICAgICAgICAgICAgIHN0YXR1cywgdGl0bGUsIGN1cnJlbnRTaXplQnl0ZXMsIHRvdGFsU2l6ZUJ5dGVzLCB1cml9OwogICAgICAgICAgICBkYi5leGVjU1FMKCJJTlNFUlQgSU5UTyAiICsgVEFCTEVfTkFNRSArCiAgICAgICAgICAgICAgICAgICAgIiBWQUxVRVMoPywgPywgPywgPywgPywgPywgPywgPywgPywgPywgPywgPywgPykiLCBiaW5kQXJhZ3MpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
