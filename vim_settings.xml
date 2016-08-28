@@ -532,8 +532,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1471419048979">
-        <mark key="[" line="0" column="27" />
+      <file name="/fragment.java" timestamp="1472356604193">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="27" />
@@ -626,11 +626,11 @@
         <mark key="]" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/MainActivity.java" timestamp="1472288733484">
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="34" column="80" />
-        <mark key="^" line="34" column="80" />
-        <mark key="." line="34" column="80" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/MainActivity.java" timestamp="1472356829913">
+        <mark key="[" line="80" column="36" />
+        <mark key="]" line="80" column="36" />
+        <mark key="^" line="80" column="74" />
+        <mark key="." line="80" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/.gitignore" timestamp="1472289318146">
         <mark key="[" line="1" column="7" />
@@ -661,11 +661,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BetweenCriticalBean.java" timestamp="1464331817322">
         <mark key="[" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/CaptureActivity.java" timestamp="1472353750755">
-        <mark key="[" line="79" column="21" />
-        <mark key="]" line="79" column="21" />
-        <mark key="." line="79" column="21" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/CaptureActivity.java" timestamp="1472356649568" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/MainActivity.java" timestamp="1468772552898">
         <mark key="[" line="65" column="18" />
         <mark key="]" line="65" column="18" />
@@ -689,10 +685,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/gradle/wrapper/gradle-wrapper.properties" timestamp="1470584725059">
         <mark key="[" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/res/layout/activity_main.xml" timestamp="1472288323098">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/res/layout/activity_main.xml" timestamp="1472355272191">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/App.java" timestamp="1463623911902">
         <mark key="[" line="23" column="39" />
@@ -1079,10 +1075,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bitmap</text>
+        <text>qrCodeReader</text>
       </register>
       <register name="-" type="4">
-        <text>bitmap</text>
+        <text>qrCodeReader</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1090,8 +1086,8 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuVG9vbGJhcgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIvPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuVG9vbGJhcgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIvPg==</text>
@@ -1099,29 +1095,29 @@
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuVG9vbGJhcgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIvPg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuenhpbmcudmlldy5WaWV3ZmluZGVyVmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI1MGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNTBkcCIv</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cHVibGljIHZvaWQgaW5zZXJ0KFNRTGl0ZURhdGFiYXNlIGRiLAogICAgICAgICAgICAgICAgICAgICAgIGxvbmcgaWQsIGJvb2xlYW4gYWxsb3dXcml0ZSwgbG9uZyB0aW1lbGluZSwKICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbG9jYWxVcmksIFN0cmluZyBtZWRpYVR5cGUsIFN0cmluZyBtZWRpYVByb3ZpZGVyVXJpLAogICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyByZWFzb24sIGludCBzdGF0dXMsIFN0cmluZyB0aXRsZSwKICAgICAgICAgICAgICAgICAgICAgICBsb25nIGN1cnJlbnRTaXplQnl0ZXMsIGxvbmcgdG90YWxTaXplQnl0ZXMsIFN0cmluZyB1cmkpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBTdHJpbmcgbG9jYWxGaWxlTmFtZSA9IGxvY2FsVXJpOwogICAgICAgICAgICBpbnQgYWxsb3dXcml0ZUludCA9IDE7CiAgICAgICAgICAgIGlmICghYWxsb3dXcml0ZSkgYWxsb3dXcml0ZUludCA9IDA7CiAgICAgICAgICAgIE9iamVjdFtdIGJpbmRBcmFncyA9IG5ldyBPYmplY3RbXXsKICAgICAgICAgICAgICAgICAgICBhbGxvd1dyaXRlSW50LCBpZCwgdGltZWxpbmUsCiAgICAgICAgICAgICAgICAgICAgbG9jYWxGaWxlTmFtZSwgbG9jYWxVcmksIG1lZGlhVHlwZSwgbWVkaWFQcm92aWRlclVyaSwgcmVhc29uLAogICAgICAgICAgICAgICAgICAgIHN0YXR1cywgdGl0bGUsIGN1cnJlbnRTaXplQnl0ZXMsIHRvdGFsU2l6ZUJ5dGVzLCB1cml9OwogICAgICAgICAgICBkYi5leGVjU1FMKCJJTlNFUlQgSU5UTyAiICsgVEFCTEVfTkFNRSArCiAgICAgICAgICAgICAgICAgICAgIiBWQUxVRVMoPywgPywgPywgPywgPywgPywgPywgPywgPywgPywgPywgPywgPykiLCBiaW5kQXJhZ3MpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>
