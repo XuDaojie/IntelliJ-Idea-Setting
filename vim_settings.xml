@@ -74,6 +74,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/res/layout/recycler_activity.xml" timestamp="1465782496668">
         <mark key="[" line="3" column="40" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCodeScanner/app/src/main/java/com/kaola/qrcodescanner/qrcode/camera/CameraManager.java" timestamp="1472439938743" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BusModuleBean.java" timestamp="1463543126406">
         <mark key="[" line="7" column="28" />
       </file>
@@ -540,7 +541,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1472397047078">
+      <file name="/fragment.java" timestamp="1472439444734">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="20" />
@@ -665,11 +666,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/res/layout/camera.xml" timestamp="1472434234888">
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/res/layout/camera.xml" timestamp="1472438600577">
+        <mark key="[" line="48" column="8" />
+        <mark key="]" line="48" column="8" />
+        <mark key="^" line="70" column="38" />
+        <mark key="." line="48" column="8" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/camera/CameraManager.java" timestamp="1472439904465" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/wheelview/CityPicker.java" timestamp="1468772347030">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -677,6 +680,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BetweenCriticalBean.java" timestamp="1464331817322">
         <mark key="[" line="6" column="29" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/CaptureActivity.java" timestamp="1472452760579">
+        <mark key="[" line="90" column="35" />
+        <mark key="]" line="58" column="12" />
+        <mark key="." line="58" column="12" />
+        <mark key="^" line="58" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/MainActivity.java" timestamp="1468772552898">
         <mark key="[" line="65" column="18" />
@@ -1043,6 +1052,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/colors.xml" timestamp="1460885989420">
         <mark key="[" line="11" column="38" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCodeScanner/app/src/main/java/com/kaola/qrcodescanner/qrcode/QrCodeActivity.java" timestamp="1472439808632" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/zxing/camera/CameraManager.java" timestamp="1472439966783">
+        <mark key="[" line="328" column="12" />
+        <mark key="]" line="328" column="12" />
+        <mark key="." line="328" column="12" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/isas_net_fragment.xml" timestamp="1465350657693">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="32" />
@@ -1104,14 +1119,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>catch (ChecksumException e) {
-                    e.printStackTrace();
-                } catch (FormatException e) {
-                    e.printStackTrace();
-                }</text>
+        <text>mCamera</text>
       </register>
       <register name="-" type="4">
-        <text>TRUE</text>
+        <text>mCamera</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1119,56 +1130,45 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>catch (ChecksumException e) {
-                    e.printStackTrace();
-                } catch (FormatException e) {
-                    e.printStackTrace();
-                }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBCaXRtYXAgYml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVGaWxlKCIvc3RvcmFnZS9lbXVsYXRlZC8wL1RlbmNlbnQvUVFfSW1hZ2VzL3FyY29kZV8xNDcyMzUzOTc3ODk3LmpwZyIpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIEJpdG1hcCBiaXRtYXAgPSBCaXRtYXBGYWN0b3J5LmRlY29kZUZpbGUoIi9zdG9yYWdlL2VtdWxhdGVkLzAvVGVuY2VudC9RUV9JbWFnZXMvcXJjb2RlXzE0NzIzNTM5Nzc4OTcuanBnIik7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgQml0bWFwIGJpdG1hcCA9IEJpdG1hcEZhY3RvcnkuZGVjb2RlUmVzb3VyY2UoZ2V0UmVzb3VyY2VzKCksIFIuZHJhd2FibGUucXJjb2RlKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBCaXRtYXAgYml0bWFwID0gZGVjb2RlU2FtcGxlZEJpdG1hcEZyb21GaWxlKCIvc3RvcmFnZS9lbXVsYXRlZC8wL1RlbmNlbnQvUVFfSW1hZ2VzL3FyY29kZV8xNDcyMzUzOTc3ODk3LmpwZyIsIDI1NiwgMjU2KTsK</text>
+        <text>//quit the scan view
+        cancelScanButton.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                CaptureActivity.this.finish();
+            }
+        })</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIOWwhuacrOWcsOWbvueJh+aWh+S7tui9rOaNouaIkOWPr+ino+eggeS6jOe7tOeggeeahCBCaXRtYXDjgILkuLrkuobpgb/lhY3lm77niYflpKrlpKfvvIzov5nph4zlr7nlm77niYfov5vooYzkuobljovnvKnjgILmhJ/osKIgaHR0cHM6Ly9naXRodWIuY29tL2Rldmlsc2VuIOaPkOeahCBQUgogICAgICoKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgcHJpdmF0ZSBCaXRtYXAgZ2V0RGVjb2RlQWJsZUJpdG1hcChpbnQgcmVzSWQpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBCaXRtYXBGYWN0b3J5Lk9wdGlvbnMgb3B0aW9ucyA9IG5ldyBCaXRtYXBGYWN0b3J5Lk9wdGlvbnMoKTsKICAgICAgICAgICAgb3B0aW9ucy5pbkp1c3REZWNvZGVCb3VuZHMgPSB0cnVlOwogICAgICAgICAgICBCaXRtYXBGYWN0b3J5LmRlY29kZVJlc291cmNlKGdldFJlc291cmNlcygpLCByZXNJZCwgb3B0aW9ucyk7CiAgICAgICAgICAgIGludCBzYW1wbGVTaXplID0gb3B0aW9ucy5vdXRIZWlnaHQgLyA0MDA7CiAgICAgICAgICAgIGlmIChzYW1wbGVTaXplIDw9IDApCiAgICAgICAgICAgICAgICBzYW1wbGVTaXplID0gMTsKICAgICAgICAgICAgb3B0aW9ucy5pblNhbXBsZVNpemUgPSBzYW1wbGVTaXplOwogICAgICAgICAgICBvcHRpb25zLmluSnVzdERlY29kZUJvdW5kcyA9IGZhbHNlOwoKICAgICAgICAgICAgcmV0dXJuIEJpdG1hcEZhY3RvcnkuZGVjb2RlUmVzb3VyY2UoZ2V0UmVzb3VyY2VzKCksIHJlc0lkLCBvcHRpb25zKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICB9CgogICAgLyoqCiAgICAgKiDlsIbmnKzlnLDlm77niYfmlofku7bovazmjaLmiJDlj6/op6PnoIHkuoznu7TnoIHnmoQgQml0bWFw44CC5Li65LqG6YG/5YWN5Zu+54mH5aSq5aSn77yM6L+Z6YeM5a+55Zu+54mH6L+b6KGM5LqG5Y6L57yp44CC5oSf6LCiIGh0dHBzOi8vZ2l0aHViLmNvbS9kZXZpbHNlbiDmj5DnmoQgUFIKICAgICAqCiAgICAgKiBAcGFyYW0gcGljdHVyZVBhdGgg5pys5Zyw5Zu+54mH5paH5Lu26Lev5b6ECiAgICAgKiBAcmV0dXJuCiAgICAgKi8KICAgIHByaXZhdGUgc3RhdGljIEJpdG1hcCBnZXREZWNvZGVBYmxlQml0bWFwKFN0cmluZyBwaWN0dXJlUGF0aCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIEJpdG1hcEZhY3RvcnkuT3B0aW9ucyBvcHRpb25zID0gbmV3IEJpdG1hcEZhY3RvcnkuT3B0aW9ucygpOwogICAgICAgICAgICBvcHRpb25zLmluSnVzdERlY29kZUJvdW5kcyA9IHRydWU7CiAgICAgICAgICAgIEJpdG1hcEZhY3RvcnkuZGVjb2RlRmlsZShwaWN0dXJlUGF0aCwgb3B0aW9ucyk7CiAgICAgICAgICAgIGludCBzYW1wbGVTaXplID0gb3B0aW9ucy5vdXRIZWlnaHQgLyA0MDA7CiAgICAgICAgICAgIGlmIChzYW1wbGVTaXplIDw9IDApCiAgICAgICAgICAgICAgICBzYW1wbGVTaXplID0gMTsKICAgICAgICAgICAgb3B0aW9ucy5pblNhbXBsZVNpemUgPSBzYW1wbGVTaXplOwogICAgICAgICAgICBvcHRpb25zLmluSnVzdERlY29kZUJvdW5kcyA9IGZhbHNlOwoKICAgICAgICAgICAgcmV0dXJuIEJpdG1hcEZhY3RvcnkuZGVjb2RlRmlsZShwaWN0dXJlUGF0aCwgb3B0aW9ucyk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>try {
-                            Result result = new QRCodeReader().decode(binaryBitmap, hints);
-                            Log.d(&quot;MainActivity&quot;, result.getText());
-                        } catch (NotFoundException e) {
-                            e.printStackTrace();
-                        } catch (ChecksumException e) {
-                            e.printStackTrace();
-                        } catch (FormatException e) {
-                            e.printStackTrace();
-                        }</text>
+        <text encoding="base64">IC8vcXVpdCB0aGUgc2NhbiB2aWV3CiAgICAgICAgY2FuY2VsU2NhbkJ1dHRvbi5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IE9uQ2xpY2tMaXN0ZW5lcigpIHsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdikgewogICAgICAgICAgICAgICAgQ2FwdHVyZUFjdGl2aXR5LnRoaXMuZmluaXNoKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxCYXJjb2RlRm9ybWF0PiBhbGxGb3JtYXRzID0gbmV3IEFycmF5TGlzdDw+KCk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgYWxsRm9ybWF0cy5hZGQoQmFyY29kZUZvcm1hdC5RUl9DT0RFKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBhbGxGb3JtYXRzLmFkZChCYXJjb2RlRm9ybWF0LkFaVEVDKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBhbGxGb3JtYXRzLmFkZChCYXJjb2RlRm9ybWF0LkNPREFCQVIpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIGFsbEZvcm1hdHMuYWRkKEJhcmNvZGVGb3JtYXQuQ09ERV8zOSk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgYWxsRm9ybWF0cy5hZGQoQmFyY29kZUZvcm1hdC5DT0RFXzkzKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBhbGxGb3JtYXRzLmFkZChCYXJjb2RlRm9ybWF0LkNPREVfMTI4KTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBhbGxGb3JtYXRzLmFkZChCYXJjb2RlRm9ybWF0LkRBVEFfTUFUUklYKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBhbGxGb3JtYXRzLmFkZChCYXJjb2RlRm9ybWF0LkVBTl84KTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBhbGxGb3JtYXRzLmFkZChCYXJjb2RlRm9ybWF0LkVBTl8xMyk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgYWxsRm9ybWF0cy5hZGQoQmFyY29kZUZvcm1hdC5JVEYpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIGFsbEZvcm1hdHMuYWRkKEJhcmNvZGVGb3JtYXQuTUFYSUNPREUpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIGFsbEZvcm1hdHMuYWRkKEJhcmNvZGVGb3JtYXQuUERGXzQxNyk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgYWxsRm9ybWF0cy5hZGQoQmFyY29kZUZvcm1hdC5SU1NfMTQpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIGFsbEZvcm1hdHMuYWRkKEJhcmNvZGVGb3JtYXQuUlNTX0VYUEFOREVEKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBhbGxGb3JtYXRzLmFkZChCYXJjb2RlRm9ybWF0LlVQQ19BKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBhbGxGb3JtYXRzLmFkZChCYXJjb2RlRm9ybWF0LlVQQ19FKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBhbGxGb3JtYXRzLmFkZChCYXJjb2RlRm9ybWF0LlVQQ19FQU5fRVhURU5TSU9OKTsKICAgICAgICAgICAgICAgICAgICAgICAgaGludHMucHV0KERlY29kZUhpbnRUeXBlLlBPU1NJQkxFX0ZPUk1BVFMsIGFsbEZvcm1hdHMpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQnV0dG9uIGNhbmNlbFNjYW5CdXR0b247Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBieXRlW10geXV2czsKLy8gICAgLyoqCi8vICAgICAqIOagueaNrkJpdG1hcOeahEFSR0LlgLznlJ/miJBZVVY0MjBTUOaVsOaNruOAggovLyAgICAgKgovLyAgICAgKiBAcGFyYW0gaW5wdXRXaWR0aCBpbWFnZSB3aWR0aAovLyAgICAgKiBAcGFyYW0gaW5wdXRIZWlnaHQgaW1hZ2UgaGVpZ2h0Ci8vICAgICAqIEBwYXJhbSBzY2FsZWQgYm1wCi8vICAgICAqIEByZXR1cm4gWVVWNDIwU1DmlbDnu4QKLy8gICAgICovCi8vICAgIHB1YmxpYyBieXRlW10gZ2V0WVVWNDIwc3AoaW50IGlucHV0V2lkdGgsIGludCBpbnB1dEhlaWdodCwgQml0bWFwIHNjYWxlZCkgewovLyAgICAgICAgaW50W10gYXJnYiA9IG5ldyBpbnRbaW5wdXRXaWR0aCAqIGlucHV0SGVpZ2h0XTsKLy8KLy8gICAgICAgIHNjYWxlZC5nZXRQaXhlbHMoYXJnYiwgMCwgaW5wdXRXaWR0aCwgMCwgMCwgaW5wdXRXaWR0aCwgaW5wdXRIZWlnaHQpOwovLwovLyAgICAgICAgLyoqCi8vICAgICAgICAgKiDpnIDopoHovazmjaLmiJDlgbbmlbDnmoTlg4/ntKDngrnvvIzlkKbliJnnvJbnoIFZVVY0MjDnmoTml7blgJnmnInlj6/og73lr7zoh7TliIbphY3nmoTnqbrpl7TlpKflsI/kuI3lpJ/ogIzmuqLlh7rjgIIKLy8gICAgICAgICAqLwovLyAgICAgICAgaW50IHJlcXVpcmVkV2lkdGggPSBpbnB1dFdpZHRoICUgMiA9PSAwID8gaW5wdXRXaWR0aCA6IGlucHV0V2lkdGggKyAxOwovLyAgICAgICAgaW50IHJlcXVpcmVkSGVpZ2h0ID0gaW5wdXRIZWlnaHQgJSAyID09IDAgPyBpbnB1dEhlaWdodCA6IGlucHV0SGVpZ2h0ICsgMTsKLy8KLy8gICAgICAgIGludCBieXRlTGVuZ3RoID0gcmVxdWlyZWRXaWR0aCAqIHJlcXVpcmVkSGVpZ2h0ICogMyAvIDI7Ci8vICAgICAgICBpZiAoeXV2cyA9PSBudWxsIHx8IHl1dnMubGVuZ3RoIDwgYnl0ZUxlbmd0aCkgewovLyAgICAgICAgICAgIHl1dnMgPSBuZXcgYnl0ZVtieXRlTGVuZ3RoXTsKLy8gICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgQXJyYXlzLmZpbGwoeXV2cywgKGJ5dGUpIDApOwovLyAgICAgICAgfQovLwovLyAgICAgICAgZW5jb2RlWVVWNDIwU1AoeXV2cywgYXJnYiwgaW5wdXRXaWR0aCwgaW5wdXRIZWlnaHQpOwovLwovLyAgICAgICAgc2NhbGVkLnJlY3ljbGUoKTsKLy8KLy8gICAgICAgIHJldHVybiB5dXZzOwovLyAgICB9Ci8vCi8vICAgIC8qKgovLyAgICAgKiBSR0LovaxZVVY0MjBzcAovLyAgICAgKgovLyAgICAgKiBAcGFyYW0geXV2NDIwc3AgaW5wdXRXaWR0aCAqIGlucHV0SGVpZ2h0ICogMyAvIDIKLy8gICAgICogQHBhcmFtIGFyZ2IgaW5wdXRXaWR0aCAqIGlucHV0SGVpZ2h0Ci8vICAgICAqIEBwYXJhbSB3aWR0aCBpbWFnZSB3aWR0aAovLyAgICAgKiBAcGFyYW0gaGVpZ2h0IGltYWdlIGhlaWdodAovLyAgICAgKi8KLy8gICAgcHJpdmF0ZSB2b2lkIGVuY29kZVlVVjQyMFNQKGJ5dGVbXSB5dXY0MjBzcCwgaW50W10gYXJnYiwgaW50IHdpZHRoLCBpbnQgaGVpZ2h0KSB7Ci8vICAgICAgICAvLyDluKflm77niYfnmoTlg4/ntKDlpKflsI8KLy8gICAgICAgIGZpbmFsIGludCBmcmFtZVNpemUgPSB3aWR0aCAqIGhlaWdodDsKLy8gICAgICAgIC8vIC0tLVlVVuaVsOaNri0tLQovLyAgICAgICAgaW50IFksIFUsIFY7Ci8vICAgICAgICAvLyBZ55qEaW5kZXjku44w5byA5aeLCi8vICAgICAgICBpbnQgeUluZGV4ID0gMDsKLy8gICAgICAgIC8vIFVW55qEaW5kZXjku45mcmFtZVNpemXlvIDlp4sKLy8gICAgICAgIGludCB1dkluZGV4ID0gZnJhbWVTaXplOwovLwovLyAgICAgICAgLy8gLS0t6aKc6Imy5pWw5o2uLS0tCi8vICAgICAgICBpbnQgUiwgRywgQjsKLy8gICAgICAgIGludCByZ2JJbmRleCA9IDA7Ci8vCi8vICAgICAgICAvLyAtLS3lvqrnjq/miYDmnInlg4/ntKDngrnvvIxSR0LovaxZVVYtLS0KLy8gICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgaGVpZ2h0OyBqKyspIHsKLy8gICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHdpZHRoOyBpKyspIHsKLy8KLy8gICAgICAgICAgICAgICAgUiA9IChhcmdiW3JnYkluZGV4XSAmIDB4ZmYwMDAwKSA+PiAxNjsKLy8gICAgICAgICAgICAgICAgRyA9IChhcmdiW3JnYkluZGV4XSAmIDB4ZmYwMCkgPj4gODsKLy8gICAgICAgICAgICAgICAgQiA9IChhcmdiW3JnYkluZGV4XSAmIDB4ZmYpOwovLyAgICAgICAgICAgICAgICAvLwovLyAgICAgICAgICAgICAgICByZ2JJbmRleCsrOwovLwovLyAgICAgICAgICAgICAgICAvLyB3ZWxsIGtub3duIFJHQiB0byBZVVYgYWxnb3JpdGhtCi8vICAgICAgICAgICAgICAgIFkgPSAoKDY2ICogUiArIDEyOSAqIEcgKyAyNSAqIEIgKyAxMjgpID4+IDgpICsgMTY7Ci8vICAgICAgICAgICAgICAgIFUgPSAoKC0zOCAqIFIgLSA3NCAqIEcgKyAxMTIgKiBCICsgMTI4KSA+PiA4KSArIDEyODsKLy8gICAgICAgICAgICAgICAgViA9ICgoMTEyICogUiAtIDk0ICogRyAtIDE4ICogQiArIDEyOCkgPj4gOCkgKyAxMjg7Ci8vCi8vICAgICAgICAgICAgICAgIFkgPSBNYXRoLm1heCgwLCBNYXRoLm1pbihZLCAyNTUpKTsKLy8gICAgICAgICAgICAgICAgVSA9IE1hdGgubWF4KDAsIE1hdGgubWluKFUsIDI1NSkpOwovLyAgICAgICAgICAgICAgICBWID0gTWF0aC5tYXgoMCwgTWF0aC5taW4oViwgMjU1KSk7Ci8vCi8vICAgICAgICAgICAgICAgIC8vIE5WMjEgaGFzIGEgcGxhbmUgb2YgWSBhbmQgaW50ZXJsZWF2ZWQgcGxhbmVzIG9mIFZVIGVhY2ggc2FtcGxlZCBieSBhIGZhY3RvciBvZiAyCi8vICAgICAgICAgICAgICAgIC8vIG1lYW5pbmcgZm9yIGV2ZXJ5IDQgWSBwaXhlbHMgdGhlcmUgYXJlIDEgViBhbmQgMSBVLiBOb3RlIHRoZSBzYW1wbGluZyBpcyBldmVyeSBvdGhlcgovLyAgICAgICAgICAgICAgICAvLyBwaXhlbCBBTkQgZXZlcnkgb3RoZXIgc2NhbiBsaW5lLgovLyAgICAgICAgICAgICAgICAvLyAtLS1ZLS0tCi8vICAgICAgICAgICAgICAgIHl1djQyMHNwW3lJbmRleCsrXSA9IChieXRlKSBZOwovLyAgICAgICAgICAgICAgICAvLyAtLS1VVi0tLQovLyAgICAgICAgICAgICAgICBpZiAoKGogJSAyID09IDApICYmIChpICUgMiA9PSAwKSkgewovLyAgICAgICAgICAgICAgICAgICAgLy8KLy8gICAgICAgICAgICAgICAgICAgIHl1djQyMHNwW3V2SW5kZXgrK10gPSAoYnl0ZSkgVjsKLy8gICAgICAgICAgICAgICAgICAgIC8vCi8vICAgICAgICAgICAgICAgICAgICB5dXY0MjBzcFt1dkluZGV4KytdID0gKGJ5dGUpIFU7Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIEJpdG1hcCBkZWNvZGVTYW1wbGVkQml0bWFwRnJvbUZpbGUoU3RyaW5nIGltZ1BhdGgsIGludCByZXFXaWR0aCwgaW50IHJlcUhlaWdodCkgewovLwovLyAgICAgICAgLy8gRmlyc3QgZGVjb2RlIHdpdGggaW5KdXN0RGVjb2RlQm91bmRzPXRydWUgdG8gY2hlY2sgZGltZW5zaW9ucwovLyAgICAgICAgZmluYWwgQml0bWFwRmFjdG9yeS5PcHRpb25zIG9wdGlvbnMgPSBuZXcgQml0bWFwRmFjdG9yeS5PcHRpb25zKCk7Ci8vICAgICAgICBvcHRpb25zLmluSnVzdERlY29kZUJvdW5kcyA9IHRydWU7Ci8vICAgICAgICBCaXRtYXBGYWN0b3J5LmRlY29kZUZpbGUoaW1nUGF0aCwgb3B0aW9ucyk7Ci8vCi8vICAgICAgICAvLyBDYWxjdWxhdGUgaW5TYW1wbGVTaXplCi8vICAgICAgICBvcHRpb25zLmluU2FtcGxlU2l6ZSA9IGNhbGN1bGF0ZUluU2FtcGxlU2l6ZShvcHRpb25zLCByZXFXaWR0aCwgcmVxSGVpZ2h0KTsKLy8KLy8gICAgICAgIC8vIERlY29kZSBiaXRtYXAgd2l0aCBpblNhbXBsZVNpemUgc2V0Ci8vICAgICAgICBvcHRpb25zLmluSnVzdERlY29kZUJvdW5kcyA9IGZhbHNlOwovLyAgICAgICAgcmV0dXJuIEJpdG1hcEZhY3RvcnkuZGVjb2RlRmlsZShpbWdQYXRoLCBvcHRpb25zKTsKLy8gICAgfQovLwovLyAgICBwdWJsaWMgaW50IGNhbGN1bGF0ZUluU2FtcGxlU2l6ZShCaXRtYXBGYWN0b3J5Lk9wdGlvbnMgb3B0aW9ucywgaW50IHJlcVdpZHRoLCBpbnQgcmVxSGVpZ2h0KSB7Ci8vICAgICAgICAvLyBSYXcgaGVpZ2h0IGFuZCB3aWR0aCBvZiBpbWFnZQovLyAgICAgICAgZmluYWwgaW50IGhlaWdodCA9IG9wdGlvbnMub3V0SGVpZ2h0OwovLyAgICAgICAgZmluYWwgaW50IHdpZHRoID0gb3B0aW9ucy5vdXRXaWR0aDsKLy8gICAgICAgIGludCBpblNhbXBsZVNpemUgPSAxOwovLwovLyAgICAgICAgaWYgKGhlaWdodCA+IHJlcUhlaWdodCB8fCB3aWR0aCA+IHJlcVdpZHRoKSB7Ci8vCi8vICAgICAgICAgICAgZmluYWwgaW50IGhhbGZIZWlnaHQgPSBoZWlnaHQgLyAyOwovLyAgICAgICAgICAgIGZpbmFsIGludCBoYWxmV2lkdGggPSB3aWR0aCAvIDI7Ci8vCi8vICAgICAgICAgICAgLy8gQ2FsY3VsYXRlIHRoZSBsYXJnZXN0IGluU2FtcGxlU2l6ZSB2YWx1ZSB0aGF0IGlzIGEgcG93ZXIgb2YgMiBhbmQga2VlcHMgYm90aAovLyAgICAgICAgICAgIC8vIGhlaWdodCBhbmQgd2lkdGggbGFyZ2VyIHRoYW4gdGhlIHJlcXVlc3RlZCBoZWlnaHQgYW5kIHdpZHRoLgovLyAgICAgICAgICAgIHdoaWxlICgoaGFsZkhlaWdodCAvIGluU2FtcGxlU2l6ZSkgPiByZXFIZWlnaHQgJiYgKGhhbGZXaWR0aCAvIGluU2FtcGxlU2l6ZSkgPiByZXFXaWR0aCkgewovLyAgICAgICAgICAgICAgICBpblNhbXBsZVNpemUgKj0gMjsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICByZXR1cm4gaW5TYW1wbGVTaXplOwovLyAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjYW5jZWxTY2FuQnV0dG9uID0gKEJ1dHRvbikgdGhpcy5maW5kVmlld0J5SWQoUi5pZC5idG5fY2FuY2VsX3NjYW4pOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQml0bWFwIGJpdG1hcCA9IGRlY29kZVNhbXBsZWRCaXRtYXBGcm9tRmlsZSgiL3N0b3JhZ2UvZW11bGF0ZWQvMC9UZW5jZW50L1FRZmlsZV9yZWN2LzRDMDA3QzgzLTRBQzktNEI1OS05M0NELUQzQTFEOTQ4NzA2Qi5wbmciLCAyNTYsIDI1Nik7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PEJ1dHRvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J0bl9jYW5jZWxfc2NhbiIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjIzMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjQwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50Qm90dG9tPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9jZW50ZXJJblBhcmVudD0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSI3NWRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkNhbmNlbCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTVzcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U3R5bGU9ImJvbGQiLz4=</text>
       </register>
-      <register name="8" type="4">
-        <text>esult result = new MultiFormatReader().decode(bitmap);
-                String resultStr = result.getText();
-                System.out.println(resultStr);</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>BufferedImage image = ImageIO.read(file);//读取文件
-                LuminanceSource source = new BufferedImageLuminanceSource(image);
-                BinaryBitmap bitmap = new BinaryBitmap(new HybridBinarizer(
-                        source));</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iOGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSI4ZHAi</text>
       </register>
     </registers>
     <search>
