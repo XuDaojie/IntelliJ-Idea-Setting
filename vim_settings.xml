@@ -124,11 +124,11 @@
         <mark key="^" line="56" column="11" />
         <mark key="." line="56" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/common/ActionUtils.java" timestamp="1472461558640">
-        <mark key="[" line="37" column="65" />
-        <mark key="]" line="30" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/common/ActionUtils.java" timestamp="1472523158568">
+        <mark key="[" line="40" column="67" />
+        <mark key="]" line="40" column="68" />
         <mark key="^" line="30" column="16" />
-        <mark key="." line="30" column="16" />
+        <mark key="." line="40" column="68" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidNote/app/src/main/res/layout/card_view_activity.xml" timestamp="1457272617175">
         <mark key="[" line="5" column="0" />
@@ -1131,10 +1131,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>frame</text>
+        <text>PHOTO_REQUEST_CAMERA</text>
       </register>
       <register name="-" type="4">
-        <text>frame</text>
+        <text>PHOTO_REQUEST_CAMERA</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
