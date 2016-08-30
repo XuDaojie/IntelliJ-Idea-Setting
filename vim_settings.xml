@@ -152,6 +152,11 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="19" column="66" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/res/drawable/xx.xml" timestamp="1472537396402">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/model/ProductModel.java" timestamp="1466684065834">
         <mark key="[" line="18" column="25" />
       </file>
@@ -483,7 +488,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472527345283">
+      <file name="/Dummy.txt" timestamp="1472537388678">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -601,11 +606,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/WebViewActivity.java" timestamp="1463640889980">
         <mark key="[" line="43" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/zxing/view/ViewfinderView.java" timestamp="1472536135217">
-        <mark key="[" line="103" column="26" />
-        <mark key="]" line="103" column="26" />
-        <mark key="^" line="102" column="32" />
-        <mark key="." line="103" column="26" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/zxing/view/ViewfinderView.java" timestamp="1472538123993">
+        <mark key="[" line="120" column="30" />
+        <mark key="]" line="120" column="30" />
+        <mark key="." line="120" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/common/Param.java" timestamp="1466673357511">
         <mark key="[" line="5" column="20" />
@@ -1131,10 +1135,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>paint</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>paint</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1143,28 +1147,34 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGludCB3aWR0aCA9IDY0MDsKICAgICAgICAgICAgaW50IGhlaWdodCA9IDY0MDsKICAgICAgICAgICAgaW50IGxlZnRPZmZzZXQgPSAoMTA4MCAtIHdpZHRoKSAvIDI7CiAgICAgICAgICAgIGludCB0b3BPZmZzZXQgPSAoMTkyMCAtIGhlaWdodCkgLyAyOwogICAgICAgICAgICBmcmFtZSA9IG5ldyBSZWN0KGxlZnRPZmZzZXQsIHRvcE9mZnNldCAtIDQ4MCwgbGVmdE9mZnNldCArIHdpZHRoLCB0b3BPZmZzZXQgKyBoZWlnaHQgLSA0ODApOw==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFpbnQuc2V0Q29sb3IoQ29sb3IuQkxVRQoKICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIGludCB3aWR0aCA9IDY0MDsKICAgICAgICAgICAgaW50IGhlaWdodCA9IDY0MDsKICAgICAgICAgICAgaW50IGxlZnRPZmZzZXQgPSAoMTA4MCAtIHdpZHRoKSAvIDI7CiAgICAgICAgICAgIGludCB0b3BPZmZzZXQgPSAoMTkyMCAtIGhlaWdodCkgLyAyOwogICAgICAgICAgICByZWN0ID0gbmV3IFJlY3QobGVmdE9mZnNldCwgdG9wT2Zmc2V0IC0gNDgwLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIDQ4MCk7</text>
+        <text encoding="base64">IGludCB3aWR0aCA9IDY0MDsKICAgICAgICAgICAgaW50IGhlaWdodCA9IDY0MDsKICAgICAgICAgICAgaW50IGxlZnRPZmZzZXQgPSAoMTA4MCAtIHdpZHRoKSAvIDI7CiAgICAgICAgICAgIGludCB0b3BPZmZzZXQgPSAoMTkyMCAtIGhlaWdodCkgLyAyOwogICAgICAgICAgICBmcmFtZSA9IG5ldyBSZWN0KGxlZnRPZmZzZXQsIHRvcE9mZnNldCAtIDQ4MCwgbGVmdE9mZnNldCArIHdpZHRoLCB0b3BPZmZzZXQgKyBoZWlnaHQgLSA0ODApOw==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICBmcmFtZSA9IG5ldyBSZWN0KCk7CiAgICAgICAgICAgIGZyYW1lLmxlZnQgPSAoMTA4MCAtIGxheW91dFBhcmFtcy53aWR0aCkgLyAyOwogICAgICAgICAgICBmcmFtZS50b3AgPSBsYXlvdXRQYXJhbXMudG9wTWFyZ2luOwogICAgICAgICAgICBmcmFtZS5yaWdodCA9IGZyYW1lLmxlZnQgKyBsYXlvdXRQYXJhbXMud2lkdGg7CiAgICAgICAgICAgIGZyYW1lLmJvdHRvbSA9IGZyYW1lLnRvcCArIGxheW91dFBhcmFtcy5oZWlnaHQ7</text>
+        <text encoding="base64">ICAgIGludCB3aWR0aCA9IDY0MDsKICAgICAgICAgICAgaW50IGhlaWdodCA9IDY0MDsKICAgICAgICAgICAgaW50IGxlZnRPZmZzZXQgPSAoMTA4MCAtIHdpZHRoKSAvIDI7CiAgICAgICAgICAgIGludCB0b3BPZmZzZXQgPSAoMTkyMCAtIGhlaWdodCkgLyAyOwogICAgICAgICAgICByZWN0ID0gbmV3IFJlY3QobGVmdE9mZnNldCwgdG9wT2Zmc2V0IC0gNDgwLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIDQ4MCk7</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICBmcmFtZSA9IG5ldyBSZWN0KCk7CiAgICAgICAgICAgIGZyYW1lLmxlZnQgPSAoMTA4MCAtIGxheW91dFBhcmFtcy53aWR0aCkgLyAyOwogICAgICAgICAgICBmcmFtZS50b3AgPSBsYXlvdXRQYXJhbXMudG9wTWFyZ2luOwogICAgICAgICAgICBmcmFtZS5yaWdodCA9IGZyYW1lLmxlZnQgKyBsYXlvdXRQYXJhbXMud2lkdGg7CiAgICAgICAgICAgIGZyYW1lLmJvdHRvbSA9IGZyYW1lLnRvcCArIGxheW91dFBhcmFtcy5oZWlnaHQ7</text>
+      </register>
+      <register name="5" type="4">
         <text>galleryTv.setOnClickListener(new View.OnClickListener() {
             @Override
             public void oClick(View v) {
             }
         })</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>//quit the scan view
         cancelScanButton.setOnClickListener(new OnClickListener() {
 
@@ -1174,17 +1184,11 @@
             }
         })</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IC8vcXVpdCB0aGUgc2NhbiB2aWV3CiAgICAgICAgY2FuY2VsU2NhbkJ1dHRvbi5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IE9uQ2xpY2tMaXN0ZW5lcigpIHsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdikgewogICAgICAgICAgICAgICAgQ2FwdHVyZUFjdGl2aXR5LnRoaXMuZmluaXNoKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQnV0dG9uIGNhbmNlbFNjYW5CdXR0b247Cg==</text>
       </register>
     </registers>
     <search>
