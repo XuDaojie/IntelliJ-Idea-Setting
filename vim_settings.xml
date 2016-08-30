@@ -106,6 +106,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/dagger/LoginPresenterModule.java" timestamp="1468770092219">
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCodeScanner/app/src/main/java/com/kaola/qrcodescanner/qrcode/view/QrCodeFinderView.java" timestamp="1472519296941">
+        <mark key="[" line="85" column="32" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1471420621375">
         <mark key="[" line="133" column="5" />
         <mark key="]" line="121" column="0" />
@@ -451,7 +454,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/adapter/ConfirmProductAdp.java" timestamp="1466056422287">
         <mark key="[" line="53" column="84" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" timestamp="1472432553771" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_alert_list_activity.xml" timestamp="1464865661196">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -541,7 +543,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1472466022923">
+      <file name="/fragment.java" timestamp="1472520081263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="20" />
@@ -599,8 +601,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/WebViewActivity.java" timestamp="1463640889980">
         <mark key="[" line="43" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/zxing/view/ViewfinderView.java" timestamp="1472466009599">
-        <mark key="[" line="141" column="5" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/zxing/view/ViewfinderView.java" timestamp="1472520246274">
+        <mark key="[" line="81" column="10" />
+        <mark key="]" line="81" column="10" />
+        <mark key="^" line="81" column="97" />
+        <mark key="." line="81" column="10" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/common/Param.java" timestamp="1466673357511">
         <mark key="[" line="5" column="20" />
@@ -671,8 +676,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/res/layout/camera.xml" timestamp="1472460891931">
-        <mark key="[" line="65" column="17" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/res/layout/camera.xml" timestamp="1472517253750">
+        <mark key="[" line="16" column="44" />
         <mark key="]" line="48" column="8" />
         <mark key="^" line="71" column="38" />
         <mark key="." line="48" column="8" />
@@ -686,7 +691,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BetweenCriticalBean.java" timestamp="1464331817322">
         <mark key="[" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/CaptureActivity.java" timestamp="1472464453737">
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/CaptureActivity.java" timestamp="1472517813738">
         <mark key="[" line="197" column="8" />
         <mark key="]" line="145" column="15" />
         <mark key="." line="145" column="15" />
@@ -910,6 +915,7 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/graphics/PixelFormat.java" timestamp="1472520157171" />
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/res/values/styles.xml" timestamp="1462379866385">
         <mark key="[" line="17" column="12" />
       </file>
@@ -1058,10 +1064,11 @@
         <mark key="[" line="11" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCodeScanner/app/src/main/java/com/kaola/qrcodescanner/qrcode/QrCodeActivity.java" timestamp="1472439808632" />
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/zxing/camera/CameraManager.java" timestamp="1472465434858">
-        <mark key="[" line="225" column="46" />
-        <mark key="]" line="225" column="47" />
-        <mark key="." line="225" column="47" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/zxing/camera/CameraManager.java" timestamp="1472520277395">
+        <mark key="[" line="250" column="12" />
+        <mark key="]" line="250" column="12" />
+        <mark key="." line="250" column="12" />
+        <mark key="^" line="240" column="85" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/isas_net_fragment.xml" timestamp="1465350657693">
         <mark key="[" line="7" column="32" />
@@ -1124,10 +1131,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>frame</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>frame</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1136,19 +1143,22 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICBmcmFtZSA9IG5ldyBSZWN0KCk7CiAgICAgICAgICAgIGZyYW1lLmxlZnQgPSAoMTA4MCAtIGxheW91dFBhcmFtcy53aWR0aCkgLyAyOwogICAgICAgICAgICBmcmFtZS50b3AgPSBsYXlvdXRQYXJhbXMudG9wTWFyZ2luOwogICAgICAgICAgICBmcmFtZS5yaWdodCA9IGZyYW1lLmxlZnQgKyBsYXlvdXRQYXJhbXMud2lkdGg7CiAgICAgICAgICAgIGZyYW1lLmJvdHRvbSA9IGZyYW1lLnRvcCArIGxheW91dFBhcmFtcy5oZWlnaHQ7</text>
+      </register>
+      <register name="2" type="4">
         <text>galleryTv.setOnClickListener(new View.OnClickListener() {
             @Override
             public void oClick(View v) {
             }
         })</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
-      </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>//quit the scan view
         cancelScanButton.setOnClickListener(new OnClickListener() {
 
@@ -1158,26 +1168,23 @@
             }
         })</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IC8vcXVpdCB0aGUgc2NhbiB2aWV3CiAgICAgICAgY2FuY2VsU2NhbkJ1dHRvbi5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IE9uQ2xpY2tMaXN0ZW5lcigpIHsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdikgewogICAgICAgICAgICAgICAgQ2FwdHVyZUFjdGl2aXR5LnRoaXMuZmluaXNoKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQnV0dG9uIGNhbmNlbFNjYW5CdXR0b247Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQnV0dG9uIGNhbmNlbFNjYW5CdXR0b247Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjYW5jZWxTY2FuQnV0dG9uID0gKEJ1dHRvbikgdGhpcy5maW5kVmlld0J5SWQoUi5pZC5idG5fY2FuY2VsX3NjYW4pOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PEJ1dHRvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J0bl9jYW5jZWxfc2NhbiIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjIzMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjQwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50Qm90dG9tPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9jZW50ZXJJblBhcmVudD0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSI3NWRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkNhbmNlbCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTVzcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U3R5bGU9ImJvbGQiLz4=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
