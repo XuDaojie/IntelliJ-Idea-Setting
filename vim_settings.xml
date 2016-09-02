@@ -98,7 +98,7 @@
         <mark key="]" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/MainActivity.java" timestamp="1472633334829">
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/MainActivity.java" timestamp="1472636655207">
         <mark key="[" line="38" column="4" />
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
@@ -109,8 +109,10 @@
         <mark key="]" line="59" column="4" />
         <mark key="." line="59" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/build.gradle" timestamp="1472633402035">
-        <mark key="[" line="24" column="1" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/build.gradle" timestamp="1472637262570">
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/kotlin/src/main/java/io/github/xudaojie/kotlin/MainActivity.kt" timestamp="1468946243660">
         <mark key="[" line="9" column="46" />
@@ -299,6 +301,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/build.gradle" timestamp="1472636169491">
+        <mark key="[" line="9" column="8" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/customview/CountView.java" timestamp="1468772010476">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -370,8 +375,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/build.gradle" timestamp="1472633383609">
-        <mark key="[" line="28" column="53" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/build.gradle" timestamp="1472799686337">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/customview/CustomGroupView.java" timestamp="1468772014347">
         <mark key="[" line="12" column="0" />
@@ -434,11 +442,11 @@
         <mark key="]" line="18" column="39" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/README.md" timestamp="1472462882842">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="3" column="93" />
-        <mark key="^" line="3" column="93" />
-        <mark key="." line="3" column="93" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/README.md" timestamp="1472637371203">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="57" column="93" />
+        <mark key="^" line="57" column="93" />
+        <mark key="." line="57" column="93" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/common/FileUtils.java" timestamp="1472393395220">
         <mark key="[" line="6" column="24" />
@@ -593,7 +601,7 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472633046282">
+      <file name="/Dummy.txt" timestamp="1472637650962">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -603,7 +611,7 @@
         <mark key="]" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/AndroidManifest.xml" timestamp="1472634052909">
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/AndroidManifest.xml" timestamp="1472636537468">
         <mark key="[" line="22" column="42" />
         <mark key="]" line="22" column="42" />
         <mark key="." line="22" column="42" />
@@ -719,8 +727,8 @@
       <jump line="54" column="55" filename="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/app/src/main/java/io/github/xudaojie/okdownloadmanager/sample/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>xudaojie</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI0LjIuMCcK</text>
       </register>
       <register name="-" type="4">
         <text>xudaojie</text>
@@ -732,37 +740,37 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuUjsK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI0LjIuMCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuUjsK</text>
+        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuenhpbmc6amF2YXNlOjMuMi4xJwo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuQ2FwdHVyZUFjdGl2aXR5Owo=</text>
+        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuenhpbmc6YW5kcm9pZC1pbnRlZ3JhdGlvbjozLjIuMScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuUjsK</text>
+        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuenhpbmc6YW5kcm9pZC1jb3JlOjMuMi4xJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuQ2FwdHVyZUFjdGl2aXR5Owo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuenhpbmc6Y29yZTozLjIuMScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuQ2FwdHVyZUFjdGl2aXR5Owo=</text>
+        <text encoding="base64">aW1wb3J0IGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuUjsK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHJpdmF0ZSB2b2lkIGRlY29kZShmaW5hbCBTdHJpbmcgcGF0aCkgewogICAgICAgIG5ldyBUaHJlYWQoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICBzdXBlci5ydW4oKTsKCiAgICAgICAgICAgICAgICBCaXRtYXAgYml0bWFwID0gUXJVdGlscy5kZWNvZGVTYW1wbGVkQml0bWFwRnJvbUZpbGUocGF0aCwgMjU2LCAyNTYpOwoKLy8gICAgICAgICAgICAgICAgQml0bWFwIGJpdG1hcCA9IGdldERlY29kZUFibGVCaXRtYXAoUi5kcmF3YWJsZS5xcmNvZGVfemgpOwogICAgICAgICAgICAgICAgaW50IHdpZHRoID0gYml0bWFwLmdldFdpZHRoKCk7CiAgICAgICAgICAgICAgICBpbnQgaGVpZ2h0ID0gYml0bWFwLmdldEhlaWdodCgpOwogICAgICAgICAgICAgICAgaW50W10gcGl4ZWxzID0gbmV3IGludFt3aWR0aCAqIGhlaWdodF07CiAgICAgICAgICAgICAgICBiaXRtYXAuZ2V0UGl4ZWxzKHBpeGVscywgMCwgd2lkdGgsIDAsIDAsIHdpZHRoLCBoZWlnaHQpOwovLyAgICAgICAgICAgICAgICBSR0JMdW1pbmFuY2VTb3VyY2Ugc291cmNlID0gbmV3IFJHQkx1bWluYW5jZVNvdXJjZSh3aWR0aCwgaGVpZ2h0LCBwaXhlbHMpOwogICAgICAgICAgICAgICAgUGxhbmFyWVVWTHVtaW5hbmNlU291cmNlIHNvdXJjZTEgPSBuZXcgUGxhbmFyWVVWTHVtaW5hbmNlU291cmNlKGdldFlVVjQyMHNwKHdpZHRoLCBoZWlnaHQsIGJpdG1hcCksIHdpZHRoLCBoZWlnaHQsIDAsIDAsIHdpZHRoLCBoZWlnaHQsIGZhbHNlKTsKICAgICAgICAgICAgICAgIEJpbmFyeUJpdG1hcCBiaW5hcnlCaXRtYXAgPSBuZXcgQmluYXJ5Qml0bWFwKG5ldyBIeWJyaWRCaW5hcml6ZXIoc291cmNlMSkpOwovLyAgICAgICAgICAgICAgICBCaW5hcnlCaXRtYXAgYmluYXJ5Qml0bWFwID0gbmV3IEJpbmFyeUJpdG1hcChuZXcgR2xvYmFsSGlzdG9ncmFtQmluYXJpemVyKHNvdXJjZTEpKTsKICAgICAgICAgICAgICAgIEhhc2hNYXA8RGVjb2RlSGludFR5cGUsIE9iamVjdD4gaGludHMgPSBuZXcgSGFzaE1hcDw+KCk7CgogICAgICAgICAgICAgICAgaGludHMucHV0KERlY29kZUhpbnRUeXBlLlRSWV9IQVJERVIsIEJvb2xlYW4uVFJVRSk7CiAgICAgICAgICAgICAgICBoaW50cy5wdXQoRGVjb2RlSGludFR5cGUuQ0hBUkFDVEVSX1NFVCwgIlVURi04Iik7CgogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBSZXN1bHQgcmVzdWx0ID0gbmV3IE11bHRpRm9ybWF0UmVhZGVyKCkuZGVjb2RlKGJpbmFyeUJpdG1hcCwgaGludHMpOwovLyAgICAgICAgICAgICAgICAgICAgUmVzdWx0IHJlc3VsdCA9IG5ldyBRUkNvZGVSZWFkZXIoKS5kZWNvZGUoYmluYXJ5Qml0bWFwLCBoaW50cyk7CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoIk1haW5BY3Rpdml0eSIsIHJlc3VsdC5nZXRUZXh0KCkpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9LnN0YXJ0KCk7CiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuUjsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZWxzZSBpZiAocmVzdWx0Q29kZSA9PSBSRVNVTFRfT0sKICAgICAgICAgICAgICAgICYmIHJlcXVlc3RDb2RlID09IEFjdGlvblV0aWxzLlBIT1RPX1JFUVVFU1RfR0FMTEVSWQogICAgICAgICAgICAgICAgJiYgZGF0YSAhPSBudWxsKSB7CiAgICAgICAgICAgIFVyaSBpbnB1dFVyaSA9IGRhdGEuZ2V0RGF0YSgpOwoKICAgICAgICAgICAgU3RyaW5nW10gcHJvaiA9IHtNZWRpYVN0b3JlLkltYWdlcy5NZWRpYS5EQVRBfTsKICAgICAgICAgICAgQ3Vyc29yIGN1cnNvciA9IGdldENvbnRlbnRSZXNvbHZlcigpLnF1ZXJ5KGlucHV0VXJpLCBwcm9qLCBudWxsLCBudWxsLCBudWxsKTsKICAgICAgICAgICAgaWYgKGN1cnNvci5tb3ZlVG9GaXJzdCgpKSB7CiAgICAgICAgICAgICAgICBTdHJpbmcgcGF0aCA9IGN1cnNvci5nZXRTdHJpbmcoY3Vyc29yLmdldENvbHVtbkluZGV4KE1lZGlhU3RvcmUuTWVkaWFDb2x1bW5zLkRBVEEpKTsKICAgICAgICAgICAgICAgIGRlY29kZShwYXRoKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuQ2FwdHVyZUFjdGl2aXR5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLmdpdGh1Yi54dWRhb2ppZS5xcmNvZGUuUjsK</text>
       </register>
     </registers>
     <search>
