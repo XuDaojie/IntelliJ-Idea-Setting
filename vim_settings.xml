@@ -74,6 +74,9 @@
         <mark key="." line="137" column="32" />
         <mark key="^" line="136" column="35" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/data/remote/Api.kt" timestamp="1473080807022">
+        <mark key="[" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_white_border_left.xml" timestamp="1465900812824">
         <mark key="[" line="5" column="41" />
         <mark key="]" line="5" column="41" />
@@ -428,6 +431,11 @@
         <mark key="^" line="15" column="6" />
         <mark key="." line="15" column="6" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/data/Api.kt" timestamp="1473081102189">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/dagger2/src/main/java/io/github/xudaojie/simple/LoginPresenter.java" timestamp="1468856967080">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -546,6 +554,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/proguard-rules.pro" timestamp="1473080487818">
+        <mark key="[" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidUtils/library/src/main/java/com/wuxiaolong/androidutils/library/MediaUtil.java" timestamp="1472612576469">
         <mark key="[" line="72" column="19" />
         <mark key="]" line="58" column="47" />
@@ -562,6 +573,7 @@
         <mark key="]" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/build.gradle" timestamp="1473079913951" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/dagger2/src/main/java/io/github/xudaojie/DaggerActivity.java" timestamp="1468854921293">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -673,9 +685,6 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="213" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/build.gradle" timestamp="1473072848969">
-        <mark key="[" line="1" column="30" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/zxing/camera/CameraManager.java" timestamp="1472552121093">
         <mark key="[" line="235" column="56" />
         <mark key="]" line="249" column="8" />
@@ -708,7 +717,7 @@
         <mark key="]" line="93" column="9" />
         <mark key="." line="93" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1473074961165">
+      <file name="/fragment.java" timestamp="1473081095957">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="20" />
@@ -763,10 +772,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3MgQSA6IEFkYXB0ZXI8Vmlld0hvbGRlcj4oKSB7CiAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQmluZFZpZXdIb2xkZXIoaG9sZGVyOiBWaWV3SG9sZGVyPywgcG9zaXRpb246IEludCkgewogICAgICAgICAgICB0aHJvdyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICAgICAgfQoKICAgICAgICBvdmVycmlkZSBmdW4gZ2V0SXRlbUNvdW50KCk6IEludCB7CiAgICAgICAgICAgIHRocm93IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgICAgICB9CgogICAgICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZVZpZXdIb2xkZXIocGFyZW50OiBWaWV3R3JvdXA/LCB2aWV3VHlwZTogSW50KTogVmlld0hvbGRlciB7CiAgICAgICAgICAgIHRocm93IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgICAgICB9CgogICAgfQo=</text>
+        <text>interface</text>
       </register>
       <register name="-" type="4">
-        <text>MainActivity</text>
+        <text>interface</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
