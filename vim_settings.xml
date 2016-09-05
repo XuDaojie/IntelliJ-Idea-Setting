@@ -6,6 +6,11 @@
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/layout/gank_list_item.xml" timestamp="1473069961303">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BGAQRCode-Android/zxingdemo/src/main/java/cn/bingoogolapple/qrcode/zxingdemo/TestGeneratectivity.java" timestamp="1472367888244">
         <mark key="[" line="140" column="53" />
         <mark key="]" line="176" column="12" />
@@ -89,7 +94,6 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/LICENSE" timestamp="1473061427954" />
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/.gitignore" timestamp="1473061141888">
         <mark key="[" line="1" column="7" />
       </file>
@@ -97,6 +101,9 @@
         <mark key="[" line="195" column="18" />
         <mark key="]" line="195" column="18" />
         <mark key="." line="195" column="18" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/build.gradle" timestamp="1473067806861">
+        <mark key="[" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/widget/MyListView.java" timestamp="1465701906563">
         <mark key="[" line="34" column="37" />
@@ -473,6 +480,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/values/styles.xml" timestamp="1473067148538">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="3" column="57" />
+        <mark key="." line="3" column="57" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/toolbar/ToolbarActivity.java" timestamp="1468772319037">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -566,7 +578,6 @@
         <mark key="]" line="8" column="65" />
         <mark key="." line="8" column="65" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" timestamp="1472633462176" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_alert_list_activity.xml" timestamp="1464865661196">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -602,7 +613,7 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473059785151">
+      <file name="/Dummy.txt" timestamp="1473068597591">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -611,6 +622,11 @@
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="37" />
         <mark key="." line="5" column="37" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/layout/activity_main.xml" timestamp="1473068444371">
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/AndroidManifest.xml" timestamp="1472636537468">
         <mark key="[" line="22" column="42" />
@@ -642,6 +658,9 @@
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
         <mark key="^" line="213" column="37" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/build.gradle" timestamp="1473068052699">
+        <mark key="[" line="27" column="1" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/zxing/camera/CameraManager.java" timestamp="1472552121093">
         <mark key="[" line="235" column="56" />
@@ -735,10 +754,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>90</text>
+        <text>wrap_content</text>
       </register>
       <register name="-" type="4">
-        <text>90</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -747,42 +766,40 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgTG9nLmkoVEFHLCAiRGlzcGxheSBhdDogIiArIGN3Um90YXRpb25Gcm9tTmF0dXJhbFRvRGlzcGxheSk7CgogICAgICAgIGludCBjd1JvdGF0aW9uRnJvbU5hdHVyYWxUb0NhbWVyYSA9IGNhbWVyYS5nZXRPcmllbnRhdGlvbigpOwogICAgICAgIExvZy5pKFRBRywgIkNhbWVyYSBhdDogIiArIGN3Um90YXRpb25Gcm9tTmF0dXJhbFRvQ2FtZXJhKTsKCiAgICAgICAgLy8gU3RpbGwgbm90IDEwMCUgc3VyZSBhYm91dCB0aGlzLiBCdXQgYWN0cyBsaWtlIHdlIG5lZWQgdG8gZmxpcCB0aGlzOgogICAgICAgIGlmIChjYW1lcmEuZ2V0RmFjaW5nKCkgPT0gQ2FtZXJhRmFjaW5nLkZST05UKSB7CiAgICAgICAgICAgIGN3Um90YXRpb25Gcm9tTmF0dXJhbFRvQ2FtZXJhID0gKDM2MCAtIGN3Um90YXRpb25Gcm9tTmF0dXJhbFRvQ2FtZXJhKSAlIDM2MDsKICAgICAgICAgICAgTG9nLmkoVEFHLCAiRnJvbnQgY2FtZXJhIG92ZXJyaWRlbiB0bzogIiArIGN3Um90YXRpb25Gcm9tTmF0dXJhbFRvQ2FtZXJhKTsKICAgICAgICB9CgogICAgLyoKICAgIFNoYXJlZFByZWZlcmVuY2VzIHByZWZzID0gUHJlZmVyZW5jZU1hbmFnZXIuZ2V0RGVmYXVsdFNoYXJlZFByZWZlcmVuY2VzKGNvbnRleHQpOwogICAgU3RyaW5nIG92ZXJyaWRlUm90YXRpb25TdHJpbmc7CiAgICBpZiAoY2FtZXJhLmdldEZhY2luZygpID09IENhbWVyYUZhY2luZy5GUk9OVCkgewogICAgICBvdmVycmlkZVJvdGF0aW9uU3RyaW5nID0gcHJlZnMuZ2V0U3RyaW5nKFByZWZlcmVuY2VzQWN0aXZpdHkuS0VZX0ZPUkNFX0NBTUVSQV9PUklFTlRBVElPTl9GUk9OVCwgbnVsbCk7CiAgICB9IGVsc2UgewogICAgICBvdmVycmlkZVJvdGF0aW9uU3RyaW5nID0gcHJlZnMuZ2V0U3RyaW5nKFByZWZlcmVuY2VzQWN0aXZpdHkuS0VZX0ZPUkNFX0NBTUVSQV9PUklFTlRBVElPTiwgbnVsbCk7CiAgICB9CiAgICBpZiAob3ZlcnJpZGVSb3RhdGlvblN0cmluZyAhPSBudWxsICYmICEiLSIuZXF1YWxzKG92ZXJyaWRlUm90YXRpb25TdHJpbmcpKSB7CiAgICAgIExvZy5pKFRBRywgIk92ZXJyaWRpbmcgY2FtZXJhIG1hbnVhbGx5IHRvICIgKyBvdmVycmlkZVJvdGF0aW9uU3RyaW5nKTsKICAgICAgY3dSb3RhdGlvbkZyb21OYXR1cmFsVG9DYW1lcmEgPSBJbnRlZ2VyLnBhcnNlSW50KG92ZXJyaWRlUm90YXRpb25TdHJpbmcpOwogICAgfQogICAgICovCgogICAgICAgIGN3Um90YXRpb25Gcm9tRGlzcGxheVRvQ2FtZXJhID0KICAgICAgICAgICAgICAgICgzNjAgKyBjd1JvdGF0aW9uRnJvbU5hdHVyYWxUb0NhbWVyYSAtIGN3Um90YXRpb25Gcm9tTmF0dXJhbFRvRGlzcGxheSkgJSAzNjA7CiAgICAgICAgTG9nLmkoVEFHLCAiRmluYWwgZGlzcGxheSBvcmllbnRhdGlvbjogIiArIGN3Um90YXRpb25Gcm9tRGlzcGxheVRvQ2FtZXJhKTsKICAgICAgICBpZiAoY2FtZXJhLmdldEZhY2luZygpID09IENhbWVyYUZhY2luZy5GUk9OVCkgewogICAgICAgICAgICBMb2cuaShUQUcsICJDb21wZW5zYXRpbmcgcm90YXRpb24gZm9yIGZyb250IGNhbWVyYSIpOwogICAgICAgICAgICBjd05lZWRlZFJvdGF0aW9uID0gKDM2MCAtIGN3Um90YXRpb25Gcm9tRGlzcGxheVRvQ2FtZXJhKSAlIDM2MDsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBjd05lZWRlZFJvdGF0aW9uID0gY3dSb3RhdGlvbkZyb21EaXNwbGF5VG9DYW1lcmE7CiAgICAgICAgfQogICAgICAgIExvZy5pKFRBRywgIkNsb2Nrd2lzZSByb3RhdGlvbiBmcm9tIGRpc3BsYXkgdG8gY2FtZXJhOiAiICsgY3dOZWVkZWRSb3RhdGlvbik7CgogICAgICAgIFBvaW50IHRoZVNjcmVlblJlc29sdXRpb24gPSBuZXcgUG9pbnQoKTsKICAgICAgICBkaXNwbGF5LmdldFNpemUodGhlU2NyZWVuUmVzb2x1dGlvbik7CiAgICAgICAgc2NyZWVuUmVzb2x1dGlvbiA9IHRoZVNjcmVlblJlc29sdXRpb247CiAgICAgICAgTG9nLmkoVEFHLCAiU2NyZWVuIHJlc29sdXRpb24gaW4gY3VycmVudCBvcmllbnRhdGlvbjogIiArIHNjcmVlblJlc29sdXRpb24pOwogICAgICAgIGNhbWVyYVJlc29sdXRpb24gPSBDYW1lcmFDb25maWd1cmF0aW9uVXRpbHMuZmluZEJlc3RQcmV2aWV3U2l6ZVZhbHVlKHBhcmFtZXRlcnMsIHNjcmVlblJlc29sdXRpb24pOwogICAgICAgIExvZy5pKFRBRywgIkNhbWVyYSByZXNvbHV0aW9uOiAiICsgY2FtZXJhUmVzb2x1dGlvbik7CiAgICAgICAgYmVzdFByZXZpZXdTaXplID0gQ2FtZXJhQ29uZmlndXJhdGlvblV0aWxzLmZpbmRCZXN0UHJldmlld1NpemVWYWx1ZShwYXJhbWV0ZXJzLCBzY3JlZW5SZXNvbHV0aW9uKTsKICAgICAgICBMb2cuaShUQUcsICJCZXN0IGF2YWlsYWJsZSBwcmV2aWV3IHNpemU6ICIgKyBiZXN0UHJldmlld1NpemUpOwoKICAgICAgICBib29sZWFuIGlzU2NyZWVuUG9ydHJhaXQgPSBzY3JlZW5SZXNvbHV0aW9uLnggPCBzY3JlZW5SZXNvbHV0aW9uLnk7CiAgICAgICAgYm9vbGVhbiBpc1ByZXZpZXdTaXplUG9ydHJhaXQgPSBiZXN0UHJldmlld1NpemUueCA8IGJlc3RQcmV2aWV3U2l6ZS55OwoKICAgICAgICBpZiAoaXNTY3JlZW5Qb3J0cmFpdCA9PSBpc1ByZXZpZXdTaXplUG9ydHJhaXQpIHsKICAgICAgICAgICAgcHJldmlld1NpemVPblNjcmVlbiA9IGJlc3RQcmV2aWV3U2l6ZTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBwcmV2aWV3U2l6ZU9uU2NyZWVuID0gbmV3IFBvaW50KGJlc3RQcmV2aWV3U2l6ZS55LCBiZXN0UHJldmlld1NpemUueCk7CiAgICAgICAgfQogICAgICAgIExvZy5pKFRBRywgIlByZXZpZXcgc2l6ZSBvbiBzY3JlZW46ICIgKyBwcmV2aWV3U2l6ZU9uU2NyZWVuKTs=</text>
+        <text encoding="base64">IDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiLz4=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cmFudFJlc3VsdHMubGVuZ3RoID4gMAogICAgICAgICAgICAgICAgICAgICYm</text>
+        <text>android:paddingBottom=&quot;@dimen/activity_vertical_margin&quot;
+    android:paddingLeft=&quot;@dimen/activity_horizontal_margin&quot;
+    android:paddingRight=&quot;@dimen/activity_horizontal_margin&quot;
+    android:paddingTop=&quot;@dimen/activity_vertical_margin&quot;</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Z3JhbnRSZXN1bHRzLmxlbmd0aCA+IDAKICAgICAgICAgICAgICAgICAgICAmJiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiLz4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCkgewogICAgICAgICAgICAKICAgICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxUZXh0Vmlldwo=</text>
       </register>
       <register name="5" type="4">
-        <text>new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface dialog, int which) {
-                                mActivity.finish();
-                            }
-                        }</text>
+        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIvPg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQWxlcnREaWFsb2c7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgTG9nLmkoVEFHLCAiRGlzcGxheSBhdDogIiArIGN3Um90YXRpb25Gcm9tTmF0dXJhbFRvRGlzcGxheSk7CgogICAgICAgIGludCBjd1JvdGF0aW9uRnJvbU5hdHVyYWxUb0NhbWVyYSA9IGNhbWVyYS5nZXRPcmllbnRhdGlvbigpOwogICAgICAgIExvZy5pKFRBRywgIkNhbWVyYSBhdDogIiArIGN3Um90YXRpb25Gcm9tTmF0dXJhbFRvQ2FtZXJhKTsKCiAgICAgICAgLy8gU3RpbGwgbm90IDEwMCUgc3VyZSBhYm91dCB0aGlzLiBCdXQgYWN0cyBsaWtlIHdlIG5lZWQgdG8gZmxpcCB0aGlzOgogICAgICAgIGlmIChjYW1lcmEuZ2V0RmFjaW5nKCkgPT0gQ2FtZXJhRmFjaW5nLkZST05UKSB7CiAgICAgICAgICAgIGN3Um90YXRpb25Gcm9tTmF0dXJhbFRvQ2FtZXJhID0gKDM2MCAtIGN3Um90YXRpb25Gcm9tTmF0dXJhbFRvQ2FtZXJhKSAlIDM2MDsKICAgICAgICAgICAgTG9nLmkoVEFHLCAiRnJvbnQgY2FtZXJhIG92ZXJyaWRlbiB0bzogIiArIGN3Um90YXRpb25Gcm9tTmF0dXJhbFRvQ2FtZXJhKTsKICAgICAgICB9CgogICAgLyoKICAgIFNoYXJlZFByZWZlcmVuY2VzIHByZWZzID0gUHJlZmVyZW5jZU1hbmFnZXIuZ2V0RGVmYXVsdFNoYXJlZFByZWZlcmVuY2VzKGNvbnRleHQpOwogICAgU3RyaW5nIG92ZXJyaWRlUm90YXRpb25TdHJpbmc7CiAgICBpZiAoY2FtZXJhLmdldEZhY2luZygpID09IENhbWVyYUZhY2luZy5GUk9OVCkgewogICAgICBvdmVycmlkZVJvdGF0aW9uU3RyaW5nID0gcHJlZnMuZ2V0U3RyaW5nKFByZWZlcmVuY2VzQWN0aXZpdHkuS0VZX0ZPUkNFX0NBTUVSQV9PUklFTlRBVElPTl9GUk9OVCwgbnVsbCk7CiAgICB9IGVsc2UgewogICAgICBvdmVycmlkZVJvdGF0aW9uU3RyaW5nID0gcHJlZnMuZ2V0U3RyaW5nKFByZWZlcmVuY2VzQWN0aXZpdHkuS0VZX0ZPUkNFX0NBTUVSQV9PUklFTlRBVElPTiwgbnVsbCk7CiAgICB9CiAgICBpZiAob3ZlcnJpZGVSb3RhdGlvblN0cmluZyAhPSBudWxsICYmICEiLSIuZXF1YWxzKG92ZXJyaWRlUm90YXRpb25TdHJpbmcpKSB7CiAgICAgIExvZy5pKFRBRywgIk92ZXJyaWRpbmcgY2FtZXJhIG1hbnVhbGx5IHRvICIgKyBvdmVycmlkZVJvdGF0aW9uU3RyaW5nKTsKICAgICAgY3dSb3RhdGlvbkZyb21OYXR1cmFsVG9DYW1lcmEgPSBJbnRlZ2VyLnBhcnNlSW50KG92ZXJyaWRlUm90YXRpb25TdHJpbmcpOwogICAgfQogICAgICovCgogICAgICAgIGN3Um90YXRpb25Gcm9tRGlzcGxheVRvQ2FtZXJhID0KICAgICAgICAgICAgICAgICgzNjAgKyBjd1JvdGF0aW9uRnJvbU5hdHVyYWxUb0NhbWVyYSAtIGN3Um90YXRpb25Gcm9tTmF0dXJhbFRvRGlzcGxheSkgJSAzNjA7CiAgICAgICAgTG9nLmkoVEFHLCAiRmluYWwgZGlzcGxheSBvcmllbnRhdGlvbjogIiArIGN3Um90YXRpb25Gcm9tRGlzcGxheVRvQ2FtZXJhKTsKICAgICAgICBpZiAoY2FtZXJhLmdldEZhY2luZygpID09IENhbWVyYUZhY2luZy5GUk9OVCkgewogICAgICAgICAgICBMb2cuaShUQUcsICJDb21wZW5zYXRpbmcgcm90YXRpb24gZm9yIGZyb250IGNhbWVyYSIpOwogICAgICAgICAgICBjd05lZWRlZFJvdGF0aW9uID0gKDM2MCAtIGN3Um90YXRpb25Gcm9tRGlzcGxheVRvQ2FtZXJhKSAlIDM2MDsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBjd05lZWRlZFJvdGF0aW9uID0gY3dSb3RhdGlvbkZyb21EaXNwbGF5VG9DYW1lcmE7CiAgICAgICAgfQogICAgICAgIExvZy5pKFRBRywgIkNsb2Nrd2lzZSByb3RhdGlvbiBmcm9tIGRpc3BsYXkgdG8gY2FtZXJhOiAiICsgY3dOZWVkZWRSb3RhdGlvbik7CgogICAgICAgIFBvaW50IHRoZVNjcmVlblJlc29sdXRpb24gPSBuZXcgUG9pbnQoKTsKICAgICAgICBkaXNwbGF5LmdldFNpemUodGhlU2NyZWVuUmVzb2x1dGlvbik7CiAgICAgICAgc2NyZWVuUmVzb2x1dGlvbiA9IHRoZVNjcmVlblJlc29sdXRpb247CiAgICAgICAgTG9nLmkoVEFHLCAiU2NyZWVuIHJlc29sdXRpb24gaW4gY3VycmVudCBvcmllbnRhdGlvbjogIiArIHNjcmVlblJlc29sdXRpb24pOwogICAgICAgIGNhbWVyYVJlc29sdXRpb24gPSBDYW1lcmFDb25maWd1cmF0aW9uVXRpbHMuZmluZEJlc3RQcmV2aWV3U2l6ZVZhbHVlKHBhcmFtZXRlcnMsIHNjcmVlblJlc29sdXRpb24pOwogICAgICAgIExvZy5pKFRBRywgIkNhbWVyYSByZXNvbHV0aW9uOiAiICsgY2FtZXJhUmVzb2x1dGlvbik7CiAgICAgICAgYmVzdFByZXZpZXdTaXplID0gQ2FtZXJhQ29uZmlndXJhdGlvblV0aWxzLmZpbmRCZXN0UHJldmlld1NpemVWYWx1ZShwYXJhbWV0ZXJzLCBzY3JlZW5SZXNvbHV0aW9uKTsKICAgICAgICBMb2cuaShUQUcsICJCZXN0IGF2YWlsYWJsZSBwcmV2aWV3IHNpemU6ICIgKyBiZXN0UHJldmlld1NpemUpOwoKICAgICAgICBib29sZWFuIGlzU2NyZWVuUG9ydHJhaXQgPSBzY3JlZW5SZXNvbHV0aW9uLnggPCBzY3JlZW5SZXNvbHV0aW9uLnk7CiAgICAgICAgYm9vbGVhbiBpc1ByZXZpZXdTaXplUG9ydHJhaXQgPSBiZXN0UHJldmlld1NpemUueCA8IGJlc3RQcmV2aWV3U2l6ZS55OwoKICAgICAgICBpZiAoaXNTY3JlZW5Qb3J0cmFpdCA9PSBpc1ByZXZpZXdTaXplUG9ydHJhaXQpIHsKICAgICAgICAgICAgcHJldmlld1NpemVPblNjcmVlbiA9IGJlc3RQcmV2aWV3U2l6ZTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBwcmV2aWV3U2l6ZU9uU2NyZWVuID0gbmV3IFBvaW50KGJlc3RQcmV2aWV3U2l6ZS55LCBiZXN0UHJldmlld1NpemUueCk7CiAgICAgICAgfQogICAgICAgIExvZy5pKFRBRywgIlByZXZpZXcgc2l6ZSBvbiBzY3JlZW46ICIgKyBwcmV2aWV3U2l6ZU9uU2NyZWVuKTs=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI0LjIuMCcK</text>
+      <register name="7" type="4">
+        <text encoding="base64">cmFudFJlc3VsdHMubGVuZ3RoID4gMAogICAgICAgICAgICAgICAgICAgICYm</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuenhpbmc6amF2YXNlOjMuMi4xJwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">Z3JhbnRSZXN1bHRzLmxlbmd0aCA+IDAKICAgICAgICAgICAgICAgICAgICAmJiA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuenhpbmc6YW5kcm9pZC1pbnRlZ3JhdGlvbjozLjIuMScK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCkgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
     </registers>
     <search>
