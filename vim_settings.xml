@@ -40,10 +40,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/.gitignore" timestamp="1473061141888">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/home/HomeFragment.kt" timestamp="1473152709123">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="29" />
-        <mark key="." line="33" column="29" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/home/HomeFragment.kt" timestamp="1473154588086">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="22" />
+        <mark key="." line="30" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/build.gradle" timestamp="1473067806861">
         <mark key="[" line="3" column="32" />
@@ -160,6 +160,7 @@
         <mark key="^" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/app/FragmentBreadCrumbs.java" timestamp="1473146507961" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/jp.wasabeef/recyclerview-animators/2.2.4/69fd80b71552a29bd871b5b91df2e0f34cf93845/recyclerview-animators-2.2.4-sources.jar!/jp/wasabeef/recyclerview/adapters/SlideInBottomAnimationAdapter.java" timestamp="1473153743996" />
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/Test1.kt" timestamp="1473143228737">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="24" column="16" />
@@ -299,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.itemAnimator</text>
+        <text>SlideInBottomAnimationAdapter</text>
       </register>
       <register name="-" type="4">
-        <text>.itemAnimator</text>
+        <text>SlideInBottomAnimationAdapter</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
