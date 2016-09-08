@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="A" line="141" column="58" filename="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" />
+      <mark key="A" line="146" column="58" filename="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" />
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
     <filemarks>
@@ -56,6 +56,7 @@
         <mark key="." line="31" column="17" />
         <mark key="^" line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/support-compat/24.2.0/support-compat-24.2.0-sources.jar!/android/support/v4/content/ContextCompat.java" timestamp="1473298052204" />
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/Test1.kt" timestamp="1473143228737">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="24" column="16" />
@@ -191,6 +192,9 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/zxing/view/ViewfinderView.java" timestamp="1473298495624">
+        <mark key="[" line="80" column="19" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" timestamp="1473294288955" />
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/layout/activity_main.xml" timestamp="1473147667844">
         <mark key="[" line="24" column="3" />
@@ -200,7 +204,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/build.gradle" timestamp="1473045665177">
         <mark key="[" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/zxing/camera/CameraManager.java" timestamp="1473296409536" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/zxing/camera/CameraManager.java" timestamp="1473298813520">
+        <mark key="[" line="217" column="30" />
+        <mark key="]" line="217" column="30" />
+        <mark key="." line="217" column="30" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/AndroidManifest.xml" timestamp="1473131639208">
         <mark key="[" line="3" column="0" />
       </file>
@@ -241,8 +249,10 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" timestamp="1473297142281">
-        <mark key="[" line="105" column="9" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" timestamp="1473298918384">
+        <mark key="[" line="92" column="8" />
+        <mark key="]" line="92" column="8" />
+        <mark key="." line="92" column="8" />
       </file>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/content/ContextWrapper.java" timestamp="1473297125399" />
       <file name="/fragment.java" timestamp="1473149767632">
@@ -300,10 +310,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SlideInBottomAnimationAdapter</text>
+        <text>if (checkPermission(Manifest.permission.CAMERA, android.os.Process.myPid(), Process.myUid())
+                == PackageManager.PERMISSION_GRANTED) {
+            Log.d(&quot;xxx&quot;, &quot;aaa&quot;);
+        } else {
+            Log.d(&quot;xxx&quot;, &quot;a11&quot;);
+        }</text>
       </register>
       <register name="-" type="4">
-        <text>SlideInBottomAnimationAdapter</text>
+        <text encoding="base64">bCAmJiBzY3JlZW5SZXNvbHV0aW9uICE9IG51bGw=</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -312,48 +327,53 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text>if (checkPermission(Manifest.permission.CAMERA, android.os.Process.myPid(), Process.myUid())
+                == PackageManager.PERMISSION_GRANTED) {
+            Log.d(&quot;xxx&quot;, &quot;aaa&quot;);
+        } else {
+            Log.d(&quot;xxx&quot;, &quot;a11&quot;);
+        }</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">QENhbGxTdXBlcgogICAgb3ZlcnJpZGUgZnVuIG9uQ3JlYXRlVmlldyhpbmZsYXRlcjogTGF5b3V0SW5mbGF0ZXI/LCBjb250YWluZXI6IFZpZXdHcm91cD8sIHNhdmVkSW5zdGFuY2VTdGF0ZTogQnVuZGxlPyk6IFZpZXc/IHsKICAgICAgICByZXR1cm4gc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkhIQogICAgfQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>@Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         return super.onCreateView(inflater, container, savedInstanceState);
     }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
         mActivity = activity
     }</text>
       </register>
-      <register name="4" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>override fun onCreateV(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         mActivity = activity
     }</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25BdHRhY2goY29udGV4dDogQ29udGV4dD8pIHsKICAgICAgICBzdXBlci5vbkF0dGFjaChjb250ZXhY</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>recycler_view.layoutManager = LinearLayoutManager(mActivity, LinearLayoutManager.VERTICAL, false)
         recycler_view.adapter = ListAdapter(mActivity)</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICA8YW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5Ub29sYmFyCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvclByaW1hcnkiCiAgICAgICAgYW5kcm9pZDptaW5IZWlnaHQ9Ij9hdHRyL2FjdGlvbkJhclNpemUiCiAgICAgICAgYXBwOnBvcHVwVGhlbWU9IkBzdHlsZS9UaGVtZU92ZXJsYXkuQXBwQ29tcGF0LkxpZ2h0IgogICAgICAgIGFwcDp0aXRsZT0iR2FuayBJTyIvPgogICAgCiAgICA8RnJhbWVMYXlvdXQKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2NvbnRlbnRfZnJhbWUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIvPg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGNsYXNzIElPU0JlYW4gewogICAgICAgICAgICB2YXIgX2lkOiBTdHJpbmc/ID0gbnVsbAogICAgICAgICAgICB2YXIgY3JlYXRlZEF0OiBTdHJpbmc/ID0gbnVsbAogICAgICAgICAgICB2YXIgZGVzYzogU3RyaW5nPyA9IG51bGwKICAgICAgICAgICAgdmFyIHB1Ymxpc2hlZEF0OiBTdHJpbmc/ID0gbnVsbAogICAgICAgICAgICB2YXIgdHlwZTogU3RyaW5nPyA9IG51bGwKICAgICAgICAgICAgdmFyIHVybDogU3RyaW5nPyA9IG51bGwKICAgICAgICAgICAgdmFyIGlzVXNlZDogQm9vbGVhbiA9IGZhbHNlCiAgICAgICAgICAgIHZhciB3aG86IFN0cmluZz8gPSBudWxsCiAgICAgICAgfQoKICAgICAgICBjbGFzcyDkvJHmga/op4bpopFCZWFuIHsKICAgICAgICAgICAgdmFyIF9pZDogU3RyaW5nPyA9IG51bGwKICAgICAgICAgICAgdmFyIGNyZWF0ZWRBdDogU3RyaW5nPyA9IG51bGwKICAgICAgICAgICAgdmFyIGRlc2M6IFN0cmluZz8gPSBudWxsCiAgICAgICAgICAgIHZhciBwdWJsaXNoZWRBdDogU3RyaW5nPyA9IG51bGwKICAgICAgICAgICAgdmFyIHR5cGU6IFN0cmluZz8gPSBudWxsCiAgICAgICAgICAgIHZhciB1cmw6IFN0cmluZz8gPSBudWxsCiAgICAgICAgICAgIHZhciBpc1VzZWQ6IEJvb2xlYW4gPSBmYWxzZQogICAgICAgICAgICB2YXIgd2hvOiBTdHJpbmc/ID0gbnVsbAogICAgICAgIH0KCiAgICAgICAgY2xhc3Mg5ouT5bGV6LWE5rqQQmVhbiB7CiAgICAgICAgICAgIHZhciBfaWQ6IFN0cmluZz8gPSBudWxsCiAgICAgICAgICAgIHZhciBjcmVhdGVkQXQ6IFN0cmluZz8gPSBudWxsCiAgICAgICAgICAgIHZhciBkZXNjOiBTdHJpbmc/ID0gbnVsbAogICAgICAgICAgICB2YXIgcHVibGlzaGVkQXQ6IFN0cmluZz8gPSBudWxsCiAgICAgICAgICAgIHZhciB0eXBlOiBTdHJpbmc/ID0gbnVsbAogICAgICAgICAgICB2YXIgdXJsOiBTdHJpbmc/ID0gbnVsbAogICAgICAgICAgICB2YXIgaXNVc2VkOiBCb29sZWFuID0gZmFsc2UKICAgICAgICAgICAgdmFyIHdobzogU3RyaW5nPyA9IG51bGwKICAgICAgICB9CgogICAgICAgIGNsYXNzIOeejuaOqOiNkEJlYW4gewogICAgICAgICAgICB2YXIgX2lkOiBTdHJpbmc/ID0gbnVsbAogICAgICAgICAgICB2YXIgY3JlYXRlZEF0OiBTdHJpbmc/ID0gbnVsbAogICAgICAgICAgICB2YXIgZGVzYzogU3RyaW5nPyA9IG51bGwKICAgICAgICAgICAgdmFyIHB1Ymxpc2hlZEF0OiBTdHJpbmc/ID0gbnVsbAogICAgICAgICAgICB2YXIgdHlwZTogU3RyaW5nPyA9IG51bGwKICAgICAgICAgICAgdmFyIHVybDogU3RyaW5nPyA9IG51bGwKICAgICAgICAgICAgdmFyIGlzVXNlZDogQm9vbGVhbiA9IGZhbHNlCiAgICAgICAgICAgIHZhciB3aG86IFN0cmluZz8gPSBudWxsCiAgICAgICAgfQoKICAgICAgICBjbGFzcyDnpo/liKlCZWFuIHsKICAgICAgICAgICAgdmFyIF9pZDogU3RyaW5nPyA9IG51bGwKICAgICAgICAgICAgdmFyIGNyZWF0ZWRBdDogU3RyaW5nPyA9IG51bGwKICAgICAgICAgICAgdmFyIGRlc2M6IFN0cmluZz8gPSBudWxsCiAgICAgICAgICAgIHZhciBwdWJsaXNoZWRBdDogU3RyaW5nPyA9IG51bGwKICAgICAgICAgICAgdmFyIHR5cGU6IFN0cmluZz8gPSBudWxsCiAgICAgICAgICAgIHZhciB1cmw6IFN0cmluZz8gPSBudWxsCiAgICAgICAgICAgIHZhciBpc1VzZWQ6IEJvb2xlYW4gPSBmYWxzZQogICAgICAgICAgICB2YXIgd2hvOiBTdHJpbmc/ID0gbnVsbAogICAgICAgIH0=</text>
       </register>
     </registers>
     <search>
