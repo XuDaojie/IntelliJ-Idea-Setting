@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="A" line="146" column="58" filename="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" />
+      <mark key="A" line="133" column="58" filename="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" />
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
     <filemarks>
@@ -204,7 +204,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/build.gradle" timestamp="1473045665177">
         <mark key="[" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/zxing/camera/CameraManager.java" timestamp="1473298813520">
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/zxing/camera/CameraManager.java" timestamp="1473300576165">
         <mark key="[" line="217" column="30" />
         <mark key="]" line="217" column="30" />
         <mark key="." line="217" column="30" />
@@ -249,10 +249,10 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" timestamp="1473298918384">
-        <mark key="[" line="92" column="8" />
-        <mark key="]" line="92" column="8" />
-        <mark key="." line="92" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" timestamp="1473300434439">
+        <mark key="[" line="320" column="37" />
+        <mark key="]" line="320" column="37" />
+        <mark key="." line="320" column="37" />
       </file>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/content/ContextWrapper.java" timestamp="1473297125399" />
       <file name="/fragment.java" timestamp="1473149767632">
@@ -310,15 +310,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if (checkPermission(Manifest.permission.CAMERA, android.os.Process.myPid(), Process.myUid())
-                == PackageManager.PERMISSION_GRANTED) {
-            Log.d(&quot;xxx&quot;, &quot;aaa&quot;);
-        } else {
-            Log.d(&quot;xxx&quot;, &quot;a11&quot;);
-        }</text>
+        <text>请在系统设置中为App开启摄像头权限后重试</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bCAmJiBzY3JlZW5SZXNvbHV0aW9uICE9IG51bGw=</text>
+        <text>请在系统设置中为App开启摄像头权限后重试</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -327,6 +322,16 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5NKSB7CiAgICAgICAgICAgIGlmIChDb250ZXh0Q29tcGF0LmNoZWNrU2VsZlBlcm1pc3Npb24obUFjdGl2aXR5LCBNYW5pZmVzdC5wZXJtaXNzaW9uLkNBTUVSQSkKICAgICAgICAgICAgICAgICAgICAhPSBQYWNrYWdlTWFuYWdlci5QRVJNSVNTSU9OX0dSQU5URUQpIHsKICAgICAgICAgICAgICAgIEFjdGl2aXR5Q29tcGF0LnJlcXVlc3RQZXJtaXNzaW9ucyhtQWN0aXZpdHksCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBTdHJpbmdbXXtNYW5pZmVzdC5wZXJtaXNzaW9uLkNBTUVSQX0sCiAgICAgICAgICAgICAgICAgICAgICAgIFJFUVVFU1RfUEVSTUlTU0lPTl9DQU1FUkEpOwogICAgICAgICAgICB9CiAgICAgICAgfQovLyAgICAgICAgUGFja2FnZU1hbmFnZXIgcG0gPSBnZXRQYWNrYWdlTWFuYWdlcigpOw==</text>
+      </register>
+      <register name="2" type="4">
+        <text>Log.d(&quot;xxxx&quot;, &quot;权限&quot;);
+                Toast.makeText(mActivity, &quot;权限&quot;, Toast.LENGTH_LONG).show();</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>if (checkPermission(Manifest.permission.CAMERA, android.os.Process.myPid(), Process.myUid())
                 == PackageManager.PERMISSION_GRANTED) {
             Log.d(&quot;xxx&quot;, &quot;aaa&quot;);
@@ -334,46 +339,36 @@
             Log.d(&quot;xxx&quot;, &quot;a11&quot;);
         }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">QENhbGxTdXBlcgogICAgb3ZlcnJpZGUgZnVuIG9uQ3JlYXRlVmlldyhpbmZsYXRlcjogTGF5b3V0SW5mbGF0ZXI/LCBjb250YWluZXI6IFZpZXdHcm91cD8sIHNhdmVkSW5zdGFuY2VTdGF0ZTogQnVuZGxlPyk6IFZpZXc/IHsKICAgICAgICByZXR1cm4gc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkhIQogICAgfQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>@Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         return super.onCreateView(inflater, container, savedInstanceState);
     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
         mActivity = activity
     }</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>override fun onCreateV(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         mActivity = activity
     }</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gb25BdHRhY2goY29udGV4dDogQ29udGV4dD8pIHsKICAgICAgICBzdXBlci5vbkF0dGFjaChjb250ZXhY</text>
-      </register>
-      <register name="9" type="4">
-        <text>recycler_view.layoutManager = LinearLayoutManager(mActivity, LinearLayoutManager.VERTICAL, false)
-        recycler_view.adapter = ListAdapter(mActivity)</text>
       </register>
     </registers>
     <search>
