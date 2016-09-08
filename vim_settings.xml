@@ -66,8 +66,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/.gitignore" timestamp="1473061141888">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/home/HomeFragment.kt" timestamp="1473323434934">
-        <mark key="[" line="31" column="5" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/home/HomeFragment.kt" timestamp="1473329217992">
+        <mark key="[" line="35" column="113" />
         <mark key="]" line="31" column="5" />
         <mark key="." line="31" column="5" />
         <mark key="^" line="39" column="86" />
@@ -82,17 +82,11 @@
         <mark key="^" line="64" column="93" />
         <mark key="." line="55" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/values/colors.xml" timestamp="1473321509261">
-        <mark key="[" line="4" column="45" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/MainActivity.java" timestamp="1472636655207">
         <mark key="[" line="38" column="4" />
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
         <mark key="^" line="27" column="4" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/README.md" timestamp="1473317365761">
-        <mark key="[" line="16" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/build.gradle" timestamp="1473315189055">
         <mark key="[" line="35" column="55" />
@@ -124,7 +118,7 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/MainActivity.kt" timestamp="1473151528640">
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/MainActivity.kt" timestamp="1473328003613">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="10" column="32" />
         <mark key="." line="10" column="32" />
@@ -169,12 +163,18 @@
         <mark key="." line="132" column="16" />
         <mark key="^" line="132" column="16" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/detail/DetailFragment.kt" timestamp="1473328773194">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="28" column="42" />
+        <mark key="." line="28" column="42" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1472605247268">
         <mark key="[" line="27" column="9" />
         <mark key="]" line="121" column="0" />
         <mark key="^" line="110" column="44" />
         <mark key="." line="121" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/support-compat/24.2.0/support-compat-24.2.0-sources.jar!/android/support/v4/view/NestedScrollingChild.java" timestamp="1473327330088" />
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/zxing/decoding/DecodeHandler.java" timestamp="1472374055059">
         <mark key="[" line="56" column="13" />
         <mark key="]" line="56" column="11" />
@@ -196,11 +196,12 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="19" column="66" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/adapter/ListAdapter.kt" timestamp="1473317935883">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/24.2.0/recyclerview-v7-24.2.0-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1473327320447" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/adapter/ListAdapter.kt" timestamp="1473328293697">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidUtils/library/src/main/java/com/wuxiaolong/androidutils/library/GalleryUtils.java" timestamp="1472608391502">
         <mark key="[" line="11" column="0" />
@@ -220,11 +221,7 @@
         <mark key="." line="86" column="28" />
         <mark key="^" line="86" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/layout/detail_frag.xml" timestamp="1473326701459">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/layout/detail_frag.xml" timestamp="1473329658195" />
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/zxing/view/ViewfinderView.java" timestamp="1473313994461">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="19" column="8" />
@@ -244,14 +241,20 @@
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/build.gradle" timestamp="1473045665177">
         <mark key="[" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/AndroidManifest.xml" timestamp="1473131639208">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/AndroidManifest.xml" timestamp="1473328252959">
+        <mark key="[" line="18" column="19" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/detail/DetailActivity.kt" timestamp="1473328240066">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/drawable/divider_10dp.xml" timestamp="1473321069043">
         <mark key="[" line="3" column="41" />
         <mark key="]" line="3" column="41" />
         <mark key="." line="3" column="41" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ScrollBehavior/scrollbehavior/src/main/java/io/github/xudaojie/behavior/FooterBehavior.java" timestamp="1473327273700" />
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/layout/home_frag.xml" timestamp="1473322608215">
         <mark key="[" line="2" column="50" />
         <mark key="]" line="11" column="31" />
@@ -289,12 +292,13 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1473325423553">
+      <file name="/fragment.java" timestamp="1473328016918">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/design/24.2.0/design-24.2.0-sources.jar!/android/support/design/widget/CoordinatorLayout.java" timestamp="1473327292521" />
     </filemarks>
     <jumps>
       <jump line="1" column="14" filename="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/layout/content_main.xml" />
@@ -344,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LinearLaxyout</text>
+        <text>book1</text>
       </register>
       <register name="-" type="4">
-        <text>LinearLaxyout</text>
+        <text>book1</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -356,18 +360,21 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgYWRhcHRlci5zZXREdXJhdGlvbigxMDApCiAgICAgICAgYWRhcHRlci5zZXRTdGFydFBvc2l0aW9uKDAp</text>
+        <text encoding="base64">PEltYWdlVmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiIvPg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmRpdmlkZXI9IkBjb2xvci9jYXJkdmlld19kYXJrX2JhY2tncm91bmQiCiAgICAgICAgYW5kcm9pZDpkaXZpZGVySGVpZ2h0PSIxMGRwIgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgYWRhcHRlci5zZXREdXJhdGlvbigxMDApCiAgICAgICAgYWRhcHRlci5zZXRTdGFydFBvc2l0aW9uKDAp</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PExpc3RWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmRpdmlkZXJIZWlnaHQ9IiI+PC9MaXN0Vmlldz4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmRpdmlkZXI9IkBjb2xvci9jYXJkdmlld19kYXJrX2JhY2tncm91bmQiCiAgICAgICAgYW5kcm9pZDpkaXZpZGVySGVpZ2h0PSIxMGRwIgo=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">PExpc3RWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmRpdmlkZXJIZWlnaHQ9IiI+PC9MaXN0Vmlldz4=</text>
+      </register>
+      <register name="5" type="4">
         <text>@Override
     public void getItemOffsets(Rect outRect, int itemPosition, RecyclerView parent) {
         if (mOrientation == VERTICAL_LIST) {
@@ -377,11 +384,8 @@
         }
     }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25EcmF3KENhbnZhcyBjLCBSZWN5Y2xlclZpZXcgcGFyZW50KSB7CiAgICAgICAgaWYgKG1PcmllbnRhdGlvbiA9PSBWRVJUSUNBTF9MSVNUKSB7CiAgICAgICAgICAgIGRyYXdWZXJ0aWNhbChjLCBwYXJlbnQpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGRyYXdIb3Jpem9udGFsKGMsIHBhcmVudCk7CiAgICAgICAgfQogICAgfQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -389,13 +393,11 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+PSBCdWlsZC5WRVJTSU9OX0NPREVTLk0pIHsKICAgICAgICAgICAgaWYgKENvbnRleHRDb21wYXQuY2hlY2tTZWxmUGVybWlzc2lvbihtQWN0aXZpdHksIE1hbmlmZXN0LnBlcm1pc3Npb24uQ0FNRVJBKQogICAgICAgICAgICAgICAgICAgICE9IFBhY2thZ2VNYW5hZ2VyLlBFUk1JU1NJT05fR1JBTlRFRCkgewogICAgICAgICAgICAgICAgQWN0aXZpdHlDb21wYXQucmVxdWVzdFBlcm1pc3Npb25zKG1BY3Rpdml0eSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFN0cmluZ1tde01hbmlmZXN0LnBlcm1pc3Npb24uQ0FNRVJBfSwKICAgICAgICAgICAgICAgICAgICAgICAgUkVRVUVTVF9QRVJNSVNTSU9OX0NBTUVSQSk7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>else {
-            
-        }</text>
+        <text encoding="base64">aWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+PSBCdWlsZC5WRVJTSU9OX0NPREVTLk0pIHsKICAgICAgICAgICAgaWYgKENvbnRleHRDb21wYXQuY2hlY2tTZWxmUGVybWlzc2lvbihtQWN0aXZpdHksIE1hbmlmZXN0LnBlcm1pc3Npb24uQ0FNRVJBKQogICAgICAgICAgICAgICAgICAgICE9IFBhY2thZ2VNYW5hZ2VyLlBFUk1JU1NJT05fR1JBTlRFRCkgewogICAgICAgICAgICAgICAgQWN0aXZpdHlDb21wYXQucmVxdWVzdFBlcm1pc3Npb25zKG1BY3Rpdml0eSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFN0cmluZ1tde01hbmlmZXN0LnBlcm1pc3Npb24uQ0FNRVJBfSwKICAgICAgICAgICAgICAgICAgICAgICAgUkVRVUVTVF9QRVJNSVNTSU9OX0NBTUVSQSk7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
     </registers>
     <search>
