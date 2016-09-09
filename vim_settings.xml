@@ -90,7 +90,7 @@
         <mark key="." line="35" column="56" />
         <mark key="^" line="33" column="52" />
       </file>
-      <file name="/fragment.kt" timestamp="1473413269672">
+      <file name="/fragment.kt" timestamp="1473414250035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/values/styles.xml" timestamp="1473404740555">
@@ -227,11 +227,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/layout/detail_list_item.xml" timestamp="1473383414861">
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/adapter/DetailListAdapter.kt" timestamp="1473413700206">
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="34" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="39" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/adapter/DetailListAdapter.kt" timestamp="1473415448320">
+        <mark key="[" line="45" column="1" />
+        <mark key="]" line="45" column="1" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="45" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1473407391176">
         <mark key="[" line="0" column="0" />
@@ -349,10 +349,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aXRlbURhdGEuYW5kcm9pZCA=</text>
+        <text encoding="base64">dW4gSW50LnBsdXMoc2l6ZTogSW50Pyk6IEludCB7CiAgICByZXR1cm4gMS5wbHVzKHNpemUpCn0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXRlbURhdGEuYW5kcm9pZCA=</text>
+        <text>android</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -361,37 +361,37 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGZ1biBuZXdJbnN0YW5jZSgpOiBEZXRhaWxGcmFnbWVudCB7CiAgICAgICAgICAgIHJldHVybiBEZXRhaWxGcmFnbWVudCgpCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">dW4gSW50LnBsdXMoc2l6ZTogSW50Pyk6IEludCB7CiAgICByZXR1cm4gMS5wbHVzKHNpemUpCn0K</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PEltYWdlQnV0dG9uCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNjRkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjRkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQG51bGwiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19wbGF5X2NpcmNsZV9maWxsZWRfYmxhY2tfNDhkcCIKICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29sbGFwc2VNb2RlPSJwYXJhbGxheCIvPg==</text>
+        <text encoding="base64">IGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGZ1biBuZXdJbnN0YW5jZSgpOiBEZXRhaWxGcmFnbWVudCB7CiAgICAgICAgICAgIHJldHVybiBEZXRhaWxGcmFnbWVudCgpCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iIgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PEltYWdlQnV0dG9uCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNjRkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjRkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQG51bGwiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19wbGF5X2NpcmNsZV9maWxsZWRfYmxhY2tfNDhkcCIKICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29sbGFwc2VNb2RlPSJwYXJhbGxheCIvPg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iIgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IHZoLml0ZW1WaWV3LnNldE9uQ2xpY2tMaXN0ZW5lciB7CiAgICAgICAgICAgIHZhbCBpID0gSW50ZW50KGNvbnRleHQsIERldGFpbEFjdGl2aXR5OjpjbGFzcy5qYXZhKQogICAgICAgICAgICBjb250ZXh0LnN0YXJ0QWN0aXZpdHkoaSkKICAgICAgICA=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmaXRzU3lzdGVtV2luZG93cz0idHJ1ZSIK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZpdHNTeXN0ZW1XaW5kb3dzPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmaXRzU3lzdGVtV2luZG93cz0idHJ1ZSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZpdHNTeXN0ZW1XaW5kb3dzPSJ0cnVlIgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PEltYWdlVmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiIvPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
     </registers>
     <search>
