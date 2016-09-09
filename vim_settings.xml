@@ -18,7 +18,7 @@
         <mark key="." line="176" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/data/remote/GankIoService.kt" timestamp="1473408007321" />
-      <file name="/a.dummy" timestamp="1473322291360">
+      <file name="/a.dummy" timestamp="1473409883595">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xdj/ninesquare/ZoomActivity.java" timestamp="1470645845551">
@@ -147,10 +147,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/MainActivity.java" timestamp="1473393617558">
         <mark key="[" line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/detail/DetailFragment.kt" timestamp="1473406919305">
-        <mark key="[" line="20" column="3" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/detail/DetailFragment.kt" timestamp="1473411035612">
+        <mark key="[" line="46" column="45" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/values-v21/styles.xml" timestamp="1473407387708">
         <mark key="[" line="3" column="35" />
@@ -184,8 +185,10 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="19" column="66" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/common/TimeUtils.kt" timestamp="1473409113829">
-        <mark key="[" line="9" column="1" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/common/TimeUtils.kt" timestamp="1473411097720">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/adapter/ListAdapter.kt" timestamp="1473328293697">
         <mark key="[" line="17" column="39" />
@@ -236,8 +239,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/AndroidManifest.xml" timestamp="1473328252959">
         <mark key="[" line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/detail/DetailActivity.kt" timestamp="1473406986053">
-        <mark key="[" line="11" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/detail/DetailActivity.kt" timestamp="1473409782318">
+        <mark key="[" line="18" column="78" />
         <mark key="]" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
@@ -246,10 +249,10 @@
         <mark key="]" line="3" column="41" />
         <mark key="." line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/adapter/HomeListAdapter.kt" timestamp="1473408645668">
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/adapter/HomeListAdapter.kt" timestamp="1473409768104">
         <mark key="[" line="26" column="61" />
-        <mark key="]" line="44" column="4" />
-        <mark key="." line="44" column="4" />
+        <mark key="]" line="45" column="4" />
+        <mark key="." line="45" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/layout/home_frag.xml" timestamp="1473322608215">
         <mark key="[" line="2" column="50" />
@@ -341,10 +344,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGZ1biBuZXdJbnN0YW5jZSgpOiBEZXRhaWxGcmFnbWVudCB7CiAgICAgICAgICAgIHJldHVybiBEZXRhaWxGcmFnbWVudCgpCiAgICAgICAgfQogICAgfQo=</text>
+        <text>pattern</text>
       </register>
       <register name="-" type="4">
-        <text>rl: String</text>
+        <text>pattern</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
