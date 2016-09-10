@@ -157,10 +157,10 @@
         <mark key="." line="132" column="16" />
         <mark key="^" line="132" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/MainActivity.java" timestamp="1473479736981">
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="34" column="8" />
-        <mark key="." line="34" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/MainActivity.java" timestamp="1473484349283">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/detail/DetailFragment.kt" timestamp="1473478582147">
         <mark key="[" line="64" column="60" />
@@ -384,7 +384,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sensorManager</text>
+        <text encoding="base64">CiAgICAgICAgbUdyYXZpdHlWYWx1c1swXSA9IGF4aXNYOwogICAgICAgIG1HcmF2aXR5VmFsdXNbMV0gPSBheGlzWTsKICAgICAgICBtR3Jhdml0eVZhbHVzWzJdID0gYXhpc1o7</text>
       </register>
       <register name="-" type="4">
         <text>sensorManager</text>
@@ -395,22 +395,25 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgbUdyYXZpdHlWYWx1c1swXSA9IGF4aXNYOwogICAgICAgIG1HcmF2aXR5VmFsdXNbMV0gPSBheGlzWTsKICAgICAgICBtR3Jhdml0eVZhbHVzWzJdID0gYXhpc1o7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PEltYWdlQnV0dG9uCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNjRkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjRkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQG51bGwiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19wbGF5X2NpcmNsZV9maWxsZWRfYmxhY2tfNDhkcCIKICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29sbGFwc2VNb2RlPSJwYXJhbGxheCIvPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgCiAgICAgICAgICAgIGZhbHNlCiAgICAgICAgfQ==</text>
+        <text encoding="base64">PEltYWdlQnV0dG9uCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNjRkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjRkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQG51bGwiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19wbGF5X2NpcmNsZV9maWxsZWRfYmxhY2tfNDhkcCIKICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29sbGFwc2VNb2RlPSJwYXJhbGxheCIvPg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgCiAgICAgICAgICAgIGZhbHNlCiAgICAgICAgfQ==</text>
+      </register>
+      <register name="6" type="4">
         <text>@Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -418,18 +421,18 @@
         Toolbar toolbar = 
     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>object : MenuItem.OnMenuItemClickListener() {
             
         })</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if (category.equals(&quot;Android&quot;)) {
             return data.results?.android!!.size
         } else if (category.equals(&quot;iOS&quot;)) {
@@ -446,9 +449,6 @@
             return data.results?.web!!.size
         }
         return 0</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
