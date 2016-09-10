@@ -66,8 +66,8 @@
         <mark key="." line="53" column="70" />
         <mark key="^" line="53" column="70" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/res/layout/activity_main.xml" timestamp="1473485548889">
-        <mark key="[" line="6" column="3" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/res/layout/activity_main.xml" timestamp="1473491299266">
+        <mark key="[" line="9" column="57" />
         <mark key="]" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
@@ -83,7 +83,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/values/colors.xml" timestamp="1473470166268">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/GravityImageView.java" timestamp="1473488631874" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/GravityImageView.java" timestamp="1473490238614">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="38" />
+        <mark key="." line="13" column="38" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/MainActivity.java" timestamp="1472636655207">
         <mark key="[" line="38" column="4" />
         <mark key="]" line="27" column="4" />
@@ -164,10 +168,10 @@
         <mark key="." line="132" column="16" />
         <mark key="^" line="132" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/MainActivity.java" timestamp="1473484349283">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/MainActivity.java" timestamp="1473490830785">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="28" />
+        <mark key="." line="23" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/detail/DetailFragment.kt" timestamp="1473478582147">
         <mark key="[" line="64" column="60" />
@@ -185,6 +189,11 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="1" column="95" />
         <mark key="." line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/MediaUtil.java" timestamp="1473491162846">
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/SQLiteHelper.java" timestamp="1472605247268">
         <mark key="[" line="27" column="9" />
@@ -308,6 +317,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/build.gradle" timestamp="1473435565148">
         <mark key="[" line="47" column="54" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/UriUtil.java" timestamp="1473491190943" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidUtils/library/src/main/java/com/wuxiaolong/androidutils/library/GalleryUtil.java" timestamp="1472611630914">
         <mark key="[" line="82" column="36" />
         <mark key="]" line="82" column="35" />
@@ -332,7 +342,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/layout/detail_child_item.xml" timestamp="1473472777371">
         <mark key="^" line="5" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1473485471563">
+      <file name="/fragment.java" timestamp="1473491186185">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="20" />
@@ -387,11 +397,11 @@
       <jump line="29" column="9" filename="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/TestActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIEdyYWl0eUltYWdlVmlldyhDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBzdXBlcihjb250ZXh0KTsKICAgIH0KCiAgICBwdWJsaWMgR3JhaXR5SW1hZ2VWaWV3KENvbnRleHQgY29udGV4dCwgQXR0cmlidXRlU2V0IGF0dHJzKSB7CiAgICAgICAgc3VwZXIoY29udGV4dCwgYXR0cnMpOwogICAgfQoKICAgIHB1YmxpYyBHcmFpdHlJbWFnZVZpZXcoQ29udGV4dCBjb250ZXh0LCBBdHRyaWJ1dGVTZXQgYXR0cnMsIGludCBkZWZTdHlsZUF0dHIpIHsKICAgICAgICBzdXBlcihjb250ZXh0LCBhdHRycywgZGVmU3R5bGVBdHRyKTsKICAgIH0KCiAgICBAUmVxdWlyZXNBcGkoYXBpID0gQnVpbGQuVkVSU0lPTl9DT0RFUy5MT0xMSVBPUCkKICAgIHB1YmxpYyBHcmFpdHlJbWFnZVZpZXcoQ29udGV4dCBjb250ZXh0LCBBdHRyaWJ1dGVTZXQgYXR0cnMsIGludCBkZWZTdHlsZUF0dHIsIGludCBkZWZTdHlsZVJlcykgewogICAgICAgIHN1cGVyKGNvbnRleHQsIGF0dHJzLCBkZWZTdHlsZUF0dHIsIGRlZlN0eWxlUmVzKTsKICAgIH0KCiAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>getDrawable</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -399,43 +409,38 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHVibGljIEdyYWl0eUltYWdlVmlldyhDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBzdXBlcihjb250ZXh0KTsKICAgIH0KCiAgICBwdWJsaWMgR3JhaXR5SW1hZ2VWaWV3KENvbnRleHQgY29udGV4dCwgQXR0cmlidXRlU2V0IGF0dHJzKSB7CiAgICAgICAgc3VwZXIoY29udGV4dCwgYXR0cnMpOwogICAgfQoKICAgIHB1YmxpYyBHcmFpdHlJbWFnZVZpZXcoQ29udGV4dCBjb250ZXh0LCBBdHRyaWJ1dGVTZXQgYXR0cnMsIGludCBkZWZTdHlsZUF0dHIpIHsKICAgICAgICBzdXBlcihjb250ZXh0LCBhdHRycywgZGVmU3R5bGVBdHRyKTsKICAgIH0KCiAgICBAUmVxdWlyZXNBcGkoYXBpID0gQnVpbGQuVkVSU0lPTl9DT0RFUy5MT0xMSVBPUCkKICAgIHB1YmxpYyBHcmFpdHlJbWFnZVZpZXcoQ29udGV4dCBjb250ZXh0LCBBdHRyaWJ1dGVTZXQgYXR0cnMsIGludCBkZWZTdHlsZUF0dHIsIGludCBkZWZTdHlsZVJlcykgewogICAgICAgIHN1cGVyKGNvbnRleHQsIGF0dHJzLCBkZWZTdHlsZUF0dHIsIGRlZlN0eWxlUmVzKTsKICAgIH0KCiAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4i</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog6L+b5YWl57O757uf5Zu+5bqTPGJyPgogICAgICog6I635b6X6L6T5Ye6PGJyPgogICAgICog5ZyoIEA8Y29kZT5vbkFjdGl2aXR5UmVzdWx0PC9jb2RlPuS4remAmui/h0A8Y29kZT5VcmkgdXJpID0gaW50ZW50LmdldERhdGEoKTwvY29kZT7ojrflj5Y8YnI+CiAgICAgKiBVcmnov5Tlm57ot6/lvoTmoLzlvI/kuLogY29udGVudDovL21lZGlhL2V4dGVybmFsL2ltYWdlcy9tZWRpYS8zMjA3Mzxicj4KICAgICAqIOmcgOimgee7j+i/h+i9rOaNouaJjeiDveiOt+W+l+e7neWvuei3r+W+hCB7QGxpbmsgY29tLnd1eGlhb2xvbmcuYW5kcm9pZHV0aWxzLmxpYnJhcnkuVXJpVXRpbH0KICAgICAqIEBwYXJhbSBhY3Rpdml0eQogICAgICovCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc3RhcnRBY3Rpdml0eUZvckdhbGxlcnkoQWN0aXZpdHkgYWN0aXZpdHksIGludCByZXF1ZXN0Q29kZSkgewogICAgICAgIC8vIOW8ueWHuuezu+e7n+WbvuW6kwogICAgICAgIEludGVudCBpID0gbmV3IEludGVudChJbnRlbnQuQUNUSU9OX1BJQ0ssCiAgICAgICAgICAgICAgICBNZWRpYVN0b3JlLkltYWdlcy5NZWRpYS5FWFRFUk5BTF9DT05URU5UX1VSSSk7CiAgICAgICAgYWN0aXZpdHkuc3RhcnRBY3Rpdml0eUZvclJlc3VsdChpLCByZXF1ZXN0Q29kZSk7CiAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIvPg==</text>
+        <text encoding="base64">cHVibGljIEdyYWl0eUltYWdlVmlldyhDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBzdXBlcihjb250ZXh0KTsKICAgIH0KCiAgICBwdWJsaWMgR3JhaXR5SW1hZ2VWaWV3KENvbnRleHQgY29udGV4dCwgQXR0cmlidXRlU2V0IGF0dHJzKSB7CiAgICAgICAgc3VwZXIoY29udGV4dCwgYXR0cnMpOwogICAgfQoKICAgIHB1YmxpYyBHcmFpdHlJbWFnZVZpZXcoQ29udGV4dCBjb250ZXh0LCBBdHRyaWJ1dGVTZXQgYXR0cnMsIGludCBkZWZTdHlsZUF0dHIpIHsKICAgICAgICBzdXBlcihjb250ZXh0LCBhdHRycywgZGVmU3R5bGVBdHRyKTsKICAgIH0KCiAgICBAUmVxdWlyZXNBcGkoYXBpID0gQnVpbGQuVkVSU0lPTl9DT0RFUy5MT0xMSVBPUCkKICAgIHB1YmxpYyBHcmFpdHlJbWFnZVZpZXcoQ29udGV4dCBjb250ZXh0LCBBdHRyaWJ1dGVTZXQgYXR0cnMsIGludCBkZWZTdHlsZUF0dHIsIGludCBkZWZTdHlsZVJlcykgewogICAgICAgIHN1cGVyKGNvbnRleHQsIGF0dHJzLCBkZWZTdHlsZUF0dHIsIGRlZlN0eWxlUmVzKTsKICAgIH0KCiAgICA=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4i</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIvPg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgbUdyYXZpdHlWYWx1c1swXSA9IGF4aXNYOwogICAgICAgIG1HcmF2aXR5VmFsdXNbMV0gPSBheGlzWTsKICAgICAgICBtR3Jhdml0eVZhbHVzWzJdID0gYXhpc1o7</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PEltYWdlQnV0dG9uCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNjRkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjRkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQG51bGwiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19wbGF5X2NpcmNsZV9maWxsZWRfYmxhY2tfNDhkcCIKICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29sbGFwc2VNb2RlPSJwYXJhbGxheCIvPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgCiAgICAgICAgICAgIGZhbHNlCiAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text>@Override
-    public void onCreate(@Nullable Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        
-        Toolbar toolbar = 
-    }</text>
+        <text encoding="base64">PEltYWdlQnV0dG9uCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNjRkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjRkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQG51bGwiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iZml0Q2VudGVyIgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19wbGF5X2NpcmNsZV9maWxsZWRfYmxhY2tfNDhkcCIKICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29sbGFwc2VNb2RlPSJwYXJhbGxheCIvPg==</text>
       </register>
     </registers>
     <search>
