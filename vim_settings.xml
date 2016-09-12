@@ -20,7 +20,7 @@
         <mark key="^" line="176" column="12" />
         <mark key="." line="176" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1473499060754">
+      <file name="/a.dummy" timestamp="1473676797633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xdj/ninesquare/ZoomActivity.java" timestamp="1470645845551">
@@ -47,7 +47,7 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/library/src/main/java/me/xdj/view/MultiStateView.java" timestamp="1473675272011">
+      <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/library/src/main/java/me/xdj/view/MultiStateView.java" timestamp="1473676688981">
         <mark key="[" line="298" column="8" />
         <mark key="]" line="298" column="8" />
         <mark key="." line="298" column="8" />
@@ -243,10 +243,11 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/app/src/main/java/me/xdj/multistateview/MultiStateFragment.java" timestamp="1473675119923">
-        <mark key="[" line="67" column="76" />
-        <mark key="]" line="67" column="76" />
-        <mark key="." line="67" column="76" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/app/src/main/java/me/xdj/multistateview/MultiStateFragment.java" timestamp="1473676863307">
+        <mark key="[" line="46" column="47" />
+        <mark key="]" line="46" column="47" />
+        <mark key="." line="46" column="47" />
+        <mark key="^" line="42" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/okdownload/src/main/java/io/github/xudaojie/okdownload/util/NotificationUtils.java" timestamp="1470893895645">
         <mark key="[" line="40" column="5" />
@@ -260,11 +261,11 @@
         <mark key="." line="18" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/library/src/main/java/me/xdj/view/BaseMultiStateView.java" timestamp="1473675911757">
-        <mark key="'" line="63" column="24" />
-        <mark key="[" line="126" column="31" />
-        <mark key="]" line="126" column="31" />
-        <mark key="." line="126" column="31" />
-        <mark key="^" line="61" column="3" />
+        <mark key="'" line="66" column="24" />
+        <mark key="[" line="129" column="31" />
+        <mark key="]" line="129" column="31" />
+        <mark key="." line="129" column="31" />
+        <mark key="^" line="64" column="3" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/README.md" timestamp="1473479091347">
         <mark key="[" line="1" column="3" />
@@ -458,10 +459,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>view</text>
+        <text>STATE_FAIL</text>
       </register>
       <register name="-" type="4">
-        <text>view</text>
+        <text>STATE_FAIL</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
