@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="A" line="140" column="58" filename="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" />
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
@@ -38,6 +38,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ScrollBehavior/scrollbehavior/build.gradle" timestamp="1473668564605" />
       <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/app/src/main/res/layout/view_loading.xml" timestamp="1473670102817" />
+      <file name="$USER_HOME$/AndroidStudioProjects/TagImageView/app/src/main/java/io/github/xudaojie/tagimageview/TagView.java" timestamp="1473760550059">
+        <mark key="[" line="93" column="34" />
+        <mark key="]" line="93" column="34" />
+        <mark key="." line="93" column="34" />
+        <mark key="^" line="60" column="49" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/.gitignore" timestamp="1473061141888">
         <mark key="[" line="1" column="7" />
       </file>
@@ -217,9 +223,6 @@
         <mark key="^" line="15" column="6" />
         <mark key="." line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/library/src/main/res/values-zh/strings.xml" timestamp="1473732903376">
-        <mark key="[" line="1" column="23" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/data/Api.kt" timestamp="1473143504886">
         <mark key="[" line="19" column="46" />
         <mark key="]" line="31" column="17" />
@@ -313,7 +316,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/MoveGestureDetector.java" timestamp="1473652264730">
         <mark key="[" line="92" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473751605306">
+      <file name="/Dummy.txt" timestamp="1473760383692">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -353,10 +356,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/build.gradle" timestamp="1473435565148">
         <mark key="[" line="47" column="54" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/TagImageView/app/src/main/res/layout/activity_main.xml" timestamp="1473746360274">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/TagImageView/app/src/main/res/layout/activity_main.xml" timestamp="1473759274955">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/README.md" timestamp="1473735380837">
         <mark key="[" line="52" column="0" />
@@ -380,7 +383,7 @@
         <mark key="[" line="17" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/library/src/main/java/me/xdj/view/SimpleMultiStateView.java" timestamp="1473733726951" />
-      <file name="/fragment.java" timestamp="1473751979427">
+      <file name="/fragment.java" timestamp="1473759154752">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="20" />
@@ -437,13 +440,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@Override
-            public void onViewPositionChanged(View changedView, int left, int top, int dx, int dy) {
-                super.onViewPositionChanged(changedView, left, top, dx, dy);
-            }</text>
+        <text>30</text>
       </register>
       <register name="-" type="4">
-        <text>tagHeight / 2</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -452,47 +452,51 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>@Override
-            public void onViewPositionChanged(View changedView, int left, int top, int dx, int dy) {
-                super.onViewPositionChanged(changedView, left, top, dx, dy);
-            }</text>
+        <text>//        Paint paint = new Paint();
+//        paint.setTextSize(fontSize);
+//        Paint.FontMetrics fm = paint.getFontMetrics();</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGlmICh0YWdIZWlnaHQgPiBtVGFnTWluSGVpZ2h0KSB7CiAgICAgICAgICAgICAgICB0YWdIZWlnaHQgPSAKICAgICAgICAgICAgfQ==</text>
+        <text>if (maxLengthText == null) {
+                maxLengthText = text;
+            } else if (maxLengthText.length()) {
+
+            }</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>android:paddingBottom=&quot;@dimen/activity_vertical_margin&quot;
-    android:paddingLeft=&quot;@dimen/activity_horizontal_margin&quot;
-    android:paddingRight=&quot;@dimen/activity_horizontal_margin&quot;
-    android:paddingTop=&quot;@dimen/activity_vertical_margin&quot;</text>
+        <text>else if (wid){
+            
+        }</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIvPg==</text>
+        <text encoding="base64">IG1QYWludC5zZXRTdHJva2VXaWR0aChtTGluZUhlaWdodCk7CiAgICAgICAgY2FudmFzLmRyYXdMaW5lKGN4LCBjeSwgY3ggKyAxMDAsIGN5LCBtUGFpbnQpOw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJvbkNyZWF0ZVZpZXc6IiArIHRoaXMpOwo=</text>
+      <register name="6" type="4">
+        <text>@Override
+            public void onViewPositionChanged(View changedView, int left, int top, int dx, int dy) {
+                super.onViewPositionChanged(changedView, left, top, dx, dy);
+            }</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CuebruWJjeaUr+aMgToKLSBDb250ZW50Ci0gRW1wdHkKLSBGYWlsCi0gTG9hZGluZwo=</text>
+        <text encoding="base64">IGlmICh0YWdIZWlnaHQgPiBtVGFnTWluSGVpZ2h0KSB7CiAgICAgICAgICAgICAgICB0YWdIZWlnaHQgPSAKICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="4">
-        <text>目前支持:
-- Content
-- Empty
-- Fail
-- Loading</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2V0VXNlclZpc2libGVIaW50KGJvb2xlYW4gaXNWaXNpYmxlVG9Vc2VyKSB7CiAgICAgICAgc3VwZXIuc2V0VXNlclZpc2libGVIaW50KGlzVmlzaWJsZVRvVXNlcik7CiAgICAgICAgTG9nLmQoInhkaiIsICJzZXRVc2VyVmlzaWJsZUhpbnQ6IiArIGlzVmlzaWJsZVRvVXNlciArIHRoaXMpOwogICAgICAgIGlmIChpc1Zpc2libGVUb1VzZXIpIHsKCiAgICAgICAgfQogICAgfQ==</text>
+        <text>android:paddingBottom=&quot;@dimen/activity_vertical_margin&quot;
+    android:paddingLeft=&quot;@dimen/activity_horizontal_margin&quot;
+    android:paddingRight=&quot;@dimen/activity_horizontal_margin&quot;
+    android:paddingTop=&quot;@dimen/activity_vertical_margin&quot;</text>
       </register>
     </registers>
     <search>
