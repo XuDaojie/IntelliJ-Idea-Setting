@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="A" line="140" column="58" filename="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" />
+      <mark key="A" line="141" column="58" filename="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" />
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
     <filemarks>
@@ -17,6 +17,11 @@
       </file>
       <file name="/a.dummy" timestamp="1473731467113">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/res/values-zh/strings.xml" timestamp="1474120995563">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xdj/ninesquare/ZoomActivity.java" timestamp="1470645845551">
         <mark key="[" line="112" column="25" />
@@ -103,11 +108,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/values/colors.xml" timestamp="1473470166268">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/MainActivity.java" timestamp="1472636655207">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="27" column="4" />
-        <mark key="." line="27" column="4" />
-        <mark key="^" line="27" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/MainActivity.java" timestamp="1474120240868">
+        <mark key="[" line="21" column="57" />
+        <mark key="]" line="21" column="57" />
+        <mark key="." line="21" column="57" />
+        <mark key="^" line="25" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/README.md" timestamp="1473475224876">
         <mark key="[" line="34" column="4" />
@@ -322,6 +327,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/.gitignore" timestamp="1473554829455">
         <mark key="[" line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/AndroidManifest.xml" timestamp="1474120327858">
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="61" />
+        <mark key="." line="23" column="61" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/TagImageView/app/src/main/java/io/github/xudaojie/tagimageview/DragLayout.java" timestamp="1473752618957">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="3" />
@@ -386,17 +396,26 @@
       <file name="$USER_HOME$/AndroidStudioProjects/TagImageView/README.md" timestamp="1473817590774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" timestamp="1474118700164">
-        <mark key="[" line="244" column="61" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" timestamp="1474121655503">
+        <mark key="[" line="252" column="4" />
+        <mark key="]" line="252" column="4" />
+        <mark key="^" line="168" column="23" />
+        <mark key="." line="252" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/TagImageView/.gitignore" timestamp="1473745738347">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1473814010578">
+      <file name="/fragment.java" timestamp="1474120191689">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/SimpleCaptureActivity.java" timestamp="1474122060537">
+        <mark key="[" line="35" column="37" />
+        <mark key="]" line="35" column="37" />
+        <mark key="." line="35" column="37" />
+        <mark key="^" line="20" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -450,10 +469,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mTextLeftIndent</text>
+        <text>xxx</text>
       </register>
       <register name="-" type="4">
-        <text>mTextLeftIndent</text>
+        <text>xxx</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -461,42 +480,56 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1MaW5lTWluTGVuZ3RoID0gMTA7Cg==</text>
+      <register name="1" type="4">
+        <text>new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                restartPreview();
+                            }
+                        }</text>
       </register>
       <register name="2" type="4">
-        <text>private int mLineMinLength = 10;
-//    private int mLineStrokeWidth = 10; // 线宽</text>
+        <text>Intent resultIntent = new Intent();
+            Bundle bundle = new Bundle();
+            bundle.putString(&quot;result&quot;, resultString);
+            resultIntent.putExtras(bundle);
+            this.setResult(RESULT_OK, resultIntent);</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aW50IGxlbmd0aCA9IG1MaW5lTWluTGVuZ3RoOwogICAgICAgIGZvciAoU3RyaW5nIHN0ciA6IHZhbHVlcykgewogICAgICAgICAgICBpbnQgdGVtcExlbmd0aCA9IHN0ci5sZW5ndGgoKSAqIG1UZXh0U2l6ZTsKICAgICAgICAgICAgaWYgKHRlbXBMZW5ndGggPiBsZW5ndGgpIHsKICAgICAgICAgICAgICAgIGxlbmd0aCA9IHRlbXBMZW5ndGg7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgaWYgKHZhbHVlcy5sZW5ndGggJSAyID09IDApIHsKICAgICAgICAgICAgLy8g5YG25pWw5LiqCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLy8g5aWH5pWw5Liq5oC75piv5LuO5ZyG54K55Lit6Ze05byA5aeLCi8vICAgICAgICAgICAgY2FudmFzLmRyYXdMaW5lKGN4LCBjeSwgY3ggKyBsZW5ndGgsIGN5LCBtUGFpbnQpOwovLyAgICAgICAgICAgIGNhbnZhcy5kcmF3VGFnKHRleHRbMF0sIGN4LCBjeSwgbVBhaW50KTsKICAgICAgICB9</text>
-      </register>
-      <register name="4" type="4">
-        <text>private void drawTest(Canvas canvas) {
-        mPaint.setColor(Color.RED);
-        canvas.drawLine(mCircleRadius, 0, measureWidth(), 0, mPaint);
+        <text>@Override
+    public void handleDecode(Result result, Bitmap barcode) {
+        super.handleDecode(result, barcode);
     }</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IC8vIEZJWE1FOiAxNi85LzE0IOa1i+ivlQogICAgICAgICAgICBtTGluZVN0cm9rZVdpZHRoID0gbUNpcmNsZVJhZGl1cyAqIDI7CiAgICAgICAgICAgIG1QYWludC5zZXRTdHJva2VXaWR0aChtTGluZVN0cm9rZVdpZHRoKTs=</text>
+      <register name="4" type="4">
+        <text>//        Message restartMessage = Message.obtain();
+//        restartMessage.what = R.id.restart_preview;
+//        handler.handleMessage(restartMessage);</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbUxpbmVTdHJva2VXaWR0aCA9IG1DaXJjbGVSYWRpdXMgKiAyOwogICAgICAgICAgICBtUGFpbnQuc2V0U3Ryb2tlV2lkdGgobUxpbmVTdHJva2VXaWR0aCk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPnFyY29kZWxpYjwvc3RyaW5nPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1MaW5lTWluTGVuZ3RoID0gMTA7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>private int mLineMinLength = 10;
+//    private int mLineStrokeWidth = 10; // 线宽</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG9mZnNldFkgPSAtdGFnSGVpZ2h0IC8gMiArIGkgKiAobUxpbmVNaW5MZW5ndGggLSBtTGluZVN0cm9rZVdpZHRoKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">aW50IGxlbmd0aCA9IG1MaW5lTWluTGVuZ3RoOwogICAgICAgIGZvciAoU3RyaW5nIHN0ciA6IHZhbHVlcykgewogICAgICAgICAgICBpbnQgdGVtcExlbmd0aCA9IHN0ci5sZW5ndGgoKSAqIG1UZXh0U2l6ZTsKICAgICAgICAgICAgaWYgKHRlbXBMZW5ndGggPiBsZW5ndGgpIHsKICAgICAgICAgICAgICAgIGxlbmd0aCA9IHRlbXBMZW5ndGg7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgaWYgKHZhbHVlcy5sZW5ndGggJSAyID09IDApIHsKICAgICAgICAgICAgLy8g5YG25pWw5LiqCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLy8g5aWH5pWw5Liq5oC75piv5LuO5ZyG54K55Lit6Ze05byA5aeLCi8vICAgICAgICAgICAgY2FudmFzLmRyYXdMaW5lKGN4LCBjeSwgY3ggKyBsZW5ndGgsIGN5LCBtUGFpbnQpOwovLyAgICAgICAgICAgIGNhbnZhcy5kcmF3VGFnKHRleHRbMF0sIGN4LCBjeSwgbVBhaW50KTsKICAgICAgICB9</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IC8vIEZJWE1FOiAxNi85LzEzIOi2hei/hzPkuKrml7blgJnpq5jluqbplJnor68KICAgICAgICAgICAgaW50IHRhZ0hlaWdodCA9IG1lYXN1cmVIZWlnaHQoKTs=</text>
+        <text>private void drawTest(Canvas canvas) {
+        mPaint.setColor(Color.RED);
+        canvas.drawLine(mCircleRadius, 0, measureWidth(), 0, mPaint);
+    }</text>
       </register>
     </registers>
     <search>
