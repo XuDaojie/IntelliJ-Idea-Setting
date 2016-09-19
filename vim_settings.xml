@@ -47,8 +47,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/data/remote/Api.kt" timestamp="1473080807022">
         <mark key="[" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/build.gradle" timestamp="1474124527173">
-        <mark key="[" line="14" column="25" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/build.gradle" timestamp="1474300750610">
+        <mark key="[" line="32" column="41" />
         <mark key="]" line="14" column="26" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="14" column="26" />
@@ -108,11 +108,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/values/colors.xml" timestamp="1473470166268">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/MainActivity.java" timestamp="1474126263330">
-        <mark key="[" line="20" column="57" />
-        <mark key="]" line="20" column="57" />
-        <mark key="." line="20" column="57" />
-        <mark key="^" line="24" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/MainActivity.java" timestamp="1474300163738">
+        <mark key="[" line="32" column="58" />
+        <mark key="]" line="32" column="58" />
+        <mark key="." line="32" column="58" />
+        <mark key="^" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/README.md" timestamp="1473475224876">
         <mark key="[" line="34" column="4" />
@@ -168,6 +168,9 @@
         <mark key="." line="132" column="16" />
         <mark key="^" line="132" column="16" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/android/app/build.gradle" timestamp="1474300728118">
+        <mark key="[" line="17" column="5" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/MainActivity.java" timestamp="1473558705126">
         <mark key="[" line="74" column="3" />
         <mark key="]" line="74" column="3" />
@@ -199,6 +202,9 @@
         <mark key="]" line="121" column="0" />
         <mark key="^" line="110" column="44" />
         <mark key="." line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/res/layout/activity_main.xml" timestamp="1474299635050">
+        <mark key="[" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/zxing/decoding/DecodeHandler.java" timestamp="1472374055059">
         <mark key="[" line="56" column="13" />
@@ -305,7 +311,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/MoveGestureDetector.java" timestamp="1473652264730">
         <mark key="[" line="92" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474127146915">
+      <file name="/Dummy.txt" timestamp="1474299520178">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -469,14 +475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@Override
-    public void onCreate(Bundle savedInstanceState) {
-        mActivity = this;
-        super.onCreate(savedInstanceState);
-    }</text>
+        <text>xxxxxxa你好啊</text>
       </register>
       <register name="-" type="4">
-        <text>resultString.equals(&quot;&quot;)</text>
+        <text>xxxxxxa你好啊</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
