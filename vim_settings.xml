@@ -47,7 +47,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/data/remote/Api.kt" timestamp="1473080807022">
         <mark key="[" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/common/QrUtils.java" timestamp="1474122326330" />
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/build.gradle" timestamp="1474124527173">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="26" />
@@ -118,8 +117,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/README.md" timestamp="1473475224876">
         <mark key="[" line="34" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/build.gradle" timestamp="1474124715970">
-        <mark key="[" line="35" column="56" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/build.gradle" timestamp="1474297379922">
+        <mark key="[" line="22" column="49" />
         <mark key="]" line="35" column="57" />
         <mark key="." line="35" column="57" />
         <mark key="^" line="33" column="52" />
@@ -295,7 +294,6 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/support-v4/23.2.0/support-v4-23.2.0-sources.jar!/android/support/v4/widget/ContentLoadingProgressBar.java" timestamp="1474127542467" />
       <file name="$USER_HOME$/AndroidStudioProjects/TagImageView/app/src/main/java/io/github/xudaojie/tagimageview/DragTag.java" timestamp="1473752008393">
         <mark key="[" line="13" column="21" />
       </file>
@@ -413,11 +411,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/SimpleCaptureActivity.java" timestamp="1474123892651">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="19" column="1" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/SimpleCaptureActivity.java" timestamp="1474297303791">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="18" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -470,11 +468,15 @@
       <jump line="188" column="42" filename="$USER_HOME$/AndroidStudioProjects/TagImageView/app/src/main/java/io/github/xudaojie/tagimageview/TagView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cHM6Ly9qaXRwYWNrLmlvLyNYdURhb2ppZS9RUkNvZGUtQW5kcm9pZAo=</text>
+      <register name="&quot;" type="4">
+        <text>@Override
+    public void onCreate(Bundle savedInstanceState) {
+        mActivity = this;
+        super.onCreate(savedInstanceState);
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>则需要重写</text>
+        <text>resultString.equals(&quot;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -482,38 +484,45 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aHR0cHM6Ly9qaXRwYWNrLmlvLyNYdURhb2ppZS9RUkNvZGUtQW5kcm9pZAo=</text>
+      <register name="1" type="4">
+        <text>@Override
+    public void onCreate(Bundle savedInstanceState) {
+        mActivity = this;
+        super.onCreate(savedInstanceState);
+    }</text>
       </register>
-      <register name="2" type="4">
-        <text>, {
-//        exclude group: 'com.android.support'
-//    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">aHR0cHM6Ly9qaXRwYWNrLmlvLyNYdURhb2ppZS9RUkNvZGUtQW5kcm9pZAo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
         <text>, {
+//        exclude group: 'com.android.support'
+//    }</text>
+      </register>
+      <register name="4" type="4">
+        <text>, {
     exclude group: 'com.android.support'
 })</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuQWN0aXZpdHlDb21wYXQ7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CmltcG9ydCBhbmRyb2lkLnN1cHBvcnQudjQuY29udGVudC5Db250ZXh0Q29tcGF0OwppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LnY3LmFwcC5BbGVydERpYWxvZzs=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI0LjIuMScK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI0LjIuMScK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgIHJlc3RhcnRQcmV2aWV3KCk7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if (mDialog == null) {
                 mDialog = new AlertDialog.Builder(mActivity)
                         .setMessage(resultString)
@@ -529,9 +538,6 @@
             if (!mDialog.isShowing()) {
                 mDialog.show();
             }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgQWN0aXZpdHkgbUFjdGl2aXR5OwoKICAgIHByaXZhdGUgQWxlcnREaWFsb2cgbURpYWxvZzsKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBtQWN0aXZpdHkgPSB0aGlzOwogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICB9Cg==</text>
       </register>
     </registers>
     <search>
