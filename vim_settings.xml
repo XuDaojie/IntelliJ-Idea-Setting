@@ -15,10 +15,10 @@
         <mark key="^" line="176" column="12" />
         <mark key="." line="176" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/phone/PhoneTakeFragment.java" timestamp="1474341603559">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="8" />
-        <mark key="." line="40" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/phone/PhoneTakeFragment.java" timestamp="1474344010900">
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="43" column="8" />
+        <mark key="." line="43" column="8" />
       </file>
       <file name="/a.dummy" timestamp="1473731467113">
         <mark key="[" line="0" column="0" />
@@ -101,7 +101,7 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="63" column="35" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/EditText.java" timestamp="1474337096796" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/EditText.java" timestamp="1474343810544" />
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/MainActivity.kt" timestamp="1473406091123">
         <mark key="[" line="14" column="48" />
         <mark key="]" line="10" column="32" />
@@ -389,10 +389,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/.gitignore" timestamp="1473554829455">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/phone_take_frag.xml" timestamp="1474341949530">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/phone_take_frag.xml" timestamp="1474343536861">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
         <mark key="^" line="31" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/TagImageView/app/src/main/java/io/github/xudaojie/tagimageview/DragLayout.java" timestamp="1473752618957">
@@ -497,11 +497,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@Override
-    public boolean getFreezesText() {
-//        return super.getFreezesText();
-        return false;
-    }</text>
+        <text encoding="base64">IDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpoaW50PSIxMTEiCiAgICAgICAgYW5kcm9pZDplZGl0YWJsZT0idHJ1ZSIvPg==</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -513,19 +509,22 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpoaW50PSIxMTEiCiAgICAgICAgYW5kcm9pZDplZGl0YWJsZT0idHJ1ZSIvPg==</text>
+      </register>
+      <register name="2" type="4">
         <text>@Override
     public boolean getFreezesText() {
 //        return super.getFreezesText();
         return false;
     }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHJvdGVjdGVkIE1vdmVtZW50TWV0aG9kIGdldERlZmF1bHRNb3ZlbWVudE1ldGhvZCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
-      </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHJvdGVjdGVkIE1vdmVtZW50TWV0aG9kIGdldERlZmF1bHRNb3ZlbWVudE1ldGhvZCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
+      </register>
+      <register name="4" type="4">
         <text>mRootView.postDelayed(new Runnable() {
             @Override
             public void run() {
@@ -536,22 +535,22 @@
             }
         }, 2000);</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBtSW1lRXQuc2V0VGV4dCgieHh4Iik7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IDxjb20uYm9jYWkueWJnai50YWtlLnBob25lLlh4eAogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSIxMTEiLz4=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtSW1lRXQuc2V0SW1lT3B0aW9ucygpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBATnVsbGFibGUKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFZpZXcgY3JlYXRlVmlldyhMYXlvdXRJbmZsYXRlciBpbmZsYXRlciwgQE51bGxhYmxlIFZpZXdHcm91cCBjb250YWluZXIsIEBOdWxsYWJsZSBCdW5kbGUgc2F2ZWRJbnN0YW5jZVN0YXRlKSB7CiAgICAgICAgbVJvb3RWaWV3ID0gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5sb2dpbl9mcmFnLCBjb250YWluZXIsIGZhbHNlKTsKICAgICAgICBCdXR0ZXJLbmlmZS5iaW5kKHRoaXMsIG1Sb290Vmlldyk7CiAgICAgICAgbUxvZ2luQnRuLnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdmlldykgewogICAgICAgICAgICAgICAgSW50ZW50IGkgPSBuZXcgSW50ZW50KG1BY3Rpdml0eSwgTWFpbkFjdGl2aXR5LmNsYXNzKTsKICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoaSk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgICByZXR1cm4gbVJvb3RWaWV3OwogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtSW1lRXQuc2V0SW1lT3B0aW9ucygpOwo=</text>
       </register>
       <register name="8" type="4">
+        <text encoding="base64">CiAgICBATnVsbGFibGUKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFZpZXcgY3JlYXRlVmlldyhMYXlvdXRJbmZsYXRlciBpbmZsYXRlciwgQE51bGxhYmxlIFZpZXdHcm91cCBjb250YWluZXIsIEBOdWxsYWJsZSBCdW5kbGUgc2F2ZWRJbnN0YW5jZVN0YXRlKSB7CiAgICAgICAgbVJvb3RWaWV3ID0gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5sb2dpbl9mcmFnLCBjb250YWluZXIsIGZhbHNlKTsKICAgICAgICBCdXR0ZXJLbmlmZS5iaW5kKHRoaXMsIG1Sb290Vmlldyk7CiAgICAgICAgbUxvZ2luQnRuLnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdmlldykgewogICAgICAgICAgICAgICAgSW50ZW50IGkgPSBuZXcgSW50ZW50KG1BY3Rpdml0eSwgTWFpbkFjdGl2aXR5LmNsYXNzKTsKICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoaSk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgICByZXR1cm4gbVJvb3RWaWV3OwogICAgfQ==</text>
+      </register>
+      <register name="9" type="4">
         <text>initData();
         if (savedInstanceState != null) {
             restoreData(savedInstanceState);
@@ -559,9 +558,6 @@
         initView();
         initEvent();
         initNetData();</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
       </register>
     </registers>
     <search>
