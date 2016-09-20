@@ -299,8 +299,8 @@
         <mark key="." line="60" column="44" />
         <mark key="^" line="60" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/values/styles.xml" timestamp="1474358489237">
-        <mark key="[" line="7" column="58" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/values/styles.xml" timestamp="1474387229432">
+        <mark key="[" line="17" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/build.gradle" timestamp="1474300750610">
         <mark key="[" line="32" column="41" />
@@ -336,6 +336,9 @@
         <mark key="." line="55" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/phone_number_take_frag.xml" timestamp="1474332202279" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/drawable/selector_test.xml" timestamp="1474386210674">
+        <mark key="[" line="1" column="4" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/README.md" timestamp="1474126093298">
         <mark key="[" line="2" column="107" />
         <mark key="]" line="2" column="0" />
@@ -383,11 +386,10 @@
         <mark key="^" line="139" column="90" />
         <mark key="." line="139" column="90" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/color/selector_orange_btn.xml" timestamp="1474383468570">
-        <mark key="[" line="3" column="70" />
-        <mark key="]" line="3" column="70" />
-        <mark key="." line="3" column="70" />
-        <mark key="^" line="2" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/color/selector_orange_btn.xml" timestamp="1474388173102">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/android/app/build.gradle" timestamp="1474300728118">
         <mark key="[" line="17" column="5" />
@@ -476,7 +478,7 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474358057295">
+      <file name="/Dummy.txt" timestamp="1474386202835">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -500,11 +502,11 @@
         <mark key="]" line="23" column="61" />
         <mark key="." line="23" column="61" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/phone_take_frag.xml" timestamp="1474368938831">
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="43" column="35" />
-        <mark key="." line="43" column="35" />
-        <mark key="^" line="43" column="10" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/phone_take_frag.xml" timestamp="1474387644858">
+        <mark key="[" line="43" column="58" />
+        <mark key="]" line="43" column="36" />
+        <mark key="." line="43" column="36" />
+        <mark key="^" line="43" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/TagImageView/app/src/main/java/io/github/xudaojie/tagimageview/DragLayout.java" timestamp="1473752618957">
         <mark key="[" line="21" column="4" />
@@ -578,6 +580,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/content/res/ColorStateList.java" timestamp="1474363655017" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/drawable/selector_orange_btn.xml" timestamp="1474387579359">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+      </file>
       <file name="/fragment.java" timestamp="1474367869016">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -637,10 +644,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>holo_red_dark</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>holo_red_dark</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -649,40 +656,40 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IDxpdGVtIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci9vcmFuZ2UiIGFuZHJvaWQ6c3RhdGVfZm9jdXNlZD0idHJ1ZSIvPgogICAgPGl0ZW0gYW5kcm9pZDpjb2xvcj0iQGNvbG9yL29yYW5nZSIKICAgICAgICBhbmRyb2lkOnN0YXRlX2VuYWJsZWQ9ImZhbHNlIgogICAgICAgIGFuZHJvaWQ6c3RhdGVfcHJlc3NlZD0idHJ1ZSIvPgogICAgPGl0ZW0gYW5kcm9pZDpjb2xvcj0iQGNvbG9yL29yYW5nZSIgYW5kcm9pZDpzdGF0ZV9lbmFibGVkPSJ0cnVlIi8+CiAgICA8aXRlbSBhbmRyb2lkOmNvbG9yPSJAY29sb3IvZ3JheV8yIiBhbmRyb2lkOnN0YXRlX2VuYWJsZWQ9ImZhbHNlIi8+</text>
+        <text encoding="base64">IDwhLS08aXRlbSBhbmRyb2lkOnN0YXRlX3ByZXNzZWQ9InRydWUiIGFuZHJvaWQ6Y29sb3I9IkBhbmRyb2lkOmNvbG9yL3doaXRlIi8+LS0+CiAgICA8IS0tPGl0ZW0gYW5kcm9pZDpzdGF0ZV9lbmFibGVkPSJmYWxzZSIgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL2NvbG9yUHJpbWFyeSIvPi0tPgogICAgPCEtLTxpdGVtIGFuZHJvaWQ6c3RhdGVfYWN0aXZhdGVkPSJmYWxzZSIgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL2N5YW4iLz4tLT4KICAgIDwhLS08aXRlbSBhbmRyb2lkOnN0YXRlX2VuYWJsZWQ9ImZhbHNlIiBhbmRyb2lkOnN0YXRlX2ZvY3VzZWQ9InRydWUiIGFuZHJvaWQ6Y29sb3I9IkBhbmRyb2lkOmNvbG9yL3RhYl9pbmRpY2F0b3JfdGV4dCIvPi0tPgogICAgPCEtLTxpdGVtIGFuZHJvaWQ6c3RhdGVfZW5hYmxlZD0iZmFsc2UiIGFuZHJvaWQ6c3RhdGVfcHJlc3NlZD0iZmFsc2UiIGFuZHJvaWQ6Y29sb3I9IkBhbmRyb2lkOmNvbG9yL2hvbG9fcHVycGxlIi8+LS0+CiAgICA8IS0tPGl0ZW0gYW5kcm9pZDpzdGF0ZV9wcmVzc2VkPSJ0cnVlIiBhbmRyb2lkOmNvbG9yPSJAYW5kcm9pZDpjb2xvci9ob2xvX3JlZF9kYXJrIi8+LS0+CiAgICA8IS0tPGl0ZW0gYW5kcm9pZDpzdGF0ZV9zZWxlY3RlZD0idHJ1ZSIgYW5kcm9pZDpjb2xvcj0iQGFuZHJvaWQ6Y29sb3IvaG9sb19ibHVlX2JyaWdodCIvPi0tPgogICAgPCEtLTxpdGVtIGFuZHJvaWQ6c3RhdGVfZW5hYmxlZD0idHJ1ZSIgYW5kcm9pZDpzdGF0ZV9wcmVzc2VkPSJ0cnVlIiBhbmRyb2lkOmNvbG9yPSJAYW5kcm9pZDpjb2xvci9ob2xvX2dyZWVuX2RhcmsiLz4tLT4KICAgIDwhLS08aXRlbSBhbmRyb2lkOmNvbG9yPSJAY29sb3Ivb3JhbmdlIi8+LS0+CiAgICA8IS0tPGl0ZW0gYW5kcm9pZDpjb2xvcj0iQGNvbG9yL29yYW5nZSIvPi0tPg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci9vcmFuZ2UiIGFuZHJvaWQ6c3RhdGVfZm9jdXNlZD0idHJ1ZSIvPgogICAgPGl0ZW0gYW5kcm9pZDpjb2xvcj0iQGNvbG9yL29yYW5nZSIKICAgICAgICBhbmRyb2lkOnN0YXRlX2VuYWJsZWQ9ImZhbHNlIgogICAgICAgIGFuZHJvaWQ6c3RhdGVfcHJlc3NlZD0idHJ1ZSIvPg==</text>
+        <text encoding="base64">IDwhLS08aXRlbSBhbmRyb2lkOnN0YXRlX2VuYWJsZWQ9ImZhbHNlIiBhbmRyb2lkOmRyYXdhYmxlPSJAY29sb3IvY29sb3JQcmltYXJ5Ii8+LS0+CiAgICA8IS0tPGl0ZW0gYW5kcm9pZDpzdGF0ZV9hY3RpdmF0ZWQ9ImZhbHNlIiBhbmRyb2lkOmRyYXdhYmxlPSJAY29sb3IvY3lhbiIvPi0tPgogICAgPCEtLTxpdGVtIGFuZHJvaWQ6c3RhdGVfZW5hYmxlZD0iZmFsc2UiIGFuZHJvaWQ6c3RhdGVfZm9jdXNlZD0idHJ1ZSIgYW5kcm9pZDpjb2xvcj0iQGFuZHJvaWQ6Y29sb3IvdGFiX2luZGljYXRvcl90ZXh0Ii8+LS0+CiAgICA8IS0tPGl0ZW0gYW5kcm9pZDpzdGF0ZV9lbmFibGVkPSJmYWxzZSIgYW5kcm9pZDpzdGF0ZV9wcmVzc2VkPSJmYWxzZSIgYW5kcm9pZDpjb2xvcj0iQGFuZHJvaWQ6Y29sb3IvaG9sb19wdXJwbGUiLz4tLT4KICAgIDwhLS08aXRlbSBhbmRyb2lkOnN0YXRlX3ByZXNzZWQ9InRydWUiIGFuZHJvaWQ6Y29sb3I9IkBhbmRyb2lkOmNvbG9yL2hvbG9fcmVkX2RhcmsiLz4tLT4KICAgIDwhLS08aXRlbSBhbmRyb2lkOnN0YXRlX3NlbGVjdGVkPSJ0cnVlIiBhbmRyb2lkOmNvbG9yPSJAYW5kcm9pZDpjb2xvci9ob2xvX2JsdWVfYnJpZ2h0Ii8+LS0+CiAgICA8IS0tPGl0ZW0gYW5kcm9pZDpzdGF0ZV9lbmFibGVkPSJ0cnVlIiBhbmRyb2lkOnN0YXRlX3ByZXNzZWQ9InRydWUiIGFuZHJvaWQ6Y29sb3I9IkBhbmRyb2lkOmNvbG9yL2hvbG9fZ3JlZW5fZGFyayIvPi0tPgogICAgPCEtLTxpdGVtIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci9vcmFuZ2UiLz4tLT4=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2V0U3VwcG9ydEJhY2tncm91bmRUaW50TGlzdChATnVsbGFibGUgQ29sb3JTdGF0ZUxpc3QgdGludCkgewogICAgICAgIHN1cGVyLnNldFN1cHBvcnRCYWNrZ3JvdW5kVGludExpc3QodGludCk7CiAgICAgICAgCiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmVuYWJsZWQ9ImZhbHNlIgo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBBY3Rpdml0eU9wdGlvbnNDb21wYXQubWFrZVNjZW5lVHJhbnNpdGlvbkFuaW1hdGlvbihhY3Rpdml0eSkudG9CdW5kbGUoKQ==</text>
+        <text encoding="base64">IDxpdGVtIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci9vcmFuZ2UiIGFuZHJvaWQ6c3RhdGVfZm9jdXNlZD0idHJ1ZSIvPgogICAgPGl0ZW0gYW5kcm9pZDpjb2xvcj0iQGNvbG9yL29yYW5nZSIKICAgICAgICBhbmRyb2lkOnN0YXRlX2VuYWJsZWQ9ImZhbHNlIgogICAgICAgIGFuZHJvaWQ6c3RhdGVfcHJlc3NlZD0idHJ1ZSIvPgogICAgPGl0ZW0gYW5kcm9pZDpjb2xvcj0iQGNvbG9yL29yYW5nZSIgYW5kcm9pZDpzdGF0ZV9lbmFibGVkPSJ0cnVlIi8+CiAgICA8aXRlbSBhbmRyb2lkOmNvbG9yPSJAY29sb3IvZ3JheV8yIiBhbmRyb2lkOnN0YXRlX2VuYWJsZWQ9ImZhbHNlIi8+</text>
       </register>
       <register name="5" type="4">
-        <text>ctivityCompat.startActivity(activity, intent, bundle);
-
-        ActivityCompat.startActivity(activity, intent,
-                ActivityOptionsCompat.makeSceneTransitionAnimation(activity).toBundle());</text>
+        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci9vcmFuZ2UiIGFuZHJvaWQ6c3RhdGVfZm9jdXNlZD0idHJ1ZSIvPgogICAgPGl0ZW0gYW5kcm9pZDpjb2xvcj0iQGNvbG9yL29yYW5nZSIKICAgICAgICBhbmRyb2lkOnN0YXRlX2VuYWJsZWQ9ImZhbHNlIgogICAgICAgIGFuZHJvaWQ6c3RhdGVfcHJlc3NlZD0idHJ1ZSIvPg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgQWN0aXZpdHlDb21wYXQuc3RhcnRBY3Rpdml0eShhY3Rpdml0eSwgaW50ZW50LAogICAgICAgICAgICAgICAgQWN0aXZpdHlPcHRpb25zQ29tcGF0Lm1ha2VTY2VuZVRyYW5zaXRpb25BbmltYXRpb24oYWN0aXZpdHkpLnRvQnVuZGxlKCkpOw==</text>
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2V0U3VwcG9ydEJhY2tncm91bmRUaW50TGlzdChATnVsbGFibGUgQ29sb3JTdGF0ZUxpc3QgdGludCkgewogICAgICAgIHN1cGVyLnNldFN1cHBvcnRCYWNrZ3JvdW5kVGludExpc3QodGludCk7CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgdm9pZCBzdGFydEFjdGl2aXR5KEFjdGl2aXR5IGFjdGl2aXR5LCBCdW5kbGUgYnVuZGxlKSB7CiAgICAgICAgQWN0aXZpdHlDb21wYXQuc3RhcnRBY3Rpdml0eSgpOwogICAgfQ==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBBY3Rpdml0eU9wdGlvbnNDb21wYXQubWFrZVNjZW5lVHJhbnNpdGlvbkFuaW1hdGlvbihhY3Rpdml0eSkudG9CdW5kbGUoKQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>ctivityCompat.startActivity(activity, intent, bundle);
+
+        ActivityCompat.startActivity(activity, intent,
+                ActivityOptionsCompat.makeSceneTransitionAnimation(activity).toBundle());</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGdldFdpbmRvdygpLnNldEVudGVyVHJhbnNpdGlvbiA9IEV4cGxvZGUoKQovLyAgICAgICAgd2luZG93LmV4aXRUcmFuc2l0aW9uID0gRXhwbG9kZSgpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgQWN0aXZpdHlDb21wYXQuc3RhcnRBY3Rpdml0eShhY3Rpdml0eSwgaW50ZW50LAogICAgICAgICAgICAgICAgQWN0aXZpdHlPcHRpb25zQ29tcGF0Lm1ha2VTY2VuZVRyYW5zaXRpb25BbmltYXRpb24oYWN0aXZpdHkpLnRvQnVuZGxlKCkpOw==</text>
       </register>
     </registers>
     <search>
