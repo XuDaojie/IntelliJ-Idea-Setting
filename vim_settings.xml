@@ -15,8 +15,10 @@
         <mark key="^" line="176" column="12" />
         <mark key="." line="176" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/phone/PhoneTakeFragment.java" timestamp="1474338766650">
-        <mark key="^" line="24" column="9" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/phone/PhoneTakeFragment.java" timestamp="1474341603559">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="40" column="8" />
       </file>
       <file name="/a.dummy" timestamp="1473731467113">
         <mark key="[" line="0" column="0" />
@@ -232,8 +234,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/base_act.xml" timestamp="1474334621834">
         <mark key="[" line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/phone/TestEditText.java" timestamp="1474337705163">
-        <mark key="[" line="12" column="26" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/phone/TestEditText.java" timestamp="1474342188891">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="4" />
+        <mark key="." line="35" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/app/src/main/res/layout-v11/msv_view_state_fail.xml" timestamp="1473733122781">
         <mark key="[" line="11" column="39" />
@@ -323,7 +327,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/AndroidManifest.xml" timestamp="1473501749687">
         <mark key="[" line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/view/inputmethod/InputMethodManager.java" timestamp="1474339370649" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/view/inputmethod/InputMethodManager.java" timestamp="1474341059979" />
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/res/layout/detail_group_item.xml" timestamp="1473472566083">
         <mark key="[" line="9" column="69" />
         <mark key="]" line="10" column="7" />
@@ -385,11 +389,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/.gitignore" timestamp="1473554829455">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/phone_take_frag.xml" timestamp="1474337389139">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="30" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/phone_take_frag.xml" timestamp="1474341949530">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="31" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/TagImageView/app/src/main/java/io/github/xudaojie/tagimageview/DragLayout.java" timestamp="1473752618957">
         <mark key="[" line="21" column="4" />
@@ -493,10 +497,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>inputMethodService</text>
+        <text>@Override
+    public boolean getFreezesText() {
+//        return super.getFreezesText();
+        return false;
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>inputMethodService</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -504,22 +512,46 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtSW1lRXQuc2V0VGV4dCgieHh4Iik7Cg==</text>
+      <register name="1" type="4">
+        <text>@Override
+    public boolean getFreezesText() {
+//        return super.getFreezesText();
+        return false;
+    }</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IDxjb20uYm9jYWkueWJnai50YWtlLnBob25lLlh4eAogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSIxMTEiLz4=</text>
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHJvdGVjdGVkIE1vdmVtZW50TWV0aG9kIGdldERlZmF1bHRNb3ZlbWVudE1ldGhvZCgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtSW1lRXQuc2V0SW1lT3B0aW9ucygpOwo=</text>
+      <register name="3" type="4">
+        <text>mRootView.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                InputMethodManager imm = (InputMethodManager) mActivity.getSystemService(INPUT_METHOD_SERVICE);
+//                imm.showSoftInput(mImeEt, InputMethodManager.SHOW_FORCED);
+//                imm.restartInput(mImeEt);
+//                imm.toggleSoftInput(0, InputMethodManager.HIDE_NOT_ALWAYS);
+            }
+        }, 2000);</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBATnVsbGFibGUKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFZpZXcgY3JlYXRlVmlldyhMYXlvdXRJbmZsYXRlciBpbmZsYXRlciwgQE51bGxhYmxlIFZpZXdHcm91cCBjb250YWluZXIsIEBOdWxsYWJsZSBCdW5kbGUgc2F2ZWRJbnN0YW5jZVN0YXRlKSB7CiAgICAgICAgbVJvb3RWaWV3ID0gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5sb2dpbl9mcmFnLCBjb250YWluZXIsIGZhbHNlKTsKICAgICAgICBCdXR0ZXJLbmlmZS5iaW5kKHRoaXMsIG1Sb290Vmlldyk7CiAgICAgICAgbUxvZ2luQnRuLnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdmlldykgewogICAgICAgICAgICAgICAgSW50ZW50IGkgPSBuZXcgSW50ZW50KG1BY3Rpdml0eSwgTWFpbkFjdGl2aXR5LmNsYXNzKTsKICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoaSk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgICByZXR1cm4gbVJvb3RWaWV3OwogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtSW1lRXQuc2V0VGV4dCgieHh4Iik7Cg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IDxjb20uYm9jYWkueWJnai50YWtlLnBob25lLlh4eAogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSIxMTEiLz4=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtSW1lRXQuc2V0SW1lT3B0aW9ucygpOwo=</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBATnVsbGFibGUKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFZpZXcgY3JlYXRlVmlldyhMYXlvdXRJbmZsYXRlciBpbmZsYXRlciwgQE51bGxhYmxlIFZpZXdHcm91cCBjb250YWluZXIsIEBOdWxsYWJsZSBCdW5kbGUgc2F2ZWRJbnN0YW5jZVN0YXRlKSB7CiAgICAgICAgbVJvb3RWaWV3ID0gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5sb2dpbl9mcmFnLCBjb250YWluZXIsIGZhbHNlKTsKICAgICAgICBCdXR0ZXJLbmlmZS5iaW5kKHRoaXMsIG1Sb290Vmlldyk7CiAgICAgICAgbUxvZ2luQnRuLnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdmlldykgewogICAgICAgICAgICAgICAgSW50ZW50IGkgPSBuZXcgSW50ZW50KG1BY3Rpdml0eSwgTWFpbkFjdGl2aXR5LmNsYXNzKTsKICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoaSk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgICByZXR1cm4gbVJvb3RWaWV3OwogICAgfQ==</text>
+      </register>
+      <register name="8" type="4">
         <text>initData();
         if (savedInstanceState != null) {
             restoreData(savedInstanceState);
@@ -528,20 +560,8 @@
         initEvent();
         initNetData();</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IH0K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
     </registers>
     <search>
