@@ -2,7 +2,6 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="A" line="138" column="58" filename="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" />
       <mark key="I" line="7" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_activity_apply_fragment.xml" />
     </globalmarks>
     <filemarks>
@@ -279,8 +278,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/build.gradle" timestamp="1473045665177">
         <mark key="[" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/zxing/camera/CameraManager.java" timestamp="1474419167631">
-        <mark key="[" line="382" column="26" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/zxing/camera/CameraManager.java" timestamp="1474475132538">
+        <mark key="[" line="399" column="5" />
         <mark key="]" line="369" column="54" />
         <mark key="^" line="369" column="54" />
         <mark key="." line="369" column="54" />
@@ -576,7 +575,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/GravityImageView/app/src/main/java/io/github/xudaojie/gravityimageview/MoveGestureDetector.java" timestamp="1473652264730">
         <mark key="[" line="92" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474469544215">
+      <file name="/Dummy.txt" timestamp="1474475823315">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -701,7 +700,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/TagImageView/README.md" timestamp="1473817590774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" timestamp="1474468703422" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" timestamp="1474476126873">
+        <mark key="[" line="277" column="4" />
+        <mark key="]" line="277" column="4" />
+        <mark key="^" line="308" column="6" />
+        <mark key="." line="277" column="4" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/drawable/selector_orange_btn.xml" timestamp="1474387579359">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="18" />
@@ -768,58 +772,66 @@
       <jump line="87" column="24" filename="$USER_HOME$/AndroidStudioProjects/MultiStateView/library/src/main/java/me/xdj/view/BaseMultiStateView.java" />
       <jump line="188" column="42" filename="$USER_HOME$/AndroidStudioProjects/TagImageView/app/src/main/java/io/github/xudaojie/tagimageview/TagView.java" />
       <jump line="21" column="45" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/modifypwd/ModifyPwdActivity.java" />
+      <jump line="188" column="12" filename="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>holo_blue_bright</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>holo_blue_bright</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>life_cycle</text>
+        <text>?</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm47Cg==</text>
+      <register name="1" type="4">
+        <text>if (!flashLightOpen) {
+                    CameraManager.get().setFlashLight(true);
+                } else {
+                    CameraManager.get().setFlashLight(false);
+                }
+                flashLightOpen = !flashLightOpen;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgaWYgKGZsYXNoTGlnaHQpIHsKICAgICAgICAgICAgc2V0Rmxhc2hMaWdodCh0cnVlKTsKICAgICAgICB9</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24uaW50ZXJuYWwuRm9yZWdyb3VuZExpbmVhckxheW91dAogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxNmRwIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCiAgICAgICAgYW5kcm9pZDpjbGlja2FibGU9InRydWUiCiAgICAgICAgYW5kcm9pZDpmb3JlZ3JvdW5kPSI/YW5kcm9pZDphdHRyL3NlbGVjdGFibGVJdGVtQmFja2dyb3VuZCIKICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIKICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJob3Jpem9udGFsIj4KCiAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iMTZkcCIKICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IjE2ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvaWNfbG9ja19ibHVlIi8+CgogICAgICAgIDxhbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5UZXh0SW5wdXRMYXlvdXQKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2JnX3NoYXBlX3doaXRlX2JvcmRlcl9ib3R0b21fZ3JheSIKICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSI4ZHAiPgoKICAgICAgICAgICAgPGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LlRleHRJbnB1dEVkaXRUZXh0CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmhpbnQ9Iuivt+Wmgui+k+WFpeWOn+Wni+WvhueggSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iOGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IjhkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iOGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTRzcCIvPgogICAgICAgIDwvYW5kcm9pZC5zdXBwb3J0LmRlc2lnbi53aWRnZXQuVGV4dElucHV0TGF5b3V0PgoKICAgIDwvYW5kcm9pZC5zdXBwb3J0LmRlc2lnbi5pbnRlcm5hbC5Gb3JlZ3JvdW5kTGluZWFyTGF5b3V0PgoKICAgIDxhbmRyb2lkLnN1cHBvcnQuZGVzaWduLmludGVybmFsLkZvcmVncm91bmRMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCiAgICAgICAgYW5kcm9pZDpjbGlja2FibGU9InRydWUiCiAgICAgICAgYW5kcm9pZDpmb3JlZ3JvdW5kPSI/YW5kcm9pZDphdHRyL3NlbGVjdGFibGVJdGVtQmFja2dyb3VuZCIKICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIKICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJob3Jpem9udGFsIj4KCiAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iMTZkcCIKICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IjE2ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvaWNfbG9ja19ibHVlIi8+CgogICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYmdfc2hhcGVfd2hpdGVfYm9yZGVyX2JvdHRvbV9ncmF5IgogICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIKICAgICAgICAgICAgYW5kcm9pZDptaW5IZWlnaHQ9IjQ4ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i5paw5a+G56CBIi8+CgogICAgPC9hbmRyb2lkLnN1cHBvcnQuZGVzaWduLmludGVybmFsLkZvcmVncm91bmRMaW5lYXJMYXlvdXQ+CgogICAgPGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24uaW50ZXJuYWwuRm9yZWdyb3VuZExpbmVhckxheW91dAogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci93aGl0ZSIKICAgICAgICBhbmRyb2lkOmNsaWNrYWJsZT0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmZvcmVncm91bmQ9Ij9hbmRyb2lkOmF0dHIvc2VsZWN0YWJsZUl0ZW1CYWNrZ3JvdW5kIgogICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiPgoKICAgICAgICA8SW1hZ2VWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdMZWZ0PSIxNmRwIgogICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdSaWdodD0iMTZkcCIKICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19sb2NrX2JsdWUiLz4KCiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIKICAgICAgICAgICAgYW5kcm9pZDptaW5IZWlnaHQ9IjQ4ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i56Gu6K6k5a+G56CBIi8+CiAgICA8L2FuZHJvaWQuc3VwcG9ydC5kZXNpZ24uaW50ZXJuYWwuRm9yZWdyb3VuZExpbmVhckxheW91dD4=</text>
+        <text>if (flashLight) {
+            setFlashLight(false);
+        }</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PExpbmVhckxheW91dAogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiPgoKICAgIDwvTGluZWFyTGF5b3V0Pg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgQEJpbmRWaWV3KFIuaWQuaW1nX2dyaWQpCiAgICBHcmlkVmlldyBtSW1nR3JpZDsKICAgIEBCaW5kVmlldyhSLmlkLndhcmluZ19mbGFnX2J0bikKICAgIEFwcENvbXBhdEJ1dHRvbiBtV2FyaW5nRmxhZ0J0bjs=</text>
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">UnhVdGlscy5jbGlja3MobVdhcmluZ0ZsYWdCdG4pCiAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKG5ldyBBY3Rpb24xPFZvaWQ+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIGNhbGwoVm9pZCBhVm9pZCkgewogICAgICAgICAgICAgICAgICAgICAgICBBY3Rpdml0eVV0aWxzLnN0YXJ0QWN0aXZpdHkobUFjdGl2aXR5LCBXYXJpbmdBY3Rpdml0eS5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9iZ19zaGFwZV93aGl0ZV9ib3JkZXJfYm90dG9tX2dyYXkiCiAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgICAgICAgICBhbmRyb2lkOm1pbkhlaWdodD0iNDhkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSLljp/lr4bnoIEiLz4=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnNldFBvc2l0aXZlQnV0dG9uKCLnoa7lrpoiLCBuZXcgRGlhbG9nSW50ZXJmYWNlLk9uQ2xpY2tMaXN0ZW5lcigpIHsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LlRleHRJbnB1dExheW91dAogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAbnVsbCIKICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSI4ZHAiPgoKICAgICAgICAgICAgPGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LlRleHRJbnB1dEVkaXRUZXh0CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmhpbnQ9Iuivt+Wmgui+k+WFpeWOn+Wni+WvhueggSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE0c3AiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjhkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iOGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IjhkcCIvPgogICAgICAgIDwvYW5kcm9pZC5zdXBwb3J0LmRlc2lnbi53aWRnZXQuVGV4dElucHV0TGF5b3V0Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnNldE1lc3NhZ2UoIuivt+WcqOezu+e7n+iuvue9ruS4reS4ukFwcOW8gOWQr+aRhOWDj+WktOadg+mZkOWQjumHjeivlSIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LlRleHRJbnB1dExheW91dAogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAbnVsbCIKICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IjhkcCI+CgogICAgICAgIDxhbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5UZXh0SW5wdXRFZGl0VGV4dAogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3B3ZF90diIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQG51bGwiCiAgICAgICAgICAgIGFuZHJvaWQ6ZHJhd2FibGVMZWZ0PSJAZHJhd2FibGUvaWNfbG9jayIKICAgICAgICAgICAgYW5kcm9pZDpkcmF3YWJsZVBhZGRpbmc9IjE2ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6aGludD0i5a+G56CBIgogICAgICAgICAgICBhbmRyb2lkOmlucHV0VHlwZT0idGV4dFBhc3N3b3JkIgogICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjhkcCIvPgogICAgPC9hbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5UZXh0SW5wdXRMYXlvdXQ+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkFjdGl2aXR5UmVzdWx0KHJlcXVlc3RDb2RlLCByZXN1bHRDb2RlLCBkYXRhKTsKICAgICAgICBpZiAocmVzdWx0Q29kZSA9PSBSRVNVTFRfT0sK</text>
       </register>
     </registers>
     <search>
-      <last-search>life_cycle</last-search>
+      <last-search>?</last-search>
       <last-offset />
-      <last-pattern>life_cycle</last-pattern>
+      <last-pattern>?</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -833,6 +845,7 @@
         <entry>lifec</entry>
         <entry>left_</entry>
         <entry>life_cycle</entry>
+        <entry>?</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -868,6 +881,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
