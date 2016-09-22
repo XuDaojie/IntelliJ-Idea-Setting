@@ -1,4 +1,6 @@
 <code_scheme name="Me">
+  <option name="FIELD_NAME_PREFIX" value="m" />
+  <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -65,6 +67,24 @@
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="JAVA">
+    <arrangement>
+      <groups>
+        <group>
+          <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>DEPENDENT_METHODS</type>
+          <order>BREADTH_FIRST</order>
+        </group>
+      </groups>
+    </arrangement>
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
