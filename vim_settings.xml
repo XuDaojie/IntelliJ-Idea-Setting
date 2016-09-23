@@ -449,7 +449,7 @@
         <mark key="]" line="206" column="0" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/support-core-ui/24.2.1/support-core-ui-24.2.1-sources.jar!/android/support/v4/widget/ContentLoadingProgressBar.java" timestamp="1474556447296" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/support-core-ui/24.2.1/support-core-ui-24.2.1-sources.jar!/android/support/v4/widget/ContentLoadingProgressBar.java" timestamp="1474559693410" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/view_progress_small_top.xml" timestamp="1470981913600">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="25" />
@@ -474,12 +474,6 @@
         <mark key="]" line="43" column="27" />
         <mark key="^" line="50" column="31" />
         <mark key="." line="43" column="27" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/app/src/main/java/me/xdj/multistateview/MultiStateFragment.java" timestamp="1474556220473">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="44" />
-        <mark key="." line="20" column="44" />
-        <mark key="^" line="42" column="66" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/menu/menu_question_detail.xml" timestamp="1470908822187">
         <mark key="[" line="8" column="0" />
@@ -629,6 +623,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/app/src/main/res/layout/view_other_status.xml" timestamp="1474558645135" />
       <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/library/src/main/res/values/attrs.xml" timestamp="1474555610009">
         <mark key="[" line="2" column="52" />
       </file>
@@ -648,10 +643,8 @@
         <mark key="]" line="66" column="54" />
         <mark key="." line="66" column="54" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/library/src/main/java/me/xdj/view/SimpleMultiStateView.java" timestamp="1474555495096">
-        <mark key="[" line="25" column="82" />
-        <mark key="]" line="25" column="82" />
-        <mark key="." line="25" column="82" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/library/src/main/java/me/xdj/view/SimpleMultiStateView.java" timestamp="1474559705176">
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/isas_net_fragment.xml" timestamp="1465350657693">
         <mark key="[" line="7" column="32" />
@@ -743,10 +736,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2000</text>
+        <text>showBtn</text>
       </register>
       <register name="-" type="4">
-        <text>2000</text>
+        <text>showBtn</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
