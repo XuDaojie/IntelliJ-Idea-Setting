@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="I" line="212" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
@@ -31,6 +31,9 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/phone/PhoneTakeFragment.java" timestamp="1474710455839">
+        <mark key="[" line="27" column="52" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/anim/pop_infoselect_bottom_in.xml" timestamp="1470305118037">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="27" />
@@ -54,6 +57,12 @@
         <mark key="]" line="72" column="20" />
         <mark key="^" line="72" column="20" />
         <mark key="." line="72" column="20" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/StorageRepository.java" timestamp="1474710375961">
+        <mark key="[" line="104" column="19" />
+        <mark key="]" line="99" column="46" />
+        <mark key="." line="99" column="46" />
+        <mark key="^" line="99" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/login/LoginPresenter.java" timestamp="1474609909640">
         <mark key="[" line="74" column="10" />
@@ -161,6 +170,12 @@
         <mark key="]" line="58" column="3" />
         <mark key="." line="58" column="3" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/phone/PhoneTakeContact.java" timestamp="1474710487446">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairContact.java" timestamp="1471936836702">
         <mark key="[" line="46" column="21" />
         <mark key="]" line="46" column="21" />
@@ -254,6 +269,9 @@
         <mark key="[" line="134" column="48" />
         <mark key="]" line="134" column="48" />
         <mark key="." line="134" column="48" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/phone/PhoneTakeActivity.java" timestamp="1474710437875">
+        <mark key="[" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/glide/GlideListActivity.java" timestamp="1465701319179">
         <mark key="[" line="75" column="23" />
@@ -752,7 +770,7 @@
         <mark key="^" line="255" column="20" />
         <mark key="." line="255" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1474612505388">
+      <file name="/fragment.java" timestamp="1474710464978">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="20" />
@@ -805,10 +823,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FrameLayout</text>
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>FrameLayout</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
