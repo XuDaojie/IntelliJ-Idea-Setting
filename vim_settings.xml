@@ -833,11 +833,16 @@
         <mark key="^" line="255" column="20" />
         <mark key="." line="255" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1474857130554">
+      <file name="/fragment.java" timestamp="1474869082363">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/ScanResultContact.java" timestamp="1474869093990">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -886,11 +891,11 @@
       <jump line="30" column="0" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/StorageRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG1Nb2RlID09IFN0b3JhZ2VDYXB0dXJlQWN0aXZpdHkuTU9ERV9PVVRCT1VORAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8IG1Nb2RlID09IFN0b3JhZ2VDYXB0dXJlQWN0aXZpdHkuTU9ERV9JTkJPVU5EX0VYUFJFU1MpIHsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0b3JhZ2VDYXB0dXJlQWN0aXZpdHkuc3RhcnRBY3Rpdml0eShtQWN0aXZpdHksIFN0b3JhZ2VDYXB0dXJlQWN0aXZpdHkuTU9ERV9JTkJPVU5EX0VYUFJFU1MpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>Context</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
