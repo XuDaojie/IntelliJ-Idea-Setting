@@ -185,6 +185,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/CodeSearchPresenter.java" timestamp="1474901390168">
         <mark key="[" line="38" column="36" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/util/BooleanUtils.java" timestamp="1475119403836">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/WarningSearchListFragment.java" timestamp="1475067476522">
         <mark key="[" line="108" column="56" />
         <mark key="]" line="108" column="56" />
@@ -237,8 +243,8 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/express_info_complete_frag.xml" timestamp="1475042833688">
-        <mark key="[" line="249" column="28" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/express_info_complete_frag.xml" timestamp="1475118181797">
+        <mark key="[" line="220" column="45" />
         <mark key="]" line="249" column="28" />
         <mark key="." line="249" column="28" />
         <mark key="^" line="190" column="21" />
@@ -364,7 +370,7 @@
         <mark key="]" line="204" column="16" />
         <mark key="." line="204" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/StorageDataSource.java" timestamp="1475051452900">
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/StorageDataSource.java" timestamp="1475118718800">
         <mark key="[" line="108" column="87" />
         <mark key="]" line="122" column="51" />
         <mark key="." line="122" column="51" />
@@ -568,7 +574,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/view/behavior/ScrollAwareFABBehavior.java" timestamp="1470905626988">
         <mark key="[" line="15" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1475070110672">
+      <file name="/fragment.java" timestamp="1475119235833">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="20" />
@@ -692,11 +698,11 @@
         <mark key="." line="10" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/SearchFragment.java" timestamp="1475030984763" />
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/complete/ExpInfoCompletePresenter.java" timestamp="1475050246362">
-        <mark key="[" line="92" column="15" />
-        <mark key="]" line="92" column="15" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/complete/ExpInfoCompletePresenter.java" timestamp="1475118758486">
+        <mark key="[" line="60" column="124" />
+        <mark key="]" line="60" column="124" />
         <mark key="^" line="60" column="56" />
-        <mark key="." line="92" column="15" />
+        <mark key="." line="60" column="124" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/SearchActivity.java" timestamp="1474942069584">
         <mark key="[" line="98" column="3" />
@@ -862,11 +868,11 @@
         <mark key="]" line="96" column="58" />
         <mark key="." line="96" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/service/StorageService.java" timestamp="1475063993147">
-        <mark key="[" line="143" column="86" />
-        <mark key="]" line="165" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/service/StorageService.java" timestamp="1475118782742">
+        <mark key="[" line="122" column="64" />
+        <mark key="]" line="122" column="64" />
         <mark key="^" line="165" column="34" />
-        <mark key="." line="165" column="34" />
+        <mark key="." line="122" column="64" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/view/behavior/LinearLayoutBehavior.java" timestamp="1470990913331">
         <mark key="[" line="20" column="69" />
@@ -1213,10 +1219,10 @@
         <mark key="]" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/remote/StorageRemoteDataSource.java" timestamp="1475063161100">
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/remote/StorageRemoteDataSource.java" timestamp="1475119491050">
+        <mark key="[" line="90" column="47" />
+        <mark key="]" line="90" column="47" />
+        <mark key="." line="90" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/SearchContact.java" timestamp="1474900597373">
         <mark key="[" line="14" column="30" />
@@ -1301,11 +1307,11 @@
       <jump line="50" column="101" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/ExpressNoSearchPresenter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFZpZXcgb25DcmVhdGVWaWV3KFN0cmluZyBuYW1lLCBDb250ZXh0IGNvbnRleHQsIEF0dHJpYnV0ZVNldCBhdHRycykgewogICAgICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZVZpZXcobmFtZSwgY29udGV4dCwgYXR0cnMpOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>toString</text>
       </register>
       <register name="-" type="4">
-        <text>position</text>
+        <text>toString</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1313,39 +1319,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFZpZXcgb25DcmVhdGVWaWV3KFN0cmluZyBuYW1lLCBDb250ZXh0IGNvbnRleHQsIEF0dHJpYnV0ZVNldCBhdHRycykgewogICAgICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZVZpZXcobmFtZSwgY29udGV4dCwgYXR0cnMpOwogICAgfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoaXNMYXJnZSkgewoKICAgICAgICB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGlmIChpc0xhcmdlKSB7CiAgICAgICAgfQ==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFZpZXcgb25DcmVhdGVWaWV3KFN0cmluZyBuYW1lLCBDb250ZXh0IGNvbnRleHQsIEF0dHJpYnV0ZVNldCBhdHRycykgewogICAgICAgIHJldHVybiBzdXBlci5vbkNyZWF0ZVZpZXcobmFtZSwgY29udGV4dCwgYXR0cnMpOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ICBMdWJhbi5nZXQobUFjdGl2aXR5KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5sb2FkKG5ldyBGaWxlKCIiKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAucHV0R2VhcihMdWJhbi5USElSRF9HRUFSKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hc09ic2VydmFibGUoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmRvT25FcnJvcihuZXcgQWN0aW9uMTxUaHJvd2FibGU+KCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgY2FsbChUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aHJvd2FibGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5vbkVycm9yUmVzdW1lTmV4dChuZXcgRnVuYzE8VGhyb3dhYmxlLCBPYnNlcnZhYmxlPD8gZXh0ZW5kcyBGaWxlPj4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgT2JzZXJ2YWJsZTw/IGV4dGVuZHMgRmlsZT4gY2FsbChUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5lbXB0eSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKG5ldyBBY3Rpb24xPEZpbGU+KCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgY2FsbChGaWxlIGZpbGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8g5Y6L57yp5oiQ5Yqf5ZCO6LCD55So77yM6L+U5Zue5Y6L57yp5ZCO55qE5Zu+54mH5paH5Lu2CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KS5sYXVuY2goKTsgICAgLy/lkK/liqjljovnvKk=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>@Override
     public void openInfo(Outbound) {
 
     }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEAK</text>
-      </register>
-      <register name="6" type="4">
-        <text>BindView(R.id.refresh)
-    SwipeRefreshLayout mRefresh;</text>
-      </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb3BlblNlYXJjaExpc3QoT3V0Ym91bmRMaXN0QmVhbiBkYXRhLCBTdHJpbmcgYXJnKSB7CiAgICAgICAgRGl2aWRlckl0ZW1EZWNvcmF0aW9uIGl0ZW1EZWNvcmF0aW9uID0gbmV3IERpdmlkZXJJdGVtRGVjb3JhdGlvbihtQWN0aXZpdHksCiAgICAgICAgICAgICAgICBMaW5lYXJMYXlvdXRNYW5hZ2VyLlZFUlRJQ0FMKTsKICAgICAgICBpdGVtRGVjb3JhdGlvbi5zZXREaXZpZGVyKENvbnRleHRDb21wYXQuZ2V0RHJhd2FibGUobUFjdGl2aXR5LCBSLmRyYXdhYmxlLnJlY3ljbGVyX2RpdmlkZXIpKTsKICAgICAgICBtUmVjeWNsZXJWaWV3LmFkZEl0ZW1EZWNvcmF0aW9uKGl0ZW1EZWNvcmF0aW9uKTsKICAgICAgICBtUmVjeWNsZXJWaWV3LnNldExheW91dE1hbmFnZXIobmV3IExpbmVhckxheW91dE1hbmFnZXIobUFjdGl2aXR5LCBMaW5lYXJMYXlvdXRNYW5hZ2VyLlZFUlRJQ0FMLCBmYWxzZSkpOwogICAgICAgIG1SZWN5Y2xlclZpZXcuc2V0QWRhcHRlcihuZXcgTGlzdEFkYXB0ZXIoZGF0YSkpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2V0UHJlc2VudGVyKFNlYXJjaENvbnRhY3QuUHJlc2VudGVyIHByZXNlbnRlcikgewogICAgICAgIG1QcmVzZW50ZXIgPSBwcmVzZW50ZXI7CiAgICB9</text>
+        <text>BindView(R.id.refresh)
+    SwipeRefreshLayout mRefresh;</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
