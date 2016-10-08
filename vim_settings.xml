@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="I" line="212" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
@@ -229,6 +229,12 @@
         <mark key="]" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OkDownloadManager/README.md" timestamp="1475886931291">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/ScanResultExpressPresenter.java" timestamp="1474993237547">
         <mark key="[" line="86" column="55" />
         <mark key="]" line="33" column="54" />
@@ -443,7 +449,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475600276261">
+      <file name="/Dummy.txt" timestamp="1475887235705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -533,7 +539,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/java/nio/CharBuffer.java" timestamp="1475680798419" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/java/nio/CharBuffer.java" timestamp="1475885808238" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/waring/WarningPresenter.java" timestamp="1475130102702">
         <mark key="[" line="148" column="37" />
         <mark key="]" line="148" column="36" />
@@ -1057,6 +1063,11 @@
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/README.md" timestamp="1475886359899">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/README.md" timestamp="1475600159873">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="94" column="0" />
@@ -1159,11 +1170,11 @@
       <jump line="85" column="12" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/rxjava/src/main/java/io/github/xudaojie/rxjava/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DEV</text>
       </register>
       <register name="-" type="4">
-        <text>ou need use setInflaterListener</text>
+        <text>DEV</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
