@@ -79,12 +79,6 @@
         <mark key="^" line="56" column="82" />
         <mark key="." line="56" column="82" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/searchlist/SearchListFragment.java" timestamp="1475893915892">
-        <mark key="[" line="133" column="33" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_pie_item.xml" timestamp="1472002360051">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="2" column="1" />
@@ -425,10 +419,10 @@
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/build.gradle" timestamp="1475892096760">
-        <mark key="[" line="91" column="35" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/build.gradle" timestamp="1475896327329">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/build.gradle" timestamp="1475579571903">
         <mark key="[" line="16" column="42" />
@@ -453,7 +447,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475891259034">
+      <file name="/Dummy.txt" timestamp="1475896390498">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -672,11 +666,11 @@
         <mark key="." line="47" column="69" />
         <mark key="^" line="30" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/complete/ExpressInfoCompleteFragment.java" timestamp="1475236523610">
-        <mark key="[" line="89" column="19" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="120" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/complete/ExpressInfoCompleteFragment.java" timestamp="1475895817691">
+        <mark key="[" line="122" column="44" />
+        <mark key="]" line="79" column="60" />
+        <mark key="." line="79" column="60" />
+        <mark key="^" line="79" column="60" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/WarnSearchListPresenter.java" timestamp="1475047716647">
         <mark key="[" line="86" column="75" />
@@ -749,11 +743,6 @@
         <mark key="[" line="30" column="54" />
         <mark key="]" line="30" column="63" />
         <mark key="." line="30" column="63" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/login/LoginActivity.java" timestamp="1474612429736">
-        <mark key="[" line="35" column="56" />
-        <mark key="]" line="35" column="56" />
-        <mark key="." line="35" column="56" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/local/StorageLocalDataSource.java" timestamp="1475139489483">
         <mark key="[" line="46" column="95" />
@@ -1179,11 +1168,11 @@
       <jump line="85" column="12" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/rxjava/src/main/java/io/github/xudaojie/rxjava/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mIsLargeSwitch</text>
       </register>
       <register name="-" type="4">
-        <text>DEV</text>
+        <text>mIsLargeSwitch</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
