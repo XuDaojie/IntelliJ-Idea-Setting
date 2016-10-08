@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="I" line="212" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
@@ -50,8 +50,8 @@
         <mark key="]" line="69" column="43" />
         <mark key="." line="69" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/PhoneSearchPresenter.java" timestamp="1475153195156">
-        <mark key="[" line="41" column="30" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/PhoneSearchPresenter.java" timestamp="1475888666018">
+        <mark key="[" line="41" column="16" />
         <mark key="]" line="41" column="31" />
         <mark key="." line="41" column="31" />
       </file>
@@ -139,11 +139,11 @@
         <mark key="]" line="480" column="16" />
         <mark key="." line="480" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/ScanResultFragment.java" timestamp="1475222918852">
-        <mark key="[" line="94" column="8" />
-        <mark key="]" line="94" column="8" />
-        <mark key="." line="94" column="8" />
-        <mark key="^" line="123" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/ScanResultFragment.java" timestamp="1475888372980">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="122" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/StorageCaptureActivity.java" timestamp="1475222422348">
         <mark key="[" line="133" column="0" />
@@ -203,10 +203,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/SearchFragment.java" timestamp="1475223179824">
-        <mark key="[" line="202" column="5" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/SearchFragment.java" timestamp="1475890147969">
+        <mark key="[" line="127" column="51" />
+        <mark key="]" line="120" column="52" />
+        <mark key="." line="120" column="52" />
+        <mark key="^" line="120" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/ActivityUtils.java" timestamp="1469693907789">
         <mark key="[" line="73" column="26" />
@@ -449,7 +450,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475887235705">
+      <file name="/Dummy.txt" timestamp="1475890200334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -463,6 +464,12 @@
         <mark key="[" line="6" column="18" />
         <mark key="]" line="131" column="3" />
         <mark key="." line="131" column="3" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/phone_take_frag.xml" timestamp="1475888526992">
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="10" />
+        <mark key="^" line="29" column="10" />
+        <mark key="." line="29" column="10" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/express_info_check_frag.xml" timestamp="1475147775447">
         <mark key="[" line="241" column="43" />
@@ -495,7 +502,7 @@
         <mark key="]" line="3" column="65" />
         <mark key="." line="3" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1475594081266">
+      <file name="/fragment.java" timestamp="1475889529024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="20" />
@@ -1170,8 +1177,8 @@
       <jump line="85" column="12" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/rxjava/src/main/java/io/github/xudaojie/rxjava/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DEV</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>DEV</text>
@@ -1185,26 +1192,41 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAodmlldyA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigidmlldyBpcyBub3QgaW5mbGF0ZSIpOwogICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9hZGluZ1Byb2dyZXNzRGlhbG9nIG1Qcm9ncmVzc0RpYWxvZzsK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5ib2NhaS55YmdqLndpZGdldC5Mb2FkaW5nUHJvZ3Jlc3NEaWFsb2c7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAodmlldyA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigidmlldyBpcyBub3QgaW5mbGF0ZSIpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="6" type="4">
         <text>### Code
 如果你要为`EMPTY`状态状态
 ``` java
 
 ```</text>
       </register>
-      <register name="4" type="2">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Ci8vICAgICAgICBWaWV3IHZpZXcgPSBMYXlvdXRJbmZsYXRlci5mcm9tKGdldENvbnRleHQoKSkuaW5mbGF0ZShyZXNMYXlvdXRJRCwgdGhpcywgZmFsc2UpOwovLyAgICAgICAgbVN0YXRlVmlld0FycmF5LnB1dChzdGF0dXMsIHZpZXcpOwovLyAgICAgICAgYWRkVmlldyh2aWV3KTsKLy8gICAgICAgIHZpZXcuc2V0VmlzaWJpbGl0eShHT05FKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgICAgICAgaWYgKHZpZXcgPT0gbnVsbCkgewovLyAgICAgICAgICAgIGludCByZXNMYXlvdXRJRCA9IG1MYXlvdXRJREFycmF5LmdldChzdGF0ZSk7Ci8vICAgICAgICAgICAgdmlldyA9IExheW91dEluZmxhdGVyLmZyb20oZ2V0Q29udGV4dCgpKS5pbmZsYXRlKHJlc0xheW91dElELCB0aGlzLCBmYWxzZSk7Ci8vICAgICAgICAgICAgbVN0YXRlVmlld0FycmF5LnB1dChzdGF0ZSwgdmlldyk7Ci8vICAgICAgICAgICAgYWRkVmlldyh2aWV3KTsKLy8gICAgICAgICAgICB2aWV3LnNldFZpc2liaWxpdHkoR09ORSk7Ci8vICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="x" type="4">
+        <text>shelfNo</text>
+      </register>
+      <register name="9" type="4">
         <text>//        mMultiStateView.getView(MultiStateView.STATE_FAIL).findViewById(R.id.retry)
 //                .setOnClickListener(new View.OnClickListener() {
 //                    @Override
@@ -1229,28 +1251,6 @@
 //                        mMultiStateView.setViewState(OTHER_STATUS);
 //                    }
 //                });</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">TXVsdGlTdGF0ZVZpZXcuU1RBVEVfTE9BRElORwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>switch (state) {
-                    case state
-                }</text>
-      </register>
-      <register name="x" type="4">
-        <text>shelfNo</text>
-      </register>
-      <register name="9" type="4">
-        <text>viewStub.setOnClickListener(new OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Toast.makeText(getContext(), &quot;xxxxx&quot;, Toast.LENGTH_SHORT).show();
-            }
-        });</text>
       </register>
     </registers>
     <search>
