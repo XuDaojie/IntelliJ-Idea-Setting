@@ -443,7 +443,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476003957317">
+      <file name="/Dummy.txt" timestamp="1476005503548">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -622,6 +622,11 @@
         <mark key="]" line="18" column="17" />
         <mark key="." line="18" column="17" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/ExpressInfoPresenter.java" timestamp="1476007148106">
+        <mark key="[" line="305" column="83" />
+        <mark key="]" line="305" column="83" />
+        <mark key="." line="305" column="83" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/searchlist/SearchListContact.java" timestamp="1475908009032">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="30" />
@@ -719,8 +724,8 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/Constants.java" timestamp="1475996866783">
         <mark key="[" line="21" column="47" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_db_kill_control_list_item.xml" timestamp="1470037815404">
         <mark key="[" line="7" column="11" />
@@ -1170,10 +1175,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>reportNote</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>reportNote</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
