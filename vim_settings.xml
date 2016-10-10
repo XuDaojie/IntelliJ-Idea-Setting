@@ -21,7 +21,7 @@
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1475974612025">
+      <file name="/a.dummy" timestamp="1476085435032">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -118,9 +118,9 @@
         <mark key="." line="61" column="3" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/SupportWidget/app/src/main/java/io/github/xudaojie/supportwidget/SpinnerHintAdapter.java" timestamp="1476083639873">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunDbSwitchListActivity.java" timestamp="1470020948899">
         <mark key="[" line="42" column="0" />
@@ -159,6 +159,9 @@
         <mark key="]" line="76" column="21" />
         <mark key="." line="76" column="21" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_msg_detail_list_activity.xml" timestamp="1476085462933">
+        <mark key="[" line="58" column="55" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/util/BooleanUtils.java" timestamp="1475119403836">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="11" column="16" />
@@ -181,10 +184,10 @@
         <mark key="]" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/build.gradle" timestamp="1476004015046">
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/build.gradle" timestamp="1476085565984">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
         <mark key="^" line="18" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/service/CommonService.java" timestamp="1475070206134">
@@ -1032,7 +1035,6 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1476026164588" />
       <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/AndroidManifest.xml" timestamp="1469528610295">
         <mark key="[" line="76" column="36" />
         <mark key="]" line="76" column="36" />
@@ -1124,6 +1126,11 @@
         <mark key="]" line="29" column="51" />
         <mark key="." line="29" column="51" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_msg_queue_detail_list_item.xml" timestamp="1476085478244">
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="49" column="24" />
+        <mark key="." line="49" column="24" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/searchlist/SearchCodeListPresenter.java" timestamp="1475909620507">
         <mark key="[" line="56" column="14" />
         <mark key="]" line="56" column="14" />
@@ -1195,10 +1202,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBWaWV3IGdldERyb3BEb3duVmlldyhpbnQgcG9zaXRpb24sIFZpZXcgY29udmVydFZpZXcsIFZpZXdHcm91cCBwYXJlbnQpIHsKICAgICAgICByZXR1cm4gc3VwZXIuZ2V0RHJvcERvd25WaWV3KHBvc2l0aW9uLCBjb252ZXJ0VmlldywgcGFyZW50KTsKICAgIH0=</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>LinearLayout</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
