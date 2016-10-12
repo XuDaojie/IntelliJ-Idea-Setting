@@ -53,8 +53,8 @@
         <mark key="]" line="70" column="43" />
         <mark key="." line="70" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/PhoneSearchPresenter.java" timestamp="1476169383636">
-        <mark key="[" line="66" column="54" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/PhoneSearchPresenter.java" timestamp="1476235064593">
+        <mark key="[" line="90" column="61" />
         <mark key="]" line="43" column="31" />
         <mark key="." line="43" column="31" />
       </file>
@@ -250,8 +250,8 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/express_info_complete_frag.xml" timestamp="1476170115129">
-        <mark key="[" line="274" column="40" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/express_info_complete_frag.xml" timestamp="1476235032056">
+        <mark key="[" line="275" column="45" />
         <mark key="]" line="123" column="15" />
         <mark key="." line="123" column="15" />
         <mark key="^" line="185" column="21" />
@@ -511,7 +511,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476202170140">
+      <file name="/Dummy.txt" timestamp="1476234150774">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -672,11 +672,11 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/complete/ExpInfoCompletePresenter.java" timestamp="1476178121882">
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="44" column="73" />
-        <mark key="^" line="44" column="73" />
-        <mark key="." line="44" column="73" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/complete/ExpInfoCompletePresenter.java" timestamp="1476234456243">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="25" column="75" />
+        <mark key="^" line="25" column="75" />
+        <mark key="." line="25" column="75" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/SearchActivity.java" timestamp="1474942069584">
         <mark key="[" line="98" column="3" />
@@ -698,6 +698,11 @@
         <mark key="[" line="20" column="43" />
         <mark key="]" line="18" column="17" />
         <mark key="." line="18" column="17" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/ExpressInfoPresenter.java" timestamp="1476235441301">
+        <mark key="[" line="110" column="95" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/searchlist/SearchListContact.java" timestamp="1476167190192">
         <mark key="[" line="20" column="88" />
@@ -921,10 +926,11 @@
         <mark key="]" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/flexbox/src/main/res/layout/content_main.xml" timestamp="1476232952747">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="19" column="9" />
-        <mark key="." line="19" column="9" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/flexbox/src/main/res/layout/content_main.xml" timestamp="1476234012439">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+        <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/fragment/honest/qlist/vh/QuestionListVH.java" timestamp="1474537092368">
         <mark key="[" line="245" column="40" />
@@ -1282,10 +1288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TextView</text>
+        <text>0dp</text>
       </register>
       <register name="-" type="4">
-        <text>TextView</text>
+        <text>0dp</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
