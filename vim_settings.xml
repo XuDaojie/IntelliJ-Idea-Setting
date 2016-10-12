@@ -5,8 +5,8 @@
       <mark key="I" line="212" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/ScanResultShelfPresenter.java" timestamp="1476174082935">
-        <mark key="[" line="73" column="103" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/ScanResultShelfPresenter.java" timestamp="1476239706983">
+        <mark key="[" line="74" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/complete/ExpInfoCompleteContact.java" timestamp="1476237452664">
         <mark key="[" line="23" column="49" />
@@ -165,8 +165,8 @@
         <mark key="]" line="480" column="16" />
         <mark key="." line="480" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/ScanResultFragment.java" timestamp="1476173313362">
-        <mark key="[" line="115" column="79" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/ScanResultFragment.java" timestamp="1476239792747">
+        <mark key="[" line="128" column="8" />
         <mark key="]" line="111" column="81" />
         <mark key="." line="111" column="81" />
         <mark key="^" line="111" column="81" />
@@ -511,7 +511,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476238276294">
+      <file name="/Dummy.txt" timestamp="1476241964219">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -745,11 +745,11 @@
         <mark key="." line="48" column="69" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/complete/ExpressInfoCompleteFragment.java" timestamp="1476237553411">
-        <mark key="[" line="206" column="8" />
-        <mark key="]" line="193" column="14" />
-        <mark key="." line="193" column="14" />
-        <mark key="^" line="193" column="14" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/complete/ExpressInfoCompleteFragment.java" timestamp="1476241390895">
+        <mark key="[" line="222" column="76" />
+        <mark key="]" line="215" column="100" />
+        <mark key="." line="215" column="100" />
+        <mark key="^" line="195" column="14" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/WarnSearchListPresenter.java" timestamp="1475983807713">
         <mark key="[" line="139" column="8" />
@@ -796,6 +796,9 @@
         <mark key="]" line="20" column="4" />
         <mark key="." line="20" column="4" />
         <mark key="^" line="20" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/ActiveInboundBean.java" timestamp="1476239001482">
+        <mark key="[" line="36" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/glide/GlideListActivity.java" timestamp="1465701319179">
         <mark key="[" line="75" column="23" />
@@ -1115,6 +1118,7 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1476240608247" />
       <file name="$USER_HOME$/AndroidStudioProjects/BocUtilAndroid/app/src/main/AndroidManifest.xml" timestamp="1469528610295">
         <mark key="[" line="76" column="36" />
         <mark key="]" line="76" column="36" />
@@ -1288,10 +1292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CommonBean</text>
+        <text>shelfNo</text>
       </register>
       <register name="-" type="4">
-        <text>CommonBean</text>
+        <text>shelfNo</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
