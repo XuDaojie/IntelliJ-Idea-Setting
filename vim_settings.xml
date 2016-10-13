@@ -230,10 +230,10 @@
         <mark key="^" line="37" column="44" />
         <mark key="." line="50" column="78" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/widget/SimpleSpinnerAdapter.java" timestamp="1476152845961">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/widget/SimpleSpinnerAdapter.java" timestamp="1476339089243">
+        <mark key="[" line="90" column="33" />
+        <mark key="]" line="90" column="33" />
+        <mark key="." line="90" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/res/layout/activity_main.xml" timestamp="1476289010195">
         <mark key="[" line="13" column="4" />
@@ -1082,6 +1082,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/BaseAdapter.java" timestamp="1476339023990" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/UserRepository.java" timestamp="1475544269617">
         <mark key="[" line="19" column="44" />
         <mark key="]" line="19" column="54" />
@@ -1244,7 +1245,7 @@
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/widget/PhoneAutoCompleteAdapter.java" timestamp="1476331242910">
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/widget/PhoneAutoCompleteAdapter.java" timestamp="1476338607527">
         <mark key="[" line="45" column="61" />
         <mark key="]" line="45" column="61" />
         <mark key="." line="45" column="61" />
@@ -1374,11 +1375,11 @@
       <jump line="28" column="29" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/SearchContact.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mOriginData</text>
       </register>
       <register name="-" type="4">
-        <text>android</text>
+        <text>mOriginData</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1386,30 +1387,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>private String[] mOriginData;
+
+        public ArrayFilter(String[] originData) {
+            mOriginData = originData;
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChvdXRib3VuZExpc3RCZWFuLmdldERhdGEoKS5nZXRTaGVsZm9yZGVyc19sZW4oKSA9PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcub3BlbkNoZWNrRXhwSW5mbyhvdXRib3VuZExpc3RCZWFuKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcuc2hvd1NlYXJjaExpc3Qob3V0Ym91bmRMaXN0QmVhbiwgQ29uc3RhbnRzVGFrZS5NT0RFX0NPREUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChvdXRib3VuZExpc3RCZWFuLmdldERhdGEoKS5nZXRTaGVsZm9yZGVyc19sZW4oKSA9PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcub3BlbkNoZWNrRXhwSW5mbyhvdXRib3VuZExpc3RCZWFuKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcuc2hvd1NlYXJjaExpc3Qob3V0Ym91bmRMaXN0QmVhbiwgQ29uc3RhbnRzVGFrZS5NT0RFX0NPREUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="4">
         <text>if (outboundListBean.getData().getShelforders_len() == 1) {
                                 mView.openCheckExpInfo(outboundListBean);
                             } else {
                                 mView.showSearchList(outboundListBean, ConstantsTake.MODE_CODE);
                             }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PGEgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IjEiLz4KICAgICAgICAgICAgICAgIDwvY29tLmdvb2dsZS5hbmRyb2lkLmZsZXhib3guRmxleGJveExheW91dD4=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -1418,13 +1423,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGNvbS5nb29nbGUuYW5kcm9pZC5mbGV4Ym94LkZsZXhib3hMYXlvdXQKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ii8+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
