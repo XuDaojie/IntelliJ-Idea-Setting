@@ -610,7 +610,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/PhraseListBean.java" timestamp="1476267401743">
         <mark key="[" line="5" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1476346250853">
+      <file name="/fragment.java" timestamp="1476377217875">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="20" />
@@ -644,11 +644,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/java/io/github/xudaojie/photogo/MainActivity.java" timestamp="1476374620726">
-        <mark key="[" line="22" column="73" />
-        <mark key="]" line="34" column="92" />
-        <mark key="." line="34" column="92" />
-        <mark key="^" line="32" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/java/io/github/xudaojie/photogo/MainActivity.java" timestamp="1476377004643">
+        <mark key="[" line="25" column="71" />
+        <mark key="]" line="25" column="71" />
+        <mark key="." line="25" column="71" />
+        <mark key="^" line="36" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/build/intermediates/res/merged/debug/values/values.xml" timestamp="1476326568128">
         <mark key="[" line="1733" column="21" />
@@ -662,6 +662,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/res/anim/t.xml" timestamp="1476290472902">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/AndroidManifest.xml" timestamp="1476377137319">
+        <mark key="[" line="2" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/service_business_group_view.xml" timestamp="1465893929369">
         <mark key="[" line="18" column="0" />
@@ -1401,10 +1404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>MediaStore.Images.</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>MediaStore.Images.</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
