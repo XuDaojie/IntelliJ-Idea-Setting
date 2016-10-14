@@ -206,7 +206,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_msg_detail_list_activity.xml" timestamp="1476085462933">
         <mark key="[" line="58" column="55" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/ListView.java" timestamp="1476424106754" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/util/BooleanUtils.java" timestamp="1475119403836">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="11" column="16" />
@@ -305,7 +304,6 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/appcompat-v7/24.2.1/appcompat-v7-24.2.1-sources.jar!/android/support/v7/app/AlertDialog.java" timestamp="1476343617330" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/ScanResultExpressPresenter.java" timestamp="1476174119788">
         <mark key="[" line="75" column="95" />
         <mark key="]" line="33" column="54" />
@@ -481,7 +479,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/base_compat_act.xml" timestamp="1476324352478">
         <mark key="[" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/ce902532a348a685692095f86d14800314078813/okhttp-3.3.0-sources.jar!/okhttp3/OkHttpClient.java" timestamp="1476411461410" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/SearchListActivity.java" timestamp="1474898577365">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="50" column="20" />
@@ -679,7 +676,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/AdapterView.java" timestamp="1476424076631" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/login_frag.xml" timestamp="1476081184585">
         <mark key="[" line="93" column="44" />
       </file>
@@ -953,7 +949,6 @@
         <mark key="]" line="30" column="63" />
         <mark key="." line="30" column="63" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/AbsListView.java" timestamp="1476349706494" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/local/StorageLocalDataSource.java" timestamp="1476236995599">
         <mark key="[" line="80" column="22" />
         <mark key="]" line="80" column="22" />
@@ -1041,6 +1036,11 @@
         <mark key="[" line="28" column="46" />
         <mark key="]" line="38" column="18" />
         <mark key="." line="38" column="18" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/toolbar_main.xml" timestamp="1476430456173">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="35" />
+        <mark key="." line="9" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/JsonUtils.java" timestamp="1470730146875">
         <mark key="[" line="88" column="23" />
@@ -1169,7 +1169,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/BaseAdapter.java" timestamp="1476339023990" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/UserRepository.java" timestamp="1475544269617">
         <mark key="[" line="19" column="44" />
         <mark key="]" line="19" column="54" />
@@ -1186,7 +1185,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/AutoCompleteTextView.java" timestamp="1476349035370" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketFragment.java" timestamp="1471252593830">
         <mark key="[" line="105" column="44" />
         <mark key="]" line="105" column="44" />
@@ -1322,7 +1320,6 @@
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/Spinner.java" timestamp="1476417024479" />
       <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/.gitignore" timestamp="1476244643634">
         <mark key="[" line="4" column="16" />
       </file>
@@ -1482,10 +1479,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>确定</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>确定</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
