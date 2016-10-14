@@ -239,8 +239,8 @@
         <mark key="^" line="28" column="12" />
         <mark key="." line="114" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/res/layout/activity_main.xml" timestamp="1476289010195">
-        <mark key="[" line="13" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/res/layout/activity_main.xml" timestamp="1476404876021">
+        <mark key="[" line="13" column="41" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
@@ -644,11 +644,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/java/io/github/xudaojie/photogo/MainActivity.java" timestamp="1476377004643">
-        <mark key="[" line="25" column="71" />
-        <mark key="]" line="25" column="71" />
-        <mark key="." line="25" column="71" />
-        <mark key="^" line="36" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/java/io/github/xudaojie/photogo/MainActivity.java" timestamp="1476406742495">
+        <mark key="[" line="106" column="74" />
+        <mark key="]" line="106" column="74" />
+        <mark key="." line="106" column="74" />
+        <mark key="^" line="102" column="18" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/build/intermediates/res/merged/debug/values/values.xml" timestamp="1476326568128">
         <mark key="[" line="1733" column="21" />
@@ -1404,10 +1404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MediaStore.Images.</text>
+        <text>mActivity</text>
       </register>
       <register name="-" type="4">
-        <text>MediaStore.Images.</text>
+        <text>mActivity</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1415,40 +1415,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgaW50IGdldENvdW50KCkgewogICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBPYmplY3QgZ2V0SXRlbShpbnQgcG9zaXRpb24pIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgbG9uZyBnZXRJdGVtSWQoaW50IHBvc2l0aW9uKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFZpZXcgZ2V0VmlldyhpbnQgcG9zaXRpb24sIFZpZXcgY29udmVydFZpZXcsIFZpZXdHcm91cCBwYXJlbnQpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="4">
         <text>private String[] mOriginData;
 
         public ArrayFilter(String[] originData) {
             mOriginData = originData;
         }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChvdXRib3VuZExpc3RCZWFuLmdldERhdGEoKS5nZXRTaGVsZm9yZGVyc19sZW4oKSA9PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcub3BlbkNoZWNrRXhwSW5mbyhvdXRib3VuZExpc3RCZWFuKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcuc2hvd1NlYXJjaExpc3Qob3V0Ym91bmRMaXN0QmVhbiwgQ29uc3RhbnRzVGFrZS5NT0RFX0NPREUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if (outboundListBean.getData().getShelforders_len() == 1) {
                                 mView.openCheckExpInfo(outboundListBean);
                             } else {
                                 mView.showSearchList(outboundListBean, ConstantsTake.MODE_CODE);
                             }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PGEgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IjEiLz4KICAgICAgICAgICAgICAgIDwvY29tLmdvb2dsZS5hbmRyb2lkLmZsZXhib3guRmxleGJveExheW91dD4=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IjEiLz4KICAgICAgICAgICAgICAgIDwvY29tLmdvb2dsZS5hbmRyb2lkLmZsZXhib3guRmxleGJveExheW91dD4=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1457,7 +1457,7 @@
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
