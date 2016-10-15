@@ -482,10 +482,10 @@
         <mark key="]" line="131" column="3" />
         <mark key="." line="131" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/res/layout/test_item.xml" timestamp="1476461836044">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
+      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/res/layout/test_item.xml" timestamp="1476524764793">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/LoginBean.java" timestamp="1476424716250">
         <mark key="[" line="74" column="15" />
@@ -547,7 +547,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/PhraseListBean.java" timestamp="1476267401743">
         <mark key="[" line="5" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1476514787030">
+      <file name="/fragment.java" timestamp="1476525089633">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="20" />
@@ -581,11 +581,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/java/io/github/xudaojie/photogo/MainActivity.java" timestamp="1476515852198">
-        <mark key="[" line="45" column="43" />
-        <mark key="]" line="74" column="35" />
-        <mark key="." line="74" column="35" />
-        <mark key="^" line="74" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/java/io/github/xudaojie/photogo/MainActivity.java" timestamp="1476522585445">
+        <mark key="[" line="45" column="78" />
+        <mark key="]" line="75" column="35" />
+        <mark key="." line="75" column="35" />
+        <mark key="^" line="75" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/build/intermediates/res/merged/debug/values/values.xml" timestamp="1476326568128">
         <mark key="[" line="1733" column="21" />
@@ -613,6 +613,9 @@
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyLinearLayoutManager.java" timestamp="1476525100409">
+        <mark key="[" line="9" column="35" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/CommonDataSource.java" timestamp="1476321070460">
         <mark key="[" line="45" column="15" />
         <mark key="]" line="45" column="15" />
@@ -638,8 +641,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/java/io/github/xudaojie/photogo/MyLayoutManager.java" timestamp="1476515307788">
-        <mark key="[" line="12" column="29" />
+      <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/java/io/github/xudaojie/photogo/MyLayoutManager.java" timestamp="1476525512681">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+        <mark key="^" line="36" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/RunDbSwitchFragment.java" timestamp="1470036825422">
         <mark key="[" line="71" column="0" />
@@ -660,6 +666,9 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MainActivity.java" timestamp="1476525149684">
+        <mark key="[" line="18" column="109" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/res/animator/test.xml" timestamp="1476462708969">
         <mark key="[" line="7" column="28" />
@@ -779,7 +788,7 @@
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/24.2.1/recyclerview-v7-24.2.1-sources.jar!/android/support/v7/widget/GridLayoutManager.java" timestamp="1476515310378" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/24.2.1/recyclerview-v7-24.2.1-sources.jar!/android/support/v7/widget/GridLayoutManager.java" timestamp="1476522492315" />
       <file name="$USER_HOME$/AndroidStudioProjects/KSYStreamer_Android/demo/build.gradle" timestamp="1471969197822">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="24" />
@@ -1289,10 +1298,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>WRAP_CONTENT</text>
+        <text>@Override
+    public int scrollVerticallyBy(int dy, RecyclerView.Recycler recycler, RecyclerView.State state) {
+//        return super.scrollVerticallyBy(dy, recycler, state);
+        return mscrolltest += 100;
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>WRAP_CONTENT</text>
+        <text>30dp</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1301,52 +1314,44 @@
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>public String getPath() {
-        return mPath;
-    }
-
-    public void setPath(String path) {
-        mPath = path;
+        <text>@Override
+    public int scrollVerticallyBy(int dy, RecyclerView.Recycler recycler, RecyclerView.State state) {
+//        return super.scrollVerticallyBy(dy, recycler, state);
+        return mscrolltest += 100;
     }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text>mDataSource = dataSource;
-        mView = view;
-        mSchedulerProvider = schedulerProvider;
-        mResult = result;
-
-        mSubscriptions = new CompositeSubscription();
-        mView.setPresenter(this);</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtRXhwQ29tU3Bpbm5lci5zZXRBZGFwdGVyKGhpbnRBZGFwdGVyKTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgeGRqIG9uIDIwMTYvMTAvMTUuCiAqLwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLmV4cF9jb21fc3Bpbm5lcikKICAgIEFwcENvbXBhdFNwaW5uZXIgbUV4cENvbVNwaW5uZXI7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHB1YmxpYyBNeUxheW91dE1hbmFnZXIoQ29udGV4dCBjb250ZXh0LCBBdHRyaWJ1dGVTZXQgYXR0cnMsIGludCBkZWZTdHlsZUF0dHIsIGludCBkZWZTdHlsZVJlcykgewogICAgICAgIHN1cGVyKGNvbnRleHQsIGF0dHJzLCBkZWZTdHlsZUF0dHIsIGRlZlN0eWxlUmVzKTsKICAgIH0KCiAgICBwdWJsaWMgTXlMYXlvdXRNYW5hZ2VyKENvbnRleHQgY29udGV4dCwgaW50IHNwYW5Db3VudCkgewogICAgICAgIHN1cGVyKGNvbnRleHQsIHNwYW5Db3VudCk7CiAgICB9CgogICAgcHVibGljIE15TGF5b3V0TWFuYWdlcihDb250ZXh0IGNvbnRleHQsIGludCBzcGFuQ291bnQsIGludCBvcmllbnRhdGlvbiwgYm9vbGVhbiByZXZlcnNlTGF5b3V0KSB7CiAgICAgICAgc3VwZXIoY29udGV4dCwgc3BhbkNvdW50LCBvcmllbnRhdGlvbiwgcmV2ZXJzZUxheW91dCk7CiAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IDxhbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LkFwcENvbXBhdFNwaW5uZXIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9leHBfY29tX3NwaW5uZXIiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9zcGlubmVyX2JhY2tncm91bmQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iZW5kfGNlbnRlcl9ob3Jpem9udGFsIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOm1pbldpZHRoPSI4MGRwIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdSaWdodD0iQGRpbWVuL3BhZGRpbmdfc21hbGwiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6c3Bpbm5lck1vZGU9ImRpYWxvZyIvPg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFJlY3ljbGVyVmlldy5MYXlvdXRQYXJhbXMgZ2VuZXJhdGVEZWZhdWx0TGF5b3V0UGFyYW1zKCkgewovLyAgICAgICAgcmV0dXJuIHN1cGVyLmdlbmVyYXRlRGVmYXVsdExheW91dFBhcmFtcygpOwogICAgICAgIHJldHVybiBuZXcgUmVjeWNsZXJWaWV3LkxheW91dFBhcmFtcyhWaWV3R3JvdXAuTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCwgVmlld0dyb3VwLkxheW91dFBhcmFtcy5NQVRDSF9QQVJFTlQpOwogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN1YnNjcmlwdGlvbiBzICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dWJzY3JpcHRpb24gPSBtQ29tbW9uRGF0YVNvdXJjZS5nZXRFeHByZXNzQ29tTGlzdCgpCi8vICAgICAgICAgICAgICAgIC5vYnNlcnZlT24obVNjaGVkdWxlclByb3ZpZGVyLnVpKCkpCi8vICAgICAgICAgICAgICAgIC5mbGF0TWFwKG5ldyBGdW5jMTxFeHByZXNzQ29tTGlzdEJlYW4sIE9ic2VydmFibGU8UGhvbmVMaXN0QmVhbj4+KCkgewovLyAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgICAgICAgICBwdWJsaWMgT2JzZXJ2YWJsZTxQaG9uZUxpc3RCZWFuPiBjYWxsKEV4cHJlc3NDb21MaXN0QmVhbiBleHByZXNzQ29tTGlzdEJlYW4pIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBpZiAoU2VydmljZVV0aWxzLmlzU3VjY2VzcyhleHByZXNzQ29tTGlzdEJlYW4uZ2V0UmV0dXJuQ29kZSgpKSkgewovLwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc2hvcCA9IG1Vc2VyRGF0YVNvdXJjZS5nZXRVc2VySW5mbygpLmdldERhdGEoKS5nZXRVc2VyaW5mbygpLmdldFN0b3JlbmFtZSgpOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAobVNoZWxmTm8gPT0gbnVsbCkgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbVNoZWxmTm8gPSAiIjsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAobUV4cE5vID09IG51bGwpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1FeHBObyA9ICIiOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1WaWV3LmxvYWRJbmZvKHNob3AsIG1TaGVsZk5vLCBtRXhwTm8sIG1FeHBDb21JZCwgZXhwcmVzc0NvbUxpc3RCZWFuKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG1Db21tb25EYXRhU291cmNlLmdldFBob25lTGlzdCgpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgICAgICAgICBtVmlldy5zaG93RGVzY3JpcHRpb24oIuivt+ajgOafpee9kee7nOWQjumHjeivlSIpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIG1WaWV3LnNob3dQcm9ncmVzcyhmYWxzZSk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuZW1wdHkoKTsKLy8gICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgfSkKLy8gICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uKG1TY2hlZHVsZXJQcm92aWRlci5pbygpKQovLyAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKG1TY2hlZHVsZXJQcm92aWRlci51aSgpKQovLyAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKG5ldyBPYnNlcnZlcjxQaG9uZUxpc3RCZWFuPigpIHsKLy8gICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25Db21wbGV0ZWQoKSB7Ci8vICAgICAgICAgICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRXJyb3IoVGhyb3dhYmxlIGUpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZShlKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBtVmlldy5zaG93UHJvZ3Jlc3MoZmFsc2UpOwovLy8vICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcuc2hvd0Rlc2NyaXB0aW9uKCLor7fmo4Dmn6XnvZHnu5zlkI7ph43or5UiKTsKLy8gICAgICAgICAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25OZXh0KFBob25lTGlzdEJlYW4gZXhwcmVzc0NvbUxpc3RCZWFuKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcuc2hvd1Byb2dyZXNzKGZhbHNlKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBpZiAoU2VydmljZVV0aWxzLmlzU3VjY2VzcyhleHByZXNzQ29tTGlzdEJlYW4uZ2V0UmV0dXJuQ29kZSgpKSkgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBtVmlldy5sb2FkUGhvbmVMaXN0KGV4cHJlc3NDb21MaXN0QmVhbik7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcuc2hvd0Rlc2NyaXB0aW9uKGV4cHJlc3NDb21MaXN0QmVhbi5nZXRNc2coKSk7Ci8vICAgICAgICAgICAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIFJlY3ljbGVyVmlldy5MYXlvdXRQYXJhbXMgZ2VuZXJhdGVMYXlvdXRQYXJhbXMoQ29udGV4dCBjLCBBdHRyaWJ1dGVTZXQgYXR0cnMpIHsKLy8gICAgICAgIHJldHVybiBzdXBlci5nZW5lcmF0ZUxheW91dFBhcmFtcyhjLCBhdHRycyk7CiAgICAgICAgcmV0dXJuIG5ldyBSZWN5Y2xlclZpZXcuTGF5b3V0UGFyYW1zKFZpZXdHcm91cC5MYXlvdXRQYXJhbXMuTUFUQ0hfUEFSRU5ULCBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgUmVjeWNsZXJWaWV3LkxheW91dFBhcmFtcyBnZW5lcmF0ZUxheW91dFBhcmFtcyhWaWV3R3JvdXAuTGF5b3V0UGFyYW1zIGxwKSB7Ci8vICAgICAgICByZXR1cm4gc3VwZXIuZ2VuZXJhdGVMYXlvdXRQYXJhbXMobHApOwogICAgICAgIHJldHVybiBuZXcgUmVjeWNsZXJWaWV3LkxheW91dFBhcmFtcyhSZWN5Y2xlclZpZXcuTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCwgUmVjeWNsZXJWaWV3LkxheW91dFBhcmFtcy5NQVRDSF9QQVJFTlQpOwogICAg</text>
       </register>
     </registers>
     <search>
