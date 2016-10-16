@@ -97,6 +97,9 @@
         <mark key="]" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/greedo-layout-for-android/greedo-layout-sample/src/main/java/com/fivehundredpx/greedo_layout_sample/PhotosAdapter.java" timestamp="1476614909673">
+        <mark key="[" line="15" column="46" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/DiscountZoneAty.java" timestamp="1466753704244">
         <mark key="[" line="141" column="78" />
         <mark key="]" line="141" column="78" />
@@ -388,7 +391,7 @@
         <mark key="." line="50" column="20" />
       </file>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/support/v7/widget/OrientationHelper.java" timestamp="1476546910974" />
-      <file name="$USER_HOME$/AndroidStudioProjects/greedo-layout-for-android/greedo-layout/src/main/java/com/fivehundredpx/greedolayout/GreedoLayoutManager.java" timestamp="1476614181265" />
+      <file name="$USER_HOME$/AndroidStudioProjects/greedo-layout-for-android/greedo-layout/src/main/java/com/fivehundredpx/greedolayout/GreedoLayoutManager.java" timestamp="1476617543133" />
       <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/java/io/github/xudaojie/photogo/ImageItemViewProvider.java" timestamp="1476506254297">
         <mark key="[" line="20" column="68" />
         <mark key="]" line="26" column="44" />
@@ -530,11 +533,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/PhraseListBean.java" timestamp="1476267401743">
         <mark key="[" line="5" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1476613632497">
+      <file name="/fragment.java" timestamp="1476617469956">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/DisplayUtil.java" timestamp="1464939861048">
         <mark key="[" line="15" column="28" />
@@ -597,11 +600,11 @@
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyLinearLayoutManager.java" timestamp="1476614615019">
-        <mark key="[" line="68" column="30" />
-        <mark key="]" line="37" column="57" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyLinearLayoutManager.java" timestamp="1476617756815">
+        <mark key="[" line="122" column="20" />
+        <mark key="]" line="122" column="20" />
         <mark key="^" line="37" column="57" />
-        <mark key="." line="37" column="57" />
+        <mark key="." line="122" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/CommonDataSource.java" timestamp="1476321070460">
         <mark key="[" line="45" column="15" />
@@ -1254,17 +1257,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>```
-if (holder == null) {
- holder = mAdapter.createViewHolder(RecyclerView.this, type);
- if (DEBUG) {
-     Log.d(TAG, &quot;getViewForPosition created new ViewHolder&quot;);
- }
-}
-```</text>
+        <text>removeAndRecycleView</text>
       </register>
       <register name="-" type="4">
-        <text>xxx</text>
+        <text>removeAndRecycleView</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1272,7 +1268,22 @@ if (holder == null) {
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Z2V0Q2hpbGRDb3VudCgpCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICBSZWN0IGNoaWxkRnJhbWUgPSBtSXRlbUZyYW1lcy5nZXQoaSk7CiAgICAgICAgICAgICAgICBpZiAoY2hpbGRGcmFtZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cmVjeWNsZXIuZ2V0U2NyYXBMaXN0KCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Z2V0Q2hpbGRDb3VudCgpCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>```
 if (holder == null) {
  holder = mAdapter.createViewHolder(RecyclerView.this, type);
@@ -1282,43 +1293,24 @@ if (holder == null) {
 }
 ```</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>``` 
 ```</text>
-      </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKGdldENoaWxkQXQoMCkuZ2V0VG9wKCkgLSBzY3JvbGxlZCA+IDApIHsKICAgICAgICAgICAgc2Nyb2xsZWQgPSAwOwogICAgICAgIH0=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKGdldENoaWxkQ291bnQoKSA9PSAwIHx8IGR5ID09IDApIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQogICAgICAgIG1MYXlvdXRTdGF0ZS5tUmVjeWNsZSA9IHRydWU7CiAgICAgICAgZW5zdXJlTGF5b3V0U3RhdGUoKTsKICAgICAgICBmaW5hbCBpbnQgbGF5b3V0RGlyZWN0aW9uID0gZHkgPiAwID8gTGluZWFyTGF5b3V0TWFuYWdlci5MYXlvdXRTdGF0ZS5MQVlPVVRfRU5EIDogTGluZWFyTGF5b3V0TWFuYWdlci5MYXlvdXRTdGF0ZS5MQVlPVVRfU1RBUlQ7CiAgICAgICAgZmluYWwgaW50IGFic0R5ID0gTWF0aC5hYnMoZHkpOwogICAgICAgIHVwZGF0ZUxheW91dFN0YXRlKGxheW91dERpcmVjdGlvbiwgYWJzRHksIHRydWUsIHN0YXRlKTsKICAgICAgICBmaW5hbCBpbnQgY29uc3VtZWQgPSBtTGF5b3V0U3RhdGUubVNjcm9sbGluZ09mZnNldAogICAgICAgICAgICAgICAgKyBmaWxsKHJlY3ljbGVyLCBtTGF5b3V0U3RhdGUsIHN0YXRlLCBmYWxzZSk7CiAgICAgICAgaWYgKGNvbnN1bWVkIDwgMCkgewogICAgICAgICAgICBpZiAoREVCVUcpIHsKICAgICAgICAgICAgICAgIExvZy5kKFRBRywgIkRvbid0IGhhdmUgYW55IG1vcmUgZWxlbWVudHMgdG8gc2Nyb2xsIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQogICAgICAgIGZpbmFsIGludCBzY3JvbGxlZCA9IGFic0R5ID4gY29uc3VtZWQgPyBsYXlvdXREaXJlY3Rpb24gKiBjb25zdW1lZCA6IGR5OwogICAgICAgIG1PcmllbnRhdGlvbkhlbHBlci5vZmZzZXRDaGlsZHJlbigtc2Nyb2xsZWQpOwogICAgICAgIG1MYXlvdXRTdGF0ZS5tTGFzdFNjcm9sbERlbHRhID0gc2Nyb2xsZWQ7</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoREVCVUcpIHsKICAgICAgICAgICAgTG9nLmQoVEFHLCAic2Nyb2xsIHJlcTogIiArIGR5ICsgIiBzY3JvbGxlZDogIiArIHNjcm9sbGVkKTsKICAgICAgICB9</text>
-      </register>
-      <register name="6" type="4">
-        <text>@Override
-    public int scrollVerticallyBy(int dy, RecyclerView.Recycler recycler, RecyclerView.State state) {
-//        return super.scrollVerticallyBy(dy, recycler, state);
-        return mscrolltest += 100;
-    }</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">aWYgKGdldENoaWxkQXQoMCkuZ2V0VG9wKCkgLSBzY3JvbGxlZCA+IDApIHsKICAgICAgICAgICAgc2Nyb2xsZWQgPSAwOwogICAgICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKGdldENoaWxkQ291bnQoKSA9PSAwIHx8IGR5ID09IDApIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQogICAgICAgIG1MYXlvdXRTdGF0ZS5tUmVjeWNsZSA9IHRydWU7CiAgICAgICAgZW5zdXJlTGF5b3V0U3RhdGUoKTsKICAgICAgICBmaW5hbCBpbnQgbGF5b3V0RGlyZWN0aW9uID0gZHkgPiAwID8gTGluZWFyTGF5b3V0TWFuYWdlci5MYXlvdXRTdGF0ZS5MQVlPVVRfRU5EIDogTGluZWFyTGF5b3V0TWFuYWdlci5MYXlvdXRTdGF0ZS5MQVlPVVRfU1RBUlQ7CiAgICAgICAgZmluYWwgaW50IGFic0R5ID0gTWF0aC5hYnMoZHkpOwogICAgICAgIHVwZGF0ZUxheW91dFN0YXRlKGxheW91dERpcmVjdGlvbiwgYWJzRHksIHRydWUsIHN0YXRlKTsKICAgICAgICBmaW5hbCBpbnQgY29uc3VtZWQgPSBtTGF5b3V0U3RhdGUubVNjcm9sbGluZ09mZnNldAogICAgICAgICAgICAgICAgKyBmaWxsKHJlY3ljbGVyLCBtTGF5b3V0U3RhdGUsIHN0YXRlLCBmYWxzZSk7CiAgICAgICAgaWYgKGNvbnN1bWVkIDwgMCkgewogICAgICAgICAgICBpZiAoREVCVUcpIHsKICAgICAgICAgICAgICAgIExvZy5kKFRBRywgIkRvbid0IGhhdmUgYW55IG1vcmUgZWxlbWVudHMgdG8gc2Nyb2xsIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQogICAgICAgIGZpbmFsIGludCBzY3JvbGxlZCA9IGFic0R5ID4gY29uc3VtZWQgPyBsYXlvdXREaXJlY3Rpb24gKiBjb25zdW1lZCA6IGR5OwogICAgICAgIG1PcmllbnRhdGlvbkhlbHBlci5vZmZzZXRDaGlsZHJlbigtc2Nyb2xsZWQpOwogICAgICAgIG1MYXlvdXRTdGF0ZS5tTGFzdFNjcm9sbERlbHRhID0gc2Nyb2xsZWQ7</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgeGRqIG9uIDIwMTYvMTAvMTUuCiAqLwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoREVCVUcpIHsKICAgICAgICAgICAgTG9nLmQoVEFHLCAic2Nyb2xsIHJlcTogIiArIGR5ICsgIiBzY3JvbGxlZDogIiArIHNjcm9sbGVkKTsKICAgICAgICB9</text>
       </register>
     </registers>
     <search>
