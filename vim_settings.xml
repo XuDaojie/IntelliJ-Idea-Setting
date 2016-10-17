@@ -208,7 +208,9 @@
         <mark key="]" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/build.gradle" timestamp="1476672172005" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/build.gradle" timestamp="1476687332366">
+        <mark key="[" line="13" column="22" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/service/CommonService.java" timestamp="1476323898108">
         <mark key="[" line="50" column="78" />
         <mark key="]" line="50" column="78" />
@@ -490,7 +492,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476673433380">
+      <file name="/Dummy.txt" timestamp="1476688272635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -755,11 +757,11 @@
         <mark key="]" line="85" column="20" />
         <mark key="." line="85" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/UpdateUtils.java" timestamp="1476676685219">
-        <mark key="[" line="243" column="5" />
-        <mark key="]" line="94" column="65" />
-        <mark key="." line="94" column="65" />
-        <mark key="^" line="94" column="65" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/UpdateUtils.java" timestamp="1476687765322">
+        <mark key="[" line="165" column="19" />
+        <mark key="]" line="165" column="19" />
+        <mark key="." line="165" column="19" />
+        <mark key="^" line="188" column="18" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/widget/FilterDialog.java" timestamp="1476343301992">
         <mark key="[" line="22" column="26" />
@@ -780,7 +782,7 @@
         <mark key="." line="92" column="9" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/App.java" timestamp="1476675282000">
-        <mark key="[" line="25" column="91" />
+        <mark key="[" line="24" column="91" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/widget/SlidingDrawerListView.java" timestamp="1470290392517">
         <mark key="[" line="6" column="43" />
@@ -1360,10 +1362,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xxx</text>
+        <text encoding="base64">IEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQWZ0ZXIoQE51bGxhYmxlIEZpbGUgZmlsZSwgQE51bGxhYmxlIEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN1cGVyLm9uQWZ0ZXIoZmlsZSwgZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KGN0eCwgIuW8gOWni+S4i+i9vSIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>xxx</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1372,6 +1374,24 @@
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQWZ0ZXIoQE51bGxhYmxlIEZpbGUgZmlsZSwgQE51bGxhYmxlIEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN1cGVyLm9uQWZ0ZXIoZmlsZSwgZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KGN0eCwgIuW8gOWni+S4i+i9vSIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwogICAgICAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgaWYgKCFwcm9ncmVzc0RpYWxvZy5pc1Nob3dpbmcoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3NEaWFsb2cuc2hvdygpOwogICAgICAgICAgICAgICAgICAgICAgICB9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>new  {
                     @Override
                     public void onSuccess(String s, Call call, Response response) {
@@ -1380,46 +1400,20 @@
                     
                 }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cmVjeWNsZXIuZ2V0U2NyYXBMaXN0KCkK</text>
-      </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Z2V0Q2hpbGRDb3VudCgpCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBSZWN0IGNoaWxkRnJhbWUgPSBtSXRlbUZyYW1lcy5nZXQoaSk7CiAgICAgICAgICAgICAgICBpZiAoY2hpbGRGcmFtZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cmVjeWNsZXIuZ2V0U2NyYXBMaXN0KCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Z2V0Q2hpbGRDb3VudCgpCg==</text>
-      </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text>```
-if (holder == null) {
- holder = mAdapter.createViewHolder(RecyclerView.this, type);
- if (DEBUG) {
-     Log.d(TAG, &quot;getViewForPosition created new ViewHolder&quot;);
- }
-}
-```</text>
+      <register name="7" type="2">
+        <text encoding="base64">cmVjeWNsZXIuZ2V0U2NyYXBMaXN0KCkK</text>
       </register>
-      <register name="8" type="4">
-        <text>``` 
-```</text>
+      <register name="8" type="2">
+        <text encoding="base64">Z2V0Q2hpbGRDb3VudCgpCg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYgKGdldENoaWxkQXQoMCkuZ2V0VG9wKCkgLSBzY3JvbGxlZCA+IDApIHsKICAgICAgICAgICAgc2Nyb2xsZWQgPSAwOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICBSZWN0IGNoaWxkRnJhbWUgPSBtSXRlbUZyYW1lcy5nZXQoaSk7CiAgICAgICAgICAgICAgICBpZiAoY2hpbGRGcmFtZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9</text>
       </register>
     </registers>
     <search>
