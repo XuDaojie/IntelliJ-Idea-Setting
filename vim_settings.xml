@@ -139,6 +139,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/24.2.1/recyclerview-v7-24.2.1-sources.jar!/android/support/v7/widget/LinearLayoutManager.java" timestamp="1476758108416" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunDbSwitchListActivity.java" timestamp="1470020948899">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="43" column="0" />
@@ -333,7 +334,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/flexbox/src/main/res/values/styles.xml" timestamp="1476232881363">
         <mark key="[" line="18" column="66" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/24.2.1/recyclerview-v7-24.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1476721062440" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/24.2.1/recyclerview-v7-24.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1476757601661" />
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/activity/FindActivity.java" timestamp="1465284829894">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
@@ -427,7 +428,9 @@
         <mark key="]" line="50" column="20" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/greedo-layout-for-android/greedo-layout/src/main/java/com/fivehundredpx/greedolayout/GreedoLayoutManager.java" timestamp="1476718305072" />
+      <file name="$USER_HOME$/AndroidStudioProjects/greedo-layout-for-android/greedo-layout/src/main/java/com/fivehundredpx/greedolayout/GreedoLayoutManager.java" timestamp="1476754222537">
+        <mark key="[" line="217" column="47" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/app/build.gradle" timestamp="1475935242717">
         <mark key="[" line="35" column="53" />
         <mark key="]" line="35" column="54" />
@@ -568,7 +571,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/PhraseListBean.java" timestamp="1476267401743">
         <mark key="[" line="5" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1476721195661">
+      <file name="/fragment.java" timestamp="1476757626618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="8" />
@@ -597,6 +600,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/login_frag.xml" timestamp="1476081184585">
         <mark key="[" line="93" column="44" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/support/v7/widget/LinearLayoutManager.java" timestamp="1476757721241" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/IsasServerFragment.java" timestamp="1465350571560">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -628,11 +632,12 @@
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyLinearLayoutManager.java" timestamp="1476752481763">
-        <mark key="[" line="163" column="48" />
-        <mark key="]" line="40" column="55" />
-        <mark key="^" line="40" column="55" />
-        <mark key="." line="40" column="55" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyLinearLayoutManager.java" timestamp="1476758669068">
+        <mark key="'" line="181" column="30" />
+        <mark key="[" line="185" column="36" />
+        <mark key="]" line="185" column="36" />
+        <mark key="^" line="42" column="55" />
+        <mark key="." line="185" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/CommonDataSource.java" timestamp="1476321070460">
         <mark key="[" line="45" column="15" />
@@ -1313,13 +1318,14 @@
       <jump line="50" column="101" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/ExpressNoSearchPresenter.java" />
       <jump line="85" column="12" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/rxjava/src/main/java/io/github/xudaojie/rxjava/MainActivity.java" />
       <jump line="28" column="29" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/SearchContact.java" />
+      <jump line="174" column="30" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyLinearLayoutManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>recycler</text>
+        <text>view</text>
       </register>
       <register name="-" type="4">
-        <text>recycler</text>
+        <text>view</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
