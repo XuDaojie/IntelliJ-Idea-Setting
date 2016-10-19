@@ -443,11 +443,11 @@
         <mark key="]" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyExpandGridLayoutManager.java" timestamp="1476841193010">
-        <mark key="[" line="68" column="17" />
-        <mark key="]" line="57" column="46" />
-        <mark key="." line="57" column="46" />
-        <mark key="^" line="57" column="46" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyExpandGridLayoutManager.java" timestamp="1476842337582">
+        <mark key="[" line="72" column="17" />
+        <mark key="]" line="61" column="46" />
+        <mark key="." line="61" column="46" />
+        <mark key="^" line="61" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/fragment_home.xml" timestamp="1466755799166">
         <mark key="[" line="165" column="47" />
@@ -539,7 +539,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476779533518">
+      <file name="/Dummy.txt" timestamp="1476842538237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -637,7 +637,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/PhraseListBean.java" timestamp="1476267401743">
         <mark key="[" line="5" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1476841205335">
+      <file name="/fragment.java" timestamp="1476842338879">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="8" />
@@ -1309,8 +1309,8 @@
         <mark key="^" line="136" column="55" />
         <mark key="." line="133" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/res/layout/recycler_item.xml" timestamp="1476720276387">
-        <mark key="[" line="12" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/res/layout/recycler_item.xml" timestamp="1476842755443">
+        <mark key="[" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/item_gv_img.xml" timestamp="1470910812468">
         <mark key="[" line="9" column="31" />
@@ -1441,10 +1441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>groupWidth</text>
+        <text>frame</text>
       </register>
       <register name="-" type="4">
-        <text>groupWidth</text>
+        <text>frame</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1452,46 +1452,46 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aSA9PSA1Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>if (gridPosition == 4) {
                     gridPosition = 0;
                     offsetY += childHeight;
                 }</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>else {
                     
                 }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBpZiAob2Zmc2V0WSA8IGdldFZlcnRpY2FsU3BhY2UoKSkgewovLyAgICAgICAgICAgICAgICBWaWV3IHZpZXcgPSBnZXRDaGlsZEF0KGkpOwovLyAgICAgICAgICAgICAgICAvL+i/memHjOWwseaYr+S7jue8k+WtmOmHjOmdouWPluWHuiDlpoLmnpznvJPlrZjkuK3kuI3lrZjlnKjliJnkvJrliJvlu7rmlrDnmoRWaWV3SG9sZGVyCi8vICAgICAgICAgICAgICAgIGlmICh2aWV3ID09IG51bGwpIHsKLy8gICAgICAgICAgICAgICAgICAgIHZpZXcgPSByZWN5Y2xlci5nZXRWaWV3Rm9yUG9zaXRpb24oaSk7Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAiLS0iICsgdmlldy50b1N0cmluZygpKTsKLy8gICAgICAgICAgICAgICAgLy/lsIZWaWV35Yqg5YWl5YiwUmVjeWNsZXJWaWV35LitCi8vICAgICAgICAgICAgICAgIGFkZFZpZXcodmlldyk7Ci8vICAgICAgICAgICAgICAgIC8v5a+55a2QVmlld+i/m+ihjOa1i+mHjwovLyAgICAgICAgICAgICAgICBtZWFzdXJlQ2hpbGRXaXRoTWFyZ2lucyh2aWV3LCAwLCAwKTsKLy8gICAgICAgICAgICAgICAgLy/miorlrr3pq5jmi7/liLDvvIzlrr3pq5jpg73mmK/ljIXlkKtJdGVtRGVjb3JhdGXnmoTlsLrlr7gKLy8gICAgICAgICAgICAgICAgY2hpbGRXaWR0aCA9IGdldERlY29yYXRlZE1lYXN1cmVkV2lkdGgodmlldyk7Ci8vICAgICAgICAgICAgICAgIGNoaWxkSGVpZ2h0ID0gZ2V0RGVjb3JhdGVkTWVhc3VyZWRIZWlnaHQodmlldyk7Ci8vICAgICAgICAgICAgICAgIC8v5pyA5ZCO77yM5bCGVmlld+W4g+WxgAovLyAgICAgICAgICAgICAgICBsYXlvdXREZWNvcmF0ZWQodmlldywgMCwgb2Zmc2V0WSwgY2hpbGRXaWR0aCwgb2Zmc2V0WSArIGNoaWxkSGVpZ2h0KTsKLy8gICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PFJlbGF0aXZlTGF5b3V0CiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IiIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiI+PC9SZWxhdGl2ZUxheW91dD4=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYWMK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGlwc190diIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IkBkaW1lbi9wYWRkaW5nX25vcm1hbCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTNzcCIKICAgICAgICAgICAgdG9vbHM6dGV4dD0i5om+5Yiw5YWz5LqOYOmhuuS4sGDnmoQx5p2h57uT5p6cYCIvPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYWMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGlwc190diIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IkBkaW1lbi9wYWRkaW5nX25vcm1hbCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTNzcCIKICAgICAgICAgICAgdG9vbHM6dGV4dD0i5om+5Yiw5YWz5LqOYOmhuuS4sGDnmoQx5p2h57uT5p6cYCIvPg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBpZiAoTXNnVXRpbHMuaXNFbXB0eShzaGVsZk5vLCAi6LSn5p625Y+35LiN6IO95Li656m6IikpIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
