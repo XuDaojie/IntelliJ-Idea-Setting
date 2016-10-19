@@ -343,7 +343,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/flexbox/src/main/res/values/styles.xml" timestamp="1476232881363">
         <mark key="[" line="18" column="66" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/24.2.1/recyclerview-v7-24.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1476843606647" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/24.2.1/recyclerview-v7-24.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1476855299673" />
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/activity/FindActivity.java" timestamp="1465284829894">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
@@ -420,11 +420,11 @@
         <mark key="]" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyExpandGridLayoutManager.java" timestamp="1476848478529">
-        <mark key="[" line="171" column="57" />
-        <mark key="]" line="174" column="43" />
-        <mark key="." line="174" column="43" />
-        <mark key="^" line="174" column="43" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyExpandGridLayoutManager.java" timestamp="1476856132021">
+        <mark key="[" line="185" column="57" />
+        <mark key="]" line="188" column="43" />
+        <mark key="." line="188" column="43" />
+        <mark key="^" line="188" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/fragment_home.xml" timestamp="1466755799166">
         <mark key="[" line="165" column="47" />
@@ -590,7 +590,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/PhraseListBean.java" timestamp="1476267401743">
         <mark key="[" line="5" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1476847642284">
+      <file name="/fragment.java" timestamp="1476855765373">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="8" />
@@ -1355,10 +1355,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>match_parent</text>
+        <text>attrs</text>
       </register>
       <register name="-" type="4">
-        <text>match_parent</text>
+        <text>attrs</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
