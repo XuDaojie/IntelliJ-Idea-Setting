@@ -212,6 +212,7 @@
         <mark key="^" line="235" column="54" />
         <mark key="." line="235" column="54" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/ExpandableListView.java" timestamp="1476977960515" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/api/QuetionServer.java" timestamp="1470810933758">
         <mark key="[" line="101" column="59" />
         <mark key="]" line="101" column="59" />
@@ -341,6 +342,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/24.2.1/recyclerview-v7-24.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1476978630537" />
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/activity/FindActivity.java" timestamp="1465284829894">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
@@ -597,6 +599,7 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/BaseExpandableListAdapter.java" timestamp="1476978101893" />
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/build.gradle" timestamp="1465901927691">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -896,11 +899,10 @@
         <mark key="]" line="84" column="27" />
         <mark key="." line="84" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyExpendGridAdapter.java" timestamp="1476957140498">
-        <mark key="[" line="64" column="38" />
-        <mark key="]" line="56" column="38" />
-        <mark key="." line="56" column="38" />
-        <mark key="^" line="56" column="38" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyExpendGridAdapter.java" timestamp="1476979635424">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="12" />
+        <mark key="." line="40" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/fragment/myanswer/vh/MyAnswerVH.java" timestamp="1471326274802">
         <mark key="[" line="82" column="9" />
@@ -1341,10 +1343,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RecyclerView.ViewHolder</text>
+        <text>mGroupPositions.indexOf(position)</text>
       </register>
       <register name="-" type="4">
-        <text>RecyclerView.ViewHolder</text>
+        <text>mGroupPositions.indexOf(position)</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1352,43 +1354,49 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>if (mGroupPositions.indexOf(position) != -1) {
+            return getGroupType(position);
+        } else {
+
+        }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBhYnN0cmFjdCB2b2lkIHMoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>if (isGroup(position)) {
+            return getGroupType(position);
+        } else {
+            return getChildType(position);
+        }</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyIG9uQ3JlYXRlVmlld0hvbGRlcihWaWV3R3JvdXAgcGFyZW50LCBpbnQgdmlld1R5cGUpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uQmluZFZpZXdIb2xkZXIoUmVjeWNsZXJWaWV3LlZpZXdIb2xkZXIgaG9sZGVyLCBpbnQgcG9zaXRpb24pIHsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGdldEl0ZW1Db3VudCgpIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0=</text>
+        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNHcm91cChpbnQgcG9zaXRpb24pIHsKCiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VXBkYXRlIE15TGluZWFyTGF5b3V0TWFuYWdlcgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgQE92ZXJyaWRlCi8vICAgIHB1YmxpYyBSZWN5Y2xlclZpZXcuTGF5b3V0UGFyYW1zIGdlbmVyYXRlTGF5b3V0UGFyYW1zKENvbnRleHQgYywgQXR0cmlidXRlU2V0IGF0dHJzKSB7Ci8vICAgICAgICByZXR1cm4gc3VwZXIuZ2VuZXJhdGVMYXlvdXRQYXJhbXMoYywgYXR0cnMpOwovLyAgICAgICAgcmV0dXJuIG5ldyBSZWN5Y2xlclZpZXcuTGF5b3V0UGFyYW1zKAovLyAgICAgICAgICAgICAgICBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zLldSQVBfQ09OVEVOVCwKLy8gICAgICAgICAgICAgICAgVmlld0dyb3VwLkxheW91dFBhcmFtcy5XUkFQX0NPTlRFTlQpOwovLyAgICB9Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBNeUV4cGVuZEdyaWRBZGFwdGVyKExpc3Q8U3RyaW5nPiBncm91cHMsIExpc3Q8U3RyaW5nPiBjaGlsZHMpIHsKICAgICAgICBtR3JvdXBzID0gZ3JvdXBzOwogICAgICAgIG1DaGlsZHMgPSBjaGlsZHM7CiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IHByaXZhdGUgTGlzdDxTdHJpbmc+IG1Hcm91cHM7CiAgICBwcml2YXRlIExpc3Q8U3RyaW5nPiBtQ2hpbGRzOw==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBhYnN0cmFjdCB2b2lkIHMoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="4">
-        <text>if (mScanMode != -1) {
-                
-            }</text>
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyIG9uQ3JlYXRlVmlld0hvbGRlcihWaWV3R3JvdXAgcGFyZW50LCBpbnQgdmlld1R5cGUpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uQmluZFZpZXdIb2xkZXIoUmVjeWNsZXJWaWV3LlZpZXdIb2xkZXIgaG9sZGVyLCBpbnQgcG9zaXRpb24pIHsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGdldEl0ZW1Db3VudCgpIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0=</text>
       </register>
     </registers>
     <search>
