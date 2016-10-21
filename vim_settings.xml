@@ -136,10 +136,10 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeContact.java" timestamp="1476870353128">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="7" />
-        <mark key="." line="11" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeContact.java" timestamp="1477012404905">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/RunDbSwitchListActivity.java" timestamp="1470020948899">
         <mark key="[" line="42" column="0" />
@@ -212,7 +212,6 @@
         <mark key="^" line="235" column="54" />
         <mark key="." line="235" column="54" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/ExpandableListView.java" timestamp="1476977960515" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/api/QuetionServer.java" timestamp="1470810933758">
         <mark key="[" line="101" column="59" />
         <mark key="]" line="101" column="59" />
@@ -342,7 +341,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/24.2.1/recyclerview-v7-24.2.1-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1476978630537" />
       <file name="$USER_HOME$/AndroidStudioProjects/RainbowCity/app/src/main/java/com/bocai/rainbowcity/activity/FindActivity.java" timestamp="1465284829894">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
@@ -538,6 +536,11 @@
         <mark key="]" line="142" column="15" />
         <mark key="." line="142" column="15" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeFragment.java" timestamp="1477011984108">
+        <mark key="[" line="54" column="65" />
+        <mark key="]" line="54" column="65" />
+        <mark key="." line="54" column="65" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/layout/activity_property.xml" timestamp="1467094538296">
         <mark key="[" line="33" column="43" />
         <mark key="]" line="33" column="43" />
@@ -573,7 +576,7 @@
         <mark key="]" line="3" column="65" />
         <mark key="." line="3" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1476955526442">
+      <file name="/fragment.java" timestamp="1477012418849">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="8" />
@@ -599,7 +602,6 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/BaseExpandableListAdapter.java" timestamp="1476978101893" />
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/build.gradle" timestamp="1465901927691">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -995,7 +997,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/core/Event.java" timestamp="1476933241894">
         <mark key="[" line="22" column="60" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/ExpandableListAdapter.java" timestamp="1476956126788" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/info/ReturnExpressInfoFragment.java" timestamp="1475223302362">
         <mark key="[" line="155" column="46" />
         <mark key="]" line="157" column="0" />
@@ -1234,6 +1235,9 @@
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangePresenter.java" timestamp="1477012694700">
+        <mark key="[" line="10" column="32" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/README.md" timestamp="1475886359899">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
@@ -1343,10 +1347,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mGroupPositions.indexOf(position)</text>
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>mGroupPositions.indexOf(position)</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>life_cycle</text>
@@ -1355,48 +1359,60 @@
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text>int expComPos;
+        if (TextUtils.isEmpty(expComId)
+                || (expComPos = hintAdapter.getIdPosition(Long.parseLong(expComId))) == -1) {
+            long lastExpComId = mPresenter.getLastExpComId();
+            int lastExpComPos = hintAdapter.getIdPosition(lastExpComId);
+            if (lastExpComPos == -1) {
+                //
+            } else {
+                mExpComFilterSpinner.setSelection(mExpComFilterSpinner.getIdPosition(lastExpComId));
+            }
+        } else {
+            mExpComFilterSpinner.setSelection(mExpComFilterSpinner.getIdPosition(Long.parseLong(expComId)));
+        }</text>
+      </register>
+      <register name="2" type="4">
         <text>if (mGroupPositions.indexOf(position) != -1) {
             return getGroupType(position);
         } else {
 
         }</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>if (isGroup(position)) {
             return getGroupType(position);
         } else {
             return getChildType(position);
         }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNHcm91cChpbnQgcG9zaXRpb24pIHsKCiAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBNeUV4cGVuZEdyaWRBZGFwdGVyKExpc3Q8U3RyaW5nPiBncm91cHMsIExpc3Q8U3RyaW5nPiBjaGlsZHMpIHsKICAgICAgICBtR3JvdXBzID0gZ3JvdXBzOwogICAgICAgIG1DaGlsZHMgPSBjaGlsZHM7CiAgICB9Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHByaXZhdGUgTGlzdDxTdHJpbmc+IG1Hcm91cHM7CiAgICBwcml2YXRlIExpc3Q8U3RyaW5nPiBtQ2hpbGRzOw==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHByaXZhdGUgTGlzdDxTdHJpbmc+IG1Hcm91cHM7CiAgICBwcml2YXRlIExpc3Q8U3RyaW5nPiBtQ2hpbGRzOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBhYnN0cmFjdCB2b2lkIHMoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyIG9uQ3JlYXRlVmlld0hvbGRlcihWaWV3R3JvdXAgcGFyZW50LCBpbnQgdmlld1R5cGUpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uQmluZFZpZXdIb2xkZXIoUmVjeWNsZXJWaWV3LlZpZXdIb2xkZXIgaG9sZGVyLCBpbnQgcG9zaXRpb24pIHsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGdldEl0ZW1Db3VudCgpIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBhYnN0cmFjdCB2b2lkIHMoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
     </registers>
     <search>
