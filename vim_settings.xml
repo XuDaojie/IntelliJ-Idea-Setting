@@ -41,11 +41,11 @@
         <mark key="]" line="79" column="27" />
         <mark key="." line="79" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/StorageRepository.java" timestamp="1476775932920">
-        <mark key="[" line="93" column="16" />
-        <mark key="]" line="108" column="27" />
-        <mark key="^" line="108" column="27" />
-        <mark key="." line="108" column="27" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/StorageRepository.java" timestamp="1477017639019">
+        <mark key="[" line="191" column="19" />
+        <mark key="]" line="109" column="27" />
+        <mark key="^" line="109" column="27" />
+        <mark key="." line="109" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/login/LoginPresenter.java" timestamp="1474852287969">
         <mark key="[" line="74" column="10" />
@@ -537,10 +537,11 @@
         <mark key="]" line="142" column="15" />
         <mark key="." line="142" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeFragment.java" timestamp="1477011984108">
-        <mark key="[" line="59" column="65" />
-        <mark key="]" line="59" column="65" />
-        <mark key="." line="59" column="65" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeFragment.java" timestamp="1477017542998">
+        <mark key="[" line="85" column="11" />
+        <mark key="]" line="85" column="10" />
+        <mark key="." line="85" column="10" />
+        <mark key="^" line="85" column="10" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/layout/activity_property.xml" timestamp="1467094538296">
         <mark key="[" line="33" column="43" />
@@ -562,10 +563,10 @@
         <mark key="]" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeActivity.java" timestamp="1476784398145">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="22" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeActivity.java" timestamp="1477017708293">
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/res/layout/dialog_question_unaffirm.xml" timestamp="1471335936767">
         <mark key="[" line="69" column="35" />
@@ -1350,7 +1351,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ExpressComListBean expComList</text>
+        <text>//        int expComPos;
+//        if (TextUtils.isEmpty(expComId)
+//                || (expComPos = hintAdapter.getIdPosition(Long.parseLong(expComId))) == -1) {
+//            long lastExpComId = mPresenter.getLastExpComId();
+//            int lastExpComPos = hintAdapter.getIdPosition(lastExpComId);
+//            if (lastExpComPos == -1) {
+//                //
+//            } else {
+//                mExpComFilterSpinner.setSelection(mExpComFilterSpinner.getIdPosition(lastExpComId));
+//            }
+//        } else {
+//            mExpComFilterSpinner.setSelection(mExpComFilterSpinner.getIdPosition(Long.parseLong(expComId)));
+//        }</text>
       </register>
       <register name="-" type="4">
         <text>ExpressComListBean expComList</text>
@@ -1361,25 +1374,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG9iamVjdE1hcC5jb250YWluc0tleShFeHByZXNzQ29tTGlzdEJlYW4uY2xhc3MuZ2V0U2ltcGxlTmFtZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcubG9hZEV4cENvbShleHBDb21MaXN0QmVhbik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="1" type="4">
+        <text>//        int expComPos;
+//        if (TextUtils.isEmpty(expComId)
+//                || (expComPos = hintAdapter.getIdPosition(Long.parseLong(expComId))) == -1) {
+//            long lastExpComId = mPresenter.getLastExpComId();
+//            int lastExpComPos = hintAdapter.getIdPosition(lastExpComId);
+//            if (lastExpComPos == -1) {
+//                //
+//            } else {
+//                mExpComFilterSpinner.setSelection(mExpComFilterSpinner.getIdPosition(lastExpComId));
+//            }
+//        } else {
+//            mExpComFilterSpinner.setSelection(mExpComFilterSpinner.getIdPosition(Long.parseLong(expComId)));
+//        }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IFN0cmluZyBzaG9wID0gbVVzZXJEYXRhU291cmNlLmdldFVzZXJJbmZvKCkuZ2V0RGF0YSgpLmdldFVzZXJpbmZvKCkuZ2V0U3RvcmVuYW1lKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIG1WaWV3LmxvYWRJbmZvKHNob3AsIG1FeHBObyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChvYmplY3RNYXAuY29udGFpbnNLZXkoUGhvbmVMaXN0QmVhbi5jbGFzcy5nZXRTaW1wbGVOYW1lKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtVmlldy5sb2FkUGhvbmUoKFBob25lTGlzdEJlYW4pIG9iamVjdE1hcC5nZXQoUGhvbmVMaXN0QmVhbi5jbGFzcy5nZXRTaW1wbGVOYW1lKCkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBpZiAob2JqZWN0TWFwLmNvbnRhaW5zS2V5KFBocmFzZUxpc3RCZWFuLmNsYXNzLmdldFNpbXBsZU5hbWUoKSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1WaWV3LmxvYWRQaHJhc2UoKFBocmFzZUxpc3RCZWFuKSBvYmplY3RNYXAuZ2V0KFBocmFzZUxpc3RCZWFuLmNsYXNzLmdldFNpbXBsZU5hbWUoKSkpOwogICAgICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG9iamVjdE1hcC5jb250YWluc0tleShFeHByZXNzQ29tTGlzdEJlYW4uY2xhc3MuZ2V0U2ltcGxlTmFtZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcubG9hZEV4cENvbShleHBDb21MaXN0QmVhbik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IFN0cmluZyBzaG9wID0gbVVzZXJEYXRhU291cmNlLmdldFVzZXJJbmZvKCkuZ2V0RGF0YSgpLmdldFVzZXJpbmZvKCkuZ2V0U3RvcmVuYW1lKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIG1WaWV3LmxvYWRJbmZvKHNob3AsIG1FeHBObyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChvYmplY3RNYXAuY29udGFpbnNLZXkoUGhvbmVMaXN0QmVhbi5jbGFzcy5nZXRTaW1wbGVOYW1lKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtVmlldy5sb2FkUGhvbmUoKFBob25lTGlzdEJlYW4pIG9iamVjdE1hcC5nZXQoUGhvbmVMaXN0QmVhbi5jbGFzcy5nZXRTaW1wbGVOYW1lKCkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBpZiAob2JqZWN0TWFwLmNvbnRhaW5zS2V5KFBocmFzZUxpc3RCZWFuLmNsYXNzLmdldFNpbXBsZU5hbWUoKSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1WaWV3LmxvYWRQaHJhc2UoKFBocmFzZUxpc3RCZWFuKSBvYmplY3RNYXAuZ2V0KFBocmFzZUxpc3RCZWFuLmNsYXNzLmdldFNpbXBsZU5hbWUoKSkpOwogICAgICAgICAgICAgICAgICAgICAgICB9</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">bmV3IEZ1bmMzPEV4cHJlc3NDb21MaXN0QmVhbiwgUGhvbmVMaXN0QmVhbiwgUGhyYXNlTGlzdEJlYW4sIE1hcDxTdHJpbmcsIE9iamVjdD4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBPYmplY3Q+IGNhbGwoRXhwcmVzc0NvbUxpc3RCZWFuIGV4cENvbUxpc3RCZWFuLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUGhvbmVMaXN0QmVhbiBwaG9uZUxpc3RCZWFuLCBQaHJhc2VMaXN0QmVhbiBwaHJhc2VMaXN0QmVhbikgewogICAgICAgICAgICAgICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFNlcnZpY2VVdGlscy5pc1N1Y2Nlc3MoZXhwQ29tTGlzdEJlYW4uZ2V0UmV0dXJuQ29kZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFwLnB1dChFeHByZXNzQ29tTGlzdEJlYW4uY2xhc3MuZ2V0U2ltcGxlTmFtZSgpLCBleHBDb21MaXN0QmVhbik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFNlcnZpY2VVdGlscy5pc1N1Y2Nlc3MocGhvbmVMaXN0QmVhbi5nZXRSZXR1cm5Db2RlKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXAucHV0KFBob25lTGlzdEJlYW4uY2xhc3MuZ2V0U2ltcGxlTmFtZSgpLCBwaG9uZUxpc3RCZWFuKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBpZiAoU2VydmljZVV0aWxzLmlzU3VjY2VzcyhwaHJhc2VMaXN0QmVhbi5nZXRSZXR1cm5Db2RlKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXAucHV0KFBocmFzZUxpc3RCZWFuLmNsYXNzLmdldFNpbXBsZU5hbWUoKSwgcGhyYXNlTGlzdEJlYW4pOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBtYXA7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBwYWdlCiAgICAgKiBAcGFyYW0gbGltaXQKICAgICAqIEBwYXJhbSBleHBObwogICAgICogQHBhcmFtIGV4cENvbUlkCiAgICAgKiBAcmV0dXJuCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBzaGVsZk9yZGVySWQKICAgICAqIEBwYXJhbSBleHBDb20KICAgICAqIEByZXR1cm4K</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>int expComPos;
         if (TextUtils.isEmpty(expComId)
                 || (expComPos = hintAdapter.getIdPosition(Long.parseLong(expComId))) == -1) {
@@ -1394,28 +1425,22 @@
             mExpComFilterSpinner.setSelection(mExpComFilterSpinner.getIdPosition(Long.parseLong(expComId)));
         }</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>if (mGroupPositions.indexOf(position) != -1) {
             return getGroupType(position);
         } else {
 
         }</text>
       </register>
-      <register name="8" type="4">
+      <register name="x" type="4">
+        <text>shelfNo</text>
+      </register>
+      <register name="9" type="4">
         <text>if (isGroup(position)) {
             return getGroupType(position);
         } else {
             return getChildType(position);
         }</text>
-      </register>
-      <register name="x" type="4">
-        <text>shelfNo</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNHcm91cChpbnQgcG9zaXRpb24pIHsKCiAgICB9</text>
       </register>
     </registers>
     <search>
