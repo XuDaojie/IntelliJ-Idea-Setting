@@ -1,7 +1,8 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
+      <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" />
       <mark key="I" line="212" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
     <filemarks>
@@ -15,7 +16,7 @@
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1477015224624">
+      <file name="/a.dummy" timestamp="1477366592173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -41,8 +42,8 @@
         <mark key="]" line="79" column="27" />
         <mark key="." line="79" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/StorageRepository.java" timestamp="1477017639019">
-        <mark key="[" line="191" column="19" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/StorageRepository.java" timestamp="1477365071782">
+        <mark key="[" line="118" column="8" />
         <mark key="]" line="109" column="27" />
         <mark key="^" line="109" column="27" />
         <mark key="." line="109" column="27" />
@@ -89,7 +90,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/searchlist/SearchListFragment.java" timestamp="1477029783879">
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/searchlist/SearchListFragment.java" timestamp="1477374381635">
         <mark key="[" line="55" column="34" />
         <mark key="]" line="130" column="54" />
         <mark key="." line="130" column="54" />
@@ -105,11 +106,11 @@
         <mark key="]" line="141" column="78" />
         <mark key="." line="141" column="78" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/ExpressInfoFragment.java" timestamp="1476934387019">
-        <mark key="[" line="349" column="46" />
-        <mark key="]" line="295" column="79" />
-        <mark key="^" line="295" column="60" />
-        <mark key="." line="295" column="79" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/ExpressInfoFragment.java" timestamp="1477367868468">
+        <mark key="[" line="401" column="0" />
+        <mark key="]" line="401" column="0" />
+        <mark key="^" line="403" column="127" />
+        <mark key="." line="401" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/toolbar.xml" timestamp="1474973148338">
         <mark key="[" line="11" column="3" />
@@ -202,16 +203,17 @@
         <mark key="]" line="55" column="22" />
         <mark key="." line="55" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/MainActivity.java" timestamp="1476934814731">
-        <mark key="[" line="95" column="26" />
-        <mark key="]" line="185" column="86" />
-        <mark key="." line="185" column="86" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/MainActivity.java" timestamp="1477363747891">
+        <mark key="[" line="140" column="124" />
+        <mark key="]" line="235" column="23" />
+        <mark key="." line="235" column="23" />
+        <mark key="^" line="240" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/WarningSearchListFragment.java" timestamp="1476868431131">
-        <mark key="[" line="235" column="53" />
-        <mark key="]" line="235" column="54" />
-        <mark key="^" line="235" column="54" />
-        <mark key="." line="235" column="54" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/WarningSearchListFragment.java" timestamp="1477374418202">
+        <mark key="[" line="222" column="73" />
+        <mark key="]" line="222" column="73" />
+        <mark key="^" line="243" column="54" />
+        <mark key="." line="222" column="73" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/api/QuetionServer.java" timestamp="1470810933758">
         <mark key="[" line="101" column="59" />
@@ -229,11 +231,11 @@
         <mark key="^" line="37" column="44" />
         <mark key="." line="50" column="78" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/widget/SimpleSpinnerAdapter.java" timestamp="1476435418609">
-        <mark key="[" line="114" column="21" />
-        <mark key="]" line="114" column="21" />
-        <mark key="^" line="28" column="12" />
-        <mark key="." line="114" column="21" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/widget/SimpleSpinnerAdapter.java" timestamp="1477368058495">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="33" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="37" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/res/layout/activity_main.xml" timestamp="1476461859105">
         <mark key="[" line="7" column="59" />
@@ -249,6 +251,17 @@
         <mark key="[" line="73" column="26" />
         <mark key="]" line="73" column="26" />
         <mark key="." line="73" column="26" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/util/UserUtils.java" timestamp="1477362117359">
+        <mark key="[" line="39" column="41" />
+        <mark key="]" line="39" column="41" />
+        <mark key="." line="39" column="41" />
+        <mark key="^" line="35" column="23" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/service/UserService.java" timestamp="1477359220869">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_db_list_activity.xml" timestamp="1469688243705">
         <mark key="[" line="10" column="4" />
@@ -305,6 +318,12 @@
         <mark key="[" line="10" column="18" />
         <mark key="]" line="13" column="43" />
         <mark key="." line="13" column="43" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/util/UpdateUtils.java" timestamp="1477377231007">
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="45" column="35" />
+        <mark key="^" line="45" column="35" />
+        <mark key="." line="45" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/common/GlideUtil.java" timestamp="1470910041725">
         <mark key="[" line="20" column="42" />
@@ -382,11 +401,11 @@
         <mark key="]" line="204" column="16" />
         <mark key="." line="204" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/StorageDataSource.java" timestamp="1477014838969">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-        <mark key="^" line="182" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/StorageDataSource.java" timestamp="1477364749900">
+        <mark key="[" line="123" column="4" />
+        <mark key="]" line="123" column="4" />
+        <mark key="." line="123" column="4" />
+        <mark key="^" line="191" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/exact/ExactSearchFragment.java" timestamp="1475223276571">
         <mark key="[" line="195" column="46" />
@@ -431,11 +450,10 @@
         <mark key="." line="26" column="44" />
         <mark key="^" line="25" column="92" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/core/RetrofitManager.java" timestamp="1476950762026">
-        <mark key="[" line="63" column="58" />
-        <mark key="]" line="63" column="26" />
-        <mark key="." line="63" column="26" />
-        <mark key="^" line="63" column="26" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/core/RetrofitManager.java" timestamp="1477377004009">
+        <mark key="[" line="46" column="29" />
+        <mark key="]" line="46" column="29" />
+        <mark key="." line="46" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/base/BaseActivity.java" timestamp="1476932157243">
         <mark key="[" line="24" column="0" />
@@ -492,7 +510,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477032219177">
+      <file name="/Dummy.txt" timestamp="1477377495525">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -537,12 +555,6 @@
         <mark key="]" line="142" column="15" />
         <mark key="." line="142" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeFragment.java" timestamp="1477031977501">
-        <mark key="[" line="81" column="5" />
-        <mark key="m" line="155" column="8" />
-        <mark key="]" line="81" column="5" />
-        <mark key="." line="81" column="5" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnimateNote/app/src/main/res/layout/activity_property.xml" timestamp="1467094538296">
         <mark key="[" line="33" column="43" />
         <mark key="]" line="33" column="43" />
@@ -578,7 +590,7 @@
         <mark key="]" line="3" column="65" />
         <mark key="." line="3" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1477031385653">
+      <file name="/fragment.java" timestamp="1477374706586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="8" />
@@ -639,9 +651,6 @@
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyLinearLayoutManager.java" timestamp="1476952554748">
-        <mark key="[" line="74" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/CommonDataSource.java" timestamp="1476321070460">
         <mark key="[" line="45" column="15" />
@@ -710,10 +719,10 @@
         <mark key="]" line="44" column="21" />
         <mark key="." line="44" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/door/DoorOutboundFragment.java" timestamp="1476869890702">
-        <mark key="[" line="161" column="51" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/door/DoorOutboundFragment.java" timestamp="1477367703562">
+        <mark key="[" line="215" column="41" />
+        <mark key="]" line="215" column="41" />
+        <mark key="." line="215" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/res/animator/test.xml" timestamp="1476462708969">
         <mark key="[" line="7" column="28" />
@@ -768,18 +777,15 @@
         <mark key="." line="165" column="19" />
         <mark key="^" line="188" column="18" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/phone_search_list_item.xml" timestamp="1477020342002">
-        <mark key="[" line="23" column="31" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/fragment/myquestion/MyQuestionFragment.java" timestamp="1471401748536">
         <mark key="[" line="71" column="56" />
         <mark key="]" line="71" column="56" />
         <mark key="." line="71" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/UserDataSource.java" timestamp="1477014421871">
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="20" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/UserDataSource.java" timestamp="1477359139406">
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="19" column="46" />
+        <mark key="." line="19" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/tools/src/main/java/com/jh/tools/common/phone/ToActivityUtil.java" timestamp="1470738346720">
         <mark key="[" line="92" column="9" />
@@ -796,10 +802,15 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/complete/ExpressInfoCompleteFragment.java" timestamp="1476869878809">
-        <mark key="[" line="228" column="8" />
-        <mark key="]" line="210" column="0" />
-        <mark key="." line="210" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/UserBean.java" timestamp="1477359364584">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/complete/ExpressInfoCompleteFragment.java" timestamp="1477373672086">
+        <mark key="[" line="217" column="36" />
+        <mark key="]" line="217" column="36" />
+        <mark key="." line="217" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/WarnSearchListPresenter.java" timestamp="1475983807713">
         <mark key="[" line="139" column="8" />
@@ -836,6 +847,12 @@
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="17" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfContact.java" timestamp="1477366079383">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/KSYStreamer_Android/demo/build.gradle" timestamp="1471969197822">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="24" />
@@ -851,10 +868,10 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/Constants.java" timestamp="1476869292132">
-        <mark key="[" line="23" column="75" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/Constants.java" timestamp="1477377170566">
+        <mark key="[" line="7" column="78" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/run_db_kill_control_list_item.xml" timestamp="1470037815404">
         <mark key="[" line="7" column="11" />
@@ -871,10 +888,10 @@
         <mark key="]" line="30" column="63" />
         <mark key="." line="30" column="63" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/local/StorageLocalDataSource.java" timestamp="1477015086021">
-        <mark key="[" line="143" column="4" />
-        <mark key="]" line="87" column="22" />
-        <mark key="." line="87" column="22" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/local/StorageLocalDataSource.java" timestamp="1477364932452">
+        <mark key="[" line="101" column="15" />
+        <mark key="]" line="101" column="15" />
+        <mark key="." line="101" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/service/StorageService.java" timestamp="1477015016514">
         <mark key="[" line="239" column="61" />
@@ -967,10 +984,10 @@
         <mark key="]" line="12" column="82" />
         <mark key="." line="12" column="82" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/common/ConstantsNet.java" timestamp="1475984145456">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/common/ConstantsNet.java" timestamp="1477376816888">
+        <mark key="[" line="6" column="95" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/fragment/honest/qlist/vh/QuestionListVH.java" timestamp="1474537092368">
         <mark key="[" line="245" column="40" />
@@ -988,10 +1005,10 @@
         <mark key="." line="71" column="8" />
         <mark key="^" line="66" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/widget/FilterSpinner.java" timestamp="1477031486193">
-        <mark key="[" line="34" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/widget/FilterSpinner.java" timestamp="1477366796087">
+        <mark key="[" line="35" column="35" />
         <mark key="]" line="24" column="0" />
-        <mark key="^" line="146" column="24" />
+        <mark key="^" line="157" column="24" />
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/CommonRepository.java" timestamp="1476320693942">
@@ -1009,9 +1026,6 @@
         <mark key="[" line="6" column="13" />
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/core/Event.java" timestamp="1476933241894">
-        <mark key="[" line="22" column="60" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/info/ReturnExpressInfoFragment.java" timestamp="1475223302362">
         <mark key="[" line="155" column="46" />
@@ -1038,6 +1052,9 @@
         <mark key="]" line="119" column="42" />
         <mark key="." line="119" column="42" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/waring/WaringFragment.java" timestamp="1477374732432">
+        <mark key="[" line="99" column="81" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/java/com/bocai/yangcaicai/ui/activity/HelperCenterAty.java" timestamp="1466584005419">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="92" column="45" />
@@ -1048,15 +1065,15 @@
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/remote/UserRemoteDataSource.java" timestamp="1474601200821">
-        <mark key="[" line="27" column="50" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/remote/UserRemoteDataSource.java" timestamp="1477359215787">
+        <mark key="[" line="49" column="19" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/UserRepository.java" timestamp="1475544269617">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="54" />
-        <mark key="." line="19" column="44" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/UserRepository.java" timestamp="1477359153664">
+        <mark key="[" line="48" column="48" />
+        <mark key="]" line="48" column="48" />
+        <mark key="." line="48" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/app/App.java" timestamp="1469698075816">
         <mark key="[" line="32" column="0" />
@@ -1083,6 +1100,17 @@
         <mark key="]" line="48" column="22" />
         <mark key="." line="48" column="22" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/input_shelf_frag.xml" timestamp="1477366255857">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfFragment.java" timestamp="1477365949343">
+        <mark key="[" line="75" column="20" />
+        <mark key="]" line="75" column="20" />
+        <mark key="^" line="76" column="47" />
+        <mark key="." line="75" column="20" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/ErrorConditionBean.java" timestamp="1475023824925">
         <mark key="[" line="85" column="28" />
         <mark key="]" line="85" column="28" />
@@ -1093,10 +1121,10 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/back/WarnReturnFragment.java" timestamp="1476155745277">
-        <mark key="[" line="178" column="41" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/back/WarnReturnFragment.java" timestamp="1477375208057">
+        <mark key="[" line="193" column="24" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/build.gradle" timestamp="1476671949192">
         <mark key="[" line="17" column="33" />
@@ -1145,12 +1173,7 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" timestamp="1476436159066">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="21" column="37" />
-        <mark key="." line="21" column="37" />
-        <mark key="^" line="19" column="29" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1477376383483" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_spinner_view.xml" timestamp="1476350614048">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="21" />
@@ -1223,12 +1246,6 @@
         <mark key="]" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/activity_main.xml" timestamp="1476784114283">
-        <mark key="[" line="133" column="43" />
-        <mark key="]" line="133" column="43" />
-        <mark key="^" line="136" column="55" />
-        <mark key="." line="133" column="43" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/res/layout/recycler_item.xml" timestamp="1476848000540">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="30" />
@@ -1271,8 +1288,8 @@
         <mark key="]" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/remote/StorageRemoteDataSource.java" timestamp="1477014874845">
-        <mark key="[" line="163" column="19" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/remote/StorageRemoteDataSource.java" timestamp="1477365057094">
+        <mark key="[" line="111" column="0" />
         <mark key="]" line="87" column="31" />
         <mark key="." line="87" column="31" />
       </file>
@@ -1311,7 +1328,7 @@
         <mark key="]" line="93" column="9" />
         <mark key="." line="93" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/ScanResultContact.java" timestamp="1476932574923">
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/ScanResultContact.java" timestamp="1477364242274">
         <mark key="[" line="42" column="51" />
         <mark key="]" line="42" column="51" />
         <mark key="." line="42" column="51" />
@@ -1367,61 +1384,84 @@
       <jump line="174" column="30" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyLinearLayoutManager.java" />
       <jump line="102" column="52" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/service/StorageService.java" />
       <jump line="36" column="33" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/widget/InSuccessDialog.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="43" column="0" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="37" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="36" column="0" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="28" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="24" column="4" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="10" column="0" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="23" column="0" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="25" column="27" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="27" column="0" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="17" column="12" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="11" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="19" column="11" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
+      <jump line="58" column="0" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>android.support.design.internal.ForegroundLinearLayout</text>
+        <text>baseUrl</text>
       </register>
       <register name="-" type="4">
-        <text>android.support.design.internal.ForegroundLinearLayout</text>
+        <text>baseUrl</text>
       </register>
       <register name="/" type="4">
-        <text>life_cycle</text>
+        <text>fx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgbUV4cE5vRXQuc2V0RW5hYmxlZChmYWxzZSk7CiAgICAgICAgbUV4cE5vRXQuc2V0RW5hYmxlZCh0cnVlKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IG1WaWV3LnNob3dQcm9ncmVzcyh0cnVlKTsKICAgICAgICBtVGVtcFBhZ2UgPSAxOwogICAgICAgICsrbVRlbXBQYWdlOwogICAgICAgIG1EYXRhU291cmNlLmdldEV4cENoYW5nZUxpc3QobVBhZ2UsIENvbnN0YW50c05ldC5MSU1JVCwgZXhwTm8sIGV4cENvbUlkKQogICAgICAgICAgICAgICAgLm9ic2VydmVPbihtU2NoZWR1bGVyUHJvdmlkZXIudWkoKSkKICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUobmV3IE9ic2VydmVyPEV4cENoYW5nZUxpc3RCZWFuPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbXBsZXRlZCgpIHsKCiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkVycm9yKFRocm93YWJsZSBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG1WaWV3LnNob3dQcm9ncmVzcyhmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbk5leHQoRXhwQ2hhbmdlTGlzdEJlYW4gZXhwQ2hhbmdlTGlzdEJlYW4pIHsKICAgICAgICAgICAgICAgICAgICAgICAgbVZpZXcuc2hvd1Byb2dyZXNzKGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFNlcnZpY2VVdGlscy5pc1N1Y2Nlc3MoZXhwQ2hhbmdlTGlzdEJlYW4uZ2V0UmV0dXJuQ29kZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVBhZ2UgPSBtVGVtcFBhZ2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtVmlldy5sb2FkRXhwTGlzdChleHBDaGFuZ2VMaXN0QmVhbiwgdHJ1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtVmlldy5zaG93RGVzY3JpcHRpb24oZXhwQ2hhbmdlTGlzdEJlYW4uZ2V0TXNnKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">IFN0cmluZyBiYXNlVXJsOwogICAgICAgIGlmIChCdWlsZENvbmZpZy5ERUJVRykgewogICAgICAgICAgICBiYXNlVXJsID0gQ29uc3RhbnRzTmV0LkRFQlVHX0JBU0VfVVJMOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGJhc2VVcmwgPSBDb25zdGFudHNOZXQuQkFTRV9VUkw7CiAgICAgICAgfQ==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFNwaW5uZXJIaW50QWRhcHRlciBoaW50QWRhcHRlciA9IG5ldyBTcGlubmVySGludEFkYXB0ZXIobmV3IFNpbXBsZVNwaW5uZXJBZGFwdGVyKG1BY3Rpdml0eSwgZXhwQ29tSXRlbXMsIGV4cENvbUlkcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>mData = data;
+        mIds = ids;
+        mDataPinyin = ;
+
+        mOriginData = mData;
+        mOriginIds = mIds;
+        mOriginDataPinyin = mDataPinyin;
+
+        mInflater = LayoutInflater.from(context);</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHZpZXdIb2xkZXIubUV4cHJlc3NOdW1iZXJUdi5zZXRUZXh0KGRhdGEuZ2V0RXhwbm8oKSk7CiAgICAgICAgICAgIHZpZXdIb2xkZXIubUdvb2RzU2hlbGZUdi5zZXRUZXh0KGRhdGEuZ2V0U2hlbGZubygpKTsKICAgICAgICAgICAgdmlld0hvbGRlci5tUGhvbmVUdi5zZXRUZXh0KGRhdGEuZ2V0VG9fcGhvbmUoKSk7CiAgICAgICAgICAgIHZpZXdIb2xkZXIubU5hbWVUdi5zZXRUZXh0KGRhdGEuZ2V0VG9fbmFtZSgpKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVwb3J0SXRlbXNbaWR4XSA9IGV4cENvbS5nZXRUaXRsZSgpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IG1UaXBzVHYuc2V0VGV4dChIdG1sLmZyb21IdG1sKCI8Zm9udCBjb2xvcj0nIzk5OTk5OSc+5p+l5om+5Yiw5YWz5LqOPC9mb250PiIgKwogICAgICAgICAgICAgICAgImA8Zm9udCBjb2xvcj0nIzQzODVGNSc+IiArIGFyZyArICI8L2ZvbnQ+YDxmb250IGNvbG9yPScjOTk5OTk5Jz7nmoQiICsKICAgICAgICAgICAgICAgIG91dGJvdW5kTGlzdEJlYW4uZ2V0RGF0YSgpLmdldFNoZWxmb3JkZXJzX2xlbigpICsgIuadoee7k+aenDwvZm9udD4iKSk7</text>
+        <text encoding="base64">ICAgQEJpbmRWaWV3KFIuaWQuc2VhcmNoX2dvX2J0bikKICAgIEFwcENvbXBhdEJ1dHRvbiBtU2VhcmNoR29CdG47</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBpZiAocmVmcmVzaCkgewogICAgICAgICAgICBtVGVtcFBhZ2UgPSAxOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICsrbVRlbXBQYWdlOwogICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2b2lkIHRvTmV4dCgpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAvKioKICAgICAgICAgKiDmiZPlvIDmoLjlr7nlv6vku7bkv6Hmga8KICAgICAgICAgKiBAcGFyYW0gZGF0YQogICAgICAgICAqIEBwYXJhbSBmcm9tU2Nhbk1vZGUg5LuO5ZOq5Liq5omr5o+P55WM6Z2i6L+b5YWlCiAgICAgICAgICovCiAgICAgICAgdm9pZCBvcGVuQ2hlY2tFeHBJbmZvKE91dGJvdW5kTGlzdEJlYW4gZGF0YSwgaW50IGZyb21TY2FuTW9kZSk7CiAgICAgICAg</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgLyoqCiAgICAgICAgICoKICAgICAgICAgKiBAcGFyYW0gd2hpY2gg6Lez6L2s6Iez5ZOq5Liq5omr5o+P55WM6Z2iCiAgICAgICAgICovCiAgICAgICAgdm9pZCByZXNjYW4oaW50IHdoaWNoLCBTdHJpbmcgY29kZSwgU3RyaW5nIHNoZWxmTm8sIFN0cmluZyBleHBObyk7</text>
       </register>
     </registers>
     <search>
-      <last-search>life_cycle</last-search>
+      <last-search>fx</last-search>
       <last-offset />
-      <last-pattern>life_cycle</last-pattern>
+      <last-pattern>fx</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1435,6 +1475,7 @@
         <entry>lifec</entry>
         <entry>left_</entry>
         <entry>life_cycle</entry>
+        <entry>fx</entry>
       </history-search>
       <history-cmd />
       <history-expr />
