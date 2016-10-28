@@ -392,8 +392,8 @@
         <mark key="]" line="86" column="40" />
         <mark key="." line="86" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/exp_change_frag.xml" timestamp="1477031987110">
-        <mark key="[" line="63" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/exp_change_frag.xml" timestamp="1477622959883">
+        <mark key="[" line="64" column="58" />
         <mark key="]" line="32" column="11" />
         <mark key="^" line="32" column="11" />
         <mark key="." line="32" column="11" />
@@ -502,10 +502,10 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeListFragment.java" timestamp="1477621144825">
-        <mark key="[" line="192" column="33" />
-        <mark key="]" line="192" column="33" />
-        <mark key="." line="192" column="33" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeListFragment.java" timestamp="1477623357699">
+        <mark key="[" line="158" column="49" />
+        <mark key="]" line="158" column="49" />
+        <mark key="." line="158" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xudaojie/ninesquare/zoomable/AbstractAnimatedZoomableController.java" timestamp="1477547155288">
         <mark key="[" line="0" column="0" />
@@ -580,8 +580,8 @@
         <mark key="." line="26" column="44" />
         <mark key="^" line="25" column="92" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/core/RetrofitManager.java" timestamp="1477461050219">
-        <mark key="[" line="38" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/core/RetrofitManager.java" timestamp="1477624104856">
+        <mark key="[" line="39" column="16" />
         <mark key="]" line="38" column="37" />
         <mark key="." line="38" column="37" />
       </file>
@@ -655,7 +655,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477616481535">
+      <file name="/Dummy.txt" timestamp="1477623578896">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1102,6 +1102,7 @@
         <mark key="]" line="17" column="24" />
         <mark key="." line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/widget/TextView.java" timestamp="1477623193155" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/com/example/xdj/androiddemo/glide/GlideListActivity.java" timestamp="1465701319179">
         <mark key="[" line="75" column="23" />
         <mark key="]" line="75" column="23" />
@@ -1265,6 +1266,11 @@
         <mark key="]" line="71" column="8" />
         <mark key="." line="71" column="8" />
         <mark key="^" line="66" column="19" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/widget/FilterSpinner.java" timestamp="1477622526662">
+        <mark key="[" line="168" column="2" />
+        <mark key="]" line="168" column="2" />
+        <mark key="." line="168" column="2" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/FavorFragment.java" timestamp="1465899240524">
         <mark key="[" line="192" column="0" />
@@ -1716,10 +1722,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>expChangeList.getData()</text>
+        <text>KEYCODE_SEARCH</text>
       </register>
       <register name="-" type="4">
-        <text>expChangeList.getData()</text>
+        <text>KEYCODE_SEARCH</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -1727,26 +1733,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib2NhaS55YmdqLmV4cGNoYW5nZS5FeHBDaGFuZ2VBY3Rpdml0eTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IG1FeHBOb0V0LnNldE9uRWRpdG9yQWN0aW9uTGlzdGVuZXIobmV3IFRleHRWaWV3Lk9uRWRpdG9yQWN0aW9uTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBvbkVkaXRvckFjdGlvbihUZXh0VmlldyB2LCBpbnQgYWN0aW9uSWQsIEtleUV2ZW50IGV2ZW50KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib2NhaS55YmdqLmV4cGNoYW5nZS5FeHBDaGFuZ2VBY3Rpdml0eTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBwdWJsaWMgT25JdGVtU2VsZWN0TGlzZW50ZXIgZ2V0T25JdGVtU2VsZWN0TGlzZW50ZXIoKSB7CiAgICAgICAgcmV0dXJuIG1Pbkl0ZW1TZWxlY3RMaXNlbnRlcjsKICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgb25Ob3RoaW5nU2VsZWN0ZWQoQWRhcHRlclZpZXc8Pz4gcGFyZW50KSB7CgogICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1lLnh1ZGFvamllLm5pbmVzcXVhcmUuZnJlc2NvLnpvb21hYmxlLlpvb21hYmxlRHJhd2VlVmlldzsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IG1MaXN0Vmlldy5zZXRPbkl0ZW1TZWxlY3RlZExpc3RlbmVyKG5ldyBBZGFwdGVyVmlldy5Pbkl0ZW1TZWxlY3RlZExpc3RlbmVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25JdGVtU2VsZWN0ZWQoQWRhcHRlclZpZXc8Pz4gcGFyZW50LCBWaWV3IHZpZXcsIGludCBwb3NpdGlvbiwgbG9uZyBpZCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbk5vdGhpbmdTZWxlY3RlZChBZGFwdGVyVmlldzw/PiBwYXJlbnQpIHsKCiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG1lLnh1ZGFvamllLm5pbmVzcXVhcmUuZnJlc2NvLnpvb21hYmxlLlpvb21hYmxlRHJhd2VlVmlldzsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ib2NhaS55YmdqLmV4cGNoYW5nZS5FeHBDaGFuZ2VBY3Rpdml0eTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pCiAgICB0ZXN0Q29tcGlsZSAnanVuaXQ6anVuaXQ6NC4xMicK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ib2NhaS55YmdqLmV4cGNoYW5nZS5FeHBDaGFuZ2VBY3Rpdml0eTsK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -1755,13 +1761,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VXBkYXRlCg==</text>
+        <text encoding="base64">aW1wb3J0IG1lLnh1ZGFvamllLm5pbmVzcXVhcmUuZnJlc2NvLnpvb21hYmxlLlpvb21hYmxlRHJhd2VlVmlldzsK</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1lLnh1ZGFvamllLm5pbmVzcXVhcmUuZnJlc2NvLnpvb21hYmxlLlpvb21hYmxlRHJhd2VlVmlldzsK</text>
       </register>
     </registers>
     <search>
