@@ -101,6 +101,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeListPresenter.java" timestamp="1477620796117">
+        <mark key="[" line="122" column="31" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/base/BaseApp.java" timestamp="1477464356452">
         <mark key="[" line="18" column="29" />
       </file>
@@ -230,10 +233,11 @@
         <mark key="]" line="57" column="22" />
         <mark key="." line="57" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/MainActivity.java" timestamp="1477615821053">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/MainActivity.java" timestamp="1477620287089">
+        <mark key="[" line="231" column="33" />
+        <mark key="]" line="231" column="36" />
+        <mark key="." line="231" column="36" />
+        <mark key="^" line="231" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/WarningSearchListFragment.java" timestamp="1477466288559">
         <mark key="[" line="540" column="69" />
@@ -497,6 +501,11 @@
         <mark key="[" line="195" column="46" />
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeListFragment.java" timestamp="1477621144825">
+        <mark key="[" line="192" column="33" />
+        <mark key="]" line="192" column="33" />
+        <mark key="." line="192" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xudaojie/ninesquare/zoomable/AbstractAnimatedZoomableController.java" timestamp="1477547155288">
         <mark key="[" line="0" column="0" />
@@ -1706,11 +1715,11 @@
       <jump line="71" column="73" filename="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/java/io/github/xudaojie/photogo/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib2NhaS55YmdqLmV4cGNoYW5nZS5FeHBDaGFuZ2VBY3Rpdml0eTsK</text>
+      <register name="&quot;" type="4">
+        <text>expChangeList.getData()</text>
       </register>
       <register name="-" type="4">
-        <text>Update</text>
+        <text>expChangeList.getData()</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -1722,37 +1731,37 @@
         <text encoding="base64">aW1wb3J0IGNvbS5ib2NhaS55YmdqLmV4cGNoYW5nZS5FeHBDaGFuZ2VBY3Rpdml0eTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ib2NhaS55YmdqLmV4cGNoYW5nZS5FeHBDaGFuZ2VBY3Rpdml0eTsK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1lLnh1ZGFvamllLm5pbmVzcXVhcmUuZnJlc2NvLnpvb21hYmxlLlpvb21hYmxlRHJhd2VlVmlldzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IG1lLnh1ZGFvamllLm5pbmVzcXVhcmUuZnJlc2NvLnpvb21hYmxlLlpvb21hYmxlRHJhd2VlVmlldzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pCiAgICB0ZXN0Q29tcGlsZSAnanVuaXQ6anVuaXQ6NC4xMicK</text>
+        <text encoding="base64">aW1wb3J0IG1lLnh1ZGFvamllLm5pbmVzcXVhcmUuZnJlc2NvLnpvb21hYmxlLlpvb21hYmxlRHJhd2VlVmlldzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pCiAgICB0ZXN0Q29tcGlsZSAnanVuaXQ6anVuaXQ6NC4xMicK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VXBkYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXBkYXRlCg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVkICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyNS4wLjAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
