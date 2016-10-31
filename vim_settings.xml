@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" />
       <mark key="I" line="212" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
@@ -1618,6 +1618,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="62" column="56" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/.gitignore" timestamp="1477897976224">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/web_view_activity.xml" timestamp="1471253881778">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
@@ -1779,11 +1784,11 @@
       <jump line="71" column="73" filename="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/java/io/github/xudaojie/photogo/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMveFV0aWxzLTIuNi4xNC5qYXInKQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>入库收件人电话必须为11位或为空</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -1792,58 +1797,40 @@
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMveFV0aWxzLTIuNi4xNC5qYXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvbmluZW9sZGFuZHJvaWRzLTIuNC4wLmphcicpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMveFV0aWxzLTIuNi4xNC5qYXInKQo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvYnVnbHlfMS4yLjlfcmVsZWFzZS5qYXInKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvbmluZW9sZGFuZHJvaWRzLTIuNC4wLmphcicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5iaWdrb286cGlja2VydmlldzoyLjAuOCcKICAgIGNvbXBpbGUgcHJvamVjdCgnOmJvY2xpYicpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvYnVnbHlfMS4yLjlfcmVsZWFzZS5qYXInKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvYmFvZm9vX2F1dGhfc2RrLmphcicpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5iaWdrb286cGlja2VydmlldzoyLjAuOCcKICAgIGNvbXBpbGUgcHJvamVjdCgnOmJvY2xpYicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvTW9iQ29tbW9ucy5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9Nb2JUb29scy5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1RWm9uZS0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1TaW5hV2VpYm8tMi42LjUuamFyJykKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvU2hhcmVTREstVGVuY2VudFdlaWJvLTIuNi41LmphcicpCiAgICBjb21waWxlIGZpbGVzKCdsaWJzL1NoYXJlU0RLLVdlY2hhdC0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1XZWNoYXQtQ29yZS0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1XZWNoYXQtRmF2b3JpdGUtMi42LjUuamFyJykKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvU2hhcmVTREstV2VjaGF0LU1vbWVudHMtMi42LjUuamFyJykKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvU2hhcmVTREstQ29yZS0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1RUS0yLjYuNS5qYXInKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvYmFvZm9vX2F1dGhfc2RrLmphcicpCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvTW9iQ29tbW9ucy5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9Nb2JUb29scy5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1RWm9uZS0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1TaW5hV2VpYm8tMi42LjUuamFyJykKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvU2hhcmVTREstVGVuY2VudFdlaWJvLTIuNi41LmphcicpCiAgICBjb21waWxlIGZpbGVzKCdsaWJzL1NoYXJlU0RLLVdlY2hhdC0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1XZWNoYXQtQ29yZS0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1XZWNoYXQtRmF2b3JpdGUtMi42LjUuamFyJykKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvU2hhcmVTREstV2VjaGF0LU1vbWVudHMtMi42LjUuamFyJykKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvU2hhcmVTREstQ29yZS0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1RUS0yLjYuNS5qYXInKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGlmIChtQ29udGVudFZpZXcgPT0gbnVsbCkgewogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1TdGF0ZVZpZXdBcnJheS5zaXplKCk7IGkrKykgewogICAgICAgICAgICAgICAgaWYgKG1TdGF0ZVZpZXdBcnJheS5pbmRleE9mVmFsdWUodmlldykgIT0gLTEpIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAobVN0YXRlVmlld0FycmF5LmluZGV4T2ZWYWx1ZSh2aWV3KSAhPSAtMSkgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="4">
-        <text>public int getPlaceholderId() {
-        return mPlaceholderId;
-    }
-
-    public Drawable getPlaceholderDrawable() {
-        return mPlaceholderDrawable;
-    }
-
-    public int getErrorId() {
-        return mErrorId;
-    }
-
-    public Drawable getErrorPlaceholder() {
-        return mErrorPlaceholder;
-    }
-
-    public int getImageLoader() {
-        return mImageLoader;
-    }</text>
+        <text encoding="base64">IGlmIChtQ29udGVudFZpZXcgPT0gbnVsbCkgewogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1TdGF0ZVZpZXdBcnJheS5zaXplKCk7IGkrKykgewogICAgICAgICAgICAgICAgaWYgKG1TdGF0ZVZpZXdBcnJheS5pbmRleE9mVmFsdWUodmlldykgIT0gLTEpIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAobVN0YXRlVmlld0FycmF5LmluZGV4T2ZWYWx1ZSh2aWV3KSAhPSAtMSkgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9</text>
       </register>
     </registers>
     <search>
