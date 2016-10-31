@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" />
       <mark key="I" line="212" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
@@ -550,6 +550,11 @@
         <mark key="^" line="84" column="16" />
         <mark key="." line="84" column="16" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/BaseActivity.kt" timestamp="1477909965808">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/yangcaicai/app/src/main/res/layout/fragment_home.xml" timestamp="1466755799166">
         <mark key="[" line="165" column="47" />
         <mark key="]" line="24" column="0" />
@@ -616,6 +621,9 @@
         <mark key="]" line="33" column="61" />
         <mark key="." line="33" column="61" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/widget/DividerItemDecoration.java" timestamp="1477910287777">
+        <mark key="[" line="31" column="36" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionContract.java" timestamp="1470301163816">
         <mark key="[" line="55" column="35" />
         <mark key="]" line="55" column="35" />
@@ -626,7 +634,7 @@
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/build.gradle" timestamp="1477893473302">
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/build.gradle" timestamp="1477909628589">
         <mark key="[" line="112" column="44" />
         <mark key="]" line="15" column="26" />
         <mark key="^" line="44" column="10" />
@@ -671,7 +679,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477897009989">
+      <file name="/Dummy.txt" timestamp="1477909740237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -748,6 +756,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/build.gradle" timestamp="1477909881406">
+        <mark key="[" line="50" column="53" />
+        <mark key="]" line="50" column="52" />
+        <mark key="." line="50" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xudaojie/ninesquare/fresco/zoomable/AbstractAnimatedZoomableController.java" timestamp="1477547996912">
         <mark key="[" line="19" column="0" />
@@ -1133,7 +1146,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1477841351574" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/Constants.java" timestamp="1477639137454">
         <mark key="[" line="10" column="66" />
         <mark key="]" line="33" column="24" />
@@ -1508,7 +1520,6 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1477841351574" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_spinner_view.xml" timestamp="1476350614048">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="21" />
@@ -1784,11 +1795,11 @@
       <jump line="71" column="73" filename="$USER_HOME$/AndroidStudioProjects/PhotoGo/app/src/main/java/io/github/xudaojie/photogo/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlLmp1c3QoIiIpCiAgICAgICAgICAgICAgICAuZmlsdGVyIHsgIH0KICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>retrofitVersion</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -1797,40 +1808,40 @@
         <text encoding="base64">ICAgICAgICAgICAgZnJhbWUgPSBuZXcgUmVjdChsZWZ0T2Zmc2V0LCB0b3BPZmZzZXQgLSBSRUNUX09GRlNFVF9YLCBsZWZ0T2Zmc2V0ICsgd2lkdGgsIHRvcE9mZnNldCArIGhlaWdodCAtIFJFQ1RfT0ZGU0VUX1gpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlLmp1c3QoIiIpCiAgICAgICAgICAgICAgICAuZmlsdGVyIHsgIH0KICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMveFV0aWxzLTIuNi4xNC5qYXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvbmluZW9sZGFuZHJvaWRzLTIuNC4wLmphcicpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMveFV0aWxzLTIuNi4xNC5qYXInKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvYnVnbHlfMS4yLjlfcmVsZWFzZS5qYXInKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvbmluZW9sZGFuZHJvaWRzLTIuNC4wLmphcicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5iaWdrb286cGlja2VydmlldzoyLjAuOCcKICAgIGNvbXBpbGUgcHJvamVjdCgnOmJvY2xpYicpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvYnVnbHlfMS4yLjlfcmVsZWFzZS5qYXInKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvYmFvZm9vX2F1dGhfc2RrLmphcicpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5iaWdrb286cGlja2VydmlldzoyLjAuOCcKICAgIGNvbXBpbGUgcHJvamVjdCgnOmJvY2xpYicpCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvTW9iQ29tbW9ucy5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9Nb2JUb29scy5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1RWm9uZS0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1TaW5hV2VpYm8tMi42LjUuamFyJykKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvU2hhcmVTREstVGVuY2VudFdlaWJvLTIuNi41LmphcicpCiAgICBjb21waWxlIGZpbGVzKCdsaWJzL1NoYXJlU0RLLVdlY2hhdC0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1XZWNoYXQtQ29yZS0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1XZWNoYXQtRmF2b3JpdGUtMi42LjUuamFyJykKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvU2hhcmVTREstV2VjaGF0LU1vbWVudHMtMi42LjUuamFyJykKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvU2hhcmVTREstQ29yZS0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1RUS0yLjYuNS5qYXInKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvYmFvZm9vX2F1dGhfc2RrLmphcicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvTW9iQ29tbW9ucy5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9Nb2JUb29scy5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1RWm9uZS0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1TaW5hV2VpYm8tMi42LjUuamFyJykKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvU2hhcmVTREstVGVuY2VudFdlaWJvLTIuNi41LmphcicpCiAgICBjb21waWxlIGZpbGVzKCdsaWJzL1NoYXJlU0RLLVdlY2hhdC0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1XZWNoYXQtQ29yZS0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1XZWNoYXQtRmF2b3JpdGUtMi42LjUuamFyJykKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvU2hhcmVTREstV2VjaGF0LU1vbWVudHMtMi42LjUuamFyJykKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvU2hhcmVTREstQ29yZS0yLjYuNS5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9TaGFyZVNESy1RUS0yLjYuNS5qYXInKQo=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGlmIChtQ29udGVudFZpZXcgPT0gbnVsbCkgewogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1TdGF0ZVZpZXdBcnJheS5zaXplKCk7IGkrKykgewogICAgICAgICAgICAgICAgaWYgKG1TdGF0ZVZpZXdBcnJheS5pbmRleE9mVmFsdWUodmlldykgIT0gLTEpIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAobVN0YXRlVmlld0FycmF5LmluZGV4T2ZWYWx1ZSh2aWV3KSAhPSAtMSkgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
