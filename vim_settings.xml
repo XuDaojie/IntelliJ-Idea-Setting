@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" />
       <mark key="I" line="212" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
@@ -435,6 +435,7 @@
         <mark key="." line="31" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/dispatch/app/src/main/java/com/bocai/dispatch/MainActivity.java" timestamp="1478083183063" />
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xdj/ninesquare/TestZoomActivity.java" timestamp="1477471108586">
         <mark key="[" line="75" column="39" />
         <mark key="]" line="75" column="39" />
@@ -637,6 +638,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/FrescoZoomable/app/src/main/AndroidManifest.xml" timestamp="1477550947456">
         <mark key="[" line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/dispatch/app/src/main/java/com/bocai/dispatch/MotionEventViewGroup.java" timestamp="1478083151359">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/library/src/main/java/me/xdj/view/MultiStateView.java" timestamp="1477884309062">
         <mark key="[" line="140" column="7" />
         <mark key="]" line="140" column="7" />
@@ -787,10 +793,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fene + &quot;份/&quot; + money + &quot;元</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>fene + &quot;份/&quot; + money + &quot;元</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
