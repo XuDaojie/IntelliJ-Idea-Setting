@@ -42,8 +42,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/drawable/selector_shape_round_small_blue.xml" timestamp="1478590054945">
         <mark key="[" line="2" column="99" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/styles.xml" timestamp="1478680038007">
-        <mark key="[" line="139" column="20" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/styles.xml" timestamp="1478685474175">
+        <mark key="[" line="139" column="66" />
         <mark key="]" line="139" column="20" />
         <mark key="." line="139" column="20" />
       </file>
@@ -106,22 +106,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xudaojie/ninesquare/load/RequestOption.java" timestamp="1477644777364">
         <mark key="[" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/java/runtong/bocai/com/runtong/activity/HomeActivity.java" timestamp="1478669761087">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="278" column="22" />
-        <mark key="]" line="112" column="25" />
-        <mark key="." line="112" column="25" />
-        <mark key="^" line="112" column="25" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/res/layout/activity_main.xml" timestamp="1478231363353">
         <mark key="[" line="15" column="4" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/adapter/InvestmentRecordAdapter.java" timestamp="1478594498923">
-        <mark key="'" line="16" column="13" />
-        <mark key="[" line="62" column="44" />
-        <mark key="]" line="62" column="44" />
-        <mark key="." line="62" column="44" />
-        <mark key="^" line="48" column="99" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/complete/ExpressInfoCompleteFragment.java" timestamp="1478597198568">
         <mark key="[" line="160" column="28" />
@@ -141,20 +127,6 @@
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/adapter/SellingFragmentAdapter.java" timestamp="1478593812183">
-        <mark key="'" line="25" column="21" />
-        <mark key="[" line="90" column="17" />
-        <mark key="]" line="60" column="22" />
-        <mark key="." line="60" column="22" />
-        <mark key="^" line="60" column="22" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/activity/FinancialProductActivity.java" timestamp="1478593682704">
-        <mark key="'" line="30" column="36" />
-        <mark key="[" line="110" column="51" />
-        <mark key="]" line="110" column="50" />
-        <mark key="^" line="110" column="50" />
-        <mark key="." line="110" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/SearchContact.java" timestamp="1477982668496">
         <mark key="[" line="28" column="53" />
@@ -178,6 +150,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/login/LoginActivity.java" timestamp="1477893063499">
         <mark key="[" line="26" column="44" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/appcompat-v7/23.2.1/appcompat-v7-23.2.1-sources.jar!/android/support/v7/widget/AppCompatRadioButton.java" timestamp="1478685566339" />
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/color/home_tab_txt_selector.xml" timestamp="1478605786478">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="26" />
@@ -186,11 +159,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/values-V21/styles.xml" timestamp="1478070866944">
         <mark key="[" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_warning_fragment.xml" timestamp="1478680968212">
-        <mark key="[" line="17" column="55" />
-        <mark key="]" line="23" column="31" />
-        <mark key="." line="23" column="31" />
-        <mark key="^" line="23" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_warning_fragment.xml" timestamp="1478685728696">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="29" column="14" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/fragment_account.xml" timestamp="1478663370893">
         <mark key="[" line="173" column="34" />
@@ -466,10 +439,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>blue</text>
+        <text>0dp</text>
       </register>
       <register name="-" type="4">
-        <text>blue</text>
+        <text>0dp</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
