@@ -43,9 +43,9 @@
         <mark key="[" line="2" column="99" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/styles.xml" timestamp="1478685474175">
-        <mark key="[" line="139" column="66" />
-        <mark key="]" line="139" column="20" />
-        <mark key="." line="139" column="20" />
+        <mark key="[" line="138" column="66" />
+        <mark key="]" line="138" column="20" />
+        <mark key="." line="138" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/FrescoZoomable/app/src/main/java/me/xudaojie/frescozoomable/App.java" timestamp="1477550184849">
         <mark key="[" line="10" column="17" />
@@ -159,11 +159,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/values-V21/styles.xml" timestamp="1478070866944">
         <mark key="[" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_warning_fragment.xml" timestamp="1478685794455">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="30" />
-        <mark key="^" line="29" column="14" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_warning_fragment.xml" timestamp="1478689099757">
+        <mark key="^" line="23" column="14" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/fragment_account.xml" timestamp="1478663370893">
         <mark key="[" line="173" column="34" />
@@ -235,6 +232,12 @@
         <mark key="]" line="187" column="13" />
         <mark key="." line="187" column="13" />
         <mark key="^" line="187" column="13" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/selector_home_warning_cek.xml" timestamp="1478689181887">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/WarnOrderBean.java" timestamp="1478066768111">
         <mark key="[" line="94" column="36" />
@@ -439,10 +442,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0dp</text>
+        <text>color</text>
       </register>
       <register name="-" type="4">
-        <text>0dp</text>
+        <text>color</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
