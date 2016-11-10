@@ -172,11 +172,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/values-V21/styles.xml" timestamp="1478070866944">
         <mark key="[" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_warning_fragment.xml" timestamp="1478773994461">
-        <mark key="[" line="104" column="17" />
-        <mark key="]" line="85" column="32" />
-        <mark key="^" line="85" column="69" />
-        <mark key="." line="85" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxMarketService.java" timestamp="1478787921478" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_warning_fragment.xml" timestamp="1478788144421">
+        <mark key="[" line="149" column="34" />
+        <mark key="]" line="149" column="34" />
+        <mark key="^" line="105" column="29" />
+        <mark key="." line="149" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/drawable/line_vertical_1px.xml" timestamp="1478050249548">
         <mark key="[" line="6" column="28" />
@@ -354,6 +355,15 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeBusinessChartFragment.java" timestamp="1478786635021" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/WarningAlertBean.java" timestamp="1478787734063">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxWarningService.java" timestamp="1478787779868">
+        <mark key="[" line="11" column="12" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/layout/activity_productconfirmbetting.xml" timestamp="1478247109296">
         <mark key="[" line="6" column="34" />
       </file>
@@ -370,7 +380,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/activity_productbuy.xml" timestamp="1478589577755">
         <mark key="[" line="86" column="78" />
       </file>
-      <file name="/fragment.java" timestamp="1478782593332">
+      <file name="/fragment.java" timestamp="1478787769294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -480,10 +490,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mListBean.getData().size()</text>
+        <text>Widget.ProgressBar.Small</text>
       </register>
       <register name="-" type="4">
-        <text>mListBean.getData().size()</text>
+        <text>Widget.ProgressBar.Small</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
