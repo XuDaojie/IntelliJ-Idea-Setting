@@ -196,8 +196,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/item_financing_list.xml" timestamp="1478593166874">
         <mark key="[" line="35" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/Auth.java" timestamp="1478779118740">
-        <mark key="[" line="21" column="13" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/Auth.java" timestamp="1478780668408">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/drawable/bg_shape_round_small_dark_blue.xml" timestamp="1478590082225">
         <mark key="[" line="3" column="44" />
@@ -485,10 +487,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>getSimpleName</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>getSimpleName</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
