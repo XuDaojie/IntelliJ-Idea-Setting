@@ -169,6 +169,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/sample/src/main/AndroidManifest.xml" timestamp="1477448269227">
         <mark key="[" line="20" column="48" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeBusniessChartFragment.java" timestamp="1478743162631">
+        <mark key="[" line="14" column="39" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/color/home_warning_text_cek.xml" timestamp="1478680406582">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="32" />
@@ -194,6 +197,11 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/drawable/bg_shape_round_small_dark_oragne.xml" timestamp="1478590145727">
         <mark key="[" line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/busniess_trend_chart_fragment.xml" timestamp="1478742987030">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GankIOForKotlin/app/src/main/kotlin/io/github/xudaojie/gankioforkotlin/widget/DividerItemDecoration.java" timestamp="1477910287777">
         <mark key="[" line="31" column="36" />
@@ -221,7 +229,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/login/LoginActivity.java" timestamp="1478691090452">
         <mark key="[" line="26" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478741731636">
+      <file name="/Dummy.txt" timestamp="1478743440343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -275,7 +283,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/activity_productbuy.xml" timestamp="1478589577755">
         <mark key="[" line="86" column="78" />
       </file>
-      <file name="/fragment.java" timestamp="1478739330926">
+      <file name="/fragment.java" timestamp="1478743150990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/item_financing_list.xml" timestamp="1478593166874">
@@ -386,10 +394,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?android:attr/selectableItemBackground</text>
+        <text>wrap_content</text>
       </register>
       <register name="-" type="4">
-        <text>?android:attr/selectableItemBackground</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
