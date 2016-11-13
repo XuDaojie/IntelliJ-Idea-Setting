@@ -292,10 +292,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWaringFragment.java" timestamp="1478678203057">
         <mark key="[" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xudaojie/ninesquare/widget/NineLayout.java" timestamp="1478855277630">
-        <mark key="[" line="169" column="8" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xudaojie/ninesquare/widget/NineLayout.java" timestamp="1479037079086">
+        <mark key="[" line="74" column="68" />
+        <mark key="]" line="74" column="68" />
+        <mark key="." line="74" column="68" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_msg_list_activity.xml" timestamp="1478771341958" />
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/item_investment_record.xml" timestamp="1478594596469">
@@ -542,11 +542,11 @@
       <jump line="23738" column="0" filename="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-24/android/view/View.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0VmlldyBsaXN0VmlldyA9IG5ldyBMaXN0VmlldygpOwogICAgICAgIGxpc3RWaWV3LnNldE9uSXRlbUNsaWNrTGlzdGVuZXIoT25JdGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>context</text>
       </register>
       <register name="-" type="4">
-        <text>android.support.v7.widget.AppCompatI</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
