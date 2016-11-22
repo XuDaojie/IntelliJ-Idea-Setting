@@ -9,7 +9,7 @@
     <filemarks>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-23/android/animation/ValueAnimator.java" timestamp="1479698438388" />
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-23/android/animation/Animator.java" timestamp="1479699403452" />
-      <file name="/a.dummy" timestamp="1479730697090">
+      <file name="/a.dummy" timestamp="1479784131535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_light_gray_border_top_bottom.xml" timestamp="1479456904453" />
@@ -95,10 +95,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/TenantsWarnBean.java" timestamp="1479101601392">
         <mark key="[" line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_warning_fragment.xml" timestamp="1479730684306">
-        <mark key="[" line="148" column="35" />
-        <mark key="]" line="148" column="35" />
-        <mark key="." line="148" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_warning_fragment.xml" timestamp="1479785878462">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/drawable/line_vertical_1px.xml" timestamp="1478050249548">
         <mark key="[" line="6" column="28" />
@@ -136,11 +136,11 @@
         <mark key="]" line="18" column="87" />
         <mark key="." line="18" column="87" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/BaseTipView.java" timestamp="1479781648516">
-        <mark key="[" line="94" column="34" />
-        <mark key="]" line="94" column="34" />
-        <mark key="." line="94" column="34" />
-        <mark key="^" line="201" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/BaseTipView.java" timestamp="1479784942237">
+        <mark key="[" line="87" column="16" />
+        <mark key="]" line="87" column="16" />
+        <mark key="^" line="208" column="16" />
+        <mark key="." line="87" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/OutboundListBean.java" timestamp="1479448810572">
         <mark key="[" line="294" column="11" />
@@ -231,7 +231,7 @@
         <mark key="^" line="50" column="4" />
         <mark key="." line="50" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479780045844">
+      <file name="/Dummy.txt" timestamp="1479785168103">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -279,7 +279,7 @@
         <mark key="]" line="325" column="24" />
         <mark key="." line="325" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1479780232916">
+      <file name="/fragment.java" timestamp="1479785708247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -307,11 +307,11 @@
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWarningFragment.java" timestamp="1479780025779">
-        <mark key="[" line="226" column="33" />
-        <mark key="]" line="134" column="46" />
-        <mark key="." line="134" column="46" />
-        <mark key="^" line="134" column="46" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWarningFragment.java" timestamp="1479785769929">
+        <mark key="[" line="231" column="39" />
+        <mark key="]" line="136" column="46" />
+        <mark key="." line="136" column="46" />
+        <mark key="^" line="136" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Gallery21/app/build.gradle" timestamp="1477379947059">
         <mark key="[" line="9" column="27" />
@@ -704,10 +704,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>end</text>
+        <text>LinearLayout</text>
       </register>
       <register name="-" type="4">
-        <text>end</text>
+        <text>LinearLayout</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -715,26 +715,35 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>if (mAnimatorSetListener1 != null) {
+                    mAnimatorSet1.removeListener(mAnimatorSetListener1);
+                }
+                if (mAnimatorSetListener2 != null) {
+                    mAnimatorSet2.removeListener(mAnimatorSetListener2);
+                }
+                if (mAnimatorSet1 != null) {
+                    mAnimatorSet1.cancel();
+                    mAnimatorSet2.cancel();
+                }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25EcmF3KENhbnZhcyBjYW52YXMpIHsKICAgICAgICBzdXBlci5vbkRyYXcoY2FudmFzKTsKICAgICAgICBpZiAobUluaXQpIHsKICAgICAgICAgICAgbUluaXQgPSBmYWxzZTsKICAgICAgICAgICAgc3RhcnQoKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25EcmF3KENhbnZhcyBjYW52YXMpIHsKICAgICAgICBzdXBlci5vbkRyYXcoY2FudmFzKTsKICAgICAgICBpZiAobUluaXQpIHsKICAgICAgICAgICAgbUluaXQgPSBmYWxzZTsKICAgICAgICAgICAgc3RhcnQoKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxhbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LlJlY3ljbGVyVmlldy0tPgogICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6aWQ9IkAraWQvd2FybmluZ18yX3JlY3ljbGVyIi0tPgogICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3Ivb3JhbmdlX3JlZCItLT4KICAgICAgICAgICAgICAgIDwhLS10b29sczpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci9ob2xvX3JlZF9saWdodCIvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxhbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LlJlY3ljbGVyVmlldy0tPgogICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6aWQ9IkAraWQvd2FybmluZ18yX3JlY3ljbGVyIi0tPgogICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3Ivb3JhbmdlX3JlZCItLT4KICAgICAgICAgICAgICAgIDwhLS10b29sczpiYWNrZ3JvdW5kPSJAYW5kcm9pZDpjb2xvci9ob2xvX3JlZF9saWdodCIvPi0tPgo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -742,14 +751,14 @@
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4KICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4K</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltYXRvclNldDEuc2V0U3RhcnREZWxheShtRGVsYXkpOwogICAgICAgIGFuaW1hdG9yU2V0Mi5zZXRTdGFydERlbGF5KG1EZWxheSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4KICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4=</text>
       </register>
     </registers>
     <search>
