@@ -200,6 +200,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/drawable/bg_shape_round_small_left_oragne.xml" timestamp="1478075469058">
         <mark key="[" line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_lessee_busniess_fragment.xml" timestamp="1479960029710">
+        <mark key="[" line="95" column="28" />
+        <mark key="]" line="95" column="28" />
+        <mark key="." line="95" column="28" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NDKSample/app/src/main/cpp/native-lib.cpp" timestamp="1479346554754">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -606,10 +611,11 @@
         <mark key="]" line="134" column="26" />
         <mark key="." line="134" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeLesseeBusinessFragment.java" timestamp="1479958651537">
-        <mark key="]" line="159" column="43" />
-        <mark key="." line="159" column="43" />
-        <mark key="^" line="159" column="43" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeLesseeBusinessFragment.java" timestamp="1479959949767">
+        <mark key="[" line="161" column="68" />
+        <mark key="]" line="161" column="67" />
+        <mark key="." line="161" column="67" />
+        <mark key="^" line="161" column="67" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/FavorFragment.java" timestamp="1478766277062">
         <mark key="[" line="107" column="61" />
@@ -863,10 +869,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TenantsWarnBean</text>
+        <text>tools</text>
       </register>
       <register name="-" type="4">
-        <text>TenantsWarnBean</text>
+        <text>tools</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
