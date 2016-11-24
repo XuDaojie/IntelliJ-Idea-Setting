@@ -7,7 +7,7 @@
       <mark key="M" line="24" column="18" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_between_list_critical_fragment.xml" />
     </globalmarks>
     <filemarks>
-      <file name="/a.dummy" timestamp="1479973186321">
+      <file name="/a.dummy" timestamp="1479980012791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_warning_detail_activity.xml" timestamp="1479871531404">
@@ -16,10 +16,10 @@
         <mark key="^" line="99" column="57" />
         <mark key="." line="103" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_manager_activity.xml" timestamp="1479692930089">
-        <mark key="[" line="503" column="17" />
-        <mark key="]" line="503" column="17" />
-        <mark key="." line="503" column="17" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_manager_activity.xml" timestamp="1479980051748">
+        <mark key="[" line="550" column="0" />
+        <mark key="]" line="550" column="0" />
+        <mark key="." line="550" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/java/runtong/bocai/com/runtong/fragment/MineFragment.java" timestamp="1478663859862">
         <mark key="[" line="15" column="26" />
@@ -751,8 +751,8 @@
       <jump line="6" column="30" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/Account.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>center</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>center</text>
@@ -764,15 +764,18 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnbkxlZnQ9IkBpZC9jcHVfdXNlX3R2IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2Fib3ZlPSJAaWQvY3B1X3VzZV90diIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8U3RyaW5nPiB4VmFscyA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgeFZhbHMuYWRkKCLmnKrkvb/nlKgiKTsKLy8gICAgICAgIHhWYWxzLmFkZCgi5bey5L2/55SoIik7Ci8vICAgICAgICBMaXN0PEVudHJ5PiB5VmFscyA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgeVZhbHMuYWRkKG5ldyBFbnRyeSgxMi4zZiwgMCkpOwovLyAgICAgICAgeVZhbHMuYWRkKG5ldyBFbnRyeSgyLjNmLCAxKSk7Ci8vCi8vICAgICAgICBpbml0Q2hhcnQobUNwdVBpZUNoYXJ0LCB4VmFscywgeVZhbHMsICJDUFXmoLjmlbAiKTsKLy8gICAgICAgIGluaXRDaGFydChtTWVtUGllQ2hhcnQsIHhWYWxzLCB5VmFscywgIuWGheWtmOWkp+WwjyIpOwovLyAgICAgICAgaW5pdENoYXJ0KG1TdG9yYWdlUGllQ2hhcnQsIHhWYWxzLCB5VmFscywgIuWCqOWtmOWuuemHjyIpOwovLyAgICAgICAgaW5pdENoYXJ0KG1EYlBpZUNoYXJ0LCB4VmFscywgeVZhbHMsICLmlbDmja7lupPlrrnph48iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnbkxlZnQ9IkBpZC9jcHVfdXNlX3R2IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2Fib3ZlPSJAaWQvY3B1X3VzZV90diIK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8U3RyaW5nPiB4VmFscyA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgeFZhbHMuYWRkKCLmnKrkvb/nlKgiKTsKLy8gICAgICAgIHhWYWxzLmFkZCgi5bey5L2/55SoIik7Ci8vICAgICAgICBMaXN0PEVudHJ5PiB5VmFscyA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgeVZhbHMuYWRkKG5ldyBFbnRyeSgxMi4zZiwgMCkpOwovLyAgICAgICAgeVZhbHMuYWRkKG5ldyBFbnRyeSgyLjNmLCAxKSk7Ci8vCi8vICAgICAgICBpbml0Q2hhcnQobUNwdVBpZUNoYXJ0LCB4VmFscywgeVZhbHMsICJDUFXmoLjmlbAiKTsKLy8gICAgICAgIGluaXRDaGFydChtTWVtUGllQ2hhcnQsIHhWYWxzLCB5VmFscywgIuWGheWtmOWkp+WwjyIpOwovLyAgICAgICAgaW5pdENoYXJ0KG1TdG9yYWdlUGllQ2hhcnQsIHhWYWxzLCB5VmFscywgIuWCqOWtmOWuuemHjyIpOwovLyAgICAgICAgaW5pdENoYXJ0KG1EYlBpZUNoYXJ0LCB4VmFscywgeVZhbHMsICLmlbDmja7lupPlrrnph48iKTsK</text>
+      </register>
+      <register name="4" type="4">
         <text>pieData.setValueFormatter(new ValueFormatter() {
             @Override
             public String getFormattedValue(float value, Entry entry, int dataSetIndex, ViewPortHandler viewPortHandler) {
@@ -783,7 +786,7 @@
             }
         });</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>@Bind(R.id.title_tv)
     TextView mTitleTv;
     @Bind(R.id.toolbar)
@@ -815,17 +818,14 @@
     @Bind(R.id.db_use_tv)
     TextView mDbUseTv;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgbUhvc3RuYW1lVHYuc2V0VGV4dChkYXRhLmdldEhvc3QoKSArICIiKTsKLy8gICAgICAgICAgICBtVm1Ib3N0bmFtZVR2LnNldFRleHQoZGF0YS5nZXRWbSgpICsgIiIpOwovLyAgICAgICAgICAgIG1PdGhlckRldmljZVR2LnNldFRleHQoZGF0YS5nZXRTeXMoKSArICIiKTsKLy8gICAgICAgICAgICBtQ29udGFpbmVyVHYuc2V0VGV4dChkYXRhLmdldERvY2tlcigpICsgIiIpOwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQucGllX2NoYXJ0XzEpCiAgICBQaWVDaGFydCBtUGllQ2hhcnQxOwo=</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgbUhvc3RuYW1lVHYuc2V0VGV4dChkYXRhLmdldEhvc3QoKSArICIiKTsKLy8gICAgICAgICAgICBtVm1Ib3N0bmFtZVR2LnNldFRleHQoZGF0YS5nZXRWbSgpICsgIiIpOwovLyAgICAgICAgICAgIG1PdGhlckRldmljZVR2LnNldFRleHQoZGF0YS5nZXRTeXMoKSArICIiKTsKLy8gICAgICAgICAgICBtQ29udGFpbmVyVHYuc2V0VGV4dChkYXRhLmdldERvY2tlcigpICsgIiIpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQucGllX2NoYXJ0XzEpCiAgICBQaWVDaGFydCBtUGllQ2hhcnQxOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
