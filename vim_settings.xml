@@ -405,13 +405,13 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/fragment/honest/qlist/vh/QuestionListVH.java" timestamp="1479380397681">
         <mark key="[" line="261" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/HomeWarningDetailActivity.java" timestamp="1479889329298">
-        <mark key="'" line="164" column="4" />
-        <mark key="[" line="238" column="53" />
-        <mark key="m" line="149" column="20" />
-        <mark key="]" line="238" column="53" />
-        <mark key="^" line="86" column="15" />
-        <mark key="." line="238" column="53" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/HomeWarningDetailActivity.java" timestamp="1479952454694">
+        <mark key="'" line="168" column="4" />
+        <mark key="[" line="160" column="110" />
+        <mark key="m" line="150" column="20" />
+        <mark key="]" line="252" column="53" />
+        <mark key="^" line="87" column="15" />
+        <mark key="." line="252" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/chart/src/main/res/layout/activity_main.xml" timestamp="1479438370327">
         <mark key="[" line="9" column="50" />
@@ -624,11 +624,11 @@
         <mark key="^" line="50" column="4" />
         <mark key="." line="50" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/warning_handler_view.xml" timestamp="1479891891016">
-        <mark key="[" line="66" column="4" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="53" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/warning_handler_view.xml" timestamp="1479952852905">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="43" column="35" />
+        <mark key="." line="43" column="35" />
+        <mark key="^" line="43" column="35" />
       </file>
       <file name="/Dummy.txt" timestamp="1479896842703">
         <mark key="[" line="0" column="0" />
@@ -851,15 +851,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new ItemClickSupport.OnItemClickListener() {
-                    @Override
-                    public void onItemClicked(RecyclerView recyclerView, int position, View v) {
-
-                    }
-                }</text>
+        <text>状态3</text>
       </register>
       <register name="-" type="4">
-        <text>10000</text>
+        <text>状态3</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
