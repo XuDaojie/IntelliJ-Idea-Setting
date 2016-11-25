@@ -4,10 +4,10 @@
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
-      <mark key="M" line="24" column="18" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_between_list_critical_fragment.xml" />
+      <mark key="M" line="73" column="64" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BusinessHandleManagerFragment.java" />
     </globalmarks>
     <filemarks>
-      <file name="/a.dummy" timestamp="1479980012791">
+      <file name="/a.dummy" timestamp="1480042665261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/express_info_warn_frag.xml" timestamp="1478067706528">
@@ -33,10 +33,11 @@
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_manager_activity.xml" timestamp="1479981647033">
-        <mark key="[" line="536" column="16" />
-        <mark key="]" line="536" column="16" />
-        <mark key="." line="536" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_manager_activity.xml" timestamp="1480042812161">
+        <mark key="[" line="411" column="41" />
+        <mark key="]" line="411" column="41" />
+        <mark key="." line="411" column="41" />
+        <mark key="^" line="411" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWarningFragment.java" timestamp="1479979060791">
         <mark key="'" line="236" column="60" />
@@ -44,6 +45,13 @@
         <mark key="]" line="262" column="23" />
         <mark key="." line="262" column="23" />
         <mark key="^" line="262" column="23" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BusinessHandleManagerFragment.java" timestamp="1480045703254">
+        <mark key="'" line="73" column="64" />
+        <mark key="[" line="138" column="16" />
+        <mark key="]" line="138" column="16" />
+        <mark key="^" line="126" column="84" />
+        <mark key="." line="138" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Gallery21/app/build.gradle" timestamp="1477379947059">
         <mark key="[" line="9" column="27" />
@@ -114,6 +122,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/phone_search_list_header.xml" timestamp="1479449147330">
         <mark key="[" line="11" column="25" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_handle_manager_list_item.xml" timestamp="1480041124759">
+        <mark key="[" line="23" column="49" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/ExpressInfoFragment.java" timestamp="1479450447222">
         <mark key="[" line="345" column="45" />
       </file>
@@ -145,6 +159,9 @@
         <mark key="]" line="3" column="41" />
         <mark key="." line="3" column="41" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/OperDataCtrlBean.java" timestamp="1480044820632">
+        <mark key="[" line="5" column="32" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeFragment.java" timestamp="1479796729353">
         <mark key="[" line="224" column="8" />
       </file>
@@ -174,11 +191,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BaseFragment.java" timestamp="1478829381196">
         <mark key="[" line="103" column="116" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxTenantsService.java" timestamp="1479970208738">
-        <mark key="[" line="37" column="14" />
-        <mark key="]" line="37" column="14" />
-        <mark key="." line="37" column="14" />
-        <mark key="^" line="48" column="21" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxTenantsService.java" timestamp="1480044815251">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="69" column="15" />
+        <mark key="]" line="69" column="15" />
+        <mark key="." line="69" column="15" />
+        <mark key="^" line="15" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeBusniessChartFragment.java" timestamp="1478743162631">
         <mark key="[" line="14" column="39" />
@@ -241,6 +259,13 @@
         <mark key="[" line="32" column="4" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_handle_manager_fragment.xml" timestamp="1480043869227">
+        <mark key="'" line="10" column="31" />
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xdj/ninesquare/Constants.java" timestamp="1477496539888">
         <mark key="[" line="6" column="24" />
@@ -375,7 +400,7 @@
         <mark key="]" line="134" column="26" />
         <mark key="." line="134" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeLesseeBusinessFragment.java" timestamp="1479973064005">
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeLesseeBusinessFragment.java" timestamp="1480044044023">
         <mark key="[" line="229" column="0" />
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
@@ -568,7 +593,7 @@
         <mark key="." line="43" column="35" />
         <mark key="^" line="43" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479981815962">
+      <file name="/Dummy.txt" timestamp="1480040875702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -607,8 +632,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/SimpleSpinner.java" timestamp="1479692699431">
-        <mark key="[" line="13" column="27" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/SimpleSpinner.java" timestamp="1480046308456">
+        <mark key="[" line="31" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxWarningService.java" timestamp="1479956216343">
         <mark key="[" line="25" column="19" />
@@ -644,7 +669,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/activity_productbuy.xml" timestamp="1478589577755">
         <mark key="[" line="86" column="78" />
       </file>
-      <file name="/fragment.java" timestamp="1479982016135">
+      <file name="/fragment.java" timestamp="1480044773597">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -656,12 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="16" filename="$USER_HOME$/AndroidStudioProjects/Seeking/sharelib/src/main/java/cn/sharesdk/common/ShareUtil.java" />
-      <jump line="12" column="22" filename="$USER_HOME$/AndroidStudioProjects/Seeking/README.md" />
-      <jump line="30" column="0" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/source/StorageRepository.java" />
-      <jump line="50" column="101" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/ExpressNoSearchPresenter.java" />
-      <jump line="85" column="12" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/rxjava/src/main/java/io/github/xudaojie/rxjava/MainActivity.java" />
-      <jump line="28" column="29" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/SearchContact.java" />
       <jump line="174" column="30" filename="$USER_HOME$/AndroidStudioProjects/AndroidDemo/recyclerview/src/main/java/io/github/xudaojie/recyclerview/MyLinearLayoutManager.java" />
       <jump line="102" column="52" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/service/StorageService.java" />
       <jump line="36" column="33" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/widget/InSuccessDialog.java" />
@@ -756,13 +775,19 @@
       <jump line="133" column="50" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWarningFragment.java" />
       <jump line="205" column="60" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWarningFragment.java" />
       <jump line="6" column="30" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/Account.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_handle_manager_list_item.xml" />
+      <jump line="548" column="40" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_manager_activity.xml" />
+      <jump line="54" column="64" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BusinessHandleManagerFragment.java" />
+      <jump line="44" column="17" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxTenantsService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxTenantsService.java" />
+      <jump line="10" column="31" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_handle_manager_fragment.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBGcmFnbWVudE1hbmFnZXIgZ2V0RnJhZ21lbnRNYW5hZ2VyKCkgewogICAgICAgIHJldHVybiBtRnJhZ21lbnRNYW5hZ2VyOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEZyYWdtZW50TWFuYWdlcihGcmFnbWVudE1hbmFnZXIgZnJhZ21lbnRNYW5hZ2VyKSB7CiAgICAgICAgbUZyYWdtZW50TWFuYWdlciA9IGZyYWdtZW50TWFuYWdlcjsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LnN1YnNjcmliZShuZXcgT2JzZXJ2ZXI8UmVzU2NvcGVDdHJsQmVhbj4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25Db21wbGV0ZWQoKSB7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkVycm9yKFRocm93YWJsZSBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKGUsICJvbkVycm9yIik7CiAgICAgICAgICAgICAgICAgICAgICAgIG1NdWx0aVN0YXRlVmlldy5zZXRWaWV3U3RhdGUoTXVsdGlTdGF0ZVZpZXcuVklFV19TVEFURV9GQUlMKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV4dChSZXNTY29wZUN0cmxCZWFuIHJlc1Njb3BlQ3RybEJlYW4pIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKE5ldFV0aWxzLmlzU3VjY2VzcyhyZXNTY29wZUN0cmxCZWFuLmdldEVycm9yQ29kZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVJlY3ljbGVyVmlldy5zZXRBZGFwdGVyKG5ldyBMaXN0QWRhcHRlcigpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1NdWx0aVN0YXRlVmlldy5zZXRWaWV3U3RhdGUoTXVsdGlTdGF0ZVZpZXcuVklFV19TVEFURV9DT05URU5UKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1NdWx0aVN0YXRlVmlldy5zZXRWaWV3U3RhdGUoTXVsdGlTdGF0ZVZpZXcuVklFV19TVEFURV9GQUlMKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
@@ -770,11 +795,11 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBGcmFnbWVudE1hbmFnZXIgZ2V0RnJhZ21lbnRNYW5hZ2VyKCkgewogICAgICAgIHJldHVybiBtRnJhZ21lbnRNYW5hZ2VyOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEZyYWdtZW50TWFuYWdlcihGcmFnbWVudE1hbmFnZXIgZnJhZ21lbnRNYW5hZ2VyKSB7CiAgICAgICAgbUZyYWdtZW50TWFuYWdlciA9IGZyYWdtZW50TWFuYWdlcjsKICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">LnN1YnNjcmliZShuZXcgT2JzZXJ2ZXI8UmVzU2NvcGVDdHJsQmVhbj4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25Db21wbGV0ZWQoKSB7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkVycm9yKFRocm93YWJsZSBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5lKGUsICJvbkVycm9yIik7CiAgICAgICAgICAgICAgICAgICAgICAgIG1NdWx0aVN0YXRlVmlldy5zZXRWaWV3U3RhdGUoTXVsdGlTdGF0ZVZpZXcuVklFV19TVEFURV9GQUlMKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTmV4dChSZXNTY29wZUN0cmxCZWFuIHJlc1Njb3BlQ3RybEJlYW4pIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKE5ldFV0aWxzLmlzU3VjY2VzcyhyZXNTY29wZUN0cmxCZWFuLmdldEVycm9yQ29kZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVJlY3ljbGVyVmlldy5zZXRBZGFwdGVyKG5ldyBMaXN0QWRhcHRlcigpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1NdWx0aVN0YXRlVmlldy5zZXRWaWV3U3RhdGUoTXVsdGlTdGF0ZVZpZXcuVklFV19TVEFURV9DT05URU5UKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1NdWx0aVN0YXRlVmlldy5zZXRWaWV3U3RhdGUoTXVsdGlTdGF0ZVZpZXcuVklFV19TVEFURV9GQUlMKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGZyYWdtZW50CiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAvPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
@@ -783,65 +808,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnbkxlZnQ9IkBpZC9jcHVfdXNlX3R2IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2Fib3ZlPSJAaWQvY3B1X3VzZV90diIK</text>
+        <text encoding="base64">ICAgICAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8U3RyaW5nPiB4VmFscyA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgeFZhbHMuYWRkKCLmnKrkvb/nlKgiKTsKLy8gICAgICAgIHhWYWxzLmFkZCgi5bey5L2/55SoIik7Ci8vICAgICAgICBMaXN0PEVudHJ5PiB5VmFscyA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgeVZhbHMuYWRkKG5ldyBFbnRyeSgxMi4zZiwgMCkpOwovLyAgICAgICAgeVZhbHMuYWRkKG5ldyBFbnRyeSgyLjNmLCAxKSk7Ci8vCi8vICAgICAgICBpbml0Q2hhcnQobUNwdVBpZUNoYXJ0LCB4VmFscywgeVZhbHMsICJDUFXmoLjmlbAiKTsKLy8gICAgICAgIGluaXRDaGFydChtTWVtUGllQ2hhcnQsIHhWYWxzLCB5VmFscywgIuWGheWtmOWkp+WwjyIpOwovLyAgICAgICAgaW5pdENoYXJ0KG1TdG9yYWdlUGllQ2hhcnQsIHhWYWxzLCB5VmFscywgIuWCqOWtmOWuuemHjyIpOwovLyAgICAgICAgaW5pdENoYXJ0KG1EYlBpZUNoYXJ0LCB4VmFscywgeVZhbHMsICLmlbDmja7lupPlrrnph48iKTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBlbmRUaW1lCiAgICAgKiBAcGFyYW0gcmVudElkCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>pieData.setValueFormatter(new ValueFormatter() {
-            @Override
-            public String getFormattedValue(float value, Entry entry, int dataSetIndex, ViewPortHandler viewPortHandler) {
-                if (entry.getXIndex() == 0) {
-                    return value + &quot;T&quot;;
-                }
-                return value + &quot;%&quot;;
-            }
-        });</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBRdWVyeSgiZW5kVGltZSIpIFN0cmluZyBlbmRUaW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFF1ZXJ5KCJyZW50SWQiKSBTdHJpbmcgcmVudElkKTsK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text>@Bind(R.id.title_tv)
-    TextView mTitleTv;
-    @Bind(R.id.toolbar)
-    Toolbar mToolbar;
-    @Bind(R.id.cpu_pie_chart)
-    PieChart mCpuPieChart;
-    @Bind(R.id.mem_pie_chart)
-    PieChart mMemPieChart;
-    @Bind(R.id.storage_pie_chart)
-    PieChart mStoragePieChart;
-    @Bind(R.id.db_pie_chart)
-    PieChart mDbPieChart;
-    @Bind(R.id.multi_state_view)
-    MultiStateView mMultiStateView;
-    @Bind(R.id.cpu_total_tv)
-    TextView mCpuTotalTv;
-    @Bind(R.id.cpu_use_tv)
-    TextView mCpuUseTv;
-    @Bind(R.id.mem_total_tv)
-    TextView mMemTotalTv;
-    @Bind(R.id.mem_use_tv)
-    TextView mMemUseTv;
-    @Bind(R.id.storage_total_tv)
-    TextView mStorageTotalTv;
-    @Bind(R.id.storage_use_tv)
-    TextView mStorageUseTv;
-    @Bind(R.id.db_total_tv)
-    TextView mDbTotalTv;
-    @Bind(R.id.db_use_tv)
-    TextView mDbUseTv;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFJlbGF0aXZlTGF5b3V0CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3doaXRlIgogICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSJAZGltZW4vc2l6ZV84Ij4KCiAgICAgICAgICAgIDwvUmVsYXRpdmVMYXlvdXQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgbUhvc3RuYW1lVHYuc2V0VGV4dChkYXRhLmdldEhvc3QoKSArICIiKTsKLy8gICAgICAgICAgICBtVm1Ib3N0bmFtZVR2LnNldFRleHQoZGF0YS5nZXRWbSgpICsgIiIpOwovLyAgICAgICAgICAgIG1PdGhlckRldmljZVR2LnNldFRleHQoZGF0YS5nZXRTeXMoKSArICIiKTsKLy8gICAgICAgICAgICBtQ29udGFpbmVyVHYuc2V0VGV4dChkYXRhLmdldERvY2tlcigpICsgIiIpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RpdGxlX3N3aXRjaF90diIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iQGRpbWVuL3NpemVfOCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9zaXplXzgiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSLln5/lkI3liIfmjaIiLz4KCiAgICAgICAgICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3N3aXRjaF9idG4iCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudEVuZD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAaWQvdGl0bGVfc3dpdGNoX3R2IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IkBkaW1lbi9zaXplXzgiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvc2VsZWN0b3Jfcm91bmRfYmx1ZV9zbWFsbCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IkBkaW1lbi9zaXplXzgiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSLnoa7orqTliIfmjaIiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3doaXRlIi8+CgogICAgICAgICAgICAgICAgPGNvbS5ib2NhaS5jaGluYW1vYmlsZS51aS53aWRnZXQuU2ltcGxlU3Bpbm5lcgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc3dpdGNoX3NwaW5uZXIiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9iZWxvdz0iQGlkL3RpdGxlX3N3aXRjaF90diIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF90b0xlZnRPZj0iQGlkL3N3aXRjaF9idG4iCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYmdfd2hpdGVfcm91bmRfYm9yZGVyIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZHJhd2FibGVQYWRkaW5nPSJAZGltZW4vc2l6ZV84IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZHJhd2FibGVSaWdodD0iQG1pcG1hcC9pY19jb21tb25fZG93biIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOm1pbkhlaWdodD0iQGRpbWVuL3NpemVfMjAiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSJAZGltZW4vc2l6ZV84IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iMTExMSIvPgoKICAgICAgICAgICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGl0bGVfc2VydmljZV9yZXN1bWVfdHYiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9iZWxvdz0iQGlkL3N3aXRjaF9zcGlubmVyIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iQGRpbWVuL3NpemVfOCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9zaXplXzgiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSLmnI3liqHlmajph43lkK8iLz4KCiAgICAgICAgICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlcnZpY2VfcmVzdW1lX2J0biIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50RW5kPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50UmlnaHQ9InRydWUiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYmVsb3c9IkBpZC90aXRsZV9zZXJ2aWNlX3Jlc3VtZV90diIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSJAZGltZW4vc2l6ZV84IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3NlbGVjdG9yX3JvdW5kX2JsdWVfc21hbGwiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSJAZGltZW4vc2l6ZV84IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i56Gu6K6k5YiH5o2iIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAYW5kcm9pZDpjb2xvci93aGl0ZSIvPgoKICAgICAgICAgICAgICAgIDxjb20uYm9jYWkuY2hpbmFtb2JpbGUudWkud2lkZ2V0LlNpbXBsZVNwaW5uZXIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NlcnZpY2VfcmVzdW1lX3NwaW5uZXIiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9iZWxvdz0iQGlkL3RpdGxlX3NlcnZpY2VfcmVzdW1lX3R2IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3RvTGVmdE9mPSJAaWQvc2VydmljZV9yZXN1bWVfYnRuIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2JnX3doaXRlX3JvdW5kX2JvcmRlciIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlUGFkZGluZz0iQGRpbWVuL3NpemVfOCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlUmlnaHQ9IkBtaXBtYXAvaWNfY29tbW9uX2Rvd24iCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDptaW5IZWlnaHQ9IkBkaW1lbi9zaXplXzIwIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iQGRpbWVuL3NpemVfOCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IjExMTEiLz4KCiAgICAgICAgICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RpdGxlX2Rpc2FzdGVyX3N3aXRjaF90diIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAaWQvc2VydmljZV9yZXN1bWVfc3Bpbm5lciIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IkBkaW1lbi9zaXplXzgiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSJAZGltZW4vc2l6ZV84IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i5a6554G+5YiH5o2iIi8+CgogICAgICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zZXJ2aWNlX2Rpc2FzdGVyX3N3aXRjaF9idG4iCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudEVuZD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAaWQvdGl0bGVfZGlzYXN0ZXJfc3dpdGNoX3R2IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IkBkaW1lbi9zaXplXzgiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvc2VsZWN0b3Jfcm91bmRfYmx1ZV9zbWFsbCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IkBkaW1lbi9zaXplXzgiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSLnoa7orqTliIfmjaIiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3doaXRlIi8+CgogICAgICAgICAgICAgICAgPGNvbS5ib2NhaS5jaGluYW1vYmlsZS51aS53aWRnZXQuU2ltcGxlU3Bpbm5lcgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc2VydmljZV9kaXNhc3Rlcl9zd2l0Y2hfc3Bpbm5lciIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAaWQvdGl0bGVfZGlzYXN0ZXJfc3dpdGNoX3R2IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3RvTGVmdE9mPSJAaWQvc2VydmljZV9yZXN1bWVfYnRuIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2JnX3doaXRlX3JvdW5kX2JvcmRlciIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlUGFkZGluZz0iQGRpbWVuL3NpemVfOCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlUmlnaHQ9IkBtaXBtYXAvaWNfY29tbW9uX2Rvd24iCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDptaW5IZWlnaHQ9IkBkaW1lbi9zaXplXzIwIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iQGRpbWVuL3NpemVfOCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IjExMTEiLz4KCiAgICAgICAgICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RpdGxlX2FwcF9yZXN1bWVfdHYiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9iZWxvdz0iQGlkL3NlcnZpY2VfZGlzYXN0ZXJfc3dpdGNoX3NwaW5uZXIiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSJAZGltZW4vc2l6ZV84IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iQGRpbWVuL3NpemVfOCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IuW6lOeUqOmHjeWQryIvPgoKICAgICAgICAgICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYXBwX3Jlc3VtZV9idG4iCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudEVuZD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAaWQvdGl0bGVfYXBwX3Jlc3VtZV90diIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSJAZGltZW4vc2l6ZV84IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3NlbGVjdG9yX3JvdW5kX2JsdWVfc21hbGwiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSJAZGltZW4vc2l6ZV84IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i56Gu6K6k5YiH5o2iIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAYW5kcm9pZDpjb2xvci93aGl0ZSIvPgoKICAgICAgICAgICAgICAgIDxjb20uYm9jYWkuY2hpbmFtb2JpbGUudWkud2lkZ2V0LlNpbXBsZVNwaW5uZXIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FwcF9yZXN1bWVfc3Bpbm5lciIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAaWQvdGl0bGVfYXBwX3Jlc3VtZV90diIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF90b2xlZnRvZj0iQGlkL2FwcF9yZXN1bWVfYnRuIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2JnX3doaXRlX3JvdW5kX2JvcmRlciIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlcGFkZGluZz0iQGRpbWVuL3NpemVfOCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlcmlnaHQ9IkBtaXBtYXAvaWNfY29tbW9uX2Rvd24iCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDptaW5oZWlnaHQ9IkBkaW1lbi9zaXplXzIwIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iQGRpbWVuL3NpemVfOCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IjExMTEiLz4K</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQucGllX2NoYXJ0XzEpCiAgICBQaWVDaGFydCBtUGllQ2hhcnQxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IjExMTEiLz4K</text>
       </register>
     </registers>
     <search>
