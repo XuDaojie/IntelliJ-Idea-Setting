@@ -46,11 +46,11 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/login/LoginFragment.java" timestamp="1481002692586">
-        <mark key="[" line="265" column="12" />
-        <mark key="]" line="265" column="12" />
-        <mark key="." line="265" column="12" />
-        <mark key="^" line="261" column="23" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/login/LoginFragment.java" timestamp="1481006767665">
+        <mark key="[" line="294" column="32" />
+        <mark key="]" line="299" column="49" />
+        <mark key="." line="299" column="49" />
+        <mark key="^" line="299" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/java/runtong/bocai/com/runtong/fragment/MineFragment.java" timestamp="1478663859862">
         <mark key="[" line="15" column="26" />
@@ -69,11 +69,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/layout/item_cardpackage_card.xml" timestamp="1478221357225">
         <mark key="[" line="11" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/login/LoginPresenter.java" timestamp="1480995081476">
-        <mark key="[" line="145" column="45" />
-        <mark key="]" line="145" column="45" />
-        <mark key="." line="145" column="45" />
-        <mark key="^" line="70" column="19" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/login/LoginPresenter.java" timestamp="1481004507969">
+        <mark key="[" line="141" column="49" />
+        <mark key="]" line="141" column="49" />
+        <mark key="." line="141" column="49" />
+        <mark key="^" line="71" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/base/BaseApp.java" timestamp="1477464356452">
         <mark key="[" line="18" column="29" />
@@ -136,6 +136,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/StorageCaptureActivity.java" timestamp="1479451422227">
         <mark key="[" line="202" column="5" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/Event.java" timestamp="1481005573483">
+        <mark key="[" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/PaasDcosFragment.java" timestamp="1480647067453">
         <mark key="[" line="84" column="50" />
@@ -225,9 +228,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/drawable/line_vertical_1px.xml" timestamp="1478050249548">
         <mark key="[" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/NetUtils.java" timestamp="1480937660975">
-        <mark key="[" line="12" column="5" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/NetUtils.java" timestamp="1481004722092" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxWaiterService.java" timestamp="1480904024352">
         <mark key="[" line="34" column="9" />
       </file>
@@ -1170,10 +1171,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bUh0dHBSYi5zZXRPbkNoZWNrZWRDaGFuZ2VMaXN0ZW5lcihuZXcgQ29tcG91bmRCdXR0b24uT25DaGVja2VkQ2hhbmdlTGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2hlY2tlZENoYW5nZWQoQ29tcG91bmRCdXR0b24gYnV0dG9uVmlldywgYm9vbGVhbiBpc0NoZWNrZWQpIHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgaG9zdCA9IG1Ib3N0bmFtZUV0LmdldFRleHQoKS50b1N0cmluZygpOwogICAgICAgICAgICAgICAgICAgIGlmIChob3N0Lmxlbmd0aCgpID4gMCAmJiAhaG9zdC5zdGFydHNXaXRoKCJodHRwOi8vIikpIHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICAgICAgbUh0dHBzUmIuc2V0T25DaGVja2VkQ2hhbmdlTGlzdGVuZXIobmV3IENvbXBvdW5kQnV0dG9uLk9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyKCkgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNoZWNrZWRDaGFuZ2VkKENvbXBvdW5kQnV0dG9uIGJ1dHRvblZpZXcsIGJvb2xlYW4gaXNDaGVja2VkKSB7CgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTs=</text>
+        <text>mHttpR</text>
       </register>
       <register name="-" type="4">
-        <text>请输入IP地址</text>
+        <text>mHttpR</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
@@ -1182,40 +1183,40 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">bUh0dHBSYi5zZXRPbkNoZWNrZWRDaGFuZ2VMaXN0ZW5lcihuZXcgQ29tcG91bmRCdXR0b24uT25DaGVja2VkQ2hhbmdlTGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2hlY2tlZENoYW5nZWQoQ29tcG91bmRCdXR0b24gYnV0dG9uVmlldywgYm9vbGVhbiBpc0NoZWNrZWQpIHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgaG9zdCA9IG1Ib3N0bmFtZUV0LmdldFRleHQoKS50b1N0cmluZygpOwogICAgICAgICAgICAgICAgICAgIGlmIChob3N0Lmxlbmd0aCgpID4gMCAmJiAhaG9zdC5zdGFydHNXaXRoKCJodHRwOi8vIikpIHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICAgICAgbUh0dHBzUmIuc2V0T25DaGVja2VkQ2hhbmdlTGlzdGVuZXIobmV3IENvbXBvdW5kQnV0dG9uLk9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyKCkgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNoZWNrZWRDaGFuZ2VkKENvbXBvdW5kQnV0dG9uIGJ1dHRvblZpZXcsIGJvb2xlYW4gaXNDaGVja2VkKSB7CgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTs=</text>
+        <text encoding="base64">bUhvc3RuYW1lRXQuYWRkVGV4dENoYW5nZWRMaXN0ZW5lcihuZXcgVGV4dFdhdGNoZXIoKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIGJlZm9yZVRleHRDaGFuZ2VkKENoYXJTZXF1ZW5jZSBzLCBpbnQgc3RhcnQsIGludCBjb3VudCwgaW50IGFmdGVyKSB7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvblRleHRDaGFuZ2VkKENoYXJTZXF1ZW5jZSBzLCBpbnQgc3RhcnQsIGludCBiZWZvcmUsIGludCBjb3VudCkgewogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWZ0ZXJUZXh0Q2hhbmdlZChFZGl0YWJsZSBzKSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHVybCA9IHMudG9TdHJpbmcoKTsKICAgICAgICAgICAgICAgICAgICBpZiAocy5sZW5ndGgoKSA+IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFVSTFV0aWwuaXNIdHRwVXJsKHVybCkgJiYgIW1IdHRwUmIuaXNDaGVja2VkKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1IdHRwUmIuc2V0Q2hlY2tlZCh0cnVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChVUkxVdGlsLmlzSHR0cHNVcmwodXJsKSAmJiAhbUh0dHBzUmIuaXNDaGVja2VkKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1IdHRwc1JiLnNldENoZWNrZWQodHJ1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOw==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">bUh0dHBSYi5zZXRPbkNoZWNrZWRDaGFuZ2VMaXN0ZW5lcihuZXcgQ29tcG91bmRCdXR0b24uT25DaGVja2VkQ2hhbmdlTGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2hlY2tlZENoYW5nZWQoQ29tcG91bmRCdXR0b24gYnV0dG9uVmlldywgYm9vbGVhbiBpc0NoZWNrZWQpIHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgaG9zdCA9IG1Ib3N0bmFtZUV0LmdldFRleHQoKS50b1N0cmluZygpOwogICAgICAgICAgICAgICAgICAgIGlmIChob3N0Lmxlbmd0aCgpID4gMCAmJiAhaG9zdC5zdGFydHNXaXRoKCJodHRwOi8vIikpIHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICAgICAgbUh0dHBzUmIuc2V0T25DaGVja2VkQ2hhbmdlTGlzdGVuZXIobmV3IENvbXBvdW5kQnV0dG9uLk9uQ2hlY2tlZENoYW5nZUxpc3RlbmVyKCkgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNoZWNrZWRDaGFuZ2VkKENvbXBvdW5kQnV0dG9uIGJ1dHRvblZpZXcsIGJvb2xlYW4gaXNDaGVja2VkKSB7CgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghTmV0VXRpbHMuaXNOZXR3b3JrVXJsKGhvc3RuYW1lKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KG1Db250ZXh0LCBSLnN0cmluZy5pbnB1dF9yaWdodF9ob3N0bmFtZSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IDwhLS08TGluZWFyTGF5b3V0LS0+CiAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KICAgIDwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+LS0+CgogICAgPCEtLTxUZXh0Vmlldy0tPgogICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiLS0+CiAgICA8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CiAgICA8IS0tYW5kcm9pZDp0ZXh0PSJJUOWcsOWdgOiuvue9riItLT4KICAgIDwhLS1hbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL2JsdWUiLz4tLT4KCiAgICA8IS0tPFRleHRWaWV3LS0+CiAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCItLT4KICAgIDwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KICAgIDwhLS1hbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSJAZGltZW4vc2l6ZV84Ii0tPgogICAgPCEtLWFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9zaXplXzQiLS0+CiAgICA8IS0tYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IkBkaW1lbi9zaXplXzQiLS0+CiAgICA8IS0tYW5kcm9pZDp0ZXh0PSJodHRwOi8vIi0tPgogICAgPCEtLWFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3NoYXBlX3JvdW5kX2JsdWVfbWluIi0tPgogICAgPCEtLWFuZHJvaWQ6dGV4dENvbG9yPSJAYW5kcm9pZDpjb2xvci93aGl0ZSItLT4KICAgIDwhLS1hbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiLz4tLT4KCiAgICA8IS0tPFRleHRWaWV3LS0+CiAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCItLT4KICAgIDwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KICAgIDwhLS1hbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSJAZGltZW4vc2l6ZV84Ii0tPgogICAgPCEtLWFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9zaXplXzQiLS0+CiAgICA8IS0tYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IkBkaW1lbi9zaXplXzQiLS0+CiAgICA8IS0tYW5kcm9pZDp0ZXh0PSJodHRwczovLyItLT4KICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9zaGFwZV9yb3VuZF9saWdodF9ncmF5MV9zbWFsbCItLT4KICAgIDwhLS1hbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiLS0+CiAgICA8IS0tYW5kcm9pZDp2aXNpYmlsaXR5PSIiLz4tLT4KICAgIDwhLS08L0xpbmVhckxheW91dD4tLT4=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IklQ5Zyw5Z2A6K6+572uIgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL2JsdWUiLz4=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogMTYvOS8xNyAuLi4K</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogMTYvOS8xNyAuLi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZJWE1FOiAxNi85LzE3IFBob3Rv5Zu+54mH5Li656m6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlbnQgaSA9IG5ldyBJbnRlbnQoSW50ZW50LkFDVElPTl9QSUNLLAogICAgICAgICAgICAgICAgTWVkaWFTdG9yZS5JbWFnZXMuTWVkaWEuSU5URVJOQUxfQ09OVEVOVF9VUkkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZJWE1FOiAxNi85LzE3IFBob3Rv5Zu+54mH5Li656m6Cg==</text>
       </register>
     </registers>
     <search>
