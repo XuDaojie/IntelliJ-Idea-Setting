@@ -465,12 +465,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/res_divider_detial_activity.xml" timestamp="1479432972647">
         <mark key="[" line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/HostOption.java" timestamp="1480928215382">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="19" column="27" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/phone_take_frag.xml" timestamp="1477634199920">
         <mark key="[" line="16" column="26" />
       </file>
@@ -506,6 +500,7 @@
         <mark key="." line="325" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h6ah4i.android.widget.advrecyclerview/advrecyclerview/0.9.3/2ee6977c726d8b4f910e12e23ab55624333f432a/advrecyclerview-0.9.3-sources.jar!/com/h6ah4i/android/widget/advrecyclerview/utils/AbstractExpandableItemAdapter.java" timestamp="1480919988977" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" timestamp="1480990572276" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/chart/RedisLineChartPresenter.java" timestamp="1480475756795">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -870,6 +865,11 @@
         <mark key="]" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/common/ActionUtils.java" timestamp="1480990005948">
+        <mark key="]" line="51" column="61" />
+        <mark key="." line="51" column="61" />
+        <mark key="^" line="51" column="61" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWaringFragment.java" timestamp="1478678203057">
         <mark key="[" line="14" column="32" />
       </file>
@@ -1149,10 +1149,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getALERTMSG</text>
+        <text>JELLY_BEAN</text>
       </register>
       <register name="-" type="4">
-        <text>getALERTMSG</text>
+        <text>JELLY_BEAN</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
@@ -1161,30 +1161,33 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUhvc3RPcHRpb25DZWsuaXNDaGVja2VkKCkpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlbnQgaSA9IG5ldyBJbnRlbnQoSW50ZW50LkFDVElPTl9QSUNLLAogICAgICAgICAgICAgICAgTWVkaWFTdG9yZS5JbWFnZXMuTWVkaWEuSU5URVJOQUxfQ09OVEVOVF9VUkkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgcmVwb3NpdG9yeS5zYXZlU3RyaW5nKENvbnN0YW50c1NoYXJlZC5BVVRIX0FDQ09VTlQsIGpzb24pOwoKICAgICAgICBTaGFyZWRQcmVmZXJlbmNlcyBzcCA9IEFwcC5nZXRJbnN0YW5jZSgpLmdldFNoYXJlZFByZWZlcmVuY2VzKENvbnN0YW50c1NoYXJlZC5TRVRUSU5HLCBDb250ZXh0Lk1PREVfUFJJVkFURSk7CiAgICAgICAgU2hhcmVkUHJlZmVyZW5jZXMuRWRpdG9yIGVkaXRvciA9IHNwLmVkaXQoKTsKICAgICAgICBlZGl0b3IucHV0U3RyaW5nKFBhcmFtcy5LRVlfSE9TVF9PUFRJT04sIG5ldyBHc29uKCkudG9Kc29uKGhvc3RPcHRpb24pKTsKICAgICAgICBlZGl0b3IuY29tbWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobUhvc3RPcHRpb25DZWsuaXNDaGVja2VkKCkpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgcmVwb3NpdG9yeS5zYXZlU3RyaW5nKENvbnN0YW50c1NoYXJlZC5BVVRIX0FDQ09VTlQsIGpzb24pOwoKICAgICAgICBTaGFyZWRQcmVmZXJlbmNlcyBzcCA9IEFwcC5nZXRJbnN0YW5jZSgpLmdldFNoYXJlZFByZWZlcmVuY2VzKENvbnN0YW50c1NoYXJlZC5TRVRUSU5HLCBDb250ZXh0Lk1PREVfUFJJVkFURSk7CiAgICAgICAgU2hhcmVkUHJlZmVyZW5jZXMuRWRpdG9yIGVkaXRvciA9IHNwLmVkaXQoKTsKICAgICAgICBlZGl0b3IucHV0U3RyaW5nKFBhcmFtcy5LRVlfSE9TVF9PUFRJT04sIG5ldyBHc29uKCkudG9Kc29uKGhvc3RPcHRpb24pKTsKICAgICAgICBlZGl0b3IuY29tbWl0KCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDph43nva5SZXRyb2ZpdOmFjee9rgogICAgICAgICAqLwogICAgICAgIHZvaWQgYmFzZVVybChTdHJpbmcgdXJsKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgYmFzZVVybChTdHJpbmcgdXJsKSB7CiAgICAgICAgUmV0cm9maXRNYW5hZ2VyLklOU1RBTkNFLmJhc2VVcmwodXJsKTsKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHVybCA9IFJldHJvZml0TWFuYWdlci47CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChjaGVja2VkKSB7CgogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIG1QcmVzZW50ZXIuYmFzZVVybCgpOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IG1Vc2VybmFtZUV0LnNldFRleHQoYWNjb3VudC5nZXRNb2JpbGVQaG9uZSgpKTsKICAgICAgICAgICAgbVB3ZEV0LnNldFRleHQoYWNjb3VudC5nZXRQYXNzd29yZCgpKTs=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">IG1Vc2VybmFtZUV0LnNldFRleHQoYWNjb3VudC5nZXRNb2JpbGVQaG9uZSgpKTsKICAgICAgICAgICAgbVB3ZEV0LnNldFRleHQoYWNjb3VudC5nZXRQYXNzd29yZCgpKTs=</text>
+      </register>
+      <register name="8" type="4">
         <text>@Override
     public String toString() {
         final StringBuffer sb = new StringBuffer(&quot;Hostname{&quot;);
@@ -1194,14 +1197,11 @@
         return sb.toString();
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iQGRpbWVuL3NpemVfNCI+CgogICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIzIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IuS/ruWkjeWGheWuuSIvPgoKICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9maXhfbXNnX3R2IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iQGRpbWVuL3NpemVfOCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSI3IgogICAgICAgICAgICB0b29sczp0ZXh0PSLnvZHlhYN4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4Ii8+CiAgICA8L0xpbmVhckxheW91dD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
