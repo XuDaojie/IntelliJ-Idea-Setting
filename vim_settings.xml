@@ -26,11 +26,11 @@
         <mark key="^" line="136" column="33" />
         <mark key="." line="136" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1480986095700">
+      <file name="/a.dummy" timestamp="1480987335419">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_warning_detail_activity.xml" timestamp="1480650492244">
-        <mark key="[" line="21" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_warning_detail_activity.xml" timestamp="1480987388975">
+        <mark key="[" line="21" column="33" />
         <mark key="]" line="38" column="38" />
         <mark key="." line="38" column="38" />
         <mark key="^" line="70" column="48" />
@@ -282,10 +282,10 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/HomeWarningDetailActivity.java" timestamp="1480908991261">
-        <mark key="[" line="355" column="32" />
-        <mark key="]" line="473" column="50" />
-        <mark key="." line="473" column="50" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/HomeWarningDetailActivity.java" timestamp="1480987376497">
+        <mark key="[" line="536" column="65" />
+        <mark key="]" line="536" column="65" />
+        <mark key="." line="536" column="65" />
         <mark key="^" line="473" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/BaseTipView.java" timestamp="1480582587239">
@@ -625,13 +625,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/NetWarnDetailActivity.java" timestamp="1480924058806">
-        <mark key="'" line="455" column="31" />
-        <mark key="[" line="336" column="91" />
-        <mark key="]" line="90" column="30" />
-        <mark key="." line="90" column="30" />
-        <mark key="^" line="90" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/TenantsBusniessResource.java" timestamp="1479955396302">
         <mark key="[" line="5" column="32" />
@@ -1155,11 +1148,11 @@
       <jump line="475" column="31" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/NetWarnDetailActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUhvc3RPcHRpb25DZWsuaXNDaGVja2VkKCkpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsK</text>
+      <register name="&quot;" type="4">
+        <text>getALERTMSG</text>
       </register>
       <register name="-" type="4">
-        <text>URL</text>
+        <text>getALERTMSG</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
