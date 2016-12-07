@@ -103,11 +103,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/ResDividerDetailActivity.java" timestamp="1479433126007">
         <mark key="[" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/animator/src/main/java/me/xdj/animatenote/TestActivity.java" timestamp="1481082848826">
-        <mark key="[" line="140" column="28" />
-        <mark key="]" line="140" column="28" />
-        <mark key="." line="140" column="28" />
-        <mark key="^" line="70" column="19" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/animator/src/main/java/me/xdj/animatenote/TestActivity.java" timestamp="1481092715115">
+        <mark key="[" line="115" column="28" />
+        <mark key="]" line="115" column="28" />
+        <mark key="." line="115" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/activity_productbuy_confirm.xml" timestamp="1478590350577">
         <mark key="[" line="190" column="79" />
@@ -628,10 +627,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/fragment_financing.xml" timestamp="1478589231522">
         <mark key="[" line="4" column="71" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/animator/src/main/res/layout/activity_test.xml" timestamp="1481081473206">
-        <mark key="[" line="57" column="19" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/animator/src/main/res/layout/activity_test.xml" timestamp="1481091481943">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
       </file>
       <file name="/a.txt" timestamp="1478778903678">
         <mark key="[" line="0" column="0" />
@@ -1113,10 +1113,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>mStart = false;
+                            mRunning = false;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>activeAnimator</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
@@ -1125,44 +1126,48 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGNvZGVCYWRUdi5wb3N0RGVsYXllZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQ==</text>
+        <text>mStart = false;
+                            mRunning = false;</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICBhbmltYXRvcjEuc3RhcnQoKTsKICAgICAgICAgICAgICAgICAgICBhbmltYXRvcjIuc3RhcnQoKTs=</text>
+        <text encoding="base64">IG1SdW5uaW5nID0gZmFsc2U7CiAgICAgICAgICAgICAgICBtUGF1c2VkID0gZmFsc2U7</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICA8L0xpbmVhckxheW91dD4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>private void getAnimatorState() {
+        if (mCurrentAnimator)
+    }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IG1OZXh0QW5pbWF0b3IuaXNSdW5uaW5nKCk7CiAgICAgICAgICAgICAgICBtTmV4dEFuaW1hdG9yLmlzU3RhcnRlZCgpOwogICAgICAgICAgICAgICAgbU5leHRBbmltYXRvci5pc1BhdXNlZCgpOw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHBhdXNlKCkgewogICAgICAgIGlmIChtUGF1c2VkKSByZXR1cm47CgogICAgICAgIGNhbmNlbCgpOwogICAgICAgIG1QYXVzZWQgPSB0cnVlOwogICAgfQo=</text>
+      <register name="6" type="4">
+        <text>new Runnable() {
+            @Override
+            public void run() {
+                animatorSet.start();
+            }
+        }</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text>if (Auth.getLoginInfo().getData().getSTATUS() == LoginSecBean.ADMIN) {
-                        return total + &quot;G&quot;;
-                    } else {
-                        return total + &quot;M&quot;;
-                    }</text>
+        <text encoding="base64">IGNvZGVCYWRUdi5wb3N0RGVsYXllZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRvdGFsICsgIkd4IjsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBhbmltYXRvcjEuc3RhcnQoKTsKICAgICAgICAgICAgICAgICAgICBhbmltYXRvcjIuc3RhcnQoKTs=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEBRdWVyeSgiZnJvbVRpbWUiKSBTdHJpbmcgZnJvbVRpbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUXVlcnkoImVuZFRpbWUiKSBTdHJpbmcgZW5kVGltZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBRdWVyeSgicmVzVHlwZSIpIFN0cmluZyByZXNUeXBlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFF1ZXJ5KCJhcHBJZCIpIFN0cmluZyBhcHBJZA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICA8L0xpbmVhckxheW91dD4K</text>
       </register>
     </registers>
     <search>
