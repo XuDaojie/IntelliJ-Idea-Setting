@@ -200,8 +200,10 @@
         <mark key="." line="231" column="35" />
         <mark key="^" line="232" column="44" />
       </file>
-      <file name="$USER_HOME$/React Native/ReactTodo/android/app/src/main/java/com/reacttodo/MainApplication.java" timestamp="1481340977419">
-        <mark key="[" line="24" column="32" />
+      <file name="$USER_HOME$/React Native/ReactTodo/android/app/src/main/java/com/reacttodo/MainApplication.java" timestamp="1481359849562">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="48" />
+        <mark key="." line="24" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/Hostname.java" timestamp="1480926004986">
         <mark key="[" line="7" column="21" />
@@ -384,7 +386,8 @@
         <mark key="]" line="19" column="36" />
         <mark key="." line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/React Native/ReactTodo/android/app/src/main/java/com/reacttodo/module/ToastModule.java" timestamp="1481356472196">
+      <file name="$USER_HOME$/React Native/ReactTodo/android/app/src/main/java/com/reacttodo/module/ToastModule.java" timestamp="1481359156817">
+        <mark key="[" line="36" column="52" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
@@ -906,7 +909,7 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-        <mark key="^" line="21" column="29" />
+        <mark key="^" line="20" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_cycle_orange_orange.xml" timestamp="1478763256324">
         <mark key="[" line="6" column="30" />
@@ -1106,11 +1109,11 @@
       <jump line="475" column="31" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/NetWarnDetailActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5yZWFjdC5tb2R1bGVzLnRvYXN0LlRvYXN0TW9kdWxlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>TodoReactPackage</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>TodoReactPackage</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
