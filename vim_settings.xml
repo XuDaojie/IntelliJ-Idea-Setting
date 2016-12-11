@@ -278,6 +278,7 @@
         <mark key="]" line="294" column="11" />
         <mark key="." line="294" column="11" />
       </file>
+      <file name="$USER_HOME$/React Native/ReactTodo/node_modules/react-native/android/com/facebook/react/react-native/0.38.1/react-native-0.38.1-sources.jar!/com/facebook/react/bridge/UiThreadUtil.java" timestamp="1481473790598" />
       <file name="$USER_HOME$/AndroidStudioProjects/Gallery2/app/src/main/java/android/util/Pools.java" timestamp="1477382733938">
         <mark key="[" line="34" column="8" />
       </file>
@@ -653,8 +654,10 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/React Native/ReactTodo/android/app/src/main/java/com/reacttodo/module/SimpleToastModule.java" timestamp="1481471354533">
-        <mark key="[" line="41" column="44" />
+      <file name="$USER_HOME$/React Native/ReactTodo/android/app/src/main/java/com/reacttodo/module/SimpleToastModule.java" timestamp="1481473146916">
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="37" column="37" />
+        <mark key="." line="37" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xudaojie/ninesquare/load/RequestOption.java" timestamp="1477644777364">
         <mark key="[" line="6" column="28" />
@@ -955,6 +958,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/NDKSample/app/src/main/cpp/native.cpp" timestamp="1479287752719">
         <mark key="[" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/React Native/ReactTodo/node_modules/react-native/android/com/facebook/react/react-native/0.38.1/react-native-0.38.1-sources.jar!/com/facebook/react/modules/toast/ToastModule.java" timestamp="1481472448176" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/net_warn_detail_dialog.xml" timestamp="1480923804349">
         <mark key="[" line="97" column="19" />
         <mark key="]" line="144" column="0" />
@@ -1119,10 +1123,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TodoReactPackage</text>
+        <text>SimpleToastModule.DURATION_LONG</text>
       </register>
       <register name="-" type="4">
-        <text>TodoReactPackage</text>
+        <text>SimpleToastModule.DURATION_LONG</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
