@@ -64,8 +64,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Refresh/refresh/src/main/java/me/xdj/refresh/LoadMoreAdapter.java" timestamp="1481707169748">
-        <mark key="[" line="127" column="59" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Refresh/refresh/src/main/java/me/xdj/refresh/LoadMoreAdapter.java" timestamp="1481707313755">
+        <mark key="[" line="128" column="59" />
         <mark key="]" line="53" column="34" />
         <mark key="." line="53" column="34" />
         <mark key="^" line="53" column="34" />
@@ -117,10 +117,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/activity_productbuy_confirm.xml" timestamp="1478590350577">
         <mark key="[" line="190" column="79" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/src/main/java/me/xdj/refresh/app/TestLoadMoreFragment.java" timestamp="1481707011786">
-        <mark key="[" line="60" column="15" />
-        <mark key="]" line="60" column="15" />
-        <mark key="." line="60" column="15" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/src/main/java/me/xdj/refresh/app/TestLoadMoreFragment.java" timestamp="1481709656848">
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="86" column="33" />
+        <mark key="." line="86" column="33" />
         <mark key="^" line="50" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionPresenter.java" timestamp="1479378188393">
@@ -424,7 +424,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_white_border_top_1px.xml" timestamp="1479456391745">
         <mark key="[" line="10" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481702991749">
+      <file name="/Dummy.txt" timestamp="1481709479680">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -988,7 +988,7 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/src/main/java/me/xdj/refresh/app/MainActivity.java" timestamp="1481706309944">
+      <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/src/main/java/me/xdj/refresh/app/MainActivity.java" timestamp="1481707304933">
         <mark key="[" line="118" column="84" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/activity_productbuy.xml" timestamp="1478589577755">
@@ -1102,10 +1102,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHJlY3ljbGVyVmlldy5wb3N0KG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOw==</text>
+        <text>count</text>
       </register>
       <register name="-" type="4">
-        <text>RecyclerView.ViewHolder</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
