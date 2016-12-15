@@ -23,9 +23,6 @@
         <mark key="]" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
-      <file name="/a.dummy" timestamp="1481779272814">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/refresh/src/main/res/layout/view_load_more.xml" timestamp="1481732508662">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="13" column="3" />
@@ -145,6 +142,11 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModule/app/build.gradle" timestamp="1481785925880">
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_ring_green_small.xml" timestamp="1480563266681">
         <mark key="[" line="5" column="36" />
@@ -442,9 +444,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/res/values/styles.xml" timestamp="1477445616355">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/HengQiang/app/src/main/java/com/bocai/hengqiang/common/SimpleCaptureActivity.java" timestamp="1481765521136">
-        <mark key="[" line="13" column="35" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/BasePresenter.java" timestamp="1480475298851">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -514,9 +513,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" timestamp="1481765088270">
-        <mark key="[" line="366" column="37" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/chart/RedisLineChartPresenter.java" timestamp="1480475756795">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -532,6 +528,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModule/app/src/main/java/wang/kaizen/androidmodule/MainActivity.java" timestamp="1481785981144">
+        <mark key="[" line="17" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_ring_blue.xml" timestamp="1479711797539">
         <mark key="[" line="6" column="30" />
@@ -624,7 +623,7 @@
         <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/HengQiang/app/src/main/java/com/bocai/hengqiang/personinfo/ReEditAdressAty.java" timestamp="1481780344677" />
-      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/build.gradle" timestamp="1481719737088">
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/build.gradle" timestamp="1481785902897">
         <mark key="[" line="36" column="53" />
         <mark key="]" line="36" column="54" />
         <mark key="." line="36" column="54" />
@@ -1177,10 +1176,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>length</text>
+        <text>qrcodelib</text>
       </register>
       <register name="-" type="4">
-        <text>length</text>
+        <text>qrcodelib</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
