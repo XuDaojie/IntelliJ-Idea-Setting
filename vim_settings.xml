@@ -491,10 +491,10 @@
         <mark key="]" line="18" column="40" />
         <mark key="." line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/LoadMore/app/build.gradle" timestamp="1481940262846">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/LoadMore/app/build.gradle" timestamp="1481963788535">
+        <mark key="[" line="24" column="51" />
+        <mark key="]" line="24" column="52" />
+        <mark key="." line="24" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/DashboadNetListActivity.java" timestamp="1480646940877">
         <mark key="[" line="161" column="73" />
@@ -533,7 +533,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_white_border_top_1px.xml" timestamp="1479456391745">
         <mark key="[" line="10" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481959526881">
+      <file name="/Dummy.txt" timestamp="1481963871392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -853,14 +853,16 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/PaasDbFragment.java" timestamp="1480647063469">
         <mark key="[" line="98" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/LoadMore/app/src/main/java/me/xudaojie/loadmore/app/TestLoadMoreFragment.java" timestamp="1481962405277">
-        <mark key="[" line="90" column="49" />
-        <mark key="]" line="90" column="49" />
-        <mark key="." line="90" column="49" />
+      <file name="$USER_HOME$/AndroidStudioProjects/LoadMore/app/src/main/java/me/xudaojie/loadmore/app/TestLoadMoreFragment.java" timestamp="1481964895067">
+        <mark key="[" line="114" column="61" />
+        <mark key="]" line="114" column="61" />
+        <mark key="." line="114" column="61" />
+        <mark key="^" line="110" column="14" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/warning/exact/CodeSearchPresenter.java" timestamp="1479450771115">
         <mark key="[" line="40" column="33" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/23.2.1/recyclerview-v7-23.2.1-sources.jar!/android/support/v7/widget/helper/ItemTouchHelper.java" timestamp="1481964047079" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/listview/ListViewActivity.java" timestamp="1481874234561">
         <mark key="[" line="102" column="80" />
       </file>
@@ -1029,13 +1031,12 @@
         <mark key="]" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/LoadMore/loadmore/build.gradle" timestamp="1481939465516">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="23" />
+      <file name="$USER_HOME$/AndroidStudioProjects/LoadMore/loadmore/build.gradle" timestamp="1481963843060">
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="24" column="55" />
         <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
+        <mark key="." line="24" column="55" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1481940676764" />
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/README.md" timestamp="1481724486502">
         <mark key="[" line="80" column="49" />
         <mark key="]" line="80" column="50" />
@@ -1127,7 +1128,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1481940676764" />
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/drawable/bg_shape_round_small_yellow.xml" timestamp="1478069759395">
         <mark key="[" line="2" column="33" />
       </file>
@@ -1317,10 +1317,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UP</text>
+        <text>RED</text>
       </register>
       <register name="-" type="4">
-        <text>UP</text>
+        <text>RED</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
@@ -1328,10 +1328,16 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">IEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNoaWxkRHJhd092ZXIoQ2FudmFzIGMsIFJlY3ljbGVyVmlldyByZWN5Y2xlclZpZXcsIFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyIHZpZXdIb2xkZXIsIGZsb2F0IGRYLCBmbG9hdCBkWSwgaW50IGFjdGlvblN0YXRlLCBib29sZWFuIGlzQ3VycmVudGx5QWN0aXZlKSB7CiAgICAgICAgICAgICAgICBzdXBlci5vbkNoaWxkRHJhd092ZXIoYywgcmVjeWNsZXJWaWV3LCB2aWV3SG9sZGVyLCBkWCwgZFksIGFjdGlvblN0YXRlLCBpc0N1cnJlbnRseUFjdGl2ZSk7CiAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJvbkNoaWxkRHJhd092ZXIiKTsKICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBJdGVtVG91Y2hIZWxwZXIuCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>SimpleCallback callback = new ItemTouchHelper.SimpleCallback() {
             @Override
             public boolean onMove(RecyclerView recyclerView, RecyclerView.ViewHolder viewHolder, RecyclerView.ViewHolder target) {
@@ -1344,35 +1350,29 @@
             }
         };</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZWN5Y2xlclZpZXcuc2V0TmVzdGVkU2Nyb2xsaW5nRW5hYmxlZChmYWxzZSk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCI+CgogICAgICAgICAgICAKCgogICAgICAgICAgICAKCiAgICAgICAgPC9MaW5lYXJMYXlvdXQ+</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5taWd1ZWxjYXRhbGFuOm1hdGVyaWFsc2VhcmNodmlldzoxLjQuMCcK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1lLnhkai5yZWZyZXNoLmFwcC5SOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5taWd1ZWxjYXRhbGFuOm1hdGVyaWFsc2VhcmNodmlldzoxLjQuMCcK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1lLnhkai5yZWZyZXNoLmFwcC5SOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1lLnhkai5yZWZyZXNoLlI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1lLnhkai5yZWZyZXNoLmFwcC5SOwo=</text>
+        <text encoding="base64">aW1wb3J0IG1lLnhkai5yZWZyZXNoLlI7Cg==</text>
       </register>
     </registers>
     <search>
