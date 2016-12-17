@@ -142,6 +142,11 @@
         <mark key="]" line="115" column="28" />
         <mark key="." line="115" column="28" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/LoadMore/loadmore/src/main/java/me/xudaojie/loadmore/LoadMoreAdapter.java" timestamp="1481937598338">
+        <mark key="[" line="66" column="44" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/layout/activity_productbuy_confirm.xml" timestamp="1478590350577">
         <mark key="[" line="190" column="79" />
       </file>
@@ -413,6 +418,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/BaseCompatActivity.java" timestamp="1480487597787">
         <mark key="[" line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/LoadMore/loadmore/src/main/java/me/xudaojie/loadmore/LoadMoreLayoutManager.java" timestamp="1481937804242">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NDKSample/app/src/main/jni/native.c" timestamp="1479287606814">
         <mark key="[" line="4" column="0" />
       </file>
@@ -570,7 +580,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/IsasNetFragment.java" timestamp="1481009017295">
         <mark key="[" line="116" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1481878158698">
+      <file name="/fragment.java" timestamp="1481937722854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -1252,10 +1262,20 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>50dp</text>
+        <text>public LoadMoreLayoutManager(Context context) {
+        super(context);
+    }
+
+    public LoadMoreLayoutManager(Context context, int orientation, boolean reverseLayout) {
+        super(context, orientation, reverseLayout);
+    }
+
+    public LoadMoreLayoutManager(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {
+        super(context, attrs, defStyleAttr, defStyleRes);
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>50dp</text>
+        <text>LinearLayoutManager</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
@@ -1263,36 +1283,46 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>public LoadMoreLayoutManager(Context context) {
+        super(context);
+    }
+
+    public LoadMoreLayoutManager(Context context, int orientation, boolean reverseLayout) {
+        super(context, orientation, reverseLayout);
+    }
+
+    public LoadMoreLayoutManager(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {
+        super(context, attrs, defStyleAttr, defStyleRes);
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGNvbS5ib2NhaS5oZW5ncWlhbmcud2lkZ2V0LlJlY3RJbWFnZVZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaXZfaW1hZ2UiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxNWRwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjgwZHAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjgwZHAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVyQ3JvcCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhvbGRlciAhPSBudWxsKXsKCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjEwMmRwIgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>android:lines=&quot;1&quot;
-                android:maxLines=&quot;1&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGNvbS5ib2NhaS5oZW5ncWlhbmcud2lkZ2V0LlJlY3RJbWFnZVZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaXZfaW1hZ2UiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxNWRwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjgwZHAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjgwZHAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVyQ3JvcCIgLz4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjEwMmRwIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIxNGRwIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxNWRwIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iMTVkcCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxNGRwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>android:lines=&quot;1&quot;
+                android:maxLines=&quot;1&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">5L6b6ZyA5Lit5b+D5p+l55yL5aSn5Zu+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIxNGRwIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxNWRwIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iMTVkcCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIxNGRwIgo=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
