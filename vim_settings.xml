@@ -97,6 +97,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/LoadMore/README.md" timestamp="1481784265696">
         <mark key="[" line="3" column="137" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/SwipeItemTouchHelper/app/src/main/res/layout/activity_main.xml" timestamp="1482113418169">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/base/BaseApp.java" timestamp="1477464356452">
         <mark key="[" line="18" column="29" />
       </file>
@@ -135,6 +140,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/design/25.1.0/design-25.1.0-sources.jar!/android/support/design/widget/VisibilityAwareImageButton.java" timestamp="1482113452755" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/ExpressInfoFragment.java" timestamp="1479450447222">
         <mark key="[" line="345" column="45" />
       </file>
@@ -531,7 +537,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_white_border_top_1px.xml" timestamp="1479456391745">
         <mark key="[" line="10" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481963871392">
+      <file name="/Dummy.txt" timestamp="1482112946638">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1315,8 +1321,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/LoginSecBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQudjcuYXBwLkFsZXJ0Q29udHJvbGxlci5SZWN5Y2xlTGlzdFZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ii8+CiAgICA8YW5kcm9pZC5zdXBwb3J0LnY3LmFwcC5BbGVydENvbnRyb2xsZXIuUmVjeWNsZUxpc3RWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IiIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiI+PC9hbmRyb2lkLnN1cHBvcnQudjcuYXBwLkFsZXJ0Q29udHJvbGxlci5SZWN5Y2xlTGlzdFZpZXc+Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1327,16 +1333,25 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNoaWxkRHJhd092ZXIoQ2FudmFzIGMsIFJlY3ljbGVyVmlldyByZWN5Y2xlclZpZXcsIFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyIHZpZXdIb2xkZXIsIGZsb2F0IGRYLCBmbG9hdCBkWSwgaW50IGFjdGlvblN0YXRlLCBib29sZWFuIGlzQ3VycmVudGx5QWN0aXZlKSB7CiAgICAgICAgICAgICAgICBzdXBlci5vbkNoaWxkRHJhd092ZXIoYywgcmVjeWNsZXJWaWV3LCB2aWV3SG9sZGVyLCBkWCwgZFksIGFjdGlvblN0YXRlLCBpc0N1cnJlbnRseUFjdGl2ZSk7CiAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJvbkNoaWxkRHJhd092ZXIiKTsKICAgICAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQudjcuYXBwLkFsZXJ0Q29udHJvbGxlci5SZWN5Y2xlTGlzdFZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ii8+CiAgICA8YW5kcm9pZC5zdXBwb3J0LnY3LmFwcC5BbGVydENvbnRyb2xsZXIuUmVjeWNsZUxpc3RWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IiIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiI+PC9hbmRyb2lkLnN1cHBvcnQudjcuYXBwLkFsZXJ0Q29udHJvbGxlci5SZWN5Y2xlTGlzdFZpZXc+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVtVG91Y2hIZWxwZXIuCg==</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiLz4K</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNoaWxkRHJhd092ZXIoQ2FudmFzIGMsIFJlY3ljbGVyVmlldyByZWN5Y2xlclZpZXcsIFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyIHZpZXdIb2xkZXIsIGZsb2F0IGRYLCBmbG9hdCBkWSwgaW50IGFjdGlvblN0YXRlLCBib29sZWFuIGlzQ3VycmVudGx5QWN0aXZlKSB7CiAgICAgICAgICAgICAgICBzdXBlci5vbkNoaWxkRHJhd092ZXIoYywgcmVjeWNsZXJWaWV3LCB2aWV3SG9sZGVyLCBkWCwgZFksIGFjdGlvblN0YXRlLCBpc0N1cnJlbnRseUFjdGl2ZSk7CiAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJvbkNoaWxkRHJhd092ZXIiKTsKICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBJdGVtVG91Y2hIZWxwZXIuCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>SimpleCallback callback = new ItemTouchHelper.SimpleCallback() {
             @Override
             public boolean onMove(RecyclerView recyclerView, RecyclerView.ViewHolder viewHolder, RecyclerView.ViewHolder target) {
@@ -1349,29 +1364,20 @@
             }
         };</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWN5Y2xlclZpZXcuc2V0TmVzdGVkU2Nyb2xsaW5nRW5hYmxlZChmYWxzZSk7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCI+CgogICAgICAgICAgICAKCgogICAgICAgICAgICAKCiAgICAgICAgPC9MaW5lYXJMYXlvdXQ+</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5taWd1ZWxjYXRhbGFuOm1hdGVyaWFsc2VhcmNodmlldzoxLjQuMCcK</text>
-      </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1lLnhkai5yZWZyZXNoLmFwcC5SOwo=</text>
+        <text encoding="base64">ICAgICAgICByZWN5Y2xlclZpZXcuc2V0TmVzdGVkU2Nyb2xsaW5nRW5hYmxlZChmYWxzZSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCI+CgogICAgICAgICAgICAKCgogICAgICAgICAgICAKCiAgICAgICAgPC9MaW5lYXJMYXlvdXQ+</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1lLnhkai5yZWZyZXNoLlI7Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5taWd1ZWxjYXRhbGFuOm1hdGVyaWFsc2VhcmNodmlldzoxLjQuMCcK</text>
       </register>
     </registers>
     <search>
