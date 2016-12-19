@@ -43,11 +43,11 @@
         <mark key="]" line="38" column="12" />
         <mark key="." line="38" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BusinessHandleManagerFragment.java" timestamp="1482140732813">
-        <mark key="[" line="228" column="66" />
-        <mark key="]" line="228" column="66" />
-        <mark key="^" line="224" column="27" />
-        <mark key="." line="228" column="66" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BusinessHandleManagerFragment.java" timestamp="1482141781839">
+        <mark key="[" line="106" column="48" />
+        <mark key="]" line="106" column="48" />
+        <mark key="^" line="230" column="27" />
+        <mark key="." line="106" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/chart/RedisChartPresenter.java" timestamp="1480475731627">
         <mark key="[" line="127" column="0" />
@@ -535,8 +535,8 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/BusinessManagerActivity.java" timestamp="1482120961902">
-        <mark key="[" line="101" column="84" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/BusinessManagerActivity.java" timestamp="1482141620679">
+        <mark key="[" line="81" column="71" />
         <mark key="]" line="101" column="84" />
         <mark key="." line="101" column="84" />
       </file>
@@ -774,7 +774,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>scrm</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -807,7 +807,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>scrm</text>
       </register>
       <register name="/" type="4">
         <text>ListAdapter</text>
