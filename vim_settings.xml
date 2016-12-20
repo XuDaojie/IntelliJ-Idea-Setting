@@ -22,6 +22,7 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/25.1.0/recyclerview-v7-25.1.0-sources.jar!/android/support/v7/widget/helper/ItemTouchUIUtilImpl.java" timestamp="1482204252695" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/MyValueFormatter.java" timestamp="1479435191978">
         <mark key="[" line="12" column="41" />
         <mark key="]" line="12" column="41" />
@@ -48,11 +49,11 @@
         <mark key="]" line="38" column="12" />
         <mark key="." line="38" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BusinessHandleManagerFragment.java" timestamp="1482141781839">
-        <mark key="[" line="106" column="48" />
-        <mark key="]" line="106" column="48" />
-        <mark key="^" line="230" column="27" />
-        <mark key="." line="106" column="48" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BusinessHandleManagerFragment.java" timestamp="1482205145630">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="229" column="27" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/constants/Constants.java" timestamp="1479374319310">
         <mark key="[" line="96" column="24" />
@@ -622,11 +623,11 @@
         <mark key="]" line="203" column="34" />
         <mark key="." line="203" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/SwipeItemTouchHelper/app/src/main/java/me/xudaojie/swipeitemtouchhelper/SwipeItemTouchCallBack.java" timestamp="1482203381603">
-        <mark key="[" line="70" column="9" />
-        <mark key="]" line="75" column="15" />
+      <file name="$USER_HOME$/AndroidStudioProjects/SwipeItemTouchHelper/app/src/main/java/me/xudaojie/swipeitemtouchhelper/SwipeItemTouchCallBack.java" timestamp="1482204906414">
+        <mark key="[" line="55" column="2" />
+        <mark key="]" line="55" column="2" />
         <mark key="^" line="75" column="15" />
-        <mark key="." line="75" column="15" />
+        <mark key="." line="55" column="2" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailPresenter.java" timestamp="1479379375721">
         <mark key="[" line="325" column="24" />
@@ -780,8 +781,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/TenantsWarnBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>viewHolder.itemView</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE2LzEyLzE5IOWPguaVsOebruWJjeWGmeatuwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -823,40 +824,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFZpZXcgbUxlZnRTd2lwZTsKICAgICAgICBwcml2YXRlIFZpZXcgbVJpZ2h0U3dpcGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDE2LzEyLzE5IOWPguaVsOebruWJjeWGmeatuwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUxlZnRTd2lwZSA9IGl0ZW1WaWV3LmZpbmRWaWV3QnlJZChSLmlkLmxlZnRfc3dpcGUpOwogICAgICAgICAgICBtUmlnaHRTd2lwZSA9IGl0ZW1WaWV3LmZpbmRWaWV3QnlJZChSLmlkLnJpZ2h0X3N3aXBlKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgaWYgKHZpZXdIb2xkZXIgIT0gbVZpZXdIb2xkZXIpIHsKICAgICAgICAgICAgbVZpZXdIb2xkZXIgPSB2aWV3SG9sZGVyOwogICAgICAgIH0=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShxdHkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8IEludGVnZXIucGFyc2VJbnQocXR5KSA8IDIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgSW50ZWdlci5wYXJzZUludChxdHkpID4gNTAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQobUNvbnRleHQsICLlrp7kvovmlbDojIPlm7QgMi01MDAiLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFZpZXcgbUxlZnRTd2lwZTsKICAgICAgICBwcml2YXRlIFZpZXcgbVJpZ2h0U3dpcGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6I635b6XQUJJTElUWQogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUxlZnRTd2lwZSA9IGl0ZW1WaWV3LmZpbmRWaWV3QnlJZChSLmlkLmxlZnRfc3dpcGUpOwogICAgICAgICAgICBtUmlnaHRTd2lwZSA9IGl0ZW1WaWV3LmZpbmRWaWV3QnlJZChSLmlkLnJpZ2h0X3N3aXBlKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bmV3IE9ic2VydmVyPERiSGVhbHRoQmVhbj4oKSB7CiAgICAgICAgICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShxdHkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8IEludGVnZXIucGFyc2VJbnQocXR5KSA8IDIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgSW50ZWdlci5wYXJzZUludChxdHkpID4gNTAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQobUNvbnRleHQsICLlrp7kvovmlbDojIPlm7QgMi01MDAiLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5jZWxCdG4uc2V0T25DbGlja0xpc3RlbmVyKG5ldyBWaWV3Lk9uQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soVmlldyB2KSB7CiAgICAgICAgICAgICAgICBkaWFsb2cuZGlzbWlzcygpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6I635b6XQUJJTElUWQogICAgICovCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">bmV3IE9ic2VydmVyPERiSGVhbHRoQmVhbj4oKSB7CiAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHN1Ym1pdEJ0bi5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IFZpZXcuT25DbGlja0xpc3RlbmVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBjb2RlID0gY29kZVR2LmdldFRleHQoKS50b1N0cmluZygpOwogICAgICAgICAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KGNvZGUpKSB7CiAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQobUNvbnRleHQsICLlronlhajnoIHkuI3og73kuLrnqboiLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChUZXh0VXRpbHMuZXF1YWxzKGZpbmFsQWJpbGl0eSwgUGFyYW1zLlRZUEVfRVhQQU5EKSkgewogICAgICAgICAgICAgICAgICAgIFN0cmluZyBxdHkgPSBmaW5hbFF0eVR2LmdldFRleHQoKS50b1N0cmluZygpOwogICAgICAgICAgICAgICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShxdHkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCBJbnRlZ2VyLnBhcnNlSW50KHF0eSkgPCAyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCBJbnRlZ2VyLnBhcnNlSW50KHF0eSkgPiA1MDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQobUNvbnRleHQsICLlrp7kvovmlbDojIPlm7QgMi01MDAiLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZGlhbG9nLmRpc21pc3MoKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjYW5jZWxCdG4uc2V0T25DbGlja0xpc3RlbmVyKG5ldyBWaWV3Lk9uQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soVmlldyB2KSB7CiAgICAgICAgICAgICAgICBkaWFsb2cuZGlzbWlzcygpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoVGV4dFV0aWxzLmlzRW1wdHkob3BlcmF0ZVR5cGUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KG1Db250ZXh0LCAi5LiN5pSv5oyBIiArIG9wZXJhdGVUeXBlLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChtQ29udGV4dCwgIuWIh+aNouaIkOWKnyIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
