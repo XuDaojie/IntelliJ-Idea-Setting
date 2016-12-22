@@ -691,11 +691,11 @@
         <mark key="]" line="203" column="34" />
         <mark key="." line="203" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/SwipeItemTouchHelper/app/src/main/java/me/xudaojie/swipeitemtouchhelper/SwipeItemTouchCallBack.java" timestamp="1482393171527">
-        <mark key="[" line="51" column="95" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="56" column="53" />
+      <file name="$USER_HOME$/AndroidStudioProjects/SwipeItemTouchHelper/app/src/main/java/me/xudaojie/swipeitemtouchhelper/SwipeItemTouchCallBack.java" timestamp="1482395497432">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="63" column="16" />
+        <mark key="." line="63" column="16" />
+        <mark key="^" line="63" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/questiondetail/QuestionDetailPresenter.java" timestamp="1479379375721">
         <mark key="[" line="325" column="24" />
@@ -734,8 +734,10 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/SwipeItemTouchHelper/app/src/main/res/layout/list_item.xml" timestamp="1482393822011">
-        <mark key="[" line="3" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/SwipeItemTouchHelper/app/src/main/res/layout/list_item.xml" timestamp="1482395059274">
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="35" column="25" />
+        <mark key="." line="35" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_ring_blue.xml" timestamp="1479711797539">
         <mark key="[" line="6" column="30" />
@@ -847,7 +849,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>80dp</text>
+        <text>text1</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -880,7 +882,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>80dp</text>
+        <text>text1</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
