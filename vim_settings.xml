@@ -169,10 +169,10 @@
         <mark key="]" line="115" column="28" />
         <mark key="." line="115" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairReportPresenter.java" timestamp="1482465397253">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairReportPresenter.java" timestamp="1482477092241">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionPresenter.java" timestamp="1479378188393">
         <mark key="[" line="30" column="0" />
@@ -827,18 +827,27 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaW5pdCgpIHsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBzdGFydCgpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaW5pdCgpIHsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBzdGFydCgpIHsKCiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJzaXplXzE2Ij4xNmRwPC9kaW1lbj4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IHByaXZhdGUgUmVjeWNsZXJWaWV3Lk9uSXRlbVRvdWNoTGlzdGVuZXIgbU9uSXRlbVRvdWNoTGlzdGVuZXIgPSBuZXcgUmVjeWNsZXJWaWV3Lk9uSXRlbVRvdWNoTGlzdGVuZXIoKSB7CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIGJvb2xlYW4gb25JbnRlcmNlcHRUb3VjaEV2ZW50KFJlY3ljbGVyVmlldyBydiwgTW90aW9uRXZlbnQgZSkgewogICAgICAgICAgICBpZiAoZS5nZXRBY3Rpb24oKSA9PSBNb3Rpb25FdmVudC5BQ1RJT05fRE9XTikgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgb25Ub3VjaEV2ZW50KFJlY3ljbGVyVmlldyBydiwgTW90aW9uRXZlbnQgZSkgewogICAgICAgICAgICBSZWN5Y2xlclZpZXcuVmlld0hvbGRlciB2aWV3SG9sZGVyID0gbUNhbGxiYWNrLmdldFN3aXBlZFZpZXdIb2xkZXIoKTsKICAgICAgICAgICAgaWYgKHZpZXdIb2xkZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgbUNhbGxiYWNrLmNsZWFyVmlldyhydiwgdmlld0hvbGRlcik7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uUmVxdWVzdERpc2FsbG93SW50ZXJjZXB0VG91Y2hFdmVudChib29sZWFuIGRpc2FsbG93SW50ZXJjZXB0KSB7CiAgICAgICAgfQogICAgfTs=</text>
       </register>
-      <register name="5" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>public void closeSwipe() {
         if (mSwipedViewHolder != null) {
             View content = mSwipedViewHolder.itemView.findViewById(R.id.content);
@@ -850,23 +859,14 @@
         }
     }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFZpZXcgY29udGVudFZpZXcgPSB2aWV3SG9sZGVyLml0ZW1WaWV3LmZpbmRWaWV3QnlJZChSLmlkLnRleHQxKTsKLy8gICAgICAgIFZpZXcgbGVmdFN3aXBlQmcgPSB2aWV3SG9sZGVyLml0ZW1WaWV3LmZpbmRWaWV3QnlJZChSLmlkLmxlZnRfc3dpcGVfYmcpOwovLyAgICAgICAgVmlldyByaWdodFN3aXBlQiA9IHZpZXdIb2xkZXIuaXRlbVZpZXcuZmluZFZpZXdCeUlkKFIuaWQucmlnaHRfc3dpcGVfYmcpOwovLwovLyAgICAgICAgVmlld0NvbXBhdC5zZXRUcmFuc2xhdGlvblgoY29udGVudFZpZXcsIGRYKTsKLy8gICAgICAgIFZpZXdDb21wYXQuc2V0VHJhbnNsYXRpb25ZKGNvbnRlbnRWaWV3LCBkWSk7Cg==</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBWaWV3SG9sZGVyIOemu+W8gOeVjOmdouaXtgogICAgICAgIC8vIFN3aXBl44CBTW92ZeaTjeS9nOS4reaWreaXtgo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFZpZXcgY29udGVudFZpZXcgPSB2aWV3SG9sZGVyLml0ZW1WaWV3LmZpbmRWaWV3QnlJZChSLmlkLnRleHQxKTsKLy8gICAgICAgIFZpZXcgbGVmdFN3aXBlQmcgPSB2aWV3SG9sZGVyLml0ZW1WaWV3LmZpbmRWaWV3QnlJZChSLmlkLmxlZnRfc3dpcGVfYmcpOwovLyAgICAgICAgVmlldyByaWdodFN3aXBlQiA9IHZpZXdIb2xkZXIuaXRlbVZpZXcuZmluZFZpZXdCeUlkKFIuaWQucmlnaHRfc3dpcGVfYmcpOwovLwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFZpZXcgY29udGVudFZpZXcgPSB2aWV3SG9sZGVyLml0ZW1WaWV3LmZpbmRWaWV3QnlJZChSLmlkLnRleHQxKTsKLy8gICAgICAgIFZpZXcgbGVmdFN3aXBlQmcgPSB2aWV3SG9sZGVyLml0ZW1WaWV3LmZpbmRWaWV3QnlJZChSLmlkLmxlZnRfc3dpcGVfYmcpOwovLyAgICAgICAgVmlldyByaWdodFN3aXBlQiA9IHZpZXdIb2xkZXIuaXRlbVZpZXcuZmluZFZpZXdCeUlkKFIuaWQucmlnaHRfc3dpcGVfYmcpOwovLwovLyAgICAgICAgVmlld0NvbXBhdC5zZXRUcmFuc2xhdGlvblgoY29udGVudFZpZXcsIGRYKTsKLy8gICAgICAgIFZpZXdDb21wYXQuc2V0VHJhbnNsYXRpb25ZKGNvbnRlbnRWaWV3LCBkWSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBWaWV3SG9sZGVyIOemu+W8gOeVjOmdouaXtgogICAgICAgIC8vIFN3aXBl44CBTW92ZeaTjeS9nOS4reaWreaXtgo=</text>
       </register>
     </registers>
     <search>
