@@ -23,10 +23,10 @@
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AESDemo/app/src/main/java/me/xudaojie/aesdemo/EncryptUtils.java" timestamp="1483429018722">
-        <mark key="[" line="45" column="53" />
-        <mark key="]" line="45" column="53" />
-        <mark key="." line="45" column="53" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AESDemo/app/src/main/java/me/xudaojie/aesdemo/EncryptUtils.java" timestamp="1483433697378">
+        <mark key="[" line="64" column="18" />
+        <mark key="]" line="64" column="18" />
+        <mark key="." line="64" column="18" />
       </file>
       <file name="/a.dummy" timestamp="1482479393672">
         <mark key="[" line="0" column="0" />
@@ -102,7 +102,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1483414082460">
+      <file name="/LLDB" timestamp="1483433470772">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/HengQiang/app/src/main/res/layout/item_sys_msg_no_img.xml" timestamp="1481879733731">
@@ -362,7 +362,7 @@
         <mark key="." line="3" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AESDemo/app/src/main/res/layout/content_main.xml" timestamp="1483410896823" />
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-25/javax/crypto/KeyGenerator.java" timestamp="1483428705953" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-25/javax/crypto/KeyGenerator.java" timestamp="1483430458884" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/MineFragment.java" timestamp="1480559237062">
         <mark key="[" line="171" column="36" />
         <mark key="]" line="72" column="0" />
@@ -528,7 +528,7 @@
         <mark key="^" line="226" column="59" />
         <mark key="." line="226" column="59" />
       </file>
-      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-25/android/util/Base64.java" timestamp="1483414678290" />
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-25/android/util/Base64.java" timestamp="1483432449115" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/TenantsBizScalePresenter.java" timestamp="1482120950428">
         <mark key="[" line="86" column="17" />
         <mark key="]" line="86" column="17" />
@@ -789,10 +789,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1483414468928">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AESDemo/app/build.gradle" timestamp="1483430871504">
+        <mark key="[" line="38" column="34" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/SwipeItemTouchHelper/app/src/main/res/layout/list_item.xml" timestamp="1482395059274">
         <mark key="[" line="35" column="25" />
@@ -909,7 +910,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ALGORITHM</text>
+        <text>128</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -942,7 +943,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ALGORITHM</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
