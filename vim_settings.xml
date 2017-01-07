@@ -29,7 +29,7 @@
         <mark key="." line="42" column="46" />
         <mark key="^" line="66" column="61" />
       </file>
-      <file name="/a.dummy" timestamp="1482479393672">
+      <file name="/a.dummy" timestamp="1483768991417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -164,6 +164,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/fragment/mian/act/SearchHostResultAct.java" timestamp="1483761493308">
         <mark key="[" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/res/layout/activity_register.xml" timestamp="1483768873791">
+        <mark key="[" line="27" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/build.gradle" timestamp="1481785902897">
         <mark key="[" line="36" column="53" />
@@ -471,6 +474,12 @@
         <mark key="." line="49" column="31" />
         <mark key="^" line="49" column="30" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/loginandregister/RegisterAct.java" timestamp="1483769198203">
+        <mark key="[" line="119" column="39" />
+        <mark key="]" line="121" column="38" />
+        <mark key="^" line="121" column="38" />
+        <mark key="." line="121" column="38" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/build.gradle" timestamp="1481028722919">
         <mark key="[" line="15" column="20" />
         <mark key="]" line="15" column="21" />
@@ -516,7 +525,6 @@
         <mark key="]" line="44" column="19" />
         <mark key="." line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1483410631105" />
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/README.md" timestamp="1481724486502">
         <mark key="[" line="80" column="49" />
         <mark key="]" line="80" column="50" />
@@ -700,7 +708,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BusinessHealthFragment.java" timestamp="1482217546109">
         <mark key="[" line="140" column="79" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1483410631105" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/selector_blue_min_cek.xml" timestamp="1480312354577">
         <mark key="[" line="2" column="90" />
         <mark key="]" line="4" column="60" />
@@ -727,10 +734,10 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483760894042">
+      <file name="/Dummy.txt" timestamp="1483768626449">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_gray_border_top_bottom_left.xml" timestamp="1480405046685">
         <mark key="[" line="14" column="41" />
@@ -931,8 +938,8 @@
       <jump line="874" column="16" filename="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/25.1.0/recyclerview-v7-25.1.0-sources.jar!/android/support/v7/widget/helper/ItemTouchHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Li4uCg==</text>
+      <register name="&quot;" type="4">
+        <text>file nam</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -965,7 +972,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>style</text>
+        <text>file nam</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
