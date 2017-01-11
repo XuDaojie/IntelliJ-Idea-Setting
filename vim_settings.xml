@@ -271,11 +271,11 @@
         <mark key="]" line="27" column="8" />
         <mark key="." line="27" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairReportFragment.java" timestamp="1484121715508">
-        <mark key="[" line="203" column="31" />
-        <mark key="]" line="203" column="16" />
-        <mark key="." line="203" column="16" />
-        <mark key="^" line="203" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairReportFragment.java" timestamp="1484123522766">
+        <mark key="[" line="279" column="62" />
+        <mark key="]" line="279" column="61" />
+        <mark key="." line="279" column="61" />
+        <mark key="^" line="279" column="61" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values-en/strings.xml" timestamp="1483577571784">
         <mark key="[" line="2" column="5" />
@@ -297,6 +297,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.0/1c6ac816af96a9a2244ed59309a4cee36997101f/MPAndroidChart-v2.2.0-sources.jar!/com/github/mikephil/charting/data/BarDataSet.java" timestamp="1484123031411" />
       <file name="$USER_HOME$/AndroidStudioProjects/NDKSample/app/src/main/cpp/native-lib.cpp" timestamp="1483293828753">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="29" />
@@ -488,6 +489,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairReportPresenter.java" timestamp="1484124024395">
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="86" column="7" />
+        <mark key="^" line="86" column="7" />
+        <mark key="." line="86" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/door_outbound_frag.xml" timestamp="1483950336576">
         <mark key="[" line="265" column="16" />
@@ -884,7 +891,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getQuarters</text>
+        <text />
       </register>
       <register name="i" type="4">
         <keys>
@@ -917,7 +924,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getQuarters</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
