@@ -579,9 +579,9 @@
         <mark key="." line="95" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_detail_add_fragment.xml" timestamp="1484208782882">
-        <mark key="[" line="97" column="16" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+        <mark key="[" line="99" column="16" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/LoadMore/app/src/main/AndroidManifest.xml" timestamp="1481941573971">
         <mark key="[" line="2" column="25" />
@@ -784,11 +784,11 @@
         <mark key="]" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/detailadd/DeviceDetailAddFragment.java" timestamp="1484208141834">
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="112" column="24" />
-        <mark key="^" line="107" column="43" />
-        <mark key="." line="112" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/detailadd/DeviceDetailAddFragment.java" timestamp="1484210996063">
+        <mark key="[" line="123" column="42" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="52" column="22" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxAccountService.java" timestamp="1480903658758">
         <mark key="[" line="47" column="38" />
@@ -962,7 +962,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9odHRwc19yYiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1004,42 +1004,42 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9odHRwc19yYiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9odHRwX3JiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9odHRwc19yYiIK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9odHRwX3JiIgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICA8U3Bpbm5lcgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+PC9TcGlubmVyPgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAqIEBwYXJhbSB0b2tlbgogICAgICogQHBhcmFtIGNhc2VOdW1iZXIKICAgICAqIEBwYXJhbSB1c2VyUGhvbmUKICAgICAqIEBwYXJhbSBzY2hlZHVsZSBzY2hlZHVsZeihqOekuui/m+W6pu+8jOi3n+i/m+S8oG5leHTvvIzlhbPpl63kvKBlbmQKICAgICAqIEBwYXJhbSBjb21tZW50</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAvLyAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBCQVNFX1VSTF9TRUMgPSAiaHR0cDovLzEwLjcwLjg2LjY4OjgwODAvaVRvb2xDaGFpbi9hcGkvIjsKLy8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQkFTRV9VUkxfU0VDID0gImh0dHA6Ly8xMC43OC4yMDAuODU6ODA4MC9pVG9vbENoYWluL2FwaS8iOwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQkFTRV9VUkxfU0VDID0gImh0dHA6Ly9sYW96aG9uZ3lpLnpqLmNoaW5hbW9iaWxlLmNvbTo4MDgwL2lUb29sQ2hhaW4vYXBpLyI7Ci8vICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEJBU0VfVVJMX1NFQyA9ICJodHRwOi8vMTAuNzguMjAwLjg2OjgwODAvaVRvb2xDaGFpbi9hcGkvIjsgLy8g5rWL6K+V5Zyw5Z2ACg==</text>
+        <text encoding="base64">CiAgICAvLyAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBCQVNFX1VSTF9TRUMgPSAiaHR0cDovLzEwLjcwLjg2LjY4OjgwODAvaVRvb2xDaGFpbi9hcGkvIjsKLy8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQkFTRV9VUkxfU0VDID0gImh0dHA6Ly8xMC43OC4yMDAuODU6ODA4MC9pVG9vbENoYWluL2FwaS8iOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQkFTRV9VUkxfU0VDID0gImh0dHA6Ly9sYW96aG9uZ3lpLnpqLmNoaW5hbW9iaWxlLmNvbTo4MDgwL2lUb29sQ2hhaW4vYXBpLyI7Ci8vICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEJBU0VfVVJMX1NFQyA9ICJodHRwOi8vMTAuNzguMjAwLjg2OjgwODAvaVRvb2xDaGFpbi9hcGkvIjsgLy8g5rWL6K+V5Zyw5Z2ACg==</text>
       </register>
-      <register name="8" type="4">
-        <text>if (TextUtils.isEmpty(comment)) {
-                            return;
-                        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>if (TextUtils.isEmpty(comment)) {
+                            return;
+                        }</text>
       </register>
     </registers>
     <search>
