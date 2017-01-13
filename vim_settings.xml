@@ -13,6 +13,9 @@
         <mark key="^" line="13" column="32" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DeviceInfoBean.java" timestamp="1484287123859">
+        <mark key="[" line="3" column="31" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketPresenter.java" timestamp="1480475378297">
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="0" />
@@ -231,10 +234,10 @@
         <mark key="." line="12" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairContact.java" timestamp="1484280059356">
-        <mark key="[" line="65" column="27" />
-        <mark key="]" line="63" column="26" />
-        <mark key="." line="63" column="26" />
-        <mark key="^" line="63" column="26" />
+        <mark key="[" line="66" column="27" />
+        <mark key="]" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+        <mark key="^" line="64" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeFragment.java" timestamp="1483577230241">
         <mark key="[" line="65" column="0" />
@@ -261,6 +264,7 @@
         <mark key="]" line="105" column="39" />
         <mark key="." line="105" column="39" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BaseFragment.java" timestamp="1484287639012" />
       <file name="$USER_HOME$/AndroidStudioProjects/HengQiang/app/src/main/java/com/bocai/hengqiang/shop/ImagePageProductFragment.java" timestamp="1481868984050">
         <mark key="[" line="95" column="26" />
         <mark key="]" line="95" column="26" />
@@ -653,6 +657,12 @@
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="30" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairApplyFragment.java" timestamp="1484289067050">
+        <mark key="[" line="116" column="3" />
+        <mark key="]" line="116" column="3" />
+        <mark key="^" line="112" column="0" />
+        <mark key="." line="116" column="3" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketFragment.java" timestamp="1480475410918">
         <mark key="[" line="66" column="23" />
         <mark key="]" line="66" column="23" />
@@ -847,8 +857,8 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1484207392587">
-        <mark key="[" line="0" column="1" />
+      <file name="/fragment.java" timestamp="1484287503403">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="3" />
@@ -968,11 +978,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-         * authorizedTokenKey 用户令牌
-         serialNumber 序列号
-         userPhone 手机号码
-         */</text>
+        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBzdWJtaXRFbmFibGUoU3RyaW5nIG51bWJlcikgewogICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShudW1iZXIpKSB7CiAgICAgICAgICAgIHNob3dEZXNjcmlwdGlvbigi5bqP5YiX5Y+35LiN6IO95Li656m6Iik7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1014,48 +1020,48 @@
         <text>entries</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBzdWJtaXRFbmFibGUoU3RyaW5nIG51bWJlcikgewogICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShudW1iZXIpKSB7CiAgICAgICAgICAgIHNob3dEZXNjcmlwdGlvbigi5bqP5YiX5Y+35LiN6IO95Li656m6Iik7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQucmVnaXN0ZXJfYnRuKQogICAgQnV0dG9uIG1SZWdpc3RlckJ0bjs=</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>/**
          * authorizedTokenKey 用户令牌
          serialNumber 序列号
          userPhone 手机号码
          */</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yZWdpc3Rlcl9idG4iCg==</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VyUGhvbmUKICAgICAqIEBwYXJhbSBzY2hlZHVsZQogICAgICogQHBhcmFtIGNvbW1lbnQK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEBCaW5kKFIuaWQuZW5kX3JiKQogICAgUmFkaW9CdXR0b24gbUVuZFRiOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBpZiAoc2NoZWR1bGVQb3NpdGlvbiA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG93RGVzY3JpcHRpb24oIuivt+mAieaLqei/m+W6piIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>if (schedulePosition == 1) {
                             schedule = &quot;next&quot;;
                         } else {
                             schedule = &quot;end&quot;;
                         }</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9odHRwc19yYiIK</text>
-      </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9odHRwX3JiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
