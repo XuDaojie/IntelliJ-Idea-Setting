@@ -26,7 +26,7 @@
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="/a.dummy" timestamp="1484213031788">
+      <file name="/a.dummy" timestamp="1484292709927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -207,6 +207,9 @@
         <mark key="]" line="115" column="28" />
         <mark key="." line="115" column="28" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/RepairApplyBean.java" timestamp="1484291541793">
+        <mark key="[" line="7" column="30" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/door_outbound_frag.xml" timestamp="1483950336576">
         <mark key="[" line="265" column="16" />
         <mark key="]" line="299" column="0" />
@@ -243,6 +246,12 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/request/RepairApplyBody.java" timestamp="1484292174042">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_cycle_orange_red.xml" timestamp="1478678077418">
         <mark key="[" line="5" column="36" />
@@ -285,8 +294,8 @@
         <mark key="]" line="20" column="2" />
         <mark key="." line="20" column="2" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/Event.java" timestamp="1484191807909">
-        <mark key="[" line="23" column="69" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/Event.java" timestamp="1484292462052">
+        <mark key="[" line="24" column="82" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/values/styles.xml" timestamp="1478654492214">
         <mark key="[" line="92" column="53" />
@@ -501,6 +510,7 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairDevicePresenter.java" timestamp="1484291075854" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/ConstantsNet.java" timestamp="1484189943546">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -546,11 +556,11 @@
         <mark key="]" line="18" column="34" />
         <mark key="." line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_apply_fragment.xml" timestamp="1484279891355">
-        <mark key="[" line="71" column="26" />
-        <mark key="]" line="71" column="26" />
-        <mark key="." line="71" column="26" />
-        <mark key="^" line="42" column="46" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_apply_fragment.xml" timestamp="1484293263141">
+        <mark key="[" line="72" column="36" />
+        <mark key="]" line="72" column="34" />
+        <mark key="." line="72" column="34" />
+        <mark key="^" line="72" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/data/OutboundListBean.java" timestamp="1479448810572">
         <mark key="[" line="294" column="11" />
@@ -657,11 +667,17 @@
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairApplyFragment.java" timestamp="1484289067050">
-        <mark key="[" line="116" column="3" />
-        <mark key="]" line="116" column="3" />
-        <mark key="^" line="112" column="0" />
-        <mark key="." line="116" column="3" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairApplyFragment.java" timestamp="1484293626784">
+        <mark key="[" line="92" column="28" />
+        <mark key="]" line="89" column="34" />
+        <mark key="^" line="89" column="34" />
+        <mark key="." line="89" column="34" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairPresenter.java" timestamp="1484292539905">
+        <mark key="[" line="95" column="65" />
+        <mark key="]" line="95" column="28" />
+        <mark key="." line="95" column="28" />
+        <mark key="^" line="95" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketFragment.java" timestamp="1480475410918">
         <mark key="[" line="66" column="23" />
@@ -693,11 +709,16 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxRunService.java" timestamp="1484278752002">
-        <mark key="[" line="334" column="26" />
-        <mark key="]" line="338" column="39" />
-        <mark key="^" line="315" column="3" />
-        <mark key="." line="338" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairActivity.java" timestamp="1484292849258">
+        <mark key="[" line="116" column="16" />
+        <mark key="]" line="116" column="16" />
+        <mark key="." line="116" column="16" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxRunService.java" timestamp="1484292275595">
+        <mark key="[" line="341" column="15" />
+        <mark key="]" line="341" column="15" />
+        <mark key="^" line="318" column="3" />
+        <mark key="." line="341" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/SplashActivity.java" timestamp="1483954781731">
         <mark key="[" line="19" column="36" />
@@ -776,7 +797,7 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484208218841">
+      <file name="/Dummy.txt" timestamp="1484293868833">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -857,7 +878,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1484287503403">
+      <file name="/fragment.java" timestamp="1484292079604">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -978,7 +999,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBzdWJtaXRFbmFibGUoU3RyaW5nIG51bWJlcikgewogICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShudW1iZXIpKSB7CiAgICAgICAgICAgIHNob3dEZXNjcmlwdGlvbigi5bqP5YiX5Y+35LiN6IO95Li656m6Iik7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9</text>
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuaG9zdG5hbWVfZXQpCiAgICBFZGl0VGV4dCBtSG9zdG5hbWVFdDsKICAgIEBCaW5kKFIuaWQuaXBfZXQpCiAgICBFZGl0VGV4dCBtSXBFdDs=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1011,7 +1032,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>请输入主机名</text>
+        <text>匹配</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -1020,48 +1041,44 @@
         <text>entries</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBzdWJtaXRFbmFibGUoU3RyaW5nIG51bWJlcikgewogICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShudW1iZXIpKSB7CiAgICAgICAgICAgIHNob3dEZXNjcmlwdGlvbigi5bqP5YiX5Y+35LiN6IO95Li656m6Iik7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9</text>
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuaG9zdG5hbWVfZXQpCiAgICBFZGl0VGV4dCBtSG9zdG5hbWVFdDsKICAgIEBCaW5kKFIuaWQuaXBfZXQpCiAgICBFZGl0VGV4dCBtSXBFdDs=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQucmVnaXN0ZXJfYnRuKQogICAgQnV0dG9uIG1SZWdpc3RlckJ0bjs=</text>
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuaG9zdG5hbWVfZXQpCiAgICBFZGl0VGV4dCBtSG9zdG5hbWVFdDsKICAgIEBCaW5kKFIuaWQuaXBfZXQpCiAgICBFZGl0VGV4dCBtSXBFdDsKICAgIEBCaW5kKFIuaWQuc3VibWl0X2J0bik=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBzdWJtaXRFbmFibGUoU3RyaW5nIG51bWJlcikgewogICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShudW1iZXIpKSB7CiAgICAgICAgICAgIHNob3dEZXNjcmlwdGlvbigi5bqP5YiX5Y+35LiN6IO95Li656m6Iik7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQucmVnaXN0ZXJfYnRuKQogICAgQnV0dG9uIG1SZWdpc3RlckJ0bjs=</text>
+      </register>
+      <register name="5" type="4">
         <text>/**
          * authorizedTokenKey 用户令牌
          serialNumber 序列号
          userPhone 手机号码
          */</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yZWdpc3Rlcl9idG4iCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VyUGhvbmUKICAgICAqIEBwYXJhbSBzY2hlZHVsZQogICAgICogQHBhcmFtIGNvbW1lbnQK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuZW5kX3JiKQogICAgUmFkaW9CdXR0b24gbUVuZFRiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yZWdpc3Rlcl9idG4iCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBpZiAoc2NoZWR1bGVQb3NpdGlvbiA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG93RGVzY3JpcHRpb24oIuivt+mAieaLqei/m+W6piIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VyUGhvbmUKICAgICAqIEBwYXJhbSBzY2hlZHVsZQogICAgICogQHBhcmFtIGNvbW1lbnQK</text>
       </register>
-      <register name="8" type="4">
-        <text>if (schedulePosition == 1) {
-                            schedule = &quot;next&quot;;
-                        } else {
-                            schedule = &quot;end&quot;;
-                        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuZW5kX3JiKQogICAgUmFkaW9CdXR0b24gbUVuZFRiOwo=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBpZiAoc2NoZWR1bGVQb3NpdGlvbiA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG93RGVzY3JpcHRpb24oIuivt+mAieaLqei/m+W6piIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
