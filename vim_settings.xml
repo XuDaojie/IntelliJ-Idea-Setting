@@ -667,11 +667,11 @@
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairApplyFragment.java" timestamp="1484293626784">
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairApplyFragment.java" timestamp="1484296560909">
         <mark key="[" line="92" column="28" />
-        <mark key="]" line="89" column="34" />
-        <mark key="^" line="89" column="34" />
-        <mark key="." line="89" column="34" />
+        <mark key="]" line="44" column="57" />
+        <mark key="^" line="44" column="57" />
+        <mark key="." line="44" column="57" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairPresenter.java" timestamp="1484292539905">
         <mark key="[" line="95" column="65" />
@@ -709,10 +709,10 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairActivity.java" timestamp="1484292849258">
-        <mark key="[" line="116" column="16" />
-        <mark key="]" line="116" column="16" />
-        <mark key="." line="116" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairActivity.java" timestamp="1484297427429">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxRunService.java" timestamp="1484292275595">
         <mark key="[" line="341" column="15" />
@@ -999,7 +999,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuaG9zdG5hbWVfZXQpCiAgICBFZGl0VGV4dCBtSG9zdG5hbWVFdDsKICAgIEBCaW5kKFIuaWQuaXBfZXQpCiAgICBFZGl0VGV4dCBtSXBFdDs=</text>
+        <text>RepairDeviceFragment deviceFragment = (RepairDeviceFragment) getSupportFragmentManager()
+                .findFragmentByTag(RepairDeviceFragment.TAG);</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1041,44 +1042,45 @@
         <text>entries</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuaG9zdG5hbWVfZXQpCiAgICBFZGl0VGV4dCBtSG9zdG5hbWVFdDsKICAgIEBCaW5kKFIuaWQuaXBfZXQpCiAgICBFZGl0VGV4dCBtSXBFdDs=</text>
+        <text>RepairDeviceFragment deviceFragment = (RepairDeviceFragment) getSupportFragmentManager()
+                .findFragmentByTag(RepairDeviceFragment.TAG);</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuaG9zdG5hbWVfZXQpCiAgICBFZGl0VGV4dCBtSG9zdG5hbWVFdDsKICAgIEBCaW5kKFIuaWQuaXBfZXQpCiAgICBFZGl0VGV4dCBtSXBFdDsKICAgIEBCaW5kKFIuaWQuc3VibWl0X2J0bik=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZGV2aWNlRnJhZ21lbnQgPT0gbnVsbCkgewogICAgICAgICAgICBkZXZpY2VGcmFnbWVudCA9IFJlcGFpckRldmljZUZyYWdtZW50Lm5ld0luc3RhbmNlKENhbGVuZGFyLmdldEluc3RhbmNlKCkpOwogICAgICAgIH0KCi8vICAgICAgICBEYWdnZXJEZXZpY2VSZXBhaXJDb21wb25lbnQuYnVpbGRlcigpCi8vICAgICAgICAgICAgICAgIC5kZXZpY2VSZXBhaXJNb2R1bGUobmV3IERldmljZVJlcGFpck1vZHVsZShyZXBvcnRGcmFnbWVudCkpCi8vICAgICAgICAgICAgICAgIC5kZXZpY2VMaXN0TW9kdWxlKG5ldyBEZXZpY2VMaXN0TW9kdWxlKGRldmljZUZyYWdtZW50KSkKLy8gICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBzdWJtaXRFbmFibGUoU3RyaW5nIG51bWJlcikgewogICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShudW1iZXIpKSB7CiAgICAgICAgICAgIHNob3dEZXNjcmlwdGlvbigi5bqP5YiX5Y+35LiN6IO95Li656m6Iik7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9</text>
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuaG9zdG5hbWVfZXQpCiAgICBFZGl0VGV4dCBtSG9zdG5hbWVFdDsKICAgIEBCaW5kKFIuaWQuaXBfZXQpCiAgICBFZGl0VGV4dCBtSXBFdDs=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQucmVnaXN0ZXJfYnRuKQogICAgQnV0dG9uIG1SZWdpc3RlckJ0bjs=</text>
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuaG9zdG5hbWVfZXQpCiAgICBFZGl0VGV4dCBtSG9zdG5hbWVFdDsKICAgIEBCaW5kKFIuaWQuaXBfZXQpCiAgICBFZGl0VGV4dCBtSXBFdDsKICAgIEBCaW5kKFIuaWQuc3VibWl0X2J0bik=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBzdWJtaXRFbmFibGUoU3RyaW5nIG51bWJlcikgewogICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShudW1iZXIpKSB7CiAgICAgICAgICAgIHNob3dEZXNjcmlwdGlvbigi5bqP5YiX5Y+35LiN6IO95Li656m6Iik7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQucmVnaXN0ZXJfYnRuKQogICAgQnV0dG9uIG1SZWdpc3RlckJ0bjs=</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>/**
          * authorizedTokenKey 用户令牌
          serialNumber 序列号
          userPhone 手机号码
          */</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yZWdpc3Rlcl9idG4iCg==</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VyUGhvbmUKICAgICAqIEBwYXJhbSBzY2hlZHVsZQogICAgICogQHBhcmFtIGNvbW1lbnQK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuZW5kX3JiKQogICAgUmFkaW9CdXR0b24gbUVuZFRiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yZWdpc3Rlcl9idG4iCg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBpZiAoc2NoZWR1bGVQb3NpdGlvbiA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG93RGVzY3JpcHRpb24oIuivt+mAieaLqei/m+W6piIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VyUGhvbmUKICAgICAqIEBwYXJhbSBzY2hlZHVsZQogICAgICogQHBhcmFtIGNvbW1lbnQK</text>
       </register>
     </registers>
     <search>
