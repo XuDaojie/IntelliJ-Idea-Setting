@@ -306,7 +306,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairReportFragment.java" timestamp="1484381133721">
         <mark key="[" line="178" column="72" />
         <mark key="]" line="174" column="0" />
-        <mark key="^" line="180" column="35" />
+        <mark key="^" line="178" column="35" />
         <mark key="." line="174" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values-en/strings.xml" timestamp="1483577571784">
@@ -454,11 +454,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1484382648092">
+      <file name="/fragment.java" timestamp="1484386440805">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="3" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_ring_blue.xml" timestamp="1479711797539">
         <mark key="[" line="6" column="30" />
@@ -563,11 +563,11 @@
         <mark key="]" line="299" column="0" />
         <mark key="." line="299" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairReportPresenter.java" timestamp="1484382876334">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="41" column="32" />
-        <mark key="." line="41" column="32" />
-        <mark key="^" line="41" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairReportPresenter.java" timestamp="1484386708404">
+        <mark key="[" line="46" column="49" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_cycle_blue_2dp.xml" timestamp="1479463186096">
         <mark key="[" line="3" column="41" />
@@ -1002,7 +1002,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2NoZWR1bGVyUHJvdmlkZXIsIEBOb25OdWxsIENhbGVuZGFyKSA=</text>
+        <text>calendarTemp</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1035,7 +1035,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2NoZWR1bGVyUHJvdmlkZXIsIEBOb25OdWxsIENhbGVuZGFyKSA=</text>
+        <text>calendarTemp</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
