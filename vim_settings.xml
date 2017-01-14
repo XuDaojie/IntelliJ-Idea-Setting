@@ -26,7 +26,7 @@
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="/a.dummy" timestamp="1484292709927">
+      <file name="/a.dummy" timestamp="1484359901813">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -708,11 +708,11 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairActivity.java" timestamp="1484357760099">
-        <mark key="[" line="93" column="34" />
-        <mark key="]" line="75" column="13" />
-        <mark key="." line="75" column="13" />
-        <mark key="^" line="75" column="13" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairActivity.java" timestamp="1484359868707">
+        <mark key="[" line="61" column="35" />
+        <mark key="]" line="61" column="35" />
+        <mark key="." line="61" column="35" />
+        <mark key="^" line="83" column="13" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxRunService.java" timestamp="1484292275595">
         <mark key="[" line="341" column="15" />
@@ -998,8 +998,8 @@
       <jump line="301" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DeviceRepairBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppbnB1dFR5cGU9Im51bWJlciIK</text>
+      <register name="&quot;" type="4">
+        <text>RepairDevicePresenter</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1032,7 +1032,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>匹配</text>
+        <text>RepairDevicePresenter</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -1040,42 +1040,45 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppbnB1dFR5cGU9Im51bWJlciIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGlmIChtUmVwb3J0UHJlc2VudGVyID09IG51bGwpIHsKLy8gICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgcmVwb3J0RnJhZ21lbnQuc2V0UHJlc2VudGVyKG1SZXBvcnRQcmVzZW50ZXIpOwovLyAgICAgICAgfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>if (mReportFragment != null) {
+            Log.e(TAG, &quot;mReportFragment != null&quot;);
+            mReportPresenter = new RepairReportPresenter(mReportFragment, mService, SchedulerProvider.getInstance());
+        }</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1BcHBseVByZXNlbnRlciA9PSBudWxsKSB7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBhcHBseUZyYWdtZW50LnNldFByZXNlbnRlcihtQXBwbHlQcmVzZW50ZXIpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppbnB1dFR5cGU9Im51bWJlciIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGRldmljZUZyYWdtZW50LnNldFByZXNlbnRlcihtRGV2aWNlUHJlc2VudGVyKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>RepairDeviceFragment deviceFragment = (RepairDeviceFragment) getSupportFragmentManager()
-                .findFragmentByTag(RepairDeviceFragment.TAG);</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1BcHBseVByZXNlbnRlciA9PSBudWxsKSB7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBhcHBseUZyYWdtZW50LnNldFByZXNlbnRlcihtQXBwbHlQcmVzZW50ZXIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGV2aWNlRnJhZ21lbnQgPT0gbnVsbCkgewogICAgICAgICAgICBkZXZpY2VGcmFnbWVudCA9IFJlcGFpckRldmljZUZyYWdtZW50Lm5ld0luc3RhbmNlKENhbGVuZGFyLmdldEluc3RhbmNlKCkpOwogICAgICAgIH0KCi8vICAgICAgICBEYWdnZXJEZXZpY2VSZXBhaXJDb21wb25lbnQuYnVpbGRlcigpCi8vICAgICAgICAgICAgICAgIC5kZXZpY2VSZXBhaXJNb2R1bGUobmV3IERldmljZVJlcGFpck1vZHVsZShyZXBvcnRGcmFnbWVudCkpCi8vICAgICAgICAgICAgICAgIC5kZXZpY2VMaXN0TW9kdWxlKG5ldyBEZXZpY2VMaXN0TW9kdWxlKGRldmljZUZyYWdtZW50KSkKLy8gICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGRldmljZUZyYWdtZW50LnNldFByZXNlbnRlcihtRGV2aWNlUHJlc2VudGVyKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuaG9zdG5hbWVfZXQpCiAgICBFZGl0VGV4dCBtSG9zdG5hbWVFdDsKICAgIEBCaW5kKFIuaWQuaXBfZXQpCiAgICBFZGl0VGV4dCBtSXBFdDs=</text>
+        <text>RepairDeviceFragment deviceFragment = (RepairDeviceFragment) getSupportFragmentManager()
+                .findFragmentByTag(RepairDeviceFragment.TAG);</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuaG9zdG5hbWVfZXQpCiAgICBFZGl0VGV4dCBtSG9zdG5hbWVFdDsKICAgIEBCaW5kKFIuaWQuaXBfZXQpCiAgICBFZGl0VGV4dCBtSXBFdDsKICAgIEBCaW5kKFIuaWQuc3VibWl0X2J0bik=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZGV2aWNlRnJhZ21lbnQgPT0gbnVsbCkgewogICAgICAgICAgICBkZXZpY2VGcmFnbWVudCA9IFJlcGFpckRldmljZUZyYWdtZW50Lm5ld0luc3RhbmNlKENhbGVuZGFyLmdldEluc3RhbmNlKCkpOwogICAgICAgIH0KCi8vICAgICAgICBEYWdnZXJEZXZpY2VSZXBhaXJDb21wb25lbnQuYnVpbGRlcigpCi8vICAgICAgICAgICAgICAgIC5kZXZpY2VSZXBhaXJNb2R1bGUobmV3IERldmljZVJlcGFpck1vZHVsZShyZXBvcnRGcmFnbWVudCkpCi8vICAgICAgICAgICAgICAgIC5kZXZpY2VMaXN0TW9kdWxlKG5ldyBEZXZpY2VMaXN0TW9kdWxlKGRldmljZUZyYWdtZW50KSkKLy8gICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBzdWJtaXRFbmFibGUoU3RyaW5nIG51bWJlcikgewogICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShudW1iZXIpKSB7CiAgICAgICAgICAgIHNob3dEZXNjcmlwdGlvbigi5bqP5YiX5Y+35LiN6IO95Li656m6Iik7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9</text>
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQuaG9zdG5hbWVfZXQpCiAgICBFZGl0VGV4dCBtSG9zdG5hbWVFdDsKICAgIEBCaW5kKFIuaWQuaXBfZXQpCiAgICBFZGl0VGV4dCBtSXBFdDs=</text>
       </register>
     </registers>
     <search>
