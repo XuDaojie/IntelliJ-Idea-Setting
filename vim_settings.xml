@@ -363,11 +363,10 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairActivity.java" timestamp="1484362820182">
-        <mark key="[" line="121" column="13" />
-        <mark key="]" line="126" column="33" />
-        <mark key="." line="126" column="33" />
-        <mark key="^" line="126" column="33" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairActivity.java" timestamp="1484364390022">
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxRunService.java" timestamp="1484292275595">
         <mark key="[" line="341" column="15" />
@@ -420,7 +419,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484362987795">
+      <file name="/Dummy.txt" timestamp="1484364466251">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -764,8 +763,8 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairDeviceFragment.java" timestamp="1484362932681">
-        <mark key="[" line="88" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairDeviceFragment.java" timestamp="1484363799729">
+        <mark key="[" line="85" column="9" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
@@ -999,7 +998,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgieHh4dCIgKyB0aGlzLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGV2aWNlUmVwYWlyQ29udGFjdC5SZXBvcnRQcmVzZW50ZXIgbVJlcG9ydFByZXNlbnRlcjsKICAgIHByaXZhdGUgRGV2aWNlUmVwYWlyQ29udGFjdC5EZXZpY2VQcmVzZW50ZXIgbURldmljZVByZXNlbnRlcjsKICAgIHByaXZhdGUgRGV2aWNlUmVwYWlyQ29udGFjdC5BcHBseVByZXNlbnRlciBtQXBwbHlQcmVzZW50ZXI7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1041,7 +1040,7 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgieHh4dCIgKyB0aGlzLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGV2aWNlUmVwYWlyQ29udGFjdC5SZXBvcnRQcmVzZW50ZXIgbVJlcG9ydFByZXNlbnRlcjsKICAgIHByaXZhdGUgRGV2aWNlUmVwYWlyQ29udGFjdC5EZXZpY2VQcmVzZW50ZXIgbURldmljZVByZXNlbnRlcjsKICAgIHByaXZhdGUgRGV2aWNlUmVwYWlyQ29udGFjdC5BcHBseVByZXNlbnRlciBtQXBwbHlQcmVzZW50ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1050,40 +1049,34 @@
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dChtQ29udGV4dCwgaXRlbS5nZXRUaXRsZSgpLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgieHh4dCIgKyB0aGlzLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>//            if (mReportPresenter == null) {
-//            } else {
-//                reportFragment.setPresenter(mReportPresenter);
-//            }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text>//            if (mDevicePresenter == null) {
-//            } else {
-//                deviceFragment.setPresenter(mDevicePresenter);
-//            }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>//            if (mApplyPresenter == null) {
-//            } else {
-//                applyFragment.setPresenter(mApplyPresenter);
-//            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGlmIChtUmVwb3J0UHJlc2VudGVyID09IG51bGwpIHsKLy8gICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgcmVwb3J0RnJhZ21lbnQuc2V0UHJlc2VudGVyKG1SZXBvcnRQcmVzZW50ZXIpOwovLyAgICAgICAgfQ==</text>
+        <text>//            if (mReportPresenter == null) {
+//            } else {
+//                reportFragment.setPresenter(mReportPresenter);
+//            }</text>
       </register>
     </registers>
     <search>
