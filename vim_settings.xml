@@ -358,11 +358,11 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/CustomCalendarView.java" timestamp="1484555053007">
-        <mark key="[" line="382" column="0" />
-        <mark key="]" line="379" column="58" />
-        <mark key="^" line="379" column="58" />
-        <mark key="." line="379" column="58" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/CustomCalendarView.java" timestamp="1484558273243">
+        <mark key="[" line="398" column="30" />
+        <mark key="]" line="274" column="34" />
+        <mark key="^" line="274" column="34" />
+        <mark key="." line="274" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/dimens.xml" timestamp="1482463519273">
         <mark key="[" line="42" column="0" />
@@ -915,7 +915,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1484553692978">
+      <file name="/fragment.java" timestamp="1484558232769">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1035,8 +1035,8 @@
       <jump line="301" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DeviceRepairBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>selectCalendar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2Vla1ZpZXcK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1069,7 +1069,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>selectCalendar</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -1077,46 +1077,48 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">d2Vla1ZpZXcK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBmaW5hbCBEYXlWaWV3IGRheVZpZXcgPSBnZXREYXlPZk1vbnRoVGV4dChzZWxlY3RDYWxlbmRhcik7Ci8vICAgICAgICAgICAgZGF5Vmlldy5zZXRCYWNrZ3JvdW5kQ29sb3IoY2FsZW5kYXJCYWNrZ3JvdW5kQ29sb3IpOwovLyAgICAgICAgICAgIGRheVZpZXcuc2V0VGV4dENvbG9yKGRheU9mV2Vla1RleHRDb2xvcik7Cg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
+        <text>if (index % 7 == 0) {
+
+        }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF5VmlldyBnZXREYXlPZk1vbnRoVGV4dChDYWxlbmRhciBzZWxlY3RDYWxlbmRhciwgQ2FsZW5kYXIgY3VycmVudENhbGVuZGFyKSB7CiAgICAgICAgcmV0dXJuIChEYXlWaWV3KSBnZXRWaWV3KERBWV9PRl9NT05USF9URVhULCBzZWxlY3RDYWxlbmRhciwgY3VycmVudENhbGVuZGFyKTsKICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyBnZXRWaWV3KFN0cmluZyBrZXksIENhbGVuZGFyIHNlbGVjdENhbGVuZGFyLCBDYWxlbmRhciBjdXJyZW50Q2FsZW5kYXIpIHsKICAgICAgICBpbnQgaW5kZXggPSBnZXREYXlJbmRleEJ5RGF0ZShzZWxlY3RDYWxlbmRhciwgY3VycmVudENhbGVuZGFyKTsKICAgICAgICBWaWV3IGNoaWxkVmlldyA9IHZpZXcuZmluZFZpZXdXaXRoVGFnKGtleSArIGluZGV4KTsKICAgICAgICByZXR1cm4gY2hpbGRWaWV3OwogICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bW9udGhPZmZzZXQK</text>
+      </register>
+      <register name="x" type="4">
+        <text>shelfNo</text>
+      </register>
+      <register name="9" type="4">
         <text>// TODO: 2017/1/16 xdj
     private int getMonthOffset(Calendar selectCalendar, Calendar currentCalendar) {
         // 当月总天数
         int actualMaximum = selectCalendar.getActualMaximum(Calendar.DAY_OF_MONTH);
         return actualMaximum;
     }</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Q2FsZW5kYXJVdGlscy5mb3JtYXQoInl5eXktTU0tZGQiLCBjYWxlbmRhcjEuZ2V0VGltZSgpKQo=</text>
-      </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgOgogICAgICAgICAgICAgICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5EQVlfT0ZfV0VFSywgQ2FsZW5kYXIuU1VOREFZKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxjb20uc3RhY2t0aXBzLnZpZXcuY2FsZW5kYXIuQ3VzdG9tQ2FsZW5kYXJWaWV3TmV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9jYWxlbmRhcl92aWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4K</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9vZmZfd2hpdGUiCiAgICAgICAgYXBwOmNhbGVuZGFyQmFja2dyb3VuZENvbG9yPSJAY29sb3Ivb2ZmX3doaXRlIgogICAgICAgIGFwcDpjYWxlbmRhclRpdGxlVGV4dENvbG9yPSJAY29sb3IvYmxhY2siCiAgICAgICAgYXBwOmN1cnJlbnREYXlPZk1vbnRoQ29sb3I9IkBjb2xvci9ibHVlIgogICAgICAgIGFwcDpkYXlPZk1vbnRoVGV4dENvbG9yPSJAY29sb3IvYmxhY2siCiAgICAgICAgYXBwOmRheU9mV2Vla1RleHRDb2xvcj0iQGNvbG9yL2JsYWNrIgogICAgICAgIGFwcDpkaXNhYmxlZERheUJhY2tncm91bmRDb2xvcj0iQGNvbG9yL29mZl93aGl0ZSIKICAgICAgICBhcHA6ZGlzYWJsZWREYXlUZXh0Q29sb3I9IkBjb2xvci9ncmV5IgogICAgICAgIGFwcDpzZWxlY3RlZERheUJhY2tncm91bmRDb2xvcj0iQGNvbG9yL2JsdWUiCiAgICAgICAgYXBwOnRpdGxlTGF5b3V0QmFja2dyb3VuZENvbG9yPSJAY29sb3Ivd2hpdGUiCiAgICAgICAgYXBwOndlZWtMYXlvdXRCYWNrZ3JvdW5kQ29sb3I9IkBjb2xvci93aGl0ZQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGNvbS5zdGFja3RpcHMudmlldy5DdXN0b21DYWxlbmRhclZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2NhbGVuZGFyX3ZpZXciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiNmZmZmZmYiPg==</text>
-      </register>
-      <register name="x" type="4">
-        <text>shelfNo</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
