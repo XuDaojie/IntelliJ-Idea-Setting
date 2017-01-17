@@ -358,11 +358,10 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/CustomCalendarView.java" timestamp="1484643969524">
-        <mark key="[" line="539" column="21" />
-        <mark key="]" line="539" column="29" />
-        <mark key="." line="539" column="29" />
-        <mark key="^" line="539" column="29" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/CustomCalendarView.java" timestamp="1484645263035">
+        <mark key="[" line="503" column="5" />
+        <mark key="]" line="450" column="0" />
+        <mark key="." line="450" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/dimens.xml" timestamp="1482463519273">
         <mark key="[" line="42" column="0" />
@@ -920,7 +919,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1484643978428">
+      <file name="/fragment.java" timestamp="1484644909922">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1040,8 +1039,8 @@
       <jump line="301" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DeviceRepairBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1074,7 +1073,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>(int) view.getTag(R.id.calendar_index);</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -1082,7 +1081,19 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g6buY6K6k6YCJ5Lit56ys5LiA5ZGoCiAgICAgICAgICAgIGludCBpbmRleCA9IGdldERheUluZGV4QnlEYXRlKGNhbGVuZGFyKTsKICAgICAgICAgICAgbWFya0RheUFzU2VsZWN0ZWREYXkoY2FsZW5kYXIuZ2V0VGltZSgpLCBpbmRleCk7Cgo=</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>while (childView != null) {
 
             }
@@ -1090,7 +1101,7 @@
                 index -= 7;
             }</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>currentMonthIndex--;
                 currentCalendar = Calendar.getInstance(Locale.getDefault());
                 currentCalendar.add(Calendar.MONTH, currentMonthIndex);
@@ -1100,43 +1111,29 @@
                     calendarListener.onMonthChanged(currentCalendar.getTime());
                 }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgd2VlayA9IGdldEN1cnJlbnRDYWxlbmRhcigpLmdldEFjdHVhbE1heGltdW0oQ2FsZW5kYXIuV0VFS19PRl9NT05USCk7CiAgICAgICAgaW50IGN1cnJlbnRXZWVrID0gZ2V0Q3VycmVudENhbGVuZGFyKCkuZ2V0KENhbGVuZGFyLldFRUtfT0ZfTU9OVEgpOwogICAgICAgIGlmIChjdXJyZW50V2VlayA9PSB3ZWVrKSB7CiAgICAgICAgICAgIC8vIOS4i+S4gOS4quaciAogICAgICAgIH0gZWxzZSB7CgogICAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>public void setSelectWeek(int weekIndex) {
         int index = weekIndex * 7 + 1;
         markDayAsSelectedDay(null, weekIndex);
     }</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>public int getSelectWeek() {
         
         return
     }</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBpbnQgYWN0dWFsTWF4aW11bSA9IGdldEN1cnJlbnRDYWxlbmRhcigpLmdldEFjdHVhbE1heGltdW0oQ2FsZW5kYXIuREFZX09GX01PTlRIKTsKICAgICAgICAvLyBnZXRDdXJyZW50Q2FsZW5kYXIg6I635Y+W5pys5pyI55qE5pe26Ze0CiAgICAgICAgaWYgKCFDYWxlbmRhclV0aWxzLmlzU2FtZU1vbnRoKGN1cnJlbnRDYWxlbmRhciwgZ2V0Q3VycmVudENhbGVuZGFyKCkpKSB7CiAgICAgICAgICAgIGludCB3ZWVrT2ZNb250aCA9IGdldEN1cnJlbnRDYWxlbmRhcigpLmdldEFjdHVhbE1heGltdW0oQ2FsZW5kYXIuV0VFS19PRl9NT05USCk7CiAgICAgICAgICAgIGlmIChDYWxlbmRhclV0aWxzLmlzTmV4dE1vbnRoKGdldEN1cnJlbnRDYWxlbmRhcigpLCBjdXJyZW50Q2FsZW5kYXIpKSB7Ci8vICAgICAgICAgICAgICAgIGluZGV4ICs9IGFjdHVhbE1heGltdW07CiAgICAgICAgICAgICAgICBpbmRleCArPSAyODsKICAgICAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICAgICAgaW5kZXggLT0gYWN0dWFsTWF4aW11bTsKICAgICAgICAgICAgICAgIGluZGV4IC09IDI4OwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">YWN0dWFsTWF4aW11bSAtIDI4Cg==</text>
-      </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="4">
-        <text>else if (calendar.get(Calendar.YEAR) - calendar.get(Calendar.YEAR) == 1) {
-            
-        }</text>
+        <text encoding="base64">ICBpbnQgYWN0dWFsTWF4aW11bSA9IGdldEN1cnJlbnRDYWxlbmRhcigpLmdldEFjdHVhbE1heGltdW0oQ2FsZW5kYXIuREFZX09GX01PTlRIKTsKICAgICAgICAvLyBnZXRDdXJyZW50Q2FsZW5kYXIg6I635Y+W5pys5pyI55qE5pe26Ze0CiAgICAgICAgaWYgKCFDYWxlbmRhclV0aWxzLmlzU2FtZU1vbnRoKGN1cnJlbnRDYWxlbmRhciwgZ2V0Q3VycmVudENhbGVuZGFyKCkpKSB7CiAgICAgICAgICAgIGludCB3ZWVrT2ZNb250aCA9IGdldEN1cnJlbnRDYWxlbmRhcigpLmdldEFjdHVhbE1heGltdW0oQ2FsZW5kYXIuV0VFS19PRl9NT05USCk7CiAgICAgICAgICAgIGlmIChDYWxlbmRhclV0aWxzLmlzTmV4dE1vbnRoKGdldEN1cnJlbnRDYWxlbmRhcigpLCBjdXJyZW50Q2FsZW5kYXIpKSB7Ci8vICAgICAgICAgICAgICAgIGluZGV4ICs9IGFjdHVhbE1heGltdW07CiAgICAgICAgICAgICAgICBpbmRleCArPSAyODsKICAgICAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICAgICAgaW5kZXggLT0gYWN0dWFsTWF4aW11bTsKICAgICAgICAgICAgICAgIGluZGV4IC09IDI4OwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
     </registers>
     <search>
