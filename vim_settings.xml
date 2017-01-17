@@ -247,10 +247,10 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/app/src/main/java/com/stacktips/calendar/SimpleCalendarActivity.java" timestamp="1484536498013">
-        <mark key="[" line="55" column="41" />
-        <mark key="]" line="55" column="41" />
-        <mark key="." line="55" column="41" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/app/src/main/java/com/stacktips/calendar/SimpleCalendarActivity.java" timestamp="1484636915921">
+        <mark key="[" line="74" column="11" />
+        <mark key="]" line="56" column="41" />
+        <mark key="." line="56" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/request/RepairApplyBody.java" timestamp="1484292174042">
         <mark key="[" line="3" column="31" />
@@ -358,11 +358,11 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/CustomCalendarView.java" timestamp="1484621991024">
-        <mark key="[" line="403" column="55" />
-        <mark key="]" line="403" column="42" />
-        <mark key="^" line="403" column="42" />
-        <mark key="." line="403" column="42" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/CustomCalendarView.java" timestamp="1484642528308">
+        <mark key="[" line="534" column="21" />
+        <mark key="]" line="534" column="29" />
+        <mark key="." line="534" column="29" />
+        <mark key="^" line="534" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/dimens.xml" timestamp="1482463519273">
         <mark key="[" line="42" column="0" />
@@ -593,10 +593,11 @@
         <mark key="." line="6" column="40" />
         <mark key="^" line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/utils/CalendarUtils.java" timestamp="1484618242025">
-        <mark key="[" line="63" column="34" />
-        <mark key="]" line="63" column="34" />
-        <mark key="." line="63" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/utils/CalendarUtils.java" timestamp="1484633153920">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="28" column="8" />
+        <mark key="." line="28" column="8" />
+        <mark key="^" line="28" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/shape_round_light_gray_min.xml" timestamp="1479891816246">
         <mark key="[" line="5" column="33" />
@@ -697,6 +698,9 @@
         <mark key="]" line="38" column="30" />
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="30" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/app/src/main/res/layout/activity_simple_calendar.xml" timestamp="1484636575201">
+        <mark key="[" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairPresenter.java" timestamp="1484292539905">
         <mark key="[" line="95" column="65" />
@@ -832,7 +836,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_fragment.xml" timestamp="1484381911805">
         <mark key="[" line="41" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484619876885">
+      <file name="/Dummy.txt" timestamp="1484642086467">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -916,10 +920,10 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1484621804567">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="0" column="35" />
+      <file name="/fragment.java" timestamp="1484642407445">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/SwipeItemTouchHelper/app/src/main/res/layout/list_item.xml" timestamp="1482395059274">
@@ -1037,7 +1041,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>currentCalenda</text>
+        <text>null</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1070,7 +1074,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>currentCalenda</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -1078,43 +1082,61 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y2FsZW5kYXIuZ2V0VGltZUluTWlsbGlzKCkK</text>
+      <register name="1" type="4">
+        <text>while (childView != null) {
+
+            }
+            if (childView != null) {
+                index -= 7;
+            }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">bmV3IERhdGUoZGF5T2ZNb250aFRleHQuZ2V0VGFnKFIuaWQuY2FsZW5kYXJfbG9uZykK</text>
+      <register name="2" type="4">
+        <text>currentMonthIndex--;
+                currentCalendar = Calendar.getInstance(Locale.getDefault());
+                currentCalendar.add(Calendar.MONTH, currentMonthIndex);
+
+                refreshCalendar(currentCalendar);
+                if (calendarListener != null) {
+                    calendarListener.onMonthChanged(currentCalendar.getTime());
+                }</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2Vla1ZpZXcK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgd2VlayA9IGdldEN1cnJlbnRDYWxlbmRhcigpLmdldEFjdHVhbE1heGltdW0oQ2FsZW5kYXIuV0VFS19PRl9NT05USCk7CiAgICAgICAgaW50IGN1cnJlbnRXZWVrID0gZ2V0Q3VycmVudENhbGVuZGFyKCkuZ2V0KENhbGVuZGFyLldFRUtfT0ZfTU9OVEgpOwogICAgICAgIGlmIChjdXJyZW50V2VlayA9PSB3ZWVrKSB7CiAgICAgICAgICAgIC8vIOS4i+S4gOS4quaciAogICAgICAgIH0gZWxzZSB7CgogICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBmaW5hbCBEYXlWaWV3IGRheVZpZXcgPSBnZXREYXlPZk1vbnRoVGV4dChzZWxlY3RDYWxlbmRhcik7Ci8vICAgICAgICAgICAgZGF5Vmlldy5zZXRCYWNrZ3JvdW5kQ29sb3IoY2FsZW5kYXJCYWNrZ3JvdW5kQ29sb3IpOwovLyAgICAgICAgICAgIGRheVZpZXcuc2V0VGV4dENvbG9yKGRheU9mV2Vla1RleHRDb2xvcik7Cg==</text>
+      <register name="4" type="4">
+        <text>public void setSelectWeek(int weekIndex) {
+        int index = weekIndex * 7 + 1;
+        markDayAsSelectedDay(null, weekIndex);
+    }</text>
       </register>
       <register name="5" type="4">
-        <text>if (index % 7 == 0) {
-
-        }</text>
+        <text>public int getSelectWeek() {
+        
+        return
+    }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBpbnQgYWN0dWFsTWF4aW11bSA9IGdldEN1cnJlbnRDYWxlbmRhcigpLmdldEFjdHVhbE1heGltdW0oQ2FsZW5kYXIuREFZX09GX01PTlRIKTsKICAgICAgICAvLyBnZXRDdXJyZW50Q2FsZW5kYXIg6I635Y+W5pys5pyI55qE5pe26Ze0CiAgICAgICAgaWYgKCFDYWxlbmRhclV0aWxzLmlzU2FtZU1vbnRoKGN1cnJlbnRDYWxlbmRhciwgZ2V0Q3VycmVudENhbGVuZGFyKCkpKSB7CiAgICAgICAgICAgIGludCB3ZWVrT2ZNb250aCA9IGdldEN1cnJlbnRDYWxlbmRhcigpLmdldEFjdHVhbE1heGltdW0oQ2FsZW5kYXIuV0VFS19PRl9NT05USCk7CiAgICAgICAgICAgIGlmIChDYWxlbmRhclV0aWxzLmlzTmV4dE1vbnRoKGdldEN1cnJlbnRDYWxlbmRhcigpLCBjdXJyZW50Q2FsZW5kYXIpKSB7Ci8vICAgICAgICAgICAgICAgIGluZGV4ICs9IGFjdHVhbE1heGltdW07CiAgICAgICAgICAgICAgICBpbmRleCArPSAyODsKICAgICAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICAgICAgaW5kZXggLT0gYWN0dWFsTWF4aW11bTsKICAgICAgICAgICAgICAgIGluZGV4IC09IDI4OwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGF5VmlldyBnZXREYXlPZk1vbnRoVGV4dChDYWxlbmRhciBzZWxlY3RDYWxlbmRhciwgQ2FsZW5kYXIgY3VycmVudENhbGVuZGFyKSB7CiAgICAgICAgcmV0dXJuIChEYXlWaWV3KSBnZXRWaWV3KERBWV9PRl9NT05USF9URVhULCBzZWxlY3RDYWxlbmRhciwgY3VycmVudENhbGVuZGFyKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0dWFsTWF4aW11bSAtIDI4Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyBnZXRWaWV3KFN0cmluZyBrZXksIENhbGVuZGFyIHNlbGVjdENhbGVuZGFyLCBDYWxlbmRhciBjdXJyZW50Q2FsZW5kYXIpIHsKICAgICAgICBpbnQgaW5kZXggPSBnZXREYXlJbmRleEJ5RGF0ZShzZWxlY3RDYWxlbmRhciwgY3VycmVudENhbGVuZGFyKTsKICAgICAgICBWaWV3IGNoaWxkVmlldyA9IHZpZXcuZmluZFZpZXdXaXRoVGFnKGtleSArIGluZGV4KTsKICAgICAgICByZXR1cm4gY2hpbGRWaWV3OwogICAgfQo=</text>
+      <register name="9" type="4">
+        <text>else if (calendar.get(Calendar.YEAR) - calendar.get(Calendar.YEAR) == 1) {
+            
+        }</text>
       </register>
     </registers>
     <search>
