@@ -358,11 +358,11 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/CustomCalendarView.java" timestamp="1484560422831">
-        <mark key="[" line="397" column="8" />
-        <mark key="]" line="399" column="8" />
-        <mark key="^" line="399" column="8" />
-        <mark key="." line="399" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/CustomCalendarView.java" timestamp="1484618435597">
+        <mark key="[" line="236" column="20" />
+        <mark key="]" line="335" column="36" />
+        <mark key="^" line="335" column="36" />
+        <mark key="." line="335" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/dimens.xml" timestamp="1482463519273">
         <mark key="[" line="42" column="0" />
@@ -590,7 +590,7 @@
         <mark key="." line="6" column="40" />
         <mark key="^" line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/utils/CalendarUtils.java" timestamp="1484549699594">
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/utils/CalendarUtils.java" timestamp="1484618242025">
         <mark key="[" line="63" column="34" />
         <mark key="]" line="63" column="34" />
         <mark key="." line="63" column="34" />
@@ -647,7 +647,6 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/sublimepickerlibrary/src/main/java/com/appeaser/sublimepickerlibrary/SublimePicker.java" timestamp="1484536065334" />
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xudaojie/ninesquare/widget/BaseGridLayout.java" timestamp="1481202107285">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="4" />
@@ -830,7 +829,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_fragment.xml" timestamp="1484381911805">
         <mark key="[" line="41" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/DayView.java" timestamp="1484535455649" />
       <file name="/Dummy.txt" timestamp="1484528691232">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -915,7 +913,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1484560057785">
+      <file name="/fragment.java" timestamp="1484618390179">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1035,8 +1033,8 @@
       <jump line="301" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DeviceRepairBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2Vla1ZpZXcK</text>
+      <register name="&quot;" type="4">
+        <text>index</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1069,7 +1067,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
