@@ -358,11 +358,11 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/CustomCalendarView.java" timestamp="1484618435597">
-        <mark key="[" line="236" column="20" />
-        <mark key="]" line="335" column="36" />
-        <mark key="^" line="335" column="36" />
-        <mark key="." line="335" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/CustomCalendarView.java" timestamp="1484621991024">
+        <mark key="[" line="403" column="55" />
+        <mark key="]" line="403" column="42" />
+        <mark key="^" line="403" column="42" />
+        <mark key="." line="403" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/dimens.xml" timestamp="1482463519273">
         <mark key="[" line="42" column="0" />
@@ -557,6 +557,9 @@
         <mark key="[" line="332" column="0" />
         <mark key="]" line="332" column="0" />
         <mark key="." line="332" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/res/values/ids.xml" timestamp="1484619898983">
+        <mark key="[" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/App.java" timestamp="1483773816822">
         <mark key="[" line="31" column="25" />
@@ -829,7 +832,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_fragment.xml" timestamp="1484381911805">
         <mark key="[" line="41" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484528691232">
+      <file name="/Dummy.txt" timestamp="1484619876885">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -913,10 +916,10 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1484618390179">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/fragment.java" timestamp="1484621804567">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/SwipeItemTouchHelper/app/src/main/res/layout/list_item.xml" timestamp="1482395059274">
@@ -1034,7 +1037,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>currentCalenda</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1067,7 +1070,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>currentCalenda</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -1076,24 +1079,24 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2Vla1ZpZXcK</text>
+        <text encoding="base64">Y2FsZW5kYXIuZ2V0VGltZUluTWlsbGlzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBmaW5hbCBEYXlWaWV3IGRheVZpZXcgPSBnZXREYXlPZk1vbnRoVGV4dChzZWxlY3RDYWxlbmRhcik7Ci8vICAgICAgICAgICAgZGF5Vmlldy5zZXRCYWNrZ3JvdW5kQ29sb3IoY2FsZW5kYXJCYWNrZ3JvdW5kQ29sb3IpOwovLyAgICAgICAgICAgIGRheVZpZXcuc2V0VGV4dENvbG9yKGRheU9mV2Vla1RleHRDb2xvcik7Cg==</text>
+        <text encoding="base64">bmV3IERhdGUoZGF5T2ZNb250aFRleHQuZ2V0VGFnKFIuaWQuY2FsZW5kYXJfbG9uZykK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">d2Vla1ZpZXcK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBmaW5hbCBEYXlWaWV3IGRheVZpZXcgPSBnZXREYXlPZk1vbnRoVGV4dChzZWxlY3RDYWxlbmRhcik7Ci8vICAgICAgICAgICAgZGF5Vmlldy5zZXRCYWNrZ3JvdW5kQ29sb3IoY2FsZW5kYXJCYWNrZ3JvdW5kQ29sb3IpOwovLyAgICAgICAgICAgIGRheVZpZXcuc2V0VGV4dENvbG9yKGRheU9mV2Vla1RleHRDb2xvcik7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>if (index % 7 == 0) {
 
         }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGF5VmlldyBnZXREYXlPZk1vbnRoVGV4dChDYWxlbmRhciBzZWxlY3RDYWxlbmRhciwgQ2FsZW5kYXIgY3VycmVudENhbGVuZGFyKSB7CiAgICAgICAgcmV0dXJuIChEYXlWaWV3KSBnZXRWaWV3KERBWV9PRl9NT05USF9URVhULCBzZWxlY3RDYWxlbmRhciwgY3VycmVudENhbGVuZGFyKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1102,21 +1105,16 @@
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyBnZXRWaWV3KFN0cmluZyBrZXksIENhbGVuZGFyIHNlbGVjdENhbGVuZGFyLCBDYWxlbmRhciBjdXJyZW50Q2FsZW5kYXIpIHsKICAgICAgICBpbnQgaW5kZXggPSBnZXREYXlJbmRleEJ5RGF0ZShzZWxlY3RDYWxlbmRhciwgY3VycmVudENhbGVuZGFyKTsKICAgICAgICBWaWV3IGNoaWxkVmlldyA9IHZpZXcuZmluZFZpZXdXaXRoVGFnKGtleSArIGluZGV4KTsKICAgICAgICByZXR1cm4gY2hpbGRWaWV3OwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF5VmlldyBnZXREYXlPZk1vbnRoVGV4dChDYWxlbmRhciBzZWxlY3RDYWxlbmRhciwgQ2FsZW5kYXIgY3VycmVudENhbGVuZGFyKSB7CiAgICAgICAgcmV0dXJuIChEYXlWaWV3KSBnZXRWaWV3KERBWV9PRl9NT05USF9URVhULCBzZWxlY3RDYWxlbmRhciwgY3VycmVudENhbGVuZGFyKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9udGhPZmZzZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="4">
-        <text>// TODO: 2017/1/16 xdj
-    private int getMonthOffset(Calendar selectCalendar, Calendar currentCalendar) {
-        // 当月总天数
-        int actualMaximum = selectCalendar.getActualMaximum(Calendar.DAY_OF_MONTH);
-        return actualMaximum;
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgVmlldyBnZXRWaWV3KFN0cmluZyBrZXksIENhbGVuZGFyIHNlbGVjdENhbGVuZGFyLCBDYWxlbmRhciBjdXJyZW50Q2FsZW5kYXIpIHsKICAgICAgICBpbnQgaW5kZXggPSBnZXREYXlJbmRleEJ5RGF0ZShzZWxlY3RDYWxlbmRhciwgY3VycmVudENhbGVuZGFyKTsKICAgICAgICBWaWV3IGNoaWxkVmlldyA9IHZpZXcuZmluZFZpZXdXaXRoVGFnKGtleSArIGluZGV4KTsKICAgICAgICByZXR1cm4gY2hpbGRWaWV3OwogICAgfQo=</text>
       </register>
     </registers>
     <search>
