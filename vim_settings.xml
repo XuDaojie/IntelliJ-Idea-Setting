@@ -82,6 +82,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/build.gradle" timestamp="1484729020753">
+        <mark key="[" line="27" column="34" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/arrays.xml" timestamp="1484726105801">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="17" column="18" />
@@ -449,6 +452,11 @@
         <mark key="[" line="2" column="90" />
         <mark key="]" line="4" column="60" />
         <mark key="." line="4" column="60" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/res/layout/activity_main.xml" timestamp="1484729572467">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/BasePresenter.java" timestamp="1480475298851">
         <mark key="[" line="7" column="0" />
@@ -1081,8 +1089,8 @@
       <jump line="301" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DeviceRepairBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IEZ1bmMxPFJlcGFpclBhcnRCZWFuLCBMaXN0PFN0cmluZz4+KCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDx0di5kYW5tYWt1Lmlqay5tZWRpYS5leGFtcGxlLndpZGdldC5tZWRpYS5JamtWaWRlb1ZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3ZpZGVvX3ZpZXciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXIiLz4K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1123,60 +1131,41 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bmV3IEZ1bmMxPFJlcGFpclBhcnRCZWFuLCBMaXN0PFN0cmluZz4+KCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDx0di5kYW5tYWt1Lmlqay5tZWRpYS5leGFtcGxlLndpZGdldC5tZWRpYS5JamtWaWRlb1ZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3ZpZGVvX3ZpZXciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXIiLz4K</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IC5tYXAobmV3IEZ1bmMxPFJlcGFpclBhcnRCZWFuLCBPYnNlcnZhYmxlPExpc3Q8U3RyaW5nPj4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPExpc3Q8U3RyaW5nPj4gY2FsbChSZXBhaXJQYXJ0QmVhbiBwYXJ0QmVhbikgewogICAgICAgICAgICAgICAgICAgICAgICBMaXN0PFJlcGFpclBhcnRCZWFuLkRhdGEuSXRlbXM+IGl0ZW1zID0gcGFydEJlYW4uZ2V0RGF0YSgpLmdldEl0ZW1zKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBzcGlubmVySXRlbXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChSZXBhaXJQYXJ0QmVhbi5EYXRhLkl0ZW1zIGl0ZW0gOiBpdGVtcykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Bpbm5lckl0ZW1zLmFkZChpdGVtLmdldFRleHQoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNwaW5uZXJJdGVtczsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQ==</text>
+        <text encoding="base64">U3VyZmFjZVZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii8+</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiLz4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZhYmxlOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">bmV3IEZ1bmMxPFJlcGFpclBhcnRCZWFuLCBMaXN0PFN0cmluZz4+KCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJ4Lm9ic2VydmVycy5PYnNlcnZlcnM7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IC5tYXAobmV3IEZ1bmMxPFJlcGFpclBhcnRCZWFuLCBPYnNlcnZhYmxlPExpc3Q8U3RyaW5nPj4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPExpc3Q8U3RyaW5nPj4gY2FsbChSZXBhaXJQYXJ0QmVhbiBwYXJ0QmVhbikgewogICAgICAgICAgICAgICAgICAgICAgICBMaXN0PFJlcGFpclBhcnRCZWFuLkRhdGEuSXRlbXM+IGl0ZW1zID0gcGFydEJlYW4uZ2V0RGF0YSgpLmdldEl0ZW1zKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBzcGlubmVySXRlbXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChSZXBhaXJQYXJ0QmVhbi5EYXRhLkl0ZW1zIGl0ZW0gOiBpdGVtcykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Bpbm5lckl0ZW1zLmFkZChpdGVtLmdldFRleHQoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNwaW5uZXJJdGVtczsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZhYmxlOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>/api/equipment/repairPartController
-    authorizedTokenKey 用户令牌
-    caseNumber case号</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHJ4Lm9ic2VydmVycy5PYnNlcnZlcnM7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="4">
-        <text>SublimePickerFragment pickerFrag = (SublimePickerFragment)
-                                getChildFragmentManager().findFragmentByTag(&quot;SUBLIME_PICKER&quot;);
-                        if (pickerFrag == null) {
-                            pickerFrag = new SublimePickerFragment();
-                            pickerFrag.setStyle(DialogFragment.STYLE_NO_TITLE, 0);
-                            pickerFrag.show(getChildFragmentManager(), &quot;SUBLIME_PICKER&quot;);
-                            pickerFrag.setCallback(new SublimePickerFragment.Callback() {
-                                @Override
-                                public void onCancelled() {
-
-                                }
-
-                                @Override
-                                public void onDateTimeRecurrenceSet(SelectedDate selectedDate, int hourOfDay, int minute, SublimeRecurrencePicker.RecurrenceOption recurrenceOption, String recurrenceRule) {
-//                                    Toast.makeText(mContext, selectedDate.toString(), Toast.LENGTH_SHORT).show();
-                                }
-                            });
-                        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZlcjsK</text>
       </register>
     </registers>
     <search>
