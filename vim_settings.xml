@@ -406,8 +406,10 @@
         <mark key="." line="90" column="102" />
         <mark key="^" line="40" column="74" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/java/me/xudaojie/ijkplayerdemo/MediaPlayerActivity.java" timestamp="1484730381925">
-        <mark key="[" line="15" column="33" />
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/java/me/xudaojie/ijkplayerdemo/MediaPlayerActivity.java" timestamp="1484735053648">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxRunService.java" timestamp="1484725179175">
         <mark key="[" line="360" column="15" />
@@ -1108,7 +1110,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>100dp</text>
+        <text>try {
+//            mMediaPlayer.setDataSource();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1149,41 +1155,45 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii8+Cg==</text>
+      <register name="1" type="4">
+        <text>try {
+//            mMediaPlayer.setDataSource();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx0di5kYW5tYWt1Lmlqay5tZWRpYS5leGFtcGxlLndpZGdldC5tZWRpYS5JamtWaWRlb1ZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3ZpZGVvX3ZpZXciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXIiLz4K</text>
+        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii8+Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDx0di5kYW5tYWt1Lmlqay5tZWRpYS5leGFtcGxlLndpZGdldC5tZWRpYS5JamtWaWRlb1ZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3ZpZGVvX3ZpZXciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXIiLz4K</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">U3VyZmFjZVZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii8+</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiLz4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bmV3IEZ1bmMxPFJlcGFpclBhcnRCZWFuLCBMaXN0PFN0cmluZz4+KCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">IC5tYXAobmV3IEZ1bmMxPFJlcGFpclBhcnRCZWFuLCBPYnNlcnZhYmxlPExpc3Q8U3RyaW5nPj4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPExpc3Q8U3RyaW5nPj4gY2FsbChSZXBhaXJQYXJ0QmVhbiBwYXJ0QmVhbikgewogICAgICAgICAgICAgICAgICAgICAgICBMaXN0PFJlcGFpclBhcnRCZWFuLkRhdGEuSXRlbXM+IGl0ZW1zID0gcGFydEJlYW4uZ2V0RGF0YSgpLmdldEl0ZW1zKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBzcGlubmVySXRlbXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChSZXBhaXJQYXJ0QmVhbi5EYXRhLkl0ZW1zIGl0ZW0gOiBpdGVtcykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Bpbm5lckl0ZW1zLmFkZChpdGVtLmdldFRleHQoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNwaW5uZXJJdGVtczsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQ==</text>
+        <text encoding="base64">bmV3IEZ1bmMxPFJlcGFpclBhcnRCZWFuLCBMaXN0PFN0cmluZz4+KCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IC5tYXAobmV3IEZ1bmMxPFJlcGFpclBhcnRCZWFuLCBPYnNlcnZhYmxlPExpc3Q8U3RyaW5nPj4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPExpc3Q8U3RyaW5nPj4gY2FsbChSZXBhaXJQYXJ0QmVhbiBwYXJ0QmVhbikgewogICAgICAgICAgICAgICAgICAgICAgICBMaXN0PFJlcGFpclBhcnRCZWFuLkRhdGEuSXRlbXM+IGl0ZW1zID0gcGFydEJlYW4uZ2V0RGF0YSgpLmdldEl0ZW1zKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBzcGlubmVySXRlbXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChSZXBhaXJQYXJ0QmVhbi5EYXRhLkl0ZW1zIGl0ZW0gOiBpdGVtcykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Bpbm5lckl0ZW1zLmFkZChpdGVtLmdldFRleHQoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNwaW5uZXJJdGVtczsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZhYmxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJ4Lm9ic2VydmVycy5PYnNlcnZlcnM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYnNlcnZhYmxlOwo=</text>
       </register>
     </registers>
     <search>
