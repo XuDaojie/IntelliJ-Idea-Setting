@@ -359,10 +359,11 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/CustomCalendarView.java" timestamp="1484645263035">
-        <mark key="[" line="503" column="5" />
-        <mark key="]" line="450" column="0" />
-        <mark key="." line="450" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/CustomCalendarView.java" timestamp="1484702789144">
+        <mark key="[" line="78" column="30" />
+        <mark key="]" line="78" column="30" />
+        <mark key="." line="78" column="30" />
+        <mark key="^" line="502" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/dimens.xml" timestamp="1482463519273">
         <mark key="[" line="42" column="0" />
@@ -1040,8 +1041,8 @@
       <jump line="301" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DeviceRepairBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>Calendars</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1074,7 +1075,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(int) view.getTag(R.id.calendar_index);</text>
+        <text>Calendars</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
