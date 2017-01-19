@@ -7,11 +7,8 @@
       <mark key="M" line="66" column="9" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/devicedetail/DeviceDetailContact.java" timestamp="1484806098574">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="13" column="32" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DeviceInfoBean.java" timestamp="1484287123859">
+        <mark key="[" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketPresenter.java" timestamp="1480475378297">
         <mark key="[" line="211" column="0" />
@@ -23,7 +20,7 @@
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="/a.dummy" timestamp="1484796335052">
+      <file name="/a.dummy" timestamp="1484812047629">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -42,6 +39,9 @@
         <mark key="[" line="94" column="75" />
         <mark key="]" line="94" column="75" />
         <mark key="." line="94" column="75" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/java/me/xudaojie/ijkplayerdemo/Constants.java" timestamp="1484811076148">
+        <mark key="[" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_manager_activity.xml" timestamp="1484788509159">
         <mark key="[" line="90" column="48" />
@@ -84,6 +84,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/build.gradle" timestamp="1484813951439">
+        <mark key="[" line="28" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/arrays.xml" timestamp="1484726105801">
         <mark key="[" line="21" column="19" />
@@ -137,13 +140,10 @@
         <mark key="." line="60" column="53" />
         <mark key="^" line="60" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/request/RepairApplyBody.java" timestamp="1484292174042">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="28" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/request/RepairScheduleBody.java" timestamp="1484725368625">
+        <mark key="[" line="19" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_list_fragment.xml" timestamp="1484720533817">
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_list_fragment.xml" timestamp="1484810387756">
         <mark key="[" line="96" column="44" />
         <mark key="]" line="108" column="39" />
         <mark key="." line="108" column="39" />
@@ -153,16 +153,13 @@
         <mark key="]" line="20" column="2" />
         <mark key="." line="20" column="2" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/Event.java" timestamp="1484292462052">
+        <mark key="[" line="24" column="82" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/busniess_trend_chart_fragment.xml" timestamp="1478742987030">
         <mark key="[" line="25" column="35" />
         <mark key="]" line="25" column="35" />
         <mark key="." line="25" column="35" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/devicedetail/DeviceDetailActivity.java" timestamp="1484129732456">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="33" />
-        <mark key="^" line="20" column="33" />
-        <mark key="." line="20" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/net_warn_detail_activity.xml" timestamp="1480922584097">
         <mark key="[" line="76" column="49" />
@@ -174,7 +171,7 @@
         <mark key="]" line="59" column="45" />
         <mark key="." line="59" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/build.gradle" timestamp="1484797075261">
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/build.gradle" timestamp="1484810449601">
         <mark key="[" line="22" column="22" />
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
@@ -183,6 +180,9 @@
         <mark key="[" line="15" column="107" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/java/me/xudaojie/ijkplayerdemo/utils/FileUtils.java" timestamp="1484811684468">
+        <mark key="[" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/src/main/java/io/github/xudaojie/qrcode/TestActivity.java" timestamp="1481718734404">
         <mark key="[" line="10" column="34" />
@@ -194,21 +194,21 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/.gitignore" timestamp="1484106228706">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="8" />
-        <mark key="^" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/Constants.java" timestamp="1484192172642">
         <mark key="[" line="20" column="49" />
         <mark key="]" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/RepairScheduleBean.java" timestamp="1484191412353">
+        <mark key="[" line="6" column="33" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/resdetail/ResScalePresenter.java" timestamp="1481017653017">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="8" column="42" />
         <mark key="." line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/sublimepickerlibrary/src/main/java/com/appeaser/sublimepickerlibrary/datepicker/SimpleMonthView.java" timestamp="1484533607506">
+        <mark key="[" line="1055" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/MineFragment.java" timestamp="1480559237062">
         <mark key="[" line="171" column="36" />
@@ -281,6 +281,9 @@
         <mark key="]" line="47" column="19" />
         <mark key="." line="47" column="19" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/res/values/ids.xml" timestamp="1484619898983">
+        <mark key="[" line="1" column="11" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/App.java" timestamp="1483773816822">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="58" column="0" />
@@ -301,16 +304,13 @@
         <mark key="]" line="23" column="42" />
         <mark key="." line="23" column="42" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/library/src/com/stacktips/view/utils/CalendarUtils.java" timestamp="1484633153920">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="28" column="8" />
-        <mark key="." line="28" column="8" />
-        <mark key="^" line="28" column="8" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/chart/RedisChartFragment.java" timestamp="1480475740529">
         <mark key="[" line="44" column="19" />
         <mark key="]" line="44" column="19" />
         <mark key="." line="44" column="19" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/AndroidManifest.xml" timestamp="1484812536377">
+        <mark key="[" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/library/src/main/java/me/xudaojie/ninesquare/widget/NineLayout.java" timestamp="1479382322296">
         <mark key="[" line="27" column="8" />
@@ -333,6 +333,9 @@
         <mark key="]" line="86" column="17" />
         <mark key="." line="86" column="17" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/RepairPartBean.java" timestamp="1484723511052">
+        <mark key="[" line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/res/layout/qr_camera.xml" timestamp="1481782127565">
         <mark key="[" line="23" column="34" />
         <mark key="]" line="23" column="34" />
@@ -342,6 +345,9 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/sublimepickerlibrary/src/main/java/com/appeaser/sublimepickerlibrary/datepicker/DayPickerPagerAdapter.java" timestamp="1484536187524">
+        <mark key="[" line="392" column="55" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NDKSample/app/src/main/cpp/native-lib.cpp" timestamp="1483293828753">
         <mark key="[" line="12" column="29" />
@@ -353,11 +359,11 @@
         <mark key="]" line="235" column="28" />
         <mark key="." line="235" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/DeviceRepairPresenter.java" timestamp="1484292539905">
-        <mark key="[" line="95" column="65" />
-        <mark key="]" line="95" column="28" />
-        <mark key="." line="95" column="28" />
-        <mark key="^" line="95" column="28" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/README.md" timestamp="1484361262784">
+        <mark key="[" line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/app/src/main/res/layout/activity_simple_calendar.xml" timestamp="1484636575201">
+        <mark key="[" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/LoadMore/loadmore/src/main/java/me/xudaojie/loadmore/LoadMoreLayoutManager.java" timestamp="1481937804242">
         <mark key="[" line="12" column="4" />
@@ -380,10 +386,11 @@
         <mark key="." line="90" column="102" />
         <mark key="^" line="40" column="74" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/java/me/xudaojie/ijkplayerdemo/MediaPlayerActivity.java" timestamp="1484735053648">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="8" />
-        <mark key="." line="29" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/java/me/xudaojie/ijkplayerdemo/MediaPlayerActivity.java" timestamp="1484813468966">
+        <mark key="[" line="23" column="60" />
+        <mark key="]" line="63" column="17" />
+        <mark key="." line="63" column="17" />
+        <mark key="^" line="63" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxRunService.java" timestamp="1484725179175">
         <mark key="[" line="360" column="15" />
@@ -432,11 +439,11 @@
         <mark key="]" line="4" column="60" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/res/layout/activity_main.xml" timestamp="1484732459416">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="21" />
-        <mark key="^" line="17" column="21" />
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/res/layout/activity_main.xml" timestamp="1484809588053">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="^" line="22" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/BasePresenter.java" timestamp="1480475298851">
         <mark key="[" line="7" column="0" />
@@ -451,6 +458,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/AndroidManifest.xml" timestamp="1484727433735">
         <mark key="[" line="97" column="67" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/java/me/xudaojie/ijkplayerdemo/MediaUtils.java" timestamp="1484810110994">
+        <mark key="[" line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-25/android/provider/MediaStore.java" timestamp="1484812735648" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/WarningAlertBean.java" timestamp="1479798564931">
         <mark key="[" line="103" column="34" />
         <mark key="]" line="9" column="0" />
@@ -476,12 +487,13 @@
         <mark key="]" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QrCode/qrcodelib/src/main/java/io/github/xudaojie/qrcodelib/CaptureActivity.java" timestamp="1484812062479" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/chart/RedisLineChartPresenter.java" timestamp="1480475756795">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1484792967200">
+      <file name="/fragment.java" timestamp="1484813611631">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -567,9 +579,9 @@
         <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QrCode/app/build.gradle" timestamp="1481785902897">
-        <mark key="[" line="36" column="53" />
-        <mark key="]" line="36" column="54" />
-        <mark key="." line="36" column="54" />
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="54" />
+        <mark key="." line="37" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Refresh/app/src/main/java/me/xdj/refresh/app/RecyclerViewFragment.java" timestamp="1481705709646">
         <mark key="[" line="29" column="0" />
@@ -585,6 +597,14 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/java/me/xudaojie/ijkplayerdemo/utils/MediaUtils.java" timestamp="1484813386744">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/RepairApplyBean.java" timestamp="1484291541793">
+        <mark key="[" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/door_outbound_frag.xml" timestamp="1483950336576">
         <mark key="[" line="265" column="16" />
@@ -635,7 +655,7 @@
         <mark key="]" line="95" column="26" />
         <mark key="." line="95" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_detail_add_fragment.xml" timestamp="1484795797608">
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_detail_add_fragment.xml" timestamp="1484810420536">
         <mark key="[" line="120" column="48" />
         <mark key="]" line="91" column="34" />
         <mark key="." line="91" column="34" />
@@ -644,6 +664,11 @@
         <mark key="[" line="101" column="53" />
         <mark key="]" line="101" column="53" />
         <mark key="." line="101" column="53" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/java/me/xudaojie/ijkplayerdemo/utils/UriUtils.java" timestamp="1484812125892">
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/LoadMore/app/src/main/AndroidManifest.xml" timestamp="1481941573971">
         <mark key="[" line="2" column="25" />
@@ -676,12 +701,6 @@
         <mark key="." line="78" column="30" />
         <mark key="^" line="502" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_handle_manager_fragment.xml" timestamp="1484722454974">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="8" column="43" />
-        <mark key="^" line="8" column="43" />
-        <mark key="." line="8" column="43" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/core/RetrofitManager.java" timestamp="1484724568660">
         <mark key="[" line="31" column="62" />
         <mark key="]" line="31" column="62" />
@@ -692,6 +711,9 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/java/me/xudaojie/ijkplayerdemo/BaseActivity.java" timestamp="1484730396530">
+        <mark key="[" line="9" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/login/LoginActivity.java" timestamp="1483946287641">
         <mark key="[" line="40" column="27" />
@@ -764,10 +786,10 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/res/layout/media_player_act.xml" timestamp="1484730627479">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/res/layout/media_player_act.xml" timestamp="1484809354693">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/loginandregister/RegisterAct.java" timestamp="1483771966757">
         <mark key="[" line="158" column="0" />
@@ -789,18 +811,6 @@
         <mark key="]" line="179" column="36" />
         <mark key="." line="179" column="36" />
         <mark key="^" line="182" column="88" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_apply_fragment.xml" timestamp="1484299563989">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="45" column="32" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/calendar_dialog.xml" timestamp="1484793672940">
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="7" column="40" />
-        <mark key="." line="7" column="40" />
-        <mark key="^" line="7" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/shape_round_light_gray_min.xml" timestamp="1479891816246">
         <mark key="[" line="5" column="33" />
@@ -838,23 +848,12 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/local.properties" timestamp="1484106343165">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="9" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="13" column="9" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/device_repair_list_item.xml" timestamp="1484810370941" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/detailadd/DeviceDetailAddActivity.java" timestamp="1484722982583">
         <mark key="[" line="18" column="59" />
         <mark key="]" line="38" column="30" />
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="30" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/RepairApplyFragment.java" timestamp="1484792673378">
-        <mark key="[" line="76" column="24" />
-        <mark key="]" line="44" column="57" />
-        <mark key="^" line="44" column="57" />
-        <mark key="." line="44" column="57" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/appmarket/AppMarketFragment.java" timestamp="1480475410918">
         <mark key="[" line="66" column="23" />
@@ -927,6 +926,12 @@
         <mark key="]" line="14" column="41" />
         <mark key="." line="14" column="41" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MultiStateView/library/build.gradle" timestamp="1484106236068">
+        <mark key="[" line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/values/attrs.xml" timestamp="1484184508866">
+        <mark key="[" line="21" column="57" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_sec_activity.xml" timestamp="1479800437913">
         <mark key="[" line="19" column="48" />
         <mark key="]" line="171" column="34" />
@@ -941,6 +946,9 @@
         <mark key="[" line="50" column="5" />
         <mark key="]" line="118" column="43" />
         <mark key="." line="118" column="43" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Custom-Calendar-View/app/src/main/java/com/stacktips/calendar/CalendarDayDecoratorActivity.java" timestamp="1484535061494">
+        <mark key="[" line="64" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/simple_list_item_text.xml" timestamp="1478832555422">
         <mark key="[" line="25" column="66" />
@@ -967,6 +975,14 @@
         <mark key="]" line="26" column="43" />
         <mark key="^" line="26" column="43" />
         <mark key="." line="26" column="43" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/build.gradle" timestamp="1484732282107">
+        <mark key="[" line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/IjkplayerDemo/app/src/main/java/me/xudaojie/ijkplayerdemo/MainActivity.java" timestamp="1484811600503">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/SwipeItemTouchHelper/app/src/main/res/layout/list_item.xml" timestamp="1482395059274">
         <mark key="[" line="35" column="25" />
@@ -1077,8 +1093,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BusinessHealthBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>dataUri</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1111,7 +1127,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>next</text>
+        <text>dataUri</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -1120,44 +1136,40 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGFkZEVuYWJsZSgpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGlmICghVGV4dFV0aWxzLmlzRW1wdHkocGF0aCkpIHsKICAgICAgICAgICAgUmVzdWx0IHJlc3VsdCA9IFFyVXRpbHMuZGVjb2RlSW1hZ2UocGF0aCk7CiAgICAgICAgICAgIGlmIChyZXN1bHQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKSBMb2cuZChUQUcsIHJlc3VsdC5nZXRUZXh0KCkpOwogICAgICAgICAgICAgICAgaGFuZGxlRGVjb2RlKHJlc3VsdCwgbnVsbCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcihDYXB0dXJlQWN0aXZpdHkudGhpcykKICAgICAgICAgICAgICAgICAgICAgICAgLnNldFRpdGxlKCLmj5DnpLoiKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0TWVzc2FnZSgi5q2k5Zu+54mH5peg5rOV6K+G5YirIikKICAgICAgICAgICAgICAgICAgICAgICAgLnNldFBvc2l0aXZlQnV0dG9uKCLnoa7lrpoiLCBudWxsKQogICAgICAgICAgICAgICAgICAgICAgICAuc2hvdygpOwogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKSBMb2cuZShUQUcsICJpbWFnZSBwYXRoIG5vdCBmb3VuZCIpOwogICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChtQWN0aXZpdHksICLlm77niYfot6/lvoTmnKrmib7liLAiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsKICAgICAgICB9</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGFkZEVuYWJsZSgpIHsKICAgICAgICBpZiAoIShJbnRlZ2VyLnBhcnNlSW50KG1JdGVtLmdldFN0YXR1cygpKSA9PSBQYXJhbXMuVkFMX1JFUEFJUkVEKSkgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLmFjdGl2aXR5X21haW4pCiAgICBSZWxhdGl2ZUxheW91dCBtQWN0aXZpdHlNYWluOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgiOnN1YmxpbWVwaWNrZXJsaWJyYXJ5IikK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bUZvcm1hdC5mb3JtYXQodmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogZXJyb3JDb2RlIDogMAogICAgICogZXJyb3JEZXNjIDoKICAgICAqIGRhdGEgOiBbeyJuYW1lIjoiYWNjb3VudC1iYXRjaCIsInNjb3JlIjoiMCIsInN3aXRjaCI6IjAiLCJ0eXBlIjoiQVBQIiwiZmF0aGVyIjoiYWNjb3VudCJ9XQogICAgICovCgogICAgcHJpdmF0ZSBTdHJpbmcgZXJyb3JDb2RlOwogICAgcHJpdmF0ZSBTdHJpbmcgZXJyb3JEZXNjOwogICAgcHJpdmF0ZSBMaXN0PERhdGE+IGRhdGE7CgogICAgcHVibGljIFN0cmluZyBnZXRFcnJvckNvZGUoKSB7CiAgICAgICAgcmV0dXJuIGVycm9yQ29kZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRFcnJvckNvZGUoU3RyaW5nIGVycm9yQ29kZSkgewogICAgICAgIHRoaXMuZXJyb3JDb2RlID0gZXJyb3JDb2RlOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0RXJyb3JEZXNjKCkgewogICAgICAgIHJldHVybiBlcnJvckRlc2M7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RXJyb3JEZXNjKFN0cmluZyBlcnJvckRlc2MpIHsKICAgICAgICB0aGlzLmVycm9yRGVzYyA9IGVycm9yRGVzYzsKICAgIH0KCiAgICBwdWJsaWMgTGlzdDxEYXRhPiBnZXREYXRhKCkgewogICAgICAgIHJldHVybiBkYXRhOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldERhdGEoTGlzdDxEYXRhPiBkYXRhKSB7CiAgICAgICAgdGhpcy5kYXRhID0gZGF0YTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIERhdGEgewogICAgICAgIC8qKgogICAgICAgICAqIG5hbWUgOiBhY2NvdW50LWJhdGNoCiAgICAgICAgICogc2NvcmUgOiAwCiAgICAgICAgICogc3dpdGNoIDogMAogICAgICAgICAqIHR5cGUgOiBBUFAKICAgICAgICAgKiBmYXRoZXIgOiBhY2NvdW50CiAgICAgICAgICovCgogICAgICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgc2NvcmU7CiAgICAgICAgQFNlcmlhbGl6ZWROYW1lKCJzd2l0Y2giKQogICAgICAgIHByaXZhdGUgU3RyaW5nIHN3aXRjaFg7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgdHlwZTsKICAgICAgICBwcml2YXRlIFN0cmluZyBmYXRoZXI7CgogICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgICAgICAgcmV0dXJuIG5hbWU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXROYW1lKFN0cmluZyBuYW1lKSB7CiAgICAgICAgICAgIHRoaXMubmFtZSA9IG5hbWU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldFNjb3JlKCkgewogICAgICAgICAgICByZXR1cm4gc2NvcmU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXRTY29yZShTdHJpbmcgc2NvcmUpIHsKICAgICAgICAgICAgdGhpcy5zY29yZSA9IHNjb3JlOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFN0cmluZyBnZXRTd2l0Y2hYKCkgewogICAgICAgICAgICByZXR1cm4gc3dpdGNoWDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldFN3aXRjaFgoU3RyaW5nIHN3aXRjaFgpIHsKICAgICAgICAgICAgdGhpcy5zd2l0Y2hYID0gc3dpdGNoWDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0VHlwZSgpIHsKICAgICAgICAgICAgcmV0dXJuIHR5cGU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXRUeXBlKFN0cmluZyB0eXBlKSB7CiAgICAgICAgICAgIHRoaXMudHlwZSA9IHR5cGU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldEZhdGhlcigpIHsKICAgICAgICAgICAgcmV0dXJuIGZhdGhlcjsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldEZhdGhlcihTdHJpbmcgZmF0aGVyKSB7CiAgICAgICAgICAgIHRoaXMuZmF0aGVyID0gZmF0aGVyOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGFkZEVuYWJsZSgpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text>try {
-//            mMediaPlayer.setDataSource();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGFkZEVuYWJsZSgpIHsKICAgICAgICBpZiAoIShJbnRlZ2VyLnBhcnNlSW50KG1JdGVtLmdldFN0YXR1cygpKSA9PSBQYXJhbXMuVkFMX1JFUEFJUkVEKSkgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii8+Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgiOnN1YmxpbWVwaWNrZXJsaWJyYXJ5IikK</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx0di5kYW5tYWt1Lmlqay5tZWRpYS5leGFtcGxlLndpZGdldC5tZWRpYS5JamtWaWRlb1ZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3ZpZGVvX3ZpZXciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXIiLz4K</text>
+        <text encoding="base64">bUZvcm1hdC5mb3JtYXQodmFsdWUpCg==</text>
       </register>
     </registers>
     <search>
