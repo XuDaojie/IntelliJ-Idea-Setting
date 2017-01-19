@@ -7,8 +7,8 @@
       <mark key="M" line="66" column="9" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/devicedetail/DeviceDetailContact.java" timestamp="1484796875187">
-        <mark key="[" line="21" column="48" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/devicedetail/DeviceDetailContact.java" timestamp="1484797894924">
+        <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="21" />
         <mark key="^" line="13" column="32" />
         <mark key="." line="18" column="21" />
@@ -416,6 +416,7 @@
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/common/Params.java" timestamp="1484798293689" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/build.gradle" timestamp="1481939411182">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="40" />
@@ -506,11 +507,11 @@
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/devicedetail/DeviceDetailPresenter.java" timestamp="1484797238175">
-        <mark key="[" line="105" column="29" />
-        <mark key="]" line="87" column="15" />
-        <mark key="^" line="87" column="15" />
-        <mark key="." line="87" column="15" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/devicedetail/DeviceDetailPresenter.java" timestamp="1484798448465">
+        <mark key="[" line="110" column="32" />
+        <mark key="]" line="92" column="15" />
+        <mark key="^" line="92" column="15" />
+        <mark key="." line="92" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/constants/Constants.java" timestamp="1479374319310">
         <mark key="[" line="96" column="24" />
@@ -536,11 +537,11 @@
         <mark key="[" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/main_home_fragment.xml" timestamp="1484796251293" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/detailadd/DeviceDetailAddPresenter.java" timestamp="1484730813832">
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="102" column="37" />
-        <mark key="." line="102" column="37" />
-        <mark key="^" line="102" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/detailadd/DeviceDetailAddPresenter.java" timestamp="1484798401675">
+        <mark key="[" line="75" column="33" />
+        <mark key="]" line="75" column="33" />
+        <mark key="." line="75" column="33" />
+        <mark key="^" line="109" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/resdetail/ResAllocationPresenter.java" timestamp="1482480737518">
         <mark key="[" line="79" column="32" />
@@ -880,7 +881,7 @@
         <mark key="]" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/detailadd/DeviceDetailAddFragment.java" timestamp="1484794938684">
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/devicerepair/detailadd/DeviceDetailAddFragment.java" timestamp="1484798188077">
         <mark key="[" line="99" column="51" />
         <mark key="]" line="209" column="13" />
         <mark key="^" line="209" column="13" />
@@ -1077,7 +1078,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>merge</text>
+        <text>next</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1110,7 +1111,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>merge</text>
+        <text>next</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
