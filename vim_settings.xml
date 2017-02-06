@@ -12,6 +12,9 @@
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/util/DeviceUtils.java" timestamp="1486347156441">
+        <mark key="[" line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_health_fragment.xml" timestamp="1482223823099">
         <mark key="[" line="7" column="40" />
         <mark key="]" line="22" column="34" />
@@ -96,6 +99,9 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="/LLDB" timestamp="1486349878291">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/HengQiang/app/src/main/res/layout/item_sys_msg_no_img.xml" timestamp="1481879733731">
         <mark key="[" line="21" column="38" />
@@ -476,6 +482,12 @@
         <mark key="]" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/util/VCameraUtils.java" timestamp="1486349218576">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/recoder/build.gradle" timestamp="1485158341386">
         <mark key="[" line="37" column="45" />
         <mark key="]" line="30" column="1" />
@@ -507,11 +519,7 @@
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/App.java" timestamp="1483773816822">
-        <mark key="[" line="31" column="25" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/App.java" timestamp="1486349777175" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/base/BaseFragment.java" timestamp="1484028601552">
         <mark key="[" line="18" column="34" />
         <mark key="]" line="18" column="34" />
@@ -813,6 +821,9 @@
         <mark key="]" line="35" column="25" />
         <mark key="." line="35" column="25" />
       </file>
+      <file name="/fragment.java" timestamp="1486349897709">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_ring_blue.xml" timestamp="1479711797539">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="30" />
@@ -923,9 +934,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,{
-        exclude group: 'com.android.support', module: 'support-annotations'
-    })</text>
+        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBCdWlsZC5TVVBQT1JURURfQUJJUy5sZW5ndGg7IGkrKykgewoKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -967,50 +976,46 @@
         <text>entries</text>
       </register>
       <register name="1" type="4">
-        <text>,{
-        exclude group: 'com.android.support', module: 'support-annotations'
-    })</text>
+        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBCdWlsZC5TVVBQT1JURURfQUJJUy5sZW5ndGg7IGkrKykgewoKICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjgnCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8g6L+Q55SobGlzdOadpeS/neWtmOS7rOavj+S4gOS4qmFjdGl2aXR55piv5YWz6ZSuCi8vICAgICAgICBCdWlsZC5TVVBQT1JURURfQUJJUw==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text>,{
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjgnCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnYW5kcm9pZC1hcHQnCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>, {
         exclude group: 'com.android.support'
     }</text>
-      </register>
-      <register name="5" type="4">
-        <text>, {
-        exclude group: 'com.android.support'
-    }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uZmlndXJhdGlvbnMgewogICAgYWxsKi5leGNsdWRlIGdyb3VwOiAnaW8ucmVhY3RpdmV4OnJ4amF2YScKfQo=</text>
+      <register name="7" type="4">
+        <text>, {
+        exclude group: 'com.android.support'
+    }</text>
       </register>
-      <register name="8" type="4">
-        <text>,{
-        exclude group: 'io.reactivex:rxjava, io.reactivex:rxandroid'
-    })</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="4">
-        <text>, {
-        exclude group: 'io.reactivex:rxjava, io.reactivex:rxandroid'
-    })</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uZmlndXJhdGlvbnMgewogICAgYWxsKi5leGNsdWRlIGdyb3VwOiAnaW8ucmVhY3RpdmV4OnJ4amF2YScKfQo=</text>
       </register>
     </registers>
     <search>
