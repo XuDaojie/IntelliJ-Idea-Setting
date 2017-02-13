@@ -7,11 +7,10 @@
       <mark key="M" line="66" column="9" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/main_home_frag.xml" timestamp="1486950170998">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="1" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="1" column="1" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/main_home_frag.xml" timestamp="1486953773999">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/network/Api.java" timestamp="1486619428488">
         <mark key="[" line="701" column="86" />
@@ -88,8 +87,11 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/HomeFragment.java" timestamp="1486951337555">
-        <mark key="^" line="81" column="22" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/HomeFragment.java" timestamp="1486953568540">
+        <mark key="[" line="112" column="47" />
+        <mark key="]" line="112" column="46" />
+        <mark key="^" line="112" column="46" />
+        <mark key="." line="112" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/MainActivity.java" timestamp="1486446387841">
         <mark key="[" line="147" column="30" />
@@ -335,8 +337,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/view/HomeFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FIT_XY</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6Y2FuTG9vcD0idHJ1ZSIK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -377,14 +379,20 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6Y2FuTG9vcD0idHJ1ZSIK</text>
+      </register>
+      <register name="2" type="4">
         <text>case 4:
                 if (fragment == null) {
                     fragment = new HomeFragment();
                 }
                 break;</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>HomeFragment fragment = HomeFragment.newInstance();
         new HomePresenter(fragment);
 
@@ -392,37 +400,31 @@
         ft.replace(R.id.content_frame, fragment);
         ft.commit();</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>private void contact() {
 
     }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBAQmluZFZpZXcoUi5pZC5tYWluX2ZnKQogICAgRnJhbWVMYXlvdXQgbU1haW5GZzs=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFnbWVudHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBmcmFnbWVudHMuYWRkKEhvbWVGcmFnbWVudC5uZXdJbnN0YW5jZSgiZnJhZzEiKSk7CiAgICAgICAgZnJhZ21lbnRzLmFkZChIb21lRnJhZ21lbnQubmV3SW5zdGFuY2UoImZyYWcyIikpOwovLyAgICAgICAgZnJhZ21lbnRzLmFkZChNeUZyYWdtZW50Lm5ld0luc3RhbmNlKCJmcmFnMiIpKTsKICAgICAgICBmcmFnbWVudHMuYWRkKEhvbWVGcmFnbWVudC5uZXdJbnN0YW5jZSgiZnJhZzMiKSk7CiAgICAgICAgZnJhZ21lbnRzLmFkZChIb21lRnJhZ21lbnQubmV3SW5zdGFuY2UoImZyYWc0IikpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxCYXNlRnJhZ21lbnQ+IGZyYWdtZW50czsK</text>
+        <text encoding="base64">ICAgICAgICBmcmFnbWVudHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBmcmFnbWVudHMuYWRkKEhvbWVGcmFnbWVudC5uZXdJbnN0YW5jZSgiZnJhZzEiKSk7CiAgICAgICAgZnJhZ21lbnRzLmFkZChIb21lRnJhZ21lbnQubmV3SW5zdGFuY2UoImZyYWcyIikpOwovLyAgICAgICAgZnJhZ21lbnRzLmFkZChNeUZyYWdtZW50Lm5ld0luc3RhbmNlKCJmcmFnMiIpKTsKICAgICAgICBmcmFnbWVudHMuYWRkKEhvbWVGcmFnbWVudC5uZXdJbnN0YW5jZSgiZnJhZzMiKSk7CiAgICAgICAgZnJhZ21lbnRzLmFkZChIb21lRnJhZ21lbnQubmV3SW5zdGFuY2UoImZyYWc0IikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxCYXNlRnJhZ21lbnQ+IGZyYWdtZW50czsK</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
