@@ -7,8 +7,8 @@
       <mark key="M" line="66" column="9" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/main_home_frag.xml" timestamp="1486953773999">
-        <mark key="[" line="13" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/main_home_frag.xml" timestamp="1486956252404">
+        <mark key="[" line="13" column="33" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
@@ -73,8 +73,11 @@
         <mark key="." line="39" column="7" />
         <mark key="^" line="39" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/widget/roundimage/RoundedImageView.java" timestamp="1486951844796">
+      <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/widget/roundimage/RoundedImageView.java" timestamp="1486955334436">
         <mark key="[" line="85" column="59" />
+        <mark key="]" line="53" column="36" />
+        <mark key="^" line="53" column="36" />
+        <mark key="." line="53" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/view/HomeFrag.java" timestamp="1486710778994">
         <mark key="[" line="30" column="4" />
@@ -87,11 +90,11 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/HomeFragment.java" timestamp="1486953568540">
-        <mark key="[" line="112" column="47" />
-        <mark key="]" line="112" column="46" />
-        <mark key="^" line="112" column="46" />
-        <mark key="." line="112" column="46" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/HomeFragment.java" timestamp="1486956386954">
+        <mark key="[" line="98" column="45" />
+        <mark key="]" line="98" column="45" />
+        <mark key="^" line="98" column="54" />
+        <mark key="." line="98" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/MainActivity.java" timestamp="1486446387841">
         <mark key="[" line="147" column="30" />
@@ -337,8 +340,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/view/HomeFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6Y2FuTG9vcD0idHJ1ZSIK</text>
+      <register name="&quot;" type="4">
+        <text>ic_viewpage</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -371,7 +374,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FIT_XY</text>
+        <text>ic_viewpage</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
