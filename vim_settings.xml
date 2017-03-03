@@ -170,6 +170,7 @@
         <mark key="^" line="87" column="62" />
         <mark key="." line="10" column="22" />
       </file>
+      <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-25/android/os/IBinder.java" timestamp="1488518383814" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/values/rounded_imageview_attrs.xml" timestamp="1486951774542">
         <mark key="[" line="1" column="11" />
       </file>
@@ -229,10 +230,10 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/java/io/github/xudaojie/developertools/DevTiles.java" timestamp="1488516717489">
-        <mark key="[" line="38" column="69" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/java/io/github/xudaojie/developertools/DevTiles.java" timestamp="1488518475238">
+        <mark key="[" line="58" column="37" />
+        <mark key="]" line="58" column="37" />
+        <mark key="." line="58" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/base/BaseActivity.java" timestamp="1486718194753">
         <mark key="[" line="111" column="8" />
@@ -390,8 +391,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/view/HomeFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCB0dCwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>IBinder.SYSPROPS_TRANSACTION</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -424,7 +425,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>IBinder.SYSPROPS_TRANSACTION</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
