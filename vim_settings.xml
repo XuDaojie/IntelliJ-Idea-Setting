@@ -145,11 +145,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/loading_dialog.xml" timestamp="1486950618858">
         <mark key="[" line="14" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/java/io/github/xudaojie/developertools/DevTiles.java" timestamp="1488548800474">
-        <mark key="[" line="48" column="37" />
-        <mark key="]" line="61" column="16" />
-        <mark key="." line="61" column="16" />
-        <mark key="^" line="61" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/java/io/github/xudaojie/developertools/DevTiles.java" timestamp="1488550300573">
+        <mark key="[" line="51" column="77" />
+        <mark key="]" line="51" column="77" />
+        <mark key="." line="51" column="77" />
+        <mark key="^" line="62" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/base/BaseActivity.java" timestamp="1486718194753">
         <mark key="[" line="111" column="8" />
@@ -172,7 +172,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/DevelopQuickSetting/app/src/main/AndroidManifest.xml" timestamp="1488547360520" />
+      <file name="$USER_HOME$/AndroidStudioProjects/DevelopQuickSetting/app/src/main/AndroidManifest.xml" timestamp="1488550133543" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/network/ApiImp.java" timestamp="1486619735411">
         <mark key="[" line="690" column="53" />
         <mark key="]" line="690" column="53" />
@@ -183,8 +183,10 @@
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1488515628787">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1488550356885">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -291,7 +293,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>static</text>
+        <text>getString</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -324,7 +326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>getString</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
