@@ -53,8 +53,11 @@
         <mark key="." line="11" column="34" />
       </file>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/platforms/android-22/android.jar!/android/appwidget/AppWidgetProvider.class" timestamp="1488553953295" />
-      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/res/values/arrays.xml" timestamp="1488598964952">
-        <mark key="[" line="1" column="11" />
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/res/values/arrays.xml" timestamp="1488600338228">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
       </file>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-25/java/lang/reflect/Method.java" timestamp="1488519640241" />
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/java/io/github/xudaojie/developertools/AppCompatPreferenceActivity.java" timestamp="1488598360864">
@@ -271,11 +274,11 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/res/xml/pref_test.xml" timestamp="1488599151066">
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="11" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/res/xml/pref_test.xml" timestamp="1488600452397">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="36" />
         <mark key="^" line="11" column="45" />
-        <mark key="." line="11" column="45" />
+        <mark key="." line="19" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/main_course_frag.xml" timestamp="1486720118563">
         <mark key="[" line="4" column="34" />
@@ -430,7 +433,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TestPreferenceActivity</text>
+        <text>list_preference_entry_values</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -463,7 +466,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TestPreferenceActivity</text>
+        <text>list_preference_entry_values</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
