@@ -85,6 +85,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/values/colors.xml" timestamp="1486968196944">
         <mark key="[" line="4" column="45" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/TestPreferenceActivity.java" timestamp="1488725907034">
+        <mark key="[" line="14" column="54" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/java/io/github/xudaojie/developertools/TestPerferenceActivity.java" timestamp="1488598334430">
         <mark key="[" line="6" column="36" />
       </file>
@@ -108,6 +113,9 @@
         <mark key="." line="45" column="42" />
       </file>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-25/android/os/SystemProperties.java" timestamp="1488545838096" />
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/res/xml/pref_test.xml" timestamp="1488726055191">
+        <mark key="[" line="15" column="29" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/java/io/github/xudaojie/developertools/SettingsActivity.java" timestamp="1488699194713" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/HomePresenter.java" timestamp="1486718734004">
         <mark key="[" line="10" column="21" />
@@ -132,6 +140,11 @@
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-25/android/os/IBinder.java" timestamp="1488518383814" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/values/rounded_imageview_attrs.xml" timestamp="1486951774542">
         <mark key="[" line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/README.md" timestamp="1488725517135">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/java/io/github/xudaojie/developertools/DeveloperSettingActivity.java" timestamp="1488512999192">
         <mark key="[" line="6" column="0" />
@@ -160,6 +173,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/AndroidManifest.xml" timestamp="1488725955105">
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="36" column="31" />
+        <mark key="." line="36" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/loading_dialog.xml" timestamp="1486950618858">
         <mark key="[" line="14" column="53" />
@@ -323,7 +341,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getActionBar</text>
+        <text>io.github.xudaojie.developersettings.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -356,7 +374,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getActionBar</text>
+        <text>io.github.xudaojie.developersettings.</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -365,9 +383,15 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgLyoqCi8vICAgICAqIFNldCB1cCB0aGUge0BsaW5rIGFuZHJvaWQuYXBwLkFjdGlvbkJhcn0sIGlmIHRoZSBBUEkgaXMgYXZhaWxhYmxlLgovLyAgICAgKi8KLy8gICAgcHJpdmF0ZSB2b2lkIHNldHVwQWN0aW9uQmFyKCkgewovLyAgICAgICAgQWN0aW9uQmFyIGFjdGlvbkJhciA9IGdldFN1cHBvcnRBY3Rpb25CYXIoKTsKLy8gICAgICAgIGlmIChhY3Rpb25CYXIgIT0gbnVsbCkgewovLyAgICAgICAgICAgIC8vIFNob3cgdGhlIFVwIGJ1dHRvbiBpbiB0aGUgYWN0aW9uIGJhci4KLy8gICAgICAgICAgICBhY3Rpb25CYXIuc2V0RGlzcGxheUhvbWVBc1VwRW5hYmxlZCh0cnVlKTsKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>/**
      * 应用程序运行命令获取 Root权限，设备必须已破解(获得ROOT权限)
      * @param command 命令：String apkRoot=&quot;chmod 777 &quot;+getPackageCodePath(); RootCommand(apkRoot);
@@ -406,35 +430,29 @@
         return true;
     }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBhcGtSb290PSJjaG1vZCA3NzcgIitnZXRQYWNrYWdlQ29kZVBhdGgoKTsKLy8gICAgICAgIFJvb3RDb21tYW5kKGFwa1Jvb3QpOwovLyAgICAgICAgU3lzdGVtTWFuYWdlci5Sb290Q29tbWFuZChhcGtSb290KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCB0dCwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBhcGtSb290PSJjaG1vZCA3NzcgIitnZXRQYWNrYWdlQ29kZVBhdGgoKTsKLy8gICAgICAgIFJvb3RDb21tYW5kKGFwa1Jvb3QpOwovLyAgICAgICAgU3lzdGVtTWFuYWdlci5Sb290Q29tbWFuZChhcGtSb290KTsK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iVGlsZSIK</text>
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCB0dCwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iVGlsZSIK</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgeGRqIG9uIDIwMTcvMy8zLgogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
