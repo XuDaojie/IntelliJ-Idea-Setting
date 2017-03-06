@@ -58,14 +58,17 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/sources/android-25/java/lang/reflect/InvocationTargetException.java" timestamp="1488515920039" />
-      <file name="$USER_HOME$/AndroidStudioProjects/DevelopQuickSetting/app/src/main/java/me/yugy/github/developquicksetting/Property.java" timestamp="1488556377636" />
+      <file name="$USER_HOME$/AndroidStudioProjects/DevelopQuickSetting/app/src/main/java/me/yugy/github/developquicksetting/Property.java" timestamp="1488820397314" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/view/HomeFrag.java" timestamp="1486710778994">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/TestPreferenceActivity.java" timestamp="1488818734379">
-        <mark key="^" line="45" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/TestPreferenceActivity.java" timestamp="1488821332060">
+        <mark key="[" line="58" column="67" />
+        <mark key="]" line="58" column="67" />
+        <mark key="^" line="49" column="53" />
+        <mark key="." line="58" column="67" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/app/src/main/java/io/github/xudaojie/androiddemo/MainActivity.java" timestamp="1486446387841">
         <mark key="[" line="147" column="30" />
@@ -212,6 +215,7 @@
         <mark key="]" line="49" column="27" />
         <mark key="." line="49" column="27" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/ShellUtils.java" timestamp="1488819719346" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/loading_dialog.xml" timestamp="1486950618858">
         <mark key="[" line="14" column="53" />
       </file>
@@ -248,7 +252,7 @@
         <mark key="]" line="19" column="27" />
         <mark key="." line="19" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1488801379729">
+      <file name="/fragment.java" timestamp="1488819791084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -358,7 +362,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IBinder</text>
+        <text>show</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -391,7 +395,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>IBinder</text>
+        <text>show</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
