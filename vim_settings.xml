@@ -18,13 +18,13 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/util/DeviceUtils.java" timestamp="1486347156441">
         <mark key="[" line="8" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1488879393325">
+      <file name="/a.dummy" timestamp="1488883789464">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/build.gradle" timestamp="1488879497275">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/build.gradle" timestamp="1488885134875">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Library/Android/android-sdk-mac/platforms/android-22/android.jar!/android/Manifest.class" timestamp="1488547899380" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/TypeFragment.java" timestamp="1486720436511">
@@ -105,10 +105,11 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/DevelopmentSettingsActivity.java" timestamp="1488880246193">
-        <mark key="]" line="103" column="35" />
-        <mark key="." line="103" column="35" />
-        <mark key="^" line="56" column="29" />
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/DevelopmentSettingsActivity.java" timestamp="1488885207575">
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="41" />
+        <mark key="." line="35" column="41" />
+        <mark key="^" line="61" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/Constants.java" timestamp="1488876057476">
         <mark key="[" line="11" column="85" />
@@ -227,15 +228,15 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/.gitignore" timestamp="1486351624374">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488882573343">
+      <file name="/Dummy.txt" timestamp="1488885226869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/AndroidManifest.xml" timestamp="1488879376789">
-        <mark key="[" line="31" column="36" />
-        <mark key="]" line="31" column="36" />
-        <mark key="." line="31" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/AndroidManifest.xml" timestamp="1488883451054">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/ShellUtils.java" timestamp="1488880648856" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/loading_dialog.xml" timestamp="1486950618858">
@@ -248,11 +249,6 @@
         <mark key="^" line="91" column="18" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/SettingsActivity.java" timestamp="1488771126846" />
-      <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/java/io/github/xudaojie/developertools/DevTiles.java" timestamp="1488717843737">
-        <mark key="]" line="50" column="33" />
-        <mark key="." line="50" column="33" />
-        <mark key="^" line="50" column="33" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/main_course_frag.xml" timestamp="1486720118563">
         <mark key="[" line="4" column="34" />
       </file>
@@ -386,7 +382,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>android / platform /</text>
+        <text>后再运行本程序</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -419,7 +415,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>android / platform /</text>
+        <text>后再运行本程序</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -427,12 +423,24 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICA+Cg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLklOVEVSTkVUIi8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkFDQ0VTU19ORVRXT1JLX1NUQVRFIi8=</text>
+      </register>
+      <register name="4" type="4">
         <text>Settings.System.putInt(getContentResolver(), &quot;show_touches&quot;,
                     getQsTile().getState() == Tile.STATE_INACTIVE ? 1 : 0);
             refresh();</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>@Override
         public void onStartListening() {
             refresh();
@@ -449,18 +457,18 @@
             getQsTile().updateTile();
         }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAoKFN3aXRjaFByZWZlcmVuY2UpIGZpbmRQcmVmZXJlbmNlKCJzaG93X3RvdWNoZXMiKSkuc2V0Q2hlY2tlZCh0cnVlKTsKICAgICAgICAoKFN3aXRjaFByZWZlcmVuY2UpIGZpbmRQcmVmZXJlbmNlKCJwb2ludGVyX2xvY2F0aW9uIikpLnNldENoZWNrZWQodHJ1ZSk7CiAgICAgICAgKChTd2l0Y2hQcmVmZXJlbmNlKSBmaW5kUHJlZmVyZW5jZSgiZGVidWdfbGF5b3V0IikpLnNldENoZWNrZWQodHJ1ZSk7</text>
       </register>
-      <register name="4" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>} catch (Settings.SettingNotFoundException e) {
             e.printStackTrace();
         }</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>//            int showTouches = 0;
 //            try {
 //                showTouches = Settings.System.getInt(getContentResolver(), &quot;pointer_location&quot;);
@@ -478,7 +486,10 @@
 //            }
 //            getQsTile().updateTile();</text>
       </register>
-      <register name="6" type="4">
+      <register name="x" type="4">
+        <text>shelfNo</text>
+      </register>
+      <register name="9" type="4">
         <text>//            int showTouches = 0;
 //            try {
 //                showTouches = Settings.System.getInt(getContentResolver(), &quot;show_touches&quot;);
@@ -494,21 +505,6 @@
 //                        0);
 //                getQsTile().setState(Tile.STATE_INACTIVE);
 //            }</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VydmljZQogICAgICAgICAgICBhbmRyb2lkOm5hbWU9IlF1aWNrU2V0dGluZ1RpbGUiCiAgICAgICAgICAgIGFuZHJvaWQ6aWNvbj0iQGRyYXdhYmxlL2ljX2luZm9fYmxhY2tfMjRkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iVGlsZSIKICAgICAgICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSJhbmRyb2lkLnBlcm1pc3Npb24uQklORF9RVUlDS19TRVRUSU5HU19USUxFIj4KICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5zZXJ2aWNlLnF1aWNrc2V0dGluZ3MuYWN0aW9uLlFTX1RJTEUiLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgogICAgICAgIDwvc2VydmljZT4K</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgdXBkYXRlTGlzdFByZWZlcmVuY2UoTGlzdFByZWZlcmVuY2UgbGlzdFByZWZlcmVuY2UsIFN0cmluZyBjb21tYW5kKSB7CiAgICAgICAgU2hlbGxVdGlscy5leGVjQ29tbWFuZChjb21tYW5kLCB0cnVlKTsKICAgICAgICBuZXcgU3lzdGVtUHJvcFBva2VyKCkuZXhlY3V0ZSgpOwogICAgICAgIAogICAgICAgIENoYXJTZXF1ZW5jZVtdIGVudHJpZXMgPSBsaXN0UHJlZmVyZW5jZS5nZXRFbnRyaWVzKCk7CiAgICAgICAgaW50IGluZGV4T2ZWYWx1ZSA9IGxpc3RQcmVmZXJlbmNlLmZpbmRJbmRleE9mVmFsdWUobmV3VmFsdWUudG9TdHJpbmcoKSk7CiAgICAgICAgcHJlZmVyZW5jZS5zZXRTdW1tYXJ5KGVudHJpZXNbaW5kZXhPZlZhbHVlXSk7CiAgICB9</text>
-      </register>
-      <register name="x" type="4">
-        <text>shelfNo</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
