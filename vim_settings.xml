@@ -173,6 +173,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/MyJavaEE/build.gradle" timestamp="1490839800440">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeBusniessChartFragment.java" timestamp="1478743162631">
         <mark key="[" line="14" column="39" />
       </file>
@@ -543,7 +548,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490838060744">
+      <file name="/Dummy.txt" timestamp="1490838548618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -736,11 +741,11 @@
       <jump line="33" column="95" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxWarningService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>application</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC90aXRsZT4=</text>
+        <text>application</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -748,42 +753,42 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>// Define the main class for the application
+mainClassName = 'App'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFdlYkxpc3RlbmVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFdlYkxpc3RlbmVyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">QFdlYkZpbHRlcihmaWx0ZXJOYW1lID0gIm1GaWx0ZXIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JT4K</text>
+        <text encoding="base64">QFdlYkZpbHRlcihmaWx0ZXJOYW1lID0gIm1GaWx0ZXIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCUhCjwlCg==</text>
+        <text encoding="base64">JT4K</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="4">
-        <text>private int calc(int x, int y) {
-    return x + y;</text>
+      <register name="9" type="2">
+        <text encoding="base64">PCUhCjwlCg==</text>
       </register>
     </registers>
     <search>
