@@ -361,8 +361,8 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/README.md" timestamp="1491060539063">
-        <mark key="[" line="97" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/README.md" timestamp="1491106231651">
+        <mark key="[" line="99" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/express_info_warn_frag.xml" timestamp="1478067706528">
         <mark key="[" line="337" column="56" />
@@ -399,6 +399,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/FrescoZoomable/app/src/main/java/me/xudaojie/frescozoomable/App.java" timestamp="1477550184849">
         <mark key="[" line="10" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e6efed3-e8e2-4927-b215-469efdc836a6/console.sql" timestamp="1490984047847">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/activity/SplashActivity.java" timestamp="1478055080412">
         <mark key="[" line="46" column="35" />
@@ -561,10 +567,11 @@
         <mark key="]" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/src/com/xdj/javaee/servlet/LoginServlet.java" timestamp="1491102239505">
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="26" column="15" />
-        <mark key="." line="26" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/src/com/xdj/javaee/servlet/LoginServlet.java" timestamp="1491106283789">
+        <mark key="[" line="25" column="92" />
+        <mark key="]" line="26" column="63" />
+        <mark key="." line="26" column="63" />
+        <mark key="^" line="26" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MPAndroidChart/MPChartExample/src/com/xxmassdeveloper/mpchartexample/custom/MyCustomXAxisValueFormatter.java" timestamp="1479437760891">
         <mark key="[" line="28" column="72" />
@@ -650,6 +657,11 @@
         <mark key="]" line="121" column="35" />
         <mark key="." line="121" column="35" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/WebContent/WEB-INF/applicationContext.xml" timestamp="1491105367192">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/src/com/xdj/javaee/db/DBUtils.java" timestamp="1491100426480">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="28" column="5" />
@@ -665,10 +677,11 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/build.gradle" timestamp="1491098948582">
-        <mark key="[" line="26" column="83" />
-        <mark key="]" line="36" column="40" />
-        <mark key="." line="36" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/build.gradle" timestamp="1491103867936">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxAccountService.java" timestamp="1478781928790">
         <mark key="[" line="39" column="14" />
@@ -733,6 +746,12 @@
       </file>
       <file name="$USER_HOME$/Workspace/MyJavaEE/src/com/xdj/javaee/listener/FirstFilter.java" timestamp="1490750702433">
         <mark key="[" line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/build.gradle" timestamp="1490866517277">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -839,10 +858,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v2</text>
+        <text>getServletConfig().</text>
       </register>
       <register name="-" type="4">
-        <text>v2</text>
+        <text>getServletConfig().</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -851,11 +870,35 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IHB1YmxpYyBMb2dpblNlcnZsZXQoKSB7CiAgICAgICAgV2ViQXBwbGljYXRpb25Db250ZXh0IGNvbnRleHQgPSBXZWJBcHBsaWNhdGlvbkNvbnRleHRVdGlscy5nZXRXZWJBcHBsaWNhdGlvbkNvbnRleHQoZ2V0U2VydmxldENvbmZpZygpLmdldFNlcnZsZXRDb250ZXh0KCkpOwogICAgICAgIG1BY2NvdW50REFPID0gKEFjY291bnREQU8pIGNvbnRleHQuZ2V0QmVhbigiYWNjb3VudERBTyIpOwogICAgfQ==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtQWNjb3VudERBTyA9IFdlYkFwcGxpY2F0aW9uQ29udGV4dFV0aWxzLmZpbmRXZWJBcHBsaWNhdGlvbkNvbnRleHQoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMb2dpblNlcnZsZXQoKSB7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">PGJlYW4gaWQ9ImRiVXRpbHMiIGNsYXNzPSJjb20ueGRqLmphdmFlZS5kYi5EQlV0aWxzIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iIgogICAgPC9iZWFuPg==</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>else {
 
             }</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>@Override
     public int login(AccountBean accountBean) {
         Connection conn = DBUtils.getConnection();
@@ -875,44 +918,11 @@
         return 0;
     }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgdHJ5IHsKICAgICAgICAgICAgbUNvbm5lY3Rpb24gPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oVVJMLCBVU0VSTkFNRSwgUEFTU1dPUkQpOwogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="4">
-        <text>// 通过数据库连接操作数据库
-        Statement stmt = conn.createStatement();
-        ResultSet rs = stmt.executeQuery(&quot;SELECT * FROM account&quot;);
-        System.out.println(&quot;---------------&quot;);
-        while (rs.next()) {
-            System.out.println(
-                    rs.getString(&quot;username&quot;) + &quot; &quot; +
-                            rs.getString(&quot;password&quot;));
-        }
-        System.out.println(&quot;---------------&quot;);</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgbG9naW4oKSB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIH0K</text>
-      </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIERCVXRpbHMudGVzdCgpOwogICAgICAgIH0gY2F0Y2ggKENsYXNzTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAg</text>
+        <text encoding="base64">ICAgdHJ5IHsKICAgICAgICAgICAgbUNvbm5lY3Rpb24gPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oVVJMLCBVU0VSTkFNRSwgUEFTU1dPUkQpOwogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQ==</text>
       </register>
     </registers>
     <search>
