@@ -184,6 +184,9 @@
         <mark key="]" line="141" column="34" />
         <mark key="." line="141" column="34" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/WebContent/index.jsp" timestamp="1491226509369">
+        <mark key="[" line="31" column="19" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/sample/src/main/res/layout/activity_main.xml" timestamp="1478482645884">
         <mark key="[" line="21" column="8" />
       </file>
@@ -748,8 +751,10 @@
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/src/com/xdj/javaee/controller/HelloWorldController.java" timestamp="1491213798463">
-        <mark key="[" line="7" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/src/com/xdj/javaee/controller/HelloWorldController.java" timestamp="1491226764852">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_cycle_orange_orange.xml" timestamp="1478763256324">
         <mark key="[" line="6" column="30" />
@@ -940,11 +945,11 @@
       <jump line="95" column="0" filename="$USER_HOME$/IdeaProjects/MyJavaEE/app/WebContent/WEB-INF/web.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgID4K</text>
+      <register name="&quot;" type="4">
+        <text>helloWorld</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>helloWorld</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
