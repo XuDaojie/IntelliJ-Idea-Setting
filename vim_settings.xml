@@ -259,11 +259,11 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/App.js" timestamp="1492878289445">
-        <mark key="[" line="117" column="8" />
-        <mark key="]" line="117" column="7" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/App.js" timestamp="1492884565903">
+        <mark key="[" line="124" column="25" />
+        <mark key="]" line="124" column="25" />
         <mark key="^" line="117" column="7" />
-        <mark key="." line="117" column="7" />
+        <mark key="." line="124" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/chart/build.gradle" timestamp="1479438316563">
         <mark key="[" line="30" column="34" />
@@ -274,7 +274,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/drawable/bg_white_border_top_1px.xml" timestamp="1479456391745">
         <mark key="[" line="10" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492879603706">
+      <file name="/Dummy.txt" timestamp="1492884071579">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -316,11 +316,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expchange/ExpChangeFragment.java" timestamp="1477647401741">
         <mark key="[" line="45" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/ProjectController.java" timestamp="1492879427112">
-        <mark key="[" line="219" column="21" />
-        <mark key="]" line="219" column="21" />
-        <mark key="^" line="217" column="53" />
-        <mark key="." line="219" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/ProjectController.java" timestamp="1492883810560">
+        <mark key="[" line="218" column="34" />
+        <mark key="]" line="218" column="34" />
+        <mark key="^" line="218" column="53" />
+        <mark key="." line="218" column="34" />
       </file>
       <file name="/a.regexp" timestamp="1478778903027">
         <mark key="[" line="0" column="0" />
@@ -627,6 +627,9 @@
       <file name="$USER_HOME$/ReactJS/my-app/NOTE.md" timestamp="1492856657243">
         <mark key="[" line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/filter/CharsetEncodeFilter.java" timestamp="1492884025899">
+        <mark key="[" line="30" column="91" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/build.gradle" timestamp="1492444663641">
         <mark key="[" line="6" column="25" />
       </file>
@@ -790,10 +793,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IExvbmcucGFyc2VMb25nKA==</text>
+        <text>status</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IExvbmcucGFyc2VMb25nKA==</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -801,20 +804,8 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>try {
-            Algorithm algorithm = Algorithm.HMAC256(&quot;mystar&quot;);
-            JWTVerifier verifier = JWT.require(algorithm)
-                    .withIssuer(&quot;John Wu JWT&quot;)
-                    .build(); //Reusable verifier instance
-            DecodedJWT decodedJWT = verifier.verify(token);
-        } catch (UnsupportedEncodingException exception){
-            //UTF-8 encoding not supported
-            exception.printStackTrace();
-        } catch (JWTVerificationException exception){
-            //Invalid signature/claims
-            exception.printStackTrace();
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgcHJvamVjdExpc3RHZXQoQCgib2F1dGgiKSBTdHJpbmcgdG9rZW4pIHsK</text>
       </register>
       <register name="2" type="4">
         <text>try {
@@ -835,11 +826,26 @@
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text>try {
+            Algorithm algorithm = Algorithm.HMAC256(&quot;mystar&quot;);
+            JWTVerifier verifier = JWT.require(algorithm)
+                    .withIssuer(&quot;John Wu JWT&quot;)
+                    .build(); //Reusable verifier instance
+            DecodedJWT decodedJWT = verifier.verify(token);
+        } catch (UnsupportedEncodingException exception){
+            //UTF-8 encoding not supported
+            exception.printStackTrace();
+        } catch (JWTVerificationException exception){
+            //Invalid signature/claims
+            exception.printStackTrace();
+        }</text>
+      </register>
+      <register name="4" type="4">
         <text>//        catch (JWTVerificationException exception){
 //            //Invalid signature/claims
 //        }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>try {
             Algorithm algorithm = Algorithm.HMAC256(SECRET);
             JWTVerifier verifier = JWT.require(algorithm)
@@ -854,26 +860,23 @@
             return false;
         }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJqc3JzYXNpZ24iOiAiXjcuMS4zIiwK</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICJqc3JzYXNpZ24iOiAiXjcuMS4zIiwK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">JC5nZXQoCiAgICAgIEJBU0VfVVJMICsgImFwaS9wcm9qZWN0IiwKICAgICAgewogICAgICAgIC8vIHRvZG8gdXNlcl9pZDogMQogICAgICAgIHVzZXJfaWQ6IDEsCiAgICAgIH0sCiAgICAgIHJlc3VsdCA9PiB7CiAgICAgICAgaWYgKHJlc3VsdC5jb2RlID09PSAwKSB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHtkcmF3ZXJEYXRhOiByZXN1bHQuZGF0YX0pOwogICAgICAgIH0KICAgICAgfQogICAgKTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJqc3JzYXNpZ24iOiAiXjcuMS4zIiwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZW50cnkuZ2V0VmFsdWUoKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">JC5nZXQoCiAgICAgIEJBU0VfVVJMICsgImFwaS9wcm9qZWN0IiwKICAgICAgewogICAgICAgIC8vIHRvZG8gdXNlcl9pZDogMQogICAgICAgIHVzZXJfaWQ6IDEsCiAgICAgIH0sCiAgICAgIHJlc3VsdCA9PiB7CiAgICAgICAgaWYgKHJlc3VsdC5jb2RlID09PSAwKSB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHtkcmF3ZXJEYXRhOiByZXN1bHQuZGF0YX0pOwogICAgICAgIH0KICAgICAgfQogICAgKTs=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IH0gY2F0Y2ggKFVuc3VwcG9ydGVkRW5jb2RpbmdFeGNlcHRpb24gZXhjZXB0aW9uKXsKICAgICAgICAgICAgLy9VVEYtOCBlbmNvZGluZyBub3Qgc3VwcG9ydGVkCiAgICAgICAgICAgIGV4Y2VwdGlvbi5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChKV1RWZXJpZmljYXRpb25FeGNlcHRpb24gZXhjZXB0aW9uKXsKICAgICAgICAgICAgLy9JbnZhbGlkIHNpZ25hdHVyZS9jbGFpbXMKICAgICAgICAgICAgZXhjZXB0aW9uLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZW50cnkuZ2V0VmFsdWUoKQo=</text>
       </register>
     </registers>
     <search>
