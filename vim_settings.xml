@@ -13,7 +13,11 @@
       <file name="/a.dummy" timestamp="1492489563267">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/containers/TestLoginBtn.js" timestamp="1492965178452" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/containers/TestLoginBtn.js" timestamp="1492967392066">
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/dao/AccountDAO.java" timestamp="1492488463209">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="21" />
@@ -535,7 +539,7 @@
       <file name="$USER_HOME$/ReactJS/my-app/src/reducers/testReducer.js" timestamp="1492959461026">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/reducers/testLoginReducer.js" timestamp="1492965245565">
+      <file name="$USER_HOME$/ReactJS/my-app/src/reducers/testLoginReducer.js" timestamp="1492967246945">
         <mark key="[" line="3" column="65" />
         <mark key="]" line="3" column="41" />
         <mark key="." line="3" column="41" />
@@ -754,10 +758,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>showLogin</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>showLogin</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
