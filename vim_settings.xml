@@ -13,8 +13,8 @@
       <file name="/a.dummy" timestamp="1492489563267">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/containers/TestLoginBtn.js" timestamp="1492967392066">
-        <mark key="[" line="21" column="15" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/containers/TestLoginBtn.js" timestamp="1492969557727">
+        <mark key="[" line="28" column="4" />
         <mark key="]" line="21" column="15" />
         <mark key="." line="21" column="15" />
       </file>
@@ -61,10 +61,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/containers/TestLoginDialog.js" timestamp="1492964732388">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/containers/TestLoginDialog.js" timestamp="1492972031998">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="33" />
+        <mark key="." line="27" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/expressinfo/ExpressInfoFragment.java" timestamp="1479450447222">
         <mark key="[" line="345" column="45" />
@@ -160,11 +160,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/PaasBigDataFragment.java" timestamp="1479440550658">
         <mark key="[" line="137" column="40" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/index.js" timestamp="1492960546829">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="17" column="1" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/index.js" timestamp="1492968241906">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="18" column="1" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/res/drawable/bg_shape_round_small_dark_blue.xml" timestamp="1478590082225">
         <mark key="[" line="3" column="44" />
@@ -186,7 +186,7 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/ProjectContent.js" timestamp="1492783645125">
+      <file name="$USER_HOME$/ReactJS/my-app/src/ProjectContent.js" timestamp="1492970757010">
         <mark key="[" line="78" column="30" />
         <mark key="]" line="78" column="30" />
         <mark key="." line="78" column="30" />
@@ -378,6 +378,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/door_outbound_frag.xml" timestamp="1479182944927">
         <mark key="[" line="80" column="42" />
       </file>
+      <file name="$USER_HOME$/ReactJS/my-app/src/LoginDialog.js" timestamp="1492970752554" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeFragment.java" timestamp="1479796729353">
         <mark key="[" line="224" column="8" />
       </file>
@@ -539,10 +540,10 @@
       <file name="$USER_HOME$/ReactJS/my-app/src/reducers/testReducer.js" timestamp="1492959461026">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/reducers/testLoginReducer.js" timestamp="1492967246945">
-        <mark key="[" line="3" column="65" />
-        <mark key="]" line="3" column="41" />
-        <mark key="." line="3" column="41" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/reducers/testLoginReducer.js" timestamp="1492972051809">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWaringFragment.java" timestamp="1478678203057">
         <mark key="[" line="14" column="32" />
@@ -630,10 +631,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/MPAndroidChart/MPChartExample/src/com/xxmassdeveloper/mpchartexample/LineChartActivity1.java" timestamp="1479440985624">
         <mark key="[" line="344" column="34" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/actions/index.js" timestamp="1492964687647">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="27" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/actions/index.js" timestamp="1492969965066">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/SimpleSpinner.java" timestamp="1479692699431">
         <mark key="[" line="13" column="27" />
@@ -758,10 +759,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>showLogin</text>
+        <text>openLogin</text>
       </register>
       <register name="-" type="4">
-        <text>showLogin</text>
+        <text>openLogin</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -770,9 +771,35 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IG9uQ2xpY2soKXsKICB9Cg==</text>
+        <text>// TestLoginDialog.propTypes = {
+//   openLogin: React.PropTypes.bool,
+// };</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IC8vIHJlbmRlcigpIHsKICAvLyAgIHJldHVybiAoCiAgLy8gICAgIDxEaWFsb2cKICAvLyAgICAgICB0aXRsZT0i55m75b2VIgogIC8vICAgICAgIG1vZGFsPXtmYWxzZX0KICAvLyAgICAgICBvcGVuPXt0aGlzLnByb3BzLm9wZW5Mb2dpbn0vPgogIC8vICAgKTsKICAvLyB9</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IHN0YXRpYyBwcm9wVHlwZXMgPSB7CiAgICBvcGVuTG9naW46IFJlYWN0LlByb3BUeXBlcy5ib29sLAogIH0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygic2hvd0xvZ2luQWN0aW9uOiIgKyB0ZXh0KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygicmVkdWNlciIpOwogIGNvbnNvbGUubG9nKHN0YXRlKTsKICBjb25zb2xlLmxvZyhhY3Rpb24pOw==</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IG9uQ2xpY2soKXsKICB9Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>switch (action.type) {
     case &quot;SHOW_LOGIN&quot;:
       return {
@@ -781,37 +808,13 @@
       }
   }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
-        <text>store.dispatch({
-  type: &quot;SHOW_LOGIN&quot;,
-});</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGUgPSB7CiAgcHJvZ3Jlc3NOb25lOiB7CiAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjMDBiY2Q0JywgZGlzcGxheTogJ25vbmUnCiAgfSwKICBwcm9ncmVzczogewogICAgYmFja2dyb3VuZENvbG9yOiAnIzAwYmNkNCcsIGRpc3BsYXk6ICdibG9jaycKICB9Cn07Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRlc3RSZWR1Y2VyIGZyb20gIi4uL3JlZHVjZXJzIjsK</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICBzdXBlcihwcm9wcyk7CiAgICB0aGlzLnN0YXRlID0gewogICAgICBvcGVuOiBmYWxzZSwKICAgICAgbG9naW5EaXNhYmxlZDogZmFsc2UsCiAgICAgIGxvZ2luaW5nOiBmYWxzZSwKICAgICAgbG9naW5UZXh0OiAi55m75b2VIiwKICAgICAgcHJvZ3Jlc3M6IHN0eWxlLnByb2dyZXNzTm9uZSwKICAgICAgdXNlckVycm9yTXNnOiBudWxsLAogICAgICBwd2RFcnJvck1zZzogbnVsbCwKICAgICAgdXNlcm5hbWU6ICIiLAogICAgICBwYXNzd29yZDogIiIsCiAgICB9OwogIH0KCiAgc3RhdGljIHByb3BUeXBlcyA9IHsKICAgIG9uTG9naW5TdWNjZXNzOiBSZWFjdC5Qcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogIH07CgogIGNvbXBvbmVudFdpbGxSZWNlaXZlUHJvcHMobmV4dFByb3BzKSB7CiAgICB0aGlzLnNldFN0YXRlKHtvcGVuOiBuZXh0UHJvcHMub3Blbn0pOwogIH0KCiAgaGFuZGxlQ2xvc2UoKSB7CiAgICAvLyB0aGlzLnNldFN0YXRlKHtvcGVuOiBmYWxzZX0pOwogICAgLy8gdGhpcy5zZXRTdGF0ZSh7b3Blbn0sIHRoaXMucHJvcHMub25SZXF1ZXN0Q2xvc2UoKSk7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgb3BlbjogZmFsc2UsCiAgICAgIHN0YXRlOiAi55m75b2VIiwKICAgICAgbG9naW5EaXNhYmxlZDogZmFsc2UsCiAgICAgIHByb2dyZXNzOiBzdHlsZS5wcm9ncmVzc05vbmUKICAgIH0sICgpID0+IHRoaXMucHJvcHMub25SZXF1ZXN0Q2xvc2UoKSk7CiAgfQoKICBoYW5kbGVMb2dpblRhcCgpIHsKICB9CgogIGhhbmRsZUlucHV0Q2hhbmdlKGV2ZW50LCBuZXdWYWwpIHsKICAgIGlmICh0aGlzLnN0YXRlLnVzZXJFcnJvck1zZyAhPT0gbnVsbCkgewogICAgICB0aGlzLnNldFN0YXRlKHt1c2VyRXJyb3JNc2c6IG51bGx9KTsKICAgIH0KICAgIGlmICh0aGlzLnN0YXRlLnB3ZEVycm9yTXNnICE9PSBudWxsKSB7CiAgICAgIHRoaXMuc2V0U3RhdGUoe3B3ZEVycm9yTXNnOiBudWxsfSk7CiAgICB9CiAgfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJWYWx1ZSA9IHRoaXMucmVmcy51c2VySW5wdXQuaW5wdXQudmFsdWU7CiAgICBjb25zdCBwd2RWYWx1ZSA9IHRoaXMucmVmcy5wd2RJbnB1dC5pbnB1dC52YWx1ZTsKICAgIGlmICh1c2VyVmFsdWUgPT09ICcnIHx8ICF1c2VyVmFsdWUpIHsKICAgICAgdGhpcy5zZXRTdGF0ZSh7dXNlckVycm9yTXNnOiAi55So5oi35ZCN5LiN6IO95Li656m6In0pOwogICAgICByZXR1cm47CiAgICB9IGVsc2UgaWYgKHB3ZFZhbHVlID09PSAnJyB8fCAhcHdkVmFsdWUpIHsKICAgICAgdGhpcy5zZXRTdGF0ZSh7cHdkRXJyb3JNc2c6ICLlr4bnoIHkuI3og73kuLrnqboifSk7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICAkLmdldCgKICAgICAgQkFTRV9VUkwgKyAibG9naW4uZG8iLAogICAgICB7CiAgICAgICAgdXNlcm5hbWU6IHVzZXJWYWx1ZSwKICAgICAgICBwYXNzd29yZDogcHdkVmFsdWUsCiAgICAgIH0sCiAgICAgIGRhdGEgPT4gewogICAgICAgIC8vIGNvbnNvbGUubG9nKGRhdGEpOwogICAgICAgIGlmIChkYXRhLmNvZGUgPT09IDApIHsKICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe2xvZ2luVGV4dDogIueZu+W9leaIkOWKnyJ9KTsKICAgICAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgICAgICB0aGlzLmhhbmRsZUNsb3NlKCk7CiAgICAgICAgICAgIC8vIHRoaXMuc2V0U3RhdGUoe30sIHRoaXMucHJvcHMub25Mb2dpblN1Y2Nlc3MoKSk7CiAgICAgICAgICAgIHRoaXMucHJvcHMub25Mb2dpblN1Y2Nlc3MoKTsKICAgICAgICAgIH0sIDE1MDApOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHtwd2RFcnJvck1zZzogZGF0YS5tc2d9KTsKICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe2xvZ2luRGlzYWJsZWQ6IGZhbHNlfSk7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHtwcm9ncmVzczogc3R5bGUucHJvZ3Jlc3NOb25lfSk7CiAgICAgICAgfQogICAgICB9KTsKICAgIHRoaXMuc2V0U3RhdGUoe2xvZ2luRGlzYWJsZWQ6IHRydWV9KTsKICAgIHRoaXMuc2V0U3RhdGUoe3Byb2dyZXNzOiBzdHlsZS5wcm9ncmVzc30pOwo=</text>
-      </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>store.dispatch({
+  type: &quot;SHOW_LOGIN&quot;,
+});</text>
       </register>
     </registers>
     <search>
