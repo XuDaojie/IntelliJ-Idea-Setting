@@ -77,10 +77,10 @@
         <mark key="]" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1493135717102">
+      <file name="/fragment.java" timestamp="1493138773215">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/reducers/testAsyncLoginReducer.js" timestamp="1493084780682">
         <mark key="[" line="23" column="7" />
@@ -103,11 +103,11 @@
         <mark key="]" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/filter/HeaderFilter.java" timestamp="1493137711820">
-        <mark key="[" line="44" column="64" />
-        <mark key="]" line="45" column="16" />
-        <mark key="." line="45" column="16" />
-        <mark key="^" line="45" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/filter/HeaderFilter.java" timestamp="1493138811720">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="42" column="14" />
+        <mark key="." line="42" column="14" />
+        <mark key="^" line="38" column="86" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/reducers/loginDialog.js" timestamp="1493113017392">
         <mark key="'" line="79" column="16" />
@@ -136,8 +136,8 @@
         <mark key="]" line="9" column="40" />
         <mark key="." line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/AccountController.java" timestamp="1493109357436">
-        <mark key="[" line="37" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/AccountController.java" timestamp="1493139283428">
+        <mark key="[" line="21" column="21" />
         <mark key="]" line="37" column="24" />
         <mark key="^" line="100" column="77" />
         <mark key="." line="37" column="24" />
@@ -147,18 +147,18 @@
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/actions/index.js" timestamp="1493133991813">
-        <mark key="[" line="77" column="31" />
-        <mark key="]" line="77" column="30" />
-        <mark key="." line="77" column="30" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/actions/index.js" timestamp="1493138333559">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="76" column="30" />
+        <mark key="." line="76" column="30" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/utils/tokenUtil.js" timestamp="1493107069081">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/MarkdownController.java" timestamp="1493108122378">
-        <mark key="[" line="81" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/MarkdownController.java" timestamp="1493139367544">
+        <mark key="[" line="153" column="46" />
         <mark key="]" line="81" column="43" />
         <mark key="." line="81" column="43" />
       </file>
@@ -267,10 +267,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>OPTIONS</text>
+        <text>request.g</text>
       </register>
       <register name="-" type="4">
-        <text>OPTIONS</text>
+        <text>request.g</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -278,45 +278,43 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBpZiAocmVxdWVzdCBpbnN0YW5jZW9mIEh0dHBTZXJ2bGV0UmVxdWVzdCAmJiBodHRwUmVzcG9uc2UgIT0gbnVsbAogICAgICAgICAgICAgICAgJiYgIVRleHRVdGlscy5lcXVhbHMoIk9QVElPTlMiLCAoKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxdWVzdCkuZ2V0TWV0aG9kKCkpKSB7CiAgICAgICAgICAgIGh0dHBSZXF1ZXN0ID0gKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxdWVzdDsKICAgICAgICAgICAgU3RyaW5nIHRva2VuID0gaHR0cFJlcXVlc3QuZ2V0SGVhZGVyKCJYLUFjY2Vzcy1Ub2tlbiIpOwogICAgICAgICAgICBpZiAodG9rZW4gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgRGVjb2RlZEpXVCBkZWNvZGVkSldUID0gVG9rZW5VdGlscy52ZXJpZnkodG9rZW4pOwogICAgICAgICAgICAgICAgaWYgKGRlY29kZWRKV1QgPT0gbnVsbCkgewovLyAgICAgICAgICAgICAgICBodHRwUmVzcG9uc2Uuc2VuZEVycm9yKDQwMSwgIuaOiOadg+Wksei0pSIpOwogICAgICAgICAgICAgICAgICAgIGh0dHBSZXNwb25zZS5zZW5kUmVkaXJlY3QoImVycm9yL3Rva2VuIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
-      <register name="2" type="4">
-        <text>else {
-
-            }</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UgaW5zdGFuY2VvZiBIdHRwU2VydmxldFJlc3BvbnNlKSB7CiAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBSZXNwb25zZS5zZXRIZWFkZXIoIkFjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbiIsICIqIik7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>else {
-                
-            }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBSZXNwb25zZS5zZXRIZWFkZXIoIkFjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbiIsICIqIik7CiAgICAgICAgICAgICAgICBodHRwUmVzcG9uc2Uuc2V0SGVhZGVyKCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzIiwgIlgtQWNjZXNzLVRva2VuIik7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBkZXN0cm95KCkgewogICAg</text>
+        <text encoding="base64">ICBpZiAocmVxdWVzdCBpbnN0YW5jZW9mIEh0dHBTZXJ2bGV0UmVxdWVzdCAmJiBodHRwUmVzcG9uc2UgIT0gbnVsbAogICAgICAgICAgICAgICAgJiYgIVRleHRVdGlscy5lcXVhbHMoIk9QVElPTlMiLCAoKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxdWVzdCkuZ2V0TWV0aG9kKCkpKSB7CiAgICAgICAgICAgIGh0dHBSZXF1ZXN0ID0gKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxdWVzdDsKICAgICAgICAgICAgU3RyaW5nIHRva2VuID0gaHR0cFJlcXVlc3QuZ2V0SGVhZGVyKCJYLUFjY2Vzcy1Ub2tlbiIpOwogICAgICAgICAgICBpZiAodG9rZW4gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgRGVjb2RlZEpXVCBkZWNvZGVkSldUID0gVG9rZW5VdGlscy52ZXJpZnkodG9rZW4pOwogICAgICAgICAgICAgICAgaWYgKGRlY29kZWRKV1QgPT0gbnVsbCkgewovLyAgICAgICAgICAgICAgICBodHRwUmVzcG9uc2Uuc2VuZEVycm9yKDQwMSwgIuaOiOadg+Wksei0pSIpOwogICAgICAgICAgICAgICAgICAgIGh0dHBSZXNwb25zZS5zZW5kUmVkaXJlY3QoImVycm9yL3Rva2VuIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGluaXQoRmlsdGVyQ29uZmlnIGZpbHRlckNvbmZpZykgdGhyb3dzIFNlcnZsZXRFeGNlcHRpb24gewogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgZG9GaWx0ZXIoU2VydmxldFJlcXVlc3QgcmVxdWVzdCwgU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlLCBGaWx0ZXJDaGFpbiBjaGFpbikgdGhyb3dzIElPRXhjZXB0aW9uLCBTZXJ2bGV0RXhjZXB0aW9uIHsKICAgICAgICBIdHRwU2VydmxldFJlcXVlc3QgaHR0cFJlcXVlc3QgPSBudWxsOwogICAgICAgIEh0dHBTZXJ2bGV0UmVzcG9uc2UgaHR0cFJlc3BvbnNlID0gbnVsbDsKCiAgICAgICAgaWYgKHJlc3BvbnNlIGluc3RhbmNlb2YgSHR0cFNlcnZsZXRSZXNwb25zZSkgewogICAgICAgICAgICAvLyBSZWFjdEpT6YCa6L+HQWpheOivt+axguaXtuWHuumUmQogICAgICAgICAgICAvLyBodHRwOi8vempibG9ncy5jb20vanMvQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luLmh0bWwKICAgICAgICAgICAgLy8gaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8yNTcyNzMwNi9yZXF1ZXN0LWhlYWRlci1maWVsZC1hY2Nlc3MtY29udHJvbC1hbGxvdy1oZWFkZXJzLWlzLW5vdC1hbGxvd2VkLWJ5LWFjY2Vzcy1jb250cgogICAgICAgICAgICBodHRwUmVzcG9uc2UgPSAoSHR0cFNlcnZsZXRSZXNwb25zZSkgcmVzcG9uc2U7CiAgICAgICAgICAgIGh0dHBSZXNwb25zZS5zZXRIZWFkZXIoIkFjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbiIsICIqIik7CiAgICAgICAgICAgIGh0dHBSZXNwb25zZS5zZXRIZWFkZXIoIkFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMiLCAiWC1BY2Nlc3MtVG9rZW4iKTsKICAgICAgICB9CgovLyAgICAgICAgaWYgKHJlcXVlc3QgaW5zdGFuY2VvZiBIdHRwU2VydmxldFJlcXVlc3QgJiYgaHR0cFJlc3BvbnNlICE9IG51bGwpIHsKLy8gICAgICAgICAgICBTdHJpbmcgdG9rZW4gPSAoKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxdWVzdCkuZ2V0SGVhZGVyKCJYLUFjY2Vzcy1Ub2tlbiIpOwovLyAgICAgICAgICAgIERlY29kZWRKV1QgZGVjb2RlZEpXVCA9IFRva2VuVXRpbHMudmVyaWZ5KHRva2VuKTsKLy8gICAgICAgICAgICBpZiAoZGVjb2RlZEpXVCA9PSBudWxsKSB7Ci8vLy8gICAgICAgICAgICAgICAgaHR0cFJlc3BvbnNlLnNlbmRFcnJvcig0MDEsICLmjojmnYPlpLHotKUiKTsKLy8gICAgICAgICAgICAgICAgaHR0cFJlc3BvbnNlLnNlbmRSZWRpcmVjdCgiZXJyb3IvdG9rZW4iKTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9CgogICAgICAgIGNoYWluLmRvRmlsdGVyKHJlcXVlc3QsIHJlc3BvbnNlKTsKICAgIH0K</text>
+        <text>else {
+
+            }</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
