@@ -18,7 +18,7 @@
         <mark key="]" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/containers/TestLoginBtn.js" timestamp="1493055224691">
+      <file name="$USER_HOME$/ReactJS/my-app/src/containers/TestLoginBtn.js" timestamp="1493082462821">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
@@ -268,6 +268,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/drawable/line_horizontal_1px.xml" timestamp="1477966238008">
         <mark key="[" line="7" column="29" />
       </file>
+      <file name="$USER_HOME$/ReactJS/my-app/src/actions/AppBarAction.js" timestamp="1493081630000">
+        <mark key="[" line="2" column="3" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/sample/src/main/AndroidManifest.xml" timestamp="1477448269227">
         <mark key="[" line="20" column="48" />
       </file>
@@ -313,10 +316,10 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/App.js" timestamp="1493056144515">
+      <file name="$USER_HOME$/ReactJS/my-app/src/App.js" timestamp="1493082733794">
         <mark key="e" line="89" column="65" />
         <mark key="'" line="89" column="65" />
-        <mark key="[" line="182" column="65" />
+        <mark key="[" line="44" column="20" />
         <mark key="]" line="15" column="31" />
         <mark key="^" line="198" column="31" />
         <mark key="." line="15" column="31" />
@@ -381,10 +384,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/layout/activity_productconfirmbetting.xml" timestamp="1478247109296">
         <mark key="[" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/containers/AppBar.js" timestamp="1493056120843">
-        <mark key="[" line="4" column="57" />
-        <mark key="]" line="4" column="57" />
-        <mark key="." line="4" column="57" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/containers/AppBar.js" timestamp="1493082748608">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
       </file>
       <file name="/fragment.java" timestamp="1492879392784">
         <mark key="[" line="0" column="0" />
@@ -531,7 +534,6 @@
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/src/com/xdj/javaee/mapper/AccountMapper.java" timestamp="1491149540486">
         <mark key="[" line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1493028524981" />
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/filter/HeaderFilter.java" timestamp="1493019829915">
         <mark key="[" line="41" column="47" />
         <mark key="]" line="41" column="47" />
@@ -684,10 +686,10 @@
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/filter/CharsetEncodeFilter.java" timestamp="1493018249037">
         <mark key="[" line="30" column="91" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/actions/AccountAction.js" timestamp="1493054582425">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="29" />
-        <mark key="." line="26" column="29" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/actions/AccountAction.js" timestamp="1493081683538">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/build.gradle" timestamp="1492444663641">
         <mark key="[" line="6" column="25" />
@@ -877,10 +879,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>props</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -889,49 +891,46 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IERpYWxvZyBmcm9tICdtYXRlcmlhbC11aS9EaWFsb2cnOwovLyBpbXBvcnQge0NhcmQsIENhcmRBY3Rpb25zLCBDYXJkSGVhZGVyLCBDYXJkTWVkaWEsIENhcmRUaXRsZSwgQ2FyZFRleHR9IGZyb20gJ21hdGVyaWFsLXVpL0NhcmQnOwovLyBpbXBvcnQgRmxhdEJ1dHRvbiBmcm9tICdtYXRlcmlhbC11aS9GbGF0QnV0dG9uJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEZsYXRCdXR0b24gZnJvbSAibWF0ZXJpYWwtdWkvRmxhdEJ1dHRvbiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IERpYWxvZyBmcm9tICdtYXRlcmlhbC11aS9EaWFsb2cnOwovLyBpbXBvcnQge0NhcmQsIENhcmRBY3Rpb25zLCBDYXJkSGVhZGVyLCBDYXJkTWVkaWEsIENhcmRUaXRsZSwgQ2FyZFRleHR9IGZyb20gJ21hdGVyaWFsLXVpL0NhcmQnOwovLyBpbXBvcnQgRmxhdEJ1dHRvbiBmcm9tICdtYXRlcmlhbC11aS9GbGF0QnV0dG9uJzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IEZsYXRCdXR0b24gZnJvbSAibWF0ZXJpYWwtdWkvRmxhdEJ1dHRvbiI7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IEFwcGJhciBmcm9tICdtYXRlcmlhbC11aS9BcHBCYXInOwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>this.setState({openLogin: true});
-    this.drawerClose();</text>
-      </register>
-      <register name="6" type="4">
-        <text>if(result.code === 0) {
-          
-        }</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text>/ 获取数据
-    let headerObj = jws.JWS.readSafeJSONString(jsrsasign.b64utoutf8(token.split(&quot;.&quot;)[0]));
-    let payloadObj = jws.JWS.readSafeJSONString(jsrsasign.b64utoutf8(token.split(&quot;.&quot;)[1]));
-    console.log(headerObj);</text>
+        <text>this.setState({openLogin: true});
+    this.drawerClose();</text>
       </register>
       <register name="8" type="4">
-        <text>// 验证 是否能解析、过期时间
-    isValid = jws.JWS.verifyJWT(token, &quot;jdoc&quot;, {
-      alg: ['HS256'],
-    });</text>
+        <text>if(result.code === 0) {
+          
+        }</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gKCkgewogIAp9Cg==</text>
+        <text>/ 获取数据
+    let headerObj = jws.JWS.readSafeJSONString(jsrsasign.b64utoutf8(token.split(&quot;.&quot;)[0]));
+    let payloadObj = jws.JWS.readSafeJSONString(jsrsasign.b64utoutf8(token.split(&quot;.&quot;)[1]));
+    console.log(headerObj);</text>
       </register>
     </registers>
     <search>
