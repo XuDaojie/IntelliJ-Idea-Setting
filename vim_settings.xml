@@ -100,6 +100,9 @@
         <mark key="." line="77" column="9" />
         <mark key="^" line="77" column="9" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/model/AccountModel.java" timestamp="1493204216594">
+        <mark key="[" line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/webapp/lib/editor.md-v1.5.0/simple.html" timestamp="1492423475951">
         <mark key="[" line="60" column="38" />
       </file>
@@ -146,8 +149,8 @@
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/WebContent/register.html" timestamp="1491121690286">
         <mark key="[" line="15" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/mapper/account.xml" timestamp="1493013943278">
-        <mark key="[" line="14" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/mapper/account.xml" timestamp="1493204262230">
+        <mark key="[" line="17" column="48" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/src/com/xdj/javaee/dao/xx.xml" timestamp="1492053241407">
         <mark key="[" line="42" column="43" />
@@ -224,10 +227,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/res/drawable/line_horizontal_1px.xml" timestamp="1477966238008">
         <mark key="[" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/webapp/static/editormd.html" timestamp="1493202546927">
-        <mark key="[" line="20" column="2" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/webapp/static/editormd.html" timestamp="1493204125598">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
         <mark key="^" line="24" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/sample/src/main/AndroidManifest.xml" timestamp="1477448269227">
@@ -297,10 +300,10 @@
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/src/com/xdj/javaee/mapper/TestMapper.java" timestamp="1492055210443">
         <mark key="[" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/util/TokenUtils.java" timestamp="1493055550417">
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="74" column="32" />
-        <mark key="." line="74" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/util/TokenUtils.java" timestamp="1493205212312">
+        <mark key="[" line="70" column="67" />
+        <mark key="]" line="70" column="67" />
+        <mark key="." line="70" column="67" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/resources/beans.xml" timestamp="1491059292703">
         <mark key="[" line="4" column="4" />
@@ -635,11 +638,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/SquareLinearLayout.java" timestamp="1479361818883">
         <mark key="[" line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/AccountController.java" timestamp="1493139283428">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="37" column="24" />
-        <mark key="^" line="100" column="77" />
-        <mark key="." line="37" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/AccountController.java" timestamp="1493205348471">
+        <mark key="[" line="49" column="73" />
+        <mark key="]" line="49" column="73" />
+        <mark key="^" line="101" column="77" />
+        <mark key="." line="49" column="73" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NDKSample/app/src/main/cpp/native.cpp" timestamp="1479287752719">
         <mark key="[" line="4" column="18" />
@@ -791,10 +794,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>markdown</text>
+        <text>getNickname</text>
       </register>
       <register name="-" type="4">
-        <text>markdown</text>
+        <text>getNickname</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -806,16 +809,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TWFpbkNvbnRhaW5lci5jb21wb25lbnREaWRNb3VudCA9IGZ1bmN0aW9uICgpIHsKICBjb25zb2xlLmxvZygieCIpOwp9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBmdW5jdGlvbiBHZXRSZXF1ZXN0KCkgewogICAgICB2YXIgdXJsID0gbG9jYXRpb24uc2VhcmNoOyAvL+iOt+WPlnVybOS4rSI/IuespuWQjueahOWtl+S4sgogICAgICB2YXIgdGhlUmVxdWVzdCA9IG5ldyBPYmplY3QoKTsKICAgICAgaWYgKHVybC5pbmRleE9mKCI/IikgIT0gLTEpIHsKICAgICAgICB2YXIgc3RyID0gdXJsLnN1YnN0cigxKTsKICAgICAgICBzdHJzID0gc3RyLnNwbGl0KCImIik7CiAgICAgICAgZm9yKHZhciBpID0gMDsgaSA8IHN0cnMubGVuZ3RoOyBpICsrKSB7CiAgICAgICAgICB0aGVSZXF1ZXN0W3N0cnNbaV0uc3BsaXQoIj0iKVswXV09dW5lc2NhcGUoc3Ryc1tpXS5zcGxpdCgiPSIpWzFdKTsKICAgICAgICB9CiAgICAgIH0KICAgICAgcmV0dXJuIHRoZVJlcXVlc3Q7CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">TWFpbkNvbnRhaW5lci5jb21wb25lbnREaWRNb3VudCA9IGZ1bmN0aW9uICgpIHsKICBjb25zb2xlLmxvZygieCIpOwp9Owo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBmdW5jdGlvbiBHZXRSZXF1ZXN0KCkgewogICAgICB2YXIgdXJsID0gbG9jYXRpb24uc2VhcmNoOyAvL+iOt+WPlnVybOS4rSI/IuespuWQjueahOWtl+S4sgogICAgICB2YXIgdGhlUmVxdWVzdCA9IG5ldyBPYmplY3QoKTsKICAgICAgaWYgKHVybC5pbmRleE9mKCI/IikgIT0gLTEpIHsKICAgICAgICB2YXIgc3RyID0gdXJsLnN1YnN0cigxKTsKICAgICAgICBzdHJzID0gc3RyLnNwbGl0KCImIik7CiAgICAgICAgZm9yKHZhciBpID0gMDsgaSA8IHN0cnMubGVuZ3RoOyBpICsrKSB7CiAgICAgICAgICB0aGVSZXF1ZXN0W3N0cnNbaV0uc3BsaXQoIj0iKVswXV09dW5lc2NhcGUoc3Ryc1tpXS5zcGxpdCgiPSIpWzFdKTsKICAgICAgICB9CiAgICAgIH0KICAgICAgcmV0dXJuIHRoZVJlcXVlc3Q7CiAgICB9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -829,14 +832,14 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGlucHV0IGNsYXNzPSJtZGwtYnV0dG9uIG1kbC1qcy1idXR0b24gbWRsLWJ1dHRvbi0tcmFpc2VkIG1kbC1qcy1yaXBwbGUtZWZmZWN0IG1kbC1idXR0b24tLWFjY2VudCIKICAgICAgIHZhbHVlPSLmj5LlhaXmjqXlj6PmqKHmnb8iIG9uY2xpY2s9Imluc2VydEFwaVRlbXBsKCkiPjxicj4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dmFyIG1hcmtkb3duSWQgPSA8JT1pZCU+OwogICAgICAgIHZhciBtb2R1bGVJZCA9IDwlPW1vZHVsZUlkJT47CiAgICAgICAgdmFyIGZvcm1BY3Rpb24gPSAnPCU9YWN0aW9uJT4nOwoKICAgICAgICBmdW5jdGlvbiBzdWJtaXRNYXJrZG93bigpIHsKICAgICAgICAgICAgdmFyIG1kTmFtZSA9ICQoIiNuYW1lIikudmFsKCk7CiAgICAgICAgICAgIHZhciBtZENvbnRlbnQgPSBlZGl0b3IuZ2V0TWFya2Rvd24oKTsKICAgICAgICAgICAgaWYgKCFtZE5hbWUgfHwgbWROYW1lID09PSAnJykgewogICAgICAgICAgICAgICAgYWxlcnQoJ+aOpeWPo+WQjeS4jeiDveS4uuepuicpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICghbWRDb250ZW50IHx8IG1kQ29udGVudCA9PT0gJycpIHsKICAgICAgICAgICAgICAgIGFsZXJ0KCdNYXJrZG93buS4jeiDveS4uuepuicpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CgogICAgICAgICAgICAkLnBvc3QoZm9ybUFjdGlvbiwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBpZDogbWFya2Rvd25JZCwKICAgICAgICAgICAgICAgICAgICBwcm9qZWN0X2lkOiA8JT1wcm9qZWN0SWQlPiwKICAgICAgICAgICAgICAgICAgICBtb2R1bGVfaWQ6IG1vZHVsZUlkLAogICAgICAgICAgICAgICAgICAgIG5hbWU6IG1kTmFtZSwKICAgICAgICAgICAgICAgICAgICBtYXJrZG93bjogbWRDb250ZW50CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgZnVuY3Rpb24gKHJlc3VsdCwgc3RhdHVzKSB7CiAgICAgICAgICAgICAgICAgICAgYWxlcnQocmVzdWx0Lm1zZyk7CiAgICAgICAgICAgICAgICAgICAgLy8g5paw5bu66aG16Z2i5L+d5a2Y5oiQ5Yqf5ZCO5Y+Y5Li657yW6L6RCiAgICAgICAgICAgICAgICAgICAgaWYocmVzdWx0LmNvZGUgPT09IDAgJiYgZm9ybUFjdGlvbiAhPT0gJ3NhdmVfbWFya2Rvd24uZG8nKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1BY3Rpb24gPSAnc2F2ZV9tYXJrZG93bi5kbyc7CiAgICAgICAgICAgICAgICAgICAgICAgIG1hcmtkb3duSWQgPSByZXN1bHQuZGF0YS5pZDsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICB9</text>
+        <text encoding="base64">PGlucHV0IGNsYXNzPSJtZGwtYnV0dG9uIG1kbC1qcy1idXR0b24gbWRsLWJ1dHRvbi0tcmFpc2VkIG1kbC1qcy1yaXBwbGUtZWZmZWN0IG1kbC1idXR0b24tLWFjY2VudCIKICAgICAgIHZhbHVlPSLmj5LlhaXmjqXlj6PmqKHmnb8iIG9uY2xpY2s9Imluc2VydEFwaVRlbXBsKCkiPjxicj4=</text>
       </register>
     </registers>
     <search>
