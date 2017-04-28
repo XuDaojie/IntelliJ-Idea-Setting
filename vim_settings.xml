@@ -674,10 +674,11 @@
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/WebContent/out.jsp" timestamp="1492103054820">
         <mark key="[" line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/NOTE.md" timestamp="1493383073855">
+      <file name="$USER_HOME$/ReactJS/my-app/NOTE.md" timestamp="1493384056100">
         <mark key="[" line="82" column="56" />
-        <mark key="]" line="91" column="18" />
-        <mark key="." line="91" column="18" />
+        <mark key="]" line="87" column="24" />
+        <mark key="." line="87" column="24" />
+        <mark key="^" line="87" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/build.gradle" timestamp="1492444663641">
         <mark key="[" line="6" column="25" />
@@ -927,6 +928,9 @@
       <register name="9" type="4">
         <text encoding="base64">Y29uc3QgY29tcG9uZW50RGlkTW91bnQgPSBmdW5jdGlvbiAoKSB7CiAgICBjb25zb2xlLmxvZygieHMiKTsKICB9Owo=</text>
       </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
     </registers>
     <search>
       <last-search>fx</last-search>
@@ -947,7 +951,9 @@
         <entry>life_cycle</entry>
         <entry>fx</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
