@@ -43,10 +43,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/webapp/WEB-INF/web.xml" timestamp="1493219389554">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="86" column="9" />
-        <mark key="." line="86" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/webapp/WEB-INF/web.xml" timestamp="1493369324407">
+        <mark key="[" line="85" column="4" />
+        <mark key="]" line="85" column="4" />
+        <mark key="." line="85" column="4" />
         <mark key="^" line="86" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/model/AccountModel.java" timestamp="1493310767954">
@@ -365,7 +365,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NAV_LOAD_RECEIVE</text>
+        <text encoding="base64">PHNlcnZsZXQtbWFwcGluZz4KICAgICAgICA8c2VydmxldC1uYW1lPmRlZmF1bHQ8L3NlcnZsZXQtbmFtZT4KICAgICAgICA8dXJsLXBhdHRlcm4+L3JlYWN0Lyo8L3VybC1wYXR0ZXJuPgogICAgPC9zZXJ2bGV0LW1hcHBpbmc+</text>
       </register>
       <register name="-" type="4">
         <text>NAV_LOAD_RECEIVE</text>
@@ -377,6 +377,9 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text encoding="base64">PHNlcnZsZXQtbWFwcGluZz4KICAgICAgICA8c2VydmxldC1uYW1lPmRlZmF1bHQ8L3NlcnZsZXQtbmFtZT4KICAgICAgICA8dXJsLXBhdHRlcm4+L3JlYWN0Lyo8L3VybC1wYXR0ZXJuPgogICAgPC9zZXJ2bGV0LW1hcHBpbmc+</text>
+      </register>
+      <register name="2" type="4">
         <text>case actionType.NAV_OPEN_CHANGE:
       return {
         ...state,
@@ -386,31 +389,26 @@
         ...state,
       };</text>
       </register>
-      <register name="2" type="4">
-        <text>msgOpen: state.main.msgOpen,
-    msg: state.main.msg,
-    fabStyle: state.main.fabStyle,</text>
-      </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IG1zZ09wZW46IFJlYWN0LlByb3BUeXBlcy5ib29sLAogIG1zZzogUmVhY3QuUHJvcFR5cGVzLnN0cmluZywKICBmYWJTdHlsZTogUmVhY3QuUHJvcFR5cGVzLm9iamVjdCw=</text>
+        <text>msgOpen: state.main.msgOpen,
+    msg: state.main.msg,
+    fabStyle: state.main.fabStyle,</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IG1zZ09wZW46IFJlYWN0LlByb3BUeXBlcy5ib29sLAogIG1zZzogUmVhY3QuUHJvcFR5cGVzLnN0cmluZywKICBmYWJTdHlsZTogUmVhY3QuUHJvcFR5cGVzLm9iamVjdCw=</text>
+      </register>
+      <register name="5" type="4">
         <text>function () {
               dispatch(action.addMdOpenChange(true));
             }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>function () {
               dispatch(action.loginOpenChange(true));
             }</text>
-      </register>
-      <register name="6" type="4">
-        <text>function () {
-            dispatch(action.navOpenChange(true));
-          }</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -421,13 +419,15 @@
           }</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Y29uc3QgY29tcG9uZW50RGlkTW91bnQgPSBmdW5jdGlvbiAoKSB7CiAgICBjb25zb2xlLmxvZygieHMiKTsKICB9Owo=</text>
+        <text>function () {
+            dispatch(action.navOpenChange(true));
+          }</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvLyBsb2dpbuS4reW3sue7j+i/m+ihjOi/h+e7keWumu+8jOebtOaOpeWwhmRpc3BhdGNo5Lyg6YCS6L+H5p2lCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y29uc3QgY29tcG9uZW50RGlkTW91bnQgPSBmdW5jdGlvbiAoKSB7CiAgICBjb25zb2xlLmxvZygieHMiKTsKICB9Owo=</text>
       </register>
     </registers>
     <search>
