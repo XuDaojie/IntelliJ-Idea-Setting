@@ -208,10 +208,10 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/reducers/sharedDialog.js" timestamp="1493396254804">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/reducers/sharedDialog.js" timestamp="1493434682727">
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="6" />
+        <mark key="." line="22" column="6" />
         <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Gallery2/app/src/main/java/android/util/Pools.java" timestamp="1477382733938">
@@ -373,11 +373,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/containers/SharedDialogContainer.js" timestamp="1493396330674">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="12" />
-        <mark key="^" line="54" column="15" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/containers/SharedDialogContainer.js" timestamp="1493478145400">
+        <mark key="[" line="54" column="60" />
+        <mark key="]" line="54" column="60" />
+        <mark key="." line="54" column="60" />
+        <mark key="^" line="52" column="49" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/reducers/testAsyncLoginReducer.js" timestamp="1493084780682">
         <mark key="[" line="23" column="7" />
@@ -739,7 +739,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/MPAndroidChart/MPChartExample/src/com/xxmassdeveloper/mpchartexample/LineChartActivity1.java" timestamp="1479440985624">
         <mark key="[" line="344" column="34" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/actions/index.js" timestamp="1493399543113">
+      <file name="$USER_HOME$/ReactJS/my-app/src/actions/index.js" timestamp="1493434931062">
         <mark key="[" line="134" column="34" />
         <mark key="]" line="134" column="34" />
         <mark key="." line="134" column="34" />
@@ -753,10 +753,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/widget/SimpleSpinner.java" timestamp="1479692699431">
         <mark key="[" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/MarkdownController.java" timestamp="1493433733744">
-        <mark key="[" line="179" column="41" />
-        <mark key="]" line="179" column="41" />
-        <mark key="." line="179" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/MarkdownController.java" timestamp="1493434469850">
+        <mark key="[" line="195" column="31" />
+        <mark key="]" line="195" column="31" />
+        <mark key="." line="195" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NineSquare/README.md" timestamp="1478240559794">
         <mark key="[" line="16" column="28" />
@@ -878,10 +878,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">Y29sb3I9JyNkMTQnIA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">Y29sb3I9JyNkMTQnIA==</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -889,10 +889,26 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>{
+        padding: 0,
+        paddingTop: '0.2em',
+        paddingBottom: '0.2em',
+        margin: 0,
+        color: '#d14',
+        fontSize: '85%',
+        backgroundColor: '#f7f7f9',
+        borderRadius: 3,
+        border: '1px solid #e1e1e8',
+      }</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">bWFya2Rvd25Nb2RlbC5nZXRQcm9qZWN0VXJsKCkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>//    @ResponseBody
 //    public String single(
 //                         @PathVariable(&quot;id&quot;) Long id,
@@ -901,28 +917,28 @@
 //        return single(null, id);
 //    }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IEBSZXF1ZXN0TWFwcGluZyhtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCwgdmFsdWUgPSAibWFya2Rvd24ve2lkfSIsIHByb2R1Y2VzID0gImFwcGxpY2F0aW9uL2pzb247Y2hhcnNldD1VVEYtOCIpCiAgICBAUmVzcG9uc2VCb2R5CiAgICBwdWJsaWMgU3RyaW5nIHNpbmdsZShAUmVxdWVzdEhlYWRlcigiWC1BY2Nlc3MtVG9rZW4iKSBTdHJpbmcgdG9rZW4sCiAgICAgICAgICAgICAgICAgICAgICAgICBAUGF0aFZhcmlhYmxlKCJpZCIpIExvbmcgaWQpIHsKICAgICAgICBNYXJrZG93bk1vZGVsIG1hcmtkb3duTW9kZWwgPSBtTWFya2Rvd25EQU8uZ2V0KGlkKTsKICAgICAgICAvLyBqd3QgbWFya2Rvd25faWQ9MSwgaXNfcGFnZT10cnVlIiwKICAgICAgICAvLyBqc29uICJyZWFkX29ubHk9dHJ1ZSwKICAgICAgICBCYXNlUmVzcG9uc2VCb2R5IHJlc3BvbnNlQm9keSA9IG5ldyBCYXNlUmVzcG9uc2VCb2R5KCk7CiAgICAgICAgaWYgKG1hcmtkb3duTW9kZWwgIT0gbnVsbCkgewogICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICAgICAgbWFwLnB1dCgibWFya2Rvd25faWQiLCBpZCk7CiAgICAgICAgICAgIG1hcC5wdXQoImlzX3BhZ2UiLCBmYWxzZSk7CgogICAgICAgICAgICByZXNwb25zZUJvZHkuc2V0Q29kZSgwKTsKICAgICAgICAgICAgcmVzcG9uc2VCb2R5LnNldERhdGEobWFya2Rvd25Nb2RlbCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmVzcG9uc2VCb2R5LnNldENvZGUoMTAyKTsKICAgICAgICAgICAgcmVzcG9uc2VCb2R5LnNldE1zZygi5YaF5a655LiN5a2Y5ZyoIik7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gSnNvblV0aWxzLnRvSlNPTlN0cmluZyhyZXNwb25zZUJvZHkpOwogICAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">TWFya2Rvd25Nb2RlbCBtYXJrZG93bk1vZGVsID0gbU1hcmtkb3duREFPLmdldChpZCk7CiAgICAgICAgLy8gand0IG1hcmtkb3duX2lkPTEsIGlzX3BhZ2U9dHJ1ZSIsCiAgICAgICAgLy8ganNvbiAicmVhZF9vbmx5PXRydWUsCiAgICAgICAgQmFzZVJlc3BvbnNlQm9keSByZXNwb25zZUJvZHkgPSBuZXcgQmFzZVJlc3BvbnNlQm9keSgpOwogICAgICAgIGlmIChtYXJrZG93bk1vZGVsICE9IG51bGwpIHsKICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBtYXAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgIG1hcC5wdXQoIm1hcmtkb3duX2lkIiwgaWQpOwogICAgICAgICAgICBtYXAucHV0KCJpc19wYWdlIiwgdHJ1ZSk7CiAgICAgICAgICAgIHJlc3BvbnNlQm9keS5zZXRDb2RlKDApOwogICAgICAgICAgICByZXNwb25zZUJvZHkuc2V0RGF0YShtYXJrZG93bk1vZGVsKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXNwb25zZUJvZHkuc2V0Q29kZSgxMDIpOwogICAgICAgICAgICByZXNwb25zZUJvZHkuc2V0TXNnKCLlhoXlrrnkuI3lrZjlnKgiKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIEpzb25VdGlscy50b0pTT05TdHJpbmcocmVzcG9uc2VCb2R5KTs=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlcXVlc3Quc2V0QXR0cmlidXRlKCJtb2R1bGVfaWQiLCBtb2R1bGVJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJlcXVlc3Quc2V0QXR0cmlidXRlKCJtb2R1bGVfaWQiLCBtb2R1bGVJZCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgIHJlcXVlc3Quc2V0QXR0cmlidXRlKCJwcm9qZWN0X2lkIiwgcHJvamVjdElkKTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="x" type="4">
+        <text>null</text>
+      </register>
+      <register name="9" type="4">
         <text>{
   MAIN_MSG_OPEN, MAIN_MSG_CLOSE,
   LOGIN_OPEN_CHANGE, LOGIN_REQUEST, LOGIN_RECEIVE, LOGIN_ERROR, LOGIN_INPUT_CHANGE,
@@ -933,21 +949,6 @@
   NAV_OPEN_CHANGE, NAV_LOAD, NAV_LOAD_REQUEST, NAV_LOAD_RECEIVE, NAV_LOAD_ERROR,
   COOMON_FETCH_ERROR
 }</text>
-      </register>
-      <register name="x" type="4">
-        <text>null</text>
-      </register>
-      <register name="9" type="4">
-        <text>case actionType.NAV_OPEN_CHANGE:
-      return {
-        ...state,
-        open: payload.open,
-      };
-    case actionType.NAV_LOAD_RECEIVE:
-      return {
-        ...state,
-        data: payload.data
-      };</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
