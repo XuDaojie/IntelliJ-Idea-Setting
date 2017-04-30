@@ -7,10 +7,10 @@
       <mark key="M" line="24" column="18" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_between_list_critical_fragment.xml" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/ReactJS/my-app/src/constants/ActionTypes.js" timestamp="1493539463652">
-        <mark key="[" line="15" column="53" />
-        <mark key="]" line="40" column="13" />
-        <mark key="." line="40" column="13" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/constants/ActionTypes.js" timestamp="1493544581689">
+        <mark key="[" line="36" column="47" />
+        <mark key="]" line="41" column="13" />
+        <mark key="." line="41" column="13" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/containers/TestLoginBtn.js" timestamp="1493082462821">
         <mark key="[" line="6" column="19" />
@@ -54,6 +54,13 @@
         <mark key="]" line="87" column="33" />
         <mark key="." line="87" column="33" />
       </file>
+      <file name="$USER_HOME$/ReactJS/my-app/src/reducers/nav.js" timestamp="1493544631898">
+        <mark key="'" line="5" column="40" />
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="9" column="20" />
+      </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/reducers/appBar.js" timestamp="1493484862457">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="6" />
@@ -65,10 +72,10 @@
         <mark key="^" line="47" column="10" />
         <mark key="." line="149" column="16" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/index.js" timestamp="1493540491696">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/index.js" timestamp="1493542687007">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/ProjectContent.js" timestamp="1493187466813">
         <mark key="[" line="61" column="0" />
@@ -113,11 +120,6 @@
         <mark key="[" line="81" column="34" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/App.js" timestamp="1493480976497">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1493541288421">
         <mark key="[" line="0" column="0" />
@@ -167,11 +169,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/containers/MainContainer.js" timestamp="1493536076126">
-        <mark key="[" line="56" column="58" />
-        <mark key="]" line="18" column="14" />
-        <mark key="^" line="42" column="2" />
-        <mark key="." line="18" column="14" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/containers/MainContainer.js" timestamp="1493544336896">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/reducers/main.js" timestamp="1493539717689">
         <mark key="[" line="38" column="7" />
@@ -216,10 +218,10 @@
         <mark key="]" line="22" column="15" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/containers/NavDrawerContainer.js" timestamp="1493541369767">
-        <mark key="[" line="78" column="14" />
-        <mark key="]" line="78" column="14" />
-        <mark key="." line="78" column="14" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/containers/NavDrawerContainer.js" timestamp="1493544860687">
+        <mark key="[" line="134" column="4" />
+        <mark key="]" line="134" column="4" />
+        <mark key="." line="134" column="4" />
         <mark key="^" line="88" column="50" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/containers/LoginDialog.js" timestamp="1493085725529">
@@ -260,11 +262,11 @@
         <mark key="]" line="17" column="2" />
         <mark key="." line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/actions/index.js" timestamp="1493540156598">
-        <mark key="[" line="131" column="36" />
-        <mark key="]" line="131" column="16" />
-        <mark key="^" line="131" column="16" />
-        <mark key="." line="131" column="16" />
+      <file name="$USER_HOME$/ReactJS/my-app/src/actions/index.js" timestamp="1493544615469">
+        <mark key="[" line="278" column="9" />
+        <mark key="]" line="278" column="64" />
+        <mark key="^" line="278" column="64" />
+        <mark key="." line="278" column="64" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/utils/tokenUtil.js" timestamp="1493107069081">
         <mark key="[" line="7" column="1" />
@@ -381,10 +383,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -393,6 +395,31 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text>function (dispatch, getState) {
+    dispatch(navOpenChange(true));
+  }</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>window.addEventListener('resize', function () {
+    console.log(&quot;xx&quot;);
+  });</text>
+      </register>
+      <register name="5" type="4">
+        <text>window.onRe = function () {
+  console.log('width' + document.documentElement.clientWidth);
+  console.log('height' + document.documentElement.clientHeight);
+};</text>
+      </register>
+      <register name="6" type="4">
         <text>f (payload.isShared) {
         return {
           ...state,
@@ -402,7 +429,10 @@
       } else {
       }</text>
       </register>
-      <register name="2" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>{
   INIT,
   LOGIN_RECEIVE,
@@ -412,10 +442,7 @@
   NOT_LOGIN
 }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>open: action.payload.openLogin,
         disable: false,
         modal: false,
@@ -423,34 +450,14 @@
         userErrorMsg: undefined,
         pwdErrorMsg: undefined,</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-  LOGIN_OPEN_CHANGE, LOGIN_REQUEST, LOGIN_RECEIVE, LOGIN_ERROR, LOGIN_INPUT_CHANGE,
-  LOGIN_USER_IS_NULL, LOGIN_PWD_IS_NULL
-}</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAvLyBsb2dpbuS4reW3sue7j+i/m+ihjOi/h+e7keWumu+8jOebtOaOpeWwhmRpc3BhdGNo5Lyg6YCS6L+H5p2lCg==</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAvLyBkaXNwYXRjaChhY3Rpb24ubWFpbkxvYWRIdG1sKDUpKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyB0b2RvIOm7mOiupG1hcmtkb3du4oCU4oCUaWQK</text>
-      </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="4">
-        <text>function () {
-          action.mainMsgOpen(&quot;已复制到剪切板&quot;);
-        }</text>
+        <text>{
+  LOGIN_OPEN_CHANGE, LOGIN_REQUEST, LOGIN_RECEIVE, LOGIN_ERROR, LOGIN_INPUT_CHANGE,
+  LOGIN_USER_IS_NULL, LOGIN_PWD_IS_NULL
+}</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
