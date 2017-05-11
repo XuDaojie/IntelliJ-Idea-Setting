@@ -121,10 +121,10 @@
         <mark key="]" line="5" column="48" />
         <mark key="." line="5" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/demo/SynchronizedThread.java" timestamp="1494489587188">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/demo/SynchronizedThread.java" timestamp="1494491038051">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/mapper/project.xml" timestamp="1493645233768">
         <mark key="[" line="36" column="13" />
@@ -132,8 +132,10 @@
         <mark key="." line="28" column="13" />
         <mark key="^" line="87" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/Main.java" timestamp="1494488723064">
-        <mark key="[" line="10" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/Main.java" timestamp="1494491504514">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/containers/MainContainer.js" timestamp="1493647349435">
         <mark key="[" line="61" column="37" />
@@ -233,6 +235,9 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/demo/ThreadRes.java" timestamp="1494491098621">
+        <mark key="[" line="5" column="23" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/filter/HeaderFilter.java" timestamp="1494130861538">
         <mark key="[" line="48" column="33" />
         <mark key="]" line="53" column="0" />
@@ -296,10 +301,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/demo/ThreadDeadlock.java" timestamp="1494488544546">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/demo/ThreadDeadlock.java" timestamp="1494491713782">
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="55" column="27" />
+        <mark key="." line="55" column="27" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/containers/MdContainer.js" timestamp="1493481731084">
         <mark key="[" line="53" column="24" />
@@ -456,10 +461,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new SynchronizedThread()</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>new SynchronizedThread()</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -468,34 +473,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWRUZXN0LnRlc3QoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VXBkYXRlIFJFQURNRS5tZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBjb25zdCBzSldUID0gdG9rZW5VdGlsLmNyZWF0ZSh7CiAgICAgIHVzZXJfaWQ6IHVzZXJJZCwKICAgICAgcHJvamVjdF9uYW1lOiBwcm9OYW1lLAogICAgICBuYW1lOiBtZE5hbWUsCiAgICAgIGNvbnRlbnQ6IHVuZGVmaW5lZCwKICAgICAgZGVzY3JpcHRpb246IG1kRGVzLAogICAgfSk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBMb25nIHVzZXJJZCA9IGRlY29kZWRKV1QuZ2V0Q2xhaW0oInVzZXJfaWQiKS5hcyhMb25nLmNsYXNzKTsKLy8gICAgICAgIExvbmcgcHJvamVjdElkID0gZGVjb2RlZEpXVC5nZXRDbGFpbSgicHJvamVjdF9pZCIpLmFzKExvbmcuY2xhc3MpOwogICAgICAgIFN0cmluZyBwcm9qZWN0TmFtZSA9IGRlY29kZWRKV1QuZ2V0Q2xhaW0oInByb2plY3RfbmFtZSIpLmFzU3RyaW5nKCk7CiAgICAgICAgU3RyaW5nIHByb2plY3RQd2QgPSBkZWNvZGVkSldULmdldENsYWltKCJwcm9qZWN0X3Bhc3N3b3JkIikuYXNTdHJpbmcoKTsKICAgICAgICBTdHJpbmcgbmFtZSA9IGRlY29kZWRKV1QuZ2V0Q2xhaW0oIm5hbWUiKS5hc1N0cmluZygpOwogICAgICAgIFN0cmluZyBjb250ZW50ID0gZGVjb2RlZEpXVC5nZXRDbGFpbSgiY29udGVudCIpLmFzU3RyaW5nKCk7CiAgICAgICAgU3RyaW5nIGRlc2NyaXB0aW9uID0gZGVjb2RlZEpXVC5nZXRDbGFpbSgiZGVzY3JpcHRpb24iKS5hc1N0cmluZygpOwovLyAgICAgICAgU3RyaW5nIHBhc3N3b3JkID0gZGVjb2RlZEpXVC5nZXRDbGFpbSgicGFzc3dvcmQiKS5hc1N0cmluZygpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdG9rZW5VdGlsIGZyb20gJy4uL3V0aWxzL3Rva2VuVXRpbCc7Cg==</text>
+        <text encoding="base64">VXBkYXRlIFJFQURNRS5tZAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBjb25zdCBzSldUID0gdG9rZW5VdGlsLmNyZWF0ZSh7CiAgICAgIHVzZXJfaWQ6IHVzZXJJZCwKICAgICAgcHJvamVjdF9uYW1lOiBwcm9OYW1lLAogICAgICBuYW1lOiBtZE5hbWUsCiAgICAgIGNvbnRlbnQ6IHVuZGVmaW5lZCwKICAgICAgZGVzY3JpcHRpb246IG1kRGVzLAogICAgfSk7</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">55m75b2V5ZCO5pi+56S6bW9yZVZlcnQK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBMb25nIHVzZXJJZCA9IGRlY29kZWRKV1QuZ2V0Q2xhaW0oInVzZXJfaWQiKS5hcyhMb25nLmNsYXNzKTsKLy8gICAgICAgIExvbmcgcHJvamVjdElkID0gZGVjb2RlZEpXVC5nZXRDbGFpbSgicHJvamVjdF9pZCIpLmFzKExvbmcuY2xhc3MpOwogICAgICAgIFN0cmluZyBwcm9qZWN0TmFtZSA9IGRlY29kZWRKV1QuZ2V0Q2xhaW0oInByb2plY3RfbmFtZSIpLmFzU3RyaW5nKCk7CiAgICAgICAgU3RyaW5nIHByb2plY3RQd2QgPSBkZWNvZGVkSldULmdldENsYWltKCJwcm9qZWN0X3Bhc3N3b3JkIikuYXNTdHJpbmcoKTsKICAgICAgICBTdHJpbmcgbmFtZSA9IGRlY29kZWRKV1QuZ2V0Q2xhaW0oIm5hbWUiKS5hc1N0cmluZygpOwogICAgICAgIFN0cmluZyBjb250ZW50ID0gZGVjb2RlZEpXVC5nZXRDbGFpbSgiY29udGVudCIpLmFzU3RyaW5nKCk7CiAgICAgICAgU3RyaW5nIGRlc2NyaXB0aW9uID0gZGVjb2RlZEpXVC5nZXRDbGFpbSgiZGVzY3JpcHRpb24iKS5hc1N0cmluZygpOwovLyAgICAgICAgU3RyaW5nIHBhc3N3b3JkID0gZGVjb2RlZEpXVC5nZXRDbGFpbSgicGFzc3dvcmQiKS5hc1N0cmluZygpOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgdG9rZW5VdGlsIGZyb20gJy4uL3V0aWxzL3Rva2VuVXRpbCc7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
