@@ -169,10 +169,10 @@
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/demo/VolatileDemo.java" timestamp="1494814436834">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/demo/VolatileDemo.java" timestamp="1494816969889">
+        <mark key="[" line="88" column="63" />
+        <mark key="]" line="88" column="63" />
+        <mark key="." line="88" column="63" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/reducers/main.js" timestamp="1493870094736">
         <mark key="[" line="38" column="7" />
@@ -476,12 +476,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if (i == 9999) {
-                System.out.println(&quot;运行结果:Counter.count=&quot; + VolatileDemo.count);
-            }</text>
+        <text>.get()</text>
       </register>
       <register name="-" type="4">
-        <text>final</text>
+        <text>.get()</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -490,18 +488,18 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgaW5jKCkgewogICAgICAgIAogICAgfQ==</text>
+      </register>
+      <register name="2" type="4">
         <text>if (i == 9999) {
                 System.out.println(&quot;运行结果:Counter.count=&quot; + VolatileDemo.count);
             }</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">5paw5bu65paH5qGj5pe25aKe5Yqg6buY6K6k5YaF5a6544CCCg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5paw5bu65paH5qGj5pe25aKe5Yqg6buY6K6k5YaF5a6544CCCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -516,10 +514,10 @@
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cmdyb3VwICdKRG9jJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cmdyb3VwICdKRG9jJwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
