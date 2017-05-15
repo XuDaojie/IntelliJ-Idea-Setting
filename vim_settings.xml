@@ -124,7 +124,7 @@
         <mark key="]" line="5" column="48" />
         <mark key="." line="5" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/demo/SynchronizedThread.java" timestamp="1494778258447">
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/demo/SynchronizedThread.java" timestamp="1494813909903">
         <mark key="[" line="35" column="5" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -135,8 +135,8 @@
         <mark key="." line="28" column="13" />
         <mark key="^" line="87" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/Main.java" timestamp="1494778233946">
-        <mark key="[" line="7" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/Main.java" timestamp="1494814120429">
+        <mark key="[" line="18" column="36" />
         <mark key="]" line="16" column="1" />
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
@@ -168,6 +168,11 @@
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/demo/VolatileDemo.java" timestamp="1494814436834">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/reducers/main.js" timestamp="1493870094736">
         <mark key="[" line="38" column="7" />
@@ -470,11 +475,13 @@
       <jump line="9" column="40" filename="$USER_HOME$/ReactJS/my-app/src/reducers/nav.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">5paw5bu65paH5qGj5pe25aKe5Yqg6buY6K6k5YaF5a6544CCCg==</text>
+      <register name="&quot;" type="4">
+        <text>if (i == 9999) {
+                System.out.println(&quot;运行结果:Counter.count=&quot; + VolatileDemo.count);
+            }</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>final</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -482,11 +489,13 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">5paw5bu65paH5qGj5pe25aKe5Yqg6buY6K6k5YaF5a6544CCCg==</text>
+      <register name="1" type="4">
+        <text>if (i == 9999) {
+                System.out.println(&quot;运行结果:Counter.count=&quot; + VolatileDemo.count);
+            }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5paw5bu65paH5qGj5pe25aKe5Yqg6buY6K6k5YaF5a6544CCCg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
@@ -501,13 +510,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cmdyb3VwICdKRG9jJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cmdyb3VwICdKRG9jJwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -516,7 +525,7 @@
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29tcGlsZUphdmEub3B0aW9ucy5lbmNvZGluZyA9ICdVVEYtOCcKdGFza3Mud2l0aFR5cGUoSmF2YUNvbXBpbGUpIHsKICAgIG9wdGlvbnMuZW5jb2RpbmcgPSAnVVRGLTgnCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
