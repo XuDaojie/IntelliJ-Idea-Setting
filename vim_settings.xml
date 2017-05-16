@@ -66,6 +66,7 @@
         <mark key="]" line="95" column="22" />
         <mark key="." line="95" column="22" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/redis.clients/jedis/2.9.0/6d75e2498cd82c02665df5f9d7a77d0b5e398157/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" timestamp="1494908705658" />
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/src/main/java/com/xdj/javaee/controller/HelloWorldController.java" timestamp="1494900476322">
         <mark key="[" line="25" column="37" />
       </file>
@@ -367,10 +368,10 @@
         <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/build.gradle" timestamp="1494898987502" />
-      <file name="$USER_HOME$/IdeaProjects/MyJava/app/src/main/java/com/xdj/javaee/controller/RedisController.java" timestamp="1494907526233">
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="34" />
-        <mark key="." line="36" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/app/src/main/java/com/xdj/javaee/controller/RedisController.java" timestamp="1494909089348">
+        <mark key="[" line="69" column="15" />
+        <mark key="]" line="69" column="15" />
+        <mark key="." line="69" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/model/FileModel.java" timestamp="1493310745346">
         <mark key="[" line="7" column="7" />
@@ -396,7 +397,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1494903704666">
+      <file name="/fragment.java" timestamp="1494909062529">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -518,10 +519,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>first</text>
+        <text>Arrays.toString(new List[]{</text>
       </register>
       <register name="-" type="4">
-        <text>first</text>
+        <text>Arrays.toString(new List[]{</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
