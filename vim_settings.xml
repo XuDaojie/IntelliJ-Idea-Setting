@@ -81,6 +81,9 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/Swagger2.java" timestamp="1495089501504">
+        <mark key="[" line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/containers/MainContainer.js" timestamp="1493647349435">
         <mark key="[" line="61" column="37" />
         <mark key="]" line="18" column="0" />
@@ -123,10 +126,10 @@
         <mark key="]" line="91" column="15" />
         <mark key="." line="91" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/build.gradle" timestamp="1495088115569">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/build.gradle" timestamp="1495089289564">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="45" />
+        <mark key="." line="23" column="45" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/reducers/registerDialog.js" timestamp="1493569820470">
         <mark key="[" line="46" column="39" />
@@ -306,12 +309,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/.gitignore" timestamp="1494903991445">
-        <mark key="[" line="188" column="5" />
-        <mark key="]" line="181" column="5" />
-        <mark key="^" line="181" column="5" />
-        <mark key="." line="181" column="5" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.3.RELEASE/50da03fe6a1ad90058e309b52dab88c1dab49ce/spring-boot-autoconfigure-1.5.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.java" timestamp="1495078431103" />
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/mapper/markdown.xml" timestamp="1493642788934">
         <mark key="[" line="34" column="16" />
@@ -347,8 +344,8 @@
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/demo/ThreadRes.java" timestamp="1494491098621">
         <mark key="[" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/AccountController.java" timestamp="1493652699504">
-        <mark key="[" line="146" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/AccountController.java" timestamp="1495089419536">
+        <mark key="[" line="27" column="11" />
         <mark key="]" line="146" column="30" />
         <mark key="^" line="45" column="52" />
         <mark key="." line="146" column="30" />
@@ -540,17 +537,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>buildscript {
-    ext {
-        springBootVersion = '1.5.3.RELEASE'
-    }
-    dependencies {
-        classpath(&quot;org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}&quot;)
-    }
-}</text>
+        <text>2.6.1</text>
       </register>
       <register name="-" type="4">
-        <text>1.5.3.RELEASE</text>
+        <text>2.6.1</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
