@@ -77,6 +77,11 @@
         <mark key="." line="10" column="6" />
         <mark key="^" line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/docker/Dockerfile" timestamp="1495162289552">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/containers/AppBarContainer.js" timestamp="1493653735407">
         <mark key="[" line="51" column="19" />
         <mark key="]" line="112" column="22" />
@@ -182,7 +187,7 @@
         <mark key="]" line="18" column="47" />
         <mark key="." line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/build.gradle" timestamp="1495161548852">
+      <file name="$USER_HOME$/IdeaProjects/JDoc/build.gradle" timestamp="1495163027946">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -199,7 +204,6 @@
         <mark key="." line="74" column="39" />
         <mark key="^" line="74" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1495105253597" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1495105253597" />
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/model/ProjectModel.java" timestamp="1493310833525">
         <mark key="[" line="149" column="16" />
@@ -250,7 +254,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/javase/build.gradle" timestamp="1494903636567">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495158791220">
+      <file name="/Dummy.txt" timestamp="1495162582141">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -424,11 +428,11 @@
       <jump line="9" column="40" filename="$USER_HOME$/ReactJS/my-app/src/reducers/nav.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>./../build/libs/</text>
       </register>
       <register name="-" type="4">
-        <text>spring-boot-docker-0.1.0.jar</text>
+        <text>./../build/libs/</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
