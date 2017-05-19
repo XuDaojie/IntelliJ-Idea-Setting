@@ -221,7 +221,7 @@
       <file name="/HTML File.txt.ft" timestamp="1495095502381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/application-dev.properties" timestamp="1495129134716">
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/application-dev.properties" timestamp="1495155799305">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -246,10 +246,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/applicationContext.xml" timestamp="1495124430588">
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="10" column="48" />
-        <mark key="." line="10" column="48" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/applicationContext.xml" timestamp="1495155815119">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/actions/index.js" timestamp="1493870101356">
         <mark key="[" line="414" column="48" />
@@ -412,22 +412,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@ResponseStatus(value= HttpStatus.CONFLICT,
-            reason=&quot;Data integrity violation&quot;)  // 409
-    @ExceptionHandler(DataIntegrityViolationException.class)
-    public void conflict() {
-        // Nothing to do
-    }
-
-    @ResponseStatus(value= HttpStatus.CONFLICT,
-            reason=&quot;Data integrity violation&quot;)  // 409
-    @ExceptionHandler(Exception.class)
-    public String notFound() {
-        return &quot;xxx&quot;;
-    }</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>NotF</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
