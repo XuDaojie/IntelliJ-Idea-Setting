@@ -237,10 +237,10 @@
       <file name="/HTML File.txt.ft" timestamp="1495095502381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/application-dev.properties" timestamp="1495155799305">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/application-dev.properties" timestamp="1495167459637">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JDoc/gradle.properties" timestamp="1494350276619">
         <mark key="[" line="11" column="2" />
@@ -256,7 +256,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/javase/build.gradle" timestamp="1494903636567">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495164499744">
+      <file name="/Dummy.txt" timestamp="1495167625490">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -430,8 +430,8 @@
       <jump line="9" column="40" filename="$USER_HOME$/ReactJS/my-app/src/reducers/nav.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>../../build/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UubmFtZT1qZG9jCg==</text>
       </register>
       <register name="-" type="4">
         <text>../../build/</text>
@@ -443,7 +443,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UubmFtZT1qZG9jCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -455,12 +455,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RlJPTSBmcm9sdmxhZC9hbHBpbmUtb3JhY2xlamRrODpzbGltClZPTFVNRSAvdG1wCkFERCBncy1zcHJpbmctYm9vdC1kb2NrZXItMC4xLjAuamFyIGFwcC5qYXIKUlVOIHNoIC1jICd0b3VjaCAvYXBwLmphcicKRU5WIEpBVkFfT1BUUz0iIgpFTlRSWVBPSU5UIFsgInNoIiwgIi1jIiwgImphdmEgJEpBVkFfT1BUUyAtRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kb20gLWphciAvYXBwLmphciIgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">RlJPTSBmcm9sdmxhZC9hbHBpbmUtb3JhY2xlamRrODpzbGltClZPTFVNRSAvdG1wCkFERCBncy1zcHJpbmctYm9vdC1kb2NrZXItMC4xLjAuamFyIGFwcC5qYXIKUlVOIHNoIC1jICd0b3VjaCAvYXBwLmphcicKRU5WIEpBVkFfT1BUUz0iIgpFTlRSWVBPSU5UIFsgInNoIiwgIi1jIiwgImphdmEgJEpBVkFfT1BUUyAtRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kb20gLWphciAvYXBwLmphciIgXQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoIiR7U3lzdGVtLmdldGVudigpWydKQVZBX0hPTUUnXX0vanJlL2xpYi9ydC5qYXIiKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>@ResponseStatus(value= HttpStatus.CONFLICT,
             reason=&quot;Data integrity violation&quot;)  // 409
     @ExceptionHandler(DataIntegrityViolationException.class)
@@ -475,10 +481,7 @@
         return &quot;xxx&quot;;
     }</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>//    @RequestMapping(method = RequestMethod.GET, value = &quot;error/token&quot;, produces = &quot;application/json;charset=UTF-8&quot;)
 //    public String token() {
 //        BaseResponseBody responseBody = new BaseResponseBody();
@@ -495,14 +498,11 @@
 //        return JsonUtils.toJSONString(responseBody);
 //    }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZXJyb3IK</text>
-      </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCUtLQogIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICBVc2VyOiB4ZGoKICBEYXRlOiAyMDE3LzQvMTcKICBUaW1lOiDkuIvljYg0OjQ3CiAgVG8gY2hhbmdlIHRoaXMgdGVtcGxhdGUgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgotLSU+CjwlQCBwYWdlIGNvbnRlbnRUeXBlPSJ0ZXh0L2h0bWw7Y2hhcnNldD1VVEYtOCIgbGFuZ3VhZ2U9ImphdmEiICU+Cg==</text>
+        <text encoding="base64">ZXJyb3IK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
