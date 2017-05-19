@@ -19,6 +19,7 @@
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/data-mysql.sql" timestamp="1495128848056">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/gs-spring-boot-docker/complete/src/main/docker/Dockerfile" timestamp="1495165943390" />
       <file name="/a.dummy" timestamp="1495092459875">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,16 +72,18 @@
         <mark key="]" line="22" column="35" />
         <mark key="." line="22" column="35" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/gs-spring-boot-docker/complete/build.gradle" timestamp="1495165634043" />
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/public/index.html" timestamp="1495125438662">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="10" column="6" />
         <mark key="." line="10" column="6" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/docker/Dockerfile" timestamp="1495162289552">
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/docker/Dockerfile" timestamp="1495166535977">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="9" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/containers/AppBarContainer.js" timestamp="1493653735407">
         <mark key="[" line="51" column="19" />
@@ -187,10 +190,10 @@
         <mark key="]" line="18" column="47" />
         <mark key="." line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/build.gradle" timestamp="1495163027946">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/build.gradle" timestamp="1495165860549">
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/reducers/registerDialog.js" timestamp="1493569820470">
         <mark key="[" line="46" column="39" />
@@ -204,7 +207,6 @@
         <mark key="." line="74" column="39" />
         <mark key="^" line="74" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1495105253597" />
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/model/ProjectModel.java" timestamp="1493310833525">
         <mark key="[" line="149" column="16" />
         <mark key="]" line="149" column="16" />
@@ -429,10 +431,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>./../build/libs/</text>
+        <text>../../build/</text>
       </register>
       <register name="-" type="4">
-        <text>./../build/libs/</text>
+        <text>../../build/</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
