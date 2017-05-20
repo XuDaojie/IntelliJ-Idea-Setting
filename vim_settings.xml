@@ -134,6 +134,7 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
+      <file name="/applicationContext.xml" timestamp="1495258674770" />
       <file name="$USER_HOME$/ReactJS/my-app/src/containers/MainContainer.js" timestamp="1493647349435">
         <mark key="[" line="61" column="37" />
         <mark key="]" line="18" column="0" />
@@ -256,16 +257,16 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/javase/build.gradle" timestamp="1494903636567">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495257673217">
+      <file name="/Dummy.txt" timestamp="1495259315476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/applicationContext.xml" timestamp="1495253804735">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/applicationContext.xml" timestamp="1495259262333">
+        <mark key="[" line="36" column="3" />
+        <mark key="]" line="36" column="3" />
+        <mark key="." line="36" column="3" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/src/actions/index.js" timestamp="1493870101356">
         <mark key="[" line="414" column="48" />
@@ -430,7 +431,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.mchange.v2.c3p0.ComboPooledDataSource</text>
+        <text encoding="base64">IDxiZWFuIGlkPSJ0cmFuc2FjdGlvbk1hbmFnZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmpkYmMuZGF0YXNvdXJjZS5EYXRhU291cmNlVHJhbnNhY3Rpb25NYW5hZ2VyIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iZGF0YVNvdXJjZSIgcmVmPSJkYXRhU291cmNlIiAvPgogICAgPC9iZWFuPgoKICAgIDx0eDphbm5vdGF0aW9uLWRyaXZlbi8+</text>
       </register>
       <register name="-" type="4">
         <text>com.mchange.v2.c3p0.ComboPooledDataSource</text>
@@ -441,11 +442,11 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UubmFtZT1qZG9jCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IDxiZWFuIGlkPSJ0cmFuc2FjdGlvbk1hbmFnZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmpkYmMuZGF0YXNvdXJjZS5EYXRhU291cmNlVHJhbnNhY3Rpb25NYW5hZ2VyIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iZGF0YVNvdXJjZSIgcmVmPSJkYXRhU291cmNlIiAvPgogICAgPC9iZWFuPgoKICAgIDx0eDphbm5vdGF0aW9uLWRyaXZlbi8+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UubmFtZT1qZG9jCg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
@@ -457,15 +458,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RlJPTSBmcm9sdmxhZC9hbHBpbmUtb3JhY2xlamRrODpzbGltClZPTFVNRSAvdG1wCkFERCBncy1zcHJpbmctYm9vdC1kb2NrZXItMC4xLjAuamFyIGFwcC5qYXIKUlVOIHNoIC1jICd0b3VjaCAvYXBwLmphcicKRU5WIEpBVkFfT1BUUz0iIgpFTlRSWVBPSU5UIFsgInNoIiwgIi1jIiwgImphdmEgJEpBVkFfT1BUUyAtRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kb20gLWphciAvYXBwLmphciIgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoIiR7U3lzdGVtLmdldGVudigpWydKQVZBX0hPTUUnXX0vanJlL2xpYi9ydC5qYXIiKQo=</text>
+        <text encoding="base64">RlJPTSBmcm9sdmxhZC9hbHBpbmUtb3JhY2xlamRrODpzbGltClZPTFVNRSAvdG1wCkFERCBncy1zcHJpbmctYm9vdC1kb2NrZXItMC4xLjAuamFyIGFwcC5qYXIKUlVOIHNoIC1jICd0b3VjaCAvYXBwLmphcicKRU5WIEpBVkFfT1BUUz0iIgpFTlRSWVBPSU5UIFsgInNoIiwgIi1jIiwgImphdmEgJEpBVkFfT1BUUyAtRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kb20gLWphciAvYXBwLmphciIgXQo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoIiR7U3lzdGVtLmdldGVudigpWydKQVZBX0hPTUUnXX0vanJlL2xpYi9ydC5qYXIiKQo=</text>
+      </register>
+      <register name="8" type="4">
         <text>@ResponseStatus(value= HttpStatus.CONFLICT,
             reason=&quot;Data integrity violation&quot;)  // 409
     @ExceptionHandler(DataIntegrityViolationException.class)
@@ -480,7 +484,10 @@
         return &quot;xxx&quot;;
     }</text>
       </register>
-      <register name="8" type="4">
+      <register name="x" type="4">
+        <text>null</text>
+      </register>
+      <register name="9" type="4">
         <text>//    @RequestMapping(method = RequestMethod.GET, value = &quot;error/token&quot;, produces = &quot;application/json;charset=UTF-8&quot;)
 //    public String token() {
 //        BaseResponseBody responseBody = new BaseResponseBody();
@@ -496,12 +503,6 @@
 //        responseBody.setMsg(&quot;授权失败&quot;);
 //        return JsonUtils.toJSONString(responseBody);
 //    }</text>
-      </register>
-      <register name="x" type="4">
-        <text>null</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZXJyb3IK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
