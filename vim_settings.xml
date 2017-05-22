@@ -199,6 +199,11 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="22" column="54" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/javase/src/main/java/com/xdj/javase/rabbitmq/topic/TopicSend.java" timestamp="1495437416414">
+        <mark key="[" line="12" column="62" />
+        <mark key="]" line="12" column="62" />
+        <mark key="." line="12" column="62" />
+      </file>
       <file name="$USER_HOME$/ReactJS/my-app/NOTE.md" timestamp="1493628246446">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="87" column="24" />
@@ -305,7 +310,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/javase/build.gradle" timestamp="1495382084021">
         <mark key="[" line="12" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495433640717">
+      <file name="/Dummy.txt" timestamp="1495436845110">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -367,7 +372,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/javase/src/main/java/com/xdj/javase/demo/LockThread.java" timestamp="1494517432870">
         <mark key="[" line="9" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1495435961901">
+      <file name="/fragment.java" timestamp="1495437030605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -489,10 +494,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FANOUT</text>
+        <text>*.orange.*</text>
       </register>
       <register name="-" type="4">
-        <text>FANOUT</text>
+        <text>*.orange.*</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
