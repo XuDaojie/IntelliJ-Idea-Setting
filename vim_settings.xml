@@ -250,8 +250,10 @@
         <mark key="^" line="181" column="5" />
         <mark key="." line="181" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/log4j.properties" timestamp="1496459399638">
-        <mark key="[" line="39" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/log4j.properties" timestamp="1496462073276">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/web/listener/WebConfigContextListener.java" timestamp="1496388215057" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/main/java/com/xdj/springboot/rabbitmq/RabbitMQController.java" timestamp="1495442287709">
@@ -442,11 +444,11 @@
       <jump line="9" column="40" filename="$USER_HOME$/ReactJS/my-app/src/reducers/nav.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>catalina</text>
       </register>
       <register name="-" type="4">
-        <text>toString()</text>
+        <text>catalina</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
