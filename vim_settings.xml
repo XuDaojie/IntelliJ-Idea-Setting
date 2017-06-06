@@ -41,11 +41,11 @@
         <mark key="]" line="97" column="50" />
         <mark key="." line="97" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitCondition/Components/Content.js" timestamp="1496737712577">
-        <mark key="[" line="70" column="42" />
-        <mark key="]" line="77" column="13" />
-        <mark key="." line="77" column="13" />
-        <mark key="^" line="77" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitCondition/Components/Content.js" timestamp="1496740889823">
+        <mark key="[" line="130" column="31" />
+        <mark key="]" line="130" column="31" />
+        <mark key="." line="130" column="31" />
+        <mark key="^" line="123" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitManage/Components/List.js" timestamp="1496736135001">
         <mark key="[" line="58" column="9" />
@@ -219,10 +219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>type</text>
+        <text>defaultValue={0}</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>defaultValue={0}</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
