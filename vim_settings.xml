@@ -7,6 +7,7 @@
       <mark key="M" line="24" column="18" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_between_list_critical_fragment.xml" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1496883817863" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/QuotaMaxConfigController.java" timestamp="1496851725773" />
       <file name="$USER_HOME$/IdeaProjects/arc/.gitignore" timestamp="1496820856881">
         <mark key="[" line="258" column="0" />
@@ -22,7 +23,6 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1496825226426" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1496645823930">
         <mark key="[" line="39" column="60" />
       </file>
@@ -52,11 +52,8 @@
         <mark key="]" line="120" column="10" />
         <mark key="." line="120" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496852152522">
+      <file name="/Dummy.txt" timestamp="1496885664291">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/AddWin.js" timestamp="1496833033544" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/dashboad_between_list_critical_fragment.xml" timestamp="1496825226426" />
@@ -64,28 +61,29 @@
       <file name="$USER_HOME$/IdeaProjects/arc/CHANGELOG.md" timestamp="1496633191567">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/IncreaseAmountEdit.js" timestamp="1496854426645">
-        <mark key="[" line="96" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/IncreaseAmountEdit.js" timestamp="1496884486658">
+        <mark key="[" line="133" column="38" />
         <mark key="]" line="27" column="26" />
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/IncreaseAmountList.js" timestamp="1496854355048">
-        <mark key="[" line="158" column="12" />
-        <mark key="]" line="158" column="38" />
-        <mark key="." line="158" column="38" />
-        <mark key="^" line="158" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/IncreaseAmountList.js" timestamp="1496884857872">
+        <mark key="[" line="239" column="15" />
+        <mark key="]" line="247" column="37" />
+        <mark key="." line="247" column="37" />
+        <mark key="^" line="247" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitCondition/Components/Content.js" timestamp="1496851988812">
-        <mark key="[" line="105" column="40" />
-        <mark key="]" line="105" column="40" />
-        <mark key="." line="105" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitCondition/Components/Content.js" timestamp="1496885650539">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="50" column="13" />
+        <mark key="." line="50" column="13" />
+        <mark key="^" line="50" column="13" />
       </file>
       <file name="$USER_HOME$/ReactJS/jdoc/package.json" timestamp="1496678817544">
         <mark key="[" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/CreditList.js" timestamp="1496825598251">
-        <mark key="[" line="225" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/CreditList.js" timestamp="1496884342870">
+        <mark key="[" line="237" column="60" />
         <mark key="]" line="225" column="6" />
         <mark key="^" line="225" column="6" />
         <mark key="." line="225" column="6" />
@@ -96,7 +94,7 @@
         <mark key="." line="32" column="10" />
         <mark key="^" line="31" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/List.js" timestamp="1496852011979" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/List.js" timestamp="1496884282825" />
     </filemarks>
     <jumps>
       <jump line="50" column="101" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/take/search/ExpressNoSearchPresenter.java" />
@@ -202,12 +200,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if(rule === null) {
-      callback(new Error('额度增减必须大于0!'));
-    }</text>
+        <text encoding="base64">ICAvLyBmZXRjaChwYXJhbSkgewogIC8vICAgLy8g56eN5a2Q55So5oi3PTEs5pmu6YCa55So5oi3PTAKICAvLyAgIFV0aWxzLmFqYXhEYXRhKHsKICAvLyAgICAgdXJsOiAnL21vZHVsZXMvbWFuYWdlL3F1b3RhL2ZpbmRRdW90YU1heENvbmZpZ0J5VXNlclR5cGUuaHRtJywKICAvLyAgICAgbWV0aG9kOiAiZ2V0IiwKICAvLyAgICAgZGF0YTogcGFyYW0sCiAgLy8gICAgIGNhbGxiYWNrOiByZXN1bHQgPT4gewogIC8vICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5kYXRhKTsKICAvLyAgICAgICBpZiAocmVzdWx0LmNvZGUgPT09IDIwMCkgewogIC8vICAgICAgICAgaWYgKHBhcmFtLnVzZXJUeXBlID09PSBDb250ZW50LkNPTU1PTl9VU0VSKSB7CiAgLy8gICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogIC8vICAgICAgICAgICAgIGNvbW1vbkRhdGE6IHsKICAvLyAgICAgICAgICAgICAgIC4uLnRoaXMuc3RhdGUuY29tbW9uRGF0YSwKICAvLyAgICAgICAgICAgICAgIGJhc2VNYXg6IHJlc3VsdC5kYXRhLmJhc2VRdW90YUJvdW5kLAogIC8vICAgICAgICAgICAgICAgdHJhZGVNYXg6IHJlc3VsdC5kYXRhLnRyYWRlUXVvdGVCb3VuZCwKICAvLyAgICAgICAgICAgICB9CiAgLy8gICAgICAgICAgIH0pOwogIC8vICAgICAgICAgfSBlbHNlIHsKICAvLyAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgLy8gICAgICAgICAgICAgc2VlZERhdGE6IHsKICAvLyAgICAgICAgICAgICAgIC4uLnRoaXMuc3RhdGUuc2VlZERhdGEsCiAgLy8gICAgICAgICAgICAgICBiYXNlTWF4OiByZXN1bHQuZGF0YS5iYXNlUXVvdGFCb3VuZCwKICAvLyAgICAgICAgICAgICAgIHRyYWRlTWF4OiByZXN1bHQuZGF0YS50cmFkZVF1b3RlQm91bmQsCiAgLy8gICAgICAgICAgICAgfQogIC8vICAgICAgICAgICB9KTsKICAvLyAgICAgICAgIH0KICAvLyAgICAgICB9CiAgLy8gICAgIH0KICAvLyAgIH0pOwogIC8vIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>commonData</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -216,42 +212,42 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text>if(rule === null) {
-      callback(new Error('额度增减必须大于0!'));
-    }</text>
+        <text encoding="base64">ICAvLyBmZXRjaChwYXJhbSkgewogIC8vICAgLy8g56eN5a2Q55So5oi3PTEs5pmu6YCa55So5oi3PTAKICAvLyAgIFV0aWxzLmFqYXhEYXRhKHsKICAvLyAgICAgdXJsOiAnL21vZHVsZXMvbWFuYWdlL3F1b3RhL2ZpbmRRdW90YU1heENvbmZpZ0J5VXNlclR5cGUuaHRtJywKICAvLyAgICAgbWV0aG9kOiAiZ2V0IiwKICAvLyAgICAgZGF0YTogcGFyYW0sCiAgLy8gICAgIGNhbGxiYWNrOiByZXN1bHQgPT4gewogIC8vICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5kYXRhKTsKICAvLyAgICAgICBpZiAocmVzdWx0LmNvZGUgPT09IDIwMCkgewogIC8vICAgICAgICAgaWYgKHBhcmFtLnVzZXJUeXBlID09PSBDb250ZW50LkNPTU1PTl9VU0VSKSB7CiAgLy8gICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogIC8vICAgICAgICAgICAgIGNvbW1vbkRhdGE6IHsKICAvLyAgICAgICAgICAgICAgIC4uLnRoaXMuc3RhdGUuY29tbW9uRGF0YSwKICAvLyAgICAgICAgICAgICAgIGJhc2VNYXg6IHJlc3VsdC5kYXRhLmJhc2VRdW90YUJvdW5kLAogIC8vICAgICAgICAgICAgICAgdHJhZGVNYXg6IHJlc3VsdC5kYXRhLnRyYWRlUXVvdGVCb3VuZCwKICAvLyAgICAgICAgICAgICB9CiAgLy8gICAgICAgICAgIH0pOwogIC8vICAgICAgICAgfSBlbHNlIHsKICAvLyAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgLy8gICAgICAgICAgICAgc2VlZERhdGE6IHsKICAvLyAgICAgICAgICAgICAgIC4uLnRoaXMuc3RhdGUuc2VlZERhdGEsCiAgLy8gICAgICAgICAgICAgICBiYXNlTWF4OiByZXN1bHQuZGF0YS5iYXNlUXVvdGFCb3VuZCwKICAvLyAgICAgICAgICAgICAgIHRyYWRlTWF4OiByZXN1bHQuZGF0YS50cmFkZVF1b3RlQm91bmQsCiAgLy8gICAgICAgICAgICAgfQogIC8vICAgICAgICAgICB9KTsKICAvLyAgICAgICAgIH0KICAvLyAgICAgICB9CiAgLy8gICAgIH0KICAvLyAgIH0pOwogIC8vIH0=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGZvciAoaXRlbSBpbiByZXN1bHQuZGF0YSkgewogICAgICAgICAgICAKICAgICAgICAgIH0=</text>
+        <text encoding="base64">IC8vIC8vIOmZkOmineiuvue9rgogIC8vIGV4ZWN1dGVDaGFuZ2VPcHRpb24ocGFyYW1zKSB7CiAgLy8KICAvLyB9</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PGEgaHJlZj0iIyI+5pON5L2c5LiAe3JlY29yZC59PC9hPgogICAgICA8c3BhbiBjbGFzc05hbWU9ImFudC1kaXZpZGVyIi8+CiAgICAgIDxhIGhyZWY9IiMiPuaTjeS9nOS6jDwvYT4KICAgICAgPHNwYW4gY2xhc3NOYW1lPSJhbnQtZGl2aWRlciIvPgogICAgICA8YSBocmVmPSIjIiBjbGFzc05hbWU9ImFudC1kcm9wZG93bi1saW5rIj4KICAgICAgICDmm7TlpJogPEljb24gdHlwZT0iZG93biIgLz4KICAgICAgPC9hPg==</text>
+        <text encoding="base64">IHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewoKICAgIH0sIDEwMDApOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpc051bShzKQogIHsKICAgIGlmIChzICE9IG51bGwgJiYgcyAhPSAiIikgewogICAgICByZXR1cm4gIWlzTmFOKHMpOwogICAgfQogICAgcmV0dXJuIGZhbHNlOwogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgey8qPFNwaW4gc3Bpbm5pbmc9e3RoaXMuc3RhdGUubG9hZGluZ30+Ki99Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKHRoaXMuaXNOdW0odmFsdWUpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gPC9TcGluPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIGNhbGxiYWNrKG5ldyBFcnJvcign6K+36L6T5YWl5pWw5a2XIScpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IH0gZWxzZSB7CiAgICAgIGNhbGxiYWNrKG5ldyBFcnJvcign6K+36L6T5YWl5pWw5a2XIScpKTsKICAgIH0=</text>
+        <text>if(rule === null) {
+      callback(new Error('额度增减必须大于0!'));
+    }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8ZGl2IGNsYXNzTmFtZT0iYmxvY2stcGFuZWwiPiovfQogICAgICAgICAgey8qPFJlZHVjZUFtb3VudC8+Ki99CiAgICAgICAgey8qPC9kaXY+Ki99Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGZvciAoaXRlbSBpbiByZXN1bHQuZGF0YSkgewogICAgICAgICAgICAKICAgICAgICAgIH0=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IC8vIGlmICh2YWx1ZSA9PT0gMCkgewogICAgLy8gICBjaGVja1R5cGUgPSB0aGlzLmNoZWNrTG93TnVtYmVyKCk7CiAgICAvLyB9IGVsc2UgewogICAgLy8gICBjaGVja1R5cGUgPSB0aGlzLmNoZWNrVXBOdW1iZXIoKTsKICAgIC8vIH0=</text>
+        <text encoding="base64">PGEgaHJlZj0iIyI+5pON5L2c5LiAe3JlY29yZC59PC9hPgogICAgICA8c3BhbiBjbGFzc05hbWU9ImFudC1kaXZpZGVyIi8+CiAgICAgIDxhIGhyZWY9IiMiPuaTjeS9nOS6jDwvYT4KICAgICAgPHNwYW4gY2xhc3NOYW1lPSJhbnQtZGl2aWRlciIvPgogICAgICA8YSBocmVmPSIjIiBjbGFzc05hbWU9ImFudC1kcm9wZG93bi1saW5rIj4KICAgICAgICDmm7TlpJogPEljb24gdHlwZT0iZG93biIgLz4KICAgICAgPC9hPg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
