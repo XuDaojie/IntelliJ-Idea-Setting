@@ -10,6 +10,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/.gitignore" timestamp="1496886829171">
         <mark key="[" line="258" column="5" />
       </file>
+      <file name="/QuotaBaseConfigMapper.xml" timestamp="1496973071220" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/index.jsx" timestamp="1496835682183">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -22,16 +23,16 @@
         <mark key="." line="39" column="14" />
       </file>
       <file name="/QuotaBaseConfigController.java" timestamp="1496827072942" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/IncreaseAmountList.js" timestamp="1496900050987">
-        <mark key="[" line="220" column="11" />
-        <mark key="]" line="257" column="7" />
-        <mark key="." line="257" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/IncreaseAmountList.js" timestamp="1496973672309">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitCondition/Components/Content.js" timestamp="1496885650539">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="50" column="13" />
-        <mark key="." line="50" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitCondition/Components/Content.js" timestamp="1496973291706">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
         <mark key="^" line="50" column="13" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitManage/Components/List.js" timestamp="1496902806230">
         <mark key="[" line="148" column="24" />
@@ -43,6 +44,9 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/List.js" timestamp="1496884282825" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1496883817863" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/QuotaMaxConfigController.java" timestamp="1496851725773" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/quota/QuotaBaseConfigMapper.xml" timestamp="1496973176915">
+        <mark key="[" line="149" column="55" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/QuotaModelController.java" timestamp="1496830337100">
         <mark key="[" line="96" column="25" />
         <mark key="]" line="96" column="25" />
@@ -71,14 +75,14 @@
         <mark key="." line="180" column="39" />
         <mark key="^" line="180" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496916870377">
+      <file name="/Dummy.txt" timestamp="1496973827857">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/AddWin.js" timestamp="1496833033544" />
       <file name="$USER_HOME$/IdeaProjects/arc/CHANGELOG.md" timestamp="1496633191567">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/IncreaseAmountEdit.js" timestamp="1496900253631">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/IncreaseAmountEdit.js" timestamp="1496973732390">
         <mark key="[" line="196" column="31" />
         <mark key="]" line="23" column="27" />
         <mark key="." line="23" column="27" />
@@ -92,10 +96,10 @@
       <file name="$USER_HOME$/ReactJS/jdoc/package.json" timestamp="1496678817544">
         <mark key="[" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/CreditList.js" timestamp="1496971940592">
-        <mark key="[" line="243" column="50" />
-        <mark key="]" line="243" column="50" />
-        <mark key="." line="243" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/CreditList.js" timestamp="1496973563480">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/IncreaseAmount.js" timestamp="1496835690062">
         <mark key="[" line="52" column="16" />
@@ -214,8 +218,8 @@
       <jump line="138" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/zmxy/handler/CreditScoreQueryHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>me</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>me</text>
@@ -227,49 +231,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJpc2VWYWx1ZSA9IHZhbHVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IHJpc2VWYWx1ZTsK</text>
+        <text encoding="base64">ICBjaGFuZ2VTdGF1cyh0aXRsZSwgcmVjb3JkKXsKICAgIGNvbnN0IHBhcmFtcyA9IHsKICAgICAgaWQ6IHJlY29yZC5pZAogICAgfTsKICAgIGNvbnN0IHVybFN0ciA9IHRpdGxlID09PSAi56aB55SoIiA/ICIvbW9kdWxlcy9tYW5hZ2UvY3JlZGl0ZGF0YS90cHAvZGlzYWJsZS5odG0iIDogIi9tb2R1bGVzL21hbmFnZS9jcmVkaXRkYXRhL3RwcC9lbmFsYmUuaHRtIjsKICAgIFV0aWxzLmFqYXhEYXRhKHsKICAgICAgdXJsOiB1cmxTdHIsCiAgICAgIGRhdGE6IHBhcmFtcywKICAgICAgY2FsbGJhY2s6IChyZXN1bHQpID0+IHsKICAgICAgICBpZiAocmVzdWx0LmNvZGUgPT09IDIwMCkgewogICAgICAgICAgTW9kYWwuc3VjY2Vzcyh7CiAgICAgICAgICAgIHRpdGxlOiByZXN1bHQubXNnLAogICAgICAgICAgfSk7CiAgICAgICAgICB0aGlzLmhpZGVNb2RhbCgpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBNb2RhbC5lcnJvcih7CiAgICAgICAgICAgIHRpdGxlOiByZXN1bHQubXNnLAogICAgICAgICAgfSkKICAgICAgICB9CiAgICAgIH0KICAgIH0pCiAgfSwK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text>let checkNumber = {
-      ...getFieldProps('rate', {
-        rules: [{
-          validator: this.checkNumber,
-        }, {
-          required: true,
-          message: '必填'
-        }],
-      })
-    };</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsvKjxzcGFuIGNsYXNzTmFtZT0iYW50LWRpdmlkZXIiLz4qL30KICAgICAgICAgIHsvKnsqL30KICAgICAgICAgIHsvKnJlY29yZC5zdGF0ZSA9PT0gJzEwJyovfQogICAgICAgICAgey8qPyA8YSBvbkNsaWNrPXttZS5jaGFuZ2VTdGF1cy5iaW5kKG1lLCAn56aB55SoJywgcmVjb3JkKSB9PuemgeeUqDwvYT4qL30KICAgICAgICAgIHsvKjogPGEgb25DbGljaz17bWUuY2hhbmdlU3RhdXMuYmluZChtZSwgJ+WQr+eUqCcsIHJlY29yZCkgfT7lkK/nlKg8L2E+Ki99CiAgICAgICAgICB7Lyp9Ki99Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IDxMb29rZGV0YWlscwogICAgICAgICAgcmVmPSJMb29rZGV0YWlscyIgdmlzaWJsZT17c3RhdGUudmlzaWJsZX0gdGl0bGU9e3N0YXRlLnRpdGxlfQogICAgICAgICAgaGlkZU1vZGFsPXttZS5oaWRlTW9kYWwuYmluZChtZSwgc3RhdGUpfSByZWNvcmQ9e3N0YXRlLnJvd1JlY29yZH0KICAgICAgICAgIGNhbkVkaXQ9e3N0YXRlLmNhbkVkaXR9Lz4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8TG9va2RldGFpbHMKICAgICAgICAgIHJlZj0iTG9va2RldGFpbHMiIHZpc2libGU9e3N0YXRlLnZpc2libGV9IHRpdGxlPXtzdGF0ZS50aXRsZX0KICAgICAgICAgIGhpZGVNb2RhbD17bWUuaGlkZU1vZGFsLmJpbmQobWUsIHN0YXRlKX0gcmVjb3JkPXtzdGF0ZS5yb3dSZWNvcmR9CiAgICAgICAgICBjYW5FZGl0PXtzdGF0ZS5jYW5FZGl0fS8+Cg==</text>
+        <text encoding="base64">ICBjaGFuZ2VTdGF1cyh0aXRsZSwgcmVjb3JkKXsKICAgIGNvbnN0IHBhcmFtcyA9IHsKICAgICAgaWQ6IHJlY29yZC5pZAogICAgfTsKICAgIGNvbnN0IHVybFN0ciA9IHRpdGxlID09PSAi56aB55SoIiA/ICIvbW9kdWxlcy9tYW5hZ2UvY3JlZGl0ZGF0YS90cHAvZGlzYWJsZS5odG0iIDogIi9tb2R1bGVzL21hbmFnZS9jcmVkaXRkYXRhL3RwcC9lbmFsYmUuaHRtIjsKICAgIFV0aWxzLmFqYXhEYXRhKHsKICAgICAgdXJsOiB1cmxTdHIsCiAgICAgIGRhdGE6IHBhcmFtcywKICAgICAgY2FsbGJhY2s6IChyZXN1bHQpID0+IHsKICAgICAgICBpZiAocmVzdWx0LmNvZGUgPT09IDIwMCkgewogICAgICAgICAgTW9kYWwuc3VjY2Vzcyh7CiAgICAgICAgICAgIHRpdGxlOiByZXN1bHQubXNnLAogICAgICAgICAgfSk7CiAgICAgICAgICB0aGlzLmhpZGVNb2RhbCgpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBNb2RhbC5lcnJvcih7CiAgICAgICAgICAgIHRpdGxlOiByZXN1bHQubXNnLAogICAgICAgICAgfSkKICAgICAgICB9CiAgICAgIH0KICAgIH0pCiAgfSwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAvLyBmZXRjaChwYXJhbSkgewogIC8vICAgLy8g56eN5a2Q55So5oi3PTEs5pmu6YCa55So5oi3PTAKICAvLyAgIFV0aWxzLmFqYXhEYXRhKHsKICAvLyAgICAgdXJsOiAnL21vZHVsZXMvbWFuYWdlL3F1b3RhL2ZpbmRRdW90YU1heENvbmZpZ0J5VXNlclR5cGUuaHRtJywKICAvLyAgICAgbWV0aG9kOiAiZ2V0IiwKICAvLyAgICAgZGF0YTogcGFyYW0sCiAgLy8gICAgIGNhbGxiYWNrOiByZXN1bHQgPT4gewogIC8vICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5kYXRhKTsKICAvLyAgICAgICBpZiAocmVzdWx0LmNvZGUgPT09IDIwMCkgewogIC8vICAgICAgICAgaWYgKHBhcmFtLnVzZXJUeXBlID09PSBDb250ZW50LkNPTU1PTl9VU0VSKSB7CiAgLy8gICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogIC8vICAgICAgICAgICAgIGNvbW1vbkRhdGE6IHsKICAvLyAgICAgICAgICAgICAgIC4uLnRoaXMuc3RhdGUuY29tbW9uRGF0YSwKICAvLyAgICAgICAgICAgICAgIGJhc2VNYXg6IHJlc3VsdC5kYXRhLmJhc2VRdW90YUJvdW5kLAogIC8vICAgICAgICAgICAgICAgdHJhZGVNYXg6IHJlc3VsdC5kYXRhLnRyYWRlUXVvdGVCb3VuZCwKICAvLyAgICAgICAgICAgICB9CiAgLy8gICAgICAgICAgIH0pOwogIC8vICAgICAgICAgfSBlbHNlIHsKICAvLyAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgLy8gICAgICAgICAgICAgc2VlZERhdGE6IHsKICAvLyAgICAgICAgICAgICAgIC4uLnRoaXMuc3RhdGUuc2VlZERhdGEsCiAgLy8gICAgICAgICAgICAgICBiYXNlTWF4OiByZXN1bHQuZGF0YS5iYXNlUXVvdGFCb3VuZCwKICAvLyAgICAgICAgICAgICAgIHRyYWRlTWF4OiByZXN1bHQuZGF0YS50cmFkZVF1b3RlQm91bmQsCiAgLy8gICAgICAgICAgICAgfQogIC8vICAgICAgICAgICB9KTsKICAvLyAgICAgICAgIH0KICAvLyAgICAgICB9CiAgLy8gICAgIH0KICAvLyAgIH0pOwogIC8vIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsvKjxzcGFuIGNsYXNzTmFtZT0iYW50LWRpdmlkZXIiLz4qL30KICAgICAgICAgIHsvKnsqL30KICAgICAgICAgIHsvKnJlY29yZC5zdGF0ZSA9PT0gJzEwJyovfQogICAgICAgICAgey8qPyA8YSBvbkNsaWNrPXttZS5jaGFuZ2VTdGF1cy5iaW5kKG1lLCAn56aB55SoJywgcmVjb3JkKSB9PuemgeeUqDwvYT4qL30KICAgICAgICAgIHsvKjogPGEgb25DbGljaz17bWUuY2hhbmdlU3RhdXMuYmluZChtZSwgJ+WQr+eUqCcsIHJlY29yZCkgfT7lkK/nlKg8L2E+Ki99CiAgICAgICAgICB7Lyp9Ki99Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8vIC8vIOmZkOmineiuvue9rgogIC8vIGV4ZWN1dGVDaGFuZ2VPcHRpb24ocGFyYW1zKSB7CiAgLy8KICAvLyB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuZGF0YSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewoKICAgIH0sIDEwMDApOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuZGF0YSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgey8qPFNwaW4gc3Bpbm5pbmc9e3RoaXMuc3RhdGUubG9hZGluZ30+Ki99Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjaGFuZ2VkJywgdmFsdWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
