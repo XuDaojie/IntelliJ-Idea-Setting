@@ -18,6 +18,9 @@
         <mark key="]" line="96" column="25" />
         <mark key="." line="96" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerify.java" timestamp="1497236920961">
+        <mark key="[" line="48" column="38" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/gs-testing-web/complete/src/test/java/hello/ApplicationTest.java" timestamp="1496978308665" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbec84b3-2106-4c10-84fe-8b3a46133cd8/console.sql" timestamp="1496831308189">
         <mark key="[" line="0" column="17" />
@@ -58,7 +61,7 @@
         <mark key="^" line="39" column="14" />
         <mark key="." line="39" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497074934194">
+      <file name="/Dummy.txt" timestamp="1497238138889">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -73,6 +76,7 @@
         <mark key="." line="143" column="36" />
         <mark key="^" line="142" column="35" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskController.java" timestamp="1497236757547" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/IncreaseAmountList.js" timestamp="1496974710995">
         <mark key="[" line="181" column="5" />
         <mark key="]" line="85" column="0" />
@@ -109,13 +113,19 @@
         <mark key="." line="32" column="10" />
         <mark key="^" line="31" column="1" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1497237632109">
+        <mark key="[" line="191" column="59" />
+        <mark key="]" line="191" column="58" />
+        <mark key="^" line="191" column="58" />
+        <mark key="." line="191" column="58" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/test/java/io/github/xudaojie/jdoc/controller/ApplicationTest.java" timestamp="1496979149718">
         <mark key="[" line="29" column="38" />
         <mark key="]" line="29" column="32" />
         <mark key="^" line="29" column="32" />
         <mark key="." line="29" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1496978399843">
+      <file name="/fragment.java" timestamp="1497238096916">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ThirdPartyInquiry/Components/List.js" timestamp="1496891817781">
@@ -229,10 +239,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>芝麻信用增加删除功能</text>
+        <text>model.getEventInfo()</text>
       </register>
       <register name="-" type="4">
-        <text>芝麻信用增加删除功能</text>
+        <text>model.getEventInfo()</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
