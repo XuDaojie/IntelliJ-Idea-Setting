@@ -20,17 +20,18 @@
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskControllerTest.java" timestamp="1497434801966">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskControllerTest.java" timestamp="1497438627399">
         <mark key="'" line="57" column="36" />
-        <mark key="[" line="58" column="46" />
-        <mark key="]" line="58" column="46" />
+        <mark key="[" line="114" column="6" />
+        <mark key="]" line="114" column="6" />
         <mark key="^" line="119" column="76" />
-        <mark key="." line="58" column="46" />
+        <mark key="." line="114" column="6" />
       </file>
       <file name="/Parameters =" timestamp="1497433170385">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserService.java" timestamp="1497403289513" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/common/utils/CacheUtil.java" timestamp="1497437842970" />
       <file name="$USER_HOME$/IdeaProjects/gs-testing-web/complete/src/test/java/hello/HttpRequestTest.java" timestamp="1497433528491" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/DsdataShangshuMapper.xml" timestamp="1497411323106">
         <mark key="[" line="1442" column="22" />
@@ -45,6 +46,7 @@
         <mark key="." line="29" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/AddBorrowingRules.js" timestamp="1497423637178" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/context/Global.java" timestamp="1497437831778" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/domain/DsdataShangshu.java" timestamp="1497410732062">
         <mark key="[" line="428" column="25" />
       </file>
@@ -66,6 +68,7 @@
         <mark key="." line="47" column="35" />
         <mark key="^" line="47" column="35" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/web/listener/WebConfigContextListener.java" timestamp="1497438074146" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbec84b3-2106-4c10-84fe-8b3a46133cd8/console.sql" timestamp="1496831308189">
         <mark key="[" line="0" column="17" />
       </file>
@@ -76,6 +79,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.2.5.RELEASE/spring-test-4.2.5.RELEASE.jar!/org/springframework/test/web/servlet/request/MockMvcRequestBuilders.class" timestamp="1497431403027" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/server.properties" timestamp="1497410454338" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/signature/SignAspect.java" timestamp="1497437428276" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/domain/QuotaMaxConfig.java" timestamp="1496829179050">
         <mark key="[" line="31" column="4" />
       </file>
@@ -89,7 +93,7 @@
       <file name="/dummy.sql" timestamp="1497347762086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497432691539">
+      <file name="/Dummy.txt" timestamp="1497438601197">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -119,11 +123,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/web/controller/BaseController.java" timestamp="1497432795537" />
-      <file name="/fragment.java" timestamp="1497432771669">
+      <file name="/fragment.java" timestamp="1497437601721">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -230,10 +234,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>webApplicationContext</text>
+        <text encoding="base64">ICAvLyDmtojmga/mqKHmnb8KLy8JCUNhY2hlVXRpbC5pbml0U21zVGVtcGxhdGUoKTsKCiAgICAgICAgLy8g57O757uf5Y+C5pWwCiAgICAgICAgQ2FjaGVVdGlsLmluaXRTeXNDb25maWcoKTsKCiAgICAgICAgLy8g5b6B5L+hdHBw5L+h5oGvCiAgICAgICAgQ2FjaGVVdGlsLmluaXRUcHAoKTsKCiAgICAgICAgLy8g5b6B5L+hdHBw5o6l5Y+j5L+h5oGvCiAgICAgICAgQ2FjaGVVdGlsLmluaXRUcHBCdXNpbmVzcygpOwoKICAgICAgICAvLyDlvoHkv6F0cHDmjqXlj6Pkv6Hmga8KICAgICAgICBDYWNoZVV0aWwuaW5pdFN0cm9uZ1Jpc2tUYWJsZSgpOwogICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>webApplicationContext</text>
+        <text>Global.getValue(keyName)</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -242,40 +246,40 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBwYXJhbXMuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgcG9zdFJlcXVlc3RCdWlsZGVyLnBhcmFtKHBhcmFtcy5nZXQoKSkKICAgICAgICB9</text>
+        <text encoding="base64">ICAvLyDmtojmga/mqKHmnb8KLy8JCUNhY2hlVXRpbC5pbml0U21zVGVtcGxhdGUoKTsKCiAgICAgICAgLy8g57O757uf5Y+C5pWwCiAgICAgICAgQ2FjaGVVdGlsLmluaXRTeXNDb25maWcoKTsKCiAgICAgICAgLy8g5b6B5L+hdHBw5L+h5oGvCiAgICAgICAgQ2FjaGVVdGlsLmluaXRUcHAoKTsKCiAgICAgICAgLy8g5b6B5L+hdHBw5o6l5Y+j5L+h5oGvCiAgICAgICAgQ2FjaGVVdGlsLmluaXRUcHBCdXNpbmVzcygpOwoKICAgICAgICAvLyDlvoHkv6F0cHDmjqXlj6Pkv6Hmga8KICAgICAgICBDYWNoZVV0aWwuaW5pdFN0cm9uZ1Jpc2tUYWJsZSgpOwogICAgICAgIA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ci8vICAgICAgICBTdHJpbmdbXSByZXF1ZXN0UGFyYW1OYW1lcyA9IHsicmVhbE5hbWUiLCAicGhvbmUiLCAiaWRObyIsICJFbWFpbCJ9OwovLyAgICAgICAgQXJyYXlzLnNvcnQocmVxdWVzdFBhcmFtTmFtZXMpOwovLyAgICAgICAgU3RyaW5nIHNpZ25JbmZvID0gU2lnblV0aWwuc2lnblJlcShtb2RlbCwgR2xvYmFsLmdldFZhbHVlKFN5c3RlbUNvbnN0YW50LkFSQ19LRVlfUFJJKSwgcmVxdWVzdFBhcmFtTmFtZXMpOwoKLy8JCW1vZGVsLnNldEV2ZW50KCJVU0VSIik7Ci8vCQltb2RlbC5zZXRFdmVudCgiTElOS01BTiIpOwovLwkJbW9kZWwuc2V0RXZlbnQoIkRJUkVDVE9SWSIpOw==</text>
+        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBwYXJhbXMuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgcG9zdFJlcXVlc3RCdWlsZGVyLnBhcmFtKHBhcmFtcy5nZXQoKSkKICAgICAgICB9</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">Ci8vICAgICAgICBTdHJpbmdbXSByZXF1ZXN0UGFyYW1OYW1lcyA9IHsicmVhbE5hbWUiLCAicGhvbmUiLCAiaWRObyIsICJFbWFpbCJ9OwovLyAgICAgICAgQXJyYXlzLnNvcnQocmVxdWVzdFBhcmFtTmFtZXMpOwovLyAgICAgICAgU3RyaW5nIHNpZ25JbmZvID0gU2lnblV0aWwuc2lnblJlcShtb2RlbCwgR2xvYmFsLmdldFZhbHVlKFN5c3RlbUNvbnN0YW50LkFSQ19LRVlfUFJJKSwgcmVxdWVzdFBhcmFtTmFtZXMpOwoKLy8JCW1vZGVsLnNldEV2ZW50KCJVU0VSIik7Ci8vCQltb2RlbC5zZXRFdmVudCgiTElOS01BTiIpOwovLwkJbW9kZWwuc2V0RXZlbnQoIkRJUkVDVE9SWSIpOw==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">IHB1YmxpYyBzdGF0aWMgU3RyaW5nIHRwcEhhbmxkZXIoUmVnaXN0ZXJBbmRSaXNrTW9kZWwgbW9kZWwpIHsKICAgIAlTdHJpbmcgc2NlbmUgPSBtb2RlbC5nZXRTY2VuZSgpOwogICAgCU1hcDxTdHJpbmcsIE9iamVjdD4gcGFyYW1NYXAgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKTsKICAgIAlwYXJhbU1hcC5wdXQoInNjZW5lIiwgc2NlbmUpOwogICAgCXBhcmFtTWFwLnB1dCgic3RhdGUiLCBTeXN0ZW1Db25zdGFudC5TVEFURV9FTkFMQkUpOwoKICAgIAlTdHJpbmcgcmVzcCA9ICIiOwogICAgICAgIAogICAgICAgIC8vIOaJi+acuuWPt+eggeS4jeiDvemHjeWkjQoKCiAgICAJYm9vbGVhbiBmbGFnID0gdHJ1ZTsKICAgIAkvL+mZpOS6huiwg+eUqOesrOS4ieaWueaVsOaNruWklui/mOacieiHquW3seaVsOaNruW6k+eahOaVsOaNruWSjOW8uumjjuaOp+WJjeW3suacieeahOaVsOaNrgogICAgCUxpc3Q8U3RyaW5nPiBsaXN0VGFibGUgID0gR2xvYmFsLnRwcFN0cm9uZ1Jpc2tUYWJsZUxpc3Q7CiAgICAJZm9yIChTdHJpbmcgc3RyaW5nIDogbGlzdFRhYmxlKSB7CiAgICAJCXJlc3AgPSBSZWdpc3RlclJpc2tWZXJpZnlIZWxwZXIudmFsaWQoc2NlbmUsIG1vZGVsLmdldENvbnN1bWVyTm8oKSwgbW9kZWwuZ2V0T3JkZXJObygpLHN0cmluZyk7CgkJCWlmKFJ1bGVDb25zdGFudC5SRVNVTFRfVFlQRV9SRUZVU0VELmVxdWFscyhyZXNwKSl7CgkJCQlmbGFnID0gZmFsc2U7CgkJCQlicmVhazsKCQkJfQoJCX0KLy8gICAgCWZsYWcgPSB0cnVlOwogICAgCWlmKGZsYWcpewogICAgICAgIAlTY2VuZUJ1c2luZXNzU2VydmljZSBzY2VuZUJ1c2luZXNzU2VydmljZSA9IChTY2VuZUJ1c2luZXNzU2VydmljZSkgQmVhblV0aWwuZ2V0QmVhbigic2NlbmVCdXNpbmVzc1NlcnZpY2UiKTsKICAgICAgICAJLy8g5qC55o2u5Zy65pmv5p+l6K+i5omA5pyJ57uR5a6a55qE5o6l5Y+jCiAgICAgICAgCUxpc3Q8QXBpU2NlbmVCdXNpbmVzc01vZGVsPiBsaXN0ID0gc2NlbmVCdXNpbmVzc1NlcnZpY2UubGlzdEFwaU1vZGVsKHBhcmFtTWFwKTsKICAgICAgICAJaWYgKGxpc3QgPT0gbnVsbCB8fCBsaXN0LnNpemUoKSA8IDEpIHsKICAgICAgICAJCXJldHVybiBSdWxlQ29uc3RhbnQuUkVTVUxUX1RZUEVfUkVGVVNFRDsKICAgICAgICAJfQogICAgCQkKICAgIAlmb3IgKEFwaVNjZW5lQnVzaW5lc3NNb2RlbCBhcGlNb2RlbCA6IGxpc3QpIHsKICAgIAkJbG9uZyBzdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgIAkJbW9kZWwuc2V0VHBwTmlkKGFwaU1vZGVsLmdldFRwcE5pZCgpKTsKICAgIAkJbW9kZWwuc2V0QnVzaW5lc3NOaWQoYXBpTW9kZWwuZ2V0QnVzaW5lc3NOaWQoKSk7CiAgICAJCVN0cmluZyBnZXRXYXkgPSBhcGlNb2RlbC5nZXRHZXRXYXkoKTsKICAgIAkJdHJ5IHsKICAgIAkJCXRwcEhhbmRsZXIobW9kZWwsIGdldFdheSwgYXBpTW9kZWwpOwoJCQkJcmVzcCA9IFJlZ2lzdGVyUmlza1ZlcmlmeUhlbHBlci52YWxpZChzY2VuZSwgbW9kZWwuZ2V0Q29uc3VtZXJObygpLCBtb2RlbC5nZXRPcmRlck5vKCksYXBpTW9kZWwuZ2V0Q3RhYmxlKCkpOwoJCQkJaWYoUnVsZUNvbnN0YW50LlJFU1VMVF9UWVBFX1JFRlVTRUQuZXF1YWxzKHJlc3ApKXsKCQkJCQlicmVhazsKCQkJCX0KCQkJfSBjYXRjaCAoRXJyb3IgZXJyb3IpIHsKCQkJCWxvZ2dlci5pbmZvKCLnrKzkuInmlrnlpITnkIbplJnor6/vvIzmjqXlj6PmoIfor4bvvJoiICsgYXBpTW9kZWwuZ2V0QnVzaW5lc3NOaWQoKSwgZXJyb3IpOwoJCQl9IGNhdGNoIChFeGNlcHRpb24gZSkgewoJCQkJbG9nZ2VyLmluZm8oIuesrOS4ieaWueWkhOeQhuW8guW4uO+8jOaOpeWPo+agh+ivhu+8miIgKyBhcGlNb2RlbC5nZXRCdXNpbmVzc05pZCgpLCBlKTsKCQkJfQogICAgCQlsb25nIGVuZFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgIAkJbG9nZ2VyLmluZm8oIumjjuaOp+WuoeaJuS3mjqXlj6PmoIfor4bvvJoiICsgYXBpTW9kZWwuZ2V0QnVzaW5lc3NOaWQoKSArICLogJfotLnml7bpl7TvvJoiICsgKGVuZFRpbWUgLSBzdGFydFRpbWUpKTsKICAgIAl9CiAgICAJfQoJCXJldHVybiByZXNwOwoKICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyDogZTns7vkurrkuI3lj6/ph43lpI0KICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBzZWFyY2hNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Ci8vICAgICAgICAgICAgc2VhcmNoTWFwLnB1dCgibWQ1IiwgTUQ1LmVuY29kZSh1c2VyLmdldCkpOwovLyAgICAgICAgICAgIHVzZXJTZXJ2aWNlLnNlbGVjdE9uZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlckRpcmVjdG9yeVNlcnZpY2Uuc2VsZWN0T25lKHNlYXJjaE1hcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyDogZTns7vkurrkuI3lj6/ph43lpI0KICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBzZWFyY2hNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Ci8vICAgICAgICAgICAgc2VhcmNoTWFwLnB1dCgibWQ1IiwgTUQ1LmVuY29kZSh1c2VyLmdldCkpOwovLyAgICAgICAgICAgIHVzZXJTZXJ2aWNlLnNlbGVjdE9uZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9kZWwuZ2V0RGlyZWN0b3J5KCkK</text>
+        <text encoding="base64">dXNlckRpcmVjdG9yeVNlcnZpY2Uuc2VsZWN0T25lKHNlYXJjaE1hcCkK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmV3IFN0cmluZyhCYXNlNjQuZGVjb2RlRmFzdChyZXFNb2RlbC5nZXREaXJlY3RvcnkoKSkpCg==</text>
+        <text encoding="base64">bW9kZWwuZ2V0RGlyZWN0b3J5KCkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
