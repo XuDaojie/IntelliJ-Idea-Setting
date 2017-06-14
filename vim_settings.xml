@@ -10,7 +10,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/main.js" timestamp="1497342260403" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserServiceImpl.java" timestamp="1497407083115" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/HttpUtil.java" timestamp="1497432546089" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/base/ControllerBaseSpringTester.java" timestamp="1497428497953" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/base/ControllerBaseSpringTester.java" timestamp="1497434629264" />
       <file name="$USER_HOME$/IdeaProjects/arc/.gitignore" timestamp="1497401810350">
         <mark key="[" line="258" column="5" />
       </file>
@@ -20,12 +20,12 @@
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskControllerTest.java" timestamp="1497432600840">
-        <mark key="'" line="54" column="36" />
-        <mark key="[" line="113" column="37" />
-        <mark key="]" line="113" column="37" />
-        <mark key="^" line="115" column="76" />
-        <mark key="." line="113" column="37" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskControllerTest.java" timestamp="1497434801966">
+        <mark key="'" line="57" column="36" />
+        <mark key="[" line="58" column="46" />
+        <mark key="]" line="58" column="46" />
+        <mark key="^" line="119" column="76" />
+        <mark key="." line="58" column="46" />
       </file>
       <file name="/Parameters =" timestamp="1497433170385">
         <mark key="[" line="0" column="0" />
@@ -230,10 +230,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>key</text>
+        <text>webApplicationContext</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>webApplicationContext</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
