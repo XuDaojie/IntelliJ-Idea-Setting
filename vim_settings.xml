@@ -34,6 +34,9 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserService.java" timestamp="1497403289513" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/common/utils/CacheUtil.java" timestamp="1497437842970" />
       <file name="$USER_HOME$/IdeaProjects/gs-testing-web/complete/src/test/java/hello/HttpRequestTest.java" timestamp="1497433528491" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/extend/credit/ApiSignUtil.java" timestamp="1497455673124">
+        <mark key="[" line="61" column="93" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/DsdataShangshuMapper.xml" timestamp="1497411323106">
         <mark key="[" line="1442" column="22" />
         <mark key="]" line="1442" column="22" />
@@ -52,11 +55,11 @@
         <mark key="[" line="428" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiTestController.java" timestamp="1497354018585" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/handler/DsdataHandler.java" timestamp="1497454820968">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/handler/DsdataHandler.java" timestamp="1497455445709">
+        <mark key="[" line="41" column="42" />
+        <mark key="]" line="41" column="42" />
         <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
+        <mark key="." line="41" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/ShangShuThread.java" timestamp="1497412310184" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/rsa/SignUtil.java" timestamp="1497353939191" />
@@ -75,6 +78,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.2.5.RELEASE/spring-test-4.2.5.RELEASE.jar!/org/springframework/test/web/servlet/request/MockMvcRequestBuilders.class" timestamp="1497431403027" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/server.properties" timestamp="1497410454338" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1497342933579">
+        <mark key="[" line="39" column="60" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/signature/SignAspect.java" timestamp="1497452351063" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/domain/QuotaMaxConfig.java" timestamp="1496829179050">
         <mark key="[" line="31" column="4" />
@@ -110,14 +116,14 @@
         <mark key="." line="308" column="48" />
         <mark key="^" line="319" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1497452769102">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1497455608984">
         <mark key="[" line="69" column="38" />
       </file>
       <file name="/fragment.js2" timestamp="1497238857222">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/web/controller/BaseController.java" timestamp="1497432795537" />
-      <file name="/fragment.java" timestamp="1497453499968">
+      <file name="/fragment.java" timestamp="1497455640364">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -227,11 +233,11 @@
       <jump line="41" column="36" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2FyOndhcgo=</text>
+      <register name="&quot;" type="4">
+        <text>timestamp</text>
       </register>
       <register name="-" type="4">
-        <text>Global.getValue(keyName)</text>
+        <text>timestamp</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
