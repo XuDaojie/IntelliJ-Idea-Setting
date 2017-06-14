@@ -23,6 +23,12 @@
         <mark key="." line="47" column="35" />
         <mark key="^" line="47" column="35" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1497419468090">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="64" />
+        <mark key="^" line="4" column="64" />
+        <mark key="." line="4" column="64" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbec84b3-2106-4c10-84fe-8b3a46133cd8/console.sql" timestamp="1496831308189">
         <mark key="[" line="0" column="17" />
       </file>
@@ -44,7 +50,7 @@
       <file name="/dummy.sql" timestamp="1497347762086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497409610743">
+      <file name="/Dummy.txt" timestamp="1497421916463">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -71,19 +77,20 @@
         <mark key="." line="1442" column="22" />
         <mark key="^" line="1196" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1497412826112">
-        <mark key="[" line="307" column="54" />
-        <mark key="]" line="307" column="54" />
-        <mark key="." line="307" column="54" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1497421485490">
+        <mark key="[" line="310" column="48" />
+        <mark key="]" line="310" column="48" />
+        <mark key="." line="310" column="48" />
         <mark key="^" line="321" column="18" />
       </file>
       <file name="/fragment.js2" timestamp="1497238857222">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/AddBorrowingRules.js" timestamp="1497421930515" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/domain/DsdataShangshu.java" timestamp="1497410732062">
         <mark key="[" line="428" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1497411895631">
+      <file name="/fragment.java" timestamp="1497421457403">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -201,10 +208,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getConsumerNo</text>
+        <text>model</text>
       </register>
       <register name="-" type="4">
-        <text>getConsumerNo</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
