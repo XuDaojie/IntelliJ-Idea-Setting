@@ -20,11 +20,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/.gitignore" timestamp="1497401810350">
         <mark key="[" line="258" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1497513843249">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="63" />
-        <mark key="^" line="0" column="63" />
-        <mark key="." line="0" column="63" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1497520369113">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="0" column="59" />
+        <mark key="^" line="0" column="58" />
+        <mark key="." line="0" column="59" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1497507218025" />
       <file name="/ApiHandler.java" timestamp="1497457945530" />
@@ -54,6 +54,7 @@
         <mark key="." line="1442" column="22" />
         <mark key="^" line="1196" column="13" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/QuartzJob.java" timestamp="1497520633384" />
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/test/java/io/github/xudaojie/jdoc/controller/ApplicationTest.java" timestamp="1497506239048">
         <mark key="[" line="29" column="38" />
         <mark key="]" line="29" column="32" />
@@ -113,17 +114,22 @@
       <file name="/dummy.sql" timestamp="1497347762086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497511372132">
+      <file name="/Dummy.txt" timestamp="1497519080004">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserController.java" timestamp="1497353325785" />
       <file name="/UserDirectoryMapper.xml" timestamp="1497402678979" />
-      <file name="$USER_HOME$/IdeaProjects/arc/CHANGELOG.md" timestamp="1496633191567">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/CHANGELOG.md" timestamp="1497519817662">
+        <mark key="[" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/ServletUtils.java" timestamp="1497509914155" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1497520658032">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+      </file>
       <file name="$USER_HOME$/ReactJS/jdoc/package.json" timestamp="1496678817544">
         <mark key="[" line="1" column="17" />
       </file>
@@ -256,11 +262,11 @@
       <jump line="41" column="36" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfdmVyaWZ5IFdIRVJFIGNvbnN1bWVyX25vPScxMTExMTExMSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
