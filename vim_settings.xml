@@ -11,6 +11,9 @@
         <mark key="]" line="34" column="34" />
         <mark key="." line="34" column="34" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manager/rule/service/impl/VerifyRespServiceImpl.java" timestamp="1497580543970">
+        <mark key="[" line="44" column="56" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/helper/RegisterRiskVerifyHelper.java" timestamp="1497509539056" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/main.js" timestamp="1497342260403" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserServiceImpl.java" timestamp="1497407083115" />
@@ -25,13 +28,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/.gitignore" timestamp="1497401810350">
         <mark key="[" line="258" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1497520369113">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="0" column="59" />
-        <mark key="^" line="0" column="58" />
-        <mark key="." line="0" column="59" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1497577814119">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1497578965574">
         <mark key="[" line="80" column="31" />
       </file>
       <file name="/ApiHandler.java" timestamp="1497457945530" />
@@ -49,8 +46,16 @@
       <file name="/Parameters =" timestamp="1497433170385">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/service/VerifyService.java" timestamp="1497579097864">
+        <mark key="[" line="52" column="63" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserService.java" timestamp="1497403289513" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/common/utils/CacheUtil.java" timestamp="1497437842970" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyRespMapper.xml" timestamp="1497580363494">
+        <mark key="[" line="152" column="47" />
+        <mark key="]" line="152" column="47" />
+        <mark key="." line="152" column="47" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/gs-testing-web/complete/src/test/java/hello/HttpRequestTest.java" timestamp="1497433528491" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/extend/credit/ApiSignUtil.java" timestamp="1497455673124">
         <mark key="[" line="54" column="93" />
@@ -61,7 +66,8 @@
         <mark key="." line="1442" column="22" />
         <mark key="^" line="1196" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/QuartzJob.java" timestamp="1497520633384" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/QuartzJob.java" timestamp="1497579437526" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/quota/QuotaMaxConfigMapper.xml" timestamp="1497578418902" />
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/test/java/io/github/xudaojie/jdoc/controller/ApplicationTest.java" timestamp="1497506239048">
         <mark key="[" line="29" column="38" />
         <mark key="]" line="29" column="32" />
@@ -69,7 +75,12 @@
         <mark key="." line="29" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/AddBorrowingRules.js" timestamp="1497423637178" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/service/impl/VerifyServiceImpl.java" timestamp="1497508296507" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/service/impl/VerifyServiceImpl.java" timestamp="1497579169438">
+        <mark key="[" line="87" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manager/rule/domain/VerifyResp.java" timestamp="1497578482342">
+        <mark key="[" line="16" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/context/Global.java" timestamp="1497440008140" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/domain/DsdataShangshu.java" timestamp="1497410732062">
         <mark key="[" line="428" column="25" />
@@ -83,6 +94,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/ShangShuThread.java" timestamp="1497412310184" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/rsa/SignUtil.java" timestamp="1497353939191" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/log4j.properties" timestamp="1497581798340">
+        <mark key="[" line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/tool/codeGenerator/MybatisGenerate.java" timestamp="1497576402499" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/quota/QuotaBaseConfigMapper.xml" timestamp="1496973176915">
         <mark key="[" line="149" column="55" />
@@ -105,6 +119,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/model/VerifyModel.java" timestamp="1497512252084">
         <mark key="[" line="58" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/resources/log4j.properties" timestamp="1497581966345" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1497342933579">
         <mark key="[" line="39" column="60" />
       </file>
@@ -122,27 +137,34 @@
       <file name="/dummy.sql" timestamp="1497347762086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497519080004">
+      <file name="/Dummy.txt" timestamp="1497582487252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manager/rule/mapper/VerifyRespMapper.java" timestamp="1497580413730">
+        <mark key="[" line="20" column="71" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserController.java" timestamp="1497353325785" />
       <file name="/UserDirectoryMapper.xml" timestamp="1497402678979" />
       <file name="$USER_HOME$/IdeaProjects/arc/CHANGELOG.md" timestamp="1497519817662">
         <mark key="[" line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/mapper/BaseMapper.java" timestamp="1497579068730" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/ServletUtils.java" timestamp="1497509914155" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1497577931977">
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="31" column="64" />
-        <mark key="." line="31" column="64" />
-        <mark key="^" line="31" column="64" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1497582952315">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="22" />
+        <mark key="." line="41" column="22" />
+        <mark key="^" line="39" column="64" />
       </file>
       <file name="$USER_HOME$/ReactJS/jdoc/package.json" timestamp="1496678817544">
         <mark key="[" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserDirectoryService.java" timestamp="1497406974368" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/mapper/VerifyMapper.java" timestamp="1497578981932">
+        <mark key="[" line="37" column="63" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1497457806772">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -156,11 +178,17 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/VerifyController.java" timestamp="1497511011717" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/JsonUtil.java" timestamp="1497511305114" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manager/rule/service/VerifyRespService.java" timestamp="1497580477662">
+        <mark key="[" line="18" column="73" />
+        <mark key="]" line="19" column="47" />
+        <mark key="^" line="19" column="47" />
+        <mark key="." line="19" column="47" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/web/controller/BaseController.java" timestamp="1497432795537" />
       <file name="webpack:///./react/modules/RiskApproval/Components/List.js" timestamp="1497506394904">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1497576362383">
+      <file name="/fragment.java" timestamp="1497581607862">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -271,11 +299,11 @@
       <jump line="41" column="36" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Rule</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Rule</text>
+        <text>INDEX</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -284,43 +312,42 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfdmVyaWZ5IFdIRVJFIGNvbnN1bWVyX25vPScxMTExMTExMSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfdXNlciBXSEVSRSBjb25zdW1lcl9ubz0nMTExMTExMTEnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfdXNlcl9saW5rbWFuIFdIRVJFIGNvbnN1bWVyX25vPScxMTExMTExMSc7Cg==</text>
+      <register name="3" type="4">
+        <text>/**
+     * 获取最近数小时之内的订单
+     */</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfdXNlcl9kaXJlY3RvcnkgV0hFUkUgY29uc3VtZXJfbm89JzExMTExMTExJzsK</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfdmVyaWZ5IFdIRVJFIGNvbnN1bWVyX25vPScxMTExMTExMSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfYm9ycm93X3J1bGVfcmVzdWx0IFdIRVJFICBvcmRlcl9ubyA9JzIyMjIyMjInOwo=</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfdXNlciBXSEVSRSBjb25zdW1lcl9ubz0nMTExMTExMTEnOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICA8VGFibGUKICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnNUZXN0fQogICAgICAgICAgZGF0YVNvdXJjZT17ZGF0YVRlc3R9CiAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVUYWJsZUNoYW5nZX0KICAgICAgICAvPgogICAgICAgIDxUYWJsZQogICAgICAgICAgY29sdW1ucz17Y29sdW1uc1Rlc3R9IHJvd0tleT17dGhpcy5yb3dLZXl9CiAgICAgICAgICBvblJvd0NsaWNrPXt0aGlzLm9uUm93Q2xpY2t9CiAgICAgICAgICBkYXRhU291cmNlPXtkYXRhVGVzdH0KICAgICAgICAgIHJvd0NsYXNzTmFtZT17dGhpcy5yb3dDbGFzc05hbWV9CiAgICAgICAgICBwYWdpbmF0aW9uPXt0aGlzLnN0YXRlLnBhZ2luYXRpb259CiAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVUYWJsZUNoYW5nZX0KICAgICAgICAvPg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfdXNlcl9saW5rbWFuIFdIRVJFIGNvbnN1bWVyX25vPScxMTExMTExMSc7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8vIHRlc3Qgc3RhcnQKICAgIGNvbnN0IGNvbHVtbnNUZXN0ID0gW3sKICAgICAgdGl0bGU6ICflp5PlkI0nLAogICAgICBkYXRhSW5kZXg6ICduYW1lJywKICAgICAgLy8gZmlsdGVyczogW3sKICAgICAgLy8gICB0ZXh0OiAn5aeT5p2O55qEJywKICAgICAgLy8gICB2YWx1ZTogJ+adjicsCiAgICAgIC8vIH0sIHsKICAgICAgLy8gICB0ZXh0OiAn5aeT6IOh55qEJywKICAgICAgLy8gICB2YWx1ZTogJ+iDoScsCiAgICAgIC8vIH0sIHsKICAgICAgLy8gICB0ZXh0OiAn5a2Q6I+c5Y2VJywKICAgICAgLy8gICB2YWx1ZTogJ+WtkOiPnOWNlScsCiAgICAgIC8vICAgY2hpbGRyZW46IFt7CiAgICAgIC8vICAgICB0ZXh0OiAn5aeT6ZmI55qEJywKICAgICAgLy8gICAgIHZhbHVlOiAn6ZmIJywKICAgICAgLy8gICB9LCB7CiAgICAgIC8vICAgICB0ZXh0OiAn5aeT546L55qEJywKICAgICAgLy8gICAgIHZhbHVlOiAn546LJywKICAgICAgLy8gICB9XSwKICAgICAgLy8gfV0sCiAgICAgIC8vIOaMh+WumuehruWumuetm+mAieeahOadoeS7tuWHveaVsAogICAgICAvLyDov5nph4zmmK/lkI3lrZfkuK3nrKzkuIDkuKrlrZfmmK8gdmFsdWUKICAgICAgLy8gb25GaWx0ZXI6ICh2YWx1ZSwgcmVjb3JkKSA9PiByZWNvcmQubmFtZS5pbmRleE9mKHZhbHVlKSA9PT0gMCwKICAgICAgLy8gc29ydGVyOiAoYSwgYikgPT4gYS5uYW1lLmxlbmd0aCAtIGIubmFtZS5sZW5ndGgsCiAgICB9LCB7CiAgICAgIHRpdGxlOiAn5bm06b6EJywKICAgICAgZGF0YUluZGV4OiAnYWdlJywKICAgICAgLy8gc29ydGVyOiAoYSwgYikgPT4gYS5hZ2UgLSBiLmFnZSwKICAgIH0sIHsKICAgICAgdGl0bGU6ICflnLDlnYAnLAogICAgICBkYXRhSW5kZXg6ICdhZGRyZXNzJywKICAgICAgZmlsdGVyczogW3sKICAgICAgICB0ZXh0OiAn5Y2X5rmWJywKICAgICAgICB2YWx1ZTogJ+WNl+a5licsCiAgICAgIH0sIHsKICAgICAgICB0ZXh0OiAn6KW/5rmWJywKICAgICAgICB2YWx1ZTogJ+ilv+a5licsCiAgICAgIH1dLAogICAgICBmaWx0ZXJNdWx0aXBsZTogZmFsc2UsCiAgICAgIG9uRmlsdGVyOiAodmFsdWUsIHJlY29yZCkgPT4gcmVjb3JkLmFkZHJlc3MuaW5kZXhPZih2YWx1ZSkgPT09IDAsCiAgICAgIC8vIHNvcnRlcjogKGEsIGIpID0+IGEuYWRkcmVzcy5sZW5ndGggLSBiLmFkZHJlc3MubGVuZ3RoLAogICAgfV07CgogICAgY29uc3QgZGF0YVRlc3QgPSBbewogICAgICAvLyBrZXk6ICcxJywKICAgICAgbmFtZTogJ+iDoeaWjCcsCiAgICAgIGFnZTogMzIsCiAgICAgIGFkZHJlc3M6ICfljZfmuZbljLrmuZblupXlhazlm60x5Y+3JywKICAgIH0sIHsKICAgICAgLy8ga2V5OiAnMicsCiAgICAgIG5hbWU6ICfog6HlvabnpZYnLAogICAgICBhZ2U6IDQyLAogICAgICAvLyBhZGRyZXNzOiAn6KW/5rmW5Yy65rmW5bqV5YWs5ZutMTLlj7cnLAogICAgfSwgewogICAgICAvLyBrZXk6ICczJywKICAgICAgbmFtZTogJ+adjuWkp+WYtCcsCiAgICAgIGFnZTogMzIsCiAgICAgIGFkZHJlc3M6ICfljZfmuZbljLrmuZblupXlhazlm60xMjPlj7cnLAogICAgfSwgewogICAgICAvLyBrZXk6ICc0JywKICAgICAgbmFtZTogJ+adjuengOiOsuWkp+WYtOWTpScsCiAgICAgIGFnZTogMzIsCiAgICAgIGFkZHJlc3M6ICfopb/muZbljLrmuZblupXlhazlm60xMjPlj7cnLAogICAgfV07CgogICAgLy8gY29uc3QgZGF0YVRlc3QxID0KICAgIC8vIHRlc3QgZW5k</text>
+      <register name="7" type="2">
+        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfdXNlcl9kaXJlY3RvcnkgV0hFUkUgY29uc3VtZXJfbm89JzExMTExMTExJzsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDxUYWJsZQogICAgICAgICAgY29sdW1ucz17Y29sdW1uc1Rlc3R9CiAgICAgICAgICBkYXRhU291cmNlPXtkYXRhVGVzdH0KICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZVRhYmxlQ2hhbmdlfQogICAgICAgIC8+</text>
+      <register name="8" type="2">
+        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfYm9ycm93X3J1bGVfcmVzdWx0IFdIRVJFICBvcmRlcl9ubyA9JzIyMjIyMjInOwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="4">
-        <text>onChange(pagination, filters, sorter) {
-    // 点击分页、筛选、排序时触发
-    console.log('各类参数是', pagination, filters, sorter);
-  },</text>
+        <text encoding="base64">ICA8VGFibGUKICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnNUZXN0fQogICAgICAgICAgZGF0YVNvdXJjZT17ZGF0YVRlc3R9CiAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVUYWJsZUNoYW5nZX0KICAgICAgICAvPgogICAgICAgIDxUYWJsZQogICAgICAgICAgY29sdW1ucz17Y29sdW1uc1Rlc3R9IHJvd0tleT17dGhpcy5yb3dLZXl9CiAgICAgICAgICBvblJvd0NsaWNrPXt0aGlzLm9uUm93Q2xpY2t9CiAgICAgICAgICBkYXRhU291cmNlPXtkYXRhVGVzdH0KICAgICAgICAgIHJvd0NsYXNzTmFtZT17dGhpcy5yb3dDbGFzc05hbWV9CiAgICAgICAgICBwYWdpbmF0aW9uPXt0aGlzLnN0YXRlLnBhZ2luYXRpb259CiAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVUYWJsZUNoYW5nZX0KICAgICAgICAvPg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
