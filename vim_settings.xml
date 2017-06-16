@@ -11,8 +11,8 @@
         <mark key="]" line="34" column="34" />
         <mark key="." line="34" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manager/rule/service/impl/VerifyRespServiceImpl.java" timestamp="1497580543970">
-        <mark key="[" line="44" column="56" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manager/rule/service/impl/VerifyRespServiceImpl.java" timestamp="1497591167976">
+        <mark key="[" line="50" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/helper/RegisterRiskVerifyHelper.java" timestamp="1497509539056" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/main.js" timestamp="1497342260403" />
@@ -28,8 +28,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/.gitignore" timestamp="1497401810350">
         <mark key="[" line="258" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1497578965574">
-        <mark key="[" line="80" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1497591614682">
+        <mark key="[" line="97" column="22" />
+        <mark key="]" line="97" column="22" />
+        <mark key="." line="97" column="22" />
       </file>
       <file name="/ApiHandler.java" timestamp="1497457945530" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskControllerTest.java" timestamp="1497438669510">
@@ -51,7 +53,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserService.java" timestamp="1497403289513" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/common/utils/CacheUtil.java" timestamp="1497437842970" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyRespMapper.xml" timestamp="1497585930761">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyRespMapper.xml" timestamp="1497591139092">
         <mark key="[" line="165" column="41" />
         <mark key="]" line="166" column="12" />
         <mark key="^" line="166" column="12" />
@@ -153,11 +155,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/mapper/BaseMapper.java" timestamp="1497579068730" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/ServletUtils.java" timestamp="1497509914155" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1497584866460">
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="44" column="30" />
-        <mark key="." line="44" column="30" />
-        <mark key="^" line="30" column="64" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1497591655110">
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+        <mark key="^" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/ReactJS/jdoc/package.json" timestamp="1496678817544">
         <mark key="[" line="1" column="17" />
@@ -179,11 +181,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/VerifyController.java" timestamp="1497511011717" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/JsonUtil.java" timestamp="1497511305114" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manager/rule/service/VerifyRespService.java" timestamp="1497580477662">
-        <mark key="[" line="18" column="73" />
-        <mark key="]" line="19" column="47" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manager/rule/service/VerifyRespService.java" timestamp="1497591127435">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="26" />
         <mark key="^" line="19" column="47" />
-        <mark key="." line="19" column="47" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/web/controller/BaseController.java" timestamp="1497432795537" />
       <file name="webpack:///./react/modules/RiskApproval/Components/List.js" timestamp="1497506394904">
@@ -301,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>end</text>
+        <text>maxId</text>
       </register>
       <register name="-" type="4">
-        <text>end</text>
+        <text>maxId</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
