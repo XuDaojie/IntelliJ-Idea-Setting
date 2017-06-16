@@ -6,6 +6,11 @@
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/tool/codeGenerator/Create.java" timestamp="1497576695865">
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="34" />
+        <mark key="." line="34" column="34" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/helper/RegisterRiskVerifyHelper.java" timestamp="1497509539056" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/main.js" timestamp="1497342260403" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserServiceImpl.java" timestamp="1497407083115" />
@@ -26,7 +31,9 @@
         <mark key="^" line="0" column="58" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1497507218025" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1497577814119">
+        <mark key="[" line="80" column="31" />
+      </file>
       <file name="/ApiHandler.java" timestamp="1497457945530" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskControllerTest.java" timestamp="1497438669510">
         <mark key="'" line="57" column="36" />
@@ -76,6 +83,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/ShangShuThread.java" timestamp="1497412310184" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/rsa/SignUtil.java" timestamp="1497353939191" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/tool/codeGenerator/MybatisGenerate.java" timestamp="1497576402499" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/quota/QuotaBaseConfigMapper.xml" timestamp="1496973176915">
         <mark key="[" line="149" column="55" />
       </file>
@@ -93,7 +101,7 @@
       <file name="/JavaScript Console" timestamp="1497506332425">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/server.properties" timestamp="1497410454338" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/server.properties" timestamp="1497575861646" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/model/VerifyModel.java" timestamp="1497512252084">
         <mark key="[" line="58" column="25" />
       </file>
@@ -125,10 +133,11 @@
         <mark key="[" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/ServletUtils.java" timestamp="1497509914155" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1497520658032">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1497577931977">
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="31" column="64" />
+        <mark key="." line="31" column="64" />
+        <mark key="^" line="31" column="64" />
       </file>
       <file name="$USER_HOME$/ReactJS/jdoc/package.json" timestamp="1496678817544">
         <mark key="[" line="1" column="17" />
@@ -151,7 +160,7 @@
       <file name="webpack:///./react/modules/RiskApproval/Components/List.js" timestamp="1497506394904">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1497511154576">
+      <file name="/fragment.java" timestamp="1497576362383">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -263,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>Rule</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>Rule</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
