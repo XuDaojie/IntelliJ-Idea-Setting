@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value=".git*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +16,15 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>.</mask>
+      <mask>.g</mask>
+      <mask>.gi</mask>
+      <mask>.git</mask>
+      <mask>.git*</mask>
     </recentFileMasks>
   </component>
 </application>
