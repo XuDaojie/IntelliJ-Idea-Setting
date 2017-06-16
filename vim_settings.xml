@@ -19,11 +19,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserServiceImpl.java" timestamp="1497407083115" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/HttpUtil.java" timestamp="1497432546089" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/base/ControllerBaseSpringTester.java" timestamp="1497434629264" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/RiskApproval/Components/List.js" timestamp="1497602383100">
-        <mark key="[" line="379" column="5" />
-        <mark key="]" line="379" column="5" />
-        <mark key="." line="379" column="5" />
-        <mark key="^" line="364" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/RiskApproval/Components/List.js" timestamp="1497604024377">
+        <mark key="[" line="372" column="17" />
+        <mark key="]" line="372" column="17" />
+        <mark key="." line="372" column="17" />
+        <mark key="^" line="385" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/.gitignore" timestamp="1497401810350">
         <mark key="[" line="258" column="5" />
@@ -209,7 +209,7 @@
       <file name="webpack:///./react/modules/RiskApproval/Components/List.js" timestamp="1497506394904">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1497602936642">
+      <file name="/fragment.java" timestamp="1497604494510">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -321,10 +321,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCB7CiAgICAgIHRpdGxlOiAn5a6h5om5JywKICAgICAgZGF0YUluZGV4OiAiIiwKICAgICAgcmVuZGVyOiAodGV4dCwgcmVjb3JkKSA9PiB7CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxhIGhyZWY9ImphdmFzY3JpcHQ6OyIgb25DbGljaz17dGhpcy5vbkNoZWNrQ2xpY2suYmluZCh0aGlzLCByZWNvcmQsIDEwKX0+6YCa6L+HPC9hPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImFudC1kaXZpZGVyIi8+CiAgICAgICAgICAgIDxhIGhyZWY9ImphdmFzY3JpcHQ6OyIgb25DbGljaz17dGhpcy5vbkNoZWNrQ2xpY2suYmluZCh0aGlzLCByZWNvcmQsIDMwKX0+5LiN6YCa6L+HPC9hPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKQogICAgICB9CiAgICB9</text>
+        <text>style={{fontSize: 8}}</text>
       </register>
       <register name="-" type="4">
-        <text>push</text>
+        <text>style={{fontSize: 8}}</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
