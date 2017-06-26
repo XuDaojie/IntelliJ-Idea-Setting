@@ -24,10 +24,11 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="383" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498444848907">
-        <mark key="[" line="173" column="59" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498447488701">
+        <mark key="[" line="174" column="63" />
+        <mark key="]" line="182" column="49" />
+        <mark key="." line="182" column="49" />
+        <mark key="^" line="182" column="49" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/RiskCheck/Components/List.js" timestamp="1498099879046">
         <mark key="[" line="265" column="19" />
@@ -54,6 +55,9 @@
         <mark key="^" line="35" column="101" />
         <mark key="." line="35" column="65" />
       </file>
+      <file name="/dummy.sql" timestamp="1498446282483">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/service/VerifyService.java" timestamp="1498199920261">
         <mark key="[" line="93" column="34" />
         <mark key="]" line="87" column="9" />
@@ -78,6 +82,7 @@
         <mark key="^" line="25" column="20" />
         <mark key="." line="19" column="12" />
       </file>
+      <file name="dbtable:/2d5181b/cf933699-19f8-4b4a-b2e2-94592afa1348/arc_t.arc_dsdata_shangshu" timestamp="1498448581582" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/mapper/VerifyMapper.java" timestamp="1498199897878">
         <mark key="[" line="82" column="31" />
         <mark key="]" line="82" column="4" />
@@ -112,18 +117,18 @@
         <mark key="." line="307" column="47" />
         <mark key="^" line="307" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1498444422627">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1498448381316">
         <mark key="[" line="446" column="12" />
         <mark key="]" line="424" column="0" />
         <mark key="." line="424" column="0" />
         <mark key="^" line="424" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1498444300405">
+      <file name="/fragment.java" timestamp="1498448440548">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="7" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiTestController.java" timestamp="1498442685954">
         <mark key="[" line="138" column="46" />
@@ -232,11 +237,11 @@
       <jump line="41" column="36" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUICosb3JkZXJfbm8sbm90aWZ5X3BhcmFtcyBGUk9NIGFyY19zaGFuZ3NodV9yZXFfbG9nOwoKU0VMRUNUIG9yZGVyX25vLG5vdGlmeV9wYXJhbXMgRlJPTSBhcmNfc2hhbmdzaHVfcmVxX2xvZwpXSEVSRSBvcmRlcl9ubyA9ICcwMW9wZXI5MDQzMTQ5ODM5OTAyMTc4NCc7CgpTRUxFQ1QgKiBGUk9NIGFyY191c2VyX2RpcmVjdG9yeTsK</text>
+      <register name="&quot;" type="4">
+        <text>voicesList</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>voicesList</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
