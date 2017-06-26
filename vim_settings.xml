@@ -7,18 +7,18 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/HttpUtil.java" timestamp="1498442580074" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1498462005135">
-        <mark key="[" line="59" column="8" />
-        <mark key="]" line="58" column="11" />
-        <mark key="." line="58" column="11" />
-        <mark key="^" line="58" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1498467969317">
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="53" column="11" />
+        <mark key="." line="53" column="11" />
+        <mark key="^" line="53" column="11" />
       </file>
       <file name="/VerifyMapper.xml" timestamp="1498460062418" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498463947673">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
-        <mark key="^" line="192" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498468120807">
+        <mark key="[" line="182" column="31" />
+        <mark key="]" line="182" column="31" />
+        <mark key="." line="182" column="31" />
+        <mark key="^" line="182" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/service/DsdataShangshuService.java" timestamp="1498460760992">
         <mark key="[" line="33" column="64" />
@@ -34,16 +34,17 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/out/production/framework-manage/config/mappers/rule/VerifyMapper.xml" timestamp="1498461230142" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/model/UserDirectoryModel.java" timestamp="1498440310645" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/model/ShangshuCountModel.java" timestamp="1498466986204" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiUserControllerTest.java" timestamp="1498439854394">
         <mark key="[" line="35" column="65" />
         <mark key="]" line="35" column="65" />
         <mark key="^" line="35" column="101" />
         <mark key="." line="35" column="65" />
       </file>
-      <file name="/dummy.sql" timestamp="1498446282483">
+      <file name="/dummy.sql" timestamp="1498468882518">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498461783379">
+      <file name="/Dummy.txt" timestamp="1498464879926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -72,11 +73,8 @@
         <mark key="]" line="128" column="15" />
         <mark key="." line="128" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1498461448577">
-        <mark key="[" line="645" column="11" />
-        <mark key="]" line="439" column="7" />
-        <mark key="." line="439" column="7" />
-        <mark key="^" line="439" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1498468690804">
+        <mark key="^" line="646" column="22" />
       </file>
       <file name="/fragment.java" timestamp="1498448440548">
         <mark key="'" line="0" column="0" />
@@ -193,10 +191,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>shuli_ope</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>shuli_ope</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
