@@ -7,14 +7,14 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/HttpUtil.java" timestamp="1498442580074" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1498467969317">
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="53" column="11" />
-        <mark key="." line="53" column="11" />
-        <mark key="^" line="53" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1498472122606">
+        <mark key="[" line="175" column="13" />
+        <mark key="]" line="218" column="3" />
+        <mark key="." line="218" column="3" />
+        <mark key="^" line="218" column="3" />
       </file>
       <file name="/VerifyMapper.xml" timestamp="1498460062418" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498468120807">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498471630942">
         <mark key="[" line="182" column="31" />
         <mark key="]" line="182" column="31" />
         <mark key="." line="182" column="31" />
@@ -73,10 +73,13 @@
         <mark key="]" line="128" column="15" />
         <mark key="." line="128" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1498468690804">
-        <mark key="^" line="646" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1498472106150">
+        <mark key="[" line="679" column="24" />
+        <mark key="]" line="679" column="23" />
+        <mark key="^" line="679" column="23" />
+        <mark key="." line="679" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1498448440548">
+      <file name="/fragment.java" timestamp="1498471688366">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -191,10 +194,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shuli_ope</text>
+        <text>callsListJsonArray.size()</text>
       </register>
       <register name="-" type="4">
-        <text>shuli_ope</text>
+        <text>callsListJsonArray.size()</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
