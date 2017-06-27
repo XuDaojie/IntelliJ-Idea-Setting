@@ -14,27 +14,27 @@
         <mark key="." line="172" column="0" />
       </file>
       <file name="/VerifyMapper.xml" timestamp="1498460062418" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498561557579">
-        <mark key="[" line="214" column="34" />
-        <mark key="]" line="211" column="22" />
-        <mark key="." line="211" column="22" />
-        <mark key="^" line="211" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498562870722">
+        <mark key="[" line="211" column="202" />
+        <mark key="]" line="215" column="35" />
+        <mark key="." line="215" column="35" />
+        <mark key="^" line="215" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserWhiteServiceImpl.java" timestamp="1498549294227" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498543457649" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/model/ShangshuCountModel.java" timestamp="1498466986204" />
-      <file name="dbtable:/2d5181b/cf933699-19f8-4b4a-b2e2-94592afa1348/arc_t.arc_dsdata_shangshu" timestamp="1498545593702" />
+      <file name="dbtable:/2d5181b/cf933699-19f8-4b4a-b2e2-94592afa1348/arc_t.arc_dsdata_shangshu" timestamp="1498562563933" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/mapper/DsdataShangshuMapper.java" timestamp="1498560513519">
         <mark key="[" line="35" column="49" />
         <mark key="]" line="35" column="9" />
         <mark key="." line="35" column="9" />
         <mark key="^" line="41" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/DsdataShangshuMapper.xml" timestamp="1498560803891">
-        <mark key="[" line="1484" column="22" />
-        <mark key="]" line="1483" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/DsdataShangshuMapper.xml" timestamp="1498562848059">
+        <mark key="[" line="1485" column="13" />
+        <mark key="]" line="1487" column="0" />
         <mark key="^" line="1483" column="21" />
-        <mark key="." line="1483" column="21" />
+        <mark key="." line="1487" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/service/impl/VerifyServiceImpl.java" timestamp="1498199992438">
         <mark key="[" line="128" column="15" />
@@ -105,11 +105,11 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/CallMathAddressThread.java" timestamp="1498549513909">
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="32" column="34" />
-        <mark key="." line="32" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/CallMathAddressThread.java" timestamp="1498562462510">
+        <mark key="[" line="141" column="62" />
+        <mark key="]" line="196" column="0" />
         <mark key="^" line="32" column="34" />
+        <mark key="." line="196" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -215,8 +215,8 @@
       <jump line="41" column="36" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>INTEGER</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>INTEGER</text>
@@ -231,19 +231,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0RGF0ZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGVuZERhdGUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBkb3VibGUgZHVyYXRpb24gPSAoZW5kRGF0ZSAtIHN0YXJ0RGF0ZSkgLyAxMDAwLjA7CiAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKHN0YXJ0RGF0ZSArICIgfiAiICsgZW5kRGF0ZSArICIg6YCa6K6v5b2V6Kej5p6Q5oC76ICX5pe2OiIgKyBkdXJhdGlvbiArICLnp5IiKTsK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGVuZERhdGUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBkb3VibGUgZHVyYXRpb24gPSAoZW5kRGF0ZSAtIHN0YXJ0RGF0ZSkgLyAxMDAwLjA7CiAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKHN0YXJ0RGF0ZSArICIgfiAiICsgZW5kRGF0ZSArICIg6YCa6K6v5b2V6Kej5p6Q5oC76ICX5pe2OiIgKyBkdXJhdGlvbiArICLnp5IiKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0RGF0ZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaWRUaGFuID09IG51bGwpIHsKICAgICAgICAgICAgaWRUaGFuID0gMEw7CiAgICAgICAgfQogICAgICAgIGlkVGhhbiArPSAxTDsKICAgICAgICBtYXRjaFNpemUgKz0gMUw7CiAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCLlrprml7bku7vliqE6IiArIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuZ2V0SWQoKSArICIvIiArIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuZ2V0TmFtZSgpCiAgICAgICAgICAgICAgICArICIvaWRUaGFuOiIgKyBpZFRoYW4gKyAiL21hdGNoU2l6ZToiICsgbWF0Y2hTaXplKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIuW8gOWni+WMuemFjSIpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -252,16 +252,16 @@
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0RGF0ZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IEBSZXNvdXJjZQogICAgcHJpdmF0ZSBVc2VyQWRkcmVzc0xpc3RNYXBwZXIgdXNlckFkZHJlc3NMaXN0TWFwcGVyOwogICAgQFJlc291cmNlCiAgICBwcml2YXRlIFVzZXJEaXJlY3RvcnlNYXBwZXIgdXNlckRpcmVjdG9yeU1hcHBlcjsKICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBVc2VyTWFwcGVyIHVzZXJNYXBwZXI7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIGVuZERhdGUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBkb3VibGUgZHVyYXRpb24gPSAoZW5kRGF0ZSAtIHN0YXJ0RGF0ZSkgLyAxMDAwLjA7CiAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKHN0YXJ0RGF0ZSArICIgfiAiICsgZW5kRGF0ZSArICIg6YCa6K6v5b2V6Kej5p6Q5oC76ICX5pe2OiIgKyBkdXJhdGlvbiArICLnp5IiKTsK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDYWxsTWF0aEFkZHJlc3NUaHJlYWQoU3RyaW5nIG9yZGVyTm8sIExpc3Q8VXNlckFkZHJlc3NMaXN0PiBhZGRyZXNzTGlzdHMpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
