@@ -20,7 +20,7 @@
         <mark key="^" line="230" column="3" />
       </file>
       <file name="/VerifyMapper.xml" timestamp="1498460062418" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498527129875">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498531708989">
         <mark key="[" line="182" column="31" />
         <mark key="]" line="182" column="31" />
         <mark key="." line="182" column="31" />
@@ -62,11 +62,17 @@
         <mark key="." line="33" column="9" />
         <mark key="^" line="39" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/DsdataShangshuMapper.xml" timestamp="1498528682676">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/DsdataShangshuMapper.xml" timestamp="1498531489347">
         <mark key="[" line="1474" column="58" />
-        <mark key="]" line="367" column="30" />
-        <mark key="^" line="367" column="30" />
-        <mark key="." line="367" column="30" />
+        <mark key="]" line="875" column="57" />
+        <mark key="^" line="875" column="57" />
+        <mark key="." line="875" column="57" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/controller/ShangShuController.java" timestamp="1498531082443">
+        <mark key="[" line="237" column="8" />
+        <mark key="]" line="96" column="68" />
+        <mark key="^" line="96" column="68" />
+        <mark key="." line="96" column="68" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1498131187089">
         <mark key="[" line="30" column="49" />
@@ -78,13 +84,13 @@
         <mark key="]" line="128" column="15" />
         <mark key="." line="128" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1498472106150">
-        <mark key="[" line="679" column="24" />
-        <mark key="]" line="679" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1498531555091">
+        <mark key="[" line="647" column="27" />
+        <mark key="]" line="647" column="27" />
         <mark key="^" line="679" column="23" />
-        <mark key="." line="679" column="23" />
+        <mark key="." line="647" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1498471688366">
+      <file name="/fragment.java" timestamp="1498531616499">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -199,10 +205,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0Pg==</text>
+        <text>voicesList</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0Pg==</text>
+        <text>voicesList</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
