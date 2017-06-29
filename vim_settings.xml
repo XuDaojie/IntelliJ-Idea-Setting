@@ -7,10 +7,10 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/rsa/SignUtil.java" timestamp="1498640938224" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1498720820763">
-        <mark key="[" line="54" column="36" />
-        <mark key="]" line="54" column="36" />
-        <mark key="." line="54" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1498723234068">
+        <mark key="[" line="53" column="15" />
+        <mark key="]" line="53" column="15" />
+        <mark key="." line="53" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/enums/EventEnum.java" timestamp="1498633193554" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/TppBusinessMapper.xml" timestamp="1498637685190">
@@ -53,7 +53,7 @@
       <file name="/dummy.sql" timestamp="1498546030176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498706780041">
+      <file name="/Dummy.txt" timestamp="1498723273160">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -65,6 +65,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1498722338759" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiRepaymentController.java" timestamp="1498630160623" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleEngineResultController.java" timestamp="1498630769217" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1498719100229">
@@ -97,7 +98,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiTestController.java" timestamp="1498629916314">
         <mark key="[" line="138" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1498718191228">
+      <file name="/fragment.java" timestamp="1498722989308">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -212,10 +213,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2012</text>
+        <text>fixedDelay</text>
       </register>
       <register name="-" type="4">
-        <text>2012</text>
+        <text>fixedDelay</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -223,8 +224,10 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>else {
+
+            }</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -233,31 +236,31 @@
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNhbGxMb2dNYXRjaEFkZHJlc3Mob3JkZXJObywgYWRkcmVzc0xpc3RzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2lnbkRhdGEK</text>
+        <text encoding="base64">Ly8gICAgICAgIGNhbGxMb2dNYXRjaEFkZHJlc3Mob3JkZXJObywgYWRkcmVzc0xpc3RzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICB0aGlzLmNuYW1lID0gY25hbWU7CiAgICB9Cg==</text>
+        <text encoding="base64">c2lnbkRhdGEK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHB1YmxpYyBTdHJpbmcgZ2V0Q25hbWUoKSB7CiAgICAgICAgcmV0dXJuIGNuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENuYW1lKFN0cmluZyBjbmFtZSk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgICB0aGlzLmNuYW1lID0gY25hbWU7CiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHB1YmxpYyBTdHJpbmcgZ2V0Q25hbWUoKSB7CiAgICAgICAgcmV0dXJuIGNuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENuYW1lKFN0cmluZyBjbmFtZSk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBTaGFuZ3NodVJlcUxvZ01hcHBlciBzaGFuZ3NodVJlcUxvZ01hcHBlcjsKICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBEc2RhdGFTaGFuZ3NodU1hcHBlciBkc2RhdGFTaGFuZ3NodU1hcHBlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FsYWRpbmdfYW5kCiAgICAgICAgCiAgICAgICAgCi8vICAgICAgICBTdHJpbmdbXSByZXF1ZXN0UGFyYW1OYW1lcyA9IHsicmVhbE5hbWUiLCAicGhvbmUiLCAiaWRObyIsICJFbWFpbCJ9OwovLyAgICAgICAgQXJyYXlzLnNvcnQocmVxdWVzdFBhcmFtTmFtZXMpOwovLyAgICAgICAgU3RyaW5nIHNpZ25JbmZvID0gU2lnblV0aWwuc2lnblJlcShtb2RlbCwgR2xvYmFsLmdldFZhbHVlKFN5c3RlbUNvbnN0YW50LkFSQ19LRVlfUFJJKSwgcmVxdWVzdFBhcmFtTmFtZXMpOwoKLy8JCW1vZGVsLnNldEV2ZW50KCJVU0VSIik7Ci8vCQltb2RlbC5zZXRFdmVudCgiTElOS01BTiIpOwovLwkJbW9kZWwuc2V0RXZlbnQoIkRJUkVDVE9SWSIpOwo=</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBTaGFuZ3NodVJlcUxvZ01hcHBlciBzaGFuZ3NodVJlcUxvZ01hcHBlcjsKICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBEc2RhdGFTaGFuZ3NodU1hcHBlciBkc2RhdGFTaGFuZ3NodU1hcHBlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
