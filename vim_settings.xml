@@ -11,8 +11,8 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1498724601213" />
       <file name="/ApiReportController.java" timestamp="1498730116777" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498729552167">
-        <mark key="[" line="229" column="48" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498735391254">
+        <mark key="[" line="231" column="73" />
         <mark key="]" line="226" column="38" />
         <mark key="." line="226" column="38" />
         <mark key="^" line="226" column="38" />
@@ -30,7 +30,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyRespMapper.xml" timestamp="1498730581027" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyRespMapper.xml" timestamp="1498735063001">
+        <mark key="[" line="197" column="12" />
+        <mark key="]" line="197" column="12" />
+        <mark key="." line="197" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/shiro/scheduler/QuartzSessionValidationJob.java" timestamp="1498723697813" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiRepaymentController.java" timestamp="1498630160623" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/List.js" timestamp="1498726569374">
@@ -60,19 +64,19 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1498636967404">
         <mark key="[" line="10" column="6" />
       </file>
-      <file name="/dummy.sql" timestamp="1498726949882">
+      <file name="/dummy.sql" timestamp="1498734286602">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498729446844">
+      <file name="/Dummy.txt" timestamp="1498734905769">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskController.java" timestamp="1498715857597" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1498729156883" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1498734904185" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleEngineResultController.java" timestamp="1498630769217" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1498719100229">
-        <mark key="[" line="109" column="69" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1498734732346">
+        <mark key="[" line="111" column="20" />
         <mark key="]" line="121" column="20" />
         <mark key="^" line="121" column="12" />
         <mark key="." line="121" column="20" />
@@ -90,7 +94,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/SeachForm.js" timestamp="1498726650240">
         <mark key="[" line="56" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1498722989308">
+      <file name="/fragment.java" timestamp="1498735478863">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -205,7 +209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>本次匹配&quot; + size + &quot;条</text>
+        <text>result=#{item.result,jdbcType=VARCHAR}
+            amount=#
+            consumerNo
+            orderNo</text>
       </register>
       <register name="-" type="4">
         <text>本次匹配&quot; + size + &quot;条</text>
@@ -217,12 +224,15 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text>result=#{item.result,jdbcType=VARCHAR}
+            amount=#
+            consumerNo
+            orderNo</text>
+      </register>
+      <register name="2" type="4">
         <text>else {
 
             }</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
@@ -231,28 +241,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNhbGxMb2dNYXRjaEFkZHJlc3Mob3JkZXJObywgYWRkcmVzc0xpc3RzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2lnbkRhdGEK</text>
+        <text encoding="base64">Ly8gICAgICAgIGNhbGxMb2dNYXRjaEFkZHJlc3Mob3JkZXJObywgYWRkcmVzc0xpc3RzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICB0aGlzLmNuYW1lID0gY25hbWU7CiAgICB9Cg==</text>
+        <text encoding="base64">c2lnbkRhdGEK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHB1YmxpYyBTdHJpbmcgZ2V0Q25hbWUoKSB7CiAgICAgICAgcmV0dXJuIGNuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENuYW1lKFN0cmluZyBjbmFtZSk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgICB0aGlzLmNuYW1lID0gY25hbWU7CiAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHB1YmxpYyBTdHJpbmcgZ2V0Q25hbWUoKSB7CiAgICAgICAgcmV0dXJuIGNuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENuYW1lKFN0cmluZyBjbmFtZSk=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBTaGFuZ3NodVJlcUxvZ01hcHBlciBzaGFuZ3NodVJlcUxvZ01hcHBlcjsKICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBEc2RhdGFTaGFuZ3NodU1hcHBlciBkc2RhdGFTaGFuZ3NodU1hcHBlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
