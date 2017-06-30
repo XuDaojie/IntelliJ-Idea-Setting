@@ -16,10 +16,15 @@
         <mark key="[" line="4" column="34" />
       </file>
       <file name="/ApiReportController.java" timestamp="1498730116777" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498806318733">
-        <mark key="[" line="214" column="9" />
-        <mark key="]" line="214" column="8" />
-        <mark key="." line="214" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/service/impl/RuleEngineConfigServiceImpl.java" timestamp="1498811074533">
+        <mark key="[" line="173" column="59" />
+        <mark key="]" line="173" column="59" />
+        <mark key="." line="173" column="59" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1498808749043">
+        <mark key="[" line="281" column="45" />
+        <mark key="]" line="289" column="0" />
+        <mark key="." line="289" column="0" />
         <mark key="^" line="214" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserQuotaController.java" timestamp="1498804511236">
@@ -30,6 +35,8 @@
         <mark key="]" line="89" column="23" />
         <mark key="." line="89" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/reportResources/inset.js" timestamp="1498808235554" />
+      <file name="dbtable:/2d5181b/cf933699-19f8-4b4a-b2e2-94592afa1348/arc_t.arc_dsdata_shangshu" timestamp="1498809070780" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ThirdPartyInquiry/Components/InterfaceDetail.js" timestamp="1498637653719">
         <mark key="[" line="148" column="16" />
         <mark key="]" line="7" column="0" />
@@ -43,6 +50,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/shiro/scheduler/QuartzSessionValidationJob.java" timestamp="1498723697813" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiRepaymentController.java" timestamp="1498630160623" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/mapper/DsdataShangshuMapper.java" timestamp="1498560513519">
+        <mark key="[" line="35" column="49" />
+        <mark key="]" line="35" column="9" />
+        <mark key="." line="35" column="9" />
+        <mark key="^" line="41" column="56" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/DsdataShangshuMapper.xml" timestamp="1498805092962">
         <mark key="[" line="1482" column="85" />
         <mark key="]" line="1482" column="0" />
@@ -61,6 +74,12 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiTestController.java" timestamp="1498629916314">
         <mark key="[" line="138" column="46" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/ShangShuThread.java" timestamp="1498548946101">
+        <mark key="[" line="61" column="54" />
+        <mark key="]" line="168" column="50" />
+        <mark key="^" line="168" column="50" />
+        <mark key="." line="168" column="50" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/rsa/SignUtil.java" timestamp="1498640938224" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/enums/EventEnum.java" timestamp="1498633193554" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/TppBusinessMapper.xml" timestamp="1498637685190">
@@ -74,13 +93,20 @@
         <mark key="[" line="33" column="61" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/RulesMatchManage/Components/List.js" timestamp="1498630743475" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleEngineConfigController.java" timestamp="1498810570664" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1498636967404">
         <mark key="[" line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiUserControllerTest.java" timestamp="1498439854394">
+        <mark key="[" line="35" column="65" />
+        <mark key="]" line="35" column="65" />
+        <mark key="^" line="35" column="101" />
+        <mark key="." line="35" column="65" />
       </file>
       <file name="/dummy.sql" timestamp="1498792600646">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498805030990">
+      <file name="/Dummy.txt" timestamp="1498810557119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -93,6 +119,12 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleEngineResultController.java" timestamp="1498630769217" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/controller/ShangShuController.java" timestamp="1498548323727">
+        <mark key="[" line="243" column="98" />
+        <mark key="]" line="96" column="68" />
+        <mark key="^" line="96" column="68" />
+        <mark key="." line="96" column="68" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1498734732346">
         <mark key="[" line="111" column="20" />
         <mark key="]" line="121" column="20" />
@@ -112,15 +144,10 @@
         <mark key="[" line="175" column="47" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/controller/TppBusinessController.java" timestamp="1498637429194" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/SeachForm.js" timestamp="1498726650240">
-        <mark key="[" line="56" column="46" />
-      </file>
-      <file name="/fragment.java" timestamp="1498735478863">
-        <mark key="'" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1498810382475">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-        <mark key="^" line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -227,10 +254,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>arc_dsdata_shangshu</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>arc_dsdata_shangshu</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -238,7 +265,16 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCAoKEFycmF5TGlzdCkgbGlzdCkuc2l6ZTsgaSsrKSB7ICAgICAoKExpbmtlZE1hcDxTdHJpbmcsIFN0cmluZz4pbGlzdC5nZXQoaSkpIGluIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfc2hhbmdzaHVfcmVxX2xvZzsKU0VMRUNUICogRlJPTSBhcmNfZHNkYXRhX3NoYW5nc2h1OwoKU0VMRUNUIGRzZGF0YS5pZCxkc2RhdGEub3JkZXJfbm8sZHNkYXRhLmNvbnN1bWVyX25vCkZST00gYXJjX2RzZGF0YV9zaGFuZ3NodSBkc2RhdGEKV0hFUkUgZHNkYXRhLmNhbGxfbWF0Y2hfbnVtX3RoaXJ0eSA9IDAKICAgICAgQU5EIGRzZGF0YS5jYWxsX21hdGNoX251bV9uaW5ldHkgPSAwCiAgICAgIEFORCBkc2RhdGEuY2FsbF9tYXRjaF9udW1fb25lX2VpZ2h0eSA9IDA7CgpTRUxFQ1QgKiBGUk9NIGFyY19zaGFuZ3NodV9yZXFfbG9nIFdIRVJFIG9yZGVyX25vID0gJzAxb3BlcjQ0NDQxNDk3NDA4NTIzMDg3JzsKClNFTEVDVCAqIEZST00gYXJjX2RzZGF0YV9zaGFuZ3NodSBXSEVSRSBvcmRlcl9ubyA9ICcwMW9wZXI0NDQ0MTQ5NzQwODUyMzA4Nyc7CgpTRUxFQ1QgKiBGUk9NIGFyY191c2VyX2RpcmVjdG9yeSBXSEVSRSBjb25zdW1lcl9ubyA9ICc3NDIyOSc7Cg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>SELECT * FROM arc_verify WHERE order_no = '01regi78701498804360975';
 SELECT * FROM arc_verify_resp WHERE order_no = '01regi78701498804360975';
 UPDATE arc_verify SET
@@ -246,43 +282,34 @@ UPDATE arc_verify SET
 WHERE id = '1904';
 UPDATE arc_verify_resp SET amount = '0' WHERE verify_id = 1904;</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAkK</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgQFNjaGVkdWxlZChjcm9uID0gIjAgKi8xICogKiAqID8iKSAvLyDmr48x5YiG6ZKf5omn6KGM5LiA5qyhCiAgICBAU2NoZWR1bGVkKGNyb24gPSAiMCAxNSAyICogKiA/IikgLy8g5q+P5aSp5pep5LiKMu+8mjE16Kem5Y+RCi8vICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwIDQxIDE2ICogKiA/IikgLy8g5q+P5aSpMTbvvJo0MeinpuWPkQogICAgcHVibGljIHZvaWQgcmVzdG9yZVZlcmlmeSgpIHsKCiAgICAgICAgbG9nZ2VyLmluZm8oIuS6uuWuoXZlcmlmeS5yZXNwX2RhdGHov5jljp8gc3RhcnQgLi4uIik7CiAgICAgICAgU3RyaW5nIHF1YXJ0eklwID0gSXBVdGlsLmdldExvY2FsSVAoKTsKICAgICAgICBsb2dnZXIuaW5mbygi5pys5py6SVAg5Li6IiArIHF1YXJ0eklwKTsKICAgICAgICBTdHJpbmcgbG9jYWxob3N0SXAgPSBHbG9iYWwuZ2V0VmFsdWUoInF1YXJ0el9sb2NhbGhvc3QiKTsKCiAgICAgICAgaWYgKCFsb2NhbGhvc3RJcC5lcXVhbHMocXVhcnR6SXApKSB7Ly8g5Yik5pat5piv5ZCm5pivIOacrOacuuacjeWKoeWZqAogICAgICAgICAgICBsb2dnZXIuaW5mbygi5Lq65a6hdmVyaWZ5LnJlc3BfZGF0Yei/mOWOn++8jElQ5LiN56ymLi4uIik7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIExpc3Q8VmVyaWZ5PiB2ZXJpZnlMaXN0ID0gdmVyaWZ5U2VydmljZS5nZXRXYXJuRGF0YSgpOwogICAgICAgIGlmICh2ZXJpZnlMaXN0LnNpemUoKSA+IDApIHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuS6uuWuoXZlcmlmeS5yZXNwX2RhdGHov5jljp8g5YeG5aSH5pu05pawIiArIHZlcmlmeUxpc3Quc2l6ZSgpICsgIuadoeaVsOaNriAuLi4iKTsKICAgICAgICAgICAgZm9yIChWZXJpZnkgdmVyaWZ5IDogdmVyaWZ5TGlzdCkgewogICAgICAgICAgICAgICAgU3RyaW5nIHJlc3BEYXRhU3RyID0gdmVyaWZ5LmdldFJlc3BEYXRhKCk7CiAgICAgICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWwuaXNCbGFuayhyZXNwRGF0YVN0cikpIHsKICAgICAgICAgICAgICAgICAgICBWZXJpZnlSZXNwIHJlc3BEYXRhID0gSlNPTi5wYXJzZU9iamVjdChyZXNwRGF0YVN0ciwgVmVyaWZ5UmVzcC5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgcmVzcERhdGEuc2V0UmVzdWx0KCIyMCIpOwogICAgICAgICAgICAgICAgICAgIHZlcmlmeS5zZXRSZXNwRGF0YShKU09OLnRvSlNPTlN0cmluZyhyZXNwRGF0YSkpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygi5Lq65a6hdmVyaWZ5LnJlc3BfZGF0Yei/mOWOnyBpZD0iICsgdmVyaWZ5LmdldElkKCkgKyAicmVzcF9kYXRh5Li656m6Iik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdmVyaWZ5U2VydmljZS5iYXRjaFJlc3RvcmVXYXJuKHZlcmlmeUxpc3QpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLkurrlrqF2ZXJpZnkucmVzcF9kYXRh6L+Y5Y6fIOaVsOaNruato+W4uCAuLi4iKTsKICAgICAgICB9CgogICAgICAgIGxvZ2dlci5pbmZvKCLkurrlrqF2ZXJpZnkucmVzcF9kYXRh6L+Y5Y6fICBlbmQgLi4uIik7CiAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">MDFvcGVyMTgyNDE0OTgzMTgxMzUwNjknOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>result=#{item.result,jdbcType=VARCHAR}
             amount=#
             consumerNo
             orderNo</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>else {
 
             }</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNhbGxMb2dNYXRjaEFkZHJlc3Mob3JkZXJObywgYWRkcmVzc0xpc3RzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
