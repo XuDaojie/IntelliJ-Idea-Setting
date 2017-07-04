@@ -63,11 +63,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/List.js" timestamp="1498726569374">
         <mark key="[" line="241" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1499138917031">
-        <mark key="[" line="381" column="0" />
-        <mark key="]" line="74" column="31" />
-        <mark key="^" line="74" column="31" />
-        <mark key="." line="74" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1499148709938">
+        <mark key="[" line="402" column="48" />
+        <mark key="]" line="415" column="0" />
+        <mark key="^" line="415" column="0" />
+        <mark key="." line="415" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiTestController.java" timestamp="1498629916314">
         <mark key="[" line="138" column="46" />
@@ -251,8 +251,8 @@
       <jump line="41" column="36" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/test/java/com/rongdu/arc/modules/api/controller/ApiRegisterAndRiskControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWwuaXNOdW1iZXIocGhvbmVTdHIpKSB7Ci8vICAgICAgICAgICAgICAgIGlzQWRkID0gZmFsc2U7Ci8vICAgICAgICAgICAgICAgIGJyZWFrOwovLyAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -264,21 +264,24 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWwuaXNOdW1iZXIocGhvbmVTdHIpKSB7Ci8vICAgICAgICAgICAgICAgIGlzQWRkID0gZmFsc2U7Ci8vICAgICAgICAgICAgICAgIGJyZWFrOwovLyAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">5L+u5aSNdmVyaWZ554q25oCBMDDkv67mlLnml7bvvIzmnKrlkIzmraVvcmRlcl9ub+etieS/oeaBry4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCAoKEFycmF5TGlzdCkgbGlzdCkuc2l6ZTsgaSsrKSB7ICAgICAoKExpbmtlZE1hcDxTdHJpbmcsIFN0cmluZz4pbGlzdC5nZXQoaSkpIGluIH0K</text>
+        <text encoding="base64">5L+u5aSNdmVyaWZ554q25oCBMDDkv67mlLnml7bvvIzmnKrlkIzmraVvcmRlcl9ub+etieS/oeaBry4K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCAoKEFycmF5TGlzdCkgbGlzdCkuc2l6ZTsgaSsrKSB7ICAgICAoKExpbmtlZE1hcDxTdHJpbmcsIFN0cmluZz4pbGlzdC5nZXQoaSkpIGluIH0K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfc2hhbmdzaHVfcmVxX2xvZzsKU0VMRUNUICogRlJPTSBhcmNfZHNkYXRhX3NoYW5nc2h1OwoKU0VMRUNUIGRzZGF0YS5pZCxkc2RhdGEub3JkZXJfbm8sZHNkYXRhLmNvbnN1bWVyX25vCkZST00gYXJjX2RzZGF0YV9zaGFuZ3NodSBkc2RhdGEKV0hFUkUgZHNkYXRhLmNhbGxfbWF0Y2hfbnVtX3RoaXJ0eSA9IDAKICAgICAgQU5EIGRzZGF0YS5jYWxsX21hdGNoX251bV9uaW5ldHkgPSAwCiAgICAgIEFORCBkc2RhdGEuY2FsbF9tYXRjaF9udW1fb25lX2VpZ2h0eSA9IDA7CgpTRUxFQ1QgKiBGUk9NIGFyY19zaGFuZ3NodV9yZXFfbG9nIFdIRVJFIG9yZGVyX25vID0gJzAxb3BlcjQ0NDQxNDk3NDA4NTIzMDg3JzsKClNFTEVDVCAqIEZST00gYXJjX2RzZGF0YV9zaGFuZ3NodSBXSEVSRSBvcmRlcl9ubyA9ICcwMW9wZXI0NDQ0MTQ5NzQwODUyMzA4Nyc7CgpTRUxFQ1QgKiBGUk9NIGFyY191c2VyX2RpcmVjdG9yeSBXSEVSRSBjb25zdW1lcl9ubyA9ICc3NDIyOSc7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>SELECT * FROM arc_verify WHERE order_no = '01regi78701498804360975';
 SELECT * FROM arc_verify_resp WHERE order_no = '01regi78701498804360975';
 UPDATE arc_verify SET
@@ -286,26 +289,20 @@ UPDATE arc_verify SET
 WHERE id = '1904';
 UPDATE arc_verify_resp SET amount = '0' WHERE verify_id = 1904;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAkK</text>
-      </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgQFNjaGVkdWxlZChjcm9uID0gIjAgKi8xICogKiAqID8iKSAvLyDmr48x5YiG6ZKf5omn6KGM5LiA5qyhCiAgICBAU2NoZWR1bGVkKGNyb24gPSAiMCAxNSAyICogKiA/IikgLy8g5q+P5aSp5pep5LiKMu+8mjE16Kem5Y+RCi8vICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwIDQxIDE2ICogKiA/IikgLy8g5q+P5aSpMTbvvJo0MeinpuWPkQogICAgcHVibGljIHZvaWQgcmVzdG9yZVZlcmlmeSgpIHsKCiAgICAgICAgbG9nZ2VyLmluZm8oIuS6uuWuoXZlcmlmeS5yZXNwX2RhdGHov5jljp8gc3RhcnQgLi4uIik7CiAgICAgICAgU3RyaW5nIHF1YXJ0eklwID0gSXBVdGlsLmdldExvY2FsSVAoKTsKICAgICAgICBsb2dnZXIuaW5mbygi5pys5py6SVAg5Li6IiArIHF1YXJ0eklwKTsKICAgICAgICBTdHJpbmcgbG9jYWxob3N0SXAgPSBHbG9iYWwuZ2V0VmFsdWUoInF1YXJ0el9sb2NhbGhvc3QiKTsKCiAgICAgICAgaWYgKCFsb2NhbGhvc3RJcC5lcXVhbHMocXVhcnR6SXApKSB7Ly8g5Yik5pat5piv5ZCm5pivIOacrOacuuacjeWKoeWZqAogICAgICAgICAgICBsb2dnZXIuaW5mbygi5Lq65a6hdmVyaWZ5LnJlc3BfZGF0Yei/mOWOn++8jElQ5LiN56ymLi4uIik7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIExpc3Q8VmVyaWZ5PiB2ZXJpZnlMaXN0ID0gdmVyaWZ5U2VydmljZS5nZXRXYXJuRGF0YSgpOwogICAgICAgIGlmICh2ZXJpZnlMaXN0LnNpemUoKSA+IDApIHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuS6uuWuoXZlcmlmeS5yZXNwX2RhdGHov5jljp8g5YeG5aSH5pu05pawIiArIHZlcmlmeUxpc3Quc2l6ZSgpICsgIuadoeaVsOaNriAuLi4iKTsKICAgICAgICAgICAgZm9yIChWZXJpZnkgdmVyaWZ5IDogdmVyaWZ5TGlzdCkgewogICAgICAgICAgICAgICAgU3RyaW5nIHJlc3BEYXRhU3RyID0gdmVyaWZ5LmdldFJlc3BEYXRhKCk7CiAgICAgICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWwuaXNCbGFuayhyZXNwRGF0YVN0cikpIHsKICAgICAgICAgICAgICAgICAgICBWZXJpZnlSZXNwIHJlc3BEYXRhID0gSlNPTi5wYXJzZU9iamVjdChyZXNwRGF0YVN0ciwgVmVyaWZ5UmVzcC5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgcmVzcERhdGEuc2V0UmVzdWx0KCIyMCIpOwogICAgICAgICAgICAgICAgICAgIHZlcmlmeS5zZXRSZXNwRGF0YShKU09OLnRvSlNPTlN0cmluZyhyZXNwRGF0YSkpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygi5Lq65a6hdmVyaWZ5LnJlc3BfZGF0Yei/mOWOnyBpZD0iICsgdmVyaWZ5LmdldElkKCkgKyAicmVzcF9kYXRh5Li656m6Iik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdmVyaWZ5U2VydmljZS5iYXRjaFJlc3RvcmVXYXJuKHZlcmlmeUxpc3QpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLkurrlrqF2ZXJpZnkucmVzcF9kYXRh6L+Y5Y6fIOaVsOaNruato+W4uCAuLi4iKTsKICAgICAgICB9CgogICAgICAgIGxvZ2dlci5pbmZvKCLkurrlrqF2ZXJpZnkucmVzcF9kYXRh6L+Y5Y6fICBlbmQgLi4uIik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">MDFvcGVyMTgyNDE0OTgzMTgxMzUwNjknOwo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgQFNjaGVkdWxlZChjcm9uID0gIjAgKi8xICogKiAqID8iKSAvLyDmr48x5YiG6ZKf5omn6KGM5LiA5qyhCiAgICBAU2NoZWR1bGVkKGNyb24gPSAiMCAxNSAyICogKiA/IikgLy8g5q+P5aSp5pep5LiKMu+8mjE16Kem5Y+RCi8vICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwIDQxIDE2ICogKiA/IikgLy8g5q+P5aSpMTbvvJo0MeinpuWPkQogICAgcHVibGljIHZvaWQgcmVzdG9yZVZlcmlmeSgpIHsKCiAgICAgICAgbG9nZ2VyLmluZm8oIuS6uuWuoXZlcmlmeS5yZXNwX2RhdGHov5jljp8gc3RhcnQgLi4uIik7CiAgICAgICAgU3RyaW5nIHF1YXJ0eklwID0gSXBVdGlsLmdldExvY2FsSVAoKTsKICAgICAgICBsb2dnZXIuaW5mbygi5pys5py6SVAg5Li6IiArIHF1YXJ0eklwKTsKICAgICAgICBTdHJpbmcgbG9jYWxob3N0SXAgPSBHbG9iYWwuZ2V0VmFsdWUoInF1YXJ0el9sb2NhbGhvc3QiKTsKCiAgICAgICAgaWYgKCFsb2NhbGhvc3RJcC5lcXVhbHMocXVhcnR6SXApKSB7Ly8g5Yik5pat5piv5ZCm5pivIOacrOacuuacjeWKoeWZqAogICAgICAgICAgICBsb2dnZXIuaW5mbygi5Lq65a6hdmVyaWZ5LnJlc3BfZGF0Yei/mOWOn++8jElQ5LiN56ymLi4uIik7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIExpc3Q8VmVyaWZ5PiB2ZXJpZnlMaXN0ID0gdmVyaWZ5U2VydmljZS5nZXRXYXJuRGF0YSgpOwogICAgICAgIGlmICh2ZXJpZnlMaXN0LnNpemUoKSA+IDApIHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuS6uuWuoXZlcmlmeS5yZXNwX2RhdGHov5jljp8g5YeG5aSH5pu05pawIiArIHZlcmlmeUxpc3Quc2l6ZSgpICsgIuadoeaVsOaNriAuLi4iKTsKICAgICAgICAgICAgZm9yIChWZXJpZnkgdmVyaWZ5IDogdmVyaWZ5TGlzdCkgewogICAgICAgICAgICAgICAgU3RyaW5nIHJlc3BEYXRhU3RyID0gdmVyaWZ5LmdldFJlc3BEYXRhKCk7CiAgICAgICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWwuaXNCbGFuayhyZXNwRGF0YVN0cikpIHsKICAgICAgICAgICAgICAgICAgICBWZXJpZnlSZXNwIHJlc3BEYXRhID0gSlNPTi5wYXJzZU9iamVjdChyZXNwRGF0YVN0ciwgVmVyaWZ5UmVzcC5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgcmVzcERhdGEuc2V0UmVzdWx0KCIyMCIpOwogICAgICAgICAgICAgICAgICAgIHZlcmlmeS5zZXRSZXNwRGF0YShKU09OLnRvSlNPTlN0cmluZyhyZXNwRGF0YSkpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygi5Lq65a6hdmVyaWZ5LnJlc3BfZGF0Yei/mOWOnyBpZD0iICsgdmVyaWZ5LmdldElkKCkgKyAicmVzcF9kYXRh5Li656m6Iik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdmVyaWZ5U2VydmljZS5iYXRjaFJlc3RvcmVXYXJuKHZlcmlmeUxpc3QpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLkurrlrqF2ZXJpZnkucmVzcF9kYXRh6L+Y5Y6fIOaVsOaNruato+W4uCAuLi4iKTsKICAgICAgICB9CgogICAgICAgIGxvZ2dlci5pbmZvKCLkurrlrqF2ZXJpZnkucmVzcF9kYXRh6L+Y5Y6fICBlbmQgLi4uIik7CiAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="4">
-        <text>result=#{item.result,jdbcType=VARCHAR}
-            amount=#
-            consumerNo
-            orderNo</text>
+        <text encoding="base64">MDFvcGVyMTgyNDE0OTgzMTgxMzUwNjknOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
