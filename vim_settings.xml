@@ -24,6 +24,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/.gitignore" timestamp="1499397447293">
         <mark key="[" line="190" column="1" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/AddRole.js" timestamp="1499653432886" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/TppBusinessMapper.xml" timestamp="1498637685190">
         <mark key="[" line="24" column="72" />
       </file>
@@ -53,7 +54,6 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/service/ShangshuReqLogService.java" timestamp="1498549061700">
         <mark key="[" line="33" column="61" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1499321576282" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1499321576282" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleEngineConfigController.java" timestamp="1499650098343" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1498636967404">
@@ -62,7 +62,7 @@
       <file name="/dummy.sql" timestamp="1498815261419">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499651730432">
+      <file name="/Dummy.txt" timestamp="1499653435560">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -89,7 +89,7 @@
         <mark key="." line="40" column="56" />
         <mark key="^" line="40" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddRole.js" timestamp="1499651754959" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddRole.js" timestamp="1499653401771" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ThirdPartyInquiry/Components/Lookdetails.js" timestamp="1498638172191">
         <mark key="[" line="26" column="5" />
       </file>
@@ -217,10 +217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>51</text>
+        <text>规</text>
       </register>
       <register name="-" type="4">
-        <text>51</text>
+        <text>规</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
