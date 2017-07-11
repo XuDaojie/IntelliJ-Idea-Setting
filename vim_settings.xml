@@ -9,11 +9,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/shiro/scheduler/QuartzSessionValidationScheduler.java" timestamp="1498723907431">
         <mark key="[" line="71" column="72" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiRiskController.java" timestamp="1499080788104">
-        <mark key="[" line="40" column="19" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserWhiteController.java" timestamp="1499050221894">
-        <mark key="[" line="32" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiRiskController.java" timestamp="1499756680921">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/aop/LogInterceptor.java" timestamp="1499410167298">
         <mark key="[" line="14" column="23" />
@@ -31,6 +30,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/TppBusinessMapper.xml" timestamp="1498637685190">
         <mark key="[" line="24" column="72" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/model/RegisterAndRiskModel.java" timestamp="1499756289081" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1499680608720">
         <mark key="[" line="179" column="59" />
         <mark key="]" line="179" column="59" />
@@ -52,12 +52,6 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserQuotaController.java" timestamp="1498804511236">
         <mark key="[" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1499754331344">
-        <mark key="[" line="226" column="31" />
-        <mark key="]" line="226" column="31" />
-        <mark key="." line="226" column="31" />
-        <mark key="^" line="226" column="45" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/service/ShangshuReqLogService.java" timestamp="1498549061700">
         <mark key="[" line="33" column="61" />
       </file>
@@ -75,7 +69,7 @@
       <file name="/dummy.sql" timestamp="1498815261419">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499655222498">
+      <file name="/Dummy.txt" timestamp="1499756696607">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -119,7 +113,6 @@
         <mark key="[" line="241" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1499744708693">
-        <mark key="[" line="366" column="4" />
         <mark key="]" line="708" column="0" />
         <mark key="." line="708" column="0" />
       </file>
@@ -236,8 +229,8 @@
       <jump line="2" column="0" filename="/fragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>simpleCallLogs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
       </register>
       <register name="-" type="4">
         <text>simpleCallLogs</text>
@@ -249,18 +242,21 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1haToKICAgICAgICAgICAgICkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Q29sbGVjdGlvbnMucmV2ZXJzZShzaW1wbGVDYWxsTG9ncyk7CiAgICAgICAgTGlzdDxVc2VyQWRkcmVzc0xpc3Q+IG1haWxMaXN0Q29weSA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIENvbGxlY3Rpb25zLmNvcHkobWFpbExpc3RDb3B5LCBtYWlsTGlzdCk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKE1haToKICAgICAgICAgICAgICkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aWYgKHBob25lU2V0LnNpemUoKSA8IDEgfHwgY2FsbE51bSA9PSBudWxsIHx8IGNhbGxOdW0uc2l6ZSgpIDwgMSkgewogICAgICAgICAgICByZXR1cm4gbmV3IEhhc2hTZXQ8U3RyaW5nPigpOwogICAgICAgIH0KICAgICAgICBNYXA8U3RyaW5nLCBJbnRlZ2VyPiBtYXAgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIEludGVnZXI+KCk7CiAgICAgICAgbWFwLnB1dEFsbChjYWxsTnVtKTsKICAgICAgICBTZXQ8U3RyaW5nPiBjYWxsU2V0ID0gbWFwLmtleVNldCgpOwogICAgICAgIGNhbGxTZXQucmV0YWluQWxsKHBob25lU2V0KTs=</text>
+        <text encoding="base64">Q29sbGVjdGlvbnMucmV2ZXJzZShzaW1wbGVDYWxsTG9ncyk7CiAgICAgICAgTGlzdDxVc2VyQWRkcmVzc0xpc3Q+IG1haWxMaXN0Q29weSA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIENvbGxlY3Rpb25zLmNvcHkobWFpbExpc3RDb3B5LCBtYWlsTGlzdCk7</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">aWYgKHBob25lU2V0LnNpemUoKSA8IDEgfHwgY2FsbE51bSA9PSBudWxsIHx8IGNhbGxOdW0uc2l6ZSgpIDwgMSkgewogICAgICAgICAgICByZXR1cm4gbmV3IEhhc2hTZXQ8U3RyaW5nPigpOwogICAgICAgIH0KICAgICAgICBNYXA8U3RyaW5nLCBJbnRlZ2VyPiBtYXAgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIEludGVnZXI+KCk7CiAgICAgICAgbWFwLnB1dEFsbChjYWxsTnVtKTsKICAgICAgICBTZXQ8U3RyaW5nPiBjYWxsU2V0ID0gbWFwLmtleVNldCgpOwogICAgICAgIGNhbGxTZXQucmV0YWluQWxsKHBob25lU2V0KTs=</text>
+      </register>
+      <register name="5" type="4">
         <text>for (String matchPhone : callsMatch) {
             ShangshuCountModel.SimpleCallLog voices = new ShangshuCountModel.SimpleCallLog();
             voices.setToPhone(matchPhone);
@@ -269,28 +265,25 @@
             
         }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">cHVibGljIE1hcDxTdHJpbmcsIExvbmc+IGdldENhbGxUaW1lTGVuZ3RoKCkgewogICAgICAgIHJldHVybiB2b2ljZUR1cmF0aW9uTWFwOwogICAgfQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cnVsZQo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">cnVsZQo=</text>
+      </register>
+      <register name="8" type="4">
         <text>, {
         exclude &quot;group&quot;: &quot;com.fasterxml.jackson.core:jackson-databind&quot;
     }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LCB7CiAgICAgICAgZXhjbHVkZSAiZ3JvdXAiOiAiY29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmU6amFja3Nvbi1kYXRhYmluZCIKICAgIA==</text>
-      </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSAnY29tLnJhYmJpdG1xOmFtcXAtY2xpZW50OjQuMS4wJwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">LCB7CiAgICAgICAgZXhjbHVkZSAiZ3JvdXAiOiAiY29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmU6amFja3Nvbi1kYXRhYmluZCIKICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
