@@ -28,11 +28,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserQuotaController.java" timestamp="1498804511236">
         <mark key="[" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1499771632375">
-        <mark key="[" line="342" column="29" />
-        <mark key="]" line="344" column="53" />
-        <mark key="^" line="344" column="53" />
-        <mark key="." line="344" column="53" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1499772742891">
+        <mark key="[" line="402" column="8" />
+        <mark key="]" line="402" column="8" />
+        <mark key="^" line="402" column="13" />
+        <mark key="." line="402" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/model/ShangshuCountModel.java" timestamp="1499766007724">
         <mark key="'" line="256" column="65" />
@@ -219,10 +219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>duration</text>
+        <text>CountM</text>
       </register>
       <register name="-" type="4">
-        <text>duration</text>
+        <text>CountM</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
