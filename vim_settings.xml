@@ -52,10 +52,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserQuotaController.java" timestamp="1498804511236">
         <mark key="[" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1499742960965">
-        <mark key="[" line="223" column="8" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1499745680828">
+        <mark key="[" line="230" column="31" />
+        <mark key="]" line="230" column="31" />
+        <mark key="." line="230" column="31" />
+        <mark key="^" line="230" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/service/ShangshuReqLogService.java" timestamp="1498549061700">
         <mark key="[" line="33" column="61" />
@@ -65,8 +66,8 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1498636967404">
         <mark key="[" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/model/ShangshuCountModel.java" timestamp="1499678846895">
-        <mark key="[" line="1034" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/model/ShangshuCountModel.java" timestamp="1499745536205">
+        <mark key="[" line="1035" column="31" />
         <mark key="]" line="1034" column="16" />
         <mark key="^" line="263" column="37" />
         <mark key="." line="1034" column="16" />
@@ -117,7 +118,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/List.js" timestamp="1498726569374">
         <mark key="[" line="241" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1499333747217">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1499744708693">
         <mark key="[" line="366" column="4" />
         <mark key="]" line="708" column="0" />
         <mark key="." line="708" column="0" />
@@ -125,8 +126,8 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiTestController.java" timestamp="1498629916314">
         <mark key="[" line="138" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1499742836526">
-        <mark key="[" line="2" column="7" />
+      <file name="/fragment.java" timestamp="1499743793278">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
@@ -234,11 +235,11 @@
       <jump line="162" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1haToKICAgICAgICAgICAgICkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>equals</text>
       </register>
       <register name="-" type="4">
-        <text>mailList</text>
+        <text>equals</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
