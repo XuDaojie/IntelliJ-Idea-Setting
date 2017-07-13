@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/StringUtil.java" timestamp="1499838222704">
         <mark key="[" line="80" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499915273831">
+      <file name="/Dummy.txt" timestamp="1499917573026">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -18,6 +18,11 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/UserUtil.java" timestamp="1499918672421">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1499825720411">
         <mark key="[" line="28" column="15" />
@@ -38,11 +43,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="179" column="59" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1499916383647">
-        <mark key="[" line="89" column="62" />
-        <mark key="]" line="358" column="51" />
-        <mark key="." line="358" column="51" />
-        <mark key="^" line="358" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1499918945997">
+        <mark key="[" line="181" column="12" />
+        <mark key="]" line="181" column="12" />
+        <mark key="." line="181" column="12" />
+        <mark key="^" line="203" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1499858761799">
         <mark key="[" line="13" column="0" />
@@ -70,11 +75,11 @@
         <mark key="^" line="256" column="65" />
         <mark key="." line="312" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1499914835013">
-        <mark key="[" line="180" column="4" />
-        <mark key="]" line="96" column="31" />
-        <mark key="^" line="96" column="31" />
-        <mark key="." line="96" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1499918448237">
+        <mark key="[" line="258" column="27" />
+        <mark key="]" line="253" column="30" />
+        <mark key="^" line="253" column="30" />
+        <mark key="." line="253" column="30" />
       </file>
       <file name="/fragment.java" timestamp="1499913502945">
         <mark key="a" line="0" column="14" />
@@ -187,10 +192,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -199,44 +204,44 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYWxsTG9nKHZvaWNlc0xpc3QsIGRzZGF0YSwgYWRkcmVzc0xpc3RzKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2ltcGxlQ2FsbExvZ3MK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqCgkgKiDpgJrorq/lvZXop6PmnpAKCSAqIEBwYXJhbSB1c2VyRGlyZWN0b3J5CgkgKiBAcmV0dXJuCgkgKi8KCXByaXZhdGUgTGlzdDxVc2VyQWRkcmVzc0xpc3Q+IHBhc3NEaXJlY3RvcnkoVXNlckRpcmVjdG9yeSB1c2VyRGlyZWN0b3J5KSB7CgkJTGlzdDxVc2VyQWRkcmVzc0xpc3Q+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PFVzZXJBZGRyZXNzTGlzdD4oKTsKCQlTdHJpbmcgZGF0YSA9IHVzZXJEaXJlY3RvcnkuZ2V0RGF0YSgpOwoJCWlmIChTdHJpbmdVdGlsLmlzQmxhbmsoZGF0YSkpIHsKCQkJcmV0dXJuIGxpc3Q7CgkJfQoJCVN0cmluZ1tdIGRpcmVjdG9yeVN0ciA9IFN0cmluZ1V0aWwuc3BsaXQoZGF0YSwgIiwiKTsKCQlpZiAoMCA+PSBkaXJlY3RvcnlTdHIubGVuZ3RoKSB7CgkJCXJldHVybiBsaXN0OwoJCX0KCQlmb3IgKFN0cmluZyBtYW4gOiBkaXJlY3RvcnlTdHIpIHsKCQkJaWYgKFN0cmluZ1V0aWwuaXNCbGFuayhtYW4pKSB7CgkJCQljb250aW51ZTsKCQkJfQoJCQlVc2VyQWRkcmVzc0xpc3RNb2RlbCBtYW5Nb2RlbCA9IG5ldyBVc2VyQWRkcmVzc0xpc3RNb2RlbCgpOwoJCQlTdHJpbmcgbmlja25hbWUgPSBTdHJpbmdVdGlsLnN1YnN0cmluZ0JlZm9yZShtYW4sICI6Iik7CgkJCWlmIChTdHJpbmdVdGlsLmlzTm90Qmxhbmsobmlja25hbWUpKSB7CgkJCQltYW5Nb2RlbC5zZXROaWNrbmFtZShuaWNrbmFtZSk7CgkJCX0KCQkJU3RyaW5nIHBob25lID0gU3RyaW5nVXRpbC5zdWJzdHJpbmdBZnRlckxhc3QobWFuLCAiOiIpOwoJCQlpZiAoU3RyaW5nVXRpbC5pc05vdEJsYW5rKHBob25lKSkgewoJCQkJbWFuTW9kZWwuc2V0UGhvbmUocGhvbmUpOwoJCQl9CgkJCWxpc3QuYWRkKG1hbk1vZGVsKTsKCQl9CgkJcmV0dXJuIGxpc3Q7Cgl9</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2FsbHNMaXN0SnNvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYWxsTG9nKHZvaWNlc0xpc3QsIGRzZGF0YSwgYWRkcmVzc0xpc3RzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yb25nZHUuYXJjLmNvbW1vbi5jb250ZXh0LkNvbnN0YW50OwppbXBvcnQgY29tLnJvbmdkdS5hcmMuY29tbW9uLnV0aWxzLkh0dHBVdGlsOwppbXBvcnQgY29tLnJvbmdkdS5hcmMuY29tbW9uLnV0aWxzLlJlZmxlY3RVdGlsOwppbXBvcnQgY29tLnJvbmdkdS5hcmMuY29tbW9uLnV0aWxzLlN0cmluZ1V0aWw7CmltcG9ydCBjb20ucm9uZ2R1LmFyYy5jb21tb24udXRpbHMuYmFzZTY0LkJhc2U2NFV0aWw7CmltcG9ydCBjb20ucm9uZ2R1LmFyYy5jb21tb24udXRpbHMucnNhLlJTQVV0aWw7CmltcG9ydCBjb20ucm9uZ2R1LmFyYy5jb21tb24udXRpbHMucnNhLlNpZ25VdGlsOwppbXBvcnQgY29tLnJvbmdkdS5hcmMubW9kdWxlcy5hcGkuZW51bXMuRXZlbnRFbnVtOwppbXBvcnQgY29tLnJvbmdkdS5hcmMubW9kdWxlcy5hcGkubW9kZWwuUmVnaXN0ZXJBbmRSaXNrTW9kZWw7CmltcG9ydCBjb20ucm9uZ2R1LmFyYy5tb2R1bGVzLmFwaS5tb2RlbC5Vc2VyTW9kZWw7Cg==</text>
+        <text encoding="base64">c2ltcGxlQ2FsbExvZ3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Iua1t+S/oee7n+S4gOWuouacjeeDree6vzo0MDA2MTExMTExIi5zcGxpdCgiLCIpCg==</text>
+        <text encoding="base64">Y2FsbHNMaXN0SnNvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGNhbGxpbmdTZXQuc2l6ZSgpOyBpKyspIHsKCiAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yb25nZHUuYXJjLmNvbW1vbi5jb250ZXh0LkNvbnN0YW50OwppbXBvcnQgY29tLnJvbmdkdS5hcmMuY29tbW9uLnV0aWxzLkh0dHBVdGlsOwppbXBvcnQgY29tLnJvbmdkdS5hcmMuY29tbW9uLnV0aWxzLlJlZmxlY3RVdGlsOwppbXBvcnQgY29tLnJvbmdkdS5hcmMuY29tbW9uLnV0aWxzLlN0cmluZ1V0aWw7CmltcG9ydCBjb20ucm9uZ2R1LmFyYy5jb21tb24udXRpbHMuYmFzZTY0LkJhc2U2NFV0aWw7CmltcG9ydCBjb20ucm9uZ2R1LmFyYy5jb21tb24udXRpbHMucnNhLlJTQVV0aWw7CmltcG9ydCBjb20ucm9uZ2R1LmFyYy5jb21tb24udXRpbHMucnNhLlNpZ25VdGlsOwppbXBvcnQgY29tLnJvbmdkdS5hcmMubW9kdWxlcy5hcGkuZW51bXMuRXZlbnRFbnVtOwppbXBvcnQgY29tLnJvbmdkdS5hcmMubW9kdWxlcy5hcGkubW9kZWwuUmVnaXN0ZXJBbmRSaXNrTW9kZWw7CmltcG9ydCBjb20ucm9uZ2R1LmFyYy5tb2R1bGVzLmFwaS5tb2RlbC5Vc2VyTW9kZWw7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Iua1t+S/oee7n+S4gOWuouacjeeDree6vzo0MDA2MTExMTExIi5zcGxpdCgiLCIpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGNhbGxpbmdTZXQuc2l6ZSgpOyBpKyspIHsKCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="x" type="4">
+        <text>null</text>
+      </register>
+      <register name="9" type="4">
         <text>Long voiceDurationCount = this.callDurationMap.get(toNumber);
 			voiceDurationCount = voiceDurationCount == null
                     ? voiceDuration
                     : voiceDurationCount + voiceDuration;
 			this.callDurationMap.put(toNumber, voiceDurationCount);</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="x" type="4">
-        <text>null</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CTwhLS0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
