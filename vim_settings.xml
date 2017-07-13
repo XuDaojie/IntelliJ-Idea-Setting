@@ -38,11 +38,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="179" column="59" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1499910081067">
-        <mark key="[" line="417" column="77" />
-        <mark key="]" line="399" column="16" />
-        <mark key="." line="399" column="16" />
-        <mark key="^" line="399" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1499912060011">
+        <mark key="[" line="365" column="14" />
+        <mark key="]" line="373" column="32" />
+        <mark key="." line="373" column="32" />
+        <mark key="^" line="373" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1499858761799">
         <mark key="[" line="13" column="0" />
@@ -179,11 +179,11 @@
       <jump line="261" column="65" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/model/ShangshuCountModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYWxsTG9nKHZvaWNlc0xpc3QsIGRzZGF0YSwgYWRkcmVzc0xpc3RzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>callingDurationMap.keySet()</text>
       </register>
       <register name="-" type="4">
-        <text>simpleCallLogs</text>
+        <text>callingDurationMap.keySet()</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
