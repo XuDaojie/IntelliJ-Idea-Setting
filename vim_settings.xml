@@ -26,14 +26,14 @@
         <mark key="'" line="39" column="4" />
         <mark key="[" line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1500004520467">
-        <mark key="[" line="105" column="45" />
-        <mark key="]" line="116" column="8" />
-        <mark key="." line="116" column="8" />
-        <mark key="^" line="119" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1500015452098">
+        <mark key="[" line="414" column="0" />
+        <mark key="]" line="414" column="0" />
+        <mark key="^" line="414" column="3" />
+        <mark key="." line="414" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1499935721671">
-        <mark key="[" line="182" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1500012123514">
+        <mark key="[" line="185" column="91" />
         <mark key="]" line="179" column="59" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="179" column="59" />
@@ -47,19 +47,14 @@
         <mark key="^" line="455" column="12" />
         <mark key="." line="284" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1500003185621">
-        <mark key="[" line="274" column="12" />
-        <mark key="]" line="198" column="12" />
-        <mark key="." line="198" column="12" />
-        <mark key="^" line="193" column="3" />
-      </file>
+      <file name="/TppRegisterRiskThread.java" timestamp="1500015365119" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/reportResources/tpl/tpl.html" timestamp="1499929816392" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1499915135127">
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499945093706">
+      <file name="/Dummy.txt" timestamp="1500015517574">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -82,21 +77,21 @@
         <mark key="[" line="50" column="59" />
       </file>
       <file name="/CallLogJob.java" timestamp="1499928031031" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1499858761799">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1500010905652">
+        <mark key="[" line="41" column="51" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="/RegExp Fragment (StringUtil.java:4536).regexp" timestamp="1499831914479">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1499999640910">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1500011419904">
         <mark key="[" line="407" column="15" />
         <mark key="]" line="407" column="15" />
         <mark key="^" line="254" column="30" />
         <mark key="." line="407" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1500004368427">
+      <file name="/fragment.java" timestamp="1500012107645">
         <mark key="a" line="0" column="14" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -206,11 +201,11 @@
       <jump line="34" column="4" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/mapper/UserDirectoryMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mailList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mailList</text>
+        <text>.getNotifyParams())</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -219,40 +214,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SlNPTk9iamVjdC50b0pTT05TdHJpbmcobWFpbExpc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">TGlzdDxVc2VyQWRkcmVzc0xpc3Q+IGFkZHJlc3NMaXN0c1NvcnQgPSBuZXcgQXJyYXlMaXN0PD4oYWRkcmVzc0xpc3RzKTsKICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxVc2VyQWRkcmVzc0xpc3Q+IGZyb21DYWxsTG9nID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNhbGxMb2codm9pY2VzTGlzdCwgZHNkYXRhLCBhZGRyZXNzTGlzdHMsIGFkZHJlc3NMaXN0c1NvcnQsIGZyb21DYWxsTG9nKTsKICAgICAgICAgICAgICAgICAgICAgICAgdXNlckRpcmVjdG9yeS5zZXREYXRhU29ydChVc2VyVXRpbC5wYXJzZUFkZHJlc3NUb1N0cmluZyhhZGRyZXNzTGlzdHNTb3J0KSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChmcm9tQ2FsbExvZy5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyRGlyZWN0b3J5LnNldERhdGFGcm9tQ2FsbExvZyhVc2VyVXRpbC5wYXJzZUFkZHJlc3NUb1N0cmluZyhmcm9tQ2FsbExvZykpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJEaXJlY3RvcnlTZXJ2aWNlLnVwZGF0ZUJ5SWQodXNlckRpcmVjdG9yeSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">TGlzdDxVc2VyQWRkcmVzc0xpc3Q+IGFkZHJlc3NMaXN0c1NvcnQgPSBuZXcgQXJyYXlMaXN0PFVzZXJBZGRyZXNzTGlzdD4oYWRkcmVzc0xpc3RzKTsKICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxVc2VyQWRkcmVzc0xpc3Q+IGZyb21DYWxsTG9nID0gbmV3IEFycmF5TGlzdDxVc2VyQWRkcmVzc0xpc3Q+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNhbGxMb2codm9pY2VzTGlzdCwgZHNkYXRhLCBhZGRyZXNzTGlzdHMsIGFkZHJlc3NMaXN0c1NvcnQsIGZyb21DYWxsTG9nKTsKICAgICAgICAgICAgICAgICAgICAgICAgdXNlckRpcmVjdG9yeS5zZXREYXRhKFVzZXJVdGlsLnBhcnNlQWRkcmVzc1RvU3RyaW5nKGFkZHJlc3NMaXN0c1NvcnQpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGZyb21DYWxsTG9nLnNpemUoKSA+IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJEaXJlY3Rvcnkuc2V0RGF0YUZyb21DYWxsTG9nKFVzZXJVdGlsLnBhcnNlQWRkcmVzc1RvU3RyaW5nKGZyb21DYWxsTG9nKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgdXNlckRpcmVjdG9yeVNlcnZpY2UudXBkYXRlQnlJZCh1c2VyRGlyZWN0b3J5KTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">SlNPTk9iamVjdC50b0pTT05TdHJpbmcobWFpbExpc3QpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">TWVyZ2Ugb3JpZ2luL2Rldi02MTgK</text>
+      <register name="4" type="4">
+        <text encoding="base64">TGlzdDxVc2VyQWRkcmVzc0xpc3Q+IGFkZHJlc3NMaXN0c1NvcnQgPSBuZXcgQXJyYXlMaXN0PD4oYWRkcmVzc0xpc3RzKTsKICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxVc2VyQWRkcmVzc0xpc3Q+IGZyb21DYWxsTG9nID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNhbGxMb2codm9pY2VzTGlzdCwgZHNkYXRhLCBhZGRyZXNzTGlzdHMsIGFkZHJlc3NMaXN0c1NvcnQsIGZyb21DYWxsTG9nKTsKICAgICAgICAgICAgICAgICAgICAgICAgdXNlckRpcmVjdG9yeS5zZXREYXRhU29ydChVc2VyVXRpbC5wYXJzZUFkZHJlc3NUb1N0cmluZyhhZGRyZXNzTGlzdHNTb3J0KSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChmcm9tQ2FsbExvZy5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyRGlyZWN0b3J5LnNldERhdGFGcm9tQ2FsbExvZyhVc2VyVXRpbC5wYXJzZUFkZHJlc3NUb1N0cmluZyhmcm9tQ2FsbExvZykpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJEaXJlY3RvcnlTZXJ2aWNlLnVwZGF0ZUJ5SWQodXNlckRpcmVjdG9yeSk=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgIHVwZGF0ZVVzZXJEaXJlY3RvcnkoKSB7CiAgICAgICAgTGlzdDxVc2VyQWRkcmVzc0xpc3Q+IGFkZHJlc3NMaXN0c1NvcnQgPSBuZXcgQXJyYXlMaXN0PD4oYWRkcmVzc0xpc3RzKTsKICAgICAgICBMaXN0PFVzZXJBZGRyZXNzTGlzdD4gZnJvbUNhbGxMb2cgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBjYWxsTG9nKHZvaWNlc0xpc3QsIGRzZGF0YSwgYWRkcmVzc0xpc3RzLCBhZGRyZXNzTGlzdHNTb3J0LCBmcm9tQ2FsbExvZyk7CiAgICAgICAgdXNlckRpcmVjdG9yeS5zZXREYXRhKFVzZXJVdGlsLnBhcnNlQWRkcmVzc1RvU3RyaW5nKGFkZHJlc3NMaXN0c1NvcnQpKTsKICAgICAgICBpZiAoZnJvbUNhbGxMb2cuc2l6ZSgpID4gMCkgewogICAgICAgICAgICB1c2VyRGlyZWN0b3J5LnNldERhdGFGcm9tQ2FsbExvZyhVc2VyVXRpbC5wYXJzZUFkZHJlc3NUb1N0cmluZyhmcm9tQ2FsbExvZykpOwogICAgICAgIH0KICAgICAgICB1c2VyRGlyZWN0b3J5U2VydmljZS51cGRhdGVCeUlkKHVzZXJEaXJlY3RvcnkpOwogICAgfQ==</text>
+        <text encoding="base64">TGlzdDxVc2VyQWRkcmVzc0xpc3Q+IGFkZHJlc3NMaXN0c1NvcnQgPSBuZXcgQXJyYXlMaXN0PFVzZXJBZGRyZXNzTGlzdD4oYWRkcmVzc0xpc3RzKTsKICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxVc2VyQWRkcmVzc0xpc3Q+IGZyb21DYWxsTG9nID0gbmV3IEFycmF5TGlzdDxVc2VyQWRkcmVzc0xpc3Q+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNhbGxMb2codm9pY2VzTGlzdCwgZHNkYXRhLCBhZGRyZXNzTGlzdHMsIGFkZHJlc3NMaXN0c1NvcnQsIGZyb21DYWxsTG9nKTsKICAgICAgICAgICAgICAgICAgICAgICAgdXNlckRpcmVjdG9yeS5zZXREYXRhKFVzZXJVdGlsLnBhcnNlQWRkcmVzc1RvU3RyaW5nKGFkZHJlc3NMaXN0c1NvcnQpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGZyb21DYWxsTG9nLnNpemUoKSA+IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJEaXJlY3Rvcnkuc2V0RGF0YUZyb21DYWxsTG9nKFVzZXJVdGlsLnBhcnNlQWRkcmVzc1RvU3RyaW5nKGZyb21DYWxsTG9nKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgdXNlckRpcmVjdG9yeVNlcnZpY2UudXBkYXRlQnlJZCh1c2VyRGlyZWN0b3J5KTs=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ly8g5rWF5ou36LSdIOmcgOimgei/m+ihjOmHjeaWsOaOkuW6j+S7peWPiuWKoOWFpemAmuivneiusOW9leS4reWtmOWcqOiAjOmAmuiur+W9leS4reS4jeWtmOWcqOeahOWPt+eggQogICAgICAgIExpc3Q8VXNlckFkZHJlc3NMaXN0PiBtYWlsTGlzdFNvcnQgPSBuZXcgQXJyYXlMaXN0PD4obWFpbExpc3RPcmlnaW4pOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">TWVyZ2Ugb3JpZ2luL2Rldi02MTgK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGRzZGF0YVNoYW5nc2h1TWFwcGVyLmluc2VydFJlY29yZChkc2RhdGEpOwovLyAgICAgICAgICAgICAgICAgICAgZHNkYXRhU2hhbmdzaHVNYXBwZXIuc2F2ZVJlY29yZChkc2RhdGEpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgIHVwZGF0ZVVzZXJEaXJlY3RvcnkoKSB7CiAgICAgICAgTGlzdDxVc2VyQWRkcmVzc0xpc3Q+IGFkZHJlc3NMaXN0c1NvcnQgPSBuZXcgQXJyYXlMaXN0PD4oYWRkcmVzc0xpc3RzKTsKICAgICAgICBMaXN0PFVzZXJBZGRyZXNzTGlzdD4gZnJvbUNhbGxMb2cgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBjYWxsTG9nKHZvaWNlc0xpc3QsIGRzZGF0YSwgYWRkcmVzc0xpc3RzLCBhZGRyZXNzTGlzdHNTb3J0LCBmcm9tQ2FsbExvZyk7CiAgICAgICAgdXNlckRpcmVjdG9yeS5zZXREYXRhKFVzZXJVdGlsLnBhcnNlQWRkcmVzc1RvU3RyaW5nKGFkZHJlc3NMaXN0c1NvcnQpKTsKICAgICAgICBpZiAoZnJvbUNhbGxMb2cuc2l6ZSgpID4gMCkgewogICAgICAgICAgICB1c2VyRGlyZWN0b3J5LnNldERhdGFGcm9tQ2FsbExvZyhVc2VyVXRpbC5wYXJzZUFkZHJlc3NUb1N0cmluZyhmcm9tQ2FsbExvZykpOwogICAgICAgIH0KICAgICAgICB1c2VyRGlyZWN0b3J5U2VydmljZS51cGRhdGVCeUlkKHVzZXJEaXJlY3RvcnkpOwogICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8g5rWF5ou36LSdIOmcgOimgei/m+ihjOmHjeaWsOaOkuW6j+S7peWPiuWKoOWFpemAmuivneiusOW9leS4reWtmOWcqOiAjOmAmuiur+W9leS4reS4jeWtmOWcqOeahOWPt+eggQogICAgICAgIExpc3Q8VXNlckFkZHJlc3NMaXN0PiBtYWlsTGlzdFNvcnQgPSBuZXcgQXJyYXlMaXN0PD4obWFpbExpc3RPcmlnaW4pOw==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoqCgkgKiDpgJrorq/lvZXop6PmnpAKCSAqIEBwYXJhbSB1c2VyRGlyZWN0b3J5CgkgKiBAcmV0dXJuCgkgKi8KCXByaXZhdGUgTGlzdDxVc2VyQWRkcmVzc0xpc3Q+IHBhc3NEaXJlY3RvcnkoVXNlckRpcmVjdG9yeSB1c2VyRGlyZWN0b3J5KSB7CgkJTGlzdDxVc2VyQWRkcmVzc0xpc3Q+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PFVzZXJBZGRyZXNzTGlzdD4oKTsKCQlTdHJpbmcgZGF0YSA9IHVzZXJEaXJlY3RvcnkuZ2V0RGF0YSgpOwoJCWlmIChTdHJpbmdVdGlsLmlzQmxhbmsoZGF0YSkpIHsKCQkJcmV0dXJuIGxpc3Q7CgkJfQoJCVN0cmluZ1tdIGRpcmVjdG9yeVN0ciA9IFN0cmluZ1V0aWwuc3BsaXQoZGF0YSwgIiwiKTsKCQlpZiAoMCA+PSBkaXJlY3RvcnlTdHIubGVuZ3RoKSB7CgkJCXJldHVybiBsaXN0OwoJCX0KCQlmb3IgKFN0cmluZyBtYW4gOiBkaXJlY3RvcnlTdHIpIHsKCQkJaWYgKFN0cmluZ1V0aWwuaXNCbGFuayhtYW4pKSB7CgkJCQljb250aW51ZTsKCQkJfQoJCQlVc2VyQWRkcmVzc0xpc3RNb2RlbCBtYW5Nb2RlbCA9IG5ldyBVc2VyQWRkcmVzc0xpc3RNb2RlbCgpOwoJCQlTdHJpbmcgbmlja25hbWUgPSBTdHJpbmdVdGlsLnN1YnN0cmluZ0JlZm9yZShtYW4sICI6Iik7CgkJCWlmIChTdHJpbmdVdGlsLmlzTm90Qmxhbmsobmlja25hbWUpKSB7CgkJCQltYW5Nb2RlbC5zZXROaWNrbmFtZShuaWNrbmFtZSk7CgkJCX0KCQkJU3RyaW5nIHBob25lID0gU3RyaW5nVXRpbC5zdWJzdHJpbmdBZnRlckxhc3QobWFuLCAiOiIpOwoJCQlpZiAoU3RyaW5nVXRpbC5pc05vdEJsYW5rKHBob25lKSkgewoJCQkJbWFuTW9kZWwuc2V0UGhvbmUocGhvbmUpOwoJCQl9CgkJCWxpc3QuYWRkKG1hbk1vZGVsKTsKCQl9CgkJcmV0dXJuIGxpc3Q7Cgl9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGRzZGF0YVNoYW5nc2h1TWFwcGVyLmluc2VydFJlY29yZChkc2RhdGEpOwovLyAgICAgICAgICAgICAgICAgICAgZHNkYXRhU2hhbmdzaHVNYXBwZXIuc2F2ZVJlY29yZChkc2RhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
