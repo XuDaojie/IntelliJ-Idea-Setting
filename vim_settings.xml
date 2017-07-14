@@ -26,11 +26,10 @@
         <mark key="'" line="39" column="4" />
         <mark key="[" line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1500015452098">
-        <mark key="[" line="414" column="0" />
-        <mark key="]" line="414" column="0" />
-        <mark key="^" line="414" column="3" />
-        <mark key="." line="414" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1500017659523">
+        <mark key="[" line="427" column="32" />
+        <mark key="]" line="427" column="32" />
+        <mark key="." line="427" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1500012123514">
         <mark key="[" line="185" column="91" />
@@ -41,11 +40,8 @@
       <file name="$USER_HOME$/IdeaProjects/arc/.gitignore" timestamp="1499939280420">
         <mark key="[" line="243" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1500004450199">
-        <mark key="[" line="295" column="12" />
-        <mark key="]" line="284" column="4" />
-        <mark key="^" line="455" column="12" />
-        <mark key="." line="284" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1500016625162">
+        <mark key="[" line="38" column="25" />
       </file>
       <file name="/TppRegisterRiskThread.java" timestamp="1500015365119" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/reportResources/tpl/tpl.html" timestamp="1499929816392" />
@@ -54,7 +50,7 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500015517574">
+      <file name="/Dummy.txt" timestamp="1500017409973">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -65,8 +61,8 @@
         <mark key="^" line="281" column="42" />
         <mark key="." line="281" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1499936640311">
-        <mark key="[" line="250" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
+        <mark key="[" line="302" column="2" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/build.gradle" timestamp="1499396902423">
         <mark key="[" line="15" column="40" />
@@ -201,11 +197,11 @@
       <jump line="34" column="4" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/mapper/UserDirectoryMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>shangshuReqLog.getNotifyParams()</text>
       </register>
       <register name="-" type="4">
-        <text>.getNotifyParams())</text>
+        <text>shangshuReqLog.getNotifyParams()</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
