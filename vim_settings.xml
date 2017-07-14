@@ -40,20 +40,19 @@
       <file name="$USER_HOME$/IdeaProjects/arc/.gitignore" timestamp="1499939280420">
         <mark key="[" line="243" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1500016625162">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/tablestore/TableStoreClientPoolManager.java" timestamp="1500018716964" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1500019282227">
         <mark key="[" line="38" column="25" />
+        <mark key="]" line="299" column="64" />
+        <mark key="^" line="299" column="64" />
+        <mark key="." line="299" column="64" />
       </file>
       <file name="/TppRegisterRiskThread.java" timestamp="1500015365119" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/reportResources/tpl/tpl.html" timestamp="1499929816392" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1499915135127">
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="9" column="38" />
-        <mark key="." line="9" column="38" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1500017409973">
+      <file name="/Dummy.txt" timestamp="1500019283077">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/domain/UserDirectory.java" timestamp="1499935464613">
         <mark key="[" line="103" column="35" />
@@ -198,10 +197,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shangshuReqLog.getNotifyParams()</text>
+        <text>-address-sor</text>
       </register>
       <register name="-" type="4">
-        <text>shangshuReqLog.getNotifyParams()</text>
+        <text>-address-sor</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
