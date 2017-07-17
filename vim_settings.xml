@@ -61,11 +61,16 @@
       <file name="/HTML File.txt.ft" timestamp="1500271985093">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500272115051">
+      <file name="/Dummy.txt" timestamp="1500274522080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-web/src/main/resources/props/log4j.xml" timestamp="1500274520858">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/domain/UserDirectory.java" timestamp="1499935464613">
         <mark key="[" line="103" column="35" />
@@ -76,7 +81,9 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
         <mark key="[" line="302" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-web/src/main/resources/spring/encrypt-beans.xml" timestamp="1500264079110" />
+      <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-web/src/config/antx_online.properties" timestamp="1500275018585">
+        <mark key="[" line="8" column="45" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/build.gradle" timestamp="1499396902423">
         <mark key="[" line="15" column="40" />
         <mark key="]" line="15" column="40" />
@@ -213,10 +220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>end</text>
+        <text>xmlns:log4j=&quot;http://jakarta.apache.org/log4j/&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>end</text>
+        <text>xmlns:log4j=&quot;http://jakarta.apache.org/log4j/&quot;</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
