@@ -56,10 +56,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/ShangshuReqLogMapper.xml" timestamp="1500023658439">
         <mark key="[" line="237" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1500372243802">
-        <mark key="[" line="473" column="45" />
-        <mark key="]" line="473" column="45" />
-        <mark key="." line="473" column="45" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1500375859694">
+        <mark key="[" line="498" column="70" />
+        <mark key="]" line="498" column="70" />
+        <mark key="." line="498" column="70" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1500370162385" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1500358767205" />
@@ -150,7 +150,7 @@
         <mark key="^" line="254" column="30" />
         <mark key="." line="407" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1500370540041">
+      <file name="/fragment.java" timestamp="1500375969550">
         <mark key="a" line="0" column="14" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -265,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXcgQ29tcGFyYXRvcjxTaGFuZ3NodUNvdW50TW9kZWwuU2ltcGxlQ2FsbExvZz4oKSB7CiAgICAgICAgICAgIHB1YmxpYyBpbnQgY29tcGFyZShTaGFuZ3NodUNvdW50TW9kZWwuU2ltcGxlQ2FsbExvZyBjYWxsTG9nMSwgU2hhbmdzaHVDb3VudE1vZGVsLlNpbXBsZUNhbGxMb2cgY2FsbExvZzIpIHsKICAgICAgICAgICAgICAgIC8vIOS4u+adoeS7tumAmuiur+aXtumVv++8jOasoeadoeS7tumAmuiur+asoeaVsAogICAgICAgICAgICAgICAgaWYgKGNhbGxMb2cxLmdldFZvaWNlRHVyYXRpb24oKSA+IGNhbGxMb2cyLmdldFZvaWNlRHVyYXRpb24oKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAxOwogICAgICAgICAgICAgICAgfSBlbHNlIGlmIChjYWxsTG9nMS5nZXRWb2ljZUR1cmF0aW9uKCkgPT0gY2FsbExvZzIuZ2V0Vm9pY2VEdXJhdGlvbigpKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGNhbGxMb2cxLmdldFNpemUoKSA+IGNhbGxMb2cyLmdldFNpemUoKSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGNhbGxMb2cxLmdldFNpemUoKSA9PSBjYWxsTG9nMi5nZXRTaXplKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIC0xOw==</text>
+        <text>simpleCalledLog</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>simpleCalledLog</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
