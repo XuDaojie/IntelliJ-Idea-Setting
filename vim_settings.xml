@@ -62,10 +62,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/ShangshuReqLogMapper.xml" timestamp="1500023658439">
         <mark key="[" line="237" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1500446579806">
-        <mark key="[" line="225" column="41" />
-        <mark key="]" line="225" column="41" />
-        <mark key="." line="225" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1500554732360">
+        <mark key="[" line="228" column="84" />
+        <mark key="]" line="228" column="84" />
+        <mark key="." line="228" column="84" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/.gitignore" timestamp="1500540900423">
         <mark key="[" line="246" column="0" />
@@ -114,10 +114,10 @@
       <file name="/dummy.sql" timestamp="1500544237939">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500544264377">
+      <file name="/Dummy.txt" timestamp="1500555239957">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/CreditEdit.js" timestamp="1500518908729">
@@ -161,8 +161,8 @@
       <file name="/RegExp Fragment (StringUtil.java:4536).regexp" timestamp="1499831914479">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1500433230048">
-        <mark key="[" line="40" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1500554641565">
+        <mark key="[" line="42" column="3845" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
@@ -175,8 +175,8 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/README.md" timestamp="1500552767937">
         <mark key="[" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1500433077398">
-        <mark key="[" line="619" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1500555102553">
+        <mark key="[" line="604" column="20" />
         <mark key="]" line="620" column="14" />
         <mark key="^" line="620" column="14" />
         <mark key="." line="620" column="14" />
@@ -288,11 +288,11 @@
       <jump line="34" column="4" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/mapper/UserDirectoryMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+      <register name="&quot;" type="4">
+        <text>额度区间管理。</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>额度区间管理。</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
