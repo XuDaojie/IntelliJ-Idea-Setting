@@ -24,9 +24,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/apache-activemq-5.15.0/examples/openwire/exploring-jms/QueuePTPSamples/QueueMonitor/QueueMonitor.java" timestamp="1500782129892" />
-      <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1499825720411">
-        <mark key="[" line="28" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500802281546">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1500803282379">
+        <mark key="[" line="23" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-web/src/main/webapp/index.jsp" timestamp="1500282106008">
         <mark key="[" line="4" column="7" />
@@ -54,6 +58,11 @@
         <mark key="[" line="27" column="6" />
         <mark key="]" line="27" column="6" />
         <mark key="." line="27" column="6" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/app/build.gradle" timestamp="1500803474067">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/index.jsx" timestamp="1500465761363">
         <mark key="[" line="12" column="0" />
@@ -124,6 +133,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/javase/build.gradle" timestamp="1500803456551">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,6 +157,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Public/SystemManagement/LogManagement/Components/SeachForm.js" timestamp="1500463496042">
         <mark key="[" line="75" column="51" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/settings.gradle" timestamp="1500801701857">
+        <mark key="[" line="4" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1500633028921">
         <mark key="[" line="163" column="32" />
@@ -286,8 +303,8 @@
       <jump line="34" column="4" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/mapper/UserDirectoryMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>额度区间管理。</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>额度区间管理。</text>
@@ -299,42 +316,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RlJPTSBzeXNfb3BlcmF0bwo=</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCiAgICBqY2VudGVyKCkKfQo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">L3RhcmdldC81MWZiYWRtaW4udGFyLmd6Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCn0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmxvY2stcGFuZWwiPgogICAgICAgICAgPENyZWRpdExpc3QgLz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmxvY2stcGFuZWwiPgogICAgICAgICAgPENyZWRpdExpc3QgLz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmxvY2stcGFuZWwiPgogICAgICAgICAgPENyZWRpdExpc3QgLz4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIC8vIFNwcmluZyBCb290IHN0YXJ0CiAgICBjb21waWxlICJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci13ZWI6JHtzcHJpbmdCb290VmVyc2lvbn0iLCB7CiAgICAgICAgZXhjbHVkZSAiZ3JvdXAiOiAiY29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmUiCiAgICAgICAgZXhjbHVkZSAiZ3JvdXAiOiAib3JnLnNsZjRqIgogICAgfQogICAgY29tcGlsZSAib3JnLnNsZjRqOmpjbC1vdmVyLXNsZjRqOiRzbDRqVmVyc2lvbiIKICAgIGNvbXBpbGUgIm9yZy5zbGY0ajpqdWwtdG8tc2xmNGo6JHNsNGpWZXJzaW9uIgogICAgY29tcGlsZSAib3JnLnNsZjRqOmxvZzRqLW92ZXItc2xmNGo6JHNsNGpWZXJzaW9uIgogICAgLy8gU3ByaW5nIEJvb3QgZW5kCi8vICAgIGNvbXBpbGUgIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXNlY3VyaXR5OiR7c3ByaW5nQm9vdFZlcnNpb259IgogICAgdGVzdENvbXBpbGUgIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXRlc3Q6JHtzcHJpbmdCb290VmVyc2lvbn0iCgogICAgY29tcGlsZSAib3JnLnNwcmluZ2ZyYW1ld29yay5hbXFwOnNwcmluZy1yYWJiaXQ6JHNwcmluZ1JhYmJpdFZlcnNpb24iCi8vICAgIGNvbXBpbGUgJ2NvbS5yYWJiaXRtcTphbXFwLWNsaWVudDo0LjEuMCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnZXRJbml0aWFsU3RhdGUoKSB7CiAgICByZXR1cm4gewogICAgICBwYXJhbXM6IHsKICAgICAgICBwYWdlU2l6ZTogNSwKICAgICAgICBjdXJyZW50UGFnZTogMQogICAgICB9CiAgICB9CiAgfSwKICBwYXNzUGFyYW1zKHBhcmFtcykgewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIHBhcmFtczogcGFyYW1zCiAgICB9KTsKICB9LAo=</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtYSU5YSU4sIEdKSiwgU09DSUFMX1NFQ1VSSVRZLCBDUkVESVR9IGZyb20gIi4vQ29tcG9uZW50cy9Db25zdGFudHMiOwo=</text>
+        <text encoding="base64">RlJPTSBzeXNfb3BlcmF0bwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>static propTypes = {
-    type: React.PropTypes.number.isRequired
-  };</text>
+      <register name="8" type="2">
+        <text encoding="base64">L3RhcmdldC81MWZiYWRtaW4udGFyLmd6Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly/pgInmi6kKICBvblNlbGVjdEFsbChzZWxlY3RlZCwgc2VsZWN0ZWRSb3dLZXlzLCBzZWxlY3RlZFJvd3MsIGNoYW5nZVJvd3MpIHsKICAgIGlmIChzZWxlY3RlZCkgewogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBzZWxlY3RlZFJvd0tleXMKICAgICAgfSkKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIHNlbGVjdGVkUm93S2V5czogW10KICAgICAgfSkKICAgIH0KICB9Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
