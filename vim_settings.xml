@@ -88,6 +88,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/settings.gradle" timestamp="1500801701857">
         <mark key="[" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/stomp/Listener.java" timestamp="1500816173740" />
       <file name="/RegExp Fragment (StringUtil.java:4536).regexp" timestamp="1499831914479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -100,8 +101,8 @@
         <mark key="^" line="620" column="14" />
         <mark key="." line="620" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500812535006">
-        <mark key="[" line="9" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500816815012">
+        <mark key="[" line="11" column="68" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1500805385929">
         <mark key="[" line="27" column="2" />
@@ -137,8 +138,10 @@
         <mark key="]" line="246" column="0" />
         <mark key="." line="246" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Publisher.java" timestamp="1500814265733">
-        <mark key="[" line="50" column="79" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Publisher.java" timestamp="1500815747322">
+        <mark key="[" line="34" column="52" />
+        <mark key="]" line="34" column="52" />
+        <mark key="." line="34" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1500632894817">
         <mark key="[" line="275" column="13" />
@@ -201,11 +204,20 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
         <mark key="[" line="42" column="11" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/amqp/Listener.java" timestamp="1500816235810">
+        <mark key="[" line="43" column="89" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/frame/stores/TabListStore.js" timestamp="1500445287390">
         <mark key="[" line="304" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/README.md" timestamp="1500552767937">
         <mark key="[" line="0" column="12" />
+      </file>
+      <file name="/fragment.java" timestamp="1500815624748">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+        <mark key="^" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/BaseDao.java" timestamp="1500282679199">
         <mark key="[" line="26" column="16" />
@@ -315,10 +327,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>group</text>
+        <text>password</text>
       </register>
       <register name="-" type="4">
-        <text>group</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
