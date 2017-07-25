@@ -12,6 +12,9 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/activemq/stomp/Publisher.java" timestamp="1500919399838">
         <mark key="[" line="30" column="58" />
       </file>
+      <file name="/a.dummy" timestamp="1500951050487">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1500886635647">
         <mark key="[" line="424" column="37" />
         <mark key="]" line="412" column="0" />
@@ -28,6 +31,12 @@
         <mark key="[" line="47" column="82" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/activemq/demo/MQConsumer.java" timestamp="1500951455436">
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="43" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="21" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/ShangshuReqLogMapper.xml" timestamp="1500023658439">
         <mark key="[" line="237" column="19" />
@@ -88,7 +97,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.activemq/activemq-all/5.15.0/a7127c2c24dd2be025d2be91e68096905dd23c3a/activemq-all-5.15.0-sources.jar!/org/apache/activemq/ActiveMQSession.java" timestamp="1500949661904" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/activemq/stomp/Comsumer.java" timestamp="1500949202259" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fusesource.stompjms/stompjms-client/1.19/403ccc59030e39acbf349605f424cc4478d30304/stompjms-client-1.19-sources.jar!/org/fusesource/stomp/jms/StompJmsDestination.java" timestamp="1500949076088" />
-      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/activemq/demo/MQProducer.java" timestamp="1500950030953">
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/activemq/demo/MQProducer.java" timestamp="1500951259478">
         <mark key="[" line="22" column="8" />
         <mark key="]" line="22" column="8" />
         <mark key="." line="22" column="8" />
@@ -303,10 +312,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Producer</text>
+        <text>createProducer</text>
       </register>
       <register name="-" type="4">
-        <text>Producer</text>
+        <text>createProducer</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
