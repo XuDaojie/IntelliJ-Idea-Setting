@@ -65,8 +65,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Public/SystemManagement/ProducttypeManagement/Components/SeachForm.js" timestamp="1500452249091">
         <mark key="[" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumerB.java" timestamp="1501040395488">
-        <mark key="[" line="22" column="82" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumerB.java" timestamp="1501074209613">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="19" column="51" />
+        <mark key="." line="19" column="51" />
       </file>
       <file name="/RegExp Fragment (StringUtil.java:4536).regexp" timestamp="1499831914479">
         <mark key="[" line="0" column="0" />
@@ -129,10 +131,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1500973517333">
         <mark key="[" line="280" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQProducer.java" timestamp="1501065179103">
-        <mark key="[" line="103" column="65" />
-        <mark key="]" line="103" column="65" />
-        <mark key="." line="103" column="65" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQProducer.java" timestamp="1501075843562">
+        <mark key="[" line="31" column="51" />
+        <mark key="]" line="31" column="51" />
+        <mark key="." line="31" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/SysOperatorRoleDao.java" timestamp="1500278856047">
         <mark key="[" line="33" column="24" />
@@ -140,7 +142,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/activemq/stomp/Listener.java" timestamp="1500919364133">
         <mark key="[" line="30" column="60" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1501035592739">
+      <file name="/HTML File.txt.ft" timestamp="1501073400099">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1500544237939">
@@ -158,9 +160,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/stomp/Publisher.java" timestamp="1501073730858" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
         <mark key="[" line="302" column="2" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.jms/javax.jms-api/2.0/a9535e0aec788d2b20137e217edf1a0524d6d1e7/javax.jms-api-2.0-sources.jar!/javax/jms/Session.java" timestamp="1501074253828" />
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-web/src/config/antx_test.properties" timestamp="1500293654014">
         <mark key="[" line="8" column="22" />
       </file>
@@ -182,10 +186,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/XinXinList.js" timestamp="1500449787792">
         <mark key="[" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumer.java" timestamp="1501065342003">
-        <mark key="[" line="123" column="3" />
-        <mark key="]" line="123" column="3" />
-        <mark key="." line="123" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumer.java" timestamp="1501075828261">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="8" />
+        <mark key="." line="34" column="8" />
         <mark key="^" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
@@ -193,6 +197,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/frame/stores/TabListStore.js" timestamp="1500445287390">
         <mark key="[" line="304" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumerA.java" timestamp="1501074261884">
+        <mark key="[" line="25" column="61" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/README.md" timestamp="1500552767937">
         <mark key="[" line="0" column="12" />
@@ -311,11 +318,20 @@
       <jump line="34" column="4" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/mapper/UserDirectoryMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">5Yig6ZmkLmltbAo=</text>
+      <register name="&quot;" type="4">
+        <text>session.setMessageListener(new MessageListener() {
+            @Override
+            public void onMessage(Message message) {
+                try {
+                    session.commit();
+                } catch (JMSException e) {
+                    e.printStackTrace();
+                }
+            }
+        });</text>
       </register>
       <register name="-" type="4">
-        <text>AUTO_ACKNOWLEDGE</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -323,26 +339,41 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">5Yig6ZmkLmltbAo=</text>
+      <register name="1" type="4">
+        <text>session.setMessageListener(new MessageListener() {
+            @Override
+            public void onMessage(Message message) {
+                try {
+                    session.commit();
+                } catch (JMSException e) {
+                    e.printStackTrace();
+                }
+            }
+        });</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHN0YXRpYyB2b2lkIHF1ZXVldCgpIHRocm93cyBKTVNFeGNlcHRpb24gewogICAgICAgIEFjdGl2ZU1RQ29ubmVjdGlvbkZhY3RvcnkgZmFjdG9yeSA9IG5ldyBBY3RpdmVNUUNvbm5lY3Rpb25GYWN0b3J5KAogICAgICAgICAgICAgICAgImFkbWluIiwgInBhc3N3b3JkIiwgInRjcDovL2xvY2FsaG9zdDo2MTYxNiIpOwovLyAgICAgICAgZmFjdG9yeS5zZXRCcm9rZXJVUkwoImZhaWxvdmVyOih0Y3A6Ly9sb2NhbGhvc3Q6NjE2MTYsdGNwOi8vbG9jYWxob3N0OjYxNjI2KSIpOwoKICAgICAgICBRdWV1ZUNvbm5lY3Rpb24gY29ubmVjdGlvbiA9IGZhY3RvcnkuY3JlYXRlUXVldWVDb25uZWN0aW9uKCk7CiAgICAgICAgY29ubmVjdGlvbi5zdGFydCgpOwoKICAgICAgICBTZXNzaW9uIHNlc3Npb24gPSBjb25uZWN0aW9uLmNyZWF0ZVNlc3Npb24odHJ1ZSwgU2Vzc2lvbi5BVVRPX0FDS05PV0xFREdFKTsKLy8gICAgICAgIERlc3RpbmF0aW9uIGRlcyA9IHNlc3Npb24uY3JlYXRlUXVldWUoIm15X3F1ZXVlIik7CiAgICAgICAgQWN0aXZlTVFRdWV1ZSBxdWV1ZSA9IG5ldyBBY3RpdmVNUVF1ZXVlKCJteV9xdWV1ZT9jb25zdW1lci5kaXNwYXRjaEFzeW5jPWZhbHNlJmNvbnN1bWVyLnByZWZldGNoU2l6ZT0xMCIpOwovLyAgICAgICAgRGVzdGluYXRpb24gZGVzID0gKChRdWV1ZVNlc3Npb24pc2Vzc2lvbikuY3JlYXRlUmVjZWl2ZXIocXVldWUpOwogICAgICAgIE1lc3NhZ2VDb25zdW1lciBjb25zdW1lciA9ICgoUXVldWVTZXNzaW9uKXNlc3Npb24pLmNyZWF0ZVJlY2VpdmVyKHF1ZXVlKTsKCiAgICAgICAgaW50IGkgPSAwOwogICAgICAgIGxvbmcgc3RhcnQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICBUZXh0TWVzc2FnZSBtc2cgPSAoVGV4dE1lc3NhZ2UpIGNvbnN1bWVyLnJlY2VpdmUoKTsKICAgICAgICAgICAgU3RyaW5nIGJvZHkgPSBtc2cuZ2V0VGV4dCgpOwovLyAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihib2R5KTsKICAgICAgICAgICAgc2Vzc2lvbi5jb21taXQoKTsKICAgICAgICAgICAgaWYgKGkgPT0gMTAwMCkgewogICAgICAgICAgICAgICAgbG9uZyBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICAgICAgICAgIGxvbmcgcyA9IChlbmQgLSBzdGFydCk7CiAgICAgICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIjEwMDDmnaEiICsgcyArICJtcyIpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGkgPT0gMTAwMDApIHsKICAgICAgICAgICAgICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgICAgICAgICBsb25nIHMgPSAoZW5kIC0gc3RhcnQpOwogICAgICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCIxMDAwMOadoSIgKyBzICsgIm1zIik7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoaSA9PSAxMDAwMDApIHsKICAgICAgICAgICAgICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgICAgICAgICBsb25nIHMgPSAoZW5kIC0gc3RhcnQpOwogICAgICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCIxMDAwMOadoSIgKyBzICsgIm1zIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCJTSFVURE9XTiIuZXF1YWxzKGJvZHkpKSB7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgICAgICArK2k7CiAgICAgICAgfQoKICAgICAgICBjb25uZWN0aW9uLmNsb3NlKCk7CiAgICB9</text>
+        <text>int i = 0;
+        while (i != 4) {
+            TextMessage msg = (TextMessage) consumer.receive();
+            String body = msg.getText();
+            System.out.println(body);
+            i++;
+        }</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBxdWV1ZSgpOwogICAgICAgIHRvcGljKCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">LyAgICAgICAgTWVzc2FnZVByb2R1Y2VyIHByb2R1Y2VyID0gc2Vzc2lvbi5jcmVhdGVQcm9kdWNlcihkZXMpOwovLyAgICAgICAgcHJvZHVjZXIuc2V0RGVsaXZlcnlNb2RlKERlbGl2ZXJ5TW9kZS5OT05fUEVSU0lTVEVOVCk7Ci8vCi8vICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDA7IGkrKykgewovLyAgICAgICAgICAgIE1lc3NhZ2UgbXNnQSA9IHNlc3Npb24uY3JlYXRlVGV4dE1lc3NhZ2UoInRleHRNc2dBIiArIGkpOwovLy8vICAgICAgICAgICAgbXNnQS5zZXRJbnRQcm9wZXJ0eSgiaWQiLCBpKTsKLy8gICAgICAgICAgICBtc2dBLnNldFN0cmluZ1Byb3BlcnR5KCJ1c2VybmFtZSIsICJBIiArIGkpOwovLyAgICAgICAgICAgIHByb2R1Y2VyLnNlbmQobXNnQSk7Ci8vCi8vICAgICAgICAgICAgTWVzc2FnZSBtc2dCID0gc2Vzc2lvbi5jcmVhdGVUZXh0TWVzc2FnZSgidGV4dE1zZ0IiICsgaSApOwovLy8vICAgICAgICAgICAgbXNnQi5zZXRJbnRQcm9wZXJ0eSgiaWQiLCBpKTsKLy8gICAgICAgICAgICBtc2dCLnNldFN0cmluZ1Byb3BlcnR5KCJ1c2VybmFtZSIsICJCIik7Ci8vICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5Yig6ZmkLmltbAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHN0YXRpYyB2b2lkIHF1ZXVldCgpIHRocm93cyBKTVNFeGNlcHRpb24gewogICAgICAgIEFjdGl2ZU1RQ29ubmVjdGlvbkZhY3RvcnkgZmFjdG9yeSA9IG5ldyBBY3RpdmVNUUNvbm5lY3Rpb25GYWN0b3J5KAogICAgICAgICAgICAgICAgImFkbWluIiwgInBhc3N3b3JkIiwgInRjcDovL2xvY2FsaG9zdDo2MTYxNiIpOwovLyAgICAgICAgZmFjdG9yeS5zZXRCcm9rZXJVUkwoImZhaWxvdmVyOih0Y3A6Ly9sb2NhbGhvc3Q6NjE2MTYsdGNwOi8vbG9jYWxob3N0OjYxNjI2KSIpOwoKICAgICAgICBRdWV1ZUNvbm5lY3Rpb24gY29ubmVjdGlvbiA9IGZhY3RvcnkuY3JlYXRlUXVldWVDb25uZWN0aW9uKCk7CiAgICAgICAgY29ubmVjdGlvbi5zdGFydCgpOwoKICAgICAgICBTZXNzaW9uIHNlc3Npb24gPSBjb25uZWN0aW9uLmNyZWF0ZVNlc3Npb24odHJ1ZSwgU2Vzc2lvbi5BVVRPX0FDS05PV0xFREdFKTsKLy8gICAgICAgIERlc3RpbmF0aW9uIGRlcyA9IHNlc3Npb24uY3JlYXRlUXVldWUoIm15X3F1ZXVlIik7CiAgICAgICAgQWN0aXZlTVFRdWV1ZSBxdWV1ZSA9IG5ldyBBY3RpdmVNUVF1ZXVlKCJteV9xdWV1ZT9jb25zdW1lci5kaXNwYXRjaEFzeW5jPWZhbHNlJmNvbnN1bWVyLnByZWZldGNoU2l6ZT0xMCIpOwovLyAgICAgICAgRGVzdGluYXRpb24gZGVzID0gKChRdWV1ZVNlc3Npb24pc2Vzc2lvbikuY3JlYXRlUmVjZWl2ZXIocXVldWUpOwogICAgICAgIE1lc3NhZ2VDb25zdW1lciBjb25zdW1lciA9ICgoUXVldWVTZXNzaW9uKXNlc3Npb24pLmNyZWF0ZVJlY2VpdmVyKHF1ZXVlKTsKCiAgICAgICAgaW50IGkgPSAwOwogICAgICAgIGxvbmcgc3RhcnQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICBUZXh0TWVzc2FnZSBtc2cgPSAoVGV4dE1lc3NhZ2UpIGNvbnN1bWVyLnJlY2VpdmUoKTsKICAgICAgICAgICAgU3RyaW5nIGJvZHkgPSBtc2cuZ2V0VGV4dCgpOwovLyAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihib2R5KTsKICAgICAgICAgICAgc2Vzc2lvbi5jb21taXQoKTsKICAgICAgICAgICAgaWYgKGkgPT0gMTAwMCkgewogICAgICAgICAgICAgICAgbG9uZyBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICAgICAgICAgIGxvbmcgcyA9IChlbmQgLSBzdGFydCk7CiAgICAgICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIjEwMDDmnaEiICsgcyArICJtcyIpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGkgPT0gMTAwMDApIHsKICAgICAgICAgICAgICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgICAgICAgICBsb25nIHMgPSAoZW5kIC0gc3RhcnQpOwogICAgICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCIxMDAwMOadoSIgKyBzICsgIm1zIik7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoaSA9PSAxMDAwMDApIHsKICAgICAgICAgICAgICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgICAgICAgICBsb25nIHMgPSAoZW5kIC0gc3RhcnQpOwogICAgICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCIxMDAwMOadoSIgKyBzICsgIm1zIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCJTSFVURE9XTiIuZXF1YWxzKGJvZHkpKSB7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgICAgICArK2k7CiAgICAgICAgfQoKICAgICAgICBjb25uZWN0aW9uLmNsb3NlKCk7CiAgICB9</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBxdWV1ZSgpOwogICAgICAgIHRvcGljKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -351,17 +382,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="4">
-        <text>try {
-                Thread.sleep(1000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }</text>
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
