@@ -12,6 +12,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/activemq/stomp/Publisher.java" timestamp="1500919399838">
         <mark key="[" line="30" column="58" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.jms/javax.jms-api/2.0/a9535e0aec788d2b20137e217edf1a0524d6d1e7/javax.jms-api-2.0-sources.jar!/javax/jms/TextMessage.java" timestamp="1501035009618" />
       <file name="/a.dummy" timestamp="1500962311812">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,10 +93,11 @@
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/build.gradle" timestamp="1501006795145">
         <mark key="[" line="48" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/src/main/java/com/xdj/javaee/listener/MQListener.java" timestamp="1501007483587">
+      <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/src/main/java/com/xdj/javaee/listener/MQListener.java" timestamp="1501035504127">
         <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/activemq/demo/MQProducer.java" timestamp="1501002641390">
         <mark key="[" line="15" column="46" />
@@ -120,7 +122,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/activemq/stomp/Listener.java" timestamp="1500919364133">
         <mark key="[" line="30" column="60" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1500360467467">
+      <file name="/HTML File.txt.ft" timestamp="1501035592739">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1500544237939">
@@ -401,6 +403,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
