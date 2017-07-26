@@ -118,10 +118,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1500973517333">
         <mark key="[" line="280" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQProducer.java" timestamp="1501050137290">
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="12" />
-        <mark key="." line="37" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQProducer.java" timestamp="1501054663662">
+        <mark key="[" line="47" column="32" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/SysOperatorRoleDao.java" timestamp="1500278856047">
         <mark key="[" line="33" column="24" />
@@ -171,10 +171,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/XinXinList.js" timestamp="1500449787792">
         <mark key="[" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumer.java" timestamp="1501050827951">
-        <mark key="[" line="24" column="50" />
-        <mark key="]" line="24" column="50" />
-        <mark key="." line="24" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumer.java" timestamp="1501054783763">
+        <mark key="[" line="57" column="49" />
+        <mark key="]" line="57" column="49" />
+        <mark key="." line="57" column="49" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
         <mark key="[" line="42" column="11" />
@@ -300,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>createQueue</text>
+        <text>topic</text>
       </register>
       <register name="-" type="4">
-        <text>createQueue</text>
+        <text>topic</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -311,13 +311,8 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>// 创建一个文本消息
-            TextMessage message = session.createTextMessage(&quot;A-张三-&quot; + i);
-            // 这里我们分别设置对应的消息信息，当成是一组消息
-            message.setIntProperty(&quot;id&quot;, i);
-            message.setStringProperty(&quot;JMSXGroupID&quot;, &quot;A&quot;);
-            producer.send(message);</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBxdWV1ZSgpOwogICAgICAgIHRvcGljKCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -326,31 +321,35 @@
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIlNIVVRET1dOIi5lcXVhbHMoYm9keSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7dXJsICdodHRwOi8vbWF2ZW4uYWxpeXVuLmNvbS9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvJ30K</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSAnY29tLnJhYmJpdG1xOmFjdGl2ZW1xLmFtcXAtY2xpZW50OjQuMS4wJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBlY2xpcHNlIHsKICAgICAgICBjbGFzc3BhdGggewogICAgICAgICAgICBkb3dubG9hZEphdmFkb2MgPSB0cnVlCiAgICAgICAgICAgIGRvd25sb2FkU291cmNlcyA9IHRydWUKICAgICAgICB9CiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gICAgICAgIE1lc3NhZ2VQcm9kdWNlciBwcm9kdWNlciA9IHNlc3Npb24uY3JlYXRlUHJvZHVjZXIoZGVzKTsKLy8gICAgICAgIHByb2R1Y2VyLnNldERlbGl2ZXJ5TW9kZShEZWxpdmVyeU1vZGUuTk9OX1BFUlNJU1RFTlQpOwovLwovLyAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDAwOyBpKyspIHsKLy8gICAgICAgICAgICBNZXNzYWdlIG1zZ0EgPSBzZXNzaW9uLmNyZWF0ZVRleHRNZXNzYWdlKCJ0ZXh0TXNnQSIgKyBpKTsKLy8vLyAgICAgICAgICAgIG1zZ0Euc2V0SW50UHJvcGVydHkoImlkIiwgaSk7Ci8vICAgICAgICAgICAgbXNnQS5zZXRTdHJpbmdQcm9wZXJ0eSgidXNlcm5hbWUiLCAiQSIgKyBpKTsKLy8gICAgICAgICAgICBwcm9kdWNlci5zZW5kKG1zZ0EpOwovLwovLyAgICAgICAgICAgIE1lc3NhZ2UgbXNnQiA9IHNlc3Npb24uY3JlYXRlVGV4dE1lc3NhZ2UoInRleHRNc2dCIiArIGkgKTsKLy8vLyAgICAgICAgICAgIG1zZ0Iuc2V0SW50UHJvcGVydHkoImlkIiwgaSk7Ci8vICAgICAgICAgICAgbXNnQi5zZXRTdHJpbmdQcm9wZXJ0eSgidXNlcm5hbWUiLCAiQiIpOwovLyAgICAgICAgfQ==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCiAgICBqY2VudGVyKCkKfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgc2Vzc2lvbi5zZXRNZXNzYWdlTGlzdGVuZXIobmV3IE1lc3NhZ2VMaXN0ZW5lcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uTWVzc2FnZShNZXNzYWdlIG1lc3NhZ2UpIHsKICAgICAgICAgICAgICAgIFRleHRNZXNzYWdlIG1zZyA9IChUZXh0TWVzc2FnZSkgbWVzc2FnZTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtc2cpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
