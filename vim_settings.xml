@@ -120,10 +120,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1500973517333">
         <mark key="[" line="280" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQProducer.java" timestamp="1501054663662">
-        <mark key="[" line="47" column="32" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQProducer.java" timestamp="1501063022359">
+        <mark key="[" line="103" column="65" />
+        <mark key="]" line="103" column="65" />
+        <mark key="." line="103" column="65" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/SysOperatorRoleDao.java" timestamp="1500278856047">
         <mark key="[" line="33" column="24" />
@@ -173,10 +173,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/XinXinList.js" timestamp="1500449787792">
         <mark key="[" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumer.java" timestamp="1501060170567">
-        <mark key="[" line="31" column="74" />
-        <mark key="]" line="61" column="43" />
-        <mark key="." line="61" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumer.java" timestamp="1501062712090">
+        <mark key="[" line="88" column="51" />
+        <mark key="]" line="88" column="51" />
+        <mark key="." line="88" column="51" />
         <mark key="^" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
@@ -303,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>createDurableConsumer</text>
+        <text>AUTO_ACKNOWLEDGE</text>
       </register>
       <register name="-" type="4">
-        <text>createDurableConsumer</text>
+        <text>AUTO_ACKNOWLEDGE</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
