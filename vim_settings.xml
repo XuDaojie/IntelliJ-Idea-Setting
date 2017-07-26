@@ -118,8 +118,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1500973517333">
         <mark key="[" line="280" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQProducer.java" timestamp="1501047807932">
-        <mark key="[" line="15" column="61" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQProducer.java" timestamp="1501050137290">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="12" />
+        <mark key="." line="37" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/SysOperatorRoleDao.java" timestamp="1500278856047">
         <mark key="[" line="33" column="24" />
@@ -169,10 +171,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/XinXinList.js" timestamp="1500449787792">
         <mark key="[" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumer.java" timestamp="1501048378241">
-        <mark key="[" line="16" column="62" />
-        <mark key="]" line="16" column="62" />
-        <mark key="." line="16" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumer.java" timestamp="1501050827951">
+        <mark key="[" line="24" column="50" />
+        <mark key="]" line="24" column="50" />
+        <mark key="." line="24" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
         <mark key="[" line="42" column="11" />
@@ -298,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?jms.prefetchPolicy.queuePrefetch=1</text>
+        <text>createQueue</text>
       </register>
       <register name="-" type="4">
-        <text>?jms.prefetchPolicy.queuePrefetch=1</text>
+        <text>createQueue</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -309,26 +311,31 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>// 创建一个文本消息
+            TextMessage message = session.createTextMessage(&quot;A-张三-&quot; + i);
+            // 这里我们分别设置对应的消息信息，当成是一组消息
+            message.setIntProperty(&quot;id&quot;, i);
+            message.setStringProperty(&quot;JMSXGroupID&quot;, &quot;A&quot;);
+            producer.send(message);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIlNIVVRET1dOIi5lcXVhbHMoYm9keSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7dXJsICdodHRwOi8vbWF2ZW4uYWxpeXVuLmNvbS9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvJ30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIlNIVVRET1dOIi5lcXVhbHMoYm9keSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7dXJsICdodHRwOi8vbWF2ZW4uYWxpeXVuLmNvbS9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvJ30K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgY29tcGlsZSAnY29tLnJhYmJpdG1xOmFjdGl2ZW1xLmFtcXAtY2xpZW50OjQuMS4wJwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBlY2xpcHNlIHsKICAgICAgICBjbGFzc3BhdGggewogICAgICAgICAgICBkb3dubG9hZEphdmFkb2MgPSB0cnVlCiAgICAgICAgICAgIGRvd25sb2FkU291cmNlcyA9IHRydWUKICAgICAgICB9CiAgICB9</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -337,13 +344,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCiAgICBqY2VudGVyKCkKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCiAgICBqY2VudGVyKCkKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
