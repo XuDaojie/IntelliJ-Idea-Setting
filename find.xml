@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.vm" />
     <recentFileMasks>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
       <mask>pom.l</mask>
@@ -26,14 +24,17 @@
       <mask>build.grad</mask>
       <mask>build.gradl</mask>
       <mask>build.gradle</mask>
-      <mask>*.x</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>x</mask>
       <mask>xm</mask>
       <mask>xml</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.v</mask>
+      <mask>*.vm</mask>
     </recentFileMasks>
   </component>
 </application>
