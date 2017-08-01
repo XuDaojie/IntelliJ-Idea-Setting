@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>pom.l</mask>
-      <mask>poml</mask>
-      <mask>pol</mask>
       <mask>pl</mask>
       <mask>l</mask>
       <mask>b</mask>
@@ -22,18 +19,21 @@
       <mask>build.gradl</mask>
       <mask>build.gradle</mask>
       <mask>*.l</mask>
-      <mask>*</mask>
       <mask>x</mask>
       <mask>xm</mask>
       <mask>xml</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
+      <mask>*.vm</mask>
+      <mask>*.v</mask>
+      <mask>*</mask>
+      <mask>*.pom</mask>
+      <mask>*.po</mask>
+      <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.v</mask>
-      <mask>*.vm</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
