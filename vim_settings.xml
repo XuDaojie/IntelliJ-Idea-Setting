@@ -115,11 +115,11 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1501059724665">
         <mark key="[" line="24" column="74" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1501674020238">
-        <mark key="[" line="135" column="58" />
-        <mark key="]" line="135" column="58" />
-        <mark key="." line="135" column="58" />
-        <mark key="^" line="153" column="48" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1501675108269">
+        <mark key="[" line="135" column="88" />
+        <mark key="]" line="121" column="30" />
+        <mark key="." line="121" column="30" />
+        <mark key="^" line="121" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-common/src/main/java/tool/code/generator/Create.java" timestamp="1501672130552">
         <mark key="[" line="22" column="30" />
@@ -205,10 +205,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/SeachForm.js" timestamp="1501483814718">
         <mark key="[" line="34" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501674024349">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501676225268">
+        <mark key="[" line="76" column="16" />
+        <mark key="]" line="76" column="16" />
+        <mark key="." line="76" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501579414271">
         <mark key="[" line="0" column="1" />
@@ -361,10 +361,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>s$</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>s$</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
