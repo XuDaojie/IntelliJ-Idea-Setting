@@ -38,19 +38,19 @@
         <mark key="]" line="37" column="17" />
         <mark key="." line="37" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/CollectionDistributionServiceImpl.java" timestamp="1501646124539">
-        <mark key="[" line="42" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/CollectionDistributionServiceImpl.java" timestamp="1501652974582">
+        <mark key="[" line="41" column="28" />
         <mark key="]" line="42" column="41" />
         <mark key="^" line="33" column="14" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/27cbeb5d-e8f9-4de8-9f52-8f312cf41d7e/console.sql" timestamp="1501645500661">
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/27cbeb5d-e8f9-4de8-9f52-8f312cf41d7e/console.sql" timestamp="1501654261269">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="18" />
+        <mark key="." line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/CollectionDistributionService.java" timestamp="1501586245817">
-        <mark key="[" line="16" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/CollectionDistributionService.java" timestamp="1501652773600">
+        <mark key="[" line="17" column="21" />
         <mark key="]" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
@@ -60,6 +60,12 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Public/SystemManagement/ProducttypeManagement/Components/SeachForm.js" timestamp="1500452249091">
         <mark key="[" line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/CollectionDistributionDao.xml" timestamp="1501654092841">
+        <mark key="[" line="184" column="28" />
+        <mark key="]" line="184" column="28" />
+        <mark key="." line="184" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/borrow/BorrowPayInfoMapper.xml" timestamp="1501653095192" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcCollectionDistribution.xml" timestamp="1501645439252">
         <mark key="[" line="146" column="58" />
         <mark key="]" line="146" column="58" />
@@ -180,15 +186,15 @@
       <file name="/dummy.sql" timestamp="1501586620469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/CollectionDistributionController.java" timestamp="1501586467733">
-        <mark key="[" line="43" column="13" />
-        <mark key="]" line="43" column="13" />
-        <mark key="." line="43" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/CollectionDistributionController.java" timestamp="1501652767332">
+        <mark key="[" line="61" column="25" />
+        <mark key="]" line="42" column="13" />
+        <mark key="." line="42" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/javase/build.gradle" timestamp="1501003805169">
         <mark key="[" line="10" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501645377102">
+      <file name="/Dummy.txt" timestamp="1501652976319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -222,6 +228,9 @@
         <mark key="]" line="9" column="14" />
         <mark key="." line="9" column="14" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/CollectionDistributionDao.java" timestamp="1501652795282">
+        <mark key="[" line="18" column="20" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/build.gradle" timestamp="1501057090977">
         <mark key="[" line="7" column="25" />
       </file>
@@ -248,6 +257,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/SeachForm.js" timestamp="1501483966337">
         <mark key="[" line="31" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1501652720911">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/BaseDao.java" timestamp="1500282679199">
         <mark key="[" line="26" column="16" />
@@ -357,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getPage</text>
+        <text>pool</text>
       </register>
       <register name="-" type="4">
-        <text>getPage</text>
+        <text>pool</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -368,16 +380,24 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>? AND type = ? AND
+      overdue_day BETWEEN ? AND ? AND date_format(distri_date, '%Y-%m-%d') = ?
+LIMIT 0, 10</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">U0VMRUNUCiAgdXNlci5jb25zdW1lcl9ubywKICBvcGVyYXRvci5uYW1lICBBUyBvcGVyYXRvcl9uYW1lLAogIHVzZXIucmVhbF9uYW1lIEFTIHVzZXJuYW1lLAogIHVzZXIuaWRfbm8sCiAgdXNlci5waG9uZSwKICBwb29sLmFnaW5nLAogIHBvb2wuc3RhdHVzLAogIHBvb2wucmVzdF9hbW91bnQsCiAgZGlzLmRpc3RyaV9kYXRlLAogICfov5jmrL7ml6XmnJ8nICAgICAgICAgQVMgcmVwYXlfZGF0ZSwKICBwb29sLnN0YXR1cywKICBwb29sLnJlcGF5X2Ftb3VudF9zdW0sCiAgcG9vbC50eXBlLAogIHBvb2wub3ZlcmR1ZV9kYXkKRlJPTSBhcmNfY29sbGVjdGlvbl9kaXN0cmlidXRpb24gZGlzIExFRlQgSk9JTiBhcmNfZGF0YV9wb29sIHBvb2wgT04gZGlzLmJvcnJvd19ubyA9IHBvb2wuYm9ycm93X25vCiAgTEVGVCBKT0lOIGFyY191c2VyIHVzZXIgT04gcG9vbC51c2VyX2lkID0gdXNlci5jb25zdW1lcl9ubwogIExFRlQgSk9JTiBzeXNfb3BlcmF0b3Igb3BlcmF0b3IgT04gZGlzLnVzZXJfaWQgPSBvcGVyYXRvci5pZApXSEVSRSBkaXMuc3RhdHVzID0gMTAgQU5EIGRhdGVfZm9ybWF0KGdtdF9hcnJpdmFsLCAnJVktJW0tJWQnKSA9ID8gQU5EIHBob25lID0g</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>AND date_format(pool.gmt_arrival, '%Y-%m-%d') =  '2017-06-30'
             AND pool.amount BETWEEN 0 AND 500
             AND user.phone = '18968058660'
@@ -385,29 +405,23 @@
             AND pool.overdue_day BETWEEN 0 AND 10
             AND date_format(distri_date, '%Y-%m-%d') = '2017-08-01'</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PCEtLSDln7rmnKznmoRzcWzmn6Xor6LmnaHku7blhazlhbHlvJXnlKggLS0+CiAgICA8c3FsIGlkPSJzZWFyY2hCeSI+CiAgICAgICAgPHRyaW0gcHJlZml4PSJ3aGVyZSIgcHJlZml4T3ZlcnJpZGVzPSJhbmR8b3IiPgogICAgICAgICAgICBXSEVSRSBpc19kZWxldGUgPSAwCiAgICAgICAgICAgIDxpZiB0ZXN0PSJpZCAhPW51bGwiPgogICAgICAgICAgICAgICAgQU5EIGlkID0gI3tpZCxqZGJjVHlwZT1JTlRFR0VSfQogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0iYm9ycm93Tm8gIT0gbnVsbCBhbmQgYm9ycm93Tm8gIT0gJyciPgogICAgICAgICAgICAgICAgQU5EIGJvcnJvd19ubyA9ICN7Ym9ycm93Tm8samRiY1R5cGU9VkFSQ0hBUn0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InVzZXJJZCAhPSBudWxsIGFuZCB1c2VySWQgIT0gJyciPgogICAgICAgICAgICAgICAgQU5EIHVzZXJfaWQgPSAje3VzZXJJZCxqZGJjVHlwZT1WQVJDSEFSfQogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icmVuZXdhbE5vICE9IG51bGwgYW5kIHJlbmV3YWxObyAhPSAnJyI+CiAgICAgICAgICAgICAgICBBTkQgcmVuZXdhbF9ubyA9ICN7cmVuZXdhbE5vLGpkYmNUeXBlPVZBUkNIQVJ9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJnbXRBcnJpdmFsICE9IG51bGwgYW5kIGdtdEFycml2YWwgIT0gJyciPgogICAgICAgICAgICAgICAgQU5EIGdtdF9hcnJpdmFsID0gI3tnbXRBcnJpdmFsLGpkYmNUeXBlPVRJTUVTVEFNUH0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9ImFtb3VudCAhPSBudWxsIGFuZCBhbW91bnQgIT0gJyciPgogICAgICAgICAgICAgICAgQU5EIGFtb3VudCA9ICN7YW1vdW50LGpkYmNUeXBlPURFQ0lNQUx9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJjYXJkTnVtYmVyICE9IG51bGwgYW5kIGNhcmROdW1iZXIgIT0gJyciPgogICAgICAgICAgICAgICAgQU5EIGNhcmRfbnVtYmVyID0gI3tjYXJkTnVtYmVyLGpkYmNUeXBlPVZBUkNIQVJ9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJjYXJkTmFtZSAhPSBudWxsIGFuZCBjYXJkTmFtZSAhPSAnJyI+CiAgICAgICAgICAgICAgICBBTkQgY2FyZF9uYW1lID0gI3tjYXJkTmFtZSxqZGJjVHlwZT1WQVJDSEFSfQogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0icmVwYXlBbW91bnQgIT0gbnVsbCBhbmQgcmVwYXlBbW91bnQgIT0gJyciPgogICAgICAgICAgICAgICAgQU5EIHJlcGF5X2Ftb3VudCA9ICN7cmVwYXlBbW91bnQsamRiY1R5cGU9REVDSU1BTH0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InJlc3RBbW91bnQgIT0gbnVsbCBhbmQgcmVzdEFtb3VudCAhPSAnJyI+CiAgICAgICAgICAgICAgICBBTkQgcmVzdF9hbW91bnQgPSAje3Jlc3RBbW91bnQsamRiY1R5cGU9REVDSU1BTH0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InJlcGF5QW1vdW50U3VtICE9IG51bGwgYW5kIHJlcGF5QW1vdW50U3VtICE9ICcnIj4KICAgICAgICAgICAgICAgIEFORCByZXBheV9hbW91bnRfc3VtID0gI3tyZXBheUFtb3VudFN1bSxqZGJjVHlwZT1ERUNJTUFMfQogICAgICAgICAgICA8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0ic3RhdHVzICE9IG51bGwgYW5kIHN0YXR1cyAhPSAnJyI+CiAgICAgICAgICAgICAgICBBTkQgc3RhdHVzID0gI3tzdGF0dXMsamRiY1R5cGU9SU5URUdFUn0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InJlcGF5RGF0ZSAhPSBudWxsIGFuZCByZXBheURhdGUgIT0gJyciPgogICAgICAgICAgICAgICAgQU5EIHJlcGF5X2RhdGUgPSAje3JlcGF5RGF0ZSxqZGJjVHlwZT1USU1FU1RBTVB9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJ0eXBlICE9IG51bGwgYW5kIHR5cGUgIT0gJyciPgogICAgICAgICAgICAgICAgQU5EIHR5cGUgPSAje3R5cGUsamRiY1R5cGU9SU5URUdFUn0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9Im92ZXJkdWVEYXkgIT0gbnVsbCBhbmQgb3ZlcmR1ZURheSAhPSAnJyI+CiAgICAgICAgICAgICAgICBBTkQgb3ZlcmR1ZV9kYXkgPSAje292ZXJkdWVEYXksamRiY1R5cGU9SU5URUdFUn0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InJlbmV3YWxOdW0gIT0gbnVsbCBhbmQgcmVuZXdhbE51bSAhPSAnJyI+CiAgICAgICAgICAgICAgICBBTkQgcmVuZXdhbF9udW0gPSAje3JlbmV3YWxOdW0samRiY1R5cGU9SU5URUdFUn0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9Imludm9sdmVBbW91bnQgIT0gbnVsbCBhbmQgaW52b2x2ZUFtb3VudCAhPSAnJyI+CiAgICAgICAgICAgICAgICBBTkQgaW52b2x2ZV9hbW91bnQgPSAje2ludm9sdmVBbW91bnQsamRiY1R5cGU9REVDSU1BTH0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9Im92ZXJkdWVBbW91bnQgIT0gbnVsbCBhbmQgb3ZlcmR1ZUFtb3VudCAhPSAnJyI+CiAgICAgICAgICAgICAgICBBTkQgb3ZlcmR1ZV9hbW91bnQgPSAje292ZXJkdWVBbW91bnQsamRiY1R5cGU9REVDSU1BTH0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InJhdGVBbW91bnQgIT0gbnVsbCBhbmQgcmF0ZUFtb3VudCAhPSAnJyI+CiAgICAgICAgICAgICAgICBBTkQgcmF0ZV9hbW91bnQgPSAje3JhdGVBbW91bnQsamRiY1R5cGU9REVDSU1BTH0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InN1bU92ZXJkdWUgIT0gbnVsbCBhbmQgc3VtT3ZlcmR1ZSAhPSAnJyI+CiAgICAgICAgICAgICAgICBBTkQgc3VtX292ZXJkdWUgPSAje3N1bU92ZXJkdWUsamRiY1R5cGU9REVDSU1BTH0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9IndlaWFuRGF0ZSAhPSBudWxsIGFuZCB3ZWlhbkRhdGUgIT0gJyciPgogICAgICAgICAgICAgICAgQU5EIHdlaWFuX2RhdGUgPSAje3dlaWFuRGF0ZSxqZGJjVHlwZT1USU1FU1RBTVB9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJjYXNlRGF0ZSAhPSBudWxsIGFuZCBjYXNlRGF0ZSAhPSAnJyI+CiAgICAgICAgICAgICAgICBBTkQgY2FzZV9kYXRlID0gI3tjYXNlRGF0ZSxqZGJjVHlwZT1USU1FU1RBTVB9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJnbXRQbGFuUmVwYXltZW50ICE9IG51bGwgYW5kIGdtdFBsYW5SZXBheW1lbnQgIT0gJyciPgogICAgICAgICAgICAgICAgQU5EIGdtdF9wbGFuX3JlcGF5bWVudCA9ICN7Z210UGxhblJlcGF5bWVudCxqZGJjVHlwZT1USU1FU1RBTVB9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJjcmVhdGVUaW1lICE9IG51bGwgYW5kIGNyZWF0ZVRpbWUgIT0gJyciPgogICAgICAgICAgICAgICAgQU5EIGNyZWF0ZV90aW1lID0gI3tjcmVhdGVUaW1lLGpkYmNUeXBlPVRJTUVTVEFNUH0KICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InVwZGF0ZVRpbWUgIT0gbnVsbCBhbmQgdXBkYXRlVGltZSAhPSAnJyI+CiAgICAgICAgICAgICAgICBBTkQgdXBkYXRlX3RpbWUgPSAje3VwZGF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfQogICAgICAgICAgICA8L2lmPgogICAgICAgIDwvdHJpbT4KICAgIDwvc3FsPg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGlkOwoKICAgIHB1YmxpYyBpbnQgZ2V0SWQoKSB7CiAgICAgICAgcmV0dXJuIGlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldElkKGludCBpZCkgewogICAgICAgIHRoaXMuaWQgPSBpZDsK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8dHJpbT4KICAgICAgICAgICAgCiAgICAgICAgPC90cmltPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGlkOwoKICAgIHB1YmxpYyBpbnQgZ2V0SWQoKSB7CiAgICAgICAgcmV0dXJuIGlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldElkKGludCBpZCkgewogICAgICAgIHRoaXMuaWQgPSBpZDsK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nICAgICAgICAgICAgbWVudU5hbWU7CgogICAgcHJpdmF0ZSBJbnRlZ2VyICAgICAgICAgICAgICAgcm9sZVR5cGU7CiAgICBwcml2YXRlIEludGVnZXIgICAgICAgICAgICAgICB0eXBlOwogICAgcHJpdmF0ZSBMb25nICAgICAgICAgICAgICAgcGFyZW50TWVudTsKCiAgICBwdWJsaWMgRGF0YVBvb2xRdWVyeSgpIHsKICAgICAgICBzdXBlcigpOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TWVudU5hbWUoKSB7CiAgICAgICAgcmV0dXJuIG1lbnVOYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE1lbnVOYW1lKFN0cmluZyBtZW51TmFtZSkgewogICAgICAgIHRoaXMubWVudU5hbWUgPSBtZW51TmFtZTsKICAgIH0KCiAgICBwdWJsaWMgSW50ZWdlciBnZXRSb2xlVHlwZSgpIHsKICAgICAgICByZXR1cm4gcm9sZVR5cGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Um9sZVR5cGUoSW50ZWdlciByb2xlVHlwZSkgewogICAgICAgIHRoaXMucm9sZVR5cGUgPSByb2xlVHlwZTsKICAgIH0KCglwdWJsaWMgSW50ZWdlciBnZXRUeXBlKCkgewoJCXJldHVybiB0eXBlOwoJfQoKCXB1YmxpYyB2b2lkIHNldFR5cGUoSW50ZWdlciB0eXBlKSB7CgkJdGhpcy50eXBlID0gdHlwZTsKCX0KCglwdWJsaWMgTG9uZyBnZXRQYXJlbnRNZW51KCkgewoJCXJldHVybiBwYXJlbnRNZW51OwoJfQoKCXB1YmxpYyB2b2lkIHNldFBhcmVudE1lbnUoTG9uZyBwYXJlbnRNZW51KSB7CgkJdGhpcy5wYXJlbnRNZW51ID0gcGFyZW50TWVudTsKCX0KCg==</text>
+        <text encoding="base64">ICAgICAgICA8dHJpbT4KICAgICAgICAgICAgCiAgICAgICAgPC90cmltPgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
