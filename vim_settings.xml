@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/dto/CollectionDto.java" timestamp="1501668126373">
         <mark key="'" line="109" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1501581706713">
+      <file name="/a.dummy" timestamp="1501672308954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/pom.xml" timestamp="1501646445824">
@@ -34,14 +34,20 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1501569884243">
         <mark key="[" line="42" column="54" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/UserController.java" timestamp="1501672316891">
+        <mark key="[" line="21" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/ArcUserDao.java" timestamp="1501672345915">
+        <mark key="[" line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/ShangshuReqLogMapper.xml" timestamp="1500023658439">
         <mark key="[" line="237" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/CollectionController.java" timestamp="1501668502211">
-        <mark key="[" line="92" column="38" />
-        <mark key="]" line="92" column="38" />
-        <mark key="." line="92" column="38" />
-        <mark key="^" line="50" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/CollectionController.java" timestamp="1501673411601">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="40" column="33" />
+        <mark key="." line="40" column="33" />
+        <mark key="^" line="40" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/CollectionDistributionServiceImpl.java" timestamp="1501652974582">
         <mark key="[" line="41" column="28" />
@@ -54,11 +60,6 @@
         <mark key="]" line="21" column="37" />
         <mark key="." line="21" column="37" />
         <mark key="^" line="21" column="37" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/CollectionDistributionService.java" timestamp="1501652773600">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/query/CollectionQuery.java" timestamp="1501666858381">
         <mark key="[" line="7" column="12" />
@@ -82,19 +83,9 @@
         <mark key="^" line="194" column="65" />
         <mark key="." line="146" column="58" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/ArcDataPoolDao.java" timestamp="1501559622540">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ArcDataPoolController.java" timestamp="1501655751087" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ArcDataPoolController.java" timestamp="1501673178234" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/ArcDataPoolService.java" timestamp="1501559543296">
         <mark key="[" line="33" column="31" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/build.gradle" timestamp="1501137816856">
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/query/SysCronJobQuery.java" timestamp="1501569079091">
         <mark key="[" line="15" column="71" />
@@ -102,27 +93,12 @@
       <file name="/RegExp Fragment (StringUtil.java:4536).regexp" timestamp="1499831914479">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/gradle/wrapper/gradle-wrapper.properties" timestamp="1501638157787">
-        <mark key="[" line="5" column="73" />
-        <mark key="]" line="5" column="72" />
-        <mark key="." line="5" column="72" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/Constants.js" timestamp="1500456700595">
         <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/PayCheckController.java" timestamp="1501660100680" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/resources/spring/admin-web.xml" timestamp="1501142046117">
         <mark key="[" line="111" column="96" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/UserDirectoryTest.java" timestamp="1501238062078">
-        <mark key="[" line="53" column="50" />
-        <mark key="]" line="53" column="50" />
-        <mark key="." line="53" column="50" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/OssFileUploadServiceImpl.java" timestamp="1501493494120">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/creditrank/ScoreRank/Components/AddRole.js" timestamp="1501483714912">
         <mark key="[" line="36" column="28" />
@@ -139,11 +115,17 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1501059724665">
         <mark key="[" line="24" column="74" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1501667838085">
-        <mark key="[" line="153" column="40" />
-        <mark key="]" line="153" column="40" />
-        <mark key="." line="153" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1501674020238">
+        <mark key="[" line="135" column="58" />
+        <mark key="]" line="135" column="58" />
+        <mark key="." line="135" column="58" />
         <mark key="^" line="153" column="48" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-common/src/main/java/tool/code/generator/Create.java" timestamp="1501672130552">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="30" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="22" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/log4j.properties" timestamp="1500276309369">
         <mark key="[" line="11" column="38" />
@@ -161,17 +143,13 @@
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/build.gradle" timestamp="1501006795145">
         <mark key="[" line="48" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcDataPool.xml" timestamp="1501586513593">
-        <mark key="[" line="88" column="4" />
-        <mark key="]" line="88" column="4" />
-        <mark key="." line="88" column="4" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/pom.xml" timestamp="1501558033251">
         <mark key="[" line="236" column="21" />
       </file>
       <file name="/a.sql" timestamp="1501575044894">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/annotation/RDBatisDao.java" timestamp="1501672625180" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/.gitignore" timestamp="1501637420797">
         <mark key="[" line="258" column="5" />
       </file>
@@ -182,21 +160,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/pom.xml" timestamp="1501645324913" />
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/query/DataPoolQuery.java" timestamp="1501570001400">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/SysOperatorRoleDao.java" timestamp="1500278856047">
         <mark key="[" line="33" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/activemq/stomp/Listener.java" timestamp="1500919364133">
         <mark key="[" line="30" column="60" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/build.gradle" timestamp="1501639678387">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1501146880899">
         <mark key="[" line="0" column="0" />
@@ -228,27 +196,25 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
         <mark key="[" line="302" column="2" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-common/src/main/java/tool/code/generator/MybatisGenerate.java" timestamp="1501672181850">
+        <mark key="[" line="104" column="112" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/CHANGELOG.md" timestamp="1501127999379">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/SeachForm.js" timestamp="1501483814718">
         <mark key="[" line="34" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501662727856">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="184" column="39" />
-        <mark key="." line="184" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501674024349">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501579414271">
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-web/src/config/antx_test.properties" timestamp="1500293654014">
         <mark key="[" line="8" column="22" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/test.html" timestamp="1501482492767">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/CollectionDistributionDao.java" timestamp="1501652795282">
         <mark key="[" line="18" column="20" />
@@ -264,6 +230,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/XinXinList.js" timestamp="1500449787792">
         <mark key="[" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcUserDo.java" timestamp="1501672361314">
+        <mark key="[" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/operator/listOperator.vm" timestamp="1501657108967" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
@@ -392,10 +361,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -403,41 +372,43 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgewogICAgICAgIHRoaXMuZGlzSWQgPSBpZDsKICAgIH0K</text>
+      <register name="1" type="4">
+        <text>f (disDo != null) {
+            disDo.getUserId();
+        }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldElkKCkgewogICAgICAgIHJldHVybiBkaXNJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZChTdHJpbmcgaWQp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgewogICAgICAgIHRoaXMuZGlzSWQgPSBpZDsKICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldElkKCkgewogICAgICAgIHJldHVybiBkaXNJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZChTdHJpbmcgaWQp</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">IDxzZWxlY3QgaWQ9Im92ZXJkdWVfZGF5X2VuZCIgbmFtZT0ib3ZlcmR1ZV9kYXlfZW5kIiBjbGFzcz0ic2VsZWN0cGlja2VyIHNob3ctdGljayBmb3JtLWNvbnRyb2wiPgogICAgICAgIDxvcHRpb24gdmFsdWU9IjAiPjEwMOWkqTwvb3B0aW9uPgogICAgICA8L3NlbGVjdD4=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHZhciBjb25zdW1lck5vID0gJCgiI2NvbnN1bWVyTm8iKS52YWwoKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBjYXNlRGF0ZSA9ICQoIiNnbXRfYXJyaXZhbCIpLnZhbCgpOwogICAgdmFyIGNvbGxlY3Rpb25TdGF0dXMgPSAkKCIjY29sbGVjdGlvblN0YXR1cyIpLnZhbCgpOwovLyAgICB2YXIgY29sbGVjdGlvbk5hbWUgPSAkKCIjY29sbGVjdGlvbk5hbWUiKS52YWwoKTsKICAgIHZhciBzdGFydEludm9sdmVBbW91bnQgPSAkKCIjc3RhcnRJbnZvbHZlQW1vdW50IikudmFsKCk7CiAgICB2YXIgZW5kSW52b2x2ZUFtb3VudCA9ICQoIiNlbmRJbnZvbHZlQW1vdW50IikudmFsKCk7CgogICAgdmFyIGFnaW5nID0gJCgiI2FnaW5nIikudmFsKCk7CiAgICB2YXIgcmV2aWV3UGVyaW9kID0gJCgiI3Jldmlld1BlcmlvZCIpLnZhbCgpOwogICAgdmFyIHN0YXJ0T3ZlcmR1ZURheSA9ICQoIiNzdGFydE92ZXJkdWVEYXkiKS52YWwoKTsKICAgIHZhciBlbmRPdmVyZHVlRGF5ID0gJCgiI2VuZE92ZXJkdWVEYXkiKS52YWwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBjb2xsZWN0aW9uQ2VudGVyID0gJCgiI2NvbGxlY3Rpb25DZW50ZXIiKS52YWwoKTsK</text>
+        <text encoding="base64">ICAgIHZhciBjYXNlRGF0ZSA9ICQoIiNnbXRfYXJyaXZhbCIpLnZhbCgpOwogICAgdmFyIGNvbGxlY3Rpb25TdGF0dXMgPSAkKCIjY29sbGVjdGlvblN0YXR1cyIpLnZhbCgpOwovLyAgICB2YXIgY29sbGVjdGlvbk5hbWUgPSAkKCIjY29sbGVjdGlvbk5hbWUiKS52YWwoKTsKICAgIHZhciBzdGFydEludm9sdmVBbW91bnQgPSAkKCIjc3RhcnRJbnZvbHZlQW1vdW50IikudmFsKCk7CiAgICB2YXIgZW5kSW52b2x2ZUFtb3VudCA9ICQoIiNlbmRJbnZvbHZlQW1vdW50IikudmFsKCk7CgogICAgdmFyIGFnaW5nID0gJCgiI2FnaW5nIikudmFsKCk7CiAgICB2YXIgcmV2aWV3UGVyaW9kID0gJCgiI3Jldmlld1BlcmlvZCIpLnZhbCgpOwogICAgdmFyIHN0YXJ0T3ZlcmR1ZURheSA9ICQoIiNzdGFydE92ZXJkdWVEYXkiKS52YWwoKTsKICAgIHZhciBlbmRPdmVyZHVlRGF5ID0gJCgiI2VuZE92ZXJkdWVEYXkiKS52YWwoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+JCF7ZGF0YS5pZH08L3RkPgogICAgICAgIDx0ZD4kIXtkYXRhLm1lbnVOYW1lfTwvdGQ+CiAgICAgICAgPHRkPgogICAgICAgICAgI2lmKCQhe2RhdGEudHlwZX0gPT0gIjEiKQogICAgICAgICAgICA8Zm9udCBjb2xvcj0icmVkIj48c3Ryb25nPuWvvOiIqjwvc3Ryb25nPjwvZm9udD4KICAgICAgICAgICNlbHNlaWYoJCF7ZGF0YS50eXBlfSA9PSAiMiIpCiAgICAgICAgICAgIDxmb250IGNvbG9yPSJibHVlIj48c3Ryb25nPuiPnOWNlTwvc3Ryb25nPjwvZm9udD4KICAgICAgICAgICNlbHNlaWYoJCF7ZGF0YS50eXBlfSA9PSAiMyIpCiAgICAgICAgICAgIOWtkOiPnOWNlQogICAgICAgICAgI2VuZAogICAgICAgIDwvdGQ+CiAgICAgICAgPHRkPgojIyAgICAgICAgICAkcGFyZW50TWFwLmdldCgiJCF7ZGF0YS5wYXJlbnRJZH0iKQogICAgICAgIDwvdGQ+CiMjICAgICAgICA8dGQ+JCF7ZGF0YS5tZW51VXJsfTwvdGQ+CiMjICAgICAgICA8dGQ+PGkgY2xhc3M9ImZhICQhe2RhdGEubWVudUljb259Ij48L2k+PC90ZD4KIyMgICAgICAgIDx0ZD4kIXtkYXRhLnNvcnR9PC90ZD4KIyMgICAgICAgIDx0ZD4kIXtkYXRhLm1lbnVEZXNjfTwvdGQ+CiAgICAgICAgPHRkPgogICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXhzIGJ0bi1wcmltYXJ5IiBpZD0iZWRpdG1lbnUiCiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9ImVkaXRNZW51KCQhe2RhdGEuaWR9KSI+57yW6L6RCiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tZGFuZ2VyIgogICAgICAgICAgICAgICAgICBpZD0iZGVsZXRlbWVudSIgb25DbGljaz0iZGVsZXRlTWVudSgkIXtkYXRhLmlkfSkiPuWIoOmZpAogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgIHZhciBjb2xsZWN0aW9uQ2VudGVyID0gJCgiI2NvbGxlY3Rpb25DZW50ZXIiKS52YWwoKTsK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgI2ZvcmVhY2goJGRhdGEgaW4gJCF7bWVudWxpc3R9KQo=</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+JCF7ZGF0YS5pZH08L3RkPgogICAgICAgIDx0ZD4kIXtkYXRhLm1lbnVOYW1lfTwvdGQ+CiAgICAgICAgPHRkPgogICAgICAgICAgI2lmKCQhe2RhdGEudHlwZX0gPT0gIjEiKQogICAgICAgICAgICA8Zm9udCBjb2xvcj0icmVkIj48c3Ryb25nPuWvvOiIqjwvc3Ryb25nPjwvZm9udD4KICAgICAgICAgICNlbHNlaWYoJCF7ZGF0YS50eXBlfSA9PSAiMiIpCiAgICAgICAgICAgIDxmb250IGNvbG9yPSJibHVlIj48c3Ryb25nPuiPnOWNlTwvc3Ryb25nPjwvZm9udD4KICAgICAgICAgICNlbHNlaWYoJCF7ZGF0YS50eXBlfSA9PSAiMyIpCiAgICAgICAgICAgIOWtkOiPnOWNlQogICAgICAgICAgI2VuZAogICAgICAgIDwvdGQ+CiAgICAgICAgPHRkPgojIyAgICAgICAgICAkcGFyZW50TWFwLmdldCgiJCF7ZGF0YS5wYXJlbnRJZH0iKQogICAgICAgIDwvdGQ+CiMjICAgICAgICA8dGQ+JCF7ZGF0YS5tZW51VXJsfTwvdGQ+CiMjICAgICAgICA8dGQ+PGkgY2xhc3M9ImZhICQhe2RhdGEubWVudUljb259Ij48L2k+PC90ZD4KIyMgICAgICAgIDx0ZD4kIXtkYXRhLnNvcnR9PC90ZD4KIyMgICAgICAgIDx0ZD4kIXtkYXRhLm1lbnVEZXNjfTwvdGQ+CiAgICAgICAgPHRkPgogICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXhzIGJ0bi1wcmltYXJ5IiBpZD0iZWRpdG1lbnUiCiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9ImVkaXRNZW51KCQhe2RhdGEuaWR9KSI+57yW6L6RCiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tZGFuZ2VyIgogICAgICAgICAgICAgICAgICBpZD0iZGVsZXRlbWVudSIgb25DbGljaz0iZGVsZXRlTWVudSgkIXtkYXRhLmlkfSkiPuWIoOmZpAogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgPC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
