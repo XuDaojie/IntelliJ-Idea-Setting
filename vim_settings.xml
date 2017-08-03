@@ -170,7 +170,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/javase/build.gradle" timestamp="1501003805169">
         <mark key="[" line="10" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501737708744">
+      <file name="/Dummy.txt" timestamp="1501739877559">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -179,7 +179,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserController.java" timestamp="1501737707632" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserController.java" timestamp="1501739347783" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/web/filer/PerformanceMonitorFilter.java" timestamp="1501739203414" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
         <mark key="[" line="302" column="2" />
       </file>
@@ -192,10 +193,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/SeachForm.js" timestamp="1501483814718">
         <mark key="[" line="34" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501727234354">
-        <mark key="[" line="43" column="16" />
-        <mark key="]" line="43" column="16" />
-        <mark key="." line="43" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501739937451">
+        <mark key="[" line="290" column="45" />
+        <mark key="]" line="290" column="45" />
+        <mark key="." line="290" column="45" />
         <mark key="^" line="39" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501579414271">
@@ -223,6 +224,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcUserDo.java" timestamp="1501672361314">
         <mark key="[" line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/operator/listOperator.vm" timestamp="1501739886421" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
         <mark key="[" line="42" column="11" />
       </file>
@@ -235,12 +237,18 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/README.md" timestamp="1501211468800">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/WEB-INF/web.xml" timestamp="1501739314692">
+        <mark key="[" line="90" column="53" />
+        <mark key="]" line="90" column="53" />
+        <mark key="." line="90" column="53" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/SeachForm.js" timestamp="1501483966337">
         <mark key="[" line="31" column="20" />
       </file>
       <file name="/fragment.java" timestamp="1501728031728">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/web/filer/GZipResponseFilter.java" timestamp="1501739179569" />
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/BaseDao.java" timestamp="1500282679199">
         <mark key="[" line="26" column="16" />
       </file>
@@ -348,11 +356,11 @@
       <jump line="100" column="30" filename="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/dto/CollectionDto.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>doSearch</text>
       </register>
       <register name="-" type="4">
-        <text>产品 A</text>
+        <text>doSearch</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
