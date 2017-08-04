@@ -232,11 +232,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcCollection.xml" timestamp="1501743155217">
         <mark key="[" line="175" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1501839651021">
-        <mark key="[" line="111" column="13" />
-        <mark key="]" line="111" column="13" />
-        <mark key="." line="111" column="13" />
-        <mark key="^" line="101" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1501841087542">
+        <mark key="[" line="120" column="12" />
+        <mark key="]" line="120" column="12" />
+        <mark key="." line="120" column="12" />
+        <mark key="^" line="102" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/log4j.properties" timestamp="1500276309369">
         <mark key="[" line="11" column="38" />
@@ -422,10 +422,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!{data.collectionStatus}</text>
+        <text>$!{data.repayAmountSum}</text>
       </register>
       <register name="-" type="4">
-        <text>!{data.collectionStatus}</text>
+        <text>$!{data.repayAmountSum}</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
