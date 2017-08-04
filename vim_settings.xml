@@ -12,7 +12,7 @@
         <mark key="^" line="33" column="14" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/27cbeb5d-e8f9-4de8-9f52-8f312cf41d7e/console.sql" timestamp="1501827040583">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/27cbeb5d-e8f9-4de8-9f52-8f312cf41d7e/console.sql" timestamp="1501833957714">
         <mark key="[" line="62" column="3" />
         <mark key="]" line="61" column="8" />
         <mark key="." line="61" column="8" />
@@ -47,7 +47,7 @@
         <mark key="." line="165" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1501811904137" />
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ArcRepaymentController.java" timestamp="1501830918500">
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ArcRepaymentController.java" timestamp="1501832337344">
         <mark key="[" line="105" column="16" />
         <mark key="]" line="105" column="21" />
         <mark key="." line="105" column="21" />
@@ -96,10 +96,7 @@
         <mark key="." line="42" column="22" />
         <mark key="^" line="42" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501829429948">
-        <mark key="[" line="263" column="41" />
-        <mark key="]" line="263" column="41" />
-        <mark key="." line="263" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501833518262">
         <mark key="^" line="262" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501827065755">
@@ -226,10 +223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uploadFile</text>
+        <text>filePath</text>
       </register>
       <register name="-" type="4">
-        <text>uploadFile</text>
+        <text>filePath</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -238,6 +235,43 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text>var settings = {
+      &quot;async&quot;: true,
+      &quot;crossDomain&quot;: true,
+      &quot;url&quot;: &quot;/fileUpload&quot;,
+      &quot;method&quot;: &quot;POST&quot;,
+      &quot;processData&quot;: false,
+      &quot;contentType&quot;: false,
+      &quot;mimeType&quot;: &quot;multipart/form-data&quot;,
+      &quot;data&quot;: form
+    }
+
+    jQuery.ajax(settings).done(function (response) {
+      console.log(response);
+    });</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICJoZWFkZXJzIjogewogICAgICAgICJjYWNoZS1jb250cm9sIjogIm5vLWNhY2hlIiwKICAgICAgICAicG9zdG1hbi10b2tlbiI6ICI0MmZkZWIwZC1hMjkyLWJmNDQtMzg1YS1mYzRhNjRmMDdlODUiCiAgICAgIH0s</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
+        <text>borrowNo: borrowNo,
+
+        repayType: repayType,
+        scale: scale,
+        cardNumber: cardNumber,
+        reduceAmount: reduceAmount,
+        tradeNo: tradeNo,
+        repayAmount: repayAmount,
+        repayTime: repayTime,
+        uploadImg: uploadImg</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhciByZXBheVR5cGUgPSAkKCIjcmVwYXlUeXBlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwogICAgdmFyIHNjYWxlID0gJCgiI3NjYWxlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwogICAgdmFyIGNhcmROdW1iZXIgPSAkKCIjY3V0Q2FyZE51bWJlciIpLnZhbCgpOyAvLyDov5jmrL7otKblj7cKICAgIHZhciByZWR1Y2VBbW91bnQgPSAkKCIjcmVkdWNlQW1vdW50IikudmFsKCk7IC8vIOWunumZheWHj+WFjemHkeminQogICAgdmFyIHRyYWRlTm8gPSAkKCIjY3V0VHJhZGVObyIpLnZhbCgpOyAvLyDmtYHmsLTlj7cKICAgIHZhciByZXBheUFtb3VudCA9ICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbCgpOyAvLyDlrp7pmYXmgLvov5jmrL4KICAgIHZhciByZXBheVRpbWUgPSAkKCIjY3V0UmVwYXlUaW1lIikudmFsKCk7IC8vIOi/mOasvuaXtumXtAogICAgdmFyIHVwbG9hZEltZyA9ICQoIiN1cGxvYWRJbWciKS52YWwoKTsK</text>
+      </register>
+      <register name="5" type="4">
         <text>SELECT
   dis.id                                   AS dis_id,
   pool.borrow_no,
@@ -263,41 +297,23 @@ FROM arc_collection_distribution dis
 WHERE dis.status = 10 AND dis.collector_id = 38
 LIMIT 0, 15;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyMgICAgPHRyPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD4KIyMgICAgICAgIDxidXR0b24gb25DbGljaz0iIiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tcHJpbWFyeSI+PGk+PC9pPuivpuaDhTwvYnV0dG9uPgojIyAgICAgIDwvdGQ+CiMjICAgIDwvdHI+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">REVMRVRFIEZST00gYXJjX3VzZXJfY29udGFjdAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXBheVR5cGU6IHJlcGF5VHlwZSwKICAgICAgICBzdGF0dXM6IHN0YXR1cywKICAgICAgICBjYXJkTnVtYmVyOiBjYXJkTnVtYmVyLAogICAgICAgIHRyYWRlTm86IHRyYWRlTm8sCiAgICAgICAgcmVwYXlBbW91bnQ6IHJlcGF5QW1vdW50LAogICAgICAgIHVwbG9hZEltZzogdXBsb2FkSW1nCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigieHgiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text>dispatch(navDelMDReceive(result));
-        if (result.code === 0) {
-          location.reload();
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyMgICAgPHRyPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD4KIyMgICAgICAgIDxidXR0b24gb25DbGljaz0iIiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tcHJpbWFyeSI+PGk+PC9pPuivpuaDhTwvYnV0dG9uPgojIyAgICAgIDwvdGQ+CiMjICAgIDwvdHI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb25SZXNwb25zZSByZXNwb25zZSA9IENvbW1vblJlc3BvbnNlLmdldE5ld0luc3RhbmNlKFJlcXVlc3RDb2RlLkZBSUwpOwo=</text>
+        <text encoding="base64">REVMRVRFIEZST00gYXJjX3VzZXJfY29udGFjdAo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS4K</text>
+        <text encoding="base64">ICAgICAgICByZXBheVR5cGU6IHJlcGF5VHlwZSwKICAgICAgICBzdGF0dXM6IHN0YXR1cywKICAgICAgICBjYXJkTnVtYmVyOiBjYXJkTnVtYmVyLAogICAgICAgIHRyYWRlTm86IHRyYWRlTm8sCiAgICAgICAgcmVwYXlBbW91bnQ6IHJlcGF5QW1vdW50LAogICAgICAgIHVwbG9hZEltZzogdXBsb2FkSW1nCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
