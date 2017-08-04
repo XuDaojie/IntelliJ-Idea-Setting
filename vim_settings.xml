@@ -12,11 +12,10 @@
         <mark key="^" line="33" column="14" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/27cbeb5d-e8f9-4de8-9f52-8f312cf41d7e/console.sql" timestamp="1501834663149">
-        <mark key="[" line="62" column="3" />
-        <mark key="]" line="61" column="8" />
-        <mark key="." line="61" column="8" />
-        <mark key="^" line="61" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/27cbeb5d-e8f9-4de8-9f52-8f312cf41d7e/console.sql" timestamp="1501835351425">
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="39" column="1" />
+        <mark key="." line="39" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcRepaymentDo.java" timestamp="1501825817547">
         <mark key="[" line="404" column="11" />
@@ -71,11 +70,11 @@
         <mark key="^" line="257" column="12" />
         <mark key="." line="257" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/CollectionDistributionDao.xml" timestamp="1501748157606">
-        <mark key="[" line="198" column="13" />
-        <mark key="]" line="197" column="28" />
-        <mark key="." line="197" column="28" />
-        <mark key="^" line="197" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/CollectionDistributionDao.xml" timestamp="1501835456883">
+        <mark key="[" line="195" column="70" />
+        <mark key="]" line="198" column="28" />
+        <mark key="." line="198" column="28" />
+        <mark key="^" line="198" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/ArcCollectionDistributionDao.java" timestamp="1501645399667">
         <mark key="[" line="18" column="30" />
@@ -223,7 +222,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>filePath</text>
+        <text>ELECT
+  dis.id                                   AS dis_id,
+  pool.borrow_no,
+  pool.user_id                             AS consumer_no,
+  dis.collect_name,
+  user.real_name                           AS username,
+  user.id_no,
+  user.phone,
+  pool.aging,
+  0                                        AS collection_status,
+  pool.status                              AS repay_status,
+  pool.repay_amount,
+  pool.rest_amount,
+  date_format(dis.distri_date, '%Y-%m-%d') AS distri_date,
+  '还款日期'                                   AS repay_date,
+  0                                        AS collection_status,
+  pool.repay_amount_sum,
+  pool.type,
+  pool.overdue_day
+FROM arc_collection_distribution dis
+  LEFT JOIN arc_data_pool pool ON dis.borrow_no = pool.borrow_no
+  LEFT JOIN arc_user user ON pool.user_id = user.consumer_no
+WHERE 1=1
+  AND dis.is_delete = 0 AND dis.status = 10 AND dis.collector_id = 38
+LIMIT 0, 15</text>
       </register>
       <register name="-" type="4">
         <text>filePath</text>
@@ -235,6 +258,33 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text>ELECT
+  dis.id                                   AS dis_id,
+  pool.borrow_no,
+  pool.user_id                             AS consumer_no,
+  dis.collect_name,
+  user.real_name                           AS username,
+  user.id_no,
+  user.phone,
+  pool.aging,
+  0                                        AS collection_status,
+  pool.status                              AS repay_status,
+  pool.repay_amount,
+  pool.rest_amount,
+  date_format(dis.distri_date, '%Y-%m-%d') AS distri_date,
+  '还款日期'                                   AS repay_date,
+  0                                        AS collection_status,
+  pool.repay_amount_sum,
+  pool.type,
+  pool.overdue_day
+FROM arc_collection_distribution dis
+  LEFT JOIN arc_data_pool pool ON dis.borrow_no = pool.borrow_no
+  LEFT JOIN arc_user user ON pool.user_id = user.consumer_no
+WHERE 1=1
+  AND dis.is_delete = 0 AND dis.status = 10 AND dis.collector_id = 38
+LIMIT 0, 15</text>
+      </register>
+      <register name="2" type="4">
         <text>var settings = {
       &quot;async&quot;: true,
       &quot;crossDomain&quot;: true,
@@ -250,13 +300,13 @@
       console.log(response);
     });</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICJoZWFkZXJzIjogewogICAgICAgICJjYWNoZS1jb250cm9sIjogIm5vLWNhY2hlIiwKICAgICAgICAicG9zdG1hbi10b2tlbiI6ICI0MmZkZWIwZC1hMjkyLWJmNDQtMzg1YS1mYzRhNjRmMDdlODUiCiAgICAgIH0s</text>
-      </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICJoZWFkZXJzIjogewogICAgICAgICJjYWNoZS1jb250cm9sIjogIm5vLWNhY2hlIiwKICAgICAgICAicG9zdG1hbi10b2tlbiI6ICI0MmZkZWIwZC1hMjkyLWJmNDQtMzg1YS1mYzRhNjRmMDdlODUiCiAgICAgIH0s</text>
+      </register>
+      <register name="4" type="4">
         <text>borrowNo: borrowNo,
 
         repayType: repayType,
@@ -268,10 +318,10 @@
         repayTime: repayTime,
         uploadImg: uploadImg</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHZhciByZXBheVR5cGUgPSAkKCIjcmVwYXlUeXBlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwogICAgdmFyIHNjYWxlID0gJCgiI3NjYWxlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwogICAgdmFyIGNhcmROdW1iZXIgPSAkKCIjY3V0Q2FyZE51bWJlciIpLnZhbCgpOyAvLyDov5jmrL7otKblj7cKICAgIHZhciByZWR1Y2VBbW91bnQgPSAkKCIjcmVkdWNlQW1vdW50IikudmFsKCk7IC8vIOWunumZheWHj+WFjemHkeminQogICAgdmFyIHRyYWRlTm8gPSAkKCIjY3V0VHJhZGVObyIpLnZhbCgpOyAvLyDmtYHmsLTlj7cKICAgIHZhciByZXBheUFtb3VudCA9ICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbCgpOyAvLyDlrp7pmYXmgLvov5jmrL4KICAgIHZhciByZXBheVRpbWUgPSAkKCIjY3V0UmVwYXlUaW1lIikudmFsKCk7IC8vIOi/mOasvuaXtumXtAogICAgdmFyIHVwbG9hZEltZyA9ICQoIiN1cGxvYWRJbWciKS52YWwoKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>SELECT
   dis.id                                   AS dis_id,
   pool.borrow_no,
@@ -297,23 +347,20 @@ FROM arc_collection_distribution dis
 WHERE dis.status = 10 AND dis.collector_id = 38
 LIMIT 0, 15;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMgICAgPHRyPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD4KIyMgICAgICAgIDxidXR0b24gb25DbGljaz0iIiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tcHJpbWFyeSI+PGk+PC9pPuivpuaDhTwvYnV0dG9uPgojIyAgICAgIDwvdGQ+CiMjICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">REVMRVRFIEZST00gYXJjX3VzZXJfY29udGFjdAo=</text>
+        <text encoding="base64">IyMgICAgPHRyPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD4KIyMgICAgICAgIDxidXR0b24gb25DbGljaz0iIiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tcHJpbWFyeSI+PGk+PC9pPuivpuaDhTwvYnV0dG9uPgojIyAgICAgIDwvdGQ+CiMjICAgIDwvdHI+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXBheVR5cGU6IHJlcGF5VHlwZSwKICAgICAgICBzdGF0dXM6IHN0YXR1cywKICAgICAgICBjYXJkTnVtYmVyOiBjYXJkTnVtYmVyLAogICAgICAgIHRyYWRlTm86IHRyYWRlTm8sCiAgICAgICAgcmVwYXlBbW91bnQ6IHJlcGF5QW1vdW50LAogICAgICAgIHVwbG9hZEltZzogdXBsb2FkSW1nCg==</text>
+        <text encoding="base64">REVMRVRFIEZST00gYXJjX3VzZXJfY29udGFjdAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
