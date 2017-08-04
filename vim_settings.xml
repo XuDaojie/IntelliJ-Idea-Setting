@@ -39,8 +39,8 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/UserContactDao.java" timestamp="1501745537801">
         <mark key="[" line="15" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/27cbeb5d-e8f9-4de8-9f52-8f312cf41d7e/console.sql" timestamp="1501838855321">
-        <mark key="[" line="88" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/27cbeb5d-e8f9-4de8-9f52-8f312cf41d7e/console.sql" timestamp="1501844277082">
+        <mark key="[" line="89" column="20" />
         <mark key="]" line="88" column="7" />
         <mark key="." line="88" column="7" />
       </file>
@@ -49,12 +49,12 @@
         <mark key="]" line="404" column="11" />
         <mark key="." line="404" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/UserContactDao.xml" timestamp="1501812700913">
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/UserContactDao.xml" timestamp="1501844750693">
         <mark key="'" line="189" column="12" />
-        <mark key="[" line="187" column="64" />
-        <mark key="]" line="187" column="45" />
-        <mark key="." line="187" column="45" />
-        <mark key="^" line="187" column="45" />
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/UserContactServiceImpl.java" timestamp="1501749839028">
         <mark key="[" line="40" column="16" />
@@ -70,6 +70,9 @@
       </file>
       <file name="/RegExp Fragment (StringUtil.java:4536).regexp" timestamp="1499831914479">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcCollectionDo.java" timestamp="1501842752018">
+        <mark key="[" line="86" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/resources/spring/admin-web.xml" timestamp="1501142046117">
         <mark key="[" line="111" column="96" />
@@ -93,7 +96,6 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1500973517333">
         <mark key="[" line="280" column="13" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1501811904137" />
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/SysOperatorRoleDao.java" timestamp="1500278856047">
         <mark key="[" line="33" column="24" />
       </file>
@@ -166,20 +168,20 @@
       <file name="$USER_HOME$/Downloads/51fbadmin_master/.gitignore" timestamp="1500366049143">
         <mark key="[" line="253" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/UserContactController.java" timestamp="1501778120125">
-        <mark key="[" line="39" column="52" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="4" />
-        <mark key="^" line="24" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/UserContactController.java" timestamp="1501845035599">
+        <mark key="[" line="59" column="24" />
+        <mark key="]" line="59" column="24" />
+        <mark key="." line="59" column="24" />
+        <mark key="^" line="59" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/bo/UserAddress.java" timestamp="1501745797219">
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/CollectionController.java" timestamp="1501839112408">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="^" line="146" column="55" />
-        <mark key="." line="166" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/CollectionController.java" timestamp="1501844648173">
+        <mark key="[" line="148" column="59" />
+        <mark key="]" line="167" column="0" />
+        <mark key="^" line="147" column="55" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/UserContact.xml" timestamp="1501749395465">
         <mark key="[" line="185" column="13" />
@@ -190,11 +192,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Public/SystemManagement/ProducttypeManagement/Components/SeachForm.js" timestamp="1500452249091">
         <mark key="[" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/CollectionDistributionDao.xml" timestamp="1501839497007">
-        <mark key="[" line="198" column="48" />
-        <mark key="]" line="198" column="28" />
-        <mark key="." line="198" column="28" />
-        <mark key="^" line="198" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/CollectionDistributionDao.xml" timestamp="1501842711280">
+        <mark key="[" line="197" column="48" />
+        <mark key="]" line="188" column="32" />
+        <mark key="." line="188" column="32" />
+        <mark key="^" line="188" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyRespMapper.xml" timestamp="1501751232968">
         <mark key="[" line="152" column="76" />
@@ -210,6 +212,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/Constants.js" timestamp="1500456700595">
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/UserContactDo.java" timestamp="1501844560493">
+        <mark key="[" line="24" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/creditrank/ScoreRank/Components/AddRole.js" timestamp="1501483714912">
         <mark key="[" line="36" column="28" />
@@ -232,11 +237,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcCollection.xml" timestamp="1501743155217">
         <mark key="[" line="175" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1501841087542">
-        <mark key="[" line="120" column="12" />
-        <mark key="]" line="120" column="12" />
-        <mark key="." line="120" column="12" />
-        <mark key="^" line="102" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1501843434011">
+        <mark key="[" line="57" column="35" />
+        <mark key="]" line="45" column="24" />
+        <mark key="." line="45" column="24" />
+        <mark key="^" line="45" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/log4j.properties" timestamp="1500276309369">
         <mark key="[" line="11" column="38" />
@@ -266,7 +271,7 @@
         <mark key="." line="42" column="22" />
         <mark key="^" line="42" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501839327660">
+      <file name="/Dummy.txt" timestamp="1501844600061">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
@@ -275,11 +280,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
         <mark key="[" line="302" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501837635459">
-        <mark key="[" line="264" column="46" />
-        <mark key="]" line="263" column="19" />
-        <mark key="^" line="263" column="19" />
-        <mark key="." line="263" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501844069009">
+        <mark key="[" line="378" column="21" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/layout/default.vm" timestamp="1501837070945">
         <mark key="[" line="45" column="40" />
@@ -422,10 +426,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$!{data.repayAmountSum}</text>
+        <text>consumerNo</text>
       </register>
       <register name="-" type="4">
-        <text>$!{data.repayAmountSum}</text>
+        <text>consumerNo</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -433,7 +437,25 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CTxhIGhyZWY9IiI+5LiL5LiA5qGI5Lu2PC9hPiZuYnNwOyZuYnNwCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CTxhIGhyZWY9IiI+5LiK5LiA5qGI5Lu2PC9hPiZuYnNwOyZuYnNwCg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPjIwMHh4eHg8L3RkPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPuaAp+WIqzo8L3RoPgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAjZWxzZQogICAgICAgICAgICDmnKrov5jmrL54eHg=</text>
+      </register>
+      <register name="6" type="4">
         <text>var form = new FormData();
     form.append(&quot;file&quot;, &quot;/Users/xdj/Pictures/6d641ba912dd889acd32ac9f22077efa_b.jpg&quot;);
 
@@ -456,7 +478,10 @@
       console.log(response);
     });</text>
       </register>
-      <register name="2" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>ELECT
   dis.id                                   AS dis_id,
   pool.borrow_no,
@@ -483,10 +508,7 @@ WHERE 1=1
   AND dis.is_delete = 0 AND dis.status = 10 AND dis.collector_id = 38
 LIMIT 0, 15</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>var settings = {
       &quot;async&quot;: true,
       &quot;crossDomain&quot;: true,
@@ -502,61 +524,11 @@ LIMIT 0, 15</text>
       console.log(response);
     });</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICJoZWFkZXJzIjogewogICAgICAgICJjYWNoZS1jb250cm9sIjogIm5vLWNhY2hlIiwKICAgICAgICAicG9zdG1hbi10b2tlbiI6ICI0MmZkZWIwZC1hMjkyLWJmNDQtMzg1YS1mYzRhNjRmMDdlODUiCiAgICAgIH0s</text>
-      </register>
-      <register name="5" type="4">
-        <text>borrowNo: borrowNo,
-
-        repayType: repayType,
-        scale: scale,
-        cardNumber: cardNumber,
-        reduceAmount: reduceAmount,
-        tradeNo: tradeNo,
-        repayAmount: repayAmount,
-        repayTime: repayTime,
-        uploadImg: uploadImg</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciByZXBheVR5cGUgPSAkKCIjcmVwYXlUeXBlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwogICAgdmFyIHNjYWxlID0gJCgiI3NjYWxlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwogICAgdmFyIGNhcmROdW1iZXIgPSAkKCIjY3V0Q2FyZE51bWJlciIpLnZhbCgpOyAvLyDov5jmrL7otKblj7cKICAgIHZhciByZWR1Y2VBbW91bnQgPSAkKCIjcmVkdWNlQW1vdW50IikudmFsKCk7IC8vIOWunumZheWHj+WFjemHkeminQogICAgdmFyIHRyYWRlTm8gPSAkKCIjY3V0VHJhZGVObyIpLnZhbCgpOyAvLyDmtYHmsLTlj7cKICAgIHZhciByZXBheUFtb3VudCA9ICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbCgpOyAvLyDlrp7pmYXmgLvov5jmrL4KICAgIHZhciByZXBheVRpbWUgPSAkKCIjY3V0UmVwYXlUaW1lIikudmFsKCk7IC8vIOi/mOasvuaXtumXtAogICAgdmFyIHVwbG9hZEltZyA9ICQoIiN1cGxvYWRJbWciKS52YWwoKTsK</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
-        <text>SELECT
-  dis.id                                   AS dis_id,
-  pool.borrow_no,
-  user.consumer_no,
-  dis.collect_name,
-  user.real_name                           AS username,
-  user.id_no,
-  user.phone,
-  pool.aging,
-  0                                        AS collection_status,
-  pool.status                              AS repay_status,
-  pool.repay_amount,
-  pool.rest_amount,
-  date_format(dis.distri_date, '%Y-%m-%d') AS distri_date,
-  '还款日期'                                   AS repay_date,
-  0                                        AS collection_status,
-  pool.repay_amount_sum,
-  pool.type,
-  pool.overdue_day
-FROM arc_collection_distribution dis
-  LEFT JOIN arc_data_pool pool ON dis.borrow_no = pool.borrow_no
-  LEFT JOIN arc_user user ON pool.user_id = user.consumer_no
-WHERE dis.status = 10 AND dis.collector_id = 38
-LIMIT 0, 15;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyMgICAgPHRyPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD4KIyMgICAgICAgIDxidXR0b24gb25DbGljaz0iIiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tcHJpbWFyeSI+PGk+PC9pPuivpuaDhTwvYnV0dG9uPgojIyAgICAgIDwvdGQ+CiMjICAgIDwvdHI+Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICJoZWFkZXJzIjogewogICAgICAgICJjYWNoZS1jb250cm9sIjogIm5vLWNhY2hlIiwKICAgICAgICAicG9zdG1hbi10b2tlbiI6ICI0MmZkZWIwZC1hMjkyLWJmNDQtMzg1YS1mYzRhNjRmMDdlODUiCiAgICAgIH0s</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
