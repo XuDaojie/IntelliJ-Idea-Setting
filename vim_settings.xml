@@ -39,6 +39,7 @@
         <mark key="^" line="194" column="65" />
         <mark key="." line="146" column="58" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/OssFileUploadService.java" timestamp="1501830570877" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/pom.xml" timestamp="1501812921812">
         <mark key="[" line="167" column="26" />
         <mark key="]" line="165" column="27" />
@@ -46,10 +47,11 @@
         <mark key="." line="165" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1501811904137" />
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ArcRepaymentController.java" timestamp="1501827821433">
-        <mark key="[" line="71" column="51" />
-        <mark key="]" line="71" column="51" />
-        <mark key="." line="71" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ArcRepaymentController.java" timestamp="1501830918500">
+        <mark key="[" line="105" column="16" />
+        <mark key="]" line="105" column="21" />
+        <mark key="." line="105" column="21" />
+        <mark key="^" line="105" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/UserContactController.java" timestamp="1501778120125">
         <mark key="[" line="39" column="52" />
@@ -94,11 +96,11 @@
         <mark key="." line="42" column="22" />
         <mark key="^" line="42" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501827829549">
-        <mark key="[" line="439" column="44" />
-        <mark key="]" line="449" column="28" />
-        <mark key="." line="449" column="28" />
-        <mark key="^" line="449" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501829429948">
+        <mark key="[" line="263" column="41" />
+        <mark key="]" line="263" column="41" />
+        <mark key="." line="263" column="41" />
+        <mark key="^" line="262" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501827065755">
         <mark key="[" line="0" column="1" />
@@ -224,33 +226,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SELECT
-  dis.id                                   AS dis_id,
-  pool.borrow_no,
-  user.consumer_no,
-  dis.collect_name,
-  user.real_name                           AS username,
-  user.id_no,
-  user.phone,
-  pool.aging,
-  0                                        AS collection_status,
-  pool.status                              AS repay_status,
-  pool.repay_amount,
-  pool.rest_amount,
-  date_format(dis.distri_date, '%Y-%m-%d') AS distri_date,
-  '还款日期'                                   AS repay_date,
-  0                                        AS collection_status,
-  pool.repay_amount_sum,
-  pool.type,
-  pool.overdue_day
-FROM arc_collection_distribution dis
-  LEFT JOIN arc_data_pool pool ON dis.borrow_no = pool.borrow_no
-  LEFT JOIN arc_user user ON pool.user_id = user.consumer_no
-WHERE dis.status = 10 AND dis.collector_id = 38
-LIMIT 0, 15;</text>
+        <text>uploadFile</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>uploadFile</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
