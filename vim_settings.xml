@@ -95,8 +95,16 @@
         <mark key="." line="42" column="22" />
         <mark key="^" line="42" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501836316715">
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1501837635459">
+        <mark key="[" line="264" column="46" />
+        <mark key="]" line="263" column="19" />
         <mark key="^" line="263" column="19" />
+        <mark key="." line="263" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/layout/default.vm" timestamp="1501837070945">
+        <mark key="[" line="45" column="40" />
+        <mark key="]" line="45" column="40" />
+        <mark key="." line="45" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501827065755">
         <mark key="[" line="0" column="1" />
@@ -222,34 +230,30 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ELECT
-  dis.id                                   AS dis_id,
-  pool.borrow_no,
-  pool.user_id                             AS consumer_no,
-  dis.collect_name,
-  user.real_name                           AS username,
-  user.id_no,
-  user.phone,
-  pool.aging,
-  0                                        AS collection_status,
-  pool.status                              AS repay_status,
-  pool.repay_amount,
-  pool.rest_amount,
-  date_format(dis.distri_date, '%Y-%m-%d') AS distri_date,
-  '还款日期'                                   AS repay_date,
-  0                                        AS collection_status,
-  pool.repay_amount_sum,
-  pool.type,
-  pool.overdue_day
-FROM arc_collection_distribution dis
-  LEFT JOIN arc_data_pool pool ON dis.borrow_no = pool.borrow_no
-  LEFT JOIN arc_user user ON pool.user_id = user.consumer_no
-WHERE 1=1
-  AND dis.is_delete = 0 AND dis.status = 10 AND dis.collector_id = 38
-LIMIT 0, 15</text>
+        <text>var form = new FormData();
+    form.append(&quot;file&quot;, &quot;/Users/xdj/Pictures/6d641ba912dd889acd32ac9f22077efa_b.jpg&quot;);
+
+    var settings = {
+      &quot;async&quot;: true,
+      &quot;crossDomain&quot;: true,
+      &quot;url&quot;: &quot;http://localhost:8080/fileUpload&quot;,
+      &quot;method&quot;: &quot;POST&quot;,
+      &quot;headers&quot;: {
+        &quot;cache-control&quot;: &quot;no-cache&quot;,
+        &quot;postman-token&quot;: &quot;6e7dd6f6-9805-a482-075d-a0ffe501bc75&quot;
+      },
+      &quot;processData&quot;: false,
+      &quot;contentType&quot;: false,
+      &quot;mimeType&quot;: &quot;multipart/form-data&quot;,
+      &quot;data&quot;: form
+    }
+
+    jQuery.ajax(settings).done(function (response) {
+      console.log(response);
+    });</text>
       </register>
       <register name="-" type="4">
-        <text>filePath</text>
+        <text>jquery</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -258,6 +262,29 @@ LIMIT 0, 15</text>
         <text />
       </register>
       <register name="1" type="4">
+        <text>var form = new FormData();
+    form.append(&quot;file&quot;, &quot;/Users/xdj/Pictures/6d641ba912dd889acd32ac9f22077efa_b.jpg&quot;);
+
+    var settings = {
+      &quot;async&quot;: true,
+      &quot;crossDomain&quot;: true,
+      &quot;url&quot;: &quot;http://localhost:8080/fileUpload&quot;,
+      &quot;method&quot;: &quot;POST&quot;,
+      &quot;headers&quot;: {
+        &quot;cache-control&quot;: &quot;no-cache&quot;,
+        &quot;postman-token&quot;: &quot;6e7dd6f6-9805-a482-075d-a0ffe501bc75&quot;
+      },
+      &quot;processData&quot;: false,
+      &quot;contentType&quot;: false,
+      &quot;mimeType&quot;: &quot;multipart/form-data&quot;,
+      &quot;data&quot;: form
+    }
+
+    jQuery.ajax(settings).done(function (response) {
+      console.log(response);
+    });</text>
+      </register>
+      <register name="2" type="4">
         <text>ELECT
   dis.id                                   AS dis_id,
   pool.borrow_no,
@@ -284,7 +311,10 @@ WHERE 1=1
   AND dis.is_delete = 0 AND dis.status = 10 AND dis.collector_id = 38
 LIMIT 0, 15</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>var settings = {
       &quot;async&quot;: true,
       &quot;crossDomain&quot;: true,
@@ -300,13 +330,10 @@ LIMIT 0, 15</text>
       console.log(response);
     });</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICJoZWFkZXJzIjogewogICAgICAgICJjYWNoZS1jb250cm9sIjogIm5vLWNhY2hlIiwKICAgICAgICAicG9zdG1hbi10b2tlbiI6ICI0MmZkZWIwZC1hMjkyLWJmNDQtMzg1YS1mYzRhNjRmMDdlODUiCiAgICAgIH0s</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>borrowNo: borrowNo,
 
         repayType: repayType,
@@ -318,10 +345,13 @@ LIMIT 0, 15</text>
         repayTime: repayTime,
         uploadImg: uploadImg</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHZhciByZXBheVR5cGUgPSAkKCIjcmVwYXlUeXBlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwogICAgdmFyIHNjYWxlID0gJCgiI3NjYWxlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwogICAgdmFyIGNhcmROdW1iZXIgPSAkKCIjY3V0Q2FyZE51bWJlciIpLnZhbCgpOyAvLyDov5jmrL7otKblj7cKICAgIHZhciByZWR1Y2VBbW91bnQgPSAkKCIjcmVkdWNlQW1vdW50IikudmFsKCk7IC8vIOWunumZheWHj+WFjemHkeminQogICAgdmFyIHRyYWRlTm8gPSAkKCIjY3V0VHJhZGVObyIpLnZhbCgpOyAvLyDmtYHmsLTlj7cKICAgIHZhciByZXBheUFtb3VudCA9ICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbCgpOyAvLyDlrp7pmYXmgLvov5jmrL4KICAgIHZhciByZXBheVRpbWUgPSAkKCIjY3V0UmVwYXlUaW1lIikudmFsKCk7IC8vIOi/mOasvuaXtumXtAogICAgdmFyIHVwbG9hZEltZyA9ICQoIiN1cGxvYWRJbWciKS52YWwoKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>SELECT
   dis.id                                   AS dis_id,
   pool.borrow_no,
@@ -347,20 +377,14 @@ FROM arc_collection_distribution dis
 WHERE dis.status = 10 AND dis.collector_id = 38
 LIMIT 0, 15;</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMgICAgPHRyPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD4KIyMgICAgICAgIDxidXR0b24gb25DbGljaz0iIiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tcHJpbWFyeSI+PGk+PC9pPuivpuaDhTwvYnV0dG9uPgojIyAgICAgIDwvdGQ+CiMjICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REVMRVRFIEZST00gYXJjX3VzZXJfY29udGFjdAo=</text>
+        <text encoding="base64">IyMgICAgPHRyPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD48L3RkPgojIyAgICAgIDx0ZD4KIyMgICAgICAgIDxidXR0b24gb25DbGljaz0iIiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tcHJpbWFyeSI+PGk+PC9pPuivpuaDhTwvYnV0dG9uPgojIyAgICAgIDwvdGQ+CiMjICAgIDwvdHI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
