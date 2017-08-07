@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
@@ -9,9 +9,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/dto/CollectionDto.java" timestamp="1501838385216">
         <mark key="[" line="23" column="39" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/aliyun/openservices/tablestore/4.3.1/tablestore-4.3.1-sources.jar!/com/alicloud/openservices/tablestore/model/Row.java" timestamp="1502076421012" />
       <file name="/a.dummy" timestamp="1501749693479">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/tablestore/RowkeyUtil.java" timestamp="1502078472316" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/stomp/TopicPublisher.java" timestamp="1500829987923">
         <mark key="[" line="38" column="55" />
       </file>
@@ -29,6 +31,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/ShangshuReqLogMapper.xml" timestamp="1500023658439">
         <mark key="[" line="237" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1502076768707">
+        <mark key="[" line="312" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/CollectionDistributionServiceImpl.java" timestamp="1501652974582">
         <mark key="[" line="41" column="28" />
@@ -54,13 +59,6 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/UserContactDao.xml" timestamp="1501844750693">
-        <mark key="'" line="189" column="12" />
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="19" column="12" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/UserContactServiceImpl.java" timestamp="1501749839028">
         <mark key="[" line="40" column="16" />
       </file>
@@ -82,7 +80,6 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/resources/spring/admin-web.xml" timestamp="1501142046117">
         <mark key="[" line="111" column="96" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/OssFileUploadService.java" timestamp="1501830570877" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-common/src/main/java/tool/code/generator/Create.java" timestamp="1501743771858">
         <mark key="[" line="22" column="32" />
       </file>
@@ -101,6 +98,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1500973517333">
         <mark key="[" line="280" column="13" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1502075154772" />
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/SysOperatorRoleDao.java" timestamp="1500278856047">
         <mark key="[" line="33" column="24" />
       </file>
@@ -110,7 +108,6 @@
       <file name="/HTML File.txt.ft" timestamp="1501146880899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/jobDetail.vm" timestamp="1501850450636" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/javase/build.gradle" timestamp="1501003805169">
         <mark key="[" line="10" column="62" />
       </file>
@@ -135,6 +132,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserDirectoryService.java" timestamp="1499999548966">
         <mark key="[" line="50" column="59" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1502075763330" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcUserDo.java" timestamp="1501672361314">
         <mark key="[" line="13" column="17" />
       </file>
@@ -228,6 +226,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/UserContactDo.java" timestamp="1501844560493">
         <mark key="[" line="24" column="30" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1502076077668" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/creditrank/ScoreRank/Components/AddRole.js" timestamp="1501483714912">
         <mark key="[" line="36" column="28" />
       </file>
@@ -261,12 +260,14 @@
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/build.gradle" timestamp="1501006795145">
         <mark key="[" line="48" column="32" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/tablestore/TableStoreClientPoolManager.java" timestamp="1502076803660" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/.gitignore" timestamp="1501637420797">
         <mark key="[" line="258" column="5" />
       </file>
       <file name="/JavaScript Console" timestamp="1501483115117">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1502075154772" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/bo/UserContactBo.java" timestamp="1501744631670">
         <mark key="[" line="2" column="27" />
       </file>
@@ -282,7 +283,7 @@
         <mark key="." line="42" column="22" />
         <mark key="^" line="42" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501914211272">
+      <file name="/Dummy.txt" timestamp="1502076452985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
@@ -323,15 +324,16 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
         <mark key="[" line="42" column="11" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode2.java" timestamp="1502076946885" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/WEB-INF/web.xml" timestamp="1501748866337">
         <mark key="[" line="90" column="53" />
         <mark key="]" line="90" column="53" />
         <mark key="." line="90" column="53" />
       </file>
-      <file name="/fragment.java" timestamp="1501851467271">
+      <file name="/fragment.java" timestamp="1502076684116">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -438,10 +440,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dropzone.js</text>
+        <text>tsr</text>
       </register>
       <register name="-" type="4">
-        <text>dropzone.js</text>
+        <text>tsr</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
