@@ -207,11 +207,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcCollection.xml" timestamp="1501845841848">
         <mark key="[" line="189" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1502091685552">
-        <mark key="[" line="140" column="40" />
-        <mark key="]" line="140" column="40" />
-        <mark key="." line="140" column="40" />
-        <mark key="^" line="138" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1502098367676">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="134" column="17" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/log4j.properties" timestamp="1500276309369">
         <mark key="[" line="11" column="38" />
@@ -377,7 +377,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8dGQgc3R5bGU9IndvcmQtd3JhcDpicmVhay13b3JkIj4kIXtkYXRhLmlkTm99PC90ZD4K</text>
       </register>
       <register name="-" type="4">
         <text>totalRepayAmount</text>
@@ -389,49 +389,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8dGQgc3R5bGU9IndvcmQtd3JhcDpicmVhay13b3JkIj4kIXtkYXRhLmlkTm99PC90ZD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+JCF7ZGF0YS5jb2xsZWN0TmFtZX08L3RkPgo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDxzZWxlY3QgaWQ9ImFtb3VudF9zdGFydCIgbmFtZT0iYW1vdW50X3N0YXJ0IgogICAgICAgICAgICAgIGNsYXNzPSJzZWxlY3RwaWNrZXIgc2hvdy10aWNrIGZvcm0tY29udHJvbCI+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMCI+NTAwPC9vcHRpb24+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMSI+MTAwMDwvb3B0aW9uPgogICAgICA8L3NlbGVjdD4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPHRoIHdpZHRoPSI1JSI+5a6i5oi36Lqr5Lu96K+B5Y+3PC90aD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcmNSZXBheW1lbnREbyByZXBheW1lbnRPZmZsaW5lID0K</text>
+        <text encoding="base64">ICAgICAgPHRoIHdpZHRoPSI1JSI+5YKs5pS25ZGYPC90aD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPHRoIHdpZHRoPSI1JSI+5YKs5pS25ZGYPC90aD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjb2ZmbGluZV9yZXBheSIpLnN0eWxlID0gImRpc3BsYXk6YmxvY2siOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text>else {
-//      $(&quot;#offline_repay&quot;).style = &quot;display:block&quot;;
-      $(&quot;#offline_repay&quot;).toggle();
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgdmFyIGlzT2ZmbGluZSA9ICQoIiNpc09mZmxpbmUiKS5pcygnOmNoZWNrZWQnKTsKICAgIHZhciBpc0N1dCA9ICQoIiNpc0N1dCIpLmlzKCc6Y2hlY2tlZCcpOwo=</text>
+        <text encoding="base64">IDxzZWxlY3QgaWQ9ImFtb3VudF9zdGFydCIgbmFtZT0iYW1vdW50X3N0YXJ0IgogICAgICAgICAgICAgIGNsYXNzPSJzZWxlY3RwaWNrZXIgc2hvdy10aWNrIGZvcm0tY29udHJvbCI+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMCI+NTAwPC9vcHRpb24+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMSI+MTAwMDwvb3B0aW9uPgogICAgICA8L3NlbGVjdD4=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="4">
-        <text>/    if (param.checked) {
-////      $(&quot;#offline_repay&quot;).style = &quot;display:none&quot;;
-//      $(&quot;#offline_repay&quot;).toggle();
-//    } else {
-////      $(&quot;#offline_repay&quot;).style = &quot;display:block&quot;;
-//      $(&quot;#offline_repay&quot;).toggle();
-//    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBBcmNSZXBheW1lbnREbyByZXBheW1lbnRPZmZsaW5lID0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
