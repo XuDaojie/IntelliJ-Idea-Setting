@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>bu</mask>
       <mask>bui</mask>
@@ -21,9 +22,7 @@
       <mask>x</mask>
       <mask>xm</mask>
       <mask>xml</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
@@ -31,11 +30,13 @@
       <mask>*.j</mask>
       <mask>*.v</mask>
       <mask>*.vm</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.po</mask>
       <mask>*.pom</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
