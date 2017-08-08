@@ -3,20 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller" />
     <recentFileMasks>
-      <mask>bu</mask>
-      <mask>bui</mask>
-      <mask>buil</mask>
-      <mask>build</mask>
-      <mask>build.</mask>
-      <mask>build.g</mask>
-      <mask>build.gr</mask>
-      <mask>build.gra</mask>
-      <mask>build.grad</mask>
-      <mask>build.gradl</mask>
-      <mask>build.gradle</mask>
-      <mask>*.l</mask>
-      <mask>x</mask>
       <mask>xm</mask>
       <mask>xml</mask>
       <mask>*.xm</mask>
@@ -30,10 +18,23 @@
       <mask>*.p</mask>
       <mask>*.po</mask>
       <mask>*.pom</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>Con</mask>
+      <mask>Co</mask>
+      <mask>C</mask>
+      <mask>*</mask>
+      <mask>*C</mask>
+      <mask>*Co</mask>
+      <mask>*Con</mask>
+      <mask>*Cont</mask>
+      <mask>*Contr</mask>
+      <mask>*Contro</mask>
+      <mask>*Control</mask>
+      <mask>*Controll</mask>
+      <mask>*Controlle</mask>
+      <mask>*Controller</mask>
     </recentFileMasks>
   </component>
 </application>
