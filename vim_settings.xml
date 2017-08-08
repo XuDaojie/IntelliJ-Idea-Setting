@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
@@ -50,9 +50,20 @@
         <mark key="]" line="418" column="11" />
         <mark key="." line="418" column="11" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/static/h-ui.admin/js/H-ui.admin.js" timestamp="1502181130831">
+        <mark key="[" line="270" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/UserContactDao.xml" timestamp="1502179167923">
+        <mark key="'" line="189" column="12" />
+        <mark key="[" line="139" column="36" />
+        <mark key="]" line="139" column="36" />
+        <mark key="." line="139" column="36" />
+        <mark key="^" line="19" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/UserContactServiceImpl.java" timestamp="1501749839028">
         <mark key="[" line="40" column="16" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/paycheck/listJobDetail.vm" timestamp="1502180065405" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcRepayment.xml" timestamp="1502094154049">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="13" column="0" />
@@ -159,6 +170,12 @@
       <file name="$USER_HOME$/Downloads/51fbadmin_master/.gitignore" timestamp="1500366049143">
         <mark key="[" line="253" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/UserContactController.java" timestamp="1502179353012">
+        <mark key="[" line="47" column="83" />
+        <mark key="]" line="47" column="83" />
+        <mark key="." line="47" column="83" />
+        <mark key="^" line="59" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/bo/UserAddress.java" timestamp="1501745797219">
         <mark key="[" line="2" column="26" />
       </file>
@@ -210,11 +227,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcCollection.xml" timestamp="1501845841848">
         <mark key="[" line="189" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1502163169366">
-        <mark key="[" line="90" column="56" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="134" column="17" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1502176844680">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/log4j.properties" timestamp="1500276309369">
         <mark key="[" line="11" column="38" />
@@ -244,7 +260,7 @@
       <file name="/dummy.sql" timestamp="1501586620469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502161304180">
+      <file name="/Dummy.txt" timestamp="1502180042321">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
@@ -259,11 +275,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
         <mark key="[" line="302" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1502094958690">
-        <mark key="[" line="255" column="30" />
-        <mark key="]" line="253" column="9" />
-        <mark key="." line="253" column="9" />
-        <mark key="^" line="253" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1502180754626">
+        <mark key="[" line="625" column="10" />
+        <mark key="]" line="624" column="9" />
+        <mark key="." line="624" column="9" />
+        <mark key="^" line="624" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501827065755">
         <mark key="[" line="0" column="1" />
@@ -391,10 +407,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>repayment</text>
+        <text encoding="base64">IGRlZmF1bHRWYWx1ZSA9ICIi</text>
       </register>
       <register name="-" type="4">
-        <text>repayment</text>
+        <text encoding="base64">IGRlZmF1bHRWYWx1ZSA9ICIi</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -403,40 +419,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQgc3R5bGU9IndvcmQtd3JhcDpicmVhay13b3JkIj4kIXtkYXRhLmlkTm99PC90ZD4K</text>
+        <text encoding="base64">ICA8bGkgY2xhc3M9ImFjdGl2ZSI+PGEgaHJlZj0iL2NvbGxlY3Rpb24vL2NvbGxlY3Rpb24vam9iRGV0YWlsLmh0bSI+57yW6L6R6I+c5Y2VPC9hPjwvbGk+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+JCF7ZGF0YS5jb2xsZWN0TmFtZX08L3RkPgo=</text>
+        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iL21lbnUvbGlzdE1lbnUuaHRtIj7oj5zljZXliJfooag8L2E+PC9saT4K</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHRoIHdpZHRoPSI1JSI+5a6i5oi36Lqr5Lu96K+B5Y+3PC90aD4K</text>
+        <text encoding="base64">Vmo8dWwgY2xhc3M9Im5hdiBuYXYtdGFicyI+CjwvdWw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHRoIHdpZHRoPSI1JSI+5YKs5pS25ZGYPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICA8dGQgc3R5bGU9IndvcmQtd3JhcDpicmVhay13b3JkIj4kIXtkYXRhLmlkTm99PC90ZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHRoIHdpZHRoPSI1JSI+5YKs5pS25ZGYPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+JCF7ZGF0YS5jb2xsZWN0TmFtZX08L3RkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPHRoIHdpZHRoPSI1JSI+5a6i5oi36Lqr5Lu96K+B5Y+3PC90aD4K</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPHRoIHdpZHRoPSI1JSI+5YKs5pS25ZGYPC90aD4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDxzZWxlY3QgaWQ9ImFtb3VudF9zdGFydCIgbmFtZT0iYW1vdW50X3N0YXJ0IgogICAgICAgICAgICAgIGNsYXNzPSJzZWxlY3RwaWNrZXIgc2hvdy10aWNrIGZvcm0tY29udHJvbCI+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMCI+NTAwPC9vcHRpb24+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMSI+MTAwMDwvb3B0aW9uPgogICAgICA8L3NlbGVjdD4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgPHRoIHdpZHRoPSI1JSI+5YKs5pS25ZGYPC90aD4K</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBcmNSZXBheW1lbnREbyByZXBheW1lbnRPZmZsaW5lID0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
