@@ -160,11 +160,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/pom.xml" timestamp="1501646445824">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ArcRepaymentController.java" timestamp="1502095679686">
-        <mark key="[" line="81" column="32" />
-        <mark key="]" line="102" column="21" />
-        <mark key="." line="102" column="21" />
-        <mark key="^" line="102" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ArcRepaymentController.java" timestamp="1502182220644">
+        <mark key="[" line="62" column="32" />
+        <mark key="]" line="62" column="32" />
+        <mark key="." line="62" column="32" />
+        <mark key="^" line="103" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/CallLogJob.java" timestamp="1502085515300" />
       <file name="$USER_HOME$/Downloads/51fbadmin_master/.gitignore" timestamp="1500366049143">
@@ -275,11 +275,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
         <mark key="[" line="302" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1502180754626">
-        <mark key="[" line="625" column="10" />
-        <mark key="]" line="624" column="9" />
-        <mark key="." line="624" column="9" />
-        <mark key="^" line="624" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1502182864064">
+        <mark key="[" line="71" column="17" />
+        <mark key="]" line="70" column="16" />
+        <mark key="." line="70" column="16" />
+        <mark key="^" line="70" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501827065755">
         <mark key="[" line="0" column="1" />
@@ -407,10 +407,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRlZmF1bHRWYWx1ZSA9ICIi</text>
+        <text>续期到期时间:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRlZmF1bHRWYWx1ZSA9ICIi</text>
+        <text>续期到期时间:</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
