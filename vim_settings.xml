@@ -195,8 +195,8 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Public/SystemManagement/ProducttypeManagement/Components/SeachForm.js" timestamp="1500452249091">
         <mark key="[" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/CollectionDistributionDao.xml" timestamp="1502209399009">
-        <mark key="[" line="209" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/CollectionDistributionDao.xml" timestamp="1502248932568">
+        <mark key="[" line="220" column="25" />
         <mark key="]" line="209" column="16" />
         <mark key="." line="209" column="16" />
       </file>
@@ -234,11 +234,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcCollection.xml" timestamp="1501845841848">
         <mark key="[" line="189" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1502247902579">
-        <mark key="[" line="63" column="24" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1502250006037">
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="48" column="33" />
+        <mark key="." line="48" column="33" />
+        <mark key="^" line="186" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/log4j.properties" timestamp="1500276309369">
         <mark key="[" line="11" column="38" />
@@ -284,7 +284,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
         <mark key="[" line="302" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1502246523244">
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1502249242018">
         <mark key="[" line="484" column="2" />
         <mark key="]" line="484" column="2" />
         <mark key="^" line="477" column="6" />
@@ -417,22 +417,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$('#reduceAmount').change(function() {
-//    var scale = $(&quot;#scale&quot;).val(); // 减免比例
-    var reduceAmount = $(&quot;#reduceAmount&quot;).val(); // 实际减免金额
-
-    if (!isNaN(scale)) {
-//      $(&quot;#cutRepayAmount&quot;).val(1111); // 实际总还款
-      var scale = reduceAmount / restAmount;
-      var cutRepayAmount = restAmount - reduceAmount; // 实际总还款
-
-      $(&quot;#cutRepayAmount&quot;).val(cutRepayAmount); // 实际总还款
-      $(&quot;#scale&quot;).val(reduceAmount);
-    }
-  });</text>
+        <text>amount</text>
       </register>
       <register name="-" type="4">
-        <text>scale</text>
+        <text>amount</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -441,6 +429,14 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text>//      $(&quot;#cutRepayAmount&quot;).val(1111); // 实际总还款
+      var reduceAmount = restAmount * scale / 100; // 实际减免金额
+      var cutRepayAmount = restAmount - reduceAmount; // 实际总还款
+
+      $(&quot;#cutRepayAmount&quot;).val(cutRepayAmount); // 实际总还款
+      $(&quot;#reduceAmount&quot;).val(reduceAmount);</text>
+      </register>
+      <register name="2" type="4">
         <text>$('#reduceAmount').change(function() {
 //    var scale = $(&quot;#scale&quot;).val(); // 减免比例
     var reduceAmount = $(&quot;#reduceAmount&quot;).val(); // 实际减免金额
@@ -455,46 +451,38 @@
     }
   });</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNjYWxlID4gODApIHsKICAgICAgICAkKCIjc2NhbGUiKS52YWwoODApOwogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHNjYWxlID4gODApIHsKICAgICAgICAkKCIjc2NhbGUiKS52YWwoODApOwogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxhIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiBkYXRhLXBsYWNlbWVudD0icmlnaHQiIHRpdGxlPSJ4eHh4MSI+eHh4PC9hPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxhIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiBkYXRhLXBsYWNlbWVudD0icmlnaHQiIHRpdGxlPSJ4eHh4MSI+eHh4PC9hPgo=</text>
+      </register>
+      <register name="8" type="4">
         <text>#if(${data.paychecStatus})
             xxx
           ## 未还款
           #else</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICNlbHNlCiAgICAgICAgICAgIHg0Cg==</text>
-      </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="4">
-        <text>if (!scale || scale === '') {
-      $('#scale').val(0);
-    }
-    if (!reduceAmount || reduceAmount === '') {
-      $('#reduceAmount').val(0);
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICNlbHNlCiAgICAgICAgICAgIHg0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
