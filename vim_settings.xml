@@ -1,12 +1,12 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/dto/CollectionDto.java" timestamp="1502265385519">
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/dto/CollectionDto.java" timestamp="1502266513468">
         <mark key="[" line="188" column="5" />
         <mark key="]" line="186" column="34" />
         <mark key="^" line="186" column="34" />
@@ -47,7 +47,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/UserContactDao.java" timestamp="1501745537801">
         <mark key="[" line="15" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/27cbeb5d-e8f9-4de8-9f52-8f312cf41d7e/console.sql" timestamp="1502265352070">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/27cbeb5d-e8f9-4de8-9f52-8f312cf41d7e/console.sql" timestamp="1502267592577">
         <mark key="[" line="276" column="30" />
         <mark key="]" line="276" column="30" />
         <mark key="^" line="245" column="37" />
@@ -60,13 +60,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/static/h-ui.admin/js/H-ui.admin.js" timestamp="1502181130831">
         <mark key="[" line="270" column="5" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/UserContactDao.xml" timestamp="1502179167923">
-        <mark key="'" line="189" column="12" />
-        <mark key="[" line="139" column="36" />
-        <mark key="]" line="139" column="36" />
-        <mark key="." line="139" column="36" />
-        <mark key="^" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/UserContactServiceImpl.java" timestamp="1501749839028">
         <mark key="[" line="40" column="16" />
@@ -86,6 +79,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/resources/spring/admin-web.xml" timestamp="1501142046117">
         <mark key="[" line="111" column="96" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/data/listDataPool.vm" timestamp="1502266751603" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-common/src/main/java/tool/code/generator/Create.java" timestamp="1501743771858">
         <mark key="[" line="22" column="32" />
       </file>
@@ -198,11 +192,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Public/SystemManagement/ProducttypeManagement/Components/SeachForm.js" timestamp="1500452249091">
         <mark key="[" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/CollectionDistributionDao.xml" timestamp="1502262560702">
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/CollectionDistributionDao.xml" timestamp="1502267644537">
         <mark key="[" line="222" column="27" />
-        <mark key="]" line="222" column="26" />
-        <mark key="." line="222" column="26" />
-        <mark key="^" line="222" column="26" />
+        <mark key="]" line="210" column="7" />
+        <mark key="." line="210" column="7" />
+        <mark key="^" line="210" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyRespMapper.xml" timestamp="1501751232968">
         <mark key="[" line="152" column="76" />
@@ -238,11 +232,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcCollection.xml" timestamp="1501845841848">
         <mark key="[" line="189" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1502262904201">
-        <mark key="[" line="138" column="25" />
-        <mark key="]" line="122" column="62" />
-        <mark key="." line="122" column="62" />
-        <mark key="^" line="122" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/listMyJob.vm" timestamp="1502267187212">
+        <mark key="[" line="150" column="98" />
+        <mark key="]" line="146" column="16" />
+        <mark key="." line="146" column="16" />
+        <mark key="^" line="146" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/log4j.properties" timestamp="1500276309369">
         <mark key="[" line="11" column="38" />
@@ -273,7 +267,7 @@
       <file name="/dummy.sql" timestamp="1501586620469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502260327780">
+      <file name="/Dummy.txt" timestamp="1502267545590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
@@ -288,11 +282,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
         <mark key="[" line="302" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1502265302112">
-        <mark key="[" line="461" column="0" />
-        <mark key="]" line="461" column="0" />
-        <mark key="^" line="463" column="22" />
-        <mark key="." line="461" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1502266809602">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="464" column="0" />
+        <mark key="^" line="466" column="22" />
+        <mark key="." line="464" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1502258585352">
         <mark key="[" line="0" column="1" />
