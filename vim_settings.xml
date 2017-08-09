@@ -268,7 +268,7 @@
       <file name="/dummy.sql" timestamp="1501586620469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502243224699">
+      <file name="/Dummy.txt" timestamp="1502246568533">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
@@ -283,11 +283,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
         <mark key="[" line="302" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1502195543940">
-        <mark key="[" line="473" column="46" />
-        <mark key="]" line="473" column="46" />
-        <mark key="^" line="467" column="4" />
-        <mark key="." line="473" column="46" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1502246523244">
+        <mark key="[" line="484" column="2" />
+        <mark key="]" line="484" column="2" />
+        <mark key="^" line="477" column="6" />
+        <mark key="." line="484" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501827065755">
         <mark key="[" line="0" column="1" />
@@ -415,11 +415,23 @@
       <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$('#reduceAmount').change(function() {
+//    var scale = $(&quot;#scale&quot;).val(); // 减免比例
+    var reduceAmount = $(&quot;#reduceAmount&quot;).val(); // 实际减免金额
+
+    if (!isNaN(scale)) {
+//      $(&quot;#cutRepayAmount&quot;).val(1111); // 实际总还款
+      var scale = reduceAmount / restAmount;
+      var cutRepayAmount = restAmount - reduceAmount; // 实际总还款
+
+      $(&quot;#cutRepayAmount&quot;).val(cutRepayAmount); // 实际总还款
+      $(&quot;#scale&quot;).val(reduceAmount);
+    }
+  });</text>
       </register>
       <register name="-" type="4">
-        <text>$!{data.paycheckRemark}</text>
+        <text>scale</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -427,8 +439,20 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>$('#reduceAmount').change(function() {
+//    var scale = $(&quot;#scale&quot;).val(); // 减免比例
+    var reduceAmount = $(&quot;#reduceAmount&quot;).val(); // 实际减免金额
+
+    if (!isNaN(scale)) {
+//      $(&quot;#cutRepayAmount&quot;).val(1111); // 实际总还款
+      var scale = reduceAmount / restAmount;
+      var cutRepayAmount = restAmount - reduceAmount; // 实际总还款
+
+      $(&quot;#cutRepayAmount&quot;).val(cutRepayAmount); // 实际总还款
+      $(&quot;#scale&quot;).val(reduceAmount);
+    }
+  });</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -437,44 +461,39 @@
         <text>msg</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHNjYWxlID4gODApIHsKICAgICAgICAkKCIjc2NhbGUiKS52YWwoODApOwogICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxhIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiBkYXRhLXBsYWNlbWVudD0icmlnaHQiIHRpdGxlPSJ4eHh4MSI+eHh4PC9hPgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>#if(${data.paychecStatus})
             xxx
           ## 未还款
           #else</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICNlbHNlCiAgICAgICAgICAgIHg0Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="x" type="4">
+        <text>null</text>
+      </register>
+      <register name="9" type="4">
         <text>if (!scale || scale === '') {
       $('#scale').val(0);
     }
     if (!reduceAmount || reduceAmount === '') {
       $('#reduceAmount').val(0);
     }</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
-        <text>change(function() {
-    var scale = $(&quot;#scale&quot;).val(); // 减免比例
-    var reduceAmount = $(&quot;#reduceAmount&quot;).val(); // 实际减免金额
-
-    console.log(scale + &quot;---&quot; + reduceAmount);
-  });</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICA8bGkgY2xhc3M9ImFjdGl2ZSI+PGEgaHJlZj0iL2NvbGxlY3Rpb24vL2NvbGxlY3Rpb24vam9iRGV0YWlsLmh0bSI+57yW6L6R6I+c5Y2VPC9hPjwvbGk+Cg==</text>
-      </register>
-      <register name="x" type="4">
-        <text>null</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICA8bGk+PGEgaHJlZj0iL21lbnUvbGlzdE1lbnUuaHRtIj7oj5zljZXliJfooag8L2E+PC9saT4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
