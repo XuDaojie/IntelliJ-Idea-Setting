@@ -6,8 +6,11 @@
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/dto/CollectionDto.java" timestamp="1502211351659">
-        <mark key="[" line="25" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/dto/CollectionDto.java" timestamp="1502265385519">
+        <mark key="[" line="188" column="5" />
+        <mark key="]" line="186" column="34" />
+        <mark key="^" line="186" column="34" />
+        <mark key="." line="186" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/aliyun/openservices/tablestore/4.3.1/tablestore-4.3.1-sources.jar!/com/alicloud/openservices/tablestore/model/Row.java" timestamp="1502076421012" />
       <file name="/a.dummy" timestamp="1501749693479">
@@ -44,7 +47,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/UserContactDao.java" timestamp="1501745537801">
         <mark key="[" line="15" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/27cbeb5d-e8f9-4de8-9f52-8f312cf41d7e/console.sql" timestamp="1502264218861">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/27cbeb5d-e8f9-4de8-9f52-8f312cf41d7e/console.sql" timestamp="1502265352070">
         <mark key="[" line="276" column="30" />
         <mark key="]" line="276" column="30" />
         <mark key="^" line="245" column="37" />
@@ -285,11 +288,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
         <mark key="[" line="302" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1502259593738">
-        <mark key="[" line="388" column="20" />
-        <mark key="]" line="388" column="24" />
-        <mark key="^" line="388" column="24" />
-        <mark key="." line="388" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1502265302112">
+        <mark key="[" line="461" column="0" />
+        <mark key="]" line="461" column="0" />
+        <mark key="^" line="463" column="22" />
+        <mark key="." line="461" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1502258585352">
         <mark key="[" line="0" column="1" />
@@ -417,8 +420,8 @@
       <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>status,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvL+WIt+aWsOW9k+WJjemhtemdogogICQoIiNsb2FkcyIpLmNsaWNrKGZ1bmN0aW9uICgpIHsKICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsKICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>status,</text>
@@ -429,7 +432,10 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAvL+WIt+aWsOW9k+WJjemhtemdogogICQoIiNsb2FkcyIpLmNsaWNrKGZ1bmN0aW9uICgpIHsKICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsKICB9KTsK</text>
+      </register>
+      <register name="2" type="4">
         <text>//      $(&quot;#cutRepayAmount&quot;).val(1111); // 实际总还款
       var reduceAmount = restAmount * scale / 100; // 实际减免金额
       var cutRepayAmount = restAmount - reduceAmount; // 实际总还款
@@ -437,7 +443,10 @@
       $(&quot;#cutRepayAmount&quot;).val(cutRepayAmount); // 实际总还款
       $(&quot;#reduceAmount&quot;).val(reduceAmount);</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>$('#reduceAmount').change(function() {
 //    var scale = $(&quot;#scale&quot;).val(); // 减免比例
     var reduceAmount = $(&quot;#reduceAmount&quot;).val(); // 实际减免金额
@@ -452,17 +461,11 @@
     }
   });</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNjYWxlID4gODApIHsKICAgICAgICAkKCIjc2NhbGUiKS52YWwoODApOwogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHNjYWxlID4gODApIHsKICAgICAgICAkKCIjc2NhbGUiKS52YWwoODApOwogICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -471,19 +474,19 @@
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxhIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiBkYXRhLXBsYWNlbWVudD0icmlnaHQiIHRpdGxlPSJ4eHh4MSI+eHh4PC9hPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>#if(${data.paychecStatus})
-            xxx
-          ## 未还款
-          #else</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxhIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiBkYXRhLXBsYWNlbWVudD0icmlnaHQiIHRpdGxlPSJ4eHh4MSI+eHh4PC9hPgo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICNlbHNlCiAgICAgICAgICAgIHg0Cg==</text>
+      <register name="9" type="4">
+        <text>#if(${data.paychecStatus})
+            xxx
+          ## 未还款
+          #else</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
