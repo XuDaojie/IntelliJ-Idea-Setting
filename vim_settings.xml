@@ -93,7 +93,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcUserContactDo.java" timestamp="1501749354973">
         <mark key="[" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1500973517333">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1502437635375">
         <mark key="[" line="280" column="13" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1502370858849" />
@@ -130,8 +130,8 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserDirectoryService.java" timestamp="1499999548966">
         <mark key="[" line="50" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1502185716579">
-        <mark key="[" line="217" column="31" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1502438057261">
+        <mark key="[" line="219" column="34" />
         <mark key="]" line="207" column="22" />
         <mark key="^" line="207" column="22" />
         <mark key="." line="207" column="22" />
@@ -265,13 +265,15 @@
       <file name="/dummy.sql" timestamp="1501586620469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502267545590">
+      <file name="/Dummy.txt" timestamp="1502436619939">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserController.java" timestamp="1502160808899">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserController.java" timestamp="1502437997750">
         <mark key="[" line="258" column="86" />
         <mark key="]" line="258" column="86" />
         <mark key="^" line="258" column="108" />
@@ -301,7 +303,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
         <mark key="[" line="42" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1502435716674">
+      <file name="/fragment.java" timestamp="1502438022165">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -410,8 +412,8 @@
       <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getIdNo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">5L+u5aSN5bey57ut5pyf5Zyo5YKs5pS25Lu75Yqh5Lit5Lmf5Y+v5p+l55yLCg==</text>
       </register>
       <register name="-" type="4">
         <text>getIdNo</text>
@@ -423,9 +425,15 @@
         <text />
       </register>
       <register name="1" type="2">
+        <text encoding="base64">5L+u5aSN5bey57ut5pyf5Zyo5YKs5pS25Lu75Yqh5Lit5Lmf5Y+v5p+l55yLCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAvL+WIt+aWsOW9k+WJjemhtemdogogICQoIiNsb2FkcyIpLmNsaWNrKGZ1bmN0aW9uICgpIHsKICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsKICB9KTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>//      $(&quot;#cutRepayAmount&quot;).val(1111); // 实际总还款
       var reduceAmount = restAmount * scale / 100; // 实际减免金额
       var cutRepayAmount = restAmount - reduceAmount; // 实际总还款
@@ -433,10 +441,7 @@
       $(&quot;#cutRepayAmount&quot;).val(cutRepayAmount); // 实际总还款
       $(&quot;#reduceAmount&quot;).val(reduceAmount);</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>$('#reduceAmount').change(function() {
 //    var scale = $(&quot;#scale&quot;).val(); // 减免比例
     var reduceAmount = $(&quot;#reduceAmount&quot;).val(); // 实际减免金额
@@ -451,14 +456,11 @@
     }
   });</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNjYWxlID4gODApIHsKICAgICAgICAkKCIjc2NhbGUiKS52YWwoODApOwogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHNjYWxlID4gODApIHsKICAgICAgICAkKCIjc2NhbGUiKS52YWwoODApOwogICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -467,16 +469,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxhIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiBkYXRhLXBsYWNlbWVudD0icmlnaHQiIHRpdGxlPSJ4eHh4MSI+eHh4PC9hPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="4">
-        <text>#if(${data.paychecStatus})
-            xxx
-          ## 未还款
-          #else</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxhIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiBkYXRhLXBsYWNlbWVudD0icmlnaHQiIHRpdGxlPSJ4eHh4MSI+eHh4PC9hPgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
