@@ -126,7 +126,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcCollectionDo.java" timestamp="1501842752018">
         <mark key="[" line="86" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddRole.js" timestamp="1502696810882" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddRole.js" timestamp="1502699821245" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/List.js" timestamp="1502681289302">
         <mark key="[" line="99" column="8" />
         <mark key="]" line="99" column="8" />
@@ -304,11 +304,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/README.md" timestamp="1501211468800">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1502698001771">
-        <mark key="[" line="81" column="65" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="95" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1502704262807">
+        <mark key="[" line="157" column="18" />
+        <mark key="]" line="157" column="18" />
+        <mark key="." line="157" column="18" />
+        <mark key="^" line="160" column="96" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/SeachForm.js" timestamp="1501483966337">
         <mark key="[" line="31" column="20" />
@@ -425,11 +425,11 @@
       <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ey8qPEJ1dHRvbiBjbGFzc05hbWU9ImFudC1idG4iKi99CiAgICAgICAgICAgICAgICAgIHsvKm9uQ2xpY2s9e3RoaXMuaGFuZGxlQWRkU3ViSXRlbS5iaW5kKHRoaXMsIGl0ZW0sIC0xKX0+5paw5aKe566A5Y2V6KeE5YiZPC9CdXR0b24+Ki99CiAgICAgICAgICAgICAgICAgIHsvKjxCdXR0b24gY2xhc3NOYW1lPSJhbnQtYnRuIiovfQogICAgICAgICAgICAgICAgICB7LypvbkNsaWNrPXt0aGlzLmhhbmRsZUFkZFN1Ykl0ZW0uYmluZCh0aGlzLCBpdGVtLCAwKX0+5paw5aKeMee6p+e7hOWQiDwvQnV0dG9uPiovfQogICAgICAgICAgICAgICAgICB7Lyo8QnV0dG9uIGNsYXNzTmFtZT0iYW50LWJ0biIqL30KICAgICAgICAgICAgICAgICAgey8qb25DbGljaz17dGhpcy5oYW5kbGVBZGRTdWJJdGVtLmJpbmQodGhpcywgaXRlbSwgMSl9PuaWsOWinjLnuqfnu4TlkIg8L0J1dHRvbj4qL30=</text>
       </register>
       <register name="-" type="4">
-        <text>bor</text>
+        <text>style={{marginTop: &quot;4px&quot;}}</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -437,49 +437,41 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAsCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ey8qPEJ1dHRvbiBjbGFzc05hbWU9ImFudC1idG4iKi99CiAgICAgICAgICAgICAgICAgIHsvKm9uQ2xpY2s9e3RoaXMuaGFuZGxlQWRkU3ViSXRlbS5iaW5kKHRoaXMsIGl0ZW0sIC0xKX0+5paw5aKe566A5Y2V6KeE5YiZPC9CdXR0b24+Ki99CiAgICAgICAgICAgICAgICAgIHsvKjxCdXR0b24gY2xhc3NOYW1lPSJhbnQtYnRuIiovfQogICAgICAgICAgICAgICAgICB7LypvbkNsaWNrPXt0aGlzLmhhbmRsZUFkZFN1Ykl0ZW0uYmluZCh0aGlzLCBpdGVtLCAwKX0+5paw5aKeMee6p+e7hOWQiDwvQnV0dG9uPiovfQogICAgICAgICAgICAgICAgICB7Lyo8QnV0dG9uIGNsYXNzTmFtZT0iYW50LWJ0biIqL30KICAgICAgICAgICAgICAgICAgey8qb25DbGljaz17dGhpcy5oYW5kbGVBZGRTdWJJdGVtLmJpbmQodGhpcywgaXRlbSwgMSl9PuaWsOWinjLnuqfnu4TlkIg8L0J1dHRvbj4qL30=</text>
       </register>
       <register name="2" type="4">
-        <text>// codeBox: {
-  //   border: &quot;1px solid #e9e9e9&quot;,
-  //   borderRadius: &quot;6px&quot;,
-  //   display: &quot;inline-block&quot;,
-  //   width: &quot;100%&quot;,
-  //   position: &quot;relative&quot;,
-  //   margin: &quot;0 0 16px&quot;,
-  //   transition: &quot;all .2s ease&quot;
-  // }</text>
+        <text encoding="base64">PEJ1dHRvbiBjbGFzc05hbWU9ImFudC1idG4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXt0aGlzLmhhbmRsZUFkZFN1Ykl0ZW0uYmluZCh0aGlzLCBpdGVtLCAtMSl9PuaWsOWinueugOWNleinhOWImTwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDxCdXR0b24gY2xhc3NOYW1lPSJhbnQtYnRuIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17dGhpcy5oYW5kbGVBZGRTdWJJdGVtLmJpbmQodGhpcywgaXRlbSwgMCl9PuaWsOWinjHnuqfnu4TlkIg8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIGNsYXNzTmFtZT0iYW50LWJ0biIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuaGFuZGxlQWRkU3ViSXRlbS5iaW5kKHRoaXMsIGl0ZW0sIDEpfT7mlrDlop4y57qn57uE5ZCIPC9CdXR0b24+</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNyZWF0ZUl0ZW0gPSBmdW5jdGlvbiAoaXRlbSwgaW5kZXgsIGFycmF5KSB7CiAgICAgIHJldHVybiAoPGRpdiBrZXk9e2luZGV4LnRvU3RyaW5nKCl9Pue7hOWQiEEwe2luZGV4fTwvZGl2Pik7CiAgICB9Owo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgaW5kZXggPT09IDAKICAgICAgICAgICAgICAgICAgPyA8QnV0dG9uIGNsYXNzTmFtZT0iYW50LWJ0biIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17dGhpcy5oYW5kbGVBZGRTdWJJdGVtLmJpbmQodGhpcywgaXRlbSwgLTEpfT7mlrDlop7nroDljZXop4TliJk8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgOiA8QnV0dG9uIGNsYXNzTmFtZT0iYW50LWJ0biIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuaGFuZGxlQWRkU3ViSXRlbS5iaW5kKHRoaXMsIGl0ZW0sIGluZGV4KX0+5paw5aKeMee6p+e7hOWQiDwvQnV0dG9uPgogICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IC8vIGNvbnN0IG51bWJlcnMgPSBbMSwgMiwgMywgNCwgNV07CiAgICAvLyBjb25zdCBpdGVtQXJyYXkgPSB0aGlzLnN0YXRlLml0ZW1BcnJheTsKICAgIC8vIC8vIGNvbnN0IGl0ZW1BcnJheSA9IG51bWJlcnM7CiAgICAvLyBjb25zdCBsaXN0SXRlbXMgPSBpdGVtQXJyYXkubWFwKGZ1bmN0aW9uKHZhbHVlLCBpbmRleCwgYXJyYXkpIHsKICAgIC8vICAgY29uc29sZS5sb2coaW5kZXggKyAnJyk7CiAgICAvLyAgIHJldHVybiA8ZGl2IGtleT17aW5kZXgudG9TdHJpbmcoKX0+e3ZhbHVlLnRvU3RyaW5nKCl9PC9kaXY+CiAgICAvLyB9KTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBzaW1wbGVCdG4gPSAoCiAgICAgICAgICA8QnV0dG9uIGNsYXNzTmFtZT0iYW50LWJ0biIKICAgICAgICAgICAgICAgICAgb25DbGljaz17dGhpcy5oYW5kbGVBZGRTdWJJdGVtLmJpbmQodGhpcywgaXRlbSwgLTEpfT7mlrDlop7nroDljZXop4TliJk8L0J1dHRvbj4KICAgICAgICApOwogICAgICAgIGNvbnN0IGdyb3VwQnRuID0gKAogICAgICAgICAgPEJ1dHRvbiBjbGFzc05hbWU9ImFudC1idG4iCiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuaGFuZGxlQWRkU3ViSXRlbS5iaW5kKHRoaXMsIGl0ZW0sICl9PuaWsOWinjHnuqfnu4TlkIg8L0J1dHRvbj4KICAgICAgICApOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuICg8ZGl2IGtleT17dmFsdWV9PuWtkGl0ZW17dmFsdWV9PC9kaXY+KTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IDxwIHN0eWxlPXtzdHlsZS5pdGVtVGl0bGV9Pue7hOWQiEEwe2luZGV4fTwvcD4KICAgICAgICAgICAgICAgIHtjcmVhdGVTdWJJdGVtKGl0ZW0pfQogICAgICAgICAgICAgICAgPGRpdj4=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">KG51bWJlciwgaW5kZXgsIGFycmF5KSA9PgogICAgICA8ZGl2PgogICAgICAgIHtudW1iZXJ9CiAgICAgIDwvZGl2PgogICAg</text>
+        <text encoding="base64">PFNlbGVjdCBzdHlsZT17e21hcmdpblRvcDogIjhweCJ9fT4KICAgICAgICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT17MH0+566A5Y2V6KeE5YiZMTwvT3B0aW9uPgogICAgICAgICAgICAgICAgICA8T3B0aW9uIHZhbHVlPXsxfT7nroDljZXop4TliJkyPC9PcHRpb24+CiAgICAgICAgICAgICAgICA8L1NlbGVjdD4=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ey8qPGxpIGtleT17bnVtYmVyLnRvU3RyaW5nKCl9PiovfQogICAgICAgIHsvKntudW1iZXJ9Ki99CiAgICAgIHsvKjwvbGk+Ki99</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxGb3JtSXRlbQogICAgICAgICAgICBsYWJlbD0i6LSm5oi3IgogICAgICAgICAgPgogICAgICAgICAgICA8SW5wdXQgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpei0puaIt+WQjSIvPgogICAgICAgICAgPC9Gb3JtSXRlbT4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8vIHRoaXMuc3RhdGUuaXRlbUFycmF5LmZvckVhY2goZnVuY3Rpb24gKHZhbHVlLCBpbmRleCwgYXJyYXkpIHsKICAgICAgICAgIC8vICAgY29uc29sZS5sb2codmFsdWUpOwogICAgICAgICAgLy8gICByZXR1cm4gc3ViSXRlbTsKICAgICAgICAgIC8vIH0p</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxGb3JtSXRlbSAgICAgICBsYWJlbD0iU2VsZWN0IOmAieaLqeWZqCIKICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJlbENvbD17eyBzcGFuOiA2IH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgd3JhcHBlckNvbD17eyBzcGFuOiAxNCB9fT4KICAgICAgICAgICAgPFNlbGVjdD4KICAgICAgICAgICAgICA8T3B0aW9uIHZhbHVlPXswfT7nroDljZXop4TliJkxPC9PcHRpb24+CiAgICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT17MX0+566A5Y2V6KeE5YiZMjwvT3B0aW9uPgogICAgICAgICAgICA8L1NlbGVjdD4KICAgICAgICAgIDwvRm9ybUl0ZW0+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGNvbnN0IHN1Ykl0ZW0gPSAoCiAgICAgIDxkaXY+5a2QaXRlbTwvZGl2PgogICAgKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
