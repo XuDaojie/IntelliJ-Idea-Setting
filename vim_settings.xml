@@ -73,7 +73,7 @@
         <mark key="[" line="86" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddRole.js" timestamp="1502712824734" />
-      <file name="$USER_HOME$/ReactJS/admin/src/App.js" timestamp="1502806220853">
+      <file name="$USER_HOME$/ReactJS/admin/src/App.js" timestamp="1502807273240">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
@@ -275,7 +275,6 @@
       <file name="/JavaScript Console" timestamp="1501483115117">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1502370858849" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleEngineConfigController.java" timestamp="1502158810559">
         <mark key="[" line="97" column="41" />
         <mark key="]" line="97" column="41" />
@@ -325,6 +324,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/XinXinList.js" timestamp="1500449787792">
         <mark key="[" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/ReactJS/admin/src/Test.ts" timestamp="1502807455644">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
         <mark key="[" line="42" column="11" />
@@ -446,10 +450,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>type={}</text>
+        <text encoding="base64">PGRpdiBjbGFzc05hbWU9IkFwcCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJBcHAtaGVhZGVyIj4KICAgICAgPGltZyBzcmM9e2xvZ299IGNsYXNzTmFtZT0iQXBwLWxvZ28iIGFsdD0ibG9nbyIgLz4KICAgICAgPGgyPldlbGNvbWUgdG8gUmVhY3Q8L2gyPgogICAgPC9kaXY+CiAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiIHNoYXBlPSJjaXJjbGUiIGxvYWRpbmcgLz4KICAgIDxwIGNsYXNzTmFtZT0iQXBwLWludHJvIj4KICAgICAgVG8gZ2V0IHN0YXJ0ZWQsIGVkaXQgPGNvZGU+c3JjL0FwcC5qczwvY29kZT4gYW5kIHNhdmUgdG8gcmVsb2FkLgogICAgPC9wPgogICAgPC9kaXY+</text>
       </register>
       <register name="-" type="4">
-        <text>type={}</text>
+        <text>/es/button/button</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -458,34 +462,37 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text encoding="base64">PGRpdiBjbGFzc05hbWU9IkFwcCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJBcHAtaGVhZGVyIj4KICAgICAgPGltZyBzcmM9e2xvZ299IGNsYXNzTmFtZT0iQXBwLWxvZ28iIGFsdD0ibG9nbyIgLz4KICAgICAgPGgyPldlbGNvbWUgdG8gUmVhY3Q8L2gyPgogICAgPC9kaXY+CiAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiIHNoYXBlPSJjaXJjbGUiIGxvYWRpbmcgLz4KICAgIDxwIGNsYXNzTmFtZT0iQXBwLWludHJvIj4KICAgICAgVG8gZ2V0IHN0YXJ0ZWQsIGVkaXQgPGNvZGU+c3JjL0FwcC5qczwvY29kZT4gYW5kIHNhdmUgdG8gcmVsb2FkLgogICAgPC9wPgogICAgPC9kaXY+</text>
+      </register>
+      <register name="2" type="4">
         <text>[{
           group_rule_id: &quot;A01&quot;,
           level: 1,
           rule_list: undefined,
         }]</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KAogICAgICAgICAgICAvLyBzdHlsZT17e21hcmdpblRvcDogIjRweCJ9fQogICAgICAgICAgICA8U2VsZWN0PgogICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9ezB9PueugOWNleinhOWImTE8L09wdGlvbj4KICAgICAgICAgICAgICA8T3B0aW9uIHZhbHVlPXsxfT7nroDljZXop4TliJkyPC9PcHRpb24+CiAgICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgICAgKQ==</text>
-      </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">KAogICAgICAgICAgICAvLyBzdHlsZT17e21hcmdpblRvcDogIjRweCJ9fQogICAgICAgICAgICA8U2VsZWN0PgogICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9ezB9PueugOWNleinhOWImTE8L09wdGlvbj4KICAgICAgICAgICAgICA8T3B0aW9uIHZhbHVlPXsxfT7nroDljZXop4TliJkyPC9PcHRpb24+CiAgICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgICAgKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZ2luYXRpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGE6IHJlc3VsdC5kYXRhLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZ2luYXRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGE6IHJlc3VsdC5kYXRhLAo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>if (!params.pageSize) {
       params = {
         pageSize: 1000,
@@ -493,14 +500,11 @@
       }
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1lcnJvci1vdmVybGF5IjogIl4xLjAuOSIsCiAgICAic3R5bGUtbG9hZGVyIjogIjAuMTguMiIsCiAgICAic3ctcHJlY2FjaGUtd2VicGFjay1wbHVnaW4iOiAiMC4xMS4zIiwKICAgICJ1cmwtbG9hZGVyIjogIjAuNS45IiwKICAgICJ3ZWJwYWNrIjogIjIuNi4xIiwKICAgICJ3ZWJwYWNrLWRldi1zZXJ2ZXIiOiAiMi41LjAiLAogICAgIndlYnBhY2stbWFuaWZlc3QtcGx1Z2luIjogIjEuMS4wIiwKICAgICJ3aGF0d2ctZmV0Y2giOiAiMi4wLjMiCg==</text>
-      </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1kZXYtdXRpbHMiOiAiXjMuMC4yIiwK</text>
+        <text encoding="base64">ICAgICJyZWFjdC1lcnJvci1vdmVybGF5IjogIl4xLjAuOSIsCiAgICAic3R5bGUtbG9hZGVyIjogIjAuMTguMiIsCiAgICAic3ctcHJlY2FjaGUtd2VicGFjay1wbHVnaW4iOiAiMC4xMS4zIiwKICAgICJ1cmwtbG9hZGVyIjogIjAuNS45IiwKICAgICJ3ZWJwYWNrIjogIjIuNi4xIiwKICAgICJ3ZWJwYWNrLWRldi1zZXJ2ZXIiOiAiMi41LjAiLAogICAgIndlYnBhY2stbWFuaWZlc3QtcGx1Z2luIjogIjEuMS4wIiwKICAgICJ3aGF0d2ctZmV0Y2giOiAiMi4wLjMiCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
