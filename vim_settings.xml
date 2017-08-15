@@ -317,10 +317,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/README.md" timestamp="1501211468800">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1502784142006">
-        <mark key="[" line="161" column="32" />
-        <mark key="]" line="161" column="32" />
-        <mark key="." line="161" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1502785107024">
+        <mark key="[" line="159" column="12" />
+        <mark key="]" line="159" column="12" />
+        <mark key="." line="159" column="12" />
         <mark key="^" line="222" column="2" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/SeachForm.js" timestamp="1501483966337">
@@ -442,10 +442,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KAogICAgICAgICAgICAvLyBzdHlsZT17e21hcmdpblRvcDogIjRweCJ9fQogICAgICAgICAgICA8U2VsZWN0PgogICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9ezB9PueugOWNleinhOWImTE8L09wdGlvbj4KICAgICAgICAgICAgICA8T3B0aW9uIHZhbHVlPXsxfT7nroDljZXop4TliJkyPC9PcHRpb24+CiAgICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgICAgKQ==</text>
+        <text>his.state.simpleRole.map(createSimpleRuleFun)</text>
       </register>
       <register name="-" type="4">
-        <text>currentGroupIndex</text>
+        <text>his.state.simpleRole.map(createSimpleRuleFun)</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
