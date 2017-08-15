@@ -24,6 +24,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/pom.xml" timestamp="1501646445824">
         <mark key="[" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/ReactJS/admin/.babelrc" timestamp="1502729905911">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ArcRepaymentController.java" timestamp="1502193375428">
         <mark key="[" line="62" column="32" />
         <mark key="]" line="62" column="32" />
@@ -127,8 +132,10 @@
         <mark key="[" line="86" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddRole.js" timestamp="1502712824734" />
-      <file name="$USER_HOME$/ReactJS/admin/src/App.js" timestamp="1502728050040">
-        <mark key="[" line="3" column="19" />
+      <file name="$USER_HOME$/ReactJS/admin/src/App.js" timestamp="1502729550751">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/List.js" timestamp="1502681289302">
         <mark key="[" line="99" column="8" />
@@ -292,6 +299,9 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcUserDo.java" timestamp="1501672361314">
         <mark key="[" line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/ReactJS/admin/src/index.js" timestamp="1502729466263">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/ArcUserContactService.java" timestamp="1501749749257">
         <mark key="[" line="12" column="20" />
       </file>
@@ -431,11 +441,11 @@
       <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1lcnJvci1vdmVybGF5IjogIl4xLjAuOSIsCiAgICAic3R5bGUtbG9hZGVyIjogIjAuMTguMiIsCiAgICAic3ctcHJlY2FjaGUtd2VicGFjay1wbHVnaW4iOiAiMC4xMS4zIiwKICAgICJ1cmwtbG9hZGVyIjogIjAuNS45IiwKICAgICJ3ZWJwYWNrIjogIjIuNi4xIiwKICAgICJ3ZWJwYWNrLWRldi1zZXJ2ZXIiOiAiMi41LjAiLAogICAgIndlYnBhY2stbWFuaWZlc3QtcGx1Z2luIjogIjEuMS4wIiwKICAgICJ3aGF0d2ctZmV0Y2giOiAiMi4wLjMiCg==</text>
+      <register name="&quot;" type="4">
+        <text>css</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>css</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
