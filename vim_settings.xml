@@ -317,11 +317,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/README.md" timestamp="1501211468800">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1502769793456">
-        <mark key="[" line="62" column="4" />
-        <mark key="]" line="62" column="4" />
-        <mark key="." line="62" column="4" />
-        <mark key="^" line="184" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1502776776306">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="90" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/SeachForm.js" timestamp="1501483966337">
         <mark key="[" line="31" column="20" />
@@ -442,15 +442,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if (!params.pageSize) {
-      params = {
-        pageSize: 1000,
-        currentPage: 1
-      }
-    }</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
