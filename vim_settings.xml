@@ -73,10 +73,10 @@
         <mark key="[" line="86" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddRole.js" timestamp="1502712824734" />
-      <file name="$USER_HOME$/ReactJS/admin/src/App.js" timestamp="1502803443167">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/ReactJS/admin/src/App.js" timestamp="1502806220853">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/List.js" timestamp="1502769744214">
         <mark key="[" line="99" column="8" />
@@ -170,9 +170,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/SeachForm.js" timestamp="1501483966337">
         <mark key="[" line="31" column="20" />
-      </file>
-      <file name="$USER_HOME$/ReactJS/admin/package.json" timestamp="1502805013926">
-        <mark key="[" line="5" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/BaseDao.java" timestamp="1500282679199">
         <mark key="[" line="26" column="16" />
@@ -269,8 +266,8 @@
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/build.gradle" timestamp="1501006795145">
         <mark key="[" line="48" column="32" />
       </file>
-      <file name="$USER_HOME$/ReactJS/admin/config/webpack.config.dev.js" timestamp="1502803782199">
-        <mark key="[" line="101" column="66" />
+      <file name="$USER_HOME$/ReactJS/admin/config/webpack.config.dev.js" timestamp="1502806008021">
+        <mark key="[" line="158" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/.gitignore" timestamp="1501637420797">
         <mark key="[" line="258" column="5" />
@@ -449,14 +446,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[{
-          group_rule_id: &quot;A01&quot;,
-          level: 1,
-          rule_list: undefined,
-        }]</text>
+        <text>type={}</text>
       </register>
       <register name="-" type="4">
-        <text>his.state.simpleRole.map(createSimpleRuleFun)</text>
+        <text>type={}</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
