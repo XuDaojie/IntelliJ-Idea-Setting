@@ -317,11 +317,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/README.md" timestamp="1501211468800">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1502786153810">
-        <mark key="[" line="249" column="21" />
-        <mark key="]" line="163" column="33" />
-        <mark key="." line="163" column="33" />
-        <mark key="^" line="163" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1502791391447">
+        <mark key="[" line="117" column="33" />
+        <mark key="]" line="117" column="32" />
+        <mark key="." line="117" column="32" />
+        <mark key="^" line="117" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/SeachForm.js" timestamp="1501483966337">
         <mark key="[" line="31" column="20" />
@@ -442,7 +442,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>his.state.simpleRole.map(createSimpleRuleFun)</text>
+        <text>[{
+          group_rule_id: &quot;A01&quot;,
+          level: 1,
+          rule_list: undefined,
+        }]</text>
       </register>
       <register name="-" type="4">
         <text>his.state.simpleRole.map(createSimpleRuleFun)</text>
@@ -454,24 +458,34 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">KAogICAgICAgICAgICAvLyBzdHlsZT17e21hcmdpblRvcDogIjRweCJ9fQogICAgICAgICAgICA8U2VsZWN0PgogICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9ezB9PueugOWNleinhOWImTE8L09wdGlvbj4KICAgICAgICAgICAgICA8T3B0aW9uIHZhbHVlPXsxfT7nroDljZXop4TliJkyPC9PcHRpb24+CiAgICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgICAgKQ==</text>
+        <text>[{
+          group_rule_id: &quot;A01&quot;,
+          level: 1,
+          rule_list: undefined,
+        }]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">KAogICAgICAgICAgICAvLyBzdHlsZT17e21hcmdpblRvcDogIjRweCJ9fQogICAgICAgICAgICA8U2VsZWN0PgogICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9ezB9PueugOWNleinhOWImTE8L09wdGlvbj4KICAgICAgICAgICAgICA8T3B0aW9uIHZhbHVlPXsxfT7nroDljZXop4TliJkyPC9PcHRpb24+CiAgICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgICAgKQ==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZ2luYXRpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGE6IHJlc3VsdC5kYXRhLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZ2luYXRpb24K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRhdGE6IHJlc3VsdC5kYXRhLAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>if (!params.pageSize) {
       params = {
         pageSize: 1000,
@@ -479,20 +493,14 @@
       }
     }</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1lcnJvci1vdmVybGF5IjogIl4xLjAuOSIsCiAgICAic3R5bGUtbG9hZGVyIjogIjAuMTguMiIsCiAgICAic3ctcHJlY2FjaGUtd2VicGFjay1wbHVnaW4iOiAiMC4xMS4zIiwKICAgICJ1cmwtbG9hZGVyIjogIjAuNS45IiwKICAgICJ3ZWJwYWNrIjogIjIuNi4xIiwKICAgICJ3ZWJwYWNrLWRldi1zZXJ2ZXIiOiAiMi41LjAiLAogICAgIndlYnBhY2stbWFuaWZlc3QtcGx1Z2luIjogIjEuMS4wIiwKICAgICJ3aGF0d2ctZmV0Y2giOiAiMi4wLjMiCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1kZXYtdXRpbHMiOiAiXjMuMC4yIiwK</text>
+        <text encoding="base64">ICAgICJyZWFjdC1lcnJvci1vdmVybGF5IjogIl4xLjAuOSIsCiAgICAic3R5bGUtbG9hZGVyIjogIjAuMTguMiIsCiAgICAic3ctcHJlY2FjaGUtd2VicGFjay1wbHVnaW4iOiAiMC4xMS4zIiwKICAgICJ1cmwtbG9hZGVyIjogIjAuNS45IiwKICAgICJ3ZWJwYWNrIjogIjIuNi4xIiwKICAgICJ3ZWJwYWNrLWRldi1zZXJ2ZXIiOiAiMi41LjAiLAogICAgIndlYnBhY2stbWFuaWZlc3QtcGx1Z2luIjogIjEuMS4wIiwKICAgICJ3aGF0d2ctZmV0Y2giOiAiMi4wLjMiCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1kZXYtdXRpbHMiOiAiXjMuMC4yIiwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
