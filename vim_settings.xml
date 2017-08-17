@@ -30,18 +30,8 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1502953690834">
         <mark key="[" line="312" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/service/impl/TppBusinessServiceImpl.java" timestamp="1502184518998">
-        <mark key="[" line="87" column="43" />
-        <mark key="]" line="87" column="43" />
-        <mark key="." line="87" column="43" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/UserContactDao.java" timestamp="1501745537801">
         <mark key="[" line="15" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcRepaymentDo.java" timestamp="1502087029721">
-        <mark key="[" line="31" column="60" />
-        <mark key="]" line="418" column="11" />
-        <mark key="." line="418" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/static/h-ui.admin/js/H-ui.admin.js" timestamp="1502181130831">
         <mark key="[" line="270" column="5" />
@@ -54,16 +44,17 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/UserContactServiceImpl.java" timestamp="1501749839028">
         <mark key="[" line="40" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcRepayment.xml" timestamp="1502094154049">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/mapper/UserMapper.java" timestamp="1502956813849">
         <mark key="[" line="59" column="13" />
         <mark key="]" line="59" column="13" />
         <mark key="^" line="59" column="31" />
         <mark key="." line="59" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/quota/QuotaEditLogMapper.xml" timestamp="1502969026945">
+        <mark key="[" line="53" column="303" />
+        <mark key="]" line="53" column="303" />
+        <mark key="." line="53" column="303" />
+        <mark key="^" line="53" column="303" />
       </file>
       <file name="/RegExp Fragment (StringUtil.java:4536).regexp" timestamp="1499831914479">
         <mark key="[" line="0" column="0" />
@@ -71,7 +62,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcCollectionDo.java" timestamp="1501842752018">
         <mark key="[" line="86" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddRole.js" timestamp="1502712824734" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddRole.js" timestamp="1502970327884" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/resources/spring/admin-web.xml" timestamp="1501142046117">
         <mark key="[" line="111" column="96" />
       </file>
@@ -80,6 +71,12 @@
         <mark key="[" line="22" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/tool/codeGenerator/MybatisGenerate.java" timestamp="1502964340329" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/AddRole.js" timestamp="1502970677041">
+        <mark key="[" line="557" column="17" />
+        <mark key="]" line="135" column="30" />
+        <mark key="." line="135" column="30" />
+        <mark key="^" line="135" column="30" />
+      </file>
       <file name="/a.sql" timestamp="1501575044894">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,7 +125,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserDirectoryService.java" timestamp="1499999548966">
         <mark key="[" line="50" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1502962202971">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1502971196845">
         <mark key="[" line="236" column="25" />
         <mark key="]" line="234" column="47" />
         <mark key="^" line="234" column="47" />
@@ -222,10 +219,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/ArcUserContactDao.java" timestamp="1501749708466">
         <mark key="[" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitChange/Components/Content.js" timestamp="1502960812533">
-        <mark key="[" line="86" column="15" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitChange/Components/Content.js" timestamp="1502969809299">
+        <mark key="[" line="62" column="11" />
+        <mark key="]" line="62" column="11" />
+        <mark key="." line="62" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/Constants.js" timestamp="1502963405964">
         <mark key="[" line="8" column="31" />
@@ -234,7 +231,16 @@
         <mark key="[" line="24" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/context/Global.java" timestamp="1502952160023" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/utils/Utils.js" timestamp="1502969757232">
+        <mark key="[" line="329" column="0" />
+        <mark key="]" line="329" column="0" />
+        <mark key="^" line="329" column="21" />
+        <mark key="." line="329" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/QuotaHelper.java" timestamp="1502942419266" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/List.js" timestamp="1502970075055">
+        <mark key="[" line="176" column="18" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/creditrank/ScoreRank/Components/AddRole.js" timestamp="1501483714912">
         <mark key="[" line="36" column="28" />
       </file>
@@ -244,11 +250,11 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500816815012">
         <mark key="[" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1502964588890">
-        <mark key="[" line="141" column="8" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="141" column="35" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1502969275266">
+        <mark key="[" line="168" column="40" />
+        <mark key="]" line="168" column="40" />
+        <mark key="^" line="168" column="43" />
+        <mark key="." line="168" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1501059724665">
         <mark key="[" line="24" column="74" />
@@ -272,10 +278,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/server.properties" timestamp="1502963790099" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleEngineConfigController.java" timestamp="1502158810559">
-        <mark key="[" line="97" column="41" />
-        <mark key="]" line="97" column="41" />
-        <mark key="." line="97" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleEngineConfigController.java" timestamp="1502970614334">
+        <mark key="[" line="97" column="39" />
+        <mark key="]" line="97" column="39" />
+        <mark key="." line="97" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/bo/UserContactBo.java" timestamp="1501744631670">
         <mark key="[" line="2" column="27" />
@@ -295,7 +301,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502963688977">
+      <file name="/Dummy.txt" timestamp="1502970848933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -303,8 +309,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1500016146876">
-        <mark key="[" line="302" column="2" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1502971345106">
+        <mark key="[" line="609" column="154" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/IncreaseAmountEdit.js" timestamp="1502960112157" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1502258585352">
@@ -337,7 +343,7 @@
         <mark key="." line="117" column="32" />
         <mark key="^" line="117" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1502964070312">
+      <file name="/fragment.java" timestamp="1502968003631">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -446,11 +452,11 @@
       <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>额度修改增加日志</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>额度修改增加日志</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -458,41 +464,46 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">LAogICAgICAgICAgZXJyb3I6IChlcnIpID0+IHsKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7bG9hZGluZzogZmFsc2V9KTsKICAgICAgICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQltZS5hamF4RXJyb3IoZXJyLCBvYmopOwo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxici8+Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGFqYXhFcnJvcjogZnVuY3Rpb24oZXJyLCBvYmopIHsKCQkgIGlmKCFvYmouZXJyb3IpIHsKICAgICAgICBvYmouZXJyb3IoZXJyKTsKICAgICAgfQogICAgfSw=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbD0i5Lqk5piT6aKd5bqmIj4KICAgICAgICAgICAgPElucHV0TnVtYmVyCiAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXswfSBtaW49ezB9CiAgICAgICAgICAgICAgey4uLmdldEZpZWxkUHJvcHMoJ3RyYWRlUXVvdGEnLCB7aW5pdGlhbFZhbHVlOiAnMCd9KX0KICAgICAgICAgICAgLz4KICAgICAgICAgIDwvRm9ybUl0ZW0+Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBpZighb2JqLmVycm9yKSB7CiAgICAgICAgICBvYmouZXJyb3IoKTsKICAgICAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb3BzID0gdGhpcy5wcm9wczsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGlmKCFvYmouZXJyb3IpIHsKICAgICAgICAgIG9iai5lcnJvcigpOwogICAgICAgIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="6" type="4">
+        <text>error: function (err) {
+            this.setState({loading: false});
+            Modal.error({
+              title: &quot;操作失败&quot;
+            });
+          }</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uT2s6ICgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewoKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChTZXJ2aWNlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcHJvcHMuZm9ybS5yZXNldEZpZWxkcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcHJvcHMuaGlkZU1vZGFsKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
