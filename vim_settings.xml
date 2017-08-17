@@ -181,6 +181,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/ArcDataPoolService.java" timestamp="1501559543296">
         <mark key="[" line="33" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserWhiteService.java" timestamp="1502942247842" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/query/SysCronJobQuery.java" timestamp="1501569079091">
         <mark key="[" line="15" column="71" />
       </file>
@@ -198,6 +199,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/UserContactDo.java" timestamp="1501844560493">
         <mark key="[" line="24" column="30" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/QuotaHelper.java" timestamp="1502942419266" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/creditrank/ScoreRank/Components/AddRole.js" timestamp="1501483714912">
         <mark key="[" line="36" column="28" />
       </file>
@@ -207,8 +209,11 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500816815012">
         <mark key="[" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1502941106551">
-        <mark key="[" line="123" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1502941973712">
+        <mark key="[" line="138" column="25" />
+        <mark key="]" line="138" column="25" />
+        <mark key="^" line="43" column="29" />
+        <mark key="." line="138" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1501059724665">
         <mark key="[" line="24" column="74" />
@@ -251,7 +256,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502938803509">
+      <file name="/Dummy.txt" timestamp="1502941947733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -401,11 +406,11 @@
       <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2VlZERhdGE6IHsKICAgICAgICAuLi5kZWZhdWx0RGF0YSwKICAgICAgICB1c2VyVHlwZTogQ29udGVudC5TRUVEX1VTRVIsCiAgICAgIH0sIC8vIOenjeWtkOeUqOaItwogICAgICBjb21tb25EYXRhOiB7CiAgICAgICAgLi4uZGVmYXVsdERhdGEsCiAgICAgICAgdXNlclR5cGU6IENvbnRlbnQuQ09NTU9OX1VTRVIsCiAgICAgIH0sIC8vIOaZrumAmueUqOaItwo=</text>
+      <register name="&quot;" type="4">
+        <text>findByPhoneAndIdNo</text>
       </register>
       <register name="-" type="4">
-        <text>{initialValue: ''}</text>
+        <text>findByPhoneAndIdNo</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
