@@ -69,6 +69,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/resources/spring/admin-web.xml" timestamp="1501142046117">
         <mark key="[" line="111" column="96" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHelper.java" timestamp="1503041391423" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-common/src/main/java/tool/code/generator/Create.java" timestamp="1501743771858">
         <mark key="[" line="22" column="32" />
       </file>
@@ -127,7 +128,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserDirectoryService.java" timestamp="1499999548966">
         <mark key="[" line="50" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1503037666510">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1503044161166">
         <mark key="[" line="241" column="29" />
         <mark key="]" line="241" column="29" />
         <mark key="^" line="241" column="54" />
@@ -145,7 +146,7 @@
       <file name="$USER_HOME$/ReactJS/admin/config/webpackDevServer.config.js" timestamp="1502803262697">
         <mark key="[" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/VerifyController.java" timestamp="1503025936608">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/VerifyController.java" timestamp="1503041602574">
         <mark key="[" line="216" column="59" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/frame/stores/TabListStore.js" timestamp="1502939050831">
@@ -257,10 +258,10 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500816815012">
         <mark key="[" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1503035396768">
-        <mark key="[" line="164" column="67" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1503044123035">
+        <mark key="[" line="256" column="27" />
+        <mark key="]" line="256" column="27" />
+        <mark key="." line="256" column="27" />
         <mark key="^" line="220" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1501059724665">
@@ -309,7 +310,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503035002695">
+      <file name="/Dummy.txt" timestamp="1503043490098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -340,7 +341,7 @@
         <mark key="]" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1503036962151" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1503040255233" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
         <mark key="[" line="42" column="11" />
       </file>
@@ -351,7 +352,7 @@
         <mark key="." line="117" column="32" />
         <mark key="^" line="117" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1503037931467">
+      <file name="/fragment.java" timestamp="1503042803194">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -462,10 +463,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>entity</text>
+        <text>Global.configMap.get(&quot;verify_regi_notify_url&quot;).toString()</text>
       </register>
       <register name="-" type="4">
-        <text>entity</text>
+        <text>Global.configMap.get(&quot;verify_regi_notify_url&quot;).toString()</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
