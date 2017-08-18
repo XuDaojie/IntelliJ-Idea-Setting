@@ -258,10 +258,10 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500816815012">
         <mark key="[" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1503044123035">
-        <mark key="[" line="256" column="27" />
-        <mark key="]" line="256" column="27" />
-        <mark key="." line="256" column="27" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1503046231292">
+        <mark key="[" line="164" column="56" />
+        <mark key="]" line="164" column="56" />
+        <mark key="." line="164" column="56" />
         <mark key="^" line="220" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1501059724665">
@@ -352,7 +352,7 @@
         <mark key="." line="117" column="32" />
         <mark key="^" line="117" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1503042803194">
+      <file name="/fragment.java" timestamp="1503045872269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -463,10 +463,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Global.configMap.get(&quot;verify_regi_notify_url&quot;).toString()</text>
+        <text>强风控认证完成后重试</text>
       </register>
       <register name="-" type="4">
-        <text>Global.configMap.get(&quot;verify_regi_notify_url&quot;).toString()</text>
+        <text>强风控认证完成后重试</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
