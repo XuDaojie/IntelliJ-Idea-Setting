@@ -126,7 +126,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserDirectoryService.java" timestamp="1499999548966">
         <mark key="[" line="50" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1503028943680">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1503035320650">
         <mark key="[" line="241" column="29" />
         <mark key="]" line="241" column="29" />
         <mark key="^" line="241" column="54" />
@@ -256,10 +256,10 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500816815012">
         <mark key="[" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1503028500088">
-        <mark key="[" line="182" column="55" />
-        <mark key="]" line="220" column="52" />
-        <mark key="." line="220" column="52" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1503035396768">
+        <mark key="[" line="164" column="67" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
         <mark key="^" line="220" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1501059724665">
@@ -308,7 +308,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503027464238">
+      <file name="/Dummy.txt" timestamp="1503035002695">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -316,7 +316,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1503026824975">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1503034912619">
         <mark key="[" line="623" column="12" />
         <mark key="]" line="623" column="2" />
         <mark key="." line="623" column="2" />
@@ -348,7 +348,7 @@
         <mark key="." line="117" column="32" />
         <mark key="^" line="117" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1502974465970">
+      <file name="/fragment.java" timestamp="1503035424809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -457,8 +457,8 @@
       <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>consumer_no</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>consumer_no</text>
@@ -469,15 +469,15 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>Map verifyRespMap = JSONObject.toJavaObject(
                             JSON.parseObject(JSON.toJSONString(verifyResp)),
                             Map.class);
                     verifyRespMap.put(&quot;checkTime&quot;, DateUtil.getNow());
                     verifyRespMap.put(&quot;checkName&quot;, &quot;修改额度-&quot; + sysUser.getUserName());</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
@@ -485,34 +485,29 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">LAogICAgICAgICAgZXJyb3I6IChlcnIpID0+IHsKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7bG9hZGluZzogZmFsc2V9KTsKICAgICAgICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQltZS5hamF4RXJyb3IoZXJyLCBvYmopOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGFqYXhFcnJvcjogZnVuY3Rpb24oZXJyLCBvYmopIHsKCQkgIGlmKCFvYmouZXJyb3IpIHsKICAgICAgICBvYmouZXJyb3IoZXJyKTsKICAgICAgfQogICAgfSw=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICBpZighb2JqLmVycm9yKSB7CiAgICAgICAgICBvYmouZXJyb3IoKTsKICAgICAgICB9</text>
+        <text encoding="base64">IGFqYXhFcnJvcjogZnVuY3Rpb24oZXJyLCBvYmopIHsKCQkgIGlmKCFvYmouZXJyb3IpIHsKICAgICAgICBvYmouZXJyb3IoZXJyKTsKICAgICAgfQogICAgfSw=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGlmKCFvYmouZXJyb3IpIHsKICAgICAgICAgIG9iai5lcnJvcigpOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICBpZighb2JqLmVycm9yKSB7CiAgICAgICAgICBvYmouZXJyb3IoKTsKICAgICAgICB9</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="4">
-        <text>error: function (err) {
-            this.setState({loading: false});
-            Modal.error({
-              title: &quot;操作失败&quot;
-            });
-          }</text>
+        <text encoding="base64">IGlmKCFvYmouZXJyb3IpIHsKICAgICAgICAgIG9iai5lcnJvcigpOwogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
