@@ -50,17 +50,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/UserContactServiceImpl.java" timestamp="1501749839028">
         <mark key="[" line="40" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/mapper/UserMapper.java" timestamp="1502956813849">
-        <mark key="[" line="59" column="13" />
-        <mark key="]" line="59" column="13" />
-        <mark key="^" line="59" column="31" />
-        <mark key="." line="59" column="13" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/quota/QuotaEditLogMapper.xml" timestamp="1503048995652">
-        <mark key="[" line="16" column="56" />
-        <mark key="]" line="16" column="56" />
-        <mark key="." line="16" column="56" />
-        <mark key="^" line="16" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcRepayment.xml" timestamp="1503309276273">
+        <mark key="[" line="299" column="109" />
+        <mark key="]" line="299" column="109" />
+        <mark key="." line="299" column="109" />
+        <mark key="^" line="307" column="30" />
       </file>
       <file name="/RegExp Fragment (StringUtil.java:4536).regexp" timestamp="1499831914479">
         <mark key="[" line="0" column="0" />
@@ -68,17 +62,12 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcCollectionDo.java" timestamp="1501842752018">
         <mark key="[" line="86" column="21" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/UserServiceImpl.java" timestamp="1503308999929" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/resources/spring/admin-web.xml" timestamp="1501142046117">
         <mark key="[" line="111" column="96" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-common/src/main/java/tool/code/generator/Create.java" timestamp="1501743771858">
         <mark key="[" line="22" column="32" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/AddRole.js" timestamp="1502970677041">
-        <mark key="[" line="557" column="17" />
-        <mark key="]" line="135" column="30" />
-        <mark key="." line="135" column="30" />
-        <mark key="^" line="135" column="30" />
       </file>
       <file name="/a.sql" timestamp="1503286784129">
         <mark key="[" line="0" column="0" />
@@ -131,12 +120,6 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserDirectoryService.java" timestamp="1499999548966">
         <mark key="[" line="50" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1503071739988">
-        <mark key="[" line="241" column="29" />
-        <mark key="]" line="241" column="29" />
-        <mark key="^" line="241" column="54" />
-        <mark key="." line="241" column="29" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcUserDo.java" timestamp="1501672361314">
         <mark key="[" line="13" column="17" />
       </file>
@@ -172,6 +155,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/README.md" timestamp="1501211468800">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/ArcRepaymentDao.java" timestamp="1503309206218">
+        <mark key="[" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/SeachForm.js" timestamp="1501483966337">
         <mark key="[" line="31" column="20" />
@@ -209,14 +195,25 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/bo/UserAddress.java" timestamp="1501745797219">
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/CollectionController.java" timestamp="1503306653308">
-        <mark key="[" line="101" column="56" />
-        <mark key="]" line="274" column="50" />
-        <mark key="^" line="262" column="19" />
-        <mark key="." line="274" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/ArcRepaymentService.java" timestamp="1503309427934">
+        <mark key="[" line="31" column="37" />
+        <mark key="]" line="31" column="35" />
+        <mark key="^" line="31" column="35" />
+        <mark key="." line="31" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/CollectionController.java" timestamp="1503309955341">
+        <mark key="[" line="142" column="63" />
+        <mark key="]" line="142" column="63" />
+        <mark key="^" line="289" column="19" />
+        <mark key="." line="142" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/resources/spring/biz-beans.xml" timestamp="1503284471780">
         <mark key="[" line="66" column="49" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/ArcRepaymentServiceImpl.java" timestamp="1503309423324">
+        <mark key="[" line="79" column="11" />
+        <mark key="]" line="79" column="11" />
+        <mark key="." line="79" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/CollectionDistributionService.java" timestamp="1503306486887">
         <mark key="[" line="17" column="55" />
@@ -224,13 +221,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Public/SystemManagement/ProducttypeManagement/Components/SeachForm.js" timestamp="1500452249091">
         <mark key="[" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserMapper.xml" timestamp="1502956724926">
-        <mark key="[" line="460" column="24" />
-        <mark key="]" line="460" column="24" />
-        <mark key="." line="460" column="24" />
-        <mark key="^" line="460" column="23" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/CollectionDistributionDao.xml" timestamp="1503306247939">
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/CollectionDistributionDao.xml" timestamp="1503308578110">
         <mark key="[" line="297" column="15" />
         <mark key="]" line="297" column="15" />
         <mark key="." line="297" column="15" />
@@ -246,6 +237,7 @@
         <mark key="]" line="68" column="22" />
         <mark key="." line="68" column="22" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/UserDao.java" timestamp="1503309187677" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/ArcDataPoolService.java" timestamp="1501559543296">
         <mark key="[" line="33" column="31" />
       </file>
@@ -261,12 +253,6 @@
         <mark key="." line="388" column="25" />
         <mark key="^" line="388" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitChange/Components/Content.js" timestamp="1503052042585">
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="93" column="19" />
-        <mark key="." line="93" column="19" />
-        <mark key="^" line="93" column="19" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/Constants.js" timestamp="1502963405964">
         <mark key="[" line="8" column="31" />
       </file>
@@ -277,12 +263,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/UserContactDo.java" timestamp="1501844560493">
         <mark key="[" line="24" column="30" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/utils/Utils.js" timestamp="1502969757232">
-        <mark key="[" line="329" column="0" />
-        <mark key="]" line="329" column="0" />
-        <mark key="^" line="329" column="21" />
-        <mark key="." line="329" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/List.js" timestamp="1502970075055">
         <mark key="[" line="176" column="18" />
@@ -295,12 +275,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500816815012">
         <mark key="[" line="11" column="68" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1503071954764">
-        <mark key="[" line="226" column="54" />
-        <mark key="]" line="226" column="54" />
-        <mark key="." line="226" column="54" />
-        <mark key="^" line="226" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1501059724665">
         <mark key="[" line="24" column="74" />
@@ -338,21 +312,15 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ConllectionController.java" timestamp="1501145933450">
         <mark key="[" line="2" column="36" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/321cade3-adad-414a-b1da-daecf498a10c/console.sql" timestamp="1503307019822">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/321cade3-adad-414a-b1da-daecf498a10c/console.sql" timestamp="1503308716403">
         <mark key="'" line="18" column="29" />
-        <mark key="[" line="219" column="69" />
+        <mark key="[" line="224" column="23" />
         <mark key="]" line="183" column="5" />
         <mark key="." line="183" column="5" />
         <mark key="^" line="183" column="5" />
       </file>
       <file name="/dummy.sql" timestamp="1502939408442">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ReactJS/my-app/src/App.tsx" timestamp="1502824703032">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-common/src/main/java/com/ald/fanbei/admin/common/utils/AesUtil.java" timestamp="1503307308709">
         <mark key="[" line="166" column="95" />
@@ -364,12 +332,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1503047993648">
-        <mark key="[" line="625" column="103" />
-        <mark key="]" line="625" column="82" />
-        <mark key="." line="625" column="72" />
-        <mark key="^" line="623" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1502973155373">
         <mark key="[" line="0" column="1" />
@@ -390,18 +352,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
         <mark key="[" line="42" column="11" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1502791391447">
-        <mark key="[" line="117" column="33" />
-        <mark key="]" line="117" column="32" />
-        <mark key="." line="117" column="32" />
-        <mark key="^" line="117" column="32" />
-      </file>
-      <file name="/fragment.java" timestamp="1503045872269">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -508,12 +458,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fbadmin.quartz.datasource.password = luohao
-fbadmin.quartz.datasource.url      = jdbc:mysql://192.168.110.64:5306/test
-fbadmin.quartz.datasource.user     = root</text>
+        <text>getRepayTime</text>
       </register>
       <register name="-" type="4">
-        <text>51fanbeitest.db.com</text>
+        <text>getRepayTime</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
