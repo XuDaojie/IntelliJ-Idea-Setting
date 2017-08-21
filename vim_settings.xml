@@ -319,11 +319,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ConllectionController.java" timestamp="1501145933450">
         <mark key="[" line="2" column="36" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/321cade3-adad-414a-b1da-daecf498a10c/console.sql" timestamp="1503298684908">
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="35" />
-        <mark key="^" line="35" column="35" />
-        <mark key="." line="35" column="35" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/321cade3-adad-414a-b1da-daecf498a10c/console.sql" timestamp="1503301529383">
+        <mark key="[" line="115" column="30" />
+        <mark key="]" line="115" column="18" />
+        <mark key="." line="115" column="18" />
+        <mark key="^" line="115" column="18" />
       </file>
       <file name="/dummy.sql" timestamp="1502939408442">
         <mark key="[" line="0" column="0" />
@@ -485,10 +485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LEFT</text>
+        <text>user_id</text>
       </register>
       <register name="-" type="4">
-        <text>LEFT</text>
+        <text>user_id</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
