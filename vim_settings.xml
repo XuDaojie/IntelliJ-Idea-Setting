@@ -153,7 +153,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumerA.java" timestamp="1501074261884">
         <mark key="[" line="25" column="61" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e5993569-7af6-46ea-abe9-8c856a47cac5/console.sql" timestamp="1503287854000">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e5993569-7af6-46ea-abe9-8c856a47cac5/console.sql" timestamp="1503296571690">
         <mark key="[" line="0" column="49" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -236,11 +236,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/ArcUserContactDao.java" timestamp="1501749708466">
         <mark key="[" line="12" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bf6ce544-f983-4a77-b083-ae8973c9c1ab/console.sql" timestamp="1503288229510">
-        <mark key="[" line="321" column="42" />
-        <mark key="]" line="389" column="25" />
-        <mark key="." line="389" column="25" />
-        <mark key="^" line="389" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bf6ce544-f983-4a77-b083-ae8973c9c1ab/console.sql" timestamp="1503295000410">
+        <mark key="[" line="318" column="37" />
+        <mark key="]" line="388" column="25" />
+        <mark key="." line="388" column="25" />
+        <mark key="^" line="388" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitChange/Components/Content.js" timestamp="1503052042585">
         <mark key="[" line="68" column="20" />
@@ -319,6 +319,12 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ConllectionController.java" timestamp="1501145933450">
         <mark key="[" line="2" column="36" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/321cade3-adad-414a-b1da-daecf498a10c/console.sql" timestamp="1503298684908">
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="35" column="35" />
+        <mark key="^" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+      </file>
       <file name="/dummy.sql" timestamp="1502939408442">
         <mark key="[" line="0" column="0" />
       </file>
@@ -328,7 +334,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503286809840">
+      <file name="/Dummy.txt" timestamp="1503296393703">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -478,11 +484,11 @@
       <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>LEFT</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>LEFT</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -494,26 +500,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KCopIEZST00gYXJjX3VzZXI7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBFWFBMQUlOClNFTEVDVAogIGRpcy5pZCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgZGlzX2lkLAogIHBvb2wuYm9ycm93X25vLAogIHBvb2wuaWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYm9ycm93X2lkLAogIHBvb2wudXNlcl9pZCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgY29uc3VtZXJfbm8sCiAgZGlzLmNvbGxlY3RfbmFtZSwKICB1c2VyLnJlYWxfbmFtZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHVzZXJuYW1lLAogIHVzZXIuaWRfbm8sCiAgdXNlci5waG9uZSwKICBwb29sLmFnaW5nLAogIGlmKGNvbGxlY3Rpb24uY29sbGVjdGlvbl9zdGF0dXMgSVMgTlVMTCwgMCwKICAgICBjb2xsZWN0aW9uLmNvbGxlY3Rpb25fc3RhdHVzKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGNvbGxlY3Rpb25fc3RhdHVzLAogIHBvb2wuc3RhdHVzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgcmVwYXlfc3RhdHVzLAogIHBvb2wucmVwYXlfYW1vdW50IC8KICAxMDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHJlcGF5X2Ftb3VudCwKICBwb29sLnJlc3RfYW1vdW50IC8KICAxMDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHJlc3RfYW1vdW50LAogIGRhdGVfZm9ybWF0KGRpcy5kaXN0cmlfZGF0ZSwKICAgICAgICAgICAgICAnJVktJW0tJWQnKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGRpc3RyaV9kYXRlLAogIGlmKHBvb2wucmVwYXlfZGF0ZSA9ICcwMDAwLTAwLTAwIDAwOjAwOjAwJywgTlVMTCwgZGF0ZV9mb3JtYXQocG9vbC5yZXBheV9kYXRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJyVZLSVtLSVkJykpICAgICAgICAgICAgICAgICAgQVMgcmVwYXlfZGF0ZSwKICBwb29sLnJlcGF5X2Ftb3VudF9zdW0gLwogIDEwMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgcmVwYXlfYW1vdW50X3N1bSwKICBwb29sLnR5cGUsCiAgcG9vbC5vdmVyZHVlX2RheSwKICBpZihyZXBheW1lbnQucGF5Y2hlY2tfc3RhdHVzIElTIE5VTEwsIGlmKG5ld19yZXBheW1lbnQucmVwYXlfbm8gSVMgTlVMTCwgTlVMTCwgMTApLAogICAgIHJlcGF5bWVudC5wYXljaGVja19zdGF0dXMpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgcGF5Y2hlY2tfc3RhdHVzLAogIGlmKHJlcGF5bWVudC5wYXljaGVja19zdGF0dXMgSVMgTlVMTCwgaWYobmV3X3JlcGF5bWVudC5yZXBheV9ubyBJUyBOVUxMLCBOVUxMLCAxMCksCiAgICAgaWYoZmluYW5jZS5maW5hbmNlY2hlY2tfc3RhdHVzIElTIE5VTEwsIDEwLAogICAgICAgIGZpbmFuY2UuZmluYW5jZWNoZWNrX3N0YXR1cykpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgZmluYW5jZWNoZWNrX3N0YXR1cywKICByZXBheW1lbnQucmVtYXJrICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHBheWNoZWNrX3JlbWFyaywKICBmaW5hbmNlLnJlbWFyayAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGZpbmFuY2VjaGVja19yZW1hcmsKRlJPTSBhcmNfY29sbGVjdGlvbl9kaXN0cmlidXRpb24gZGlzIExFRlQgSk9JTiBhcmNfZGF0YV9wb29sIHBvb2wgT04gZGlzLmJvcnJvd19ubyA9IHBvb2wuYm9ycm93X25vCiAgTEVGVCBKT0lOIGFyY191c2VyIHVzZXIgT04gcG9vbC51c2VyX2lkID0gdXNlci5jb25zdW1lcl9ubwogIExFRlQgSk9JTiBhcmNfY29sbGVjdGlvbiBjb2xsZWN0aW9uIE9OIGRpcy5ib3Jyb3dfbm8gPSBjb2xsZWN0aW9uLmJvcnJvd19ubwogIExFRlQgSk9JTiAoU0VMRUNUICoKICAgICAgICAgICAgIEZST00gKFNFTEVDVAogICAgICAgICAgICAgICAgICAgICBpZCwKICAgICAgICAgICAgICAgICAgICAgcmVwYXlfbm8sCiAgICAgICAgICAgICAgICAgICAgIGJvcnJvd19ubywKICAgICAgICAgICAgICAgICAgICAgcGF5Y2hlY2tfc3RhdHVzCiAgICAgICAgICAgICAgICAgICBGUk9NIGFyY19yZXBheW1lbnQKICAgICAgICAgICAgICAgICAgIE9SREVSIEJZIGlkIERFU0MpIGEKICAgICAgICAgICAgIEdST1VQIEJZIGEuYm9ycm93X25vKSBuZXdfcmVwYXltZW50IE9OIGRpcy5ib3Jyb3dfbm8gPSBuZXdfcmVwYXltZW50LmJvcnJvd19ubwogIExFRlQgSk9JTiAoU0VMRUNUICoKICAgICAgICAgICAgIEZST00gKFNFTEVDVAogICAgICAgICAgICAgICAgICAgICBvcmRlcl9ubywKICAgICAgICAgICAgICAgICAgICAgcmV2aWV3X3N0YXR1cyBBUyBwYXljaGVja19zdGF0dXMsCiAgICAgICAgICAgICAgICAgICAgIHJlbWFyawogICAgICAgICAgICAgICAgICAgRlJPTSBhcmNfY2hlY2sKICAgICAgICAgICAgICAgICAgIFdIRVJFIHR5cGUgPSAxCiAgICAgICAgICAgICAgICAgICBPUkRFUiBCWSBpZCBERVNDKSBhCiAgICAgICAgICAgICBHUk9VUCBCWSBhLm9yZGVyX25vKSByZXBheW1lbnQgT04gbmV3X3JlcGF5bWVudC5yZXBheV9ubyA9IHJlcGF5bWVudC5vcmRlcl9ubwogIExFRlQgSk9JTiAoU0VMRUNUICoKICAgICAgICAgICAgIEZST00gKFNFTEVDVAogICAgICAgICAgICAgICAgICAgICBvcmRlcl9ubywKICAgICAgICAgICAgICAgICAgICAgcmV2aWV3X3N0YXR1cyBBUyBmaW5hbmNlY2hlY2tfc3RhdHVzLAogICAgICAgICAgICAgICAgICAgICByZW1hcmsKICAgICAgICAgICAgICAgICAgIEZST00gYXJjX2NoZWNrCiAgICAgICAgICAgICAgICAgICBXSEVSRSB0eXBlID0gMgogICAgICAgICAgICAgICAgICAgT1JERVIgQlkgaWQgREVTQykgYQogICAgICAgICAgICAgR1JPVVAgQlkgYS5vcmRlcl9ubykgZmluYW5jZSBPTiBuZXdfcmVwYXltZW50LnJlcGF5X25vID0gZmluYW5jZS5vcmRlcl9ubwpXSEVSRSBkaXMuaXNfZGVsZXRlID0gMCBBTkQgZGlzLnN0YXR1cyA9IDEwIDwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIHRlc3Q9ImNvbGxlY3Rpb25TdGF0dXMgIT0gbnVsbCBhbmQgY29sbGVjdGlvblN0YXR1cyA8PiAzIj4gQU5EIHBvb2wuaXNfZGVsZXRlID0gMCBBTkQgSUYgKGNvbGxlY3Rpb24uY29sbGVjdGlvbl9zdGF0dXMgSVMgTlVMTCwgMCwgY29sbGVjdGlvbi5jb2xsZWN0aW9uX3N0YXR1cyk8PiAzIDwvIElGID4gQU5EIGRpcy5jb2xsZWN0b3JfaWQgPSA/IDwgSUYgdGVzdD0iY29sbGVjdGlvblN0YXR1cyAhPSBudWxsIGFuZCBjb2xsZWN0aW9uU3RhdHVzIDw+IDAiPiBBTkQgY29sbGVjdGlvbi5jb2xsZWN0aW9uX3N0YXR1cyA9ID8gPC8gSUYgPiBPUkRFUiBCWSBkaXMuZGlzdHJpX2RhdGUgREVTQyBMSU1JVCAwLCAxNQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cGFyYW1zCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Map verifyRespMap = JSONObject.toJavaObject(
-                            JSON.parseObject(JSON.toJSONString(verifyResp)),
-                            Map.class);
-                    verifyRespMap.put(&quot;checkTime&quot;, DateUtil.getNow());
-                    verifyRespMap.put(&quot;checkName&quot;, &quot;修改额度-&quot; + sysUser.getUserName());</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBFWFBMQUlOClNFTEVDVAogIGRpcy5pZCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgZGlzX2lkLAogIHBvb2wuYm9ycm93X25vLAogIHBvb2wuaWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYm9ycm93X2lkLAogIHBvb2wudXNlcl9pZCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgY29uc3VtZXJfbm8sCiAgZGlzLmNvbGxlY3RfbmFtZSwKICB1c2VyLnJlYWxfbmFtZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHVzZXJuYW1lLAogIHVzZXIuaWRfbm8sCiAgdXNlci5waG9uZSwKICBwb29sLmFnaW5nLAogIGlmKGNvbGxlY3Rpb24uY29sbGVjdGlvbl9zdGF0dXMgSVMgTlVMTCwgMCwKICAgICBjb2xsZWN0aW9uLmNvbGxlY3Rpb25fc3RhdHVzKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGNvbGxlY3Rpb25fc3RhdHVzLAogIHBvb2wuc3RhdHVzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgcmVwYXlfc3RhdHVzLAogIHBvb2wucmVwYXlfYW1vdW50IC8KICAxMDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHJlcGF5X2Ftb3VudCwKICBwb29sLnJlc3RfYW1vdW50IC8KICAxMDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHJlc3RfYW1vdW50LAogIGRhdGVfZm9ybWF0KGRpcy5kaXN0cmlfZGF0ZSwKICAgICAgICAgICAgICAnJVktJW0tJWQnKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGRpc3RyaV9kYXRlLAogIGlmKHBvb2wucmVwYXlfZGF0ZSA9ICcwMDAwLTAwLTAwIDAwOjAwOjAwJywgTlVMTCwgZGF0ZV9mb3JtYXQocG9vbC5yZXBheV9kYXRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJyVZLSVtLSVkJykpICAgICAgICAgICAgICAgICAgQVMgcmVwYXlfZGF0ZSwKICBwb29sLnJlcGF5X2Ftb3VudF9zdW0gLwogIDEwMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgcmVwYXlfYW1vdW50X3N1bSwKICBwb29sLnR5cGUsCiAgcG9vbC5vdmVyZHVlX2RheSwKICBpZihyZXBheW1lbnQucGF5Y2hlY2tfc3RhdHVzIElTIE5VTEwsIGlmKG5ld19yZXBheW1lbnQucmVwYXlfbm8gSVMgTlVMTCwgTlVMTCwgMTApLAogICAgIHJlcGF5bWVudC5wYXljaGVja19zdGF0dXMpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgcGF5Y2hlY2tfc3RhdHVzLAogIGlmKHJlcGF5bWVudC5wYXljaGVja19zdGF0dXMgSVMgTlVMTCwgaWYobmV3X3JlcGF5bWVudC5yZXBheV9ubyBJUyBOVUxMLCBOVUxMLCAxMCksCiAgICAgaWYoZmluYW5jZS5maW5hbmNlY2hlY2tfc3RhdHVzIElTIE5VTEwsIDEwLAogICAgICAgIGZpbmFuY2UuZmluYW5jZWNoZWNrX3N0YXR1cykpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgZmluYW5jZWNoZWNrX3N0YXR1cywKICByZXBheW1lbnQucmVtYXJrICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHBheWNoZWNrX3JlbWFyaywKICBmaW5hbmNlLnJlbWFyayAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGZpbmFuY2VjaGVja19yZW1hcmsKRlJPTSBhcmNfY29sbGVjdGlvbl9kaXN0cmlidXRpb24gZGlzIExFRlQgSk9JTiBhcmNfZGF0YV9wb29sIHBvb2wgT04gZGlzLmJvcnJvd19ubyA9IHBvb2wuYm9ycm93X25vCiAgTEVGVCBKT0lOIGFyY191c2VyIHVzZXIgT04gcG9vbC51c2VyX2lkID0gdXNlci5jb25zdW1lcl9ubwogIExFRlQgSk9JTiBhcmNfY29sbGVjdGlvbiBjb2xsZWN0aW9uIE9OIGRpcy5ib3Jyb3dfbm8gPSBjb2xsZWN0aW9uLmJvcnJvd19ubwogIExFRlQgSk9JTiAoU0VMRUNUICoKICAgICAgICAgICAgIEZST00gKFNFTEVDVAogICAgICAgICAgICAgICAgICAgICBpZCwKICAgICAgICAgICAgICAgICAgICAgcmVwYXlfbm8sCiAgICAgICAgICAgICAgICAgICAgIGJvcnJvd19ubywKICAgICAgICAgICAgICAgICAgICAgcGF5Y2hlY2tfc3RhdHVzCiAgICAgICAgICAgICAgICAgICBGUk9NIGFyY19yZXBheW1lbnQKICAgICAgICAgICAgICAgICAgIE9SREVSIEJZIGlkIERFU0MpIGEKICAgICAgICAgICAgIEdST1VQIEJZIGEuYm9ycm93X25vKSBuZXdfcmVwYXltZW50IE9OIGRpcy5ib3Jyb3dfbm8gPSBuZXdfcmVwYXltZW50LmJvcnJvd19ubwogIExFRlQgSk9JTiAoU0VMRUNUICoKICAgICAgICAgICAgIEZST00gKFNFTEVDVAogICAgICAgICAgICAgICAgICAgICBvcmRlcl9ubywKICAgICAgICAgICAgICAgICAgICAgcmV2aWV3X3N0YXR1cyBBUyBwYXljaGVja19zdGF0dXMsCiAgICAgICAgICAgICAgICAgICAgIHJlbWFyawogICAgICAgICAgICAgICAgICAgRlJPTSBhcmNfY2hlY2sKICAgICAgICAgICAgICAgICAgIFdIRVJFIHR5cGUgPSAxCiAgICAgICAgICAgICAgICAgICBPUkRFUiBCWSBpZCBERVNDKSBhCiAgICAgICAgICAgICBHUk9VUCBCWSBhLm9yZGVyX25vKSByZXBheW1lbnQgT04gbmV3X3JlcGF5bWVudC5yZXBheV9ubyA9IHJlcGF5bWVudC5vcmRlcl9ubwogIExFRlQgSk9JTiAoU0VMRUNUICoKICAgICAgICAgICAgIEZST00gKFNFTEVDVAogICAgICAgICAgICAgICAgICAgICBvcmRlcl9ubywKICAgICAgICAgICAgICAgICAgICAgcmV2aWV3X3N0YXR1cyBBUyBmaW5hbmNlY2hlY2tfc3RhdHVzLAogICAgICAgICAgICAgICAgICAgICByZW1hcmsKICAgICAgICAgICAgICAgICAgIEZST00gYXJjX2NoZWNrCiAgICAgICAgICAgICAgICAgICBXSEVSRSB0eXBlID0gMgogICAgICAgICAgICAgICAgICAgT1JERVIgQlkgaWQgREVTQykgYQogICAgICAgICAgICAgR1JPVVAgQlkgYS5vcmRlcl9ubykgZmluYW5jZSBPTiBuZXdfcmVwYXltZW50LnJlcGF5X25vID0gZmluYW5jZS5vcmRlcl9ubwpXSEVSRSBkaXMuaXNfZGVsZXRlID0gMCBBTkQgZGlzLnN0YXR1cyA9IDEwIDwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIHRlc3Q9ImNvbGxlY3Rpb25TdGF0dXMgIT0gbnVsbCBhbmQgY29sbGVjdGlvblN0YXR1cyA8PiAzIj4gQU5EIHBvb2wuaXNfZGVsZXRlID0gMCBBTkQgSUYgKGNvbGxlY3Rpb24uY29sbGVjdGlvbl9zdGF0dXMgSVMgTlVMTCwgMCwgY29sbGVjdGlvbi5jb2xsZWN0aW9uX3N0YXR1cyk8PiAzIDwvIElGID4gQU5EIGRpcy5jb2xsZWN0b3JfaWQgPSA/IDwgSUYgdGVzdD0iY29sbGVjdGlvblN0YXR1cyAhPSBudWxsIGFuZCBjb2xsZWN0aW9uU3RhdHVzIDw+IDAiPiBBTkQgY29sbGVjdGlvbi5jb2xsZWN0aW9uX3N0YXR1cyA9ID8gPC8gSUYgPiBPUkRFUiBCWSBkaXMuZGlzdHJpX2RhdGUgREVTQyBMSU1JVCAwLCAxNQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cGFyYW1zCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -521,14 +523,18 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>Map verifyRespMap = JSONObject.toJavaObject(
+                            JSON.parseObject(JSON.toJSONString(verifyResp)),
+                            Map.class);
+                    verifyRespMap.put(&quot;checkTime&quot;, DateUtil.getNow());
+                    verifyRespMap.put(&quot;checkName&quot;, &quot;修改额度-&quot; + sysUser.getUserName());</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LAogICAgICAgICAgZXJyb3I6IChlcnIpID0+IHsKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7bG9hZGluZzogZmFsc2V9KTsKICAgICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
