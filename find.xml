@@ -3,18 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="log4j.*" />
     <recentFileMasks>
-      <mask>*.v</mask>
-      <mask>*.vm</mask>
-      <mask>*.p</mask>
-      <mask>*.po</mask>
-      <mask>*.pom</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>Con</mask>
       <mask>Co</mask>
       <mask>C</mask>
-      <mask>*</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
       <mask>*Con</mask>
@@ -30,10 +23,18 @@
       <mask>*.ja</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>l</mask>
+      <mask>lo</mask>
+      <mask>log</mask>
+      <mask>log4</mask>
+      <mask>log4j</mask>
+      <mask>log4j.</mask>
+      <mask>log4j.*</mask>
     </recentFileMasks>
   </component>
 </application>

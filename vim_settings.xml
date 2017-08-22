@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/domain/QuotaEditLog.java" timestamp="1503048469424">
         <mark key="[" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1503370263945">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1503387363197">
         <mark key="[" line="42" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/UserController.java" timestamp="1501672316891">
@@ -74,9 +74,11 @@
         <mark key="]" line="21" column="72" />
         <mark key="." line="21" column="72" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/system/controller/LoginController.java" timestamp="1503386648915" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1502437635375">
         <mark key="[" line="280" column="13" />
       </file>
+      <file name="restClient/response11.json" timestamp="1503386597332" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1503366443881" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/index.jsx" timestamp="1502694771822">
         <mark key="[" line="22" column="35" />
@@ -111,8 +113,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserDirectoryService.java" timestamp="1499999548966">
         <mark key="[" line="50" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1503385916973">
-        <mark key="[" line="254" column="103" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1503389406973">
+        <mark key="[" line="274" column="12" />
+        <mark key="]" line="274" column="11" />
+        <mark key="." line="274" column="11" />
+        <mark key="^" line="274" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcUserDo.java" timestamp="1501672361314">
         <mark key="[" line="13" column="17" />
@@ -262,8 +267,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcCollection.xml" timestamp="1501845841848">
         <mark key="[" line="189" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/log4j.properties" timestamp="1500276309369">
-        <mark key="[" line="11" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/log4j.properties" timestamp="1503388060648">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="22" column="46" />
+        <mark key="." line="22" column="46" />
+        <mark key="^" line="22" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJavaEE/app/build.gradle" timestamp="1501006795145">
         <mark key="[" line="48" column="32" />
@@ -278,6 +286,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1503366443881" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleEngineConfigController.java" timestamp="1503386792769" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/bo/UserContactBo.java" timestamp="1501744631670">
         <mark key="[" line="2" column="27" />
       </file>
@@ -297,7 +306,7 @@
       <file name="/dummy.sql" timestamp="1502939408442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503385773892">
+      <file name="/Dummy.txt" timestamp="1503387892917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -443,10 +452,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nd phone != ''</text>
+        <text>EXPLAIN
+SELECT
+  verify.id,
+  verify.order_no,
+  usr.real_name,
+  usr.phone,
+  verify.scene,
+  verify.channel,
+  if(verify_resp.result IS NULL, verify.resp_data,
+     concat('{&quot;result&quot;:&quot;', verify_resp.result, '&quot;}')) AS resp_data,
+  verify.return_data,
+  verify.return_time,
+  verify.add_time
+FROM arc_verify_resp AS verify_resp
+  LEFT JOIN arc_user AS usr ON usr.consumer_no = verify_resp.consumer_no
+  LEFT JOIN arc_verify AS verify ON verify_resp.verify_id = verify.id
+WHERE 1 = 1 AND verify_resp.order_no LIKE '01regi%' AND verify_resp.result = 20
+ORDER BY verify.id DESC
+LIMIT 0, 10;</text>
       </register>
       <register name="-" type="4">
-        <text>nd phone != ''</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -454,19 +481,43 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cmVwYXltZW50RG9MaXN0Cg==</text>
+      <register name="1" type="4">
+        <text>EXPLAIN
+SELECT
+  verify.id,
+  verify.order_no,
+  usr.real_name,
+  usr.phone,
+  verify.scene,
+  verify.channel,
+  if(verify_resp.result IS NULL, verify.resp_data,
+     concat('{&quot;result&quot;:&quot;', verify_resp.result, '&quot;}')) AS resp_data,
+  verify.return_data,
+  verify.return_time,
+  verify.add_time
+FROM arc_verify_resp AS verify_resp
+  LEFT JOIN arc_user AS usr ON usr.consumer_no = verify_resp.consumer_no
+  LEFT JOIN arc_verify AS verify ON verify_resp.verify_id = verify.id
+WHERE 1 = 1 AND verify_resp.order_no LIKE '01regi%' AND verify_resp.result = 20
+ORDER BY verify.id DESC
+LIMIT 0, 10;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGZvcmVhY2ggY29sbGVjdGlvbj0iYm9ycm93cyIgaW5kZXg9ImluZGV4IiBpdGVtPSJpdGVtIiBzZXBhcmF0b3I9IiwiIG9wZW49IigiIGNsb3NlPSIpIj4KI3tpdGVtLGpkYmNUeXBlPVZBUkNIQVJ9CjwvZm9yZWFjaD4KPC9pZj4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoQXJjQ2hlY2tEbyByZXR1cm5DaGVjayA6IHJldHVybkNoZWNrTGlzdCkgewo=</text>
+        <text encoding="base64">cmVwYXltZW50RG9MaXN0Cg==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">PGZvcmVhY2ggY29sbGVjdGlvbj0iYm9ycm93cyIgaW5kZXg9ImluZGV4IiBpdGVtPSJpdGVtIiBzZXBhcmF0b3I9IiwiIG9wZW49IigiIGNsb3NlPSIpIj4KI3tpdGVtLGpkYmNUeXBlPVZBUkNIQVJ9CjwvZm9yZWFjaD4KPC9pZj4=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoQXJjQ2hlY2tEbyByZXR1cm5DaGVjayA6IHJldHVybkNoZWNrTGlzdCkgewo=</text>
+      </register>
+      <register name="6" type="4">
         <text>// 获得还款订单号
                 for (ArcRepaymentDo repaymentDo : repaymentDoList) {
                     if (StringUtil.equals(collectionDto.getBorrowNo(), repaymentDo.getBorrowNo())) {
@@ -474,7 +525,10 @@
                     }
                 }</text>
       </register>
-      <register name="5" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>for (UserDo userDo : userDoList) {
                     if (StringUtil.equals(collectionDto.getConsumerNo(), userDo.getConsumerNo())) {
                         collectionDto.setUsername(userDo.getRealName());
@@ -484,27 +538,16 @@
                     }
                 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
-        <text>fbadmin.quartz.datasource.password = luohao
-fbadmin.quartz.datasource.url      = jdbc:mysql://192.168.110.64:5306/test
-fbadmin.quartz.datasource.user     = root</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5bCGZ2V0TGlzdOWIhuWJsgogICAgICogQHBhcmFtIHF1ZXJ5CiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="4">
-        <text>if(repayment.paycheck_status IS NULL,
-     if(new_repayment.repay_no IS NULL, NULL , 10),
-     if(finance.financecheck_status IS NULL, 10, finance.financecheck_status))</text>
+        <text>fbadmin.quartz.datasource.password = luohao
+fbadmin.quartz.datasource.url      = jdbc:mysql://192.168.110.64:5306/test
+fbadmin.quartz.datasource.user     = root</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
