@@ -113,11 +113,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserDirectoryService.java" timestamp="1499999548966">
         <mark key="[" line="50" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1503389406973">
-        <mark key="[" line="274" column="12" />
-        <mark key="]" line="274" column="11" />
-        <mark key="." line="274" column="11" />
-        <mark key="^" line="274" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1503390675525">
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcUserDo.java" timestamp="1501672361314">
         <mark key="[" line="13" column="17" />
@@ -178,7 +177,11 @@
         <mark key="." line="210" column="20" />
         <mark key="^" line="207" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleGroupController.java" timestamp="1503385899571" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleGroupController.java" timestamp="1503391034690">
+        <mark key="[" line="87" column="95" />
+        <mark key="]" line="87" column="95" />
+        <mark key="." line="87" column="95" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/pom.xml" timestamp="1501646445824">
         <mark key="[" line="0" column="17" />
       </file>
@@ -452,28 +455,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EXPLAIN
-SELECT
-  verify.id,
-  verify.order_no,
-  usr.real_name,
-  usr.phone,
-  verify.scene,
-  verify.channel,
-  if(verify_resp.result IS NULL, verify.resp_data,
-     concat('{&quot;result&quot;:&quot;', verify_resp.result, '&quot;}')) AS resp_data,
-  verify.return_data,
-  verify.return_time,
-  verify.add_time
-FROM arc_verify_resp AS verify_resp
-  LEFT JOIN arc_user AS usr ON usr.consumer_no = verify_resp.consumer_no
-  LEFT JOIN arc_verify AS verify ON verify_resp.verify_id = verify.id
-WHERE 1 = 1 AND verify_resp.order_no LIKE '01regi%' AND verify_resp.result = 20
-ORDER BY verify.id DESC
-LIMIT 0, 10;</text>
+        <text>POST</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -481,7 +466,22 @@ LIMIT 0, 10;</text>
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">RVgK</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfdmVyaWZ5X3Jlc3A7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>EXPLAIN
 SELECT
   verify.id,
@@ -502,52 +502,23 @@ WHERE 1 = 1 AND verify_resp.order_no LIKE '01regi%' AND verify_resp.result = 20
 ORDER BY verify.id DESC
 LIMIT 0, 10;</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">bwo=</text>
-      </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cmVwYXltZW50RG9MaXN0Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">PGZvcmVhY2ggY29sbGVjdGlvbj0iYm9ycm93cyIgaW5kZXg9ImluZGV4IiBpdGVtPSJpdGVtIiBzZXBhcmF0b3I9IiwiIG9wZW49IigiIGNsb3NlPSIpIj4KI3tpdGVtLGpkYmNUeXBlPVZBUkNIQVJ9CjwvZm9yZWFjaD4KPC9pZj4=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoQXJjQ2hlY2tEbyByZXR1cm5DaGVjayA6IHJldHVybkNoZWNrTGlzdCkgewo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>// 获得还款订单号
-                for (ArcRepaymentDo repaymentDo : repaymentDoList) {
-                    if (StringUtil.equals(collectionDto.getBorrowNo(), repaymentDo.getBorrowNo())) {
-                        repayOrderNoList.add(repaymentDo.getRepayNo());
-                    }
-                }</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text>for (UserDo userDo : userDoList) {
-                    if (StringUtil.equals(collectionDto.getConsumerNo(), userDo.getConsumerNo())) {
-                        collectionDto.setUsername(userDo.getRealName());
-                        collectionDto.setIdNo(userDo.getIdNo());
-                        collectionDto.setPhone(userDo.getPhone());
-                        break;
-                    }
-                }</text>
+      <register name="7" type="2">
+        <text encoding="base64">cmVwYXltZW50RG9MaXN0Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGZvcmVhY2ggY29sbGVjdGlvbj0iYm9ycm93cyIgaW5kZXg9ImluZGV4IiBpdGVtPSJpdGVtIiBzZXBhcmF0b3I9IiwiIG9wZW49IigiIGNsb3NlPSIpIj4KI3tpdGVtLGpkYmNUeXBlPVZBUkNIQVJ9CjwvZm9yZWFjaD4KPC9pZj4=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="4">
-        <text>fbadmin.quartz.datasource.password = luohao
-fbadmin.quartz.datasource.url      = jdbc:mysql://192.168.110.64:5306/test
-fbadmin.quartz.datasource.user     = root</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoQXJjQ2hlY2tEbyByZXR1cm5DaGVjayA6IHJldHVybkNoZWNrTGlzdCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
