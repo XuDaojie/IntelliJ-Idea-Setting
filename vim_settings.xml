@@ -359,11 +359,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/ArcCollectionDao.java" timestamp="1503404866351">
         <mark key="[" line="22" column="60" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1503496944492">
-        <mark key="[" line="243" column="58" />
-        <mark key="]" line="243" column="58" />
-        <mark key="^" line="265" column="58" />
-        <mark key="." line="243" column="58" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1503509198294">
+        <mark key="[" line="163" column="23" />
+        <mark key="]" line="163" column="26" />
+        <mark key="^" line="163" column="26" />
+        <mark key="." line="163" column="26" />
       </file>
       <file name="/fragment.java" timestamp="1503458633394">
         <mark key="[" line="0" column="0" />
@@ -476,10 +476,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>11</text>
+        <text>一些附加信息一些附加信息一些附加信息</text>
       </register>
       <register name="-" type="4">
-        <text>11</text>
+        <text>一些附加信息一些附加信息一些附加信息</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -487,44 +487,47 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGhhbmRsZVN1Ykl0ZW1PblNlbGVjdCh2YWx1ZSwgb3B0aW9uKSB7CiAgICAvLyDop4TliJnpgInkuK3lkI7op6blj5EKICAgIGNvbnNvbGUubG9nKCIxOiIgKyB2YWx1ZSArICIsICIgKyBvcHRpb24gKyAiLCAiKTsKICB9LA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtcyA9IHsKICAgICAgcGFnZVNpemU6IDEwMDAsCiAgICAgIGN1cnJlbnRQYWdlOiAxCiAgICB9Owo=</text>
+      <register name="2" type="4">
+        <text>subItem = {
+      ...subItem,
+      ruleCode: value,
+    };</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text encoding="base64">IGhhbmRsZVN1Ykl0ZW1PblNlbGVjdCh2YWx1ZSwgb3B0aW9uKSB7CiAgICAvLyDop4TliJnpgInkuK3lkI7op6blj5EKICAgIGNvbnNvbGUubG9nKCIxOiIgKyB2YWx1ZSArICIsICIgKyBvcHRpb24gKyAiLCAiKTsKICB9LA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtcyA9IHsKICAgICAgcGFnZVNpemU6IDEwMDAsCiAgICAgIGN1cnJlbnRQYWdlOiAxCiAgICB9Owo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgZGF0YTogcGFyYW1zLAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
   isSimple: false,
   ruleList: undefined,
 }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">cAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfZGF0YV9wb29sOwo=</text>
-      </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSAoIFNFTEVDVCBvcmRlcl9ubywgcmV2aWV3X3N0YXR1cyBBUyBmaW5hbmNlY2hlY2tfc3RhdHVzLCByZW1hcmsgRlJPTSBhcmNfY2hlY2sgV0hFUkUgMT0xIEFORCB0eXBlID0gMSBhbmQgb3JkZXJfbm8gaW4gKCAneHhocTE1MDMzMTY2ODUwOTg3MjIxJykgT1JERVIgQlkgaWQgREVTQyApIGEgR1JPVVAgQlkgYS5vcmRlcl9ubwo=</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBhcmNfZGF0YV9wb29sOwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSAoIFNFTEVDVCBvcmRlcl9ubywgcmV2aWV3X3N0YXR1cyBBUyBmaW5hbmNlY2hlY2tfc3RhdHVzLCByZW1hcmsgRlJPTSBhcmNfY2hlY2sgV0hFUkUgMT0xIEFORCB0eXBlID0gMSBhbmQgb3JkZXJfbm8gaW4gKCAneHhocTE1MDMzMTY2ODUwOTg3MjIxJykgT1JERVIgQlkgaWQgREVTQyApIGEgR1JPVVAgQlkgYS5vcmRlcl9ubwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
