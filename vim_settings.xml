@@ -188,7 +188,7 @@
         <mark key="." line="210" column="20" />
         <mark key="^" line="207" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleGroupController.java" timestamp="1503573794356">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/RuleGroupController.java" timestamp="1503575709545">
         <mark key="]" line="103" column="95" />
         <mark key="." line="103" column="95" />
       </file>
@@ -328,7 +328,7 @@
       <file name="/dummy.sql" timestamp="1502939408442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503573252745">
+      <file name="/Dummy.txt" timestamp="1503575058501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -362,13 +362,13 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/ArcCollectionDao.java" timestamp="1503404866351">
         <mark key="[" line="22" column="60" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1503574076867">
-        <mark key="[" line="270" column="18" />
-        <mark key="]" line="101" column="48" />
-        <mark key="^" line="101" column="48" />
-        <mark key="." line="101" column="48" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/Components/AddComplexRole.js" timestamp="1503575414641">
+        <mark key="[" line="301" column="19" />
+        <mark key="]" line="300" column="22" />
+        <mark key="^" line="300" column="22" />
+        <mark key="." line="300" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1503573802109">
+      <file name="/fragment.java" timestamp="1503575717795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -479,7 +479,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>128</text>
+        <text>Modal.success({
+                    title: result.msg
+                  });</text>
       </register>
       <register name="-" type="4">
         <text>128</text>
@@ -490,44 +492,46 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Modal.success({
+                    title: result.msg
+                  });</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIuWwhuacjeWKoeWZqOi/lOWbnueahGpzb27ovazkuLrmnKzlnLDkvb/nlKjnmoRqc29u5qC85byPIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIuWwhuacjeWKoeWZqOi/lOWbnueahGpzb27ovazkuLrmnKzlnLDkvb/nlKjnmoRqc29u5qC85byPIik7Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ZWxzZSB7CiAgICAgICAgdGVtcEl0ZW1SdWxlID0gaXRlbTsKICAgICAgICBjb25zdCBydWxlSWRTcGxpdCA9IGl0ZW0ucnVsZUxpc3Quc3BsaXQoJywnKTsKICAgICAgICBpdGVtLnJ1bGVMaXN0ID0gW107CiAgICAgICAgcnVsZUlkU3BsaXQubWFwKHJ1bGVDb2RlID0+IHsKICAgICAgICAgIC8vIGHjgIFiIOW8gOWktOS4uueugOWNleinhOWImQogICAgICAgICAgbGV0IHJ1bGUgPSB1bmRlZmluZWQ7CiAgICAgICAgICBpZiAocnVsZUNvZGUuaW5kZXhPZignYScpID09PSAwIHx8IHJ1bGVDb2RlLmluZGV4T2YoJ2InKSA9PT0gMCkgewogICAgICAgICAgICBydWxlID0gewogICAgICAgICAgICAgIGlzU2ltcGxlOiB0cnVlLAogICAgICAgICAgICAgIHJ1bGVDb2RlOiBydWxlQ29kZSwKICAgICAgICAgICAgfTsKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJ1bGUgPSB7CiAgICAgICAgICAgICAgaXNTaW1wbGU6IGZhbHNlLAogICAgICAgICAgICAgIHJ1bGVDb2RlOiBydWxlQ29kZSwKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgICAgaXRlbS5ydWxlTGlzdC5wdXNoKHJ1bGUpOwogICAgICAgIH0pOwogICAgICAgIGNvbnNvbGUubG9nKCLlsIbmnI3liqHlmajov5Tlm57nmoRqc29u6L2s5Li65pys5Zyw5L2/55So55qEanNvbuagvOW8jyIpOwogICAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">SlNPTk9iamVjdC5wYXJzZUFycmF5KCJbe1wiZ3JvdXBSdWxlSWRcIjpcIkEwMVwiLFwibGV2ZWxcIjoxLFwicnVsZUxpc3RcIjpcImI5NFwifV0iLCBSdWxlR3JvdXAuY2xhc3MpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGNvbnN0IGNvbXBsZXhSb2xlID0gewogICAgICAKICAgIH07</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>subItem = {
       ...subItem,
       ruleCode: value,
     };</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGhhbmRsZVN1Ykl0ZW1PblNlbGVjdCh2YWx1ZSwgb3B0aW9uKSB7CiAgICAvLyDop4TliJnpgInkuK3lkI7op6blj5EKICAgIGNvbnNvbGUubG9nKCIxOiIgKyB2YWx1ZSArICIsICIgKyBvcHRpb24gKyAiLCAiKTsKICB9LA==</text>
-      </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtcyA9IHsKICAgICAgcGFnZVNpemU6IDEwMDAsCiAgICAgIGN1cnJlbnRQYWdlOiAxCiAgICB9Owo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGhhbmRsZVN1Ykl0ZW1PblNlbGVjdCh2YWx1ZSwgb3B0aW9uKSB7CiAgICAvLyDop4TliJnpgInkuK3lkI7op6blj5EKICAgIGNvbnNvbGUubG9nKCIxOiIgKyB2YWx1ZSArICIsICIgKyBvcHRpb24gKyAiLCAiKTsKICB9LA==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
