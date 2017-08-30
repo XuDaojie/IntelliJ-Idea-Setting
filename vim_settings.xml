@@ -117,6 +117,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1502437635375">
         <mark key="[" line="280" column="13" />
       </file>
+      <file name="src:table:/2d5181b/cf933699-19f8-4b4a-b2e2-94592afa1348/arc_t.arc_user_status" timestamp="1504061089463" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/build.gradle" timestamp="1504010647080">
         <mark key="]" line="25" column="28" />
         <mark key="^" line="25" column="28" />
@@ -134,6 +135,7 @@
       <file name="/HTML File.txt.ft" timestamp="1504000182627">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/jobDetail.vm" timestamp="1504065626348" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/javase/build.gradle" timestamp="1501003805169">
         <mark key="[" line="10" column="62" />
       </file>
@@ -155,8 +157,8 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserDirectoryService.java" timestamp="1499999548966">
         <mark key="[" line="50" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1503974665641">
-        <mark key="[" line="475" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1504062473601">
+        <mark key="[" line="479" column="58" />
         <mark key="]" line="473" column="0" />
         <mark key="^" line="473" column="0" />
         <mark key="." line="473" column="0" />
@@ -305,11 +307,12 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500816815012">
         <mark key="[" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1504059948951">
-        <mark key="[" line="203" column="43" />
-        <mark key="]" line="76" column="30" />
-        <mark key="^" line="76" column="30" />
-        <mark key="." line="76" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1504063826281">
+        <mark key="'" line="303" column="56" />
+        <mark key="[" line="308" column="43" />
+        <mark key="]" line="309" column="11" />
+        <mark key="." line="309" column="11" />
+        <mark key="^" line="309" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1501059724665">
         <mark key="[" line="24" column="74" />
@@ -353,7 +356,7 @@
       <file name="/dummy.sql" timestamp="1502939408442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504015181079">
+      <file name="/Dummy.txt" timestamp="1504063912182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -364,6 +367,14 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1503989819359">
         <mark key="[" line="673" column="55" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1504065767118">
+        <mark key="[" line="398" column="81" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1504063877751">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="84" />
+        <mark key="." line="0" column="84" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/UserContactService.java" timestamp="1501745468808">
         <mark key="[" line="18" column="4" />
@@ -390,7 +401,7 @@
         <mark key="^" line="117" column="14" />
         <mark key="." line="117" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1504008877232">
+      <file name="/fragment.java" timestamp="1504063197900">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -398,7 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
       <jump line="19" column="11" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
       <jump line="58" column="0" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/res/layout/filter_dialog.xml" />
@@ -498,13 +508,27 @@
       <jump line="18" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/321cade3-adad-414a-b1da-daecf498a10c/console.sql" />
       <jump line="13" column="28" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
       <jump line="83" column="14" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/controller/VerifyController.java" />
+      <jump line="315" column="56" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGlmIHRlc3Q9ImFkZFRpbWUgIT1udWxsIj4KCQkJCWFuZCBhZGRfdGltZSA+ICN7YWRkVGltZSxqZGJjVHlwZT1USU1FU1RBTVB9CgkJCTwvaWY+</text>
+        <text>UserStatus userStatus = userStatusService.findByConsumerNo(consumerNo);
+                    if (userStatus == null) {
+                        userStatus = new UserStatus();
+                        userStatus.setConsumerNo(consumerNo);
+                        userStatus.setPhone(phone);
+                        userStatus.setIdNo(user.getIdNo());
+                        userStatus.setCreateTime(DateUtil.getNow());
+                        userStatus.setUpdateTime(DateUtil.getNow());
+                        userStatus.setRiskStatus(&quot;10&quot;);
+                        userStatusService.insertRecord(userStatus);
+                    } else {
+                        userStatus.setRiskStatus(&quot;10&quot;);
+                        userStatusService.updateByConsumerNo(userStatus);
+                    }</text>
       </register>
       <register name="-" type="4">
-        <text>like</text>
+        <text>, Verify verify, VerifyResp verifyResp</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -513,15 +537,43 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PGlmIHRlc3Q9ImFkZFRpbWUgIT1udWxsIj4KCQkJCWFuZCBhZGRfdGltZSA+ICN7YWRkVGltZSxqZGJjVHlwZT1USU1FU1RBTVB9CgkJCTwvaWY+</text>
+        <text>UserStatus userStatus = userStatusService.findByConsumerNo(consumerNo);
+                    if (userStatus == null) {
+                        userStatus = new UserStatus();
+                        userStatus.setConsumerNo(consumerNo);
+                        userStatus.setPhone(phone);
+                        userStatus.setIdNo(user.getIdNo());
+                        userStatus.setCreateTime(DateUtil.getNow());
+                        userStatus.setUpdateTime(DateUtil.getNow());
+                        userStatus.setRiskStatus(&quot;10&quot;);
+                        userStatusService.insertRecord(userStatus);
+                    } else {
+                        userStatus.setRiskStatus(&quot;10&quot;);
+                        userStatusService.updateByConsumerNo(userStatus);
+                    }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgT1JERVIgQlkgaWQgREVTQwogICAgICAgICkgQVMgdmVyaWZ5</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gMjA65by66aOO5o6n5Lq65a6hIDMwOuW8uumjjuaOp+S4jemAmui/hwogICAgICAgIHZlcmlmeVNlcnZpY2UudXBkYXRlQnlJZCh2ZXJpZnkpOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgIC8vIDIwMTcuNi4xNeWPt+WQjueahHZlcmlmeeaVsOaNruaJjeWQjOatpeWIsHZlcmlmeV9yZXNwCiAgICAgICAgaWYgKHZlcmlmeVJlc3AgIT0gbnVsbCkgewogICAgICAgICAgICBxdW90YUVkaXRMb2cuc2V0T3JpZ2luVmVyaWZ5UmVzdWx0KHZlcmlmeVJlc3AuZ2V0UmVzdWx0KCkpOwoKICAgICAgICAgICAgdmVyaWZ5UmVzcC5zZXRSZXN1bHQoIjEwIik7CiAgICAgICAgICAgIHZlcmlmeVJlc3Auc2V0Q2hlY2tOYW1lKCLpop3luqbkv67mlLktIiArIHN5c1VzZXIuZ2V0TmFtZSgpKTsKICAgICAgICAgICAgdmVyaWZ5UmVzcC5zZXRDaGVja1RpbWUoRGF0ZVV0aWwuZ2V0Tm93KCkpOwogICAgICAgICAgICB2ZXJpZnlSZXNwU2VydmljZS51cGRhdGVCeUlkKHZlcmlmeVJlc3ApOwogICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PGlmIHRlc3Q9ImFkZFRpbWUgIT1udWxsIj4KCQkJCWFuZCBhZGRfdGltZSA+ICN7YWRkVGltZSxqZGJjVHlwZT1USU1FU1RBTVB9CgkJCTwvaWY+</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgT1JERVIgQlkgaWQgREVTQwogICAgICAgICkgQVMgdmVyaWZ5</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>SELECT
   verify.id,
   verify.order_no,
@@ -539,10 +591,13 @@ WHERE 1 = 1
 ORDER BY verify.id DESC
 LIMIT 0, 10;</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IFNFTEVDVCAqCiAgICAgICAgRlJPTSAoCiAgICAgICAgU0VMRUNUCiAgICAgICAgaWQsCiAgICAgICAgb3JkZXJfbm8sCiAgICAgICAgc2NlbmUsCiAgICAgICAgY2hhbm5lbCwKICAgICAgICByZXR1cm5fZGF0YSwKICAgICAgICByZXR1cm5fdGltZSwKICAgICAgICBhZGRfdGltZSwKICAgICAgICBjb25zdW1lcl9ubywKICAgICAgICByZXNwX2Rlc2MKICAgICAgICBGUk9NIGFyY192ZXJpZnlfcmVzcAogICAgICAgIFdIRVJFIG9yZGVyX25vIExJS0UgJzAxcmVnaSUnCiAgICAgICAgKSBBUyB2ZXJpZnkKICAgICAgICBXSEVSRSB2ZXJpZnkuY29uc3VtZXJfbm8gaW4gKAogICAgICAgIDxmb3JlYWNoIGNvbGxlY3Rpb249Imxpc3QiIGl0ZW09Iml0ZW0iIGluZGV4PSJpbmRleCIKICAgICAgICAgICAgc2VwYXJhdG9yPSIsIj4KICAgICAgICAgICAgI3tpdGVtLGpkYmNUeXBlPVZBUkNIQVJ9CiAgICAgICAgPC9mb3JlYWNoPgogICAgICAgICkKICAgICAgICBHUk9VUCBCWSB2ZXJpZnkuY29uc3VtZXJfbm8K</text>
       </register>
-      <register name="5" type="4">
+      <register name="x" type="4">
+        <text>null</text>
+      </register>
+      <register name="9" type="4">
         <text>SELECT *
         FROM (
         SELECT
@@ -558,24 +613,6 @@ LIMIT 0, 10;</text>
         FROM arc_verify_resp
         WHERE order_no LIKE '01regi%'
         ) AS verify</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFBhZ2U8VmVyaWZ5TW9kZWw+IHBhZ2VTcGxpdChNYXA8U3RyaW5nLCBPYmplY3Q+IHNlYXJjaE1hcCkgewoJCXJldHVybiBudWxsOwoJfQo=</text>
-      </register>
-      <register name="x" type="4">
-        <text>null</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGlmIHRlc3Q9ImNoZWNrU3RhdGUgIT0gbnVsbCBhbmQgY2hlY2tTdGF0ZSAhPSAnJyAiPgogICAgICAgICAgICBBTkQgdmVyaWZ5X3Jlc3AucmVzdWx0ID0gI3tjaGVja1N0YXRlfQogICAgICAgIDwvaWY+</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
