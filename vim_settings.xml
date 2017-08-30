@@ -356,7 +356,7 @@
       <file name="/dummy.sql" timestamp="1502939408442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504063912182">
+      <file name="/Dummy.txt" timestamp="1504072136174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -368,8 +368,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1503989819359">
         <mark key="[" line="673" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1504065767118">
-        <mark key="[" line="398" column="81" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/WEB-INF/views/screen/collection/jobDetail.vm" timestamp="1504072042573">
+        <mark key="[" line="534" column="0" />
+        <mark key="]" line="534" column="0" />
+        <mark key="." line="534" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1504063877751">
         <mark key="[" line="0" column="0" />
@@ -512,20 +514,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UserStatus userStatus = userStatusService.findByConsumerNo(consumerNo);
-                    if (userStatus == null) {
-                        userStatus = new UserStatus();
-                        userStatus.setConsumerNo(consumerNo);
-                        userStatus.setPhone(phone);
-                        userStatus.setIdNo(user.getIdNo());
-                        userStatus.setCreateTime(DateUtil.getNow());
-                        userStatus.setUpdateTime(DateUtil.getNow());
-                        userStatus.setRiskStatus(&quot;10&quot;);
-                        userStatusService.insertRecord(userStatus);
-                    } else {
-                        userStatus.setRiskStatus(&quot;10&quot;);
-                        userStatusService.updateByConsumerNo(userStatus);
-                    }</text>
+        <text encoding="base64">ICAkKCcjc2NhbGUnKS5iaW5kKCdpbnB1dCBwcm9wZXJ0eWNoYW5nZScsIGZ1bmN0aW9uKCkgewogICAgdmFyIHNjYWxlID0gJCgiI3NjYWxlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwovLyAgICB2YXIgcmVkdWNlQW1vdW50ID0gJCgiI3JlZHVjZUFtb3VudCIpLnZhbCgpOyAvLyDlrp7pmYXlh4/lhY3ph5Hpop0KCiAgICBpZiAoIWlzTmFOKHNjYWxlKSkgewovLyAgICAgICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbCgxMTExKTsgLy8g5a6e6ZmF5oC76L+Y5qy+CiAgICAgIC8vdmFyIHJlZHVjZUFtb3VudCA9IHJlc3RBbW91bnQgKiBzY2FsZSAvIDEwMDsgLy8g5a6e6ZmF5YeP5YWN6YeR6aKdCiAgICAgIHZhciByZWR1Y2VBbW91bnQgPSBvdmVyZHVlQW1vdW50KnNjYWxlIC8gMTAwOwogICAgICB2YXIgY3V0UmVwYXlBbW91bnQgPSByZXN0QW1vdW50IC0gcmVkdWNlQW1vdW50OyAvLyDlrp7pmYXmgLvov5jmrL4KCiAgICAgICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbChjdXRSZXBheUFtb3VudC50b0ZpeGVkKDIpKTsgLy8g5a6e6ZmF5oC76L+Y5qy+CiAgICAgICQoIiNyZWR1Y2VBbW91bnQiKS52YWwocmVkdWNlQW1vdW50LnRvRml4ZWQoMikpOwogICAgfQogIH0pOw==</text>
       </register>
       <register name="-" type="4">
         <text>, Verify verify, VerifyResp verifyResp</text>
@@ -537,6 +526,9 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAkKCcjc2NhbGUnKS5iaW5kKCdpbnB1dCBwcm9wZXJ0eWNoYW5nZScsIGZ1bmN0aW9uKCkgewogICAgdmFyIHNjYWxlID0gJCgiI3NjYWxlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwovLyAgICB2YXIgcmVkdWNlQW1vdW50ID0gJCgiI3JlZHVjZUFtb3VudCIpLnZhbCgpOyAvLyDlrp7pmYXlh4/lhY3ph5Hpop0KCiAgICBpZiAoIWlzTmFOKHNjYWxlKSkgewovLyAgICAgICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbCgxMTExKTsgLy8g5a6e6ZmF5oC76L+Y5qy+CiAgICAgIC8vdmFyIHJlZHVjZUFtb3VudCA9IHJlc3RBbW91bnQgKiBzY2FsZSAvIDEwMDsgLy8g5a6e6ZmF5YeP5YWN6YeR6aKdCiAgICAgIHZhciByZWR1Y2VBbW91bnQgPSBvdmVyZHVlQW1vdW50KnNjYWxlIC8gMTAwOwogICAgICB2YXIgY3V0UmVwYXlBbW91bnQgPSByZXN0QW1vdW50IC0gcmVkdWNlQW1vdW50OyAvLyDlrp7pmYXmgLvov5jmrL4KCiAgICAgICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbChjdXRSZXBheUFtb3VudC50b0ZpeGVkKDIpKTsgLy8g5a6e6ZmF5oC76L+Y5qy+CiAgICAgICQoIiNyZWR1Y2VBbW91bnQiKS52YWwocmVkdWNlQW1vdW50LnRvRml4ZWQoMikpOwogICAgfQogIH0pOw==</text>
+      </register>
+      <register name="2" type="4">
         <text>UserStatus userStatus = userStatusService.findByConsumerNo(consumerNo);
                     if (userStatus == null) {
                         userStatus = new UserStatus();
@@ -552,28 +544,28 @@
                         userStatusService.updateByConsumerNo(userStatus);
                     }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Ly8gMjA65by66aOO5o6n5Lq65a6hIDMwOuW8uumjjuaOp+S4jemAmui/hwogICAgICAgIHZlcmlmeVNlcnZpY2UudXBkYXRlQnlJZCh2ZXJpZnkpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgIC8vIDIwMTcuNi4xNeWPt+WQjueahHZlcmlmeeaVsOaNruaJjeWQjOatpeWIsHZlcmlmeV9yZXNwCiAgICAgICAgaWYgKHZlcmlmeVJlc3AgIT0gbnVsbCkgewogICAgICAgICAgICBxdW90YUVkaXRMb2cuc2V0T3JpZ2luVmVyaWZ5UmVzdWx0KHZlcmlmeVJlc3AuZ2V0UmVzdWx0KCkpOwoKICAgICAgICAgICAgdmVyaWZ5UmVzcC5zZXRSZXN1bHQoIjEwIik7CiAgICAgICAgICAgIHZlcmlmeVJlc3Auc2V0Q2hlY2tOYW1lKCLpop3luqbkv67mlLktIiArIHN5c1VzZXIuZ2V0TmFtZSgpKTsKICAgICAgICAgICAgdmVyaWZ5UmVzcC5zZXRDaGVja1RpbWUoRGF0ZVV0aWwuZ2V0Tm93KCkpOwogICAgICAgICAgICB2ZXJpZnlSZXNwU2VydmljZS51cGRhdGVCeUlkKHZlcmlmeVJlc3ApOwogICAgICAgIH0=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGlmIHRlc3Q9ImFkZFRpbWUgIT1udWxsIj4KCQkJCWFuZCBhZGRfdGltZSA+ICN7YWRkVGltZSxqZGJjVHlwZT1USU1FU1RBTVB9CgkJCTwvaWY+</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgT1JERVIgQlkgaWQgREVTQwogICAgICAgICkgQVMgdmVyaWZ5</text>
+        <text encoding="base64">PGlmIHRlc3Q9ImFkZFRpbWUgIT1udWxsIj4KCQkJCWFuZCBhZGRfdGltZSA+ICN7YWRkVGltZSxqZGJjVHlwZT1USU1FU1RBTVB9CgkJCTwvaWY+</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgT1JERVIgQlkgaWQgREVTQwogICAgICAgICkgQVMgdmVyaWZ5</text>
+      </register>
+      <register name="8" type="4">
         <text>SELECT
   verify.id,
   verify.order_no,
@@ -591,28 +583,11 @@ WHERE 1 = 1
 ORDER BY verify.id DESC
 LIMIT 0, 10;</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IFNFTEVDVCAqCiAgICAgICAgRlJPTSAoCiAgICAgICAgU0VMRUNUCiAgICAgICAgaWQsCiAgICAgICAgb3JkZXJfbm8sCiAgICAgICAgc2NlbmUsCiAgICAgICAgY2hhbm5lbCwKICAgICAgICByZXR1cm5fZGF0YSwKICAgICAgICByZXR1cm5fdGltZSwKICAgICAgICBhZGRfdGltZSwKICAgICAgICBjb25zdW1lcl9ubywKICAgICAgICByZXNwX2Rlc2MKICAgICAgICBGUk9NIGFyY192ZXJpZnlfcmVzcAogICAgICAgIFdIRVJFIG9yZGVyX25vIExJS0UgJzAxcmVnaSUnCiAgICAgICAgKSBBUyB2ZXJpZnkKICAgICAgICBXSEVSRSB2ZXJpZnkuY29uc3VtZXJfbm8gaW4gKAogICAgICAgIDxmb3JlYWNoIGNvbGxlY3Rpb249Imxpc3QiIGl0ZW09Iml0ZW0iIGluZGV4PSJpbmRleCIKICAgICAgICAgICAgc2VwYXJhdG9yPSIsIj4KICAgICAgICAgICAgI3tpdGVtLGpkYmNUeXBlPVZBUkNIQVJ9CiAgICAgICAgPC9mb3JlYWNoPgogICAgICAgICkKICAgICAgICBHUk9VUCBCWSB2ZXJpZnkuY29uc3VtZXJfbm8K</text>
-      </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="4">
-        <text>SELECT *
-        FROM (
-        SELECT
-        id,
-        order_no,
-        scene,
-        channel,
-        return_data,
-        return_time,
-        add_time,
-        consumer_no,
-        resp_desc
-        FROM arc_verify_resp
-        WHERE order_no LIKE '01regi%'
-        ) AS verify</text>
+        <text encoding="base64">IFNFTEVDVCAqCiAgICAgICAgRlJPTSAoCiAgICAgICAgU0VMRUNUCiAgICAgICAgaWQsCiAgICAgICAgb3JkZXJfbm8sCiAgICAgICAgc2NlbmUsCiAgICAgICAgY2hhbm5lbCwKICAgICAgICByZXR1cm5fZGF0YSwKICAgICAgICByZXR1cm5fdGltZSwKICAgICAgICBhZGRfdGltZSwKICAgICAgICBjb25zdW1lcl9ubywKICAgICAgICByZXNwX2Rlc2MKICAgICAgICBGUk9NIGFyY192ZXJpZnlfcmVzcAogICAgICAgIFdIRVJFIG9yZGVyX25vIExJS0UgJzAxcmVnaSUnCiAgICAgICAgKSBBUyB2ZXJpZnkKICAgICAgICBXSEVSRSB2ZXJpZnkuY29uc3VtZXJfbm8gaW4gKAogICAgICAgIDxmb3JlYWNoIGNvbGxlY3Rpb249Imxpc3QiIGl0ZW09Iml0ZW0iIGluZGV4PSJpbmRleCIKICAgICAgICAgICAgc2VwYXJhdG9yPSIsIj4KICAgICAgICAgICAgI3tpdGVtLGpkYmNUeXBlPVZBUkNIQVJ9CiAgICAgICAgPC9mb3JlYWNoPgogICAgICAgICkKICAgICAgICBHUk9VUCBCWSB2ZXJpZnkuY29uc3VtZXJfbm8K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
