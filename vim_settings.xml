@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-quartz/build.gradle" timestamp="1504009542081">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/debt_gradle/debt-system/src/main/resources/debt.properties" timestamp="1504086073253">
+        <mark key="[" line="0" column="38" />
+      </file>
       <file name="/a.dummy" timestamp="1501749693479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -83,8 +86,16 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/ArcCollectionService.java" timestamp="1503405379655">
         <mark key="[" line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/build.gradle" timestamp="1504087458177" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-domain/build.gradle" timestamp="1504009532940">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/debt_gradle/debt-web/pom.xml" timestamp="1504087157011" />
+      <file name="$USER_HOME$/IdeaProjects/debt_gradle/settings.gradle" timestamp="1504087248586">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="17" />
       </file>
       <file name="/RegExp Fragment (StringUtil.java:4536).regexp" timestamp="1499831914479">
         <mark key="[" line="0" column="0" />
@@ -155,6 +166,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-web/src/config/antx_test.properties" timestamp="1500293654014">
         <mark key="[" line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/debt_gradle/pom.xml" timestamp="1504086344767">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="65" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/build.gradle" timestamp="1501057090977">
         <mark key="[" line="7" column="25" />
@@ -311,6 +328,11 @@
         <mark key="^" line="64" column="12" />
         <mark key="." line="64" column="12" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/debt_gradle/debt-system/pom.xml" timestamp="1504086228210">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/creditrank/ScoreRank/Components/AddRole.js" timestamp="1501483714912">
         <mark key="[" line="36" column="28" />
       </file>
@@ -320,7 +342,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500816815012">
         <mark key="[" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1501059724665">
+      <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1504087437604">
         <mark key="[" line="24" column="74" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/resources/sqlmap/ArcCollection.xml" timestamp="1503459255148">
@@ -362,7 +384,12 @@
       <file name="/dummy.sql" timestamp="1502939408442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504079788190">
+      <file name="$USER_HOME$/IdeaProjects/debt_gradle/debt-web/build.gradle" timestamp="1504087713890">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1504087281849">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -399,6 +426,9 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/XinXinList.js" timestamp="1500449787792">
         <mark key="[" line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/debt_gradle/build.gradle" timestamp="1504087472966">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
         <mark key="[" line="42" column="11" />
       </file>
@@ -411,7 +441,7 @@
         <mark key="^" line="117" column="14" />
         <mark key="." line="117" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1504079567123">
+      <file name="/fragment.java" timestamp="1504087281839">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -522,10 +552,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>implements TransactionManagementConfigurer</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -534,40 +564,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay50cmFuc2FjdGlvbi5hbm5vdGF0aW9uLkVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudDsK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20uYWxpeXVuLm9zcycsIG5hbWU6ICdhbGl5dW4tc2RrLW9zcycsIHZlcnNpb246ICcyLjAuNycKICAgIGNvbXBpbGUgZ3JvdXA6ICdjb21tb25zLWZpbGV1cGxvYWQnLCBuYW1lOiAnY29tbW9ucy1maWxldXBsb2FkJywgdmVyc2lvbjogJzEuMy4xJwo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IDxwcm9maWxlPgogICAgICAgICAgICA8aWQ+dGVzdDwvaWQ+CiAgICAgICAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgPHByb2ZpbGVBY3RpdmU+dGVzdDwvcHJvZmlsZUFjdGl2ZT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgICAgICA8YWN0aXZhdGlvbj4KICAgICAgICAgICAgICAgIDxhY3RpdmVCeURlZmF1bHQ+dHJ1ZTwvYWN0aXZlQnlEZWZhdWx0PgogICAgICAgICAgICA8L2FjdGl2YXRpb24+CiAgICAgICAgPC9wcm9maWxlPgoKICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPGlkPnByZW52PC9pZD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8cHJvZmlsZUFjdGl2ZT5wcmU8L3Byb2ZpbGVBY3RpdmU+CiAgICAgICAgICAgIDwvcHJvcGVydGllcz4KICAgICAgICA8L3Byb2ZpbGU+CgogICAgICAgIDxwcm9maWxlPgogICAgICAgICAgICA8aWQ+cHJvZDwvaWQ+CiAgICAgICAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgPHByb2ZpbGVBY3RpdmU+cHJvZDwvcHJvZmlsZUFjdGl2ZT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgIDwvcHJvZmlsZT4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlc291cmNlPgogICAgICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvbWFpbi9yZXNvdXJjZXM8L2RpcmVjdG9yeT4KICAgICAgICAgICAgICAgIDxmaWx0ZXJpbmc+dHJ1ZTwvZmlsdGVyaW5nPgogICAgICAgICAgICAgICAgPGV4Y2x1ZGVzPgogICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPmRlYnQtdGVzdC5wcm9wZXJ0aWVzPC9leGNsdWRlPgogICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPmRlYnQtcHJlLnByb3BlcnRpZXM8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+ZGVidC1wcm9kLnByb3BlcnRpZXM8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+ZGVidC1jb21tb24ucHJvcGVydGllczwvZXhjbHVkZT4KICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT5kZWJ0LnByb3BlcnRpZXM8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICA8L2V4Y2x1ZGVzPgogICAgICAgICAgICA8L3Jlc291cmNlPgoKICAgICAgICAgICAgPHJlc291cmNlPgogICAgICAgICAgICAgICAgPGZpbHRlcmluZz50cnVlPC9maWx0ZXJpbmc+CiAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5PnNyYy9tYWluL3Jlc291cmNlczwvZGlyZWN0b3J5PgogICAgICAgICAgICAgICAgPGluY2x1ZGVzPgogICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPmRlYnQtJHtwcm9maWxlQWN0aXZlfS5wcm9wZXJ0aWVzPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPmRlYnQtY29tbW9uLnByb3BlcnRpZXM8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPGluY2x1ZGU+ZGVidC5wcm9wZXJ0aWVzPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgPC9pbmNsdWRlcz4KICAgICAgICAgICAgPC9yZXNvdXJjZT4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PHByb2ZpbGU+CiAgICAgICAgICAgIDxpZD50ZXN0PC9pZD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8cHJvZmlsZUFjdGl2ZT50ZXN0PC9wcm9maWxlQWN0aXZlPgogICAgICAgICAgICA8L3Byb3BlcnRpZXM+CiAgICAgICAgICAgIDxhY3RpdmF0aW9uPgogICAgICAgICAgICAgICAgPGFjdGl2ZUJ5RGVmYXVsdD50cnVlPC9hY3RpdmVCeURlZmF1bHQ+CiAgICAgICAgICAgIDwvYWN0aXZhdGlvbj4KICAgICAgICA8L3Byb2ZpbGU+CgogICAgICAgIDxwcm9maWxlPgogICAgICAgICAgICA8aWQ+cHJlbnY8L2lkPgogICAgICAgICAgICA8cHJvcGVydGllcz4KICAgICAgICAgICAgICAgIDxwcm9maWxlQWN0aXZlPnByZTwvcHJvZmlsZUFjdGl2ZT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgIDwvcHJvZmlsZT4KCiAgICAgICAgPHByb2ZpbGU+CiAgICAgICAgICAgIDxpZD5wcm9kPC9pZD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8cHJvZmlsZUFjdGl2ZT5wcm9kPC9wcm9maWxlQWN0aXZlPgogICAgICAgICAgICA8L3Byb3BlcnRpZXM+CiAgICAgICAgPC9wcm9maWxlPg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5UcmFuc2FjdGlvbmFsOwoKaW1wb3J0IGphdmF4LmFubm90YXRpb24uUmVzb3VyY2U7Cg==</text>
+        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIFBsYXRmb3JtVHJhbnNhY3Rpb25NYW5hZ2VyIGFubm90YXRpb25Ecml2ZW5UcmFuc2FjdGlvbk1hbmFnZXIoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay50cmFuc2FjdGlvbi5hbm5vdGF0aW9uLkVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudDsK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAkKCcjc2NhbGUnKS5iaW5kKCdpbnB1dCBwcm9wZXJ0eWNoYW5nZScsIGZ1bmN0aW9uKCkgewogICAgdmFyIHNjYWxlID0gJCgiI3NjYWxlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwovLyAgICB2YXIgcmVkdWNlQW1vdW50ID0gJCgiI3JlZHVjZUFtb3VudCIpLnZhbCgpOyAvLyDlrp7pmYXlh4/lhY3ph5Hpop0KCiAgICBpZiAoIWlzTmFOKHNjYWxlKSkgewovLyAgICAgICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbCgxMTExKTsgLy8g5a6e6ZmF5oC76L+Y5qy+CiAgICAgIC8vdmFyIHJlZHVjZUFtb3VudCA9IHJlc3RBbW91bnQgKiBzY2FsZSAvIDEwMDsgLy8g5a6e6ZmF5YeP5YWN6YeR6aKdCiAgICAgIHZhciByZWR1Y2VBbW91bnQgPSBvdmVyZHVlQW1vdW50KnNjYWxlIC8gMTAwOwogICAgICB2YXIgY3V0UmVwYXlBbW91bnQgPSByZXN0QW1vdW50IC0gcmVkdWNlQW1vdW50OyAvLyDlrp7pmYXmgLvov5jmrL4KCiAgICAgICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbChjdXRSZXBheUFtb3VudC50b0ZpeGVkKDIpKTsgLy8g5a6e6ZmF5oC76L+Y5qy+CiAgICAgICQoIiNyZWR1Y2VBbW91bnQiKS52YWwocmVkdWNlQW1vdW50LnRvRml4ZWQoMikpOwogICAgfQogIH0pOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
