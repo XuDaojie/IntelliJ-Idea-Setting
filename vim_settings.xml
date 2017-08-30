@@ -15,8 +15,13 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/service/impl/RuleEngineConfigServiceImpl.java" timestamp="1503643427258">
         <mark key="[" line="183" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-system/src/main/java/com/ald/debt/admin/system/config/mybatis/MyBatisConfig.java" timestamp="1504074886430">
-        <mark key="[" line="5" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-system/src/main/java/com/ald/debt/admin/system/config/mybatis/MyBatisConfig.java" timestamp="1504080860212">
+        <mark key="[" line="108" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-system/src/main/java/com/ald/debt/admin/system/config/init/ConfigSystemBeforeApplicationStartedInitializer.java" timestamp="1504080472960">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/stomp/TopicPublisher.java" timestamp="1500829987923">
         <mark key="[" line="38" column="55" />
@@ -67,8 +72,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/static/h-ui.admin/js/H-ui.admin.js" timestamp="1502181130831">
         <mark key="[" line="270" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-web/src/main/java/com/ald/debt/admin/web/UserController.java" timestamp="1504013087467">
-        <mark key="[" line="33" column="46" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-web/src/main/java/com/ald/debt/admin/web/UserController.java" timestamp="1504080572567">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/impl/UserContactServiceImpl.java" timestamp="1501749839028">
         <mark key="[" line="40" column="16" />
@@ -109,8 +116,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/ArcUserContactDo.java" timestamp="1501749354973">
         <mark key="[" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-system/src/main/java/com/ald/debt/admin/system/config/aop/Md5.java" timestamp="1504012663951">
-        <mark key="[" line="11" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-system/src/main/java/com/ald/debt/admin/system/config/aop/Md5.java" timestamp="1504082384016">
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
@@ -119,11 +125,8 @@
         <mark key="[" line="280" column="13" />
       </file>
       <file name="src:table:/2d5181b/cf933699-19f8-4b4a-b2e2-94592afa1348/arc_t.arc_user_status" timestamp="1504061089463" />
-      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/build.gradle" timestamp="1504078197046">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="5" />
-        <mark key="^" line="25" column="28" />
-        <mark key="." line="22" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/build.gradle" timestamp="1504081666511">
+        <mark key="[" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ruleEngine/index.jsx" timestamp="1502694771822">
         <mark key="[" line="22" column="35" />
@@ -228,8 +231,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-sev/build.gradle" timestamp="1504009548111">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-web/build.gradle" timestamp="1504009563939">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-web/build.gradle" timestamp="1504082195558">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-orm/build.gradle" timestamp="1504009512271">
         <mark key="[" line="0" column="0" />
@@ -257,6 +262,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Public/SystemManagement/ProducttypeManagement/Components/SeachForm.js" timestamp="1500452249091">
         <mark key="[" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-system/src/main/java/com/ald/debt/admin/system/config/mybatis/MyBatisMapperScannerConfig.java" timestamp="1504080821269" />
+      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-api/src/main/java/com/ald/debt/admin/api/DataReportController.java" timestamp="1504080525816">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyRespMapper.xml" timestamp="1503913506808">
         <mark key="[" line="169" column="7" />
@@ -309,13 +320,6 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500816815012">
         <mark key="[" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" timestamp="1504063826281">
-        <mark key="'" line="303" column="56" />
-        <mark key="[" line="308" column="43" />
-        <mark key="]" line="309" column="11" />
-        <mark key="." line="309" column="11" />
-        <mark key="^" line="309" column="11" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/build.gradle" timestamp="1501059724665">
         <mark key="[" line="24" column="74" />
       </file>
@@ -358,7 +362,7 @@
       <file name="/dummy.sql" timestamp="1502939408442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504077403155">
+      <file name="/Dummy.txt" timestamp="1504079788190">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -380,6 +384,9 @@
         <mark key="]" line="0" column="84" />
         <mark key="." line="0" column="84" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-sev/src/main/java/com/ald/debt/admin/sev/declare/ArcUserService.java" timestamp="1504082287080">
+        <mark key="[" line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/UserContactService.java" timestamp="1501745468808">
         <mark key="[" line="18" column="4" />
       </file>
@@ -389,7 +396,6 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Public/SystemManagement/LogManagement/Components/SeachForm.js" timestamp="1500463496042">
         <mark key="[" line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-web/src/main/java/com/ald/debt/admin/DebtWebApplication.java" timestamp="1504015080128" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/XinXinList.js" timestamp="1500449787792">
         <mark key="[" line="2" column="8" />
       </file>
@@ -405,7 +411,7 @@
         <mark key="^" line="117" column="14" />
         <mark key="." line="117" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1504077403146">
+      <file name="/fragment.java" timestamp="1504079567123">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -515,11 +521,11 @@
       <jump line="315" column="56" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAkKCcjc2NhbGUnKS5iaW5kKCdpbnB1dCBwcm9wZXJ0eWNoYW5nZScsIGZ1bmN0aW9uKCkgewogICAgdmFyIHNjYWxlID0gJCgiI3NjYWxlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwovLyAgICB2YXIgcmVkdWNlQW1vdW50ID0gJCgiI3JlZHVjZUFtb3VudCIpLnZhbCgpOyAvLyDlrp7pmYXlh4/lhY3ph5Hpop0KCiAgICBpZiAoIWlzTmFOKHNjYWxlKSkgewovLyAgICAgICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbCgxMTExKTsgLy8g5a6e6ZmF5oC76L+Y5qy+CiAgICAgIC8vdmFyIHJlZHVjZUFtb3VudCA9IHJlc3RBbW91bnQgKiBzY2FsZSAvIDEwMDsgLy8g5a6e6ZmF5YeP5YWN6YeR6aKdCiAgICAgIHZhciByZWR1Y2VBbW91bnQgPSBvdmVyZHVlQW1vdW50KnNjYWxlIC8gMTAwOwogICAgICB2YXIgY3V0UmVwYXlBbW91bnQgPSByZXN0QW1vdW50IC0gcmVkdWNlQW1vdW50OyAvLyDlrp7pmYXmgLvov5jmrL4KCiAgICAgICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbChjdXRSZXBheUFtb3VudC50b0ZpeGVkKDIpKTsgLy8g5a6e6ZmF5oC76L+Y5qy+CiAgICAgICQoIiNyZWR1Y2VBbW91bnQiKS52YWwocmVkdWNlQW1vdW50LnRvRml4ZWQoMikpOwogICAgfQogIH0pOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
       </register>
       <register name="-" type="4">
-        <text>, Verify verify, VerifyResp verifyResp</text>
+        <text>implements TransactionManagementConfigurer</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -527,69 +533,41 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAkKCcjc2NhbGUnKS5iaW5kKCdpbnB1dCBwcm9wZXJ0eWNoYW5nZScsIGZ1bmN0aW9uKCkgewogICAgdmFyIHNjYWxlID0gJCgiI3NjYWxlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwovLyAgICB2YXIgcmVkdWNlQW1vdW50ID0gJCgiI3JlZHVjZUFtb3VudCIpLnZhbCgpOyAvLyDlrp7pmYXlh4/lhY3ph5Hpop0KCiAgICBpZiAoIWlzTmFOKHNjYWxlKSkgewovLyAgICAgICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbCgxMTExKTsgLy8g5a6e6ZmF5oC76L+Y5qy+CiAgICAgIC8vdmFyIHJlZHVjZUFtb3VudCA9IHJlc3RBbW91bnQgKiBzY2FsZSAvIDEwMDsgLy8g5a6e6ZmF5YeP5YWN6YeR6aKdCiAgICAgIHZhciByZWR1Y2VBbW91bnQgPSBvdmVyZHVlQW1vdW50KnNjYWxlIC8gMTAwOwogICAgICB2YXIgY3V0UmVwYXlBbW91bnQgPSByZXN0QW1vdW50IC0gcmVkdWNlQW1vdW50OyAvLyDlrp7pmYXmgLvov5jmrL4KCiAgICAgICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbChjdXRSZXBheUFtb3VudC50b0ZpeGVkKDIpKTsgLy8g5a6e6ZmF5oC76L+Y5qy+CiAgICAgICQoIiNyZWR1Y2VBbW91bnQiKS52YWwocmVkdWNlQW1vdW50LnRvRml4ZWQoMikpOwogICAgfQogIH0pOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>UserStatus userStatus = userStatusService.findByConsumerNo(consumerNo);
-                    if (userStatus == null) {
-                        userStatus = new UserStatus();
-                        userStatus.setConsumerNo(consumerNo);
-                        userStatus.setPhone(phone);
-                        userStatus.setIdNo(user.getIdNo());
-                        userStatus.setCreateTime(DateUtil.getNow());
-                        userStatus.setUpdateTime(DateUtil.getNow());
-                        userStatus.setRiskStatus(&quot;10&quot;);
-                        userStatusService.insertRecord(userStatus);
-                    } else {
-                        userStatus.setRiskStatus(&quot;10&quot;);
-                        userStatusService.updateByConsumerNo(userStatus);
-                    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBpbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay50cmFuc2FjdGlvbi5hbm5vdGF0aW9uLkVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudDsK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gMjA65by66aOO5o6n5Lq65a6hIDMwOuW8uumjjuaOp+S4jemAmui/hwogICAgICAgIHZlcmlmeVNlcnZpY2UudXBkYXRlQnlJZCh2ZXJpZnkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgIC8vIDIwMTcuNi4xNeWPt+WQjueahHZlcmlmeeaVsOaNruaJjeWQjOatpeWIsHZlcmlmeV9yZXNwCiAgICAgICAgaWYgKHZlcmlmeVJlc3AgIT0gbnVsbCkgewogICAgICAgICAgICBxdW90YUVkaXRMb2cuc2V0T3JpZ2luVmVyaWZ5UmVzdWx0KHZlcmlmeVJlc3AuZ2V0UmVzdWx0KCkpOwoKICAgICAgICAgICAgdmVyaWZ5UmVzcC5zZXRSZXN1bHQoIjEwIik7CiAgICAgICAgICAgIHZlcmlmeVJlc3Auc2V0Q2hlY2tOYW1lKCLpop3luqbkv67mlLktIiArIHN5c1VzZXIuZ2V0TmFtZSgpKTsKICAgICAgICAgICAgdmVyaWZ5UmVzcC5zZXRDaGVja1RpbWUoRGF0ZVV0aWwuZ2V0Tm93KCkpOwogICAgICAgICAgICB2ZXJpZnlSZXNwU2VydmljZS51cGRhdGVCeUlkKHZlcmlmeVJlc3ApOwogICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PGlmIHRlc3Q9ImFkZFRpbWUgIT1udWxsIj4KCQkJCWFuZCBhZGRfdGltZSA+ICN7YWRkVGltZSxqZGJjVHlwZT1USU1FU1RBTVB9CgkJCTwvaWY+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgT1JERVIgQlkgaWQgREVTQwogICAgICAgICkgQVMgdmVyaWZ5</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5UcmFuc2FjdGlvbmFsOwoKaW1wb3J0IGphdmF4LmFubm90YXRpb24uUmVzb3VyY2U7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>SELECT
-  verify.id,
-  verify.order_no,
-  usr.real_name,
-  usr.phone,
-  verify.scene,
-  verify.channel,
-  verify.resp_data,
-  verify.return_data,
-  verify.return_time,
-  verify.add_time
-FROM arc_verify AS verify
-  LEFT JOIN arc_user AS usr ON usr.consumer_no = verify.consumer_no
-WHERE 1 = 1
-ORDER BY verify.id DESC
-LIMIT 0, 10;</text>
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIFBsYXRmb3JtVHJhbnNhY3Rpb25NYW5hZ2VyIGFubm90YXRpb25Ecml2ZW5UcmFuc2FjdGlvbk1hbmFnZXIoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IFNFTEVDVCAqCiAgICAgICAgRlJPTSAoCiAgICAgICAgU0VMRUNUCiAgICAgICAgaWQsCiAgICAgICAgb3JkZXJfbm8sCiAgICAgICAgc2NlbmUsCiAgICAgICAgY2hhbm5lbCwKICAgICAgICByZXR1cm5fZGF0YSwKICAgICAgICByZXR1cm5fdGltZSwKICAgICAgICBhZGRfdGltZSwKICAgICAgICBjb25zdW1lcl9ubywKICAgICAgICByZXNwX2Rlc2MKICAgICAgICBGUk9NIGFyY192ZXJpZnlfcmVzcAogICAgICAgIFdIRVJFIG9yZGVyX25vIExJS0UgJzAxcmVnaSUnCiAgICAgICAgKSBBUyB2ZXJpZnkKICAgICAgICBXSEVSRSB2ZXJpZnkuY29uc3VtZXJfbm8gaW4gKAogICAgICAgIDxmb3JlYWNoIGNvbGxlY3Rpb249Imxpc3QiIGl0ZW09Iml0ZW0iIGluZGV4PSJpbmRleCIKICAgICAgICAgICAgc2VwYXJhdG9yPSIsIj4KICAgICAgICAgICAgI3tpdGVtLGpkYmNUeXBlPVZBUkNIQVJ9CiAgICAgICAgPC9mb3JlYWNoPgogICAgICAgICkKICAgICAgICBHUk9VUCBCWSB2ZXJpZnkuY29uc3VtZXJfbm8K</text>
+        <text encoding="base64">ICAkKCcjc2NhbGUnKS5iaW5kKCdpbnB1dCBwcm9wZXJ0eWNoYW5nZScsIGZ1bmN0aW9uKCkgewogICAgdmFyIHNjYWxlID0gJCgiI3NjYWxlIikudmFsKCk7IC8vIOWHj+WFjeavlOS+iwovLyAgICB2YXIgcmVkdWNlQW1vdW50ID0gJCgiI3JlZHVjZUFtb3VudCIpLnZhbCgpOyAvLyDlrp7pmYXlh4/lhY3ph5Hpop0KCiAgICBpZiAoIWlzTmFOKHNjYWxlKSkgewovLyAgICAgICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbCgxMTExKTsgLy8g5a6e6ZmF5oC76L+Y5qy+CiAgICAgIC8vdmFyIHJlZHVjZUFtb3VudCA9IHJlc3RBbW91bnQgKiBzY2FsZSAvIDEwMDsgLy8g5a6e6ZmF5YeP5YWN6YeR6aKdCiAgICAgIHZhciByZWR1Y2VBbW91bnQgPSBvdmVyZHVlQW1vdW50KnNjYWxlIC8gMTAwOwogICAgICB2YXIgY3V0UmVwYXlBbW91bnQgPSByZXN0QW1vdW50IC0gcmVkdWNlQW1vdW50OyAvLyDlrp7pmYXmgLvov5jmrL4KCiAgICAgICQoIiNjdXRSZXBheUFtb3VudCIpLnZhbChjdXRSZXBheUFtb3VudC50b0ZpeGVkKDIpKTsgLy8g5a6e6ZmF5oC76L+Y5qy+CiAgICAgICQoIiNyZWR1Y2VBbW91bnQiKS52YWwocmVkdWNlQW1vdW50LnRvRml4ZWQoMikpOwogICAgfQogIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
