@@ -115,18 +115,22 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/quota/UserStatusMapper.xml" timestamp="1503905142812">
         <mark key="[" line="404" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/debt-web/src/main/java/com/ald/debt/admin/web/UserController.java" timestamp="1504169362213">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="21" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-web/src/main/java/com/ald/debt/admin/web/UserController.java" timestamp="1504173113796">
+        <mark key="[" line="23" column="79" />
+        <mark key="]" line="23" column="78" />
+        <mark key="." line="23" column="78" />
+        <mark key="^" line="23" column="78" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-web/src/main/java/com/ald/debt/admin/DebtWebApplication.java" timestamp="1504172241700">
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-common/src/main/java/tool/code/generator/Create.java" timestamp="1501743771858">
         <mark key="[" line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/build.gradle" timestamp="1504168857347">
-        <mark key="[" line="47" column="21" />
-        <mark key="]" line="47" column="71" />
-        <mark key="." line="47" column="71" />
+      <file name="$USER_HOME$/IdeaProjects/debt/build.gradle" timestamp="1504171904506">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JDoc/build.gradle" timestamp="1504011766621">
         <mark key="[" line="16" column="20" />
@@ -167,11 +171,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/SeachForm.js" timestamp="1501483814718">
         <mark key="[" line="34" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/debt-api/build.gradle" timestamp="1504170565029">
-        <mark key="[" line="5" column="96" />
-        <mark key="]" line="5" column="95" />
-        <mark key="^" line="5" column="95" />
-        <mark key="." line="5" column="95" />
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-api/build.gradle" timestamp="1504172680755">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="4" column="58" />
+        <mark key="^" line="4" column="95" />
+        <mark key="." line="4" column="58" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/debt_gradle/debt-domain/build.gradle" timestamp="1504149814023">
         <mark key="[" line="2" column="0" />
@@ -247,6 +251,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/activemq/stomp/Publisher.java" timestamp="1500919399838">
         <mark key="[" line="30" column="58" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-domain/build.gradle" timestamp="1504171687893">
+        <mark key="[" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/pom.xml" timestamp="1504092684773">
         <mark key="[" line="16" column="36" />
@@ -406,7 +413,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504169454535">
+      <file name="/Dummy.txt" timestamp="1504173132255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -443,11 +450,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Public/SystemManagement/LogManagement/Components/SeachForm.js" timestamp="1500463496042">
         <mark key="[" line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/README.md" timestamp="1504167893520">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="52" />
-        <mark key="^" line="2" column="52" />
-        <mark key="." line="2" column="52" />
+      <file name="$USER_HOME$/IdeaProjects/debt/README.md" timestamp="1504172888238">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="4" column="52" />
+        <mark key="^" line="4" column="52" />
+        <mark key="." line="4" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/XinXinList.js" timestamp="1500449787792">
         <mark key="[" line="2" column="8" />
@@ -591,7 +598,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW5pdCBncmFkbGUK</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSAiY29tLmRpZGlzcGFjZTpzcHJpbmctYm9vdC1zdGFydGVyLXN3YWdnZXI6MS4zLjAuUkVMRUFTRSIK</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
@@ -603,25 +610,25 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5pdCBncmFkbGUK</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSAiY29tLmRpZGlzcGFjZTpzcHJpbmctYm9vdC1zdGFydGVyLXN3YWdnZXI6MS4zLjAuUkVMRUFTRSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5pdCBncmFkbGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBvcm0KLy8gICAgICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcubXliYXRpcy5zcHJpbmcuYm9vdCcsIG5hbWU6ICdteWJhdGlzLXNwcmluZy1ib290LXN0YXJ0ZXInLCB2ZXJzaW9uOiAnMS4wLjAnCi8vICAgICAgICBjb21waWxlIGdyb3VwOiAndGsubXliYXRpcycsIG5hbWU6ICdtYXBwZXInLCB2ZXJzaW9uOiAnMy4zLjQnCi8vICAgICAgICBjb21waWxlIGdyb3VwOiAnbXlzcWwnLCBuYW1lOiAnbXlzcWwtY29ubmVjdG9yLWphdmEnLCB2ZXJzaW9uOiAnNS4xLjMyJwovLyAgICAgICAgY29tcGlsZSBncm91cDogJ2NvbS5hbGliYWJhJywgbmFtZTogJ2RydWlkJywgdmVyc2lvbjogJzEuMC45JwovLyAgICAgICAgY29tcGlsZSBncm91cDogJ2NvbS5naXRodWIucGFnZWhlbHBlcicsIG5hbWU6ICdwYWdlaGVscGVyJywgdmVyc2lvbjogJzQuMS4xJwo=</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9hcHBseSBwbHVnaW46ICdzcHJpbmctYm9vdCcK</text>
+        <text encoding="base64">ICAgICAgICAvLyBvcm0KLy8gICAgICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcubXliYXRpcy5zcHJpbmcuYm9vdCcsIG5hbWU6ICdteWJhdGlzLXNwcmluZy1ib290LXN0YXJ0ZXInLCB2ZXJzaW9uOiAnMS4wLjAnCi8vICAgICAgICBjb21waWxlIGdyb3VwOiAndGsubXliYXRpcycsIG5hbWU6ICdtYXBwZXInLCB2ZXJzaW9uOiAnMy4zLjQnCi8vICAgICAgICBjb21waWxlIGdyb3VwOiAnbXlzcWwnLCBuYW1lOiAnbXlzcWwtY29ubmVjdG9yLWphdmEnLCB2ZXJzaW9uOiAnNS4xLjMyJwovLyAgICAgICAgY29tcGlsZSBncm91cDogJ2NvbS5hbGliYWJhJywgbmFtZTogJ2RydWlkJywgdmVyc2lvbjogJzEuMC45JwovLyAgICAgICAgY29tcGlsZSBncm91cDogJ2NvbS5naXRodWIucGFnZWhlbHBlcicsIG5hbWU6ICdwYWdlaGVscGVyJywgdmVyc2lvbjogJzQuMS4xJwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -630,7 +637,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9hcHBseSBwbHVnaW46ICdzcHJpbmctYm9vdCcK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
