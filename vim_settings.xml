@@ -35,8 +35,8 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/domain/QuotaEditLog.java" timestamp="1503048469424">
         <mark key="[" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1503987553852">
-        <mark key="[" line="334" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1504147992668">
+        <mark key="[" line="262" column="36" />
         <mark key="]" line="292" column="27" />
         <mark key="." line="292" column="27" />
         <mark key="^" line="292" column="27" />
@@ -132,7 +132,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1502437635375">
         <mark key="[" line="280" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/build.gradle" timestamp="1504081666511">
+      <file name="$USER_HOME$/IdeaProjects/arc_collection_new/build.gradle" timestamp="1504150221810">
         <mark key="[" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1504096406703" />
@@ -159,6 +159,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/BorrowingRulesManagement/Components/SeachForm.js" timestamp="1501483814718">
         <mark key="[" line="34" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/debt_gradle/debt-domain/build.gradle" timestamp="1504149814023">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-web/src/config/antx_test.properties" timestamp="1500293654014">
         <mark key="[" line="8" column="22" />
@@ -331,6 +334,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/debt_gradle/debt-orm/build.gradle" timestamp="1504151727424">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/creditrank/ScoreRank/Components/AddRole.js" timestamp="1501483714912">
         <mark key="[" line="36" column="28" />
       </file>
@@ -383,12 +391,12 @@
       <file name="/dummy.sql" timestamp="1502939408442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt_gradle/debt-web/build.gradle" timestamp="1504087713890">
+      <file name="$USER_HOME$/IdeaProjects/debt_gradle/debt-web/build.gradle" timestamp="1504149066415">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504097139721">
+      <file name="/Dummy.txt" timestamp="1504150847224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -431,8 +439,10 @@
         <mark key="." line="144" column="4" />
         <mark key="^" line="144" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt_gradle/build.gradle" timestamp="1504098337209">
-        <mark key="[" line="15" column="71" />
+      <file name="$USER_HOME$/IdeaProjects/debt_gradle/build.gradle" timestamp="1504150418041">
+        <mark key="[" line="41" column="21" />
+        <mark key="]" line="41" column="21" />
+        <mark key="." line="41" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
         <mark key="[" line="42" column="11" />
@@ -560,7 +570,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>http://maven.aliyun.com/nexus/content/groups/public/</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -572,37 +582,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJvamVjdCgnOmRlYnQtb3JtJykucHJvamVjdERpciA9ICIkcm9vdERpci9kZWJ0LW9ybSIgYXMgRmlsZQpwcm9qZWN0KCc6ZGVidC1kb21haW4nKS5wcm9qZWN0RGlyID0gIiRyb290RGlyL2RlYnQtZG9tYWluIiBhcyBGaWxlCnByb2plY3QoJzpkZWJ0LXNldicpLnByb2plY3REaXIgPSAiJHJvb3REaXIvZGVidC1zZXYiIGFzIEZpbGUKcHJvamVjdCgnOmRlYnQtYXBpJykucHJvamVjdERpciA9ICIkcm9vdERpci9kZWJ0LWFwaSIgYXMgRmlsZQpwcm9qZWN0KCc6ZGVidC1xdWFydHonKS5wcm9qZWN0RGlyID0gIiRyb290RGlyL2RlYnQtcXVhcnR6IiBhcyBGaWxlCnByb2plY3QoJzpkZWJ0LXN5c3RlbScpLnByb2plY3REaXIgPSAiJHJvb3REaXIvZGVidC1zeXN0ZW0iIGFzIEZpbGUKcHJvamVjdCgnOmRlYnQtd2ViJykucHJvamVjdERpciA9ICIkcm9vdERpci9kZWJ0LXdlYiIgYXMgRmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnc3ByaW5nLWJvb3QnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">OmRlYnQtd2ViOmJvb3RSdW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20uYWxpeXVuLm9zcycsIG5hbWU6ICdhbGl5dW4tc2RrLW9zcycsIHZlcnNpb246ICcyLjAuNycKICAgIGNvbXBpbGUgZ3JvdXA6ICdjb21tb25zLWZpbGV1cGxvYWQnLCBuYW1lOiAnY29tbW9ucy1maWxldXBsb2FkJywgdmVyc2lvbjogJzEuMy4xJwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnLCBuYW1lOiAnc3ByaW5nLWJvb3QtY29uZmlndXJhdGlvbi1wcm9jZXNzb3InLCB2ZXJzaW9uOiAiJHtzcHJpbmdCb290VmVyc2lvbn0iCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDxwcm9maWxlPgogICAgICAgICAgICA8aWQ+dGVzdDwvaWQ+CiAgICAgICAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgPHByb2ZpbGVBY3RpdmU+dGVzdDwvcHJvZmlsZUFjdGl2ZT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgICAgICA8YWN0aXZhdGlvbj4KICAgICAgICAgICAgICAgIDxhY3RpdmVCeURlZmF1bHQ+dHJ1ZTwvYWN0aXZlQnlEZWZhdWx0PgogICAgICAgICAgICA8L2FjdGl2YXRpb24+CiAgICAgICAgPC9wcm9maWxlPgoKICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPGlkPnByZW52PC9pZD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8cHJvZmlsZUFjdGl2ZT5wcmU8L3Byb2ZpbGVBY3RpdmU+CiAgICAgICAgICAgIDwvcHJvcGVydGllcz4KICAgICAgICA8L3Byb2ZpbGU+CgogICAgICAgIDxwcm9maWxlPgogICAgICAgICAgICA8aWQ+cHJvZDwvaWQ+CiAgICAgICAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgPHByb2ZpbGVBY3RpdmU+cHJvZDwvcHJvZmlsZUFjdGl2ZT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgIDwvcHJvZmlsZT4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcubXliYXRpcy5zcHJpbmcuYm9vdCcsIG5hbWU6ICdteWJhdGlzLXNwcmluZy1ib290LXN0YXJ0ZXInLCB2ZXJzaW9uOiAnMS4wLjAnCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlc291cmNlPgogICAgICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvbWFpbi9yZXNvdXJjZXM8L2RpcmVjdG9yeT4KICAgICAgICAgICAgICAgIDxmaWx0ZXJpbmc+dHJ1ZTwvZmlsdGVyaW5nPgogICAgICAgICAgICAgICAgPGV4Y2x1ZGVzPgogICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPmRlYnQtdGVzdC5wcm9wZXJ0aWVzPC9leGNsdWRlPgogICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPmRlYnQtcHJlLnByb3BlcnRpZXM8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+ZGVidC1wcm9kLnByb3BlcnRpZXM8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+ZGVidC1jb21tb24ucHJvcGVydGllczwvZXhjbHVkZT4KICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT5kZWJ0LnByb3BlcnRpZXM8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICA8L2V4Y2x1ZGVzPgogICAgICAgICAgICA8L3Jlc291cmNlPgoKICAgICAgICAgICAgPHJlc291cmNlPgogICAgICAgICAgICAgICAgPGZpbHRlcmluZz50cnVlPC9maWx0ZXJpbmc+CiAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5PnNyYy9tYWluL3Jlc291cmNlczwvZGlyZWN0b3J5PgogICAgICAgICAgICAgICAgPGluY2x1ZGVzPgogICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPmRlYnQtJHtwcm9maWxlQWN0aXZlfS5wcm9wZXJ0aWVzPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPmRlYnQtY29tbW9uLnByb3BlcnRpZXM8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPGluY2x1ZGU+ZGVidC5wcm9wZXJ0aWVzPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgPC9pbmNsdWRlcz4KICAgICAgICAgICAgPC9yZXNvdXJjZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
