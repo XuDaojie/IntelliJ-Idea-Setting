@@ -3,12 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*Controller</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.ja</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.jsx</mask>
@@ -21,20 +18,23 @@
       <mask>log4j.*</mask>
       <mask>*</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.pom</mask>
       <mask>*.po</mask>
       <mask>*.p</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.gradl</mask>
+      <mask>*.grad</mask>
+      <mask>*.gra</mask>
+      <mask>*.gr</mask>
+      <mask>*.g</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
