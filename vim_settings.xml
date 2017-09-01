@@ -403,7 +403,7 @@
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/GreetingController.java" timestamp="1504195228023">
         <mark key="[" line="24" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504249972714">
+      <file name="/Dummy.txt" timestamp="1504252260827">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -412,7 +412,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/debt-orm/build.gradle" timestamp="1504249765788">
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-orm/build.gradle" timestamp="1504252038444">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="38" />
@@ -426,6 +426,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/UserContactService.java" timestamp="1501745468808">
         <mark key="[" line="18" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/java/com/ald/debt/admin/system/config/mybatis/MyBatisConfig.java" timestamp="1504251616204">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1503987688348">
         <mark key="[" line="62" column="85" />
@@ -461,10 +466,11 @@
         <mark key="^" line="117" column="14" />
         <mark key="." line="117" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/debt-orm/src/main/java/com/ald/debt/admin/orm/mapper/ArcUserMapper.java" timestamp="1504250176444">
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-orm/src/main/java/com/ald/debt/admin/orm/mapper/ArcUserMapper.java" timestamp="1504251395539">
         <mark key="[" line="8" column="39" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="8" column="39" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
       </file>
       <file name="/fragment.java" timestamp="1504230414225">
         <mark key="[" line="0" column="0" />
@@ -576,8 +582,8 @@
       <jump line="315" column="56" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BaseMapper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>BaseMapper</text>
@@ -592,37 +598,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRrLm15YmF0aXMubWFwcGVyLmNvbW1vbi5CYXNlTWFwcGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRrLm15YmF0aXMubWFwcGVyLmNvbW1vbi5CYXNlTWFwcGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaC5wdXQoInZlcmlmeUlkIiwgdmVyaWZ5LmdldElkKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gc2VhcmNoID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHRrLm15YmF0aXMubWFwcGVyLmNvbW1vbi5CYXNlTWFwcGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlcmlmeVJlc3AgdmVyaWZ5UmVzcCA9IHZlcmlmeVJlc3BTZXJ2aWNlLmZpbmRTZWxlY3RpdmUoc2VhcmNoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHRrLm15YmF0aXMubWFwcGVyLmNvbW1vbi5CYXNlTWFwcGVyOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAyMDrlvLrpo47mjqfkurrlrqEgMzA65by66aOO5o6n5LiN6YCa6L+HCiAgICAgICAgICAgICAgICAgICAgcmVzcERhdGFKc29uLnB1dCgicmVzdWx0IiwgIjEwIik7CiAgICAgICAgICAgICAgICAgICAgdmVyaWZ5LnNldFJlc3BEYXRhKEpTT04udG9KU09OU3RyaW5nKHJlc3BEYXRhSnNvbikpOwovLyAgICAgICAgICAgICAgICAgICAgdmVyaWZ5U2VydmljZS51cGRhdGVCeUlkKHZlcmlmeSk7CgogICAgICAgICAgICAgICAgICAgIC8vIOW8uumjjuaOp+S7pXVzZXJTdGF0dXPkuK3nmoTnirbmgIHmnKrlh4YKLy8gICAgICAgICAgICAgICAgICAgIHVwZGF0ZVZlcmlmeVN0YXR1cyh1c2VyKTsKCiAgICAgICAgICAgICAgICAgICAgLy8gMjAxNy42LjE15Y+35ZCO55qEdmVyaWZ55pWw5o2u5omN5ZCM5q2l5YiwdmVyaWZ5X3Jlc3AKICAgICAgICAgICAgICAgICAgICBpZiAodmVyaWZ5UmVzcCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHF1b3RhRWRpdExvZy5zZXRPcmlnaW5WZXJpZnlSZXN1bHQodmVyaWZ5UmVzcC5nZXRSZXN1bHQoKSk7CgogICAgICAgICAgICAgICAgICAgICAgICB2ZXJpZnlSZXNwLnNldFJlc3VsdCgiMTAiKTsKICAgICAgICAgICAgICAgICAgICAgICAgdmVyaWZ5UmVzcC5zZXRDaGVja05hbWUoIumineW6puS/ruaUuS0iICsgc3lzVXNlci5nZXROYW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB2ZXJpZnlSZXNwLnNldENoZWNrVGltZShEYXRlVXRpbC5nZXROb3coKSk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgdmVyaWZ5UmVzcFNlcnZpY2UudXBkYXRlQnlJZCh2ZXJpZnlSZXNwKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaC5wdXQoInZlcmlmeUlkIiwgdmVyaWZ5LmdldElkKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSAiY29tLmRpZGlzcGFjZTpzcHJpbmctYm9vdC1zdGFydGVyLXN3YWdnZXI6MS4zLjAuUkVMRUFTRSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gc2VhcmNoID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlcmlmeVJlc3AgdmVyaWZ5UmVzcCA9IHZlcmlmeVJlc3BTZXJ2aWNlLmZpbmRTZWxlY3RpdmUoc2VhcmNoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
