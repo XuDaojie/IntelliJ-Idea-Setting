@@ -116,7 +116,7 @@
         <mark key="[" line="22" column="32" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/mybatis-3.3.0-sources.jar!/org/apache/ibatis/io/ResolverUtil.java" timestamp="1504232907062" />
-      <file name="$USER_HOME$/IdeaProjects/debt/build.gradle" timestamp="1504193847493">
+      <file name="$USER_HOME$/IdeaProjects/debt/build.gradle" timestamp="1504244954040">
         <mark key="[" line="48" column="18" />
         <mark key="]" line="49" column="24" />
         <mark key="." line="49" column="24" />
@@ -402,7 +402,7 @@
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/GreetingController.java" timestamp="1504195228023">
         <mark key="[" line="24" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504234933604">
+      <file name="/Dummy.txt" timestamp="1504245084497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -411,8 +411,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/debt-orm/build.gradle" timestamp="1504163826254">
-        <mark key="[" line="3" column="96" />
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-orm/build.gradle" timestamp="1504245307376">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1503989819359">
         <mark key="[" line="673" column="55" />
@@ -568,10 +571,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -616,7 +619,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -640,6 +643,7 @@
       </history-search>
       <history-cmd>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
