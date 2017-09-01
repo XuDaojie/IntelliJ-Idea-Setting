@@ -106,9 +106,6 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/quota/UserStatusMapper.xml" timestamp="1503905142812">
         <mark key="[" line="404" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/debt-web/src/main/java/com/ald/debt/admin/web/UserController.java" timestamp="1504179193372">
-        <mark key="^" line="23" column="78" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/debt/debt-web/src/main/java/com/ald/debt/admin/DebtWebApplication.java" timestamp="1504176622938">
         <mark key="[" line="11" column="0" />
       </file>
@@ -242,6 +239,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/README.md" timestamp="1501211468800">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-sev/src/main/java/com/ald/debt/admin/sev/declare/impl/ArcUserServiceImpl.java" timestamp="1504250127865" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/ScenePortManage/Components/SeachForm.js" timestamp="1501483966337">
         <mark key="[" line="31" column="20" />
       </file>
@@ -405,7 +403,7 @@
       <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/GreetingController.java" timestamp="1504195228023">
         <mark key="[" line="24" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504248592610">
+      <file name="/Dummy.txt" timestamp="1504249972714">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -414,7 +412,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/41a63be8-41e6-4fcd-9d32-9f9e6cf94666/console.sql" timestamp="1500542284299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/debt-orm/build.gradle" timestamp="1504247369022">
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-orm/build.gradle" timestamp="1504249765788">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="38" />
@@ -462,6 +460,11 @@
         <mark key="]" line="117" column="14" />
         <mark key="^" line="117" column="14" />
         <mark key="." line="117" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-orm/src/main/java/com/ald/debt/admin/orm/mapper/ArcUserMapper.java" timestamp="1504250176444">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
       </file>
       <file name="/fragment.java" timestamp="1504230414225">
         <mark key="[" line="0" column="0" />
@@ -574,10 +577,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>BaseMapper</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>BaseMapper</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -586,34 +589,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaC5wdXQoInZlcmlmeUlkIiwgdmVyaWZ5LmdldElkKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gc2VhcmNoID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHRrLm15YmF0aXMubWFwcGVyLmNvbW1vbi5CYXNlTWFwcGVyOwo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlcmlmeVJlc3AgdmVyaWZ5UmVzcCA9IHZlcmlmeVJlc3BTZXJ2aWNlLmZpbmRTZWxlY3RpdmUoc2VhcmNoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHRrLm15YmF0aXMubWFwcGVyLmNvbW1vbi5CYXNlTWFwcGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAyMDrlvLrpo47mjqfkurrlrqEgMzA65by66aOO5o6n5LiN6YCa6L+HCiAgICAgICAgICAgICAgICAgICAgcmVzcERhdGFKc29uLnB1dCgicmVzdWx0IiwgIjEwIik7CiAgICAgICAgICAgICAgICAgICAgdmVyaWZ5LnNldFJlc3BEYXRhKEpTT04udG9KU09OU3RyaW5nKHJlc3BEYXRhSnNvbikpOwovLyAgICAgICAgICAgICAgICAgICAgdmVyaWZ5U2VydmljZS51cGRhdGVCeUlkKHZlcmlmeSk7CgogICAgICAgICAgICAgICAgICAgIC8vIOW8uumjjuaOp+S7pXVzZXJTdGF0dXPkuK3nmoTnirbmgIHmnKrlh4YKLy8gICAgICAgICAgICAgICAgICAgIHVwZGF0ZVZlcmlmeVN0YXR1cyh1c2VyKTsKCiAgICAgICAgICAgICAgICAgICAgLy8gMjAxNy42LjE15Y+35ZCO55qEdmVyaWZ55pWw5o2u5omN5ZCM5q2l5YiwdmVyaWZ5X3Jlc3AKICAgICAgICAgICAgICAgICAgICBpZiAodmVyaWZ5UmVzcCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHF1b3RhRWRpdExvZy5zZXRPcmlnaW5WZXJpZnlSZXN1bHQodmVyaWZ5UmVzcC5nZXRSZXN1bHQoKSk7CgogICAgICAgICAgICAgICAgICAgICAgICB2ZXJpZnlSZXNwLnNldFJlc3VsdCgiMTAiKTsKICAgICAgICAgICAgICAgICAgICAgICAgdmVyaWZ5UmVzcC5zZXRDaGVja05hbWUoIumineW6puS/ruaUuS0iICsgc3lzVXNlci5nZXROYW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB2ZXJpZnlSZXNwLnNldENoZWNrVGltZShEYXRlVXRpbC5nZXROb3coKSk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgdmVyaWZ5UmVzcFNlcnZpY2UudXBkYXRlQnlJZCh2ZXJpZnlSZXNwKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaC5wdXQoInZlcmlmeUlkIiwgdmVyaWZ5LmdldElkKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSAiY29tLmRpZGlzcGFjZTpzcHJpbmctYm9vdC1zdGFydGVyLXN3YWdnZXI6MS4zLjAuUkVMRUFTRSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gc2VhcmNoID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlcmlmeVJlc3AgdmVyaWZ5UmVzcCA9IHZlcmlmeVJlc3BTZXJ2aWNlLmZpbmRTZWxlY3RpdmUoc2VhcmNoKTsK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5pdCBncmFkbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAyMDrlvLrpo47mjqfkurrlrqEgMzA65by66aOO5o6n5LiN6YCa6L+HCiAgICAgICAgICAgICAgICAgICAgcmVzcERhdGFKc29uLnB1dCgicmVzdWx0IiwgIjEwIik7CiAgICAgICAgICAgICAgICAgICAgdmVyaWZ5LnNldFJlc3BEYXRhKEpTT04udG9KU09OU3RyaW5nKHJlc3BEYXRhSnNvbikpOwovLyAgICAgICAgICAgICAgICAgICAgdmVyaWZ5U2VydmljZS51cGRhdGVCeUlkKHZlcmlmeSk7CgogICAgICAgICAgICAgICAgICAgIC8vIOW8uumjjuaOp+S7pXVzZXJTdGF0dXPkuK3nmoTnirbmgIHmnKrlh4YKLy8gICAgICAgICAgICAgICAgICAgIHVwZGF0ZVZlcmlmeVN0YXR1cyh1c2VyKTsKCiAgICAgICAgICAgICAgICAgICAgLy8gMjAxNy42LjE15Y+35ZCO55qEdmVyaWZ55pWw5o2u5omN5ZCM5q2l5YiwdmVyaWZ5X3Jlc3AKICAgICAgICAgICAgICAgICAgICBpZiAodmVyaWZ5UmVzcCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHF1b3RhRWRpdExvZy5zZXRPcmlnaW5WZXJpZnlSZXN1bHQodmVyaWZ5UmVzcC5nZXRSZXN1bHQoKSk7CgogICAgICAgICAgICAgICAgICAgICAgICB2ZXJpZnlSZXNwLnNldFJlc3VsdCgiMTAiKTsKICAgICAgICAgICAgICAgICAgICAgICAgdmVyaWZ5UmVzcC5zZXRDaGVja05hbWUoIumineW6puS/ruaUuS0iICsgc3lzVXNlci5nZXROYW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB2ZXJpZnlSZXNwLnNldENoZWNrVGltZShEYXRlVXRpbC5nZXROb3coKSk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgdmVyaWZ5UmVzcFNlcnZpY2UudXBkYXRlQnlJZCh2ZXJpZnlSZXNwKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSAiY29tLmRpZGlzcGFjZTpzcHJpbmctYm9vdC1zdGFydGVyLXN3YWdnZXI6MS4zLjAuUkVMRUFTRSIK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
