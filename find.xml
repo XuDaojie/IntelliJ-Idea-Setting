@@ -3,37 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*Controller</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.jsx</mask>
-      <mask>l</mask>
-      <mask>lo</mask>
-      <mask>log</mask>
-      <mask>log4</mask>
-      <mask>log4j</mask>
-      <mask>log4j.</mask>
-      <mask>log4j.*</mask>
-      <mask>*</mask>
-      <mask>*.js</mask>
+      <mask>![*.lo</mask>
+      <mask>![*.log</mask>
+      <mask>![*.log]</mask>
+      <mask>[*.log]</mask>
+      <mask>*.log]</mask>
+      <mask>*.log</mask>
+      <mask>*.lo</mask>
+      <mask>.</mask>
+      <mask>.j</mask>
+      <mask>.ja</mask>
+      <mask>.java</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.gradle</mask>
-      <mask>*.gradl</mask>
-      <mask>*.grad</mask>
-      <mask>*.gra</mask>
-      <mask>*.gr</mask>
-      <mask>*.g</mask>
       <mask>*.</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.p</mask>
-      <mask>*.po</mask>
-      <mask>*.pom</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.propeer</mask>
+      <mask>*.propee</mask>
+      <mask>*.prope</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
