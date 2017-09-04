@@ -29,8 +29,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/resources/application-dev.properties" timestamp="1504524775889">
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/resources/application-dev.properties" timestamp="1504537829298">
+        <mark key="[" line="2" column="18" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
@@ -303,8 +303,18 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-sev/build.gradle" timestamp="1504009548111">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-web/src/main/resources/static/index.html" timestamp="1504537301848">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-orm/build.gradle" timestamp="1504009512271">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-orm/src/main/java/com/ald/debt/admin/orm/mapper/BaseMapper.java" timestamp="1504511842883">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/CollectionDistributionService.java" timestamp="1503306486887">
         <mark key="[" line="17" column="55" />
@@ -379,6 +389,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/domain/UserDo.java" timestamp="1501741948294">
         <mark key="[" line="90" column="20" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-system/build.gradle" timestamp="1504512387760">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/build.gradle" timestamp="1500816815012">
         <mark key="[" line="11" column="68" />
       </file>
@@ -404,6 +419,11 @@
       </file>
       <file name="$USER_HOME$/ReactJS/admin/config/webpack.config.dev.js" timestamp="1502806008021">
         <mark key="[" line="158" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/java/com/ald/debt/admin/system/config/mybatis/MyBatisMapperScannerConfig.java" timestamp="1504510876367">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/.gitignore" timestamp="1504491014486">
         <mark key="[" line="17" column="0" />
@@ -459,7 +479,7 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/4765e418c9084c4e01233cb5f09bdd6b5f311ccc/commons-lang3-3.6-sources.jar!/org/apache/commons/lang3/time/DateUtils.java" timestamp="1504513564334" />
-      <file name="/Dummy.txt" timestamp="1504524678204">
+      <file name="/Dummy.txt" timestamp="1504537755029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -529,7 +549,7 @@
         <mark key="^" line="14" column="48" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1504524161052">
+      <file name="/fragment.java" timestamp="1504537755022">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -636,11 +656,11 @@
       <jump line="315" column="56" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>format</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
