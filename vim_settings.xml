@@ -87,6 +87,9 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/webapp/static/h-ui.admin/js/H-ui.admin.js" timestamp="1502181130831">
         <mark key="[" line="270" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/SystemMng/DictionaryMang/Components/AddDictionary.js" timestamp="1504596098030">
+        <mark key="[" line="51" column="27" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/resources/debt-common.properties" timestamp="1504254808828">
         <mark key="[" line="23" column="44" />
       </file>
@@ -104,6 +107,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-domain/build.gradle" timestamp="1504009532940">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/system/controller/SysUserController.java" timestamp="1504595195989" />
       <file name="/RegExp Fragment (StringUtil.java:4536).regexp" timestamp="1499831914479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,6 +116,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/resources/debt.properties" timestamp="1504254821952">
         <mark key="[" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/SystemMng/DictionaryMang/Components/DictionaryList.js" timestamp="1504596920943">
+        <mark key="[" line="114" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/resources/spring/admin-web.xml" timestamp="1503424307980">
         <mark key="[" line="27" column="82" />
@@ -160,6 +167,9 @@
       <file name="$USER_HOME$/IdeaProjects/debt/debt-sev/build.gradle" timestamp="1504248058890">
         <mark key="[" line="3" column="87" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/SystemMng/UserMang/Components/List.js" timestamp="1504595166457">
+        <mark key="[" line="239" column="122" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/build.gradle" timestamp="1504150221810">
         <mark key="[" line="17" column="25" />
       </file>
@@ -205,8 +215,8 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/UserDirectoryService.java" timestamp="1499999548966">
         <mark key="[" line="50" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1504506091825">
-        <mark key="[" line="487" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1504595222615">
+        <mark key="[" line="488" column="8" />
         <mark key="]" line="487" column="55" />
         <mark key="^" line="487" column="55" />
         <mark key="." line="487" column="55" />
@@ -235,6 +245,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumerA.java" timestamp="1501074261884">
         <mark key="[" line="25" column="61" />
       </file>
+      <file name="src:table:/2d5181b/cf933699-19f8-4b4a-b2e2-94592afa1348/arc_t.arc_sys_user" timestamp="1504595268717" />
       <file name="$USER_HOME$/IdeaProjects/debt/debt-api/exec" timestamp="1504231501461">
         <mark key="[" line="0" column="9" />
       </file>
@@ -476,7 +487,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504576629114">
+      <file name="/Dummy.txt" timestamp="1504597020730">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -652,8 +663,8 @@
       <jump line="315" column="56" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://192.168.101.65:8018/nexus/content/groups/public/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>http://192.168.101.65:8018/nexus/content/groups/public/</text>
@@ -665,40 +676,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3NwcmluZy5kYXRhc291cmNlLnRvbWNhdC5tYXgtd2FpdD0xMDAwMAojc3ByaW5nLmRhdGFzb3VyY2UudG9tY2F0Lm1pbi1pZGxlPTUKI3NwcmluZy5kYXRhc291cmNlLnRvbWNhdC5pbml0aWFsLXNpemU9NQo=</text>
+        <text encoding="base64">ICAgICAgbmV3UmVjb3JkID0ge307Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiNzcHJpbmcuZGF0YXNvdXJjZS5kcnVpZC51cmw9amRiYzpteXNxbDovLzE5Mi4xNjguMTEwLjY0OjUzMDYvdGVzdD9yZXdyaXRlQmF0Y2hlZFN0YXRlbWVudHM9dHJ1ZSZ1c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmOCZhdXRvUmVjb25uZWN0PXRydWUmemVyb0RhdGVUaW1lQmVoYXZpb3I9Y29udmVydFRvTnVsbCZhbGxvd011bHRpUXVlcmllcz10cnVlCiNzcHJpbmcuZGF0YXNvdXJjZS5kcnVpZC51c2VybmFtZT1yb290CiNzcHJpbmcuZGF0YXNvdXJjZS5kcnVpZC5wYXNzd29yZD1sdW9oYW8KI3NwcmluZy5kYXRhc291cmNlLmRydWlkLmRiLXR5cGU9Y29tLmFsaWJhYmEuZHJ1aWQucG9vbC5EcnVpZERhdGFTb3VyY2UKI3NwcmluZy5kYXRhc291cmNlLmRydWlkLmRyaXZlci1jbGFzcy1uYW1lPWNvbS5teXNxbC5qZGJjLkRyaXZlcg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">YS5iLnVybD1lL1BId3dMMTBWY2xKLzhKNHZwOFVUYUF6M1prbVVXa1hvQkZSbUxuUnYzOGFTSzkraGlTUnlZeWI0Z2dEVFdhaTJsWnVUdmdJSGxOenB2Znd4WEo4TldxZkZGeGl4dkYvVHluTXM0Q3l1WHJ5Y1MxeHlDWHFjcndXR01ZZFFzT3FDLzB1YVdUS2daWWNWRkVzejdyd2ZSNkRkMGo2QmNJV29yT0l5RzB6MnNyWm45U0EyU1VuNHRhL2o2b3FaQ3o3UXlSc1NCZ2pUQ0JKQnJzbmllWXZwTUN4blk5eG9pUmRKUzFneHZESUFhZnB3cUxBUFpXdUxraHdOVUJkL1hpCmEuYi51c2VyTmFtZT1JSkhzVXo5aURTb3FHQXIxSjNoSFFRPT0KYS5iLnBhc3N3b3JkPXp4N2xwSVdpTUJUVkhKMkljWXY5ZWc9PQphLmIudHlwZT1BUStpK3Q1eHdZY0xPSVRiNlR2cUFNWnFCajVTK1BuNjdORjYvTHZhWnpEMmJja2JaNVI2WDl6ZW9nM2t6VWRKCmEuYi5kcml2ZXItY2xhc3MtbmFtZT1NR2pjMjNKVEdybWpTT21sdXpPdTl6WnJ4RitsekxITWhzdnB3bHQ2TVNzPQoKCmEuYi5tYXgtd2FpdD0xMDAwMAphLmIubWluLWlkbGU9NQphLmIuaW5pdGlhbC1zaXplPTUK</text>
+      <register name="4" type="2">
+        <text encoding="base64">I3NwcmluZy5kYXRhc291cmNlLnRvbWNhdC5tYXgtd2FpdD0xMDAwMAojc3ByaW5nLmRhdGFzb3VyY2UudG9tY2F0Lm1pbi1pZGxlPTUKI3NwcmluZy5kYXRhc291cmNlLnRvbWNhdC5pbml0aWFsLXNpemU9NQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiNzcHJpbmcuZGF0YXNvdXJjZS5kcnVpZC51cmw9amRiYzpteXNxbDovLzE5Mi4xNjguMTEwLjY0OjUzMDYvdGVzdD9yZXdyaXRlQmF0Y2hlZFN0YXRlbWVudHM9dHJ1ZSZ1c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmOCZhdXRvUmVjb25uZWN0PXRydWUmemVyb0RhdGVUaW1lQmVoYXZpb3I9Y29udmVydFRvTnVsbCZhbGxvd011bHRpUXVlcmllcz10cnVlCiNzcHJpbmcuZGF0YXNvdXJjZS5kcnVpZC51c2VybmFtZT1yb290CiNzcHJpbmcuZGF0YXNvdXJjZS5kcnVpZC5wYXNzd29yZD1sdW9oYW8KI3NwcmluZy5kYXRhc291cmNlLmRydWlkLmRiLXR5cGU9Y29tLmFsaWJhYmEuZHJ1aWQucG9vbC5EcnVpZERhdGFTb3VyY2UKI3NwcmluZy5kYXRhc291cmNlLmRydWlkLmRyaXZlci1jbGFzcy1uYW1lPWNvbS5teXNxbC5qZGJjLkRyaXZlcg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICog5Yib5paw5LiA6YOo77yacmRjQGVyb25nZHUuY29tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICog5a6Y5pa5572R56uZ77yad3d3LmVyb25nZHUuY29tCg==</text>
+        <text encoding="base64">YS5iLnVybD1lL1BId3dMMTBWY2xKLzhKNHZwOFVUYUF6M1prbVVXa1hvQkZSbUxuUnYzOGFTSzkraGlTUnlZeWI0Z2dEVFdhaTJsWnVUdmdJSGxOenB2Znd4WEo4TldxZkZGeGl4dkYvVHluTXM0Q3l1WHJ5Y1MxeHlDWHFjcndXR01ZZFFzT3FDLzB1YVdUS2daWWNWRkVzejdyd2ZSNkRkMGo2QmNJV29yT0l5RzB6MnNyWm45U0EyU1VuNHRhL2o2b3FaQ3o3UXlSc1NCZ2pUQ0JKQnJzbmllWXZwTUN4blk5eG9pUmRKUzFneHZESUFhZnB3cUxBUFpXdUxraHdOVUJkL1hpCmEuYi51c2VyTmFtZT1JSkhzVXo5aURTb3FHQXIxSjNoSFFRPT0KYS5iLnBhc3N3b3JkPXp4N2xwSVdpTUJUVkhKMkljWXY5ZWc9PQphLmIudHlwZT1BUStpK3Q1eHdZY0xPSVRiNlR2cUFNWnFCajVTK1BuNjdORjYvTHZhWnpEMmJja2JaNVI2WDl6ZW9nM2t6VWRKCmEuYi5kcml2ZXItY2xhc3MtbmFtZT1NR2pjMjNKVEdybWpTT21sdXpPdTl6WnJ4RitsekxITWhzdnB3bHQ2TVNzPQoKCmEuYi5tYXgtd2FpdD0xMDAwMAphLmIubWluLWlkbGU9NQphLmIuaW5pdGlhbC1zaXplPTUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICog5a6Y5pa5572R56uZ77yad3d3LmVyb25nZHUuY29tCiAqIOWIm+aWsOS4gOmDqO+8mnJkY0Blcm9uZ2R1LmNvbQo=</text>
+        <text encoding="base64">ICog5Yib5paw5LiA6YOo77yacmRjQGVyb25nZHUuY29tCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ29weXJpZ2h0IOadreW3nuiejemDveenkeaKgOiCoeS7veaciemZkOWFrOWPuCAgQWxsIFJpZ2h0cyBSZXNlcnZlZAo=</text>
+        <text encoding="base64">ICog5a6Y5pa5572R56uZ77yad3d3LmVyb25nZHUuY29tCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
