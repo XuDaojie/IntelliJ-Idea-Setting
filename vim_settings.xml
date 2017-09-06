@@ -107,7 +107,6 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-domain/build.gradle" timestamp="1504009532940">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/system/controller/SysUserController.java" timestamp="1504595195989" />
       <file name="/RegExp Fragment (StringUtil.java:4536).regexp" timestamp="1499831914479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,8 +116,10 @@
       <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/resources/debt.properties" timestamp="1504254821952">
         <mark key="[" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/SystemMng/DictionaryMang/Components/DictionaryList.js" timestamp="1504596920943">
-        <mark key="[" line="114" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/SystemMng/DictionaryMang/Components/DictionaryList.js" timestamp="1504662755374">
+        <mark key="[" line="125" column="11" />
+        <mark key="]" line="125" column="11" />
+        <mark key="." line="125" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/resources/spring/admin-web.xml" timestamp="1503424307980">
         <mark key="[" line="27" column="82" />
@@ -245,7 +246,6 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/com/mq/demo/MQConsumerA.java" timestamp="1501074261884">
         <mark key="[" line="25" column="61" />
       </file>
-      <file name="src:table:/2d5181b/cf933699-19f8-4b4a-b2e2-94592afa1348/arc_t.arc_sys_user" timestamp="1504595268717" />
       <file name="$USER_HOME$/IdeaProjects/debt/debt-api/exec" timestamp="1504231501461">
         <mark key="[" line="0" column="9" />
       </file>
@@ -663,11 +663,11 @@
       <jump line="315" column="56" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/controller/UserQuotaController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>http://192.168.101.65:8018/nexus/content/groups/public/</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
