@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="gitignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="x.js" type="PLAIN_TEXT" />
       <mapping pattern="filtershow_state_button_background" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping pattern="DrawerNav" type="PLAIN_TEXT" />
       <mapping ext="3138486982" type="PLAIN_TEXT" />

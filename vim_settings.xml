@@ -9,7 +9,6 @@
       <file name="$USER_HOME$/IdeaProjects/debt/debt-sev/src/main/java/com/ald/debt/admin/sev/declare/ArcUserService.java" timestamp="1504509907259">
         <mark key="[" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/node_modules/antd/es/form/Form.d.ts" timestamp="1504853551580" />
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-quartz/build.gradle" timestamp="1504009542081">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,7 +57,6 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/ArcUserDao.java" timestamp="1501672345915">
         <mark key="[" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/CollectionManagt/Components/SeachForm.js" timestamp="1504856114633" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/ShangshuReqLogMapper.xml" timestamp="1500023658439">
         <mark key="[" line="237" column="19" />
       </file>
@@ -110,7 +108,6 @@
         <mark key="]" line="15" column="52" />
         <mark key="." line="15" column="52" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/node_modules/antd/lib/form/Form.d.ts" timestamp="1504852518908" />
       <file name="/RegExp Fragment (StringUtil.java:4536).regexp" timestamp="1499831914479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -124,6 +121,11 @@
         <mark key="[" line="125" column="11" />
         <mark key="]" line="125" column="11" />
         <mark key="." line="125" column="11" />
+      </file>
+      <file name="$USER_HOME$/ReactJS/my-app/src/components/Home/index.tsx" timestamp="1505184830723">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/resources/spring/admin-web.xml" timestamp="1503424307980">
         <mark key="[" line="27" column="82" />
@@ -264,7 +266,6 @@
       <file name="$USER_HOME$/ReactJS/my-app/src/components/index.d.ts" timestamp="1504769316440">
         <mark key="[" line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/ReactJS/my-app/node_modules/antd/es/form/index.d.ts" timestamp="1504853515383" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/StringUtil.java" timestamp="1499838222704">
         <mark key="[" line="80" column="0" />
       </file>
@@ -631,8 +632,8 @@
       <jump line="11" column="9" filename="$USER_HOME$/ReactJS/my-app/src/components/Login/Login.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>any</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgU2VsZWN0UGFyYW0gfSBmcm9tICcuLi8uLi9saWIvbWVudSc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>any</text>
@@ -644,43 +645,43 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VsZWN0UGFyYW0gfSBmcm9tICcuLi8uLi9saWIvbWVudSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTG9naW47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnN1bWVyTm8gPSByZWdpc3RlckFuZFJpc2tNb2RlbC5nZXRDb25zdW1lck5vKCk7CiAgICAgICAgdGhpcy5vcmRlck5vID0gcmVnaXN0ZXJBbmRSaXNrTW9kZWwuZ2V0T3JkZXJObygpOwogICAgICAgIHRoaXMubW9kZWwgPSByZWdpc3RlckFuZFJpc2tNb2RlbDsKICAgICAgICB0aGlzLnNjZW5lID0gcmVnaXN0ZXJBbmRSaXNrTW9kZWwuZ2V0U2NlbmUoKTsKCiAgICAgICAgdGhpcy51c2VyRGlyZWN0b3J5U2VydmljZSA9IChVc2VyRGlyZWN0b3J5U2VydmljZSkgQmVhblV0aWwuZ2V0QmVhbigidXNlckRpcmVjdG9yeVNlcnZpY2UiKTsKICAgICAgICB0aGlzLmRzZGF0YVNoYW5nc2h1U2VydmljZSA9IChEc2RhdGFTaGFuZ3NodVNlcnZpY2UpIEJlYW5VdGlsLmdldEJlYW4oImRzZGF0YVNoYW5nc2h1U2VydmljZSIpOwogICAgICAgIHRoaXMuc2hhbmdzaHVSZXFMb2dTZXJ2aWNlID0gKFNoYW5nc2h1UmVxTG9nU2VydmljZSkgQmVhblV0aWwuZ2V0QmVhbigic2hhbmdzaHVSZXFMb2dTZXJ2aWNlIik7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTG9naW47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEhvbWUgZnJvbSAnLi9jb21wb25lbnRzL0hvbWUnOwovLyBpbXBvcnQgQWJvdXQgZnJvbSAnLi9jb21wb25lbnRzL0Fib3V0JzsKLy8gaW1wb3J0IFRvcGljcyBmcm9tICcuL2NvbXBvbmVudHMvVG9waWNzJzsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnN1bWVyTm8gPSByZWdpc3RlckFuZFJpc2tNb2RlbC5nZXRDb25zdW1lck5vKCk7CiAgICAgICAgdGhpcy5vcmRlck5vID0gcmVnaXN0ZXJBbmRSaXNrTW9kZWwuZ2V0T3JkZXJObygpOwogICAgICAgIHRoaXMubW9kZWwgPSByZWdpc3RlckFuZFJpc2tNb2RlbDsKICAgICAgICB0aGlzLnNjZW5lID0gcmVnaXN0ZXJBbmRSaXNrTW9kZWwuZ2V0U2NlbmUoKTsKCiAgICAgICAgdGhpcy51c2VyRGlyZWN0b3J5U2VydmljZSA9IChVc2VyRGlyZWN0b3J5U2VydmljZSkgQmVhblV0aWwuZ2V0QmVhbigidXNlckRpcmVjdG9yeVNlcnZpY2UiKTsKICAgICAgICB0aGlzLmRzZGF0YVNoYW5nc2h1U2VydmljZSA9IChEc2RhdGFTaGFuZ3NodVNlcnZpY2UpIEJlYW5VdGlsLmdldEJlYW4oImRzZGF0YVNoYW5nc2h1U2VydmljZSIpOwogICAgICAgIHRoaXMuc2hhbmdzaHVSZXFMb2dTZXJ2aWNlID0gKFNoYW5nc2h1UmVxTG9nU2VydmljZSkgQmVhblV0aWwuZ2V0QmVhbigic2hhbmdzaHVSZXFMb2dTZXJ2aWNlIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gPFJvdXRlcj4KICAgICAgLy8gICA8ZGl2PgogICAgICAvLyAgICAgPHVsPgogICAgICAvLyAgICAgICA8bGk+PExpbmsgdG89Ii8iPummlumhtTwvTGluaz48L2xpPgogICAgICAvLyAgICAgICA8bGk+PExpbmsgdG89Ii9hYm91dCI+5YWz5LqOPC9MaW5rPjwvbGk+CiAgICAgIC8vICAgICAgIDxsaT48TGluayB0bz0iL3RvcGljcyI+5Li76aKY5YiX6KGoPC9MaW5rPjwvbGk+CiAgICAgIC8vICAgICAgIDxsaT48TGluayB0bz0iL2xvZ2luIj7nmbvlvZU8L0xpbms+PC9saT4gCiAgICAgIC8vICAgICA8L3VsPgoKICAgICAgLy8gICAgIDxoci8+CgogICAgICAvLyAgICAgPFJvdXRlIGV4YWN0PXt0cnVlfSBwYXRoPSIvIiBjb21wb25lbnQ9e0hvbWV9Lz4KICAgICAgLy8gICAgIDxSb3V0ZSBwYXRoPSIvYWJvdXQiIGNvbXBvbmVudD17QWJvdXR9Lz4KICAgICAgLy8gICAgIDxSb3V0ZSBwYXRoPSIvdG9waWNzIiBjb21wb25lbnQ9e1RvcGljc30vPgogICAgICAvLyAgICAgPFJvdXRlIHBhdGg9Ii9sb2dpbiIgY29tcG9uZW50PXtMb2dpbn0vPgogICAgICAvLyAgIDwvZGl2PgogICAgICAvLyA8L1JvdXRlcj4K</text>
+        <text encoding="base64">Ly8gaW1wb3J0IEhvbWUgZnJvbSAnLi9jb21wb25lbnRzL0hvbWUnOwovLyBpbXBvcnQgQWJvdXQgZnJvbSAnLi9jb21wb25lbnRzL0Fib3V0JzsKLy8gaW1wb3J0IFRvcGljcyBmcm9tICcuL2NvbXBvbmVudHMvVG9waWNzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gPFJvdXRlcj4KICAgICAgLy8gICA8ZGl2PgogICAgICAvLyAgICAgPHVsPgogICAgICAvLyAgICAgICA8bGk+PExpbmsgdG89Ii8iPummlumhtTwvTGluaz48L2xpPgogICAgICAvLyAgICAgICA8bGk+PExpbmsgdG89Ii9hYm91dCI+5YWz5LqOPC9MaW5rPjwvbGk+CiAgICAgIC8vICAgICAgIDxsaT48TGluayB0bz0iL3RvcGljcyI+5Li76aKY5YiX6KGoPC9MaW5rPjwvbGk+CiAgICAgIC8vICAgICAgIDxsaT48TGluayB0bz0iL2xvZ2luIj7nmbvlvZU8L0xpbms+PC9saT4gCiAgICAgIC8vICAgICA8L3VsPgoKICAgICAgLy8gICAgIDxoci8+CgogICAgICAvLyAgICAgPFJvdXRlIGV4YWN0PXt0cnVlfSBwYXRoPSIvIiBjb21wb25lbnQ9e0hvbWV9Lz4KICAgICAgLy8gICAgIDxSb3V0ZSBwYXRoPSIvYWJvdXQiIGNvbXBvbmVudD17QWJvdXR9Lz4KICAgICAgLy8gICAgIDxSb3V0ZSBwYXRoPSIvdG9waWNzIiBjb21wb25lbnQ9e1RvcGljc30vPgogICAgICAvLyAgICAgPFJvdXRlIHBhdGg9Ii9sb2dpbiIgY29tcG9uZW50PXtMb2dpbn0vPgogICAgICAvLyAgIDwvZGl2PgogICAgICAvLyA8L1JvdXRlcj4K</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICAvLyBCcm93c2VyUm91dGVyIGFzIFJvdXRlciwKICAvLyBSb3V0ZSwKICAvLyBMaW5rCn0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>// import styles from './components/index.less';
-// import './App.less';
-// import styles from './components/index.less';
-// import './index.less'</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsKICAvLyBCcm93c2VyUm91dGVyIGFzIFJvdXRlciwKICAvLyBSb3V0ZSwKICAvLyBMaW5rCn0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbSc7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEZvcm1JdGVtIGZyb20gImFudGQvbGliL2Zvcm0vRm9ybUl0ZW0iOwo=</text>
+      <register name="9" type="4">
+        <text>// import styles from './components/index.less';
+// import './App.less';
+// import styles from './components/index.less';
+// import './index.less'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
