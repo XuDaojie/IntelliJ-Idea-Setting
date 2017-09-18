@@ -194,7 +194,7 @@
         <mark key="[" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/debt/debt-web/src/main/java/com/ald/debt/web/TokenUtils.java" timestamp="1505713974847">
-        <mark key="[" line="17" column="45" />
+        <mark key="[" line="18" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/frame/stores/TabListStore.js" timestamp="1502939050831">
         <mark key="[" line="320" column="10" />
@@ -259,7 +259,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/debt/debt-domain/src/main/java/com/ald/debt/domain/du/User.java" timestamp="1505705621237">
-        <mark key="[" line="13" column="3" />
+        <mark key="[" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/CollectionDistributionService.java" timestamp="1503306486887">
         <mark key="[" line="17" column="55" />
@@ -276,6 +276,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Public/SystemManagement/ProducttypeManagement/Components/SeachForm.js" timestamp="1500452249091">
         <mark key="[" line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba/druid/1.1.2/47c5516ce9dc37b6f0f53df2b421a04720d233ea/druid-1.1.2-sources.jar!/com/alibaba/druid/filter/config/ConfigFilter.java" timestamp="1505721364998" />
       <file name="$USER_HOME$/IdeaProjects/debt/debt-domain/src/main/java/com/ald/debt/admin/domain/utils/DateUtil.java" timestamp="1504513896218">
         <mark key="[" line="552" column="36" />
       </file>
@@ -358,11 +359,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/bo/UserContactBo.java" timestamp="1501744631670">
         <mark key="[" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/AccountController.java" timestamp="1505707269857" />
+      <file name="$USER_HOME$/IdeaProjects/JDoc/src/main/java/io/github/xudaojie/jdoc/controller/AccountController.java" timestamp="1505721549231" />
       <file name="$USER_HOME$/IdeaProjects/debt/debt-orm/src/main/java/com/ald/debt/orm/mapper/UserMapper.java" timestamp="1505704872748">
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-web/src/main/java/com/ald/fanbei/admin/web/sys/controller/ConllectionController.java" timestamp="1501145933450">
         <mark key="[" line="2" column="36" />
@@ -382,11 +383,11 @@
       <file name="$USER_HOME$/ReactJS/my-app/src/App.tsx" timestamp="1504769290019">
         <mark key="[" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/debt-web/src/main/java/com/ald/debt/web/UserController.java" timestamp="1505706537376">
-        <mark key="[" line="58" column="12" />
-        <mark key="]" line="56" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-web/src/main/java/com/ald/debt/web/UserController.java" timestamp="1505721546946">
+        <mark key="[" line="54" column="53" />
+        <mark key="]" line="54" column="53" />
         <mark key="^" line="56" column="33" />
-        <mark key="." line="56" column="33" />
+        <mark key="." line="54" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1505704639172">
         <mark key="y" line="0" column="2" />
@@ -533,11 +534,11 @@
       <jump line="11" column="9" filename="$USER_HOME$/ReactJS/my-app/src/components/Login/Login.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBVc2VyTWFwcGVyIGV4dGVuZHMgQmFzZU1hcHBlcjxVc2VyPiB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>accountModel</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>accountModel</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
