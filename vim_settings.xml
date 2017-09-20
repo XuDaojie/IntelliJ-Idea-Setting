@@ -315,11 +315,11 @@
       <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/java/com/ald/debt/system/config/generator/Create.java" timestamp="1504515375779">
         <mark key="[" line="32" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/EventCenter/Components/Detail.js" timestamp="1505895329691">
-        <mark key="[" line="327" column="28" />
-        <mark key="]" line="334" column="22" />
-        <mark key="." line="334" column="22" />
-        <mark key="^" line="334" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/EventCenter/Components/Detail.js" timestamp="1505897402760">
+        <mark key="[" line="66" column="37" />
+        <mark key="]" line="66" column="37" />
+        <mark key="." line="66" column="37" />
+        <mark key="^" line="353" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/creditrank/ScoreRank/Components/AddRole.js" timestamp="1501483714912">
         <mark key="[" line="36" column="28" />
@@ -544,10 +544,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDxDb2w+CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICA8L0NvbD4=</text>
+        <text>{ textAlign: 'right' }</text>
       </register>
       <register name="-" type="4">
-        <text>授权总额度</text>
+        <text>{ textAlign: 'right' }</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
