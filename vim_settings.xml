@@ -81,7 +81,7 @@
       <file name="$USER_HOME$/IdeaProjects/debt/debt-sev/src/main/java/com/ald/debt/sev/declare/UserService.java" timestamp="1505792775774">
         <mark key="[" line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/system/controller/SysUserController.java" timestamp="1506327444539" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/system/controller/SysUserController.java" timestamp="1506331112142" />
       <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/resources/application-common.properties" timestamp="1505791221821">
         <mark key="[" line="23" column="44" />
       </file>
@@ -381,6 +381,12 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-system/src/main/resources/debt.properties" timestamp="1504007640971">
         <mark key="[" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/system/SysUserMapper.xml" timestamp="1506331642563">
+        <mark key="[" line="182" column="33" />
+        <mark key="]" line="182" column="32" />
+        <mark key="." line="182" column="32" />
+        <mark key="^" line="182" column="32" />
+      </file>
       <file name="$USER_HOME$/ReactJS/admin/config/webpack.config.dev.js" timestamp="1502806008021">
         <mark key="[" line="158" column="35" />
       </file>
@@ -426,7 +432,7 @@
         <mark key="^" line="51" column="7" />
         <mark key="." line="51" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506327399257">
+      <file name="/Dummy.txt" timestamp="1506331377262">
         <mark key="y" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -442,6 +448,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1503989819359">
         <mark key="[" line="673" column="55" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/system/service/impl/SysUserServiceImpl.java" timestamp="1506331136200" />
       <file name="$USER_HOME$/IdeaProjects/debt/debt-web/src/main/java/com/ald/debt/web/filter/HeaderFilter.java" timestamp="1505811486003">
         <mark key="[" line="24" column="10" />
         <mark key="]" line="57" column="54" />
@@ -468,10 +475,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/XinXinList.js" timestamp="1500449787792">
         <mark key="[" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/List.js" timestamp="1505976439537">
-        <mark key="[" line="283" column="87" />
-        <mark key="]" line="283" column="87" />
-        <mark key="." line="283" column="87" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/List.js" timestamp="1506332005764">
+        <mark key="[" line="279" column="20" />
+        <mark key="]" line="279" column="19" />
+        <mark key="." line="279" column="19" />
+        <mark key="^" line="279" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/activemq/src/main/java/fisrt/Listener.java" timestamp="1500813995895">
         <mark key="[" line="42" column="11" />
@@ -490,7 +498,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1506067210586">
+      <file name="/fragment.java" timestamp="1506331067457">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -597,11 +605,11 @@
       <jump line="48" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGFuZCBlbWFpbCE9Jycg</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text encoding="base64">IGFuZCBlbWFpbCE9Jycg</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
