@@ -76,10 +76,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc_collection/51fbadmin-biz/src/main/java/com/ald/fanbei/admin/biz/service/ArcCollectionService.java" timestamp="1503405379655">
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/AtlasAnalysis.js" timestamp="1506417344743">
-        <mark key="[" line="143" column="22" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/AtlasAnalysis.js" timestamp="1506481416853">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc_collection_new/debt-domain/build.gradle" timestamp="1504009532940">
         <mark key="[" line="0" column="0" />
@@ -88,10 +88,10 @@
         <mark key="[" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/system/controller/SysUserController.java" timestamp="1506331112142" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/Detail.js" timestamp="1506416847300">
-        <mark key="[" line="31" column="10" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/Detail.js" timestamp="1506483888981">
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="54" column="37" />
+        <mark key="." line="54" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/resources/application-common.properties" timestamp="1505791221821">
         <mark key="[" line="23" column="44" />
@@ -364,11 +364,11 @@
         <mark key="." line="60" column="33" />
         <mark key="^" line="353" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/List.js" timestamp="1506479522306">
-        <mark key="[" line="250" column="4" />
-        <mark key="]" line="250" column="4" />
-        <mark key="." line="250" column="4" />
-        <mark key="^" line="255" column="78" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/List.js" timestamp="1506483124352">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="46" column="5" />
+        <mark key="." line="46" column="5" />
+        <mark key="^" line="226" column="78" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/creditrank/ScoreRank/Components/AddRole.js" timestamp="1501483714912">
         <mark key="[" line="36" column="28" />
@@ -488,6 +488,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/XinXinList.js" timestamp="1500449787792">
         <mark key="[" line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/node_modules/react/dist/react.js" timestamp="1506482282029" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/List.js" timestamp="1506332005764">
         <mark key="[" line="279" column="20" />
         <mark key="]" line="279" column="19" />
@@ -619,10 +620,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text encoding="base64">JiYgdGhpcy5zdGF0ZS5kYXRhICE9PSB1bmRlZmluZWQ=</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text encoding="base64">JiYgdGhpcy5zdGF0ZS5kYXRhICE9PSB1bmRlZmluZWQ=</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -630,25 +631,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8Rm9ybUl0ZW0gbGFiZWw9IuaOiOadg+aAu+mineW6pu+8miI+CiAgICAgICAgICAgICAgICA8SW5wdXQgdHlwZT0idGV4dCIgey4uLmdldEZpZWxkUHJvcHMoJ2RldmljZScpfSAvPgogICAgICAgICAgICAgIDwvRm9ybUl0ZW0+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwYWdpbmF0aW9uID0gdGhpcy5zdGF0ZS5wYWdpbmF0aW9uOwogICAgICAgIHBhZ2luYXRpb24uY3VycmVudCA9IHBhcmFtcy5jdXJyZW50UGFnZTsKICAgICAgICBwYWdpbmF0aW9uLnBhZ2VTaXplID0gcGFyYW1zLnBhZ2VTaXplOwogICAgICAgIC8vIHBhZ2luYXRpb24udG90YWwgPSByZXN1bHQucGFnZS50b3RhbDsKICAgICAgICBpZiAoIXBhZ2luYXRpb24uY3VycmVudCkgewogICAgICAgICAgcGFnaW5hdGlvbi5jdXJyZW50ID0gMQogICAgICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">LCAoKSA9PiB7CiAgICAgIGlmICh0aXRsZSA9PT0gIue8lui+kSIpIHsKICAgICAgICBVdGlscy5hamF4RGF0YSh7CiAgICAgICAgICB1cmw6ICcvbW9kdWxlcy9tYW5hZ2UvcnVsZS9nZXRSdWxlSW5mby5odG0nLAogICAgICAgICAgZGF0YTogewogICAgICAgICAgICBpZDogcmVjb3JkLmlkCiAgICAgICAgICB9LAogICAgICAgICAgY2FsbGJhY2s6IChyZXN1bHQpID0+IHsKICAgICAgICAgICAgLy9jb25zb2xlLmxvZygiMDAwMCIscmVzdWx0KTsKICAgICAgICAgICAgLy9yZXN1bHQuZGF0YS5kZXRhaWw9SlNPTi5wYXJzZShyZXN1bHQuZGF0YS5kZXRhaWwpCiAgICAgICAgICAgIC8vIHRoaXMucmVmcy5BZGRXaW4uc2V0RmllbGRzVmFsdWUocmVzdWx0LmRhdGEpOwogICAgICAgICAgICB2YXIgZGF0YU5hbWUgPSBbXTsKICAgICAgICAgICAgcmVzdWx0LmRhdGEuZGV0YWlsLmZvckVhY2goaXRlbSA9PiB7CiAgICAgICAgICAgICAgZGF0YU5hbWUucHVzaChpdGVtLm5hbWUpCiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgZGF0YVJlY29yZDogcmVzdWx0LmRhdGEsCiAgICAgICAgICAgICAgZGF0YU5hbWU6IGRhdGFOYW1lCiAgICAgICAgICAgIH0pOwogICAgICAgICAgfQogICAgICAgIH0pOwogICAgICB9CiAgICB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZ2luYXRpb24K</text>
+      <register name="2" type="4">
+        <text encoding="base64">IG9uUm93Q2xpY2socmVjb3JkKSB7CiAgICB2YXIgaWQgPSByZWNvcmQuaWQ7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgc2VsZWN0ZWRSb3dLZXlzOiBbaWRdLAogICAgICByZWNvcmQ6IHJlY29yZAogICAgfSk7CiAgfSw=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBwYWdpbmF0aW9uID0gdGhpcy5zdGF0ZS5wYWdpbmF0aW9uOwogICAgICAgIHBhZ2luYXRpb24uY3VycmVudCA9IHBhcmFtcy5jdXJyZW50UGFnZTsKICAgICAgICBwYWdpbmF0aW9uLnBhZ2VTaXplID0gcGFyYW1zLnBhZ2VTaXplOwogICAgICAgIC8vIHBhZ2luYXRpb24udG90YWwgPSByZXN1bHQucGFnZS50b3RhbDsKICAgICAgICBpZiAoIXBhZ2luYXRpb24uY3VycmVudCkgewogICAgICAgICAgcGFnaW5hdGlvbi5jdXJyZW50ID0gMQogICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHBhZ2luYXRpb24K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CiAgICAgICAgLy8gcGFnaW5hdGlvbi50b3RhbCA9IHJlc3VsdC5wYWdlLnRvdGFsOwogICAgICAgIGlmICghcGFnaW5hdGlvbi5jdXJyZW50KSB7CiAgICAgICAgICBwYWdpbmF0aW9uLmN1cnJlbnQgPSAxCiAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBjb25zdCBwYWdpbmF0aW9uID0gdGhpcy5zdGF0ZS5wYWdpbmF0aW9uOwogICAgICAgIHBhZ2luYXRpb24uY3VycmVudCA9IHBhcmFtcy5jdXJyZW50UGFnZTsKICAgICAgICBwYWdpbmF0aW9uLnBhZ2VTaXplID0gcGFyYW1zLnBhZ2VTaXplOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IC8v5YiG6aG1CiAgaGFuZGxlVGFibGVDaGFuZ2UocGFnaW5hdGlvbiwgZmlsdGVycywgc29ydGVyKSB7CiAgICBjb25zdCBwYWdlciA9IHRoaXMuc3RhdGUucGFnaW5hdGlvbjsKICAgIHBhZ2VyLmN1cnJlbnQgPSBwYWdpbmF0aW9uLmN1cnJlbnQ7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgcGFnaW5hdGlvbjogcGFnZXIsCiAgICB9KTsKICAgIHRoaXMucmVmcmVzaExpc3QoKTsKICB9LA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="x" type="4">
+        <text>null</text>
+      </register>
+      <register name="9" type="4">
         <text>const styles = {
   antAdvancedFormFirst: {
     padding: '8px',
@@ -667,21 +683,6 @@
     textAlign: 'right',
   },
 };</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzKG5leHRQcm9wcywgbmV4dFN0YXRlKSB7CiAgICB0aGlzLmZldGNoKG5leHRQcm9wcy5wYXJhbXMpOwogIH0=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="x" type="4">
-        <text>null</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
