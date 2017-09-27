@@ -364,10 +364,10 @@
         <mark key="." line="60" column="33" />
         <mark key="^" line="353" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/List.js" timestamp="1506412331747">
-        <mark key="[" line="77" column="1" />
-        <mark key="]" line="77" column="1" />
-        <mark key="." line="77" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/List.js" timestamp="1506479522306">
+        <mark key="[" line="250" column="4" />
+        <mark key="]" line="250" column="4" />
+        <mark key="." line="250" column="4" />
         <mark key="^" line="255" column="78" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/creditrank/ScoreRank/Components/AddRole.js" timestamp="1501483714912">
@@ -618,11 +618,11 @@
       <jump line="48" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwYWdpbmF0aW9uID0gdGhpcy5zdGF0ZS5wYWdpbmF0aW9uOwogICAgICAgIHBhZ2luYXRpb24uY3VycmVudCA9IHBhcmFtcy5jdXJyZW50UGFnZTsKICAgICAgICBwYWdpbmF0aW9uLnBhZ2VTaXplID0gcGFyYW1zLnBhZ2VTaXplOwogICAgICAgIC8vIHBhZ2luYXRpb24udG90YWwgPSByZXN1bHQucGFnZS50b3RhbDsKICAgICAgICBpZiAoIXBhZ2luYXRpb24uY3VycmVudCkgewogICAgICAgICAgcGFnaW5hdGlvbi5jdXJyZW50ID0gMQogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
