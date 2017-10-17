@@ -16,8 +16,8 @@
         <mark key="]" line="26" column="13" />
         <mark key="." line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1507886500760">
-        <mark key="[" line="309" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1508238418645">
+        <mark key="[" line="319" column="13" />
         <mark key="]" line="309" column="33" />
         <mark key="." line="309" column="33" />
       </file>
@@ -49,7 +49,7 @@
       <file name="/dummy.sql" timestamp="1508219991929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508227111908">
+      <file name="/Dummy.txt" timestamp="1508238675996">
         <mark key="y" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -62,11 +62,12 @@
         <mark key="." line="124" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/CollectionManagt/Components/List.js" timestamp="1508226787352" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1508155277208">
-        <mark key="[" line="137" column="22" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="137" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1508239236756" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1508238429492">
+        <mark key="[" line="138" column="57" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="138" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/debt/debt-web/src/main/java/com/ald/debt/web/BaseResponse.java" timestamp="1505701888393">
         <mark key="[" line="29" column="5" />
@@ -77,12 +78,6 @@
         <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="30" />
         <mark key="." line="12" column="30" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/List.js" timestamp="1507812040731">
-        <mark key="x" line="200" column="17" />
-        <mark key="[" line="92" column="4" />
-        <mark key="]" line="92" column="4" />
-        <mark key="." line="92" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/SeachForm.js" timestamp="1507795477124">
         <mark key="[" line="21" column="33" />
@@ -207,10 +202,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text>修复</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>修复</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
