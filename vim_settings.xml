@@ -68,17 +68,17 @@
         <mark key="." line="124" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/AtlasAnalysis.js" timestamp="1508398606084">
-        <mark key="[" line="66" column="4" />
-        <mark key="]" line="66" column="4" />
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="4" />
         <mark key="^" line="24" column="25" />
-        <mark key="." line="66" column="4" />
+        <mark key="." line="68" column="4" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/tsconfig.json" timestamp="1508242987886">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/Detail.js" timestamp="1508394645411">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/Detail.js" timestamp="1508400936225">
         <mark key="[" line="119" column="49" />
         <mark key="]" line="61" column="11" />
         <mark key="^" line="61" column="11" />
@@ -100,10 +100,10 @@
         <mark key="]" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/List.js" timestamp="1508394122291">
-        <mark key="[" line="248" column="38" />
-        <mark key="]" line="248" column="38" />
-        <mark key="." line="248" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/List.js" timestamp="1508401235744">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="." line="259" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/SeachForm.js" timestamp="1507795477124">
         <mark key="[" line="21" column="33" />
@@ -229,23 +229,8 @@
       <jump line="61" column="9" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/mapper/VerifyMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>if (this.props.showType === 'consumerNo') {
-      query = {
-        ...query,
-        consumerNo: condition,
-      };
-    } if (this.props.showType === 'deviceUuid') {
-      query = {
-        ...query,
-        deviceUuid: condition,
-      };
-    } if (this.props.showType === 'ip') {
-      query = {
-        ...query,
-        ip: condition,
-      };
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWN0aW9uQnRucyIgc3R5bGU9e3ttYXJnaW5Cb3R0b206IDE2fX0+CiAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYW50LWJ0biIgb25DbGljaz17dGhpcy5zaG93TW9kYWwuYmluZCh0aGlzLCAn5paw5aKeJywgcmVjb3JkLCB0cnVlKX0+CiAgICAgICAgICAgIOaWsOWingogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>condition</text>
@@ -256,7 +241,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWN0aW9uQnRucyIgc3R5bGU9e3ttYXJnaW5Cb3R0b206IDE2fX0+CiAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYW50LWJ0biIgb25DbGljaz17dGhpcy5zaG93TW9kYWwuYmluZCh0aGlzLCAn5paw5aKeJywgcmVjb3JkLCB0cnVlKX0+CiAgICAgICAgICAgIOaWsOWingogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>if (this.props.showType === 'consumerNo') {
       query = {
         ...query,
@@ -274,45 +262,42 @@
       };
     }</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>query = {
       ...query,
       consumerNo: condition,
     };</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>consumerNo: undefined,
     deviceUuid: undefined,
     ip: undefined,</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZWxzZSBpZiAobmV4dFByb3BzLmRhdGEgIT09IHVuZGVmaW5lZCAmJiB0aGlzLnN0YXRlLmRhdGEgPT09IHVuZGVmaW5lZCkgewogICAgICAvLyDor7fmsYLliLDkuKrkurrkv6Hmga/lkI7op6blj5EKICAgICAgY29uc29sZS5sb2cobmV4dFN0YXRlKTsKICAgIH0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>const data = {
         ...nextState.data,
       };</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">5ZCI5bm2ZGV2LTYxOC1ldmVudAo=</text>
-      </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PENvbCBzcGFuPXs4fSBzdHlsZT17c3R5bGVzLmNvbH0+CiAgICAgICAgICAgICAgICAgIDwvQ29sPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">5ZCI5bm2ZGV2LTYxOC1ldmVudAo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IDxGb3JtSXRlbSB7Li4uZm9ybUl0ZW1MYXlvdXR9IGxhYmVsPSLkuovku7blkI3np7DvvJoiPgogICAgICAgICAgICAgICAgICAgICAgPElucHV0IHR5cGU9InRleHQiIHsuLi5nZXRGaWVsZFByb3BzKCdldmVudFR5cGUnKX0gLz4KICAgICAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPg==</text>
+        <text encoding="base64">PENvbCBzcGFuPXs4fSBzdHlsZT17c3R5bGVzLmNvbH0+CiAgICAgICAgICAgICAgICAgIDwvQ29sPg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxJbnB1dCB0eXBlPSJ0ZXh0IiB7Li4uZ2V0RmllbGRQcm9wcygnZXZlbnRUeXBlJyl9IC8+Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IDxGb3JtSXRlbSB7Li4uZm9ybUl0ZW1MYXlvdXR9IGxhYmVsPSLkuovku7blkI3np7DvvJoiPgogICAgICAgICAgICAgICAgICAgICAgPElucHV0IHR5cGU9InRleHQiIHsuLi5nZXRGaWVsZFByb3BzKCdldmVudFR5cGUnKX0gLz4KICAgICAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
