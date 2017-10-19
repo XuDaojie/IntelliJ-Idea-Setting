@@ -26,8 +26,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1508391088440">
-        <mark key="[" line="164" column="47" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1508403266449">
+        <mark key="[" line="65" column="64" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/server.properties" timestamp="1508154888499">
         <mark key="[" line="10" column="24" />
@@ -36,9 +38,7 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1508397340258" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1508397340258" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1508380047774">
-        <mark key="[" line="48" column="58" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1508402910313" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/RiskCheck/Components/SeachForm.js" timestamp="1507887191842">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -55,7 +55,7 @@
       <file name="/dummy.sql" timestamp="1508298039576">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508394237204">
+      <file name="/Dummy.txt" timestamp="1508403469150">
         <mark key="y" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -67,11 +67,11 @@
         <mark key="]" line="124" column="29" />
         <mark key="." line="124" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/AtlasAnalysis.js" timestamp="1508398606084">
-        <mark key="[" line="68" column="4" />
-        <mark key="]" line="68" column="4" />
-        <mark key="^" line="24" column="25" />
-        <mark key="." line="68" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/AtlasAnalysis.js" timestamp="1508402572204">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="197" column="14" />
+        <mark key="^" line="197" column="14" />
+        <mark key="." line="197" column="14" />
       </file>
       <file name="$USER_HOME$/ReactJS/my-app/tsconfig.json" timestamp="1508242987886">
         <mark key="[" line="11" column="16" />
@@ -105,6 +105,12 @@
         <mark key="]" line="259" column="0" />
         <mark key="." line="259" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1508403397421">
+        <mark key="[" line="509" column="96" />
+        <mark key="]" line="502" column="12" />
+        <mark key="^" line="502" column="12" />
+        <mark key="." line="502" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/SeachForm.js" timestamp="1507795477124">
         <mark key="[" line="21" column="33" />
         <mark key="]" line="21" column="34" />
@@ -119,7 +125,7 @@
         <mark key="]" line="379" column="45" />
         <mark key="." line="379" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/List.js" timestamp="1508396531528">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/List.js" timestamp="1508402556596">
         <mark key="[" line="191" column="83" />
         <mark key="]" line="191" column="101" />
         <mark key="." line="191" column="101" />
@@ -229,11 +235,11 @@
       <jump line="61" column="9" filename="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/mapper/VerifyMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWN0aW9uQnRucyIgc3R5bGU9e3ttYXJnaW5Cb3R0b206IDE2fX0+CiAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYW50LWJ0biIgb25DbGljaz17dGhpcy5zaG93TW9kYWwuYmluZCh0aGlzLCAn5paw5aKeJywgcmVjb3JkLCB0cnVlKX0+CiAgICAgICAgICAgIOaWsOWingogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>consumerNo</text>
       </register>
       <register name="-" type="4">
-        <text>condition</text>
+        <text>consumerNo</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -242,9 +248,15 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWN0aW9uQnRucyIgc3R5bGU9e3ttYXJnaW5Cb3R0b206IDE2fX0+CiAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYW50LWJ0biIgb25DbGljaz17dGhpcy5zaG93TW9kYWwuYmluZCh0aGlzLCAn5paw5aKeJywgcmVjb3JkLCB0cnVlKX0+CiAgICAgICAgICAgIOaWsOWingogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>if (this.props.showType === 'consumerNo') {
       query = {
         ...query,
@@ -262,42 +274,36 @@
       };
     }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>query = {
       ...query,
       consumerNo: condition,
     };</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>consumerNo: undefined,
     deviceUuid: undefined,
     ip: undefined,</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZWxzZSBpZiAobmV4dFByb3BzLmRhdGEgIT09IHVuZGVmaW5lZCAmJiB0aGlzLnN0YXRlLmRhdGEgPT09IHVuZGVmaW5lZCkgewogICAgICAvLyDor7fmsYLliLDkuKrkurrkv6Hmga/lkI7op6blj5EKICAgICAgY29uc29sZS5sb2cobmV4dFN0YXRlKTsKICAgIH0=</text>
-      </register>
       <register name="6" type="4">
-        <text>const data = {
-        ...nextState.data,
-      };</text>
+        <text encoding="base64">ZWxzZSBpZiAobmV4dFByb3BzLmRhdGEgIT09IHVuZGVmaW5lZCAmJiB0aGlzLnN0YXRlLmRhdGEgPT09IHVuZGVmaW5lZCkgewogICAgICAvLyDor7fmsYLliLDkuKrkurrkv6Hmga/lkI7op6blj5EKICAgICAgY29uc29sZS5sb2cobmV4dFN0YXRlKTsKICAgIH0=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">5ZCI5bm2ZGV2LTYxOC1ldmVudAo=</text>
+      <register name="7" type="4">
+        <text>const data = {
+        ...nextState.data,
+      };</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PENvbCBzcGFuPXs4fSBzdHlsZT17c3R5bGVzLmNvbH0+CiAgICAgICAgICAgICAgICAgIDwvQ29sPg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">5ZCI5bm2ZGV2LTYxOC1ldmVudAo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IDxGb3JtSXRlbSB7Li4uZm9ybUl0ZW1MYXlvdXR9IGxhYmVsPSLkuovku7blkI3np7DvvJoiPgogICAgICAgICAgICAgICAgICAgICAgPElucHV0IHR5cGU9InRleHQiIHsuLi5nZXRGaWVsZFByb3BzKCdldmVudFR5cGUnKX0gLz4KICAgICAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPg==</text>
+        <text encoding="base64">PENvbCBzcGFuPXs4fSBzdHlsZT17c3R5bGVzLmNvbH0+CiAgICAgICAgICAgICAgICAgIDwvQ29sPg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
