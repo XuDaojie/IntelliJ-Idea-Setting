@@ -31,10 +31,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/AtlasAnalysis.js" timestamp="1508415401420">
-        <mark key="[" line="176" column="3" />
-        <mark key="]" line="176" column="15" />
-        <mark key="." line="176" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/AtlasAnalysis.js" timestamp="1508418671023">
+        <mark key="[" line="292" column="113" />
+        <mark key="]" line="292" column="113" />
+        <mark key="." line="292" column="113" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/Detail.js" timestamp="1508412957969">
         <mark key="[" line="119" column="49" />
@@ -54,7 +54,7 @@
         <mark key="." line="206" column="64" />
         <mark key="^" line="201" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/AtlasAnalysis.js" timestamp="1508417391452">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/AtlasAnalysis.js" timestamp="1508418123267">
         <mark key="[" line="291" column="93" />
         <mark key="]" line="294" column="58" />
         <mark key="^" line="294" column="58" />
@@ -181,10 +181,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>backgroundColor: '#BDBDBD'</text>
+        <text>new Date(Date.now() - 1000 * 60 * 60 * 24 * 14), Date.now()</text>
       </register>
       <register name="-" type="4">
-        <text>backgroundColor: '#BDBDBD'</text>
+        <text>new Date(Date.now() - 1000 * 60 * 60 * 24 * 14), Date.now()</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
