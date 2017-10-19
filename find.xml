@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.log</mask>
       <mask>*.lo</mask>
@@ -13,9 +13,7 @@
       <mask>.j</mask>
       <mask>.ja</mask>
       <mask>.java</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
@@ -34,9 +32,11 @@
       <mask>*.ts</mask>
       <mask>*.tsx</mask>
       <mask>*</mask>
+      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
