@@ -89,6 +89,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1508466079709">
         <mark key="[" line="511" column="47" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/Common/Components/Detail.js" timestamp="1508839228671">
+        <mark key="[" line="356" column="18" />
+        <mark key="]" line="356" column="18" />
+        <mark key="." line="356" column="18" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/EventCenter/Components/List.js" timestamp="1508836116487">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="114" column="0" />
@@ -205,7 +210,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">5pys5bqU6L+b5YWl5Lq65a6h5L2G55So5oi36Iqd6bq75L+h55So5YiGPjY0MOebtOaOpemAmui/h++8iOWIhuaVsOaUueS4uuWPr+mFjee9ru+8iQ==</text>
+        <text encoding="base64">PENvbCBzcGFuPXs4fSBzdHlsZT17c3R5bGVzLmNvbH0+CiAgICAgICAgICAgICAgICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuS6pOaYk+S/oeaBr++8miI+CiAgICAgICAgICAgICAgICAgICAgICA8SW5wdXQgey4uLmZvcm1Db250cm9sUHJvcHN9IHR5cGU9InRleHQiIHsuLi5nZXRGaWVsZFByb3BzKCdkZXZpY2UnKX0gLz4KICAgICAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPgogICAgICAgICAgICAgICAgICA8L0NvbD4=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">5pys5bqU6L+b5YWl5Lq65a6h5L2G55So5oi36Iqd6bq75L+h55So5YiGPjY0MOebtOaOpemAmui/h++8iOWIhuaVsOaUueS4uuWPr+mFjee9ru+8iQ==</text>
@@ -216,8 +221,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PENvbCBzcGFuPXs4fSBzdHlsZT17c3R5bGVzLmNvbH0+CiAgICAgICAgICAgICAgICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuS6pOaYk+S/oeaBr++8miI+CiAgICAgICAgICAgICAgICAgICAgICA8SW5wdXQgey4uLmZvcm1Db250cm9sUHJvcHN9IHR5cGU9InRleHQiIHsuLi5nZXRGaWVsZFByb3BzKCdkZXZpY2UnKX0gLz4KICAgICAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPgogICAgICAgICAgICAgICAgICA8L0NvbD4=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -226,24 +231,30 @@
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgogIG9uUm93Q2xpY2socmVjb3JkKSB7CiAgICB2YXIgaWQgPSByZWNvcmQuaWQ7CiAgICB0aGlzLnNldFN0YXRlKHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogIG9uUm93Q2xpY2socmVjb3JkKSB7CiAgICB2YXIgaWQgPSByZWNvcmQuaWQ7CiAgICB0aGlzLnNldFN0YXRlKHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgY29uc3QgZXZlbnRDb250cm9sID0gKAogICAgICA8ZGl2PgogICAgICAgIOWFs+iBlOS6i+S7tgogICAgICAgIDxUYWJsZSBjb2x1bW5zPXtsaW5rRXZlbnRDb2x1bW5zfSBkYXRhU291cmNlPXt0aGlzLnN0YXRlLmV2ZW50RGF0YX0vPgogICAgICA8L2Rpdj4KICAgICk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">LyBVdGlscy5hamF4RGF0YSh7CiAgICAvLyAgIHVybDogJy9tb2R1bGVzL21hbmFnZS9ldmVudC9ldmVudExpc3QuaHRtJywKICAgIC8vICAgZGF0YTogcGFyYW1zLAogICAgLy8gICBjYWxsYmFjazogKHJlc3VsdCkgPT4gewogICAgLy8gICAgIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICAgICAgbG9hZGluZzogZmFsc2UsCiAgICAvLyAgICAgICBkYXRhOiByZXN1bHQuZGF0YSwKICAgIC8vICAgICB9KTsKICAgIC8vICAgfQogICAgLy8gfSk7</text>
+        <text encoding="base64">ICAgY29uc3QgZXZlbnRDb250cm9sID0gKAogICAgICA8ZGl2PgogICAgICAgIOWFs+iBlOS6i+S7tgogICAgICAgIDxUYWJsZSBjb2x1bW5zPXtsaW5rRXZlbnRDb2x1bW5zfSBkYXRhU291cmNlPXt0aGlzLnN0YXRlLmV2ZW50RGF0YX0vPgogICAgICA8L2Rpdj4KICAgICk7</text>
       </register>
       <register name="8" type="4">
+        <text encoding="base64">LyBVdGlscy5hamF4RGF0YSh7CiAgICAvLyAgIHVybDogJy9tb2R1bGVzL21hbmFnZS9ldmVudC9ldmVudExpc3QuaHRtJywKICAgIC8vICAgZGF0YTogcGFyYW1zLAogICAgLy8gICBjYWxsYmFjazogKHJlc3VsdCkgPT4gewogICAgLy8gICAgIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICAgICAgbG9hZGluZzogZmFsc2UsCiAgICAvLyAgICAgICBkYXRhOiByZXN1bHQuZGF0YSwKICAgIC8vICAgICB9KTsKICAgIC8vICAgfQogICAgLy8gfSk7</text>
+      </register>
+      <register name="x" type="4">
+        <text>null</text>
+      </register>
+      <register name="9" type="4">
         <text>ask buildDocker(type: Docker, dependsOn: build) {
     push = true
     applicationName = jar.baseName
@@ -255,12 +266,6 @@
         }
     }
 }</text>
-      </register>
-      <register name="x" type="4">
-        <text>null</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CuS9nOiAhe+8mueBvOeBvDIwMTUK6ZO+5o6l77yaaHR0cDovL3d3dy5qaWFuc2h1LmNvbS9wLzBkYWMzYWUyYTJjOQrkvobmupDvvJrnroDkuaYK6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CC</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
