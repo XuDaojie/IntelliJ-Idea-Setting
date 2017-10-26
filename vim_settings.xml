@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/java/A.java" timestamp="1508697293988">
         <mark key="[" line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/java/com/spring/BaseResponse.java" timestamp="1509008079199">
+        <mark key="[" line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/settings.gradle" timestamp="1508753005138">
         <mark key="[" line="0" column="21" />
       </file>
@@ -20,17 +23,15 @@
         <mark key="]" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/server.properties" timestamp="1509008391426" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1509005983628" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1509005983628" />
-      <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/Dockerfile" timestamp="1508764359010">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="5" column="77" />
-        <mark key="." line="5" column="77" />
-        <mark key="^" line="5" column="77" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1508836753306">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="51" column="62" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/java/com/spring/WebApplication.java" timestamp="1509009153175">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1508697129487">
         <mark key="[" line="0" column="0" />
@@ -41,7 +42,13 @@
       <file name="/dummy.sql" timestamp="1508298039576">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509006883396">
+      <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/resources/application.properties" timestamp="1509011070452">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="28" column="10" />
+        <mark key="^" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509011085020">
         <mark key="y" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -54,8 +61,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508424632266">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/java/com/spring/controller/RedisController.java" timestamp="1509006784499">
-        <mark key="[" line="13" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/java/com/spring/controller/RedisController.java" timestamp="1509010427920">
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1508423269491">
         <mark key="[" line="56" column="42" />
@@ -65,8 +74,8 @@
         <mark key="." line="138" column="0" />
         <mark key="^" line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/build.gradle" timestamp="1509004899776">
-        <mark key="[" line="45" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/build.gradle" timestamp="1509009087339">
+        <mark key="[" line="46" column="0" />
         <mark key="]" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
@@ -81,12 +90,6 @@
         <mark key="]" line="186" column="24" />
         <mark key="." line="186" column="24" />
         <mark key="^" line="186" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/AtlasAnalysis.js" timestamp="1508811726342">
-        <mark key="[" line="129" column="15" />
-        <mark key="]" line="125" column="15" />
-        <mark key="^" line="125" column="15" />
-        <mark key="." line="125" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1508466079709">
         <mark key="[" line="511" column="47" />
@@ -213,11 +216,11 @@
       <jump line="316" column="24" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/Common/Components/AtlasAnalysis.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CgogICAgICAgICAgICByZXNwb25zZS5zZXRDb2RlKDUwMCk7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldE1zZygiZXJyb3IiKTsKICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -225,45 +228,61 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CgogICAgICAgICAgICByZXNwb25zZS5zZXRDb2RlKDUwMCk7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldE1zZygiZXJyb3IiKTsKICAgICAgICB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEplZGlzIGplZGlzID0gbmV3IEplZGlzKCIxOTIuMTY4LjEwNi43NiIsIDYzNzkpOwovLyAgICAgICAgamVkaXMuc2V0KCJmb28iLCAiYmFyIik7Ci8vICAgICAgICBTdHJpbmcgdmFsdWUgPSBqZWRpcy5nZXQoImZvbyIpOwovLyAgICAgICAgamVkaXMuY2xvc2UoKTsKCi8vICAgICAgICBTZXQ8SG9zdEFuZFBvcnQ+IGplZGlzQ2x1c3Rlck5vZGVzID0gbmV3IEhhc2hTZXQ8SG9zdEFuZFBvcnQ+KCk7Ci8vLy9KZWRpcyBDbHVzdGVyIHdpbGwgYXR0ZW1wdCB0byBkaXNjb3ZlciBjbHVzdGVyIG5vZGVzIGF1dG9tYXRpY2FsbHkKLy8gICAgICAgIGplZGlzQ2x1c3Rlck5vZGVzLmFkZChuZXcgSG9zdEFuZFBvcnQoIjE5Mi4xNjguMTA2Ljc2IiwgNjM3OSkpOwovLyAgICAgICAgSmVkaXNDbHVzdGVyIGpjID0gbmV3IEplZGlzQ2x1c3RlcihqZWRpc0NsdXN0ZXJOb2Rlcyk7Ci8vICAgICAgICBqYy5zZXQoImZvbyIsICJiYXIiKTsKLy8gICAgICAgIFN0cmluZyB2YWx1ZSA9IGpjLmdldCgiZm9vIik7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">SmVkaXMgamVkaXMgPSBudWxsOwogICAgICAgIFN0cmluZyB2YWx1ZSA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgamVkaXMgPSBwb29sLmdldFJlc291cmNlKCk7CiAgICAgICAgICAgIHZhbHVlID0gamVkaXMuZ2V0KGtleSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAvL+i/mOWbnnBvb2zkuK0KICAgICAgICAgICAgaWYgKGplZGlzICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGplZGlzLmNsb3NlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAg5L2c6ICF77yaeWluZ3pvbmcKICAgICAgICDpk77mjqXvvJpodHRwOi8vd3d3LmppYW5zaHUuY29tL3AvNzkxM2Y5OTg0NzY1CiAgICAgICAg5L6G5rqQ77ya566A5LmmCiAgICAgICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CC</text>
+        <text>Jedis jedis = null;
+        try {
+            jedis = pool.getResource();
+            jedis.set(key, value);
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            //还回pool中
+            if (jedis != null) {
+                jedis.close();
+            }
+        }</text>
       </register>
       <register name="4" type="4">
+        <text>private static JedisPool pool = null;
+
+    static {
+        JedisPoolConfig jedisPoolConfig = new JedisPoolConfig();
+        pool = new JedisPool(jedisPoolConfig, &quot;192.168.106.76&quot;, 6379, 2000, &quot;Hello1234&quot;);
+    }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIEplZGlzIGplZGlzID0gbmV3IEplZGlzKCIxOTIuMTY4LjEwNi43NiIsIDYzNzkpOwovLyAgICAgICAgamVkaXMuc2V0KCJmb28iLCAiYmFyIik7Ci8vICAgICAgICBTdHJpbmcgdmFsdWUgPSBqZWRpcy5nZXQoImZvbyIpOwovLyAgICAgICAgamVkaXMuY2xvc2UoKTsKCi8vICAgICAgICBTZXQ8SG9zdEFuZFBvcnQ+IGplZGlzQ2x1c3Rlck5vZGVzID0gbmV3IEhhc2hTZXQ8SG9zdEFuZFBvcnQ+KCk7Ci8vLy9KZWRpcyBDbHVzdGVyIHdpbGwgYXR0ZW1wdCB0byBkaXNjb3ZlciBjbHVzdGVyIG5vZGVzIGF1dG9tYXRpY2FsbHkKLy8gICAgICAgIGplZGlzQ2x1c3Rlck5vZGVzLmFkZChuZXcgSG9zdEFuZFBvcnQoIjE5Mi4xNjguMTA2Ljc2IiwgNjM3OSkpOwovLyAgICAgICAgSmVkaXNDbHVzdGVyIGpjID0gbmV3IEplZGlzQ2x1c3RlcihqZWRpc0NsdXN0ZXJOb2Rlcyk7Ci8vICAgICAgICBqYy5zZXQoImZvbyIsICJiYXIiKTsKLy8gICAgICAgIFN0cmluZyB2YWx1ZSA9IGpjLmdldCgiZm9vIik7Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAg5L2c6ICF77yaeWluZ3pvbmcKICAgICAgICDpk77mjqXvvJpodHRwOi8vd3d3LmppYW5zaHUuY29tL3AvNzkxM2Y5OTg0NzY1CiAgICAgICAg5L6G5rqQ77ya566A5LmmCiAgICAgICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CC</text>
+      </register>
+      <register name="8" type="4">
         <text>Jedis jedis = new Jedis(&quot;192.168.106.76&quot;, 6379);
 
         jedis.set(&quot;foo&quot;, &quot;bar&quot;);
         String value = jedis.get(&quot;foo&quot;);
         jedis.close();</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">bWFwCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">PENvbCBzcGFuPXs4fSBzdHlsZT17c3R5bGVzLmNvbH0+CiAgICAgICAgICAgICAgICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuS6pOaYk+S/oeaBr++8miI+CiAgICAgICAgICAgICAgICAgICAgICA8SW5wdXQgey4uLmZvcm1Db250cm9sUHJvcHN9IHR5cGU9InRleHQiIHsuLi5nZXRGaWVsZFByb3BzKCdkZXZpY2UnKX0gLz4KICAgICAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPgogICAgICAgICAgICAgICAgICA8L0NvbD4=</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgogIG9uUm93Q2xpY2socmVjb3JkKSB7CiAgICB2YXIgaWQgPSByZWNvcmQuaWQ7CiAgICB0aGlzLnNldFN0YXRlKHsK</text>
+        <text encoding="base64">bWFwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
