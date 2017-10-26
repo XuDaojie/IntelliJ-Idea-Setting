@@ -23,7 +23,6 @@
         <mark key="]" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/server.properties" timestamp="1509008391426" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1509005983628" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1509005983628" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" timestamp="1508836753306">
@@ -61,10 +60,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508424632266">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/java/com/spring/controller/RedisController.java" timestamp="1509010427920">
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="25" column="7" />
-        <mark key="." line="25" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/java/com/spring/controller/RedisController.java" timestamp="1509023208291">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="32" />
+        <mark key="." line="30" column="32" />
+        <mark key="^" line="30" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1508423269491">
         <mark key="[" line="56" column="42" />
@@ -217,10 +217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CgogICAgICAgICAgICByZXNwb25zZS5zZXRDb2RlKDUwMCk7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldE1zZygiZXJyb3IiKTsKICAgICAgICB9</text>
+        <text>, method = Requ</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>, method = Requ</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
