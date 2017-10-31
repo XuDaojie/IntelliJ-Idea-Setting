@@ -63,6 +63,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
+      <file name="src:table:/2d5181b/cf933699-19f8-4b4a-b2e2-94592afa1348/arc_t.arc_mxdata_alipay" timestamp="1509442292664" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/mapper/BaseMapper.java" timestamp="1508824984068">
         <mark key="[" line="65" column="19" />
       </file>
@@ -78,9 +79,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1508423269491">
         <mark key="[" line="56" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1509003176573">
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1509442432572">
+        <mark key="[" line="165" column="9" />
+        <mark key="]" line="165" column="9" />
+        <mark key="." line="165" column="9" />
         <mark key="^" line="138" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/build.gradle" timestamp="1509009087339">
@@ -113,7 +115,7 @@
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1509006883368">
+      <file name="/fragment.java" timestamp="1509441974385">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -226,10 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mxAliPaySync</text>
+        <text>total_consume_cnt</text>
       </register>
       <register name="-" type="4">
-        <text>mxAliPaySync</text>
+        <text>total_consume_cnt</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
