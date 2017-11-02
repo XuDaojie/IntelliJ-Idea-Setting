@@ -24,10 +24,10 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/main/resources/application.properties" timestamp="1509430106190">
         <mark key="[" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1509593742017">
-        <mark key="[" line="327" column="8" />
-        <mark key="]" line="327" column="8" />
-        <mark key="." line="327" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1509603777291">
+        <mark key="[" line="384" column="15" />
+        <mark key="]" line="384" column="15" />
+        <mark key="." line="384" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/settings.gradle" timestamp="1508753005138">
         <mark key="[" line="0" column="21" />
@@ -65,11 +65,10 @@
         <mark key="]" line="486" column="73" />
         <mark key="." line="486" column="73" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/domain/MxdataXueXin.java" timestamp="1509594181616">
-        <mark key="[" line="207" column="27" />
-        <mark key="]" line="60" column="23" />
-        <mark key="^" line="60" column="23" />
-        <mark key="." line="60" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/domain/MxdataXueXin.java" timestamp="1509603626158">
+        <mark key="[" line="238" column="5" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1509590222734">
         <mark key="y" line="0" column="2" />
@@ -122,7 +121,7 @@
         <mark key="[" line="511" column="47" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/service/MxdataAliPayService.java" timestamp="1509593648772" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console_12.sql" timestamp="1509595084257" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console_12.sql" timestamp="1509603552291" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/Common/Components/Detail.js" timestamp="1508839228671">
         <mark key="[" line="356" column="18" />
         <mark key="]" line="356" column="18" />
@@ -249,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MxdataAliPay</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>MxdataAliPay</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>fx</text>
@@ -260,16 +259,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CgogICAgICAgICAgICByZXNwb25zZS5zZXRDb2RlKDUwMCk7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldE1zZygiZXJyb3IiKTsKICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">SmVkaXMgamVkaXMgPSBudWxsOwogICAgICAgIFN0cmluZyB2YWx1ZSA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgamVkaXMgPSBwb29sLmdldFJlc291cmNlKCk7CiAgICAgICAgICAgIHZhbHVlID0gamVkaXMuZ2V0KGtleSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAvL+i/mOWbnnBvb2zkuK0KICAgICAgICAgICAgaWYgKGplZGlzICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGplZGlzLmNsb3NlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CgogICAgICAgICAgICByZXNwb25zZS5zZXRDb2RlKDUwMCk7CiAgICAgICAgICAgIHJlc3BvbnNlLnNldE1zZygiZXJyb3IiKTsKICAgICAgICB9</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">SmVkaXMgamVkaXMgPSBudWxsOwogICAgICAgIFN0cmluZyB2YWx1ZSA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgamVkaXMgPSBwb29sLmdldFJlc291cmNlKCk7CiAgICAgICAgICAgIHZhbHVlID0gamVkaXMuZ2V0KGtleSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAvL+i/mOWbnnBvb2zkuK0KICAgICAgICAgICAgaWYgKGplZGlzICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGplZGlzLmNsb3NlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>Jedis jedis = null;
         try {
             jedis = pool.getResource();
@@ -283,7 +291,10 @@
             }
         }</text>
       </register>
-      <register name="4" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>private static JedisPool pool = null;
 
     static {
@@ -291,30 +302,14 @@
         pool = new JedisPool(jedisPoolConfig, &quot;192.168.106.76&quot;, 6379, 2000, &quot;Hello1234&quot;);
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEplZGlzIGplZGlzID0gbmV3IEplZGlzKCIxOTIuMTY4LjEwNi43NiIsIDYzNzkpOwovLyAgICAgICAgamVkaXMuc2V0KCJmb28iLCAiYmFyIik7Ci8vICAgICAgICBTdHJpbmcgdmFsdWUgPSBqZWRpcy5nZXQoImZvbyIpOwovLyAgICAgICAgamVkaXMuY2xvc2UoKTsKCi8vICAgICAgICBTZXQ8SG9zdEFuZFBvcnQ+IGplZGlzQ2x1c3Rlck5vZGVzID0gbmV3IEhhc2hTZXQ8SG9zdEFuZFBvcnQ+KCk7Ci8vLy9KZWRpcyBDbHVzdGVyIHdpbGwgYXR0ZW1wdCB0byBkaXNjb3ZlciBjbHVzdGVyIG5vZGVzIGF1dG9tYXRpY2FsbHkKLy8gICAgICAgIGplZGlzQ2x1c3Rlck5vZGVzLmFkZChuZXcgSG9zdEFuZFBvcnQoIjE5Mi4xNjguMTA2Ljc2IiwgNjM3OSkpOwovLyAgICAgICAgSmVkaXNDbHVzdGVyIGpjID0gbmV3IEplZGlzQ2x1c3RlcihqZWRpc0NsdXN0ZXJOb2Rlcyk7Ci8vICAgICAgICBqYy5zZXQoImZvbyIsICJiYXIiKTsKLy8gICAgICAgIFN0cmluZyB2YWx1ZSA9IGpjLmdldCgiZm9vIik7Cg==</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAg5L2c6ICF77yaeWluZ3pvbmcKICAgICAgICDpk77mjqXvvJpodHRwOi8vd3d3LmppYW5zaHUuY29tL3AvNzkxM2Y5OTg0NzY1CiAgICAgICAg5L6G5rqQ77ya566A5LmmCiAgICAgICAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CC</text>
-      </register>
-      <register name="8" type="4">
-        <text>Jedis jedis = new Jedis(&quot;192.168.106.76&quot;, 6379);
-
-        jedis.set(&quot;foo&quot;, &quot;bar&quot;);
-        String value = jedis.get(&quot;foo&quot;);
-        jedis.close();</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWFwCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEplZGlzIGplZGlzID0gbmV3IEplZGlzKCIxOTIuMTY4LjEwNi43NiIsIDYzNzkpOwovLyAgICAgICAgamVkaXMuc2V0KCJmb28iLCAiYmFyIik7Ci8vICAgICAgICBTdHJpbmcgdmFsdWUgPSBqZWRpcy5nZXQoImZvbyIpOwovLyAgICAgICAgamVkaXMuY2xvc2UoKTsKCi8vICAgICAgICBTZXQ8SG9zdEFuZFBvcnQ+IGplZGlzQ2x1c3Rlck5vZGVzID0gbmV3IEhhc2hTZXQ8SG9zdEFuZFBvcnQ+KCk7Ci8vLy9KZWRpcyBDbHVzdGVyIHdpbGwgYXR0ZW1wdCB0byBkaXNjb3ZlciBjbHVzdGVyIG5vZGVzIGF1dG9tYXRpY2FsbHkKLy8gICAgICAgIGplZGlzQ2x1c3Rlck5vZGVzLmFkZChuZXcgSG9zdEFuZFBvcnQoIjE5Mi4xNjguMTA2Ljc2IiwgNjM3OSkpOwovLyAgICAgICAgSmVkaXNDbHVzdGVyIGpjID0gbmV3IEplZGlzQ2x1c3RlcihqZWRpc0NsdXN0ZXJOb2Rlcyk7Ci8vICAgICAgICBqYy5zZXQoImZvbyIsICJiYXIiKTsKLy8gICAgICAgIFN0cmluZyB2YWx1ZSA9IGpjLmdldCgiZm9vIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
