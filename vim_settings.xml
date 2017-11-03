@@ -78,10 +78,10 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/main/resources/application.properties" timestamp="1509430106190">
         <mark key="[" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1509677736314">
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="." line="274" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1509680370221">
+        <mark key="[" line="237" column="66" />
+        <mark key="]" line="237" column="66" />
+        <mark key="." line="237" column="66" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/java/GreetingController.java" timestamp="1508695708243">
         <mark key="[" line="5" column="5" />
@@ -150,14 +150,20 @@
         <mark key="]" line="356" column="18" />
         <mark key="." line="356" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1509620403059">
+      <file name="/fragment.java" timestamp="1509679742782">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1508725328941">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/MxdataXueXinMapper.xml" timestamp="1509681241004">
+        <mark key="[" line="185" column="14" />
+        <mark key="]" line="185" column="14" />
+        <mark key="^" line="180" column="13" />
+        <mark key="." line="185" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -264,10 +270,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>report</text>
+        <text>and mxDataUrl != ''</text>
       </register>
       <register name="-" type="4">
-        <text>report</text>
+        <text>and mxDataUrl != ''</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
