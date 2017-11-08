@@ -40,7 +40,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/Detail.js" timestamp="1508394302825">
         <mark key="[" line="120" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/controller/MoxieController.java" timestamp="1510133810941">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/controller/MoxieController.java" timestamp="1510134962880">
         <mark key="[" line="533" column="41" />
         <mark key="]" line="533" column="41" />
         <mark key="." line="533" column="41" />
@@ -100,6 +100,7 @@
         <mark key="." line="394" column="14" />
         <mark key="^" line="335" column="23" />
       </file>
+      <file name="src:table:/2d5181b/cf933699-19f8-4b4a-b2e2-94592afa1348/arc_t.arc_mxdata_req_log" timestamp="1510134480350" />
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/java/A.java" timestamp="1508697293988">
         <mark key="[" line="0" column="16" />
       </file>
@@ -110,11 +111,11 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/main/resources/application.properties" timestamp="1509430106190">
         <mark key="[" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1510128526805">
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
-        <mark key="^" line="94" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1510135642236">
+        <mark key="[" line="253" column="76" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="293" column="85" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/mapper/MxdataXueXinMapper.java" timestamp="1509691082521">
         <mark key="[" line="20" column="4" />
@@ -297,7 +298,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIumtlOidjuWtpuS/oeWunuWQjToiICsgcmVhbE5hbWUgKyAiIOmjjuaOp+WunuWQje+8miIgKyB1c2VyLmdldFJlYWxOYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZWR1Y2F0aW9uTGlzdCA9ICIiOwo=</text>
       </register>
       <register name="-" type="4">
         <text>fae75d00-bfb2-11e7-b7ba-00163e00413f</text>
@@ -309,18 +310,21 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIumtlOidjuWtpuS/oeWunuWQjToiICsgcmVhbE5hbWUgKyAiIOmjjuaOp+WunuWQje+8miIgKyB1c2VyLmdldFJlYWxOYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZWR1Y2F0aW9uTGlzdCA9ICIiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIumtlOidjuWtpuS/oei/lOWbnuS/oeaBrzoiICsgc3R1ZGVudEluZm9MaXN0U3RyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIumtlOidjuWtpuS/oeWunuWQjToiICsgcmVhbE5hbWUgKyAiIOmjjuaOp+WunuWQje+8miIgKyB1c2VyLmdldFJlYWxOYW1lKCkpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly/lvIDlkK/liIbpobUKICAgICAgICBQYWdlSGVscGVyLnN0YXJ0UGFnZShwYWdlLCBwYWdlU2l6ZSk7CiAgICAgICAgLy/miafooYzmn6Xor6IKLy8gICAgICAgIFVzZXJTZXJ2aWNlIHVzZXJTZXJ2aWNlID0gU3ByaW5nQmVhbkNvbnRleHRVdGlsLmdldEJlYW4oVXNlclNlcnZpY2UuY2xhc3MpOwogICAgICAgIExpc3Q8VXNlcj4gdXNlcnMgPSB1c2VyU2VydmljZS5saXN0QWRwKCk7CiAgICAgICAgLy/nu5PmnpzljIXoo4UKICAgICAgICBQYWdlSW5mbzxVc2VyPiByZXMgPSBuZXcgUGFnZUluZm88Pih1c2Vycyk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIumtlOidjuWtpuS/oei/lOWbnuS/oeaBrzoiICsgc3R1ZGVudEluZm9MaXN0U3RyKTsK</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">Ly/lvIDlkK/liIbpobUKICAgICAgICBQYWdlSGVscGVyLnN0YXJ0UGFnZShwYWdlLCBwYWdlU2l6ZSk7CiAgICAgICAgLy/miafooYzmn6Xor6IKLy8gICAgICAgIFVzZXJTZXJ2aWNlIHVzZXJTZXJ2aWNlID0gU3ByaW5nQmVhbkNvbnRleHRVdGlsLmdldEJlYW4oVXNlclNlcnZpY2UuY2xhc3MpOwogICAgICAgIExpc3Q8VXNlcj4gdXNlcnMgPSB1c2VyU2VydmljZS5saXN0QWRwKCk7CiAgICAgICAgLy/nu5PmnpzljIXoo4UKICAgICAgICBQYWdlSW5mbzxVc2VyPiByZXMgPSBuZXcgUGFnZUluZm88Pih1c2Vycyk7</text>
+      </register>
+      <register name="5" type="4">
         <text>SELECT * FROM arc_rule_engine WHERE name LIKE '%分层%';
 SELECT * FROM arc_rule_engine_config WHERE rule_engin_id = 101;
 SELECT * FROM arc_rule_info WHERE tb_nid = 'arc_dsdata_tongdun';
@@ -355,14 +359,8 @@ SELECT * FROM arc_borrow_rule_engine WHERE rule_id = 196;
 select id,order_no,rule_id,rule,score,result,rule_count,handler_count,hit_count,rule_state,add_time from arc_rule_engine_result where order_no = '01chsi64381509009507501' and score IS NOT NULL order by id desc limit 0,1
 SELECT * FROM arc_borrow_rule_result;</text>
       </register>
-      <register name="5" type="4">
-        <text>chsi_status
-              chsi_time
-              pbccrc_status
-              pbccrc_time</text>
-      </register>
       <register name="6" type="4">
-        <text>hsi_status
+        <text>chsi_status
               chsi_time
               pbccrc_status
               pbccrc_time</text>
@@ -371,16 +369,19 @@ SELECT * FROM arc_borrow_rule_result;</text>
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGNoc2lfc3RhdHVzCiAgICAgICAgY2hzaV90aW1lCiAgICAgICAgcGJjY3JjX3N0YXR1cwogICAgICAgIHBiY2NyY190aW1l</text>
+        <text>hsi_status
+              chsi_time
+              pbccrc_status
+              pbccrc_time</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIOi3kTEw5Liq5oyH5qCH77yM5qC55o2u6KeE5YiZ5oC75b6X5YiG5o+Q6aKd77yMCiAgICAgKgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGNoc2lfc3RhdHVzCiAgICAgICAgY2hzaV90aW1lCiAgICAgICAgcGJjY3JjX3N0YXR1cwogICAgICAgIHBiY2NyY190aW1l</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIDA85b6X5YiGPD0yMCzmj5Dpop0w5YWD77ybMjA85b6X5YiGPD00MCzmj5Dpop01MDDlhYPvvJs0MDzlvpfliIY8PTYwLOaPkOminTEwMDDlhYPvvJs2MDzlvpfliIY8PTgwLOaPkOminTE1MDDlhYPvvJs4MDzlvpfliIY8PTEwMCzmj5Dpop0yMDAw5YWDCg==</text>
+        <text encoding="base64">ICAgICAqIOi3kTEw5Liq5oyH5qCH77yM5qC55o2u6KeE5YiZ5oC75b6X5YiG5o+Q6aKd77yMCiAgICAgKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
