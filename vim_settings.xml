@@ -111,11 +111,11 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/main/resources/application.properties" timestamp="1509430106190">
         <mark key="[" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1510135642236">
-        <mark key="[" line="253" column="76" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
-        <mark key="^" line="293" column="85" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1510139631292">
+        <mark key="[" line="243" column="16" />
+        <mark key="]" line="243" column="16" />
+        <mark key="." line="243" column="16" />
+        <mark key="^" line="243" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/mapper/MxdataXueXinMapper.java" timestamp="1509691082521">
         <mark key="[" line="20" column="4" />
@@ -187,11 +187,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1508725328941">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/MxdataXueXinMapper.xml" timestamp="1509692402213">
-        <mark key="[" line="211" column="32" />
-        <mark key="]" line="116" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/MxdataXueXinMapper.xml" timestamp="1510138302299">
+        <mark key="[" line="13" column="74" />
         <mark key="^" line="194" column="13" />
-        <mark key="." line="116" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -297,11 +295,11 @@
       <jump line="316" column="24" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/Common/Components/AtlasAnalysis.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZWR1Y2F0aW9uTGlzdCA9ICIiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>studentInfoList.size()</text>
       </register>
       <register name="-" type="4">
-        <text>fae75d00-bfb2-11e7-b7ba-00163e00413f</text>
+        <text>studentInfoList.size()</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
