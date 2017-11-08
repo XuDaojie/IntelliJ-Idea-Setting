@@ -107,16 +107,15 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/main/resources/application.properties" timestamp="1509430106190">
         <mark key="[" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1510125954110">
-        <mark key="[" line="254" column="58" />
-        <mark key="]" line="94" column="34" />
-        <mark key="." line="94" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1510128526805">
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
         <mark key="^" line="94" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/mapper/MxdataXueXinMapper.java" timestamp="1509691082521">
         <mark key="[" line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1509952912635" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxAliPayThread.java" timestamp="1509695332109">
         <mark key="[" line="212" column="8" />
       </file>
@@ -141,7 +140,7 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="29" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510124233070">
+      <file name="/Dummy.txt" timestamp="1510128532858">
         <mark key="y" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -153,6 +152,9 @@
         <mark key="]" line="81" column="40" />
         <mark key="^" line="81" column="40" />
         <mark key="." line="81" column="40" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1510128452173">
+        <mark key="[" line="790" column="367" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/mapper/BaseMapper.java" timestamp="1508824984068">
         <mark key="[" line="65" column="19" />
@@ -291,8 +293,8 @@
       <jump line="316" column="24" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/Common/Components/AtlasAnalysis.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fae75d00-bfb2-11e7-b7ba-00163e00413f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIumtlOidjuWtpuS/oeWunuWQjToiICsgcmVhbE5hbWUgKyAiIOmjjuaOp+WunuWQje+8miIgKyB1c2VyLmdldFJlYWxOYW1lKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>fae75d00-bfb2-11e7-b7ba-00163e00413f</text>
@@ -303,10 +305,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIumtlOidjuWtpuS/oeWunuWQjToiICsgcmVhbE5hbWUgKyAiIOmjjuaOp+WunuWQje+8miIgKyB1c2VyLmdldFJlYWxOYW1lKCkpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIumtlOidjuWtpuS/oei/lOWbnuS/oeaBrzoiICsgc3R1ZGVudEluZm9MaXN0U3RyKTsK</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">Ly/lvIDlkK/liIbpobUKICAgICAgICBQYWdlSGVscGVyLnN0YXJ0UGFnZShwYWdlLCBwYWdlU2l6ZSk7CiAgICAgICAgLy/miafooYzmn6Xor6IKLy8gICAgICAgIFVzZXJTZXJ2aWNlIHVzZXJTZXJ2aWNlID0gU3ByaW5nQmVhbkNvbnRleHRVdGlsLmdldEJlYW4oVXNlclNlcnZpY2UuY2xhc3MpOwogICAgICAgIExpc3Q8VXNlcj4gdXNlcnMgPSB1c2VyU2VydmljZS5saXN0QWRwKCk7CiAgICAgICAgLy/nu5PmnpzljIXoo4UKICAgICAgICBQYWdlSW5mbzxVc2VyPiByZXMgPSBuZXcgUGFnZUluZm88Pih1c2Vycyk7</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>SELECT * FROM arc_rule_engine WHERE name LIKE '%分层%';
 SELECT * FROM arc_rule_engine_config WHERE rule_engin_id = 101;
 SELECT * FROM arc_rule_info WHERE tb_nid = 'arc_dsdata_tongdun';
@@ -341,41 +352,32 @@ SELECT * FROM arc_borrow_rule_engine WHERE rule_id = 196;
 select id,order_no,rule_id,rule,score,result,rule_count,handler_count,hit_count,rule_state,add_time from arc_rule_engine_result where order_no = '01chsi64381509009507501' and score IS NOT NULL order by id desc limit 0,1
 SELECT * FROM arc_borrow_rule_result;</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>chsi_status
               chsi_time
               pbccrc_status
               pbccrc_time</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>hsi_status
               chsi_time
               pbccrc_status
               pbccrc_time</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGNoc2lfc3RhdHVzCiAgICAgICAgY2hzaV90aW1lCiAgICAgICAgcGJjY3JjX3N0YXR1cwogICAgICAgIHBiY2NyY190aW1l</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIOi3kTEw5Liq5oyH5qCH77yM5qC55o2u6KeE5YiZ5oC75b6X5YiG5o+Q6aKd77yMCiAgICAgKgo=</text>
-      </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIDA85b6X5YiGPD0yMCzmj5Dpop0w5YWD77ybMjA85b6X5YiGPD00MCzmj5Dpop01MDDlhYPvvJs0MDzlvpfliIY8PTYwLOaPkOminTEwMDDlhYPvvJs2MDzlvpfliIY8PTgwLOaPkOminTE1MDDlhYPvvJs4MDzlvpfliIY8PTEwMCzmj5Dpop0yMDAw5YWDCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGNoc2lfc3RhdHVzCiAgICAgICAgY2hzaV90aW1lCiAgICAgICAgcGJjY3JjX3N0YXR1cwogICAgICAgIHBiY2NyY190aW1l</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIOi3kTEw5Liq5oyH5qCH77yM5qC55o2u6KeE5YiZ5oC75b6X5YiG5o+Q6aKd77yMCiAgICAgKgo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIDA85b6X5YiGPD0yMCzmj5Dpop0w5YWD77ybMjA85b6X5YiGPD00MCzmj5Dpop01MDDlhYPvvJs0MDzlvpfliIY8PTYwLOaPkOminTEwMDDlhYPvvJs2MDzlvpfliIY8PTgwLOaPkOminTE1MDDlhYPvvJs4MDzlvpfliIY8PTEwMCzmj5Dpop0yMDAw5YWDCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
