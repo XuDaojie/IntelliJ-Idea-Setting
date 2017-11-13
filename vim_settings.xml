@@ -34,10 +34,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/Detail.js" timestamp="1508394302825">
         <mark key="[" line="120" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/controller/MoxieController.java" timestamp="1510146943869">
-        <mark key="[" line="533" column="41" />
-        <mark key="]" line="533" column="41" />
-        <mark key="." line="533" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/controller/MoxieController.java" timestamp="1510544425898">
+        <mark key="[" line="493" column="29" />
+        <mark key="]" line="493" column="28" />
+        <mark key="." line="493" column="28" />
+        <mark key="^" line="493" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/quota/UserQuotaMapper.xml" timestamp="1510123887134">
         <mark key="[" line="16" column="56" />
@@ -58,7 +59,6 @@
         <mark key="[" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/constant/MxDataConstant.java" timestamp="1510144269884">
-        <mark key="[" line="39" column="94" />
         <mark key="]" line="28" column="23" />
         <mark key="^" line="28" column="23" />
         <mark key="." line="28" column="23" />
@@ -264,10 +264,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>studentInfoList</text>
+        <text>taskId</text>
       </register>
       <register name="-" type="4">
-        <text>studentInfoList</text>
+        <text>taskId</text>
       </register>
       <register name="/" type="4">
         <text>fx</text>
