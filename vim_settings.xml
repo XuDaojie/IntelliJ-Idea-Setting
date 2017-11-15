@@ -148,11 +148,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-quartz/src/main/java/com/rongdu/arc/quartz/RiskVerifyJob.java" timestamp="1508423269491">
         <mark key="[" line="56" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1510648046654">
-        <mark key="[" line="179" column="61" />
-        <mark key="]" line="177" column="50" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console.sql" timestamp="1510715017646">
+        <mark key="[" line="188" column="37" />
+        <mark key="]" line="188" column="37" />
         <mark key="^" line="177" column="50" />
-        <mark key="." line="177" column="50" />
+        <mark key="." line="188" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/mapper/VerifyMapper.java" timestamp="1510639286860">
         <mark key="[" line="45" column="29" />
@@ -279,11 +279,11 @@
       <jump line="316" column="24" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/Common/Components/AtlasAnalysis.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbC5pc0VtcHR5KGJvZHkpKSB7CiAgICAgICAgICAgIFNlcnZsZXRVdGlscy5wcmludE1lc3NhZ2VSZXR1cm4ocmVzcG9uc2UsICJib2R55Y+C5pWw5Li656m6Iik7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>userStatus.getRiskStatus()</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
