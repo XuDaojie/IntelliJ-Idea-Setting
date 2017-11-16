@@ -1,17 +1,17 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/service/UserQuotaService.java" timestamp="1510734177742" />
       <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/resources/application.yml" timestamp="1510021256014">
         <mark key="[" line="0" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console_21.sql" timestamp="1510646838512" />
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/rule/helper/RegisterRiskVerifyHelper.java" timestamp="1510734336716" />
+      <file name="$USER_HOME$/IdeaProjects/debt/.gitignore" timestamp="1510818824136">
+        <mark key="[" line="259" column="4" />
+      </file>
       <file name="/a.dummy" timestamp="1509593201216">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,14 +21,21 @@
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/java/com/spring/BaseResponse.java" timestamp="1509008079199">
         <mark key="[" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/gradle/wrapper/gradle-wrapper.properties" timestamp="1510729704596" />
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/resources/application.properties" timestamp="1510819008679">
+        <mark key="[" line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyMapper.xml" timestamp="1510554297328">
         <mark key="[" line="261" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-discovery/src/main/resources/application.properties" timestamp="1510818468903">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/settings.gradle" timestamp="1508753005138">
         <mark key="[" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserQuotaController.java" timestamp="1510734380380" />
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-config/gradle/wrapper/gradle-wrapper.properties" timestamp="1510799816847">
+        <mark key="[" line="5" column="73" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/java/WebApplication.java" timestamp="1508697346088">
         <mark key="[" line="0" column="28" />
       </file>
@@ -47,7 +54,6 @@
         <mark key="^" line="15" column="50" />
         <mark key="." line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/service/impl/QuotaEditLogServiceImpl.java" timestamp="1510627890217" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/domain/QuotaBaseConfig.java" timestamp="1509697156497">
         <mark key="[" line="24" column="46" />
       </file>
@@ -66,19 +72,32 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/quota/domain/UserQuota.java" timestamp="1509951644267">
         <mark key="[" line="45" column="35" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-zuul/gradle/wrapper/gradle-wrapper.properties" timestamp="1510803604186">
+        <mark key="[" line="5" column="73" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-discovery/build.gradle" timestamp="1510802353996">
+        <mark key="[" line="49" column="74" />
+        <mark key="]" line="49" column="73" />
+        <mark key="^" line="49" column="42" />
+        <mark key="." line="49" column="73" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-discovery/gradle/wrapper/gradle-wrapper.properties" timestamp="1510802177765">
+        <mark key="[" line="5" column="73" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/mapper/UserMapper.java" timestamp="1510716795145">
         <mark key="[" line="74" column="4" />
         <mark key="]" line="80" column="0" />
         <mark key="^" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/resources/application-common.properties" timestamp="1510024073126">
-        <mark key="[" line="1" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-discovery/src/main/resources/application-test.yml" timestamp="1510818142314">
+        <mark key="[" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/fkCloud/commom-auth/build.gradle" timestamp="1510731017421">
-        <mark key="[" line="48" column="66" />
-        <mark key="]" line="48" column="66" />
-        <mark key="." line="48" column="66" />
+      <file name="$USER_HOME$/IdeaProjects/debt/debt-system/src/main/resources/application-common.properties" timestamp="1510818717711">
+        <mark key="[" line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/commom-auth/build.gradle" timestamp="1510801522878">
+        <mark key="[" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/DataX/odpsreader/pom.xml" timestamp="1509971835733">
         <mark key="[" line="48" column="27" />
@@ -109,24 +128,32 @@
       <file name="$USER_HOME$/IdeaProjects/fkCloud/commom-auth/.idea/gradle.xml" timestamp="1510732864201">
         <mark key="[" line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/debt/build.gradle" timestamp="1510731038309" />
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-consumer/gradle/wrapper/gradle-wrapper.properties" timestamp="1510801545503">
+        <mark key="[" line="5" column="73" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-discovery/.gitignore" timestamp="1510818631958">
+        <mark key="[" line="253" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/main/resources/application.properties" timestamp="1509430106190">
         <mark key="[" line="9" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cf933699-19f8-4b4a-b2e2-94592afa1348/console_18.sql" timestamp="1510628970532" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserDirectoryController.java" timestamp="1510725503893">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/fkCloud/commom-auth/gradle/wrapper/gradle-wrapper.properties" timestamp="1510729716262" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1510146654841">
         <mark key="[" line="115" column="45" />
         <mark key="]" line="115" column="43" />
         <mark key="." line="115" column="43" />
         <mark key="^" line="115" column="43" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-consumer/build.gradle" timestamp="1510802306395">
+        <mark key="[" line="23" column="35" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/mapper/MxdataXueXinMapper.java" timestamp="1509691082521">
         <mark key="[" line="20" column="4" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1510817294417" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1510817294417" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxAliPayThread.java" timestamp="1509695332109">
         <mark key="[" line="212" column="8" />
       </file>
@@ -135,6 +162,19 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1510729428700">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-config/build.gradle" timestamp="1510803671362">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="49" column="19" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-zuul/build.gradle" timestamp="1510803338411">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="19" />
+        <mark key="^" line="49" column="19" />
+        <mark key="." line="49" column="19" />
       </file>
       <file name="/dummy.sql" timestamp="1510646157427">
         <mark key="[" line="0" column="0" />
@@ -145,7 +185,7 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="29" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510750025695">
+      <file name="/Dummy.txt" timestamp="1510818830759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserController.java" timestamp="1510725499206">
@@ -172,14 +212,21 @@
         <mark key="^" line="178" column="50" />
         <mark key="." line="196" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/fkCloud/commom-auth/.gitignore" timestamp="1510732908611">
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-logging/build.gradle" timestamp="1510802912332">
+        <mark key="[" line="51" column="3" />
+        <mark key="]" line="51" column="3" />
+        <mark key="." line="51" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1508466079709">
         <mark key="[" line="511" column="47" />
       </file>
-      <file name="/fragment.java" timestamp="1510732827576">
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-logging/gradle/wrapper/gradle-wrapper.properties" timestamp="1510803829808">
+        <mark key="[" line="5" column="69" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-discovery/src/main/resources/application.yml" timestamp="1510818611943">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1510817545226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -190,8 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="5" filename="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/activity/HelpCenterActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/activity/HelpCenterActivity.java" />
       <jump line="38" column="12" filename="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/java/runtong/bocai/com/runtong/activity/HelpCenterActivity.java" />
       <jump line="37" column="23" filename="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/activity/HongbaoActivity.java" />
       <jump line="39" column="19" filename="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/java/runtong/bocai/com/runtong/activity/HongbaoActivity.java" />
@@ -290,10 +335,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
       <jump line="52" column="0" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/index.html" />
       <jump line="316" column="24" filename="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/Common/Components/AtlasAnalysis.js" />
+      <jump line="15" column="19" filename="$USER_HOME$/IdeaProjects/fkCloud/common-config/build.gradle" />
+      <jump line="53" column="0" filename="$USER_HOME$/IdeaProjects/fkCloud/common-config/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>testCompile(group: 'org.springframework.boot', name: 'spring-boot-starter-test', version: '1.5.8.RELEASE') {
+        exclude(module: 'commons-logging')
+    }</text>
       </register>
       <register name="-" type="4">
         <text>', version</text>
@@ -304,41 +353,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>testCompile(group: 'org.springframework.boot', name: 'spring-boot-starter-test', version: '1.5.8.RELEASE') {
+        exclude(module: 'commons-logging')
+    }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZXJXaGl0ZSAhPSBudWxsICYmIHVzZXJXaGl0ZS5nZXRUeXBlKCkgPT0gMSkgewogICAgICAgICAgICAgICAgLy8g6I635Y+W5Y6f5aeL5by66aOO5o6n54q25oCBCiAgICAgICAgICAgICAgICBpZiAodXNlclN0YXR1cyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgcXVvdGFFZGl0TG9nLnNldE9yaWdpblZlcmlmeVJlc3VsdCgiIik7CiAgICAgICAgICAgICAgICAgICAgcXVvdGFFZGl0TG9nLnNldFZlcmlmeU9yZGVyTm8oIiIpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcmlza1N0YXR1cyA9IHVzZXJTdGF0dXMuZ2V0Umlza1N0YXR1cygpOwogICAgICAgICAgICAgICAgICAgIHF1b3RhRWRpdExvZy5zZXRPcmlnaW5WZXJpZnlSZXN1bHQocmlza1N0YXR1cyk7CiAgICAgICAgICAgICAgICAgICAgcXVvdGFFZGl0TG9nLnNldFZlcmlmeU9yZGVyTm8odmVyaWZ5LmdldE9yZGVyTm8oKSk7CgogICAgICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlsLmVxdWFscyhSdWxlQ29uc3RhbnQuUkVTVUxUX1RZUEVfSEFORCwgcmlza1N0YXR1cykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gMDA65by66aOO5o6n5q2j5Zyo562J5b6FCiAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdC5wdXQoQ29uc3RhbnQuUkVTUE9OU0VfQ09ERV9NU0csICLlvLrpo47mjqforqTor4HlrozmiJDlkI7ph43or5UiKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnB1dChDb25zdGFudC5SRVNQT05TRV9DT0RFLCBDb25zdGFudC5GQUlMX0NPREVfVkFMVUUpOwogICAgICAgICAgICAgICAgICAgICAgICBTZXJ2bGV0VXRpbHMud3JpdGVUb1Jlc3BvbnNlKHJlc3BvbnNlLCByZXN1bHQpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy8g56eN5a2Q55So5oi35peg6ZyA5by66aOO5o6n5Lmf6IO95L+u5pS56aKd5bqmCiAgICAgICAgICAgICAgICB1cGRhdGVRdW90YShjb25zdW1lck5vLCBxdW90YUVkaXRMb2csIHBob25lLCBiYXNlUXVvdGEsIHJlc3VsdCk7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHRlc3RDb21waWxlKGdyb3VwOiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290JywgbmFtZTogJ3NwcmluZy1ib290LXN0YXJ0ZXItdGVzdCcsIHZlcnNpb246ICcxLjUuOC5SRUxFQVNFJykgewogICAgICAgIGV4Y2x1ZGUobW9kdWxlOiAnY29tbW9ucy1sb2dnaW5nJykKICAgIH0=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGNvbnN1bWVyTm8gPSB1c2VyLmdldENvbnN1bWVyTm8oKTsKICAgICAgICAgICAgVXNlcldoaXRlIHVzZXJXaGl0ZSA9IHVzZXJXaGl0ZVNlcnZpY2UuZmluZEJ5Q29uc3VtZXJObyhjb25zdW1lck5vKTsKICAgICAgICAgICAgLy8g5Yik5pat5by66aOO5o6n54q25oCBCiAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdmVyaWZ5U2VhcmNoTWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgICAgICB2ZXJpZnlTZWFyY2hNYXAucHV0KCJjb25zdW1lck5vIiwgY29uc3VtZXJObyk7CiAgICAgICAgICAgIC8vIOiOt+WPluW8uumjjuaOp+acgOe7iOeKtuaAgQogICAgICAgICAgICBVc2VyU3RhdHVzIHVzZXJTdGF0dXMgPSB1c2VyU3RhdHVzU2VydmljZS5maW5kQnlDb25zdW1lck5vKGNvbnN1bWVyTm8pOwogICAgICAgICAgICAvLyB1c2VyX3N0YXR1c+S4jeWtmOWcqOW8uumjjuaOp29yZGVyX25vLOiusOW9leaXpeW/l+aXtuWPiOmcgOimgW9yZGVyX25vCiAgICAgICAgICAgIFZlcmlmeSB2ZXJpZnkgPSB2ZXJpZnlTZXJ2aWNlLmZpbmRMYXN0VmVyaWZ5KHZlcmlmeVNlYXJjaE1hcCk7CgogICAgICAgICAgICBpZiAodXNlcldoaXRlICE9IG51bGwgJiYgdXNlcldoaXRlLmdldFR5cGUoKSA9PSAxKSB7CiAgICAgICAgICAgICAgICAvLyDojrflj5bljp/lp4vlvLrpo47mjqfnirbmgIEKICAgICAgICAgICAgICAgIGlmICh1c2VyU3RhdHVzID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBxdW90YUVkaXRMb2cuc2V0T3JpZ2luVmVyaWZ5UmVzdWx0KCIiKTsKICAgICAgICAgICAgICAgICAgICBxdW90YUVkaXRMb2cuc2V0VmVyaWZ5T3JkZXJObygiIik7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIFN0cmluZyByaXNrU3RhdHVzID0gdXNlclN0YXR1cy5nZXRSaXNrU3RhdHVzKCk7CiAgICAgICAgICAgICAgICAgICAgcXVvdGFFZGl0TG9nLnNldE9yaWdpblZlcmlmeVJlc3VsdChyaXNrU3RhdHVzKTsKICAgICAgICAgICAgICAgICAgICBxdW90YUVkaXRMb2cuc2V0VmVyaWZ5T3JkZXJObyh2ZXJpZnkuZ2V0T3JkZXJObygpKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWwuZXF1YWxzKFJ1bGVDb25zdGFudC5SRVNVTFRfVFlQRV9IQU5ELCByaXNrU3RhdHVzKSkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyAwMDrlvLrpo47mjqfmraPlnKjnrYnlvoUKICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnB1dChDb25zdGFudC5SRVNQT05TRV9DT0RFX01TRywgIuW8uumjjuaOp+iupOivgeWujOaIkOWQjumHjeivlSIpOwogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQucHV0KENvbnN0YW50LlJFU1BPTlNFX0NPREUsIENvbnN0YW50LkZBSUxfQ09ERV9WQUxVRSk7CiAgICAgICAgICAgICAgICAgICAgICAgIFNlcnZsZXRVdGlscy53cml0ZVRvUmVzcG9uc2UocmVzcG9uc2UsIHJlc3VsdCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAvLyDnp43lrZDnlKjmiLfml6DpnIDlvLrpo47mjqfkuZ/og73kv67mlLnpop3luqYKICAgICAgICAgICAgICAgIHVwZGF0ZVF1b3RhKGNvbnN1bWVyTm8sIHF1b3RhRWRpdExvZywgcGhvbmUsIGJhc2VRdW90YSwgcmVzdWx0KTsKICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IC8qKgogICAgICog5L+u5pS5YXJjX3VzZXJfc3RhdHVz54q25oCBCiAgICAgKiBAcGFyYW0gdXNlcgogICAgICovCiAgICBwcml2YXRlIHZvaWQgdXBkYXRlVmVyaWZ5U3RhdHVzKFVzZXIgdXNlcikgewogICAgICAgIC8vIOW8uumjjuaOp+S7pXVzZXJTdGF0dXPkuK3nmoTnirbmgIHmnKrlh4YKICAgICAgICBVc2VyU3RhdHVzIHVzZXJTdGF0dXMgPSB1c2VyU3RhdHVzU2VydmljZS5maW5kQnlDb25zdW1lck5vKHVzZXIuZ2V0Q29uc3VtZXJObygpKTsKICAgICAgICBpZiAodXNlclN0YXR1cyA9PSBudWxsKSB7CiAgICAgICAgICAgIHVzZXJTdGF0dXMgPSBuZXcgVXNlclN0YXR1cygpOwogICAgICAgICAgICB1c2VyU3RhdHVzLnNldENvbnN1bWVyTm8odXNlci5nZXRDb25zdW1lck5vKCkpOwogICAgICAgICAgICB1c2VyU3RhdHVzLnNldFBob25lKHVzZXIuZ2V0UGhvbmUoKSk7CiAgICAgICAgICAgIHVzZXJTdGF0dXMuc2V0SWRObyh1c2VyLmdldElkTm8oKSk7CiAgICAgICAgICAgIHVzZXJTdGF0dXMuc2V0Q3JlYXRlVGltZShEYXRlVXRpbC5nZXROb3coKSk7CiAgICAgICAgICAgIHVzZXJTdGF0dXMuc2V0VXBkYXRlVGltZShEYXRlVXRpbC5nZXROb3coKSk7CiAgICAgICAgICAgIHVzZXJTdGF0dXMuc2V0Umlza1N0YXR1cygiMTAiKTsKICAgICAgICAgICAgdXNlclN0YXR1cy5zZXRSaXNrVGltZShEYXRlVXRpbC5nZXROb3coKSk7CiAgICAgICAgICAgIHVzZXJTdGF0dXNTZXJ2aWNlLmluc2VydCh1c2VyU3RhdHVzKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB1c2VyU3RhdHVzLnNldFJpc2tTdGF0dXMoIjEwIik7CiAgICAgICAgICAgIHVzZXJTdGF0dXMuc2V0Umlza1RpbWUoRGF0ZVV0aWwuZ2V0Tm93KCkpOwogICAgICAgICAgICB1c2VyU3RhdHVzU2VydmljZS51cGRhdGVCeUNvbnN1bWVyTm8odXNlclN0YXR1cyk7CiAgICAgICAgfQoKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyovLnNldHRpbmdzCi8qL2xvZ3MKLyovdGFyZ2V0Ci9sb2dzCi8qLy5jbGFzc3BhdGgKLyovKi5iYWsKLyovLnByb2plY3QKLyovKi5sb2cKLyovKi5sb2cuKgovLnByb2plY3QKLy5zZXR0aW5ncwovKi9iaW4KL3VwbG9hZAovNTFmYmFkbWluLXdlYi9wb20ueG1sfgovYXNzZW1ibHkueG1sfgovcG9tLnhtbH4KL3RhcmdldC81MWZiYWRtaW4udGFyLmd6Ci81MWZiYWRtaW4td2ViL2NvbmZpZy5jbGllbnQuY2FjaGUKLzUxZmJhZG1pbi13ZWIvY29uZmlndXJhdGlvbi8qCi9hbnR4LnByb3BlcnRpZXN+Ci9tdm4ubG9nCi5EU19TdG9yZQo1MWZiYWRtaW4td2ViLy5EU19TdG9yZQohKi5kYgo1MWZiYWRtaW4tYml6L3NyYy90ZXN0L2phdmEvTUVUQS1JTkYvCjUxZmJhZG1pbi1jb21tb24vc3JjL3Rlc3QvamF2YS9NRVRBLUlORi8KNTFmYmFkbWluLWRhbC9zcmMvdGVzdC9qYXZhL01FVEEtSU5GLwpsb2cudHh0Cm91dApidWlsZApsb2dzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZXJXaGl0ZSAhPSBudWxsICYmIHVzZXJXaGl0ZS5nZXRUeXBlKCkgPT0gMSkgewogICAgICAgICAgICAgICAgLy8g6I635Y+W5Y6f5aeL5by66aOO5o6n54q25oCBCiAgICAgICAgICAgICAgICBpZiAodXNlclN0YXR1cyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgcXVvdGFFZGl0TG9nLnNldE9yaWdpblZlcmlmeVJlc3VsdCgiIik7CiAgICAgICAgICAgICAgICAgICAgcXVvdGFFZGl0TG9nLnNldFZlcmlmeU9yZGVyTm8oIiIpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcmlza1N0YXR1cyA9IHVzZXJTdGF0dXMuZ2V0Umlza1N0YXR1cygpOwogICAgICAgICAgICAgICAgICAgIHF1b3RhRWRpdExvZy5zZXRPcmlnaW5WZXJpZnlSZXN1bHQocmlza1N0YXR1cyk7CiAgICAgICAgICAgICAgICAgICAgcXVvdGFFZGl0TG9nLnNldFZlcmlmeU9yZGVyTm8odmVyaWZ5LmdldE9yZGVyTm8oKSk7CgogICAgICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlsLmVxdWFscyhSdWxlQ29uc3RhbnQuUkVTVUxUX1RZUEVfSEFORCwgcmlza1N0YXR1cykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gMDA65by66aOO5o6n5q2j5Zyo562J5b6FCiAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdC5wdXQoQ29uc3RhbnQuUkVTUE9OU0VfQ09ERV9NU0csICLlvLrpo47mjqforqTor4HlrozmiJDlkI7ph43or5UiKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0LnB1dChDb25zdGFudC5SRVNQT05TRV9DT0RFLCBDb25zdGFudC5GQUlMX0NPREVfVkFMVUUpOwogICAgICAgICAgICAgICAgICAgICAgICBTZXJ2bGV0VXRpbHMud3JpdGVUb1Jlc3BvbnNlKHJlc3BvbnNlLCByZXN1bHQpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy8g56eN5a2Q55So5oi35peg6ZyA5by66aOO5o6n5Lmf6IO95L+u5pS56aKd5bqmCiAgICAgICAgICAgICAgICB1cGRhdGVRdW90YShjb25zdW1lck5vLCBxdW90YUVkaXRMb2csIHBob25lLCBiYXNlUXVvdGEsIHJlc3VsdCk7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbC5pc0VtcHR5KGJvZHkpKSB7CiAgICAgICAgICAgIFNlcnZsZXRVdGlscy5wcmludE1lc3NhZ2VSZXR1cm4ocmVzcG9uc2UsICJib2R55Y+C5pWw5Li656m6Iik7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
