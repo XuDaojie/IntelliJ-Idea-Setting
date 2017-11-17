@@ -122,7 +122,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/util/ScaleTransform.java" timestamp="1486957942595">
         <mark key="[" line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-discovery/src/main/resources/application-peer2.yml" timestamp="1510891147224" />
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-discovery/src/main/resources/application-peer2.yml" timestamp="1510896758445">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/SysOperatorRoleDao.java" timestamp="1500278856047">
         <mark key="[" line="33" column="24" />
       </file>
@@ -344,11 +348,11 @@
         <mark key="]" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-discovery/src/main/resources/application-peer1.yml" timestamp="1510891261951">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="10" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-discovery/src/main/resources/application-peer1.yml" timestamp="1510896775282">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
         <mark key="^" line="10" column="8" />
-        <mark key="." line="10" column="8" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/chart/build.gradle" timestamp="1486621122653">
         <mark key="[" line="29" column="62" />
@@ -356,7 +360,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/.gitignore" timestamp="1486351624374">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510890597480">
+      <file name="/Dummy.txt" timestamp="1510896788759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -524,8 +528,8 @@
       <jump line="94" column="39" filename="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/DevelopmentSettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">MTI3LjAuMC4xIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -566,19 +570,34 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBtUm9vdEhhbmRsZXIucG9zdChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICBMb2cudyhUQUcgKyAieHgiLCBUaHJlYWQuY3VycmVudFRocmVhZCgpLnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgLy8g6ICX5pe25pON5L2cCiAgICAgICAgICAgICAgICBtUm9vdFBlcm1pc3Npb24gPSBTaGVsbFV0aWxzLmNoZWNrUm9vdFBlcm1pc3Npb24oKTsKICAgICAgICAgICAgICAgIG1Sb290SGFuZGxlci5zZW5kRW1wdHlNZXNzYWdlKDApOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgIGZldGNoUmVnaXN0cnk6IGZhbHNlCg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">IyAgICAgIHJlZ2lzdGVyV2l0aEV1cmVrYTogZmFsc2UK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyAgICAgIHJlZ2lzdGVyV2l0aEV1cmVrYTogZmFsc2UKIyAgICAgIGZldGNoUmVnaXN0cnk6IGZhbHNlCgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICBtUm9vdEhhbmRsZXIucG9zdChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICBMb2cudyhUQUcgKyAieHgiLCBUaHJlYWQuY3VycmVudFRocmVhZCgpLnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgLy8g6ICX5pe25pON5L2cCiAgICAgICAgICAgICAgICBtUm9vdFBlcm1pc3Npb24gPSBTaGVsbFV0aWxzLmNoZWNrUm9vdFBlcm1pc3Npb24oKTsKICAgICAgICAgICAgICAgIG1Sb290SGFuZGxlci5zZW5kRW1wdHlNZXNzYWdlKDApOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25TYXZlSW5zdGFuY2VTdGF0ZShCdW5kbGUgb3V0U3RhdGUpIHsKICAgICAgICBzdXBlci5vblNhdmVJbnN0YW5jZVN0YXRlKG91dFN0YXRlKTsKICAgICAgICBvdXRTdGF0ZS5wdXRCb29sZWFuKCk7CiAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>// 耗时 应当在子线程中操作
         new Thread() {
             @Override
@@ -590,29 +609,14 @@
             }
         }.start();</text>
       </register>
-      <register name="5" type="4">
+      <register name="x" type="4">
+        <text>shelfNo</text>
+      </register>
+      <register name="9" type="4">
         <text>//        if (!ShellUtils.checkRootPermission()) {
 //            Toast.makeText(this, &quot;本程序需要在 root 环境下运行&quot;, Toast.LENGTH_SHORT).show();
 //            finish();
 //        }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="x" type="4">
-        <text>shelfNo</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICA+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
