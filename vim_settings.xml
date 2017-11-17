@@ -39,14 +39,16 @@
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/src/main/java/WebApplication.java" timestamp="1508697346088">
         <mark key="[" line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Downloads/moxie-sdk-java/moxie-sdk-java/src/com/moxie/api/test/CarrierNotifyTest.java" timestamp="1510917006649">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Event/UserLog/Components/Detail.js" timestamp="1508394302825">
         <mark key="[" line="120" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/controller/MoxieController.java" timestamp="1510726666461">
-        <mark key="[" line="505" column="9" />
-        <mark key="]" line="496" column="55" />
-        <mark key="." line="496" column="55" />
-        <mark key="^" line="496" column="55" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/api/dsdata/controller/MoxieController.java" timestamp="1510917103769">
+        <mark key="[" line="487" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/quota/UserQuotaMapper.xml" timestamp="1510123887134">
         <mark key="[" line="16" column="56" />
@@ -140,10 +142,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiUserDirectoryController.java" timestamp="1510725503893">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1510913002404">
-        <mark key="[" line="342" column="55" />
-        <mark key="]" line="115" column="43" />
-        <mark key="." line="115" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxXueXinThread.java" timestamp="1510917596169">
+        <mark key="[" line="114" column="39" />
+        <mark key="]" line="114" column="39" />
+        <mark key="." line="114" column="39" />
         <mark key="^" line="115" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fkCloud/common-consumer/build.gradle" timestamp="1510802306395">
@@ -227,7 +229,7 @@
       <file name="$USER_HOME$/IdeaProjects/fkCloud/common-discovery/src/main/resources/application.yml" timestamp="1510818611943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1510817545226">
+      <file name="/fragment.java" timestamp="1510917415522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -341,12 +343,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>testCompile(group: 'org.springframework.boot', name: 'spring-boot-starter-test', version: '1.5.8.RELEASE') {
-        exclude(module: 'commons-logging')
-    }</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>', version</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
