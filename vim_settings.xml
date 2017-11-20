@@ -140,6 +140,11 @@
       <file name="/HTML File.txt.ft" timestamp="1500360467467">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-config/build.gradle" timestamp="1511168890712">
+        <mark key="[" line="45" column="69" />
+        <mark key="]" line="45" column="69" />
+        <mark key="." line="45" column="69" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/Constants.java" timestamp="1488876057476">
         <mark key="[" line="11" column="85" />
         <mark key="]" line="7" column="74" />
@@ -263,11 +268,6 @@
         <mark key="." line="23" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1511162218127" />
-      <file name="$USER_HOME$/IdeaProjects/fkCloud/common-config/src/main/java/com/ald/fkcloud/commonconfig/CommonConfigApplication.java" timestamp="1511167865305">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/Public/SystemManagement/ProducttypeManagement/Components/SeachForm.js" timestamp="1500452249091">
         <mark key="[" line="0" column="29" />
       </file>
@@ -539,8 +539,8 @@
       <jump line="94" column="39" filename="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/DevelopmentSettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZC5uZXRmbGl4LmV1cmVrYS5FbmFibGVFdXJla2FDbGllbnQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>springBootVersion</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -573,7 +573,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MTI3LjAuMC4xIA==</text>
+        <text>springBootVersion</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
