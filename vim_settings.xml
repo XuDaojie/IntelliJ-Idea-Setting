@@ -154,7 +154,6 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/mapper/MxdataXueXinMapper.java" timestamp="1509691082521">
         <mark key="[" line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1510817294417" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1510817294417" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/MxAliPayThread.java" timestamp="1509695332109">
         <mark key="[" line="212" column="8" />
@@ -200,8 +199,10 @@
         <mark key="^" line="60" column="10" />
         <mark key="." line="60" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1510128452173">
-        <mark key="[" line="790" column="367" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1511936697043">
+        <mark key="[" line="876" column="12" />
+        <mark key="]" line="876" column="12" />
+        <mark key="." line="876" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/LimitModel/Components/IncreaseAmountEdit.js" timestamp="1511330587031">
         <mark key="[" line="179" column="40" />
@@ -350,11 +351,11 @@
       <jump line="53" column="0" filename="$USER_HOME$/IdeaProjects/fkCloud/common-config/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7bWluQ2FuRWRpdDogdHJ1ZX0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>`arc_t`.</text>
       </register>
       <register name="-" type="4">
-        <text>minCanEdit</text>
+        <text>`arc_t`.</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
