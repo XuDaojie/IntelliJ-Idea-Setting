@@ -6,10 +6,10 @@
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/tool/codeGenerator/Create.java" timestamp="1511947042584">
-        <mark key="[" line="34" column="34" />
-        <mark key="]" line="34" column="34" />
-        <mark key="." line="34" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/tool/codeGenerator/Create.java" timestamp="1512023452803">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/mapper/UserDirectoryRiskMapper.java" timestamp="1511947390998">
         <mark key="[" line="18" column="0" />
@@ -126,10 +126,11 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/domain/MxDataXueXin.java" timestamp="1509593194289">
         <mark key="[" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1512014425577">
-        <mark key="[" line="729" column="66" />
-        <mark key="]" line="720" column="0" />
-        <mark key="." line="720" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1512023865122">
+        <mark key="[" line="735" column="12" />
+        <mark key="]" line="732" column="12" />
+        <mark key="." line="732" column="12" />
+        <mark key="^" line="732" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/QuotaHelper.java" timestamp="1510122327713">
         <mark key="[" line="42" column="80" />
@@ -381,11 +382,11 @@
       <jump line="53" column="0" filename="$USER_HOME$/IdeaProjects/fkCloud/common-config/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>quota</text>
       </register>
       <register name="-" type="4">
-        <text>loanSize</text>
+        <text>quota</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
