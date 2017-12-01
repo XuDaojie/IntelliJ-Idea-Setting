@@ -6,8 +6,11 @@
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1512112935053">
-        <mark key="[" line="318" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1512117007029">
+        <mark key="[" line="225" column="18" />
+        <mark key="]" line="225" column="17" />
+        <mark key="." line="225" column="17" />
+        <mark key="^" line="225" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/reviewReport.html" timestamp="1512034417862" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiReportController.java" timestamp="1512034785262" />
@@ -150,10 +153,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
