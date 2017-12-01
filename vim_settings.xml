@@ -6,13 +6,14 @@
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1512117852101">
-        <mark key="[" line="505" column="12" />
-        <mark key="]" line="505" column="12" />
-        <mark key="." line="505" column="12" />
-        <mark key="^" line="225" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1512120216729">
+        <mark key="[" line="231" column="15" />
+        <mark key="]" line="231" column="15" />
+        <mark key="." line="231" column="15" />
+        <mark key="^" line="217" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/webapp/dev/reviewReport.html" timestamp="1512034417862" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/model/ShangshuCountModel.java" timestamp="1512118337790" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/controller/ApiReportController.java" timestamp="1512034785262" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/rule/VerifyRespMapper.xml" timestamp="1512025096090" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/mapper/UserMapper.java" timestamp="1512027932044">
@@ -153,10 +154,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>size</text>
+        <text>callAddressCount</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>callAddressCount</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
