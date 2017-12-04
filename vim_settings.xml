@@ -33,10 +33,10 @@
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/settings.gradle" timestamp="1508753005138">
         <mark key="[" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1512120216729">
-        <mark key="[" line="231" column="15" />
-        <mark key="]" line="231" column="15" />
-        <mark key="." line="231" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1512371810513">
+        <mark key="[" line="187" column="12" />
+        <mark key="]" line="187" column="12" />
+        <mark key="." line="187" column="12" />
         <mark key="^" line="217" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fkCloud/common-config/gradle/wrapper/gradle-wrapper.properties" timestamp="1510799816847">
@@ -132,7 +132,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/mapper/MxdataXueXinMapper.java" timestamp="1509691082521">
         <mark key="[" line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1512370005014">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/user/UserDirectoryMapper.xml" timestamp="1512371500981">
         <mark key="[" line="24" column="86" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1512357893678" />
@@ -302,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>callAddressCount</text>
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>callAddressCount</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
