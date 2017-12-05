@@ -34,11 +34,11 @@
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/settings.gradle" timestamp="1508753005138">
         <mark key="[" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1512472277435">
-        <mark key="[" line="384" column="77" />
-        <mark key="]" line="384" column="76" />
-        <mark key="." line="384" column="76" />
-        <mark key="^" line="384" column="76" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1512474053011">
+        <mark key="[" line="512" column="8" />
+        <mark key="]" line="385" column="76" />
+        <mark key="." line="385" column="76" />
+        <mark key="^" line="385" column="76" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fkCloud/common-config/gradle/wrapper/gradle-wrapper.properties" timestamp="1510799816847">
         <mark key="[" line="5" column="73" />
@@ -204,8 +204,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1508725328941">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1512472269287">
+      <file name="/fragment.java" timestamp="1512474026809">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -312,7 +314,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2FsbHMK</text>
+        <text encoding="base64">Y2FsbHNOdW0uZ2V0KG1hdGNoUGhvbmUpCg==</text>
       </register>
       <register name="-" type="4">
         <text>arraySum</text>
@@ -324,39 +326,39 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2FsbHMK</text>
+        <text encoding="base64">Y2FsbHNOdW0uZ2V0KG1hdGNoUGhvbmUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Y2FsbHMK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBpbnQgc2l6ZSA9IGRpcmVjdG9yeVN0ci5sZW5ndGg7IC8vIOacqui/h+a7pOaXtuWPt+eggeaAu+aVsAogICAgICAgIGludCBpbnZhbGlkU2l6ZSA9IDA7IC8vIOaXoOaViOaVsOmHjwogICAgICAgIGludCBmYWtlU2l6ZSA9IDA7IC8vIOS8qumAoOWPt+eggeaVsOmHjwogICAgICAgIGludCBmYW1pbHlTaXplID0gMDsgLy8g5a625Lq65pWw6YePCiAgICAgICAgaW50IHJlcGVhdFNpemUgPSAwOyAvLyDph43lpI3lj7fnoIHmlbDph48=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBkaXJlY3RvcnlTdHIubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgU3RyaW5nIG1hbiA9IGRpcmVjdG9yeVN0cltpXTsKICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWwuaXNCbGFuayhtYW4pKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTdHJpbmcgbmlja25hbWUgPSBTdHJpbmdVdGlsLnN1YnN0cmluZ0JlZm9yZShtYW4sICI6Iik7Ci8vICAgICAgICAgICAgU3RyaW5nIHBob25lID0gU3RyaW5nVXRpbC5zdWJzdHJpbmdBZnRlckxhc3QobWFuLCAiOiIpOwogICAgICAgICAgICBmb3IgKFN0cmluZyBsb2FuIDogcmlza0FycmF5KSB7CiAgICAgICAgICAgICAgICBpZiAoU3RyaW5nVXRpbC5jb250YWlucyhuaWNrbmFtZSwgbG9hbikpIHsKICAgICAgICAgICAgICAgICAgICArK3NpemU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+        <text encoding="base64">ICBpbnQgc2l6ZSA9IGRpcmVjdG9yeVN0ci5sZW5ndGg7IC8vIOacqui/h+a7pOaXtuWPt+eggeaAu+aVsAogICAgICAgIGludCBpbnZhbGlkU2l6ZSA9IDA7IC8vIOaXoOaViOaVsOmHjwogICAgICAgIGludCBmYWtlU2l6ZSA9IDA7IC8vIOS8qumAoOWPt+eggeaVsOmHjwogICAgICAgIGludCBmYW1pbHlTaXplID0gMDsgLy8g5a625Lq65pWw6YePCiAgICAgICAgaW50IHJlcGVhdFNpemUgPSAwOyAvLyDph43lpI3lj7fnoIHmlbDph48=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBkaXJlY3RvcnlTdHIubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgU3RyaW5nIG1hbiA9IGRpcmVjdG9yeVN0cltpXTsKICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWwuaXNCbGFuayhtYW4pKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTdHJpbmcgbmlja25hbWUgPSBTdHJpbmdVdGlsLnN1YnN0cmluZ0JlZm9yZShtYW4sICI6Iik7Ci8vICAgICAgICAgICAgU3RyaW5nIHBob25lID0gU3RyaW5nVXRpbC5zdWJzdHJpbmdBZnRlckxhc3QobWFuLCAiOiIpOwogICAgICAgICAgICBmb3IgKFN0cmluZyBsb2FuIDogcmlza0FycmF5KSB7CiAgICAgICAgICAgICAgICBpZiAoU3RyaW5nVXRpbC5jb250YWlucyhuaWNrbmFtZSwgbG9hbikpIHsKICAgICAgICAgICAgICAgICAgICArK3NpemU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>//            String phone = StringUtil.substringAfterLast(man, &quot;:&quot;);
                 for (String loan : riskArray) {
                     if (StringUtil.contains(nickname, loan)) {
                         ++size;
                     }
                 }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
