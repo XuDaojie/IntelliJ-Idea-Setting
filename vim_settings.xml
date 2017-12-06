@@ -98,7 +98,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/domain/MxDataXueXin.java" timestamp="1509593194289">
         <mark key="[" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1512544552109">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1512545961296">
         <mark key="[" line="797" column="22" />
         <mark key="]" line="797" column="22" />
         <mark key="." line="797" column="22" />
@@ -168,8 +168,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/mapper/BaseMapper.java" timestamp="1512542835613">
         <mark key="[" line="65" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1510129512729">
-        <mark key="[" line="0" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512545829065">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/domain/UserDirectoryRisk.java" timestamp="1512544248025">
         <mark key="[" line="19" column="0" />
@@ -187,8 +189,8 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1508466079709">
         <mark key="[" line="511" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1512472067539">
-        <mark key="[" line="40" column="7113" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1512545757319">
+        <mark key="[" line="40" column="28" />
         <mark key="]" line="40" column="36" />
         <mark key="^" line="40" column="36" />
         <mark key="." line="40" column="36" />
@@ -202,7 +204,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1508725328941">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1512474026809">
+      <file name="/fragment.java" timestamp="1512546041030">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -311,8 +313,8 @@
       <jump line="53" column="0" filename="$USER_HOME$/IdeaProjects/fkCloud/common-config/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>saveSelective</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MQo=</text>
       </register>
       <register name="-" type="4">
         <text>saveSelective</text>
@@ -324,45 +326,45 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2FsbHNOdW0uZ2V0KG1hdGNoUGhvbmUpCg==</text>
+        <text encoding="base64">MQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FsbHMK</text>
+        <text encoding="base64">Y2FsbHNOdW0uZ2V0KG1hdGNoUGhvbmUpCg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Y2FsbHMK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBpbnQgc2l6ZSA9IGRpcmVjdG9yeVN0ci5sZW5ndGg7IC8vIOacqui/h+a7pOaXtuWPt+eggeaAu+aVsAogICAgICAgIGludCBpbnZhbGlkU2l6ZSA9IDA7IC8vIOaXoOaViOaVsOmHjwogICAgICAgIGludCBmYWtlU2l6ZSA9IDA7IC8vIOS8qumAoOWPt+eggeaVsOmHjwogICAgICAgIGludCBmYW1pbHlTaXplID0gMDsgLy8g5a625Lq65pWw6YePCiAgICAgICAgaW50IHJlcGVhdFNpemUgPSAwOyAvLyDph43lpI3lj7fnoIHmlbDph48=</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBkaXJlY3RvcnlTdHIubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgU3RyaW5nIG1hbiA9IGRpcmVjdG9yeVN0cltpXTsKICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWwuaXNCbGFuayhtYW4pKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTdHJpbmcgbmlja25hbWUgPSBTdHJpbmdVdGlsLnN1YnN0cmluZ0JlZm9yZShtYW4sICI6Iik7Ci8vICAgICAgICAgICAgU3RyaW5nIHBob25lID0gU3RyaW5nVXRpbC5zdWJzdHJpbmdBZnRlckxhc3QobWFuLCAiOiIpOwogICAgICAgICAgICBmb3IgKFN0cmluZyBsb2FuIDogcmlza0FycmF5KSB7CiAgICAgICAgICAgICAgICBpZiAoU3RyaW5nVXRpbC5jb250YWlucyhuaWNrbmFtZSwgbG9hbikpIHsKICAgICAgICAgICAgICAgICAgICArK3NpemU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+        <text encoding="base64">ICBpbnQgc2l6ZSA9IGRpcmVjdG9yeVN0ci5sZW5ndGg7IC8vIOacqui/h+a7pOaXtuWPt+eggeaAu+aVsAogICAgICAgIGludCBpbnZhbGlkU2l6ZSA9IDA7IC8vIOaXoOaViOaVsOmHjwogICAgICAgIGludCBmYWtlU2l6ZSA9IDA7IC8vIOS8qumAoOWPt+eggeaVsOmHjwogICAgICAgIGludCBmYW1pbHlTaXplID0gMDsgLy8g5a625Lq65pWw6YePCiAgICAgICAgaW50IHJlcGVhdFNpemUgPSAwOyAvLyDph43lpI3lj7fnoIHmlbDph48=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBkaXJlY3RvcnlTdHIubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgU3RyaW5nIG1hbiA9IGRpcmVjdG9yeVN0cltpXTsKICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWwuaXNCbGFuayhtYW4pKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTdHJpbmcgbmlja25hbWUgPSBTdHJpbmdVdGlsLnN1YnN0cmluZ0JlZm9yZShtYW4sICI6Iik7Ci8vICAgICAgICAgICAgU3RyaW5nIHBob25lID0gU3RyaW5nVXRpbC5zdWJzdHJpbmdBZnRlckxhc3QobWFuLCAiOiIpOwogICAgICAgICAgICBmb3IgKFN0cmluZyBsb2FuIDogcmlza0FycmF5KSB7CiAgICAgICAgICAgICAgICBpZiAoU3RyaW5nVXRpbC5jb250YWlucyhuaWNrbmFtZSwgbG9hbikpIHsKICAgICAgICAgICAgICAgICAgICArK3NpemU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="x" type="4">
+        <text>null</text>
+      </register>
+      <register name="9" type="4">
         <text>//            String phone = StringUtil.substringAfterLast(man, &quot;:&quot;);
                 for (String loan : riskArray) {
                     if (StringUtil.contains(nickname, loan)) {
                         ++size;
                     }
                 }</text>
-      </register>
-      <register name="x" type="4">
-        <text>null</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
