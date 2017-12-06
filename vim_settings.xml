@@ -41,7 +41,7 @@
       <file name="$USER_HOME$/IdeaProjects/DockerSpringBoot/settings.gradle" timestamp="1508753005138">
         <mark key="[" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1512542515526">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/thread/TppRegisterRiskThread.java" timestamp="1512547412431">
         <mark key="[" line="512" column="8" />
         <mark key="]" line="386" column="0" />
         <mark key="." line="386" column="0" />
@@ -98,10 +98,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/tpp/data/domain/MxDataXueXin.java" timestamp="1509593194289">
         <mark key="[" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1512545961296">
-        <mark key="[" line="797" column="22" />
-        <mark key="]" line="797" column="22" />
-        <mark key="." line="797" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/manage/user/service/impl/UserDirectoryServiceImpl.java" timestamp="1512547158480">
+        <mark key="[" line="843" column="16" />
+        <mark key="]" line="843" column="16" />
+        <mark key="." line="843" column="16" />
         <mark key="^" line="806" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/QuotaHelper.java" timestamp="1510122327713">
@@ -159,7 +159,7 @@
         <mark key="." line="409" column="16" />
         <mark key="^" line="261" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512526756198">
+      <file name="/Dummy.txt" timestamp="1512547416369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1512460603578">
@@ -189,7 +189,7 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/modules/api/helper/ApiHandler.java" timestamp="1508466079709">
         <mark key="[" line="511" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1512545757319">
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/RiskVerifyEcode.java" timestamp="1512547344265">
         <mark key="[" line="40" column="28" />
         <mark key="]" line="40" column="36" />
         <mark key="^" line="40" column="36" />
@@ -313,11 +313,11 @@
       <jump line="53" column="0" filename="$USER_HOME$/IdeaProjects/fkCloud/common-config/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MQo=</text>
+      <register name="&quot;" type="4">
+        <text>size</text>
       </register>
       <register name="-" type="4">
-        <text>saveSelective</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
