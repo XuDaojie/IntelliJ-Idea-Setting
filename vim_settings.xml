@@ -159,11 +159,13 @@
         <mark key="." line="409" column="16" />
         <mark key="^" line="261" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512547416369">
+      <file name="/Dummy.txt" timestamp="1512548164562">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1512460603578">
-        <mark key="[" line="900" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/ddl.sql" timestamp="1512548151617">
+        <mark key="[" line="913" column="16" />
+        <mark key="]" line="913" column="16" />
+        <mark key="." line="913" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/mapper/BaseMapper.java" timestamp="1512542835613">
         <mark key="[" line="65" column="19" />
@@ -314,10 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>size</text>
+        <text>AUTO_INCREMENT=244</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>AUTO_INCREMENT=244</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
