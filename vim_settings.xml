@@ -59,8 +59,10 @@
         <mark key="^" line="22" column="53" />
         <mark key="." line="22" column="53" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatisGenerator/src/main/resources/generatorConfig.xml" timestamp="1513568196692">
-        <mark key="[" line="16" column="58" />
+      <file name="$USER_HOME$/IdeaProjects/mybatisGenerator/src/main/resources/generatorConfig.xml" timestamp="1513576982134">
+        <mark key="[" line="23" column="68" />
+        <mark key="]" line="23" column="68" />
+        <mark key="." line="23" column="68" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fkCloud/arc_collection_new/debt-system/src/main/resources/generatorConfig.xml" timestamp="1513329783636">
         <mark key="[" line="7" column="30" />
@@ -416,7 +418,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;generatorConfig.xml&quot;</text>
+        <text>THIS_CONFIGURATION_IS_NOT_REQUIRED</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -449,7 +451,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;generatorConfig.xml&quot;</text>
+        <text>THIS_CONFIGURATION_IS_NOT_REQUIRED</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
