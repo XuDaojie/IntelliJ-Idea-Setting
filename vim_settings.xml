@@ -135,7 +135,7 @@
       <file name="$USER_HOME$/IdeaProjects/fkCloud/arc_collection_new/debt-web/src/main/resources/logback-spring.xml" timestamp="1510902961166">
         <mark key="[" line="155" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/base/BaseNewsList.java" timestamp="1522395380086" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/base/BaseNewsList.java" timestamp="1522397305548" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/CreditEdit.js" timestamp="1500518908729">
         <mark key="[" line="118" column="32" />
         <mark key="]" line="47" column="23" />
@@ -176,6 +176,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-core/src/main/java/com/rongdu/arc/common/utils/StringUtil.java" timestamp="1499838222704">
         <mark key="[" line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/mapper/CategoryMapper.java" timestamp="1522397884270">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/performance/src/main/AndroidManifest.xml" timestamp="1486626400122">
         <mark key="[" line="16" column="19" />
@@ -484,7 +489,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>implements TestUserController</text>
+        <text>org.apache.ibatis.annotations.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -517,7 +522,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>implements TestUserController</text>
+        <text>org.apache.ibatis.annotations.</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
