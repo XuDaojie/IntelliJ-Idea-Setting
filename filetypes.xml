@@ -1,10 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="ini" approved="true" type="Ini" />
-      <mapping pattern="gesture_ambient_lift" type="PLAIN_TEXT" />
       <mapping pattern="filtershow_state_button_background" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping pattern="gesture_ambient_lift" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
