@@ -106,6 +106,11 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/sql/shiro.sql" timestamp="1523264529121">
+        <mark key="[" line="29" column="44" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/shiro/example2/AuthorizationTest.java" timestamp="1523260589242">
         <mark key="]" line="49" column="4" />
         <mark key="^" line="49" column="4" />
@@ -159,6 +164,7 @@
         <mark key="." line="47" column="23" />
         <mark key="^" line="47" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/shiro-example/shiro-example-chapter2/src/test/resources/shiro-jdbc-realm.ini" timestamp="1523263758198" />
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/res/xml/pref_test.xml" timestamp="1488717787928">
         <mark key="[" line="4" column="26" />
       </file>
@@ -225,8 +231,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/DevelopQuickSetting/app/src/main/java/me/yugy/github/developquicksetting/MainActivity.java" timestamp="1488547997054">
         <mark key="[" line="49" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/shiro/example2/LoginLogoutTest.java" timestamp="1523262367836">
-        <mark key="[" line="96" column="69" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/shiro/example2/LoginLogoutTest.java" timestamp="1523264304375">
+        <mark key="[" line="119" column="5" />
         <mark key="]" line="96" column="69" />
         <mark key="^" line="19" column="38" />
         <mark key="." line="96" column="69" />
@@ -289,6 +295,7 @@
         <mark key="." line="42" column="37" />
         <mark key="^" line="42" column="37" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/resources/shiro-jdbc-realm.ini" timestamp="1523264176908" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.shiro/shiro-core/1.4.0/fa55fb228087dbb9026ce97d8e2f6d968b77a9d7/shiro-core-1.4.0-sources.jar!/org/apache/shiro/config/IniSecurityManagerFactory.java" timestamp="1523261712967" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/Constants.js" timestamp="1500456700595">
         <mark key="[" line="3" column="0" />
@@ -354,7 +361,6 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/shiro/example2/realm/MyRealm2.java" timestamp="1523262300160">
         <mark key="[" line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1523254890476" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/CreditList.js" timestamp="1500518381556">
         <mark key="[" line="216" column="50" />
         <mark key="]" line="119" column="0" />
@@ -370,13 +376,16 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/chart/build.gradle" timestamp="1486621122653">
         <mark key="[" line="29" column="62" />
       </file>
+      <file name="/dummy.sql" timestamp="1523264164946">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/.gitignore" timestamp="1486351624374">
         <mark key="[" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/ReadHisMapper.java" timestamp="1522317934208">
         <mark key="[" line="13" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523261414330">
+      <file name="/Dummy.txt" timestamp="1523264854393">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -420,12 +429,15 @@
         <mark key="]" line="2" column="56" />
         <mark key="." line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/build.gradle" timestamp="1523258126530">
-        <mark key="[" line="16" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/build.gradle" timestamp="1523264595247">
+        <mark key="[" line="18" column="47" />
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fkCloud/arc_collection_new/logs/debt/debt_debug.log" timestamp="1512455283171">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/users [shiro@localhost]" timestamp="1523264164145">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/mapper/ContentMapper.java" timestamp="1522323462052">
@@ -568,7 +580,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>guest</text>
+        <text>zhang</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -601,7 +613,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>guest</text>
+        <text>zhang</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
