@@ -214,6 +214,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-test.yml" timestamp="1526267235289">
+        <mark key="[" line="7" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/controller/ApiDocsController.java" timestamp="1523359995667">
         <mark key="[" line="15" column="48" />
         <mark key="]" line="15" column="47" />
@@ -329,7 +332,6 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-pre.properties" timestamp="1523326744106">
         <mark key="[" line="52" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1523414513715" />
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/ApiDocsController.java" timestamp="1523360033773">
         <mark key="[" line="15" column="50" />
       </file>
@@ -345,7 +347,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/ReadHisMapper.java" timestamp="1522317934208">
         <mark key="[" line="13" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526265984866">
+      <file name="/Dummy.txt" timestamp="1526267263975">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -386,6 +388,9 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pre.properties" timestamp="1523326786160">
         <mark key="[" line="67" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/bootstrap-test.yml" timestamp="1526266894593">
+        <mark key="[" line="7" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/fkCloud/arc_collection_new/logs/debt/debt_debug.log" timestamp="1512455283171">
         <mark key="[" line="0" column="0" />
       </file>
@@ -410,7 +415,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/constant/Constants.java" timestamp="1523441068674">
         <mark key="[" line="9" column="53" />
       </file>
-      <file name="/fragment.java" timestamp="1523513088684">
+      <file name="/fragment.java" timestamp="1526267263966">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -526,8 +531,8 @@
       <jump line="94" column="39" filename="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/DevelopmentSettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>local</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -560,7 +565,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jdbc:mysql://192.168.115.105:3306</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
