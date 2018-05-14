@@ -14,6 +14,7 @@
         <mark key="[" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/application-db.properties" timestamp="1526262279327" />
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/content/HomeContentQuartz.java" timestamp="1526282571616" />
       <file name="/a.dummy" timestamp="1523445764234">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,6 +23,11 @@
         <mark key="]" line="155" column="28" />
         <mark key="^" line="155" column="28" />
         <mark key="." line="155" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/bootstrap-test.yml" timestamp="1526282748913">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/README.md" timestamp="1488512134327">
         <mark key="[" line="0" column="4" />
@@ -546,7 +552,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>test</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -579,7 +585,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
