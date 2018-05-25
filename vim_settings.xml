@@ -33,6 +33,12 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pro.properties" timestamp="1523358006255">
         <mark key="[" line="67" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/CategoryController.java" timestamp="1527234070459">
+        <mark key="[" line="229" column="15" />
+        <mark key="]" line="232" column="40" />
+        <mark key="." line="232" column="40" />
+        <mark key="^" line="232" column="40" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/fkCloud/arc_collection_new/debt-domain/build.gradle" timestamp="1513328182762">
         <mark key="[" line="4" column="57" />
       </file>
@@ -384,6 +390,7 @@
         <mark key="[" line="52" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1527220596720" />
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/Response.java" timestamp="1527234022246" />
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/ApiDocsController.java" timestamp="1523360033773">
         <mark key="[" line="15" column="50" />
       </file>
@@ -410,6 +417,9 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
+      <file name="/Dummy.txt" timestamp="1527233605609">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/loading_dialog.xml" timestamp="1486950618858">
         <mark key="[" line="14" column="53" />
       </file>
@@ -424,6 +434,7 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/es/EsServiceimpl.java" timestamp="1527234129978" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-test.properties" timestamp="1526268342269">
         <mark key="[" line="128" column="33" />
       </file>
@@ -592,7 +603,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>upload</text>
+        <text>newSuccessInstance</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -625,7 +636,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>upload</text>
+        <text>newSuccessInstance</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
