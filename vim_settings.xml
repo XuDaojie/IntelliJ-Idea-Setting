@@ -100,8 +100,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/util/ScaleTransform.java" timestamp="1486957942595">
         <mark key="[" line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/README.md" timestamp="1523516120715">
-        <mark key="[" line="134" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/news/README.md" timestamp="1527471375549">
+        <mark key="[" line="105" column="9" />
+        <mark key="]" line="105" column="9" />
+        <mark key="." line="105" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pre.properties" timestamp="1523326895498">
         <mark key="[" line="55" column="33" />
@@ -417,7 +419,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527233605609">
+      <file name="/Dummy.txt" timestamp="1527471889154">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/loading_dialog.xml" timestamp="1486950618858">
@@ -603,7 +605,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>newSuccessInstance</text>
+        <text>javaApplication</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -636,7 +638,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>newSuccessInstance</text>
+        <text>javaApplication</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
