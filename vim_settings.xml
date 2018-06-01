@@ -118,8 +118,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/util/ScaleTransform.java" timestamp="1486957942595">
         <mark key="[" line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/README.md" timestamp="1527753220588" />
-      <file name="/UserServiceImpl.java" timestamp="1527757464301" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pre.properties" timestamp="1523326895498">
         <mark key="[" line="55" column="33" />
       </file>
@@ -169,11 +167,9 @@
         <mark key="." line="76" column="45" />
         <mark key="^" line="76" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/mapper/VersionMapper.java" timestamp="1527754782918" />
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/res/xml/pref_test.xml" timestamp="1488717787928">
         <mark key="[" line="4" column="26" />
       </file>
-      <file name="/logback-spring.xml" timestamp="1527755740762" />
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-web/src/config/antx_test.properties" timestamp="1500293654014">
         <mark key="[" line="8" column="22" />
       </file>
@@ -228,7 +224,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/base/BaseResponse.java" timestamp="1527132163566">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1527757517172" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-test.properties" timestamp="1526262728332">
         <mark key="[" line="75" column="33" />
       </file>
@@ -275,6 +270,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/resources/bootstrap-pre.yml" timestamp="1527599642502">
         <mark key="[" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/OnlineController.java" timestamp="1527832340306">
+        <mark key="[" line="64" column="28" />
+        <mark key="]" line="6" column="60" />
+        <mark key="." line="6" column="60" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidDemo/performance/src/main/java/me/xudaojie/performancepatterns/PreScalingBitmapAcivity.java" timestamp="1486625584610">
         <mark key="[" line="6" column="37" />
@@ -473,12 +473,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/ReadHisMapper.java" timestamp="1522317934208">
         <mark key="[" line="13" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527757518701">
-        <mark key="a" line="0" column="7" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1523358705551">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="5" column="34" />
@@ -500,6 +494,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-test.yml" timestamp="1527617928571">
         <mark key="[" line="159" column="49" />
       </file>
+      <file name="/OnlineController.java" timestamp="1527832138227" />
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/generator/MybatisGenerate.java" timestamp="1527671380800">
         <mark key="[" line="21" column="24" />
       </file>
@@ -686,7 +681,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:wrench: 修改配置文件 Kafka</text>
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -719,7 +714,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:wrench: 修改配置文件 Kafka</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
