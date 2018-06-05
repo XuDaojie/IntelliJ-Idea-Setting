@@ -383,8 +383,10 @@
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/Constants.js" timestamp="1500456700595">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/BannerController.java" timestamp="1528191318050">
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/BannerController.java" timestamp="1528192248654">
         <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-pro.properties" timestamp="1527600406742">
         <mark key="[" line="61" column="0" />
@@ -705,7 +707,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGV4Y2x1ZGVGaWx0ZXJzID0gewogICAgICAgIEBDb21wb25lbnRTY2FuLkZpbHRlcih0eXBlPUZpbHRlclR5cGUuQVNTSUdOQUJMRV9UWVBFLCB2YWx1ZT1Db250ZW50QXBwbGljYXRpb24uY2xhc3MpLAogICAgICAgIEBDb21wb25lbnRTY2FuLkZpbHRlcih0eXBlPUZpbHRlclR5cGUuQU5OT1RBVElPTiwgdmFsdWU9RmVpZ25DbGllbnQuY2xhc3MpCg==</text>
+        <text>tag</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -738,7 +740,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>BannersClient</text>
+        <text>tag</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
