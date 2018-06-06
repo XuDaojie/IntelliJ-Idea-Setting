@@ -19,6 +19,9 @@
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-1/181.5087.20/IntelliJ IDEA.app.vmoptions" timestamp="1527670644653">
         <mark key="[" line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/event/AppEventType.java" timestamp="1528276820798">
+        <mark key="[" line="75" column="50" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/util/DeviceUtils.java" timestamp="1486347156441">
         <mark key="[" line="8" column="26" />
       </file>
@@ -352,7 +355,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/settings.gradle" timestamp="1523253230880">
         <mark key="[" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/event/EventPoint.java" timestamp="1528272235581" />
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/event/EventPoint.java" timestamp="1528275261464" />
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/resources/logback-spring.xml" timestamp="1527485836623">
         <mark key="[" line="211" column="37" />
       </file>
@@ -463,8 +466,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/bootstrap-pro1.properties" timestamp="1527605187144">
         <mark key="[" line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/controller/InnerSearchController.java" timestamp="1528264419384">
-        <mark key="[" line="37" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/controller/InnerSearchController.java" timestamp="1528276059831">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/InnerBannerController.java" timestamp="1528265224405" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-qa.properties" timestamp="1527666253224">
@@ -507,7 +512,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528265237388">
+      <file name="/Dummy.txt" timestamp="1528279037245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/loading_dialog.xml" timestamp="1486950618858">
@@ -604,10 +609,10 @@
         <mark key="^" line="15" column="36" />
         <mark key="." line="15" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/controller/api/SearchController.java" timestamp="1528264414155">
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="30" column="20" />
-        <mark key="." line="30" column="20" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/controller/api/SearchController.java" timestamp="1528276097826">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/resources/bootstrap-pro.yml" timestamp="1527597745166">
         <mark key="[" line="5" column="29" />
@@ -716,8 +721,8 @@
       <jump line="94" column="39" filename="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/DevelopmentSettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Banner接口</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -758,11 +763,11 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGV4Y2x1ZGVGaWx0ZXJzID0gewogICAgICAgIEBDb21wb25lbnRTY2FuLkZpbHRlcih0eXBlPUZpbHRlclR5cGUuQVNTSUdOQUJMRV9UWVBFLCB2YWx1ZT1Db250ZW50QXBwbGljYXRpb24uY2xhc3MpLAogICAgICAgIEBDb21wb25lbnRTY2FuLkZpbHRlcih0eXBlPUZpbHRlclR5cGUuQU5OT1RBVElPTiwgdmFsdWU9RmVpZ25DbGllbnQuY2xhc3MpCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OndyZW5jaDog5L+u5pS56YWN572u5paH5Lu2IHVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
@@ -777,22 +782,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLmFsZC5uZXdzLnNlYXJjaC5zZXJ2aWNlLlVzZXJTZXJ2aWNlOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTAwMDAwOyBpKyspIHsKLy8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImlkeDogIiArIGkpOwovLyAgICAgICAgICAgIFN0cmluZyByZXNwID0gcmVzdFRlbXBsYXRlLmdldEZvck9iamVjdCgiaHR0cDovLzEyNy4wLjAuMTo4NDgwL3VzZXIvdGVzdCIsIFN0cmluZy5jbGFzcyk7Ci8vICAgICAgICB9CgovLyAgICAgICAgU3RyaW5nIHBob25lID0gIjE3NzA2NSIgKyAiMjcxMzMiOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGV4Y2x1ZGVGaWx0ZXJzID0gewogICAgICAgIEBDb21wb25lbnRTY2FuLkZpbHRlcih0eXBlPUZpbHRlclR5cGUuQVNTSUdOQUJMRV9UWVBFLCB2YWx1ZT1Db250ZW50QXBwbGljYXRpb24uY2xhc3MpLAogICAgICAgIEBDb21wb25lbnRTY2FuLkZpbHRlcih0eXBlPUZpbHRlclR5cGUuQU5OT1RBVElPTiwgdmFsdWU9RmVpZ25DbGllbnQuY2xhc3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTAwMDAwOyBpKyspIHsKLy8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImlkeDogIiArIGkpOwovLyAgICAgICAgICAgIFN0cmluZyByZXNwID0gcmVzdFRlbXBsYXRlLmdldEZvck9iamVjdCgiaHR0cDovLzEyNy4wLjAuMTo4NDgwL3VzZXIvdGVzdCIsIFN0cmluZy5jbGFzcyk7Ci8vICAgICAgICB9CgovLyAgICAgICAgU3RyaW5nIHBob25lID0gIjE3NzA2NSIgKyAiMjcxMzMiOwo=</text>
+        <text encoding="base64">OndyZW5jaDog5L+u5pS56YWN572u5paH5Lu2IHVzZXIK</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdEVudGl0eS5hZGQoIm5ld3NJZCIsICJFRTE4RDRENUI0MTQ2MkVCQTlFMkEzMEQyNTU0QzFBNzIxNEFFOTM4NTNFMDI5Iik7CiAgICAgICAgICAgIHJlcXVlc3RFbnRpdHkuYWRkKCJzdGF0ZSIsICIxIik7CiAgICAgICAgICAgIHJlcXVlc3RFbnRpdHkuYWRkKCJpZCIsICIyNDI2Iik7CiAgICAgICAgICAgIHJlcXVlc3RFbnRpdHkuYWRkKCJ1c2VySWQiLCAiMjg0MjgiKTsKICAgICAgICAgICAgcmVxdWVzdEVudGl0eS5hZGQoInRvVXNlcklkIiwgIjI4NDI3Iik7CiAgICAgICAgICAgIHJlcXVlc3RFbnRpdHkuYWRkKCJjb250ZW50IiwgIuS9oOWlve+8jOaIkeaYr+a1i+ivleWlpeingua1tyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
