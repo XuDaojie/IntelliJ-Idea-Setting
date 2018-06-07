@@ -315,7 +315,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/logback-spring.xml" timestamp="1527485828648">
         <mark key="[" line="211" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1528252572760" />
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-qa.yml" timestamp="1527587465237">
         <mark key="[" line="25" column="46" />
       </file>
@@ -384,6 +383,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-test.properties" timestamp="1526262357319">
         <mark key="[" line="7" column="97" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/FileManageController.java" timestamp="1528342813338">
+        <mark key="[" line="238" column="32" />
+        <mark key="]" line="238" column="32" />
+        <mark key="." line="238" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/LimitManage/RangeConfig/Components/Constants.js" timestamp="1500456700595">
         <mark key="[" line="3" column="0" />
@@ -480,7 +484,7 @@
         <mark key="[" line="19" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1528252572760" />
-      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/Response.java" timestamp="1528337844984">
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/Response.java" timestamp="1528342956213">
         <mark key="[" line="269" column="10" />
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
@@ -519,8 +523,10 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528279037245">
+      <file name="/Dummy.txt" timestamp="1528343067916">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/loading_dialog.xml" timestamp="1486950618858">
         <mark key="[" line="14" column="53" />
@@ -731,7 +737,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmBgYGFwcGxlIGpz</text>
+        <text>:bug: 修复了一个 BUG 埋点类型数值错误</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -764,7 +770,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-----</text>
+        <text>:bug: 修复了一个 BUG 埋点类型数值错误</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
