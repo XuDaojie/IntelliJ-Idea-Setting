@@ -597,8 +597,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/constant/Constants.java" timestamp="1523441068674">
         <mark key="[" line="9" column="53" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范.md" timestamp="1527499904461">
-        <mark key="[" line="18" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范.md" timestamp="1528339320363">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="19" column="6" />
       </file>
       <file name="/fragment.java" timestamp="1528253697695">
         <mark key="[" line="0" column="0" />
@@ -726,7 +728,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-----</text>
+        <text encoding="base64">CmBgYGFwcGxlIGpz</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -767,11 +769,11 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmBgYGFwcGxlIGpz</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgpgYGA=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
@@ -786,22 +788,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgY29tLmFsZC5uZXdzLnNlYXJjaC5zZXJ2aWNlLlVzZXJTZXJ2aWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGV4Y2x1ZGVGaWx0ZXJzID0gewogICAgICAgIEBDb21wb25lbnRTY2FuLkZpbHRlcih0eXBlPUZpbHRlclR5cGUuQVNTSUdOQUJMRV9UWVBFLCB2YWx1ZT1Db250ZW50QXBwbGljYXRpb24uY2xhc3MpLAogICAgICAgIEBDb21wb25lbnRTY2FuLkZpbHRlcih0eXBlPUZpbHRlclR5cGUuQU5OT1RBVElPTiwgdmFsdWU9RmVpZ25DbGllbnQuY2xhc3MpCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">OndyZW5jaDog5L+u5pS56YWN572u5paH5Lu2IHVzZXIK</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLmFsZC5uZXdzLnNlYXJjaC5zZXJ2aWNlLlVzZXJTZXJ2aWNlOwo=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGV4Y2x1ZGVGaWx0ZXJzID0gewogICAgICAgIEBDb21wb25lbnRTY2FuLkZpbHRlcih0eXBlPUZpbHRlclR5cGUuQVNTSUdOQUJMRV9UWVBFLCB2YWx1ZT1Db250ZW50QXBwbGljYXRpb24uY2xhc3MpLAogICAgICAgIEBDb21wb25lbnRTY2FuLkZpbHRlcih0eXBlPUZpbHRlclR5cGUuQU5OT1RBVElPTiwgdmFsdWU9RmVpZ25DbGllbnQuY2xhc3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
