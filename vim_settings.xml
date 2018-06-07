@@ -19,12 +19,13 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChuLaiba/app/src/main/java/bocweb/cn/chulaiba/util/DeviceUtils.java" timestamp="1486347156441">
         <mark key="[" line="8" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1528265086999">
+      <file name="/a.dummy" timestamp="1528372967453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/README.md" timestamp="1488512134327">
         <mark key="[" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.10.RELEASE/b891c5162908b5d092240c24df1b5e972a17768d/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/annotation/Primary.java" timestamp="1528373497330" />
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/resources/config/mappers/tpp/ShangshuReqLogMapper.xml" timestamp="1500023658439">
         <mark key="[" line="237" column="19" />
       </file>
@@ -147,6 +148,9 @@
         <mark key="^" line="27" column="53" />
         <mark key="." line="27" column="53" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/mock/MockClientFilter.java" timestamp="1528373348405">
+        <mark key="[" line="10" column="14" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/BaseDao.java" timestamp="1500282679199">
         <mark key="[" line="26" column="16" />
       </file>
@@ -159,11 +163,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/base/BaseResponse.java" timestamp="1527132163566">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/mock/MockBannersClient.java" timestamp="1528370509006">
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="38" />
-        <mark key="^" line="22" column="38" />
-        <mark key="." line="22" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/mock/MockBannersClient.java" timestamp="1528373390676">
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="23" column="38" />
+        <mark key="^" line="23" column="38" />
+        <mark key="." line="23" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/inside/FileController.java" timestamp="1522313342397">
         <mark key="[" line="39" column="18" />
@@ -313,7 +317,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/ReadHisMapper.java" timestamp="1522317934208">
         <mark key="[" line="13" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528372405983">
+      <file name="/Dummy.txt" timestamp="1528372428833">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -479,6 +483,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UsersReplyController.java" timestamp="1523326393412">
         <mark key="[" line="29" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/annotation/MockClient.java" timestamp="1528373583260">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+        <mark key="^" line="5" column="2" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/client/src/main/java/com/ald/news/manage/ManageInsideController.java" timestamp="1522314751711">
         <mark key="[" line="10" column="36" />
@@ -765,7 +775,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>local</text>
+        <text>class</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -798,7 +808,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
