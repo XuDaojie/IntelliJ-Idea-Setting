@@ -108,7 +108,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/util/ScaleTransform.java" timestamp="1486957942595">
         <mark key="[" line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/RecommendContentController.java" timestamp="1528351407620" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/RecommendContentController.java" timestamp="1528352469474" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pre.properties" timestamp="1523326895498">
         <mark key="[" line="55" column="33" />
       </file>
@@ -264,6 +264,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1527228198863">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/controller/api/CommentController.java" timestamp="1528353041309" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1527752745939">
         <mark key="[" line="4" column="61" />
       </file>
@@ -378,8 +379,10 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-qa.properties" timestamp="1527666253224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1528248006914">
-        <mark key="[" line="19" column="52" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1528353432545">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/Response.java" timestamp="1528342956213">
         <mark key="[" line="269" column="10" />
@@ -591,8 +594,8 @@
       <jump line="94" column="39" filename="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/DevelopmentSettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Autowired</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9tYW5hZ2VzL2Jhbm5lci9zZWxlY3RPbmxpbmVCeU5pZC97bmlkfSIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -633,17 +636,17 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmBgYGFwcGxlIGpz</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9tYW5hZ2VzL2Jhbm5lci9zZWxlY3RPbmxpbmVCeU5pZC97bmlkfSIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CgpgYGA=</text>
+        <text encoding="base64">CmBgYGFwcGxlIGpz</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgpgYGA=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -661,13 +664,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgY29tLmFsZC5uZXdzLnNlYXJjaC5zZXJ2aWNlLlVzZXJTZXJ2aWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGV4Y2x1ZGVGaWx0ZXJzID0gewogICAgICAgIEBDb21wb25lbnRTY2FuLkZpbHRlcih0eXBlPUZpbHRlclR5cGUuQVNTSUdOQUJMRV9UWVBFLCB2YWx1ZT1Db250ZW50QXBwbGljYXRpb24uY2xhc3MpLAogICAgICAgIEBDb21wb25lbnRTY2FuLkZpbHRlcih0eXBlPUZpbHRlclR5cGUuQU5OT1RBVElPTiwgdmFsdWU9RmVpZ25DbGllbnQuY2xhc3MpCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly9pbXBvcnQgY29tLmFsZC5uZXdzLnNlYXJjaC5zZXJ2aWNlLlVzZXJTZXJ2aWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
