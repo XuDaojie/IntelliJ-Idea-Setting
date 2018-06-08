@@ -108,11 +108,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/controller/InnerWalletController.java" timestamp="1528265254116">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/mock/MockClientFilter.java" timestamp="1528377574205">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="30" column="27" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/mock/MockClientFilter.java" timestamp="1528437018066">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="26" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/51fbadmin_master/51fbadmin-dal/src/main/java/com/ald/fanbei/admin/dal/dao/BaseDao.java" timestamp="1500282679199">
         <mark key="[" line="26" column="16" />
@@ -246,7 +246,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/ReadHisMapper.java" timestamp="1522317934208">
         <mark key="[" line="13" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528377757136">
+      <file name="/Dummy.txt" timestamp="1528436706144">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -281,11 +281,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/constant/Constants.java" timestamp="1528377009409">
         <mark key="[" line="9" column="53" />
       </file>
-      <file name="/fragment.java" timestamp="1528377755521">
+      <file name="/fragment.java" timestamp="1528436933287">
         <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserFavoritesServiceImpl.java" timestamp="1528337359197" />
@@ -456,6 +456,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/main_mine_frag.xml" timestamp="1486720081337">
         <mark key="[" line="3" column="41" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/ContentApplication.java" timestamp="1528436731327" />
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/.gitignore" timestamp="1488942167543">
         <mark key="[" line="136" column="5" />
       </file>
@@ -616,8 +617,8 @@
       <jump line="94" column="39" filename="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/DevelopmentSettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBFbnZpcm9ubWVudCBlbnY7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getProperties</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -650,7 +651,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>qa</text>
+        <text>getProperties</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
