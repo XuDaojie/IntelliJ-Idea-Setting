@@ -147,9 +147,13 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/bootstrap-pro.yml" timestamp="1527598149662">
         <mark key="[" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/controller/api/CommentController.java" timestamp="1528447281781" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1527752745939">
         <mark key="[" line="4" column="61" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/bootstrap-local.yml" timestamp="1528449901901">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/values/colors.xml" timestamp="1486968196944">
         <mark key="[" line="4" column="45" />
@@ -246,7 +250,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/ReadHisMapper.java" timestamp="1522317934208">
         <mark key="[" line="13" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528444526746">
+      <file name="/Dummy.txt" timestamp="1528449809297">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -281,7 +285,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/constant/Constants.java" timestamp="1528377009409">
         <mark key="[" line="9" column="53" />
       </file>
-      <file name="/fragment.java" timestamp="1528444524030">
+      <file name="/fragment.java" timestamp="1528449809287">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -616,8 +620,8 @@
       <jump line="94" column="39" filename="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/DevelopmentSettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vY29uZmlnLnRlc3QubWFrZXppeHVuLmNvbTo4ODg4LwogICAgICBwcm9maWxlOiB0ZXN0ICAgICAgICAgICAgICAgICAgICAgICMg5oyH5a6acHJvZmlsZe+8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu25Lit55qEe3Byb2ZpbGV9CiAgICAgIGxhYmVsOiBtYXN0ZXIgICAgICAgICAgICAgICAgICAgICAjIOaMh+WummdpdOS7k+W6k+eahOWIhuaUr++8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu255qEe2xhYmVsfQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -659,10 +663,10 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vY29uZmlnLnRlc3QubWFrZXppeHVuLmNvbTo4ODg4LwogICAgICBwcm9maWxlOiB0ZXN0ICAgICAgICAgICAgICAgICAgICAgICMg5oyH5a6acHJvZmlsZe+8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu25Lit55qEe3Byb2ZpbGV9CiAgICAgIGxhYmVsOiBtYXN0ZXIgICAgICAgICAgICAgICAgICAgICAjIOaMh+WummdpdOS7k+W6k+eahOWIhuaUr++8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu255qEe2xhYmVsfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBFbnZpcm9ubWVudCBlbnY7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
@@ -671,28 +675,28 @@
         <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBFbnZpcm9ubWVudCBlbnY7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBFbnZpcm9ubWVudCBlbnY7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBFbnZpcm9ubWVudCBlbnY7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBleGNsdWRlTmFtZShTdHJpbmcgbmFtZSkgewogICAgICAgIFN0cmluZyBleGNsdWRlTmFtZSA9IE1vY2tCYW5uZXJzQ2xpZW50LmNsYXNzLmdldE5hbWUoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBFbnZpcm9ubWVudCBlbnY7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9jYWwK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBleGNsdWRlTmFtZShTdHJpbmcgbmFtZSkgewogICAgICAgIFN0cmluZyBleGNsdWRlTmFtZSA9IE1vY2tCYW5uZXJzQ2xpZW50LmNsYXNzLmdldE5hbWUoKTsKICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjbG91ZDoKICAgIGNvbmZpZzoKICAgICAgdXJpOiBodHRwOi8vY29uZmlnLnRlc3QubWFrZXppeHVuLmNvbTo4ODg4LwogICAgICBwcm9maWxlOiB0ZXN0ICAgICAgICAgICAgICAgICAgICAgICMg5oyH5a6acHJvZmlsZe+8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu25Lit55qEe3Byb2ZpbGV9CiAgICAgIGxhYmVsOiBtYXN0ZXIgICAgICAgICAgICAgICAgICAgICAjIOaMh+WummdpdOS7k+W6k+eahOWIhuaUr++8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu255qEe2xhYmVsfQo=</text>
+        <text encoding="base64">bG9jYWwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
