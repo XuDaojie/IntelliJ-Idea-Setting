@@ -130,7 +130,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pre.properties" timestamp="1523327639844">
         <mark key="[" line="53" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/generator/api/SwaggerJSON.java" timestamp="1528708966640" />
+      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/generator/api/SwaggerJSON.java" timestamp="1528713181435">
+        <mark key="[" line="81" column="16" />
+        <mark key="]" line="81" column="16" />
+        <mark key="." line="81" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1528340749955">
         <mark key="[" line="374" column="33" />
       </file>
@@ -520,12 +524,12 @@
         <mark key="]" line="19" column="6" />
         <mark key="." line="19" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1528705491442">
+      <file name="/fragment.java" timestamp="1528712825552">
         <mark key="e" line="0" column="0" />
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="17" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserFavoritesServiceImpl.java" timestamp="1528700152659" />
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/controller/api/SearchController.java" timestamp="1528276097826">
@@ -641,7 +645,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>resp</text>
+        <text encoding="base64">TWFwIHRhZ3MgPSBlbnRyeVZhbHVlLmdldE9iamVjdCgicG9zdCIsIE1hcC5jbGFzcyk7CiAgICAgICAgICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIE9iamVjdD4gZW50cnkxIDogc3dhZ2dlclBhdGhzLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -674,7 +678,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>resp</text>
+        <text>requsetTags</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -682,45 +686,45 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZU5hbWU7CiAgICAgICAgc3dpdGNoICh1cmwpIHsKICAgICAgICAgICAgY2FzZSBDT01NRU5UX0FQSV9VUkw6CiAgICAgICAgICAgICAgICBmaWxlTmFtZSA9IENPTU1FTlRfRklMRV9OQU1FOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgQ09NTUVOVF9BUElfVVJMOgogICAgICAgICAgICAgICAgZmlsZU5hbWUgPSBDT01NRU5UX0ZJTEVfTkFNRTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIENPTU1FTlRfQVBJX1VSTDoKICAgICAgICAgICAgICAgIGZpbGVOYW1lID0gQ09NTUVOVF9GSUxFX05BTUU7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBDT01NRU5UX0FQSV9VUkw6CiAgICAgICAgICAgICAgICBmaWxlTmFtZSA9IENPTU1FTlRfRklMRV9OQU1FOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgQ09NTUVOVF9BUElfVVJMOgogICAgICAgICAgICAgICAgZmlsZU5hbWUgPSBDT01NRU5UX0ZJTEVfTkFNRTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">TWFwIHRhZ3MgPSBlbnRyeVZhbHVlLmdldE9iamVjdCgicG9zdCIsIE1hcC5jbGFzcyk7CiAgICAgICAgICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIE9iamVjdD4gZW50cnkxIDogc3dhZ2dlclBhdGhzLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT01NRU5UX0ZJTEVfTkFNRSA9ICJjb21tZW50Lmpzb24iOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIENPTlRFTlRfRklMRV9OQU1FID0gImNvbnRlbnQuanNvbiI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTUFOQUdFX0ZJTEVfTkFNRSA9ICJtYW5hZ2UuanNvbiI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUEFZTUVOVF9GSUxFX05BTUUgPSAicGF5bWVudC5qc29uIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTRUFSQ0hfRklMRV9OQU1FID0gInNlYXJjaC5qc29uIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVU0VSX0ZJTEVfTkFNRSA9ICJ1c2VyLmpzb24iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVU0VSX0FQSV9VUkwgPSAiIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT01NRU5UX0ZJTEVfTkFNRSA9ICJjb21tZW50Lmpzb24iOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIENPTlRFTlRfRklMRV9OQU1FID0gImNvbnRlbnQuanNvbiI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTUFOQUdFX0ZJTEVfTkFNRSA9ICJtYW5hZ2UuanNvbiI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUEFZTUVOVF9GSUxFX05BTUUgPSAicGF5bWVudC5qc29uIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTRUFSQ0hfRklMRV9OQU1FID0gInNlYXJjaC5qc29uIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVU0VSX0ZJTEVfTkFNRSA9ICJ1c2VyLmpzb24iOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGZvciAoaW50IGogPSAwOyBqIDwgOyBqKyspIHsKCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGQubmV3cy5zZWFyY2guY2xpZW50LkJhbm5lcnNDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZU5hbWU7CiAgICAgICAgc3dpdGNoICh1cmwpIHsKICAgICAgICAgICAgY2FzZSBDT01NRU5UX0FQSV9VUkw6CiAgICAgICAgICAgICAgICBmaWxlTmFtZSA9IENPTU1FTlRfRklMRV9OQU1FOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgQ09NTUVOVF9BUElfVVJMOgogICAgICAgICAgICAgICAgZmlsZU5hbWUgPSBDT01NRU5UX0ZJTEVfTkFNRTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIENPTU1FTlRfQVBJX1VSTDoKICAgICAgICAgICAgICAgIGZpbGVOYW1lID0gQ09NTUVOVF9GSUxFX05BTUU7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBDT01NRU5UX0FQSV9VUkw6CiAgICAgICAgICAgICAgICBmaWxlTmFtZSA9IENPTU1FTlRfRklMRV9OQU1FOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgQ09NTUVOVF9BUElfVVJMOgogICAgICAgICAgICAgICAgZmlsZU5hbWUgPSBDT01NRU5UX0ZJTEVfTkFNRTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGQubmV3cy5jb250ZW50LmNsaWVudC5CYW5uZXJzQ2xpZW50Owo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT01NRU5UX0ZJTEVfTkFNRSA9ICJjb21tZW50Lmpzb24iOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIENPTlRFTlRfRklMRV9OQU1FID0gImNvbnRlbnQuanNvbiI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTUFOQUdFX0ZJTEVfTkFNRSA9ICJtYW5hZ2UuanNvbiI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUEFZTUVOVF9GSUxFX05BTUUgPSAicGF5bWVudC5qc29uIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTRUFSQ0hfRklMRV9OQU1FID0gInNlYXJjaC5qc29uIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVU0VSX0ZJTEVfTkFNRSA9ICJ1c2VyLmpzb24iOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>BaseResponse response = new BaseResponse();
-        response.setCode(400);
-        response.setMsg(&quot;Mock Server&quot;);
-        return response;
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVU0VSX0FQSV9VUkwgPSAiIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT01NRU5UX0ZJTEVfTkFNRSA9ICJjb21tZW50Lmpzb24iOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIENPTlRFTlRfRklMRV9OQU1FID0gImNvbnRlbnQuanNvbiI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTUFOQUdFX0ZJTEVfTkFNRSA9ICJtYW5hZ2UuanNvbiI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUEFZTUVOVF9GSUxFX05BTUUgPSAicGF5bWVudC5qc29uIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTRUFSQ0hfRklMRV9OQU1FID0gInNlYXJjaC5qc29uIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVU0VSX0ZJTEVfTkFNRSA9ICJ1c2VyLmpzb24iOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vY29uZmlnLnRlc3QubWFrZXppeHVuLmNvbTo4ODg4LwogICAgICBwcm9maWxlOiB0ZXN0ICAgICAgICAgICAgICAgICAgICAgICMg5oyH5a6acHJvZmlsZe+8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu25Lit55qEe3Byb2ZpbGV9CiAgICAgIGxhYmVsOiBtYXN0ZXIgICAgICAgICAgICAgICAgICAgICAjIOaMh+WummdpdOS7k+W6k+eahOWIhuaUr++8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu255qEe2xhYmVsfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGQubmV3cy5zZWFyY2guY2xpZW50LkJhbm5lcnNDbGllbnQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGQubmV3cy5jb250ZW50LmNsaWVudC5CYW5uZXJzQ2xpZW50Owo=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBFbnZpcm9ubWVudCBlbnY7Cg==</text>
+      <register name="9" type="4">
+        <text>BaseResponse response = new BaseResponse();
+        response.setCode(400);
+        response.setMsg(&quot;Mock Server&quot;);
+        return response;
+    }</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
