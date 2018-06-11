@@ -75,11 +75,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pre.properties" timestamp="1523327639844">
         <mark key="[" line="53" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/generator/api/SwaggerJSON.java" timestamp="1528724614600">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="8" />
-        <mark key="." line="35" column="8" />
-        <mark key="^" line="145" column="49" />
+      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/generator/api/SwaggerJSON.java" timestamp="1528729674478">
+        <mark key="[" line="174" column="36" />
+        <mark key="]" line="174" column="36" />
+        <mark key="." line="174" column="36" />
+        <mark key="^" line="147" column="49" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/resources/shiro.ini" timestamp="1523254948766">
         <mark key="[" line="0" column="32" />
@@ -123,10 +123,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/test/java/com/ald/news/content/client/mock/MockBannersClient.java" timestamp="1528376297048">
         <mark key="[" line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/out/swagger/json/yapi-import.json" timestamp="1528727559854">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/news/out/swagger/json/yapi-import.json" timestamp="1528728986262">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/generator/api/Swagger.java" timestamp="1528703586778">
         <mark key="[" line="2" column="20" />
@@ -319,6 +319,7 @@
         <mark key="[" line="1" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/NewsOrderServiceImpl.java" timestamp="1528688063973" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/src.zip!/java/lang/UNIXProcess.java" timestamp="1528729507081" />
       <file name="$USER_HOME$/IdeaProjects/fkCloud/common-discovery/src/main/resources/application-test.yml" timestamp="1510890514367">
         <mark key="[" line="0" column="2" />
       </file>
@@ -599,7 +600,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>exitValue</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -632,7 +633,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>exitValue</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
