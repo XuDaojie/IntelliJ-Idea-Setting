@@ -145,7 +145,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1528723854789">
         <mark key="[" line="374" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/MessageExceptionQuartz.java" timestamp="1528827271355" />
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/MessageExceptionQuartz.java" timestamp="1528829525484" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1528775833635" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/resources/shiro.ini" timestamp="1523254948766">
         <mark key="[" line="0" column="32" />
@@ -162,8 +162,10 @@
       <file name="$USER_HOME$/IdeaProjects/fkCloud/arc_collection_new/debt-web/src/main/resources/logback-spring.xml" timestamp="1510902961166">
         <mark key="[" line="155" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/service/impl/TransferServiceImpl.java" timestamp="1528822381635">
-        <mark key="[" line="82" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/service/impl/TransferServiceImpl.java" timestamp="1528830151860">
+        <mark key="[" line="89" column="4" />
+        <mark key="]" line="89" column="5" />
+        <mark key="." line="89" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/DeveloperTools/app/src/main/res/xml/pref_test.xml" timestamp="1488717787928">
         <mark key="[" line="4" column="26" />
@@ -311,6 +313,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1527228198863">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/resources/bootstrap-dev.yml" timestamp="1528829286615">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/application-local.properties" timestamp="1528701419019">
         <mark key="[" line="4" column="61" />
       </file>
@@ -341,6 +348,7 @@
       <file name="$USER_HOME$/IdeaProjects/fkCloud/arc_collection_new/build.gradle" timestamp="1513327703956">
         <mark key="[" line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/time/TaskHot.java" timestamp="1528830050445" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/resources/shiro-jdbc-realm.ini" timestamp="1523266929155">
         <mark key="[" line="4" column="48" />
       </file>
@@ -452,7 +460,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/ReadHisMapper.java" timestamp="1522317934208">
         <mark key="[" line="13" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528827240278">
+      <file name="/Dummy.txt" timestamp="1528830684029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -520,7 +528,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/constant/Constants.java" timestamp="1528377009409">
         <mark key="[" line="9" column="53" />
       </file>
-      <file name="/fragment.java" timestamp="1528827319533">
+      <file name="/fragment.java" timestamp="1528829661406">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -635,7 +643,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>Resource</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -668,7 +676,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>Resource</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
