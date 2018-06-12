@@ -145,6 +145,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1528723854789">
         <mark key="[" line="374" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/MessageExceptionQuartz.java" timestamp="1528825999336" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1528775833635" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/resources/shiro.ini" timestamp="1523254948766">
         <mark key="[" line="0" column="32" />
@@ -184,6 +185,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/controller/InnerWalletController.java" timestamp="1528265254116">
         <mark key="[" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/resources/bootstrap-pro.properties" timestamp="1528826361963">
+        <mark key="[" line="35" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/arc/framework-manage/src/main/react/modules/frame/stores/TabListStore.js" timestamp="1500445287390">
         <mark key="[" line="304" column="9" />
@@ -447,6 +451,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/ReadHisMapper.java" timestamp="1522317934208">
         <mark key="[" line="13" column="62" />
       </file>
+      <file name="/Dummy.txt" timestamp="1528826865900">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/res/layout/loading_dialog.xml" timestamp="1486950618858">
         <mark key="[" line="14" column="53" />
       </file>
@@ -510,7 +519,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/constant/Constants.java" timestamp="1528377009409">
         <mark key="[" line="9" column="53" />
       </file>
-      <file name="/fragment.java" timestamp="1528724437056">
+      <file name="/fragment.java" timestamp="1528826863433">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -625,7 +634,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`news_user_test`.</text>
+        <text>test</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -658,7 +667,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`news_user_test`.</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -666,7 +675,10 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Om1lbW86IOe8luWGmeaWh+ahoyDkv67mlLlzcWzmlofku7YK</text>
+      </register>
+      <register name="2" type="4">
         <text>//        Process proc = null;
 //        try {
 //            proc = Runtime.getRuntime().exec(&quot;bash&quot;);
@@ -707,24 +719,27 @@
             e.printStackTrace();
         }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHB1YmxpYyB2b2lkIGV4ZWN1dGVDb21tYW5kcygpIHRocm93cyBJT0V4Y2VwdGlvbiB7CgogICAgICAgIEZpbGUgdGVtcFNjcmlwdCA9IGNyZWF0ZVRlbXBTY3JpcHQoKTsKCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgUHJvY2Vzc0J1aWxkZXIgcGIgPSBuZXcgUHJvY2Vzc0J1aWxkZXIoImJhc2giLCB0ZW1wU2NyaXB0LnRvU3RyaW5nKCkpOwogICAgICAgICAgICBwYi5pbmhlcml0SU8oKTsKICAgICAgICAgICAgUHJvY2VzcyBwcm9jZXNzID0gcGIuc3RhcnQoKTsKICAgICAgICAgICAgcHJvY2Vzcy53YWl0Rm9yKCk7CiAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIHRlbXBTY3JpcHQuZGVsZXRlKCk7CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBGaWxlIGNyZWF0ZVRlbXBTY3JpcHQoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIEZpbGUgdGVtcFNjcmlwdCA9IEZpbGUuY3JlYXRlVGVtcEZpbGUoInNjcmlwdCIsIG51bGwpOwoKICAgICAgICBXcml0ZXIgc3RyZWFtV3JpdGVyID0gbmV3IE91dHB1dFN0cmVhbVdyaXRlcihuZXcgRmlsZU91dHB1dFN0cmVhbSgKICAgICAgICAgICAgICAgIHRlbXBTY3JpcHQpKTsKICAgICAgICBQcmludFdyaXRlciBwcmludFdyaXRlciA9IG5ldyBQcmludFdyaXRlcihzdHJlYW1Xcml0ZXIpOwoKICAgICAgICBwcmludFdyaXRlci5wcmludGxuKCIjIS9iaW4vYmFzaCIpOwogICAgICAgIHByaW50V3JpdGVyLnByaW50bG4oInlhcGkgaW1wb3J0Iik7Ci8vICAgICAgICBwcmludFdyaXRlci5wcmludGxuKCJjZCBiaW4iKTsKLy8gICAgICAgIHByaW50V3JpdGVyLnByaW50bG4oImxzIik7CgogICAgICAgIHByaW50V3JpdGVyLmNsb3NlKCk7CgogICAgICAgIHJldHVybiB0ZW1wU2NyaXB0OwogICAgfQ==</text>
-      </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIFByb2Nlc3NCdWlsZGVyIHBiID0gbmV3IFByb2Nlc3NCdWlsZGVyKCJiYXNoIiwgdGVtcFNjcmlwdC50b1N0cmluZygpKTsKICAgICAgICAgICAgcGIuaW5oZXJpdElPKCk7CiAgICAgICAgICAgIFByb2Nlc3MgcHJvY2VzcyA9IHBiLnN0YXJ0KCk7CiAgICAgICAgICAgIHByb2Nlc3Mud2FpdEZvcigpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIHRlbXBTY3JpcHQuZGVsZXRlKCk7CiAgICAgICAgfQ==</text>
+        <text encoding="base64">IHB1YmxpYyB2b2lkIGV4ZWN1dGVDb21tYW5kcygpIHRocm93cyBJT0V4Y2VwdGlvbiB7CgogICAgICAgIEZpbGUgdGVtcFNjcmlwdCA9IGNyZWF0ZVRlbXBTY3JpcHQoKTsKCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgUHJvY2Vzc0J1aWxkZXIgcGIgPSBuZXcgUHJvY2Vzc0J1aWxkZXIoImJhc2giLCB0ZW1wU2NyaXB0LnRvU3RyaW5nKCkpOwogICAgICAgICAgICBwYi5pbmhlcml0SU8oKTsKICAgICAgICAgICAgUHJvY2VzcyBwcm9jZXNzID0gcGIuc3RhcnQoKTsKICAgICAgICAgICAgcHJvY2Vzcy53YWl0Rm9yKCk7CiAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIHRlbXBTY3JpcHQuZGVsZXRlKCk7CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBGaWxlIGNyZWF0ZVRlbXBTY3JpcHQoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIEZpbGUgdGVtcFNjcmlwdCA9IEZpbGUuY3JlYXRlVGVtcEZpbGUoInNjcmlwdCIsIG51bGwpOwoKICAgICAgICBXcml0ZXIgc3RyZWFtV3JpdGVyID0gbmV3IE91dHB1dFN0cmVhbVdyaXRlcihuZXcgRmlsZU91dHB1dFN0cmVhbSgKICAgICAgICAgICAgICAgIHRlbXBTY3JpcHQpKTsKICAgICAgICBQcmludFdyaXRlciBwcmludFdyaXRlciA9IG5ldyBQcmludFdyaXRlcihzdHJlYW1Xcml0ZXIpOwoKICAgICAgICBwcmludFdyaXRlci5wcmludGxuKCIjIS9iaW4vYmFzaCIpOwogICAgICAgIHByaW50V3JpdGVyLnByaW50bG4oInlhcGkgaW1wb3J0Iik7Ci8vICAgICAgICBwcmludFdyaXRlci5wcmludGxuKCJjZCBiaW4iKTsKLy8gICAgICAgIHByaW50V3JpdGVyLnByaW50bG4oImxzIik7CgogICAgICAgIHByaW50V3JpdGVyLmNsb3NlKCk7CgogICAgICAgIHJldHVybiB0ZW1wU2NyaXB0OwogICAgfQ==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIFByb2Nlc3NCdWlsZGVyIHBiID0gbmV3IFByb2Nlc3NCdWlsZGVyKCJiYXNoIiwgdGVtcFNjcmlwdC50b1N0cmluZygpKTsKICAgICAgICAgICAgcGIuaW5oZXJpdElPKCk7CiAgICAgICAgICAgIFByb2Nlc3MgcHJvY2VzcyA9IHBiLnN0YXJ0KCk7CiAgICAgICAgICAgIHByb2Nlc3Mud2FpdEZvcigpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIHRlbXBTY3JpcHQuZGVsZXRlKCk7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
         <text>,
                     &quot;yapi import&quot;,
                     &quot;ping www.baidu.com&quot;}</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>switch (moduleName) {
             case MODULE_COMMENT:
                 url = COMMENT_API_URL;
@@ -748,20 +763,14 @@
                 break;
         }</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZGV2Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">b3IgKGludCBqID0gMDsgaiA8IHJlcXVlc3RUYWdzLnNpemUoKTsgaisrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyByZXF1ZXN0VGFnID0gcmVxdWVzdFRhZ3MuZ2V0U3RyaW5nKGopOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAoU3RyaW5nVXRpbHMuZXF1YWxzKHJlcXVlc3RUYWcsIG5hbWUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1ZXN0VGFncy4KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCByZXF1ZXN0VGFncy5zaXplKCk7IGkrKykgewoKICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">b3IgKGludCBqID0gMDsgaiA8IHJlcXVlc3RUYWdzLnNpemUoKTsgaisrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyByZXF1ZXN0VGFnID0gcmVxdWVzdFRhZ3MuZ2V0U3RyaW5nKGopOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAoU3RyaW5nVXRpbHMuZXF1YWxzKHJlcXVlc3RUYWcsIG5hbWUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1ZXN0VGFncy4KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
