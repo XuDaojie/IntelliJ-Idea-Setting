@@ -76,7 +76,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/UserCheckClientService.java" timestamp="1522314386601">
         <mark key="[" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/NewsOrderServiceImpl.java" timestamp="1528903381494" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/NewsOrderServiceImpl.java" timestamp="1528903448035" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/mq/src/main/java/io/github/xudaojie/activemq/kafka/Producer.java" timestamp="1527753228800">
         <mark key="[" line="22" column="33" />
       </file>
@@ -129,6 +129,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1528723854789">
         <mark key="[" line="374" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/MessageExceptionQuartz.java" timestamp="1528904565063">
+        <mark key="[" line="179" column="81" />
+        <mark key="]" line="174" column="78" />
+        <mark key="." line="174" column="78" />
+        <mark key="^" line="174" column="78" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1528891137798" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/resources/shiro.ini" timestamp="1523254948766">
@@ -609,7 +615,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Resource</text>
+        <text>xx</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -642,7 +648,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Resource</text>
+        <text>xx</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
