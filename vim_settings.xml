@@ -130,7 +130,12 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1528723854789">
         <mark key="[" line="374" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/MessageExceptionQuartz.java" timestamp="1528904745919" />
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/MessageExceptionQuartz.java" timestamp="1528908378819">
+        <mark key="[" line="159" column="30" />
+        <mark key="]" line="159" column="28" />
+        <mark key="^" line="159" column="28" />
+        <mark key="." line="159" column="28" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1528891137798" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/resources/shiro.ini" timestamp="1523254948766">
         <mark key="[" line="0" column="32" />
@@ -252,6 +257,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserVersionController.java" timestamp="1527220880477">
         <mark key="[" line="35" column="62" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/controller/InnerPaymentController.java" timestamp="1528908820776">
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UsersReplyController.java" timestamp="1523326393412">
         <mark key="[" line="29" column="23" />
@@ -426,7 +436,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/ReadHisMapper.java" timestamp="1522317934208">
         <mark key="[" line="13" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528899626538">
+      <file name="/Dummy.txt" timestamp="1528908575660">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -610,8 +620,8 @@
       <jump line="94" column="39" filename="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/DevelopmentSettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>xx</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -653,9 +663,39 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Om1lbW86IOe8luWGmeaWh+ahoyDkv67mlLlzcWzmlofku7YK</text>
       </register>
-      <register name="2" type="4">
+      <register name="x" type="4">
+        <text>shelfNo</text>
+      </register>
+      <register name="9" type="4">
         <text>//        Process proc = null;
 //        try {
 //            proc = Runtime.getRuntime().exec(&quot;bash&quot;);
@@ -695,59 +735,6 @@
         } catch (IOException e) {
             e.printStackTrace();
         }</text>
-      </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHB1YmxpYyB2b2lkIGV4ZWN1dGVDb21tYW5kcygpIHRocm93cyBJT0V4Y2VwdGlvbiB7CgogICAgICAgIEZpbGUgdGVtcFNjcmlwdCA9IGNyZWF0ZVRlbXBTY3JpcHQoKTsKCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgUHJvY2Vzc0J1aWxkZXIgcGIgPSBuZXcgUHJvY2Vzc0J1aWxkZXIoImJhc2giLCB0ZW1wU2NyaXB0LnRvU3RyaW5nKCkpOwogICAgICAgICAgICBwYi5pbmhlcml0SU8oKTsKICAgICAgICAgICAgUHJvY2VzcyBwcm9jZXNzID0gcGIuc3RhcnQoKTsKICAgICAgICAgICAgcHJvY2Vzcy53YWl0Rm9yKCk7CiAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIHRlbXBTY3JpcHQuZGVsZXRlKCk7CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBGaWxlIGNyZWF0ZVRlbXBTY3JpcHQoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIEZpbGUgdGVtcFNjcmlwdCA9IEZpbGUuY3JlYXRlVGVtcEZpbGUoInNjcmlwdCIsIG51bGwpOwoKICAgICAgICBXcml0ZXIgc3RyZWFtV3JpdGVyID0gbmV3IE91dHB1dFN0cmVhbVdyaXRlcihuZXcgRmlsZU91dHB1dFN0cmVhbSgKICAgICAgICAgICAgICAgIHRlbXBTY3JpcHQpKTsKICAgICAgICBQcmludFdyaXRlciBwcmludFdyaXRlciA9IG5ldyBQcmludFdyaXRlcihzdHJlYW1Xcml0ZXIpOwoKICAgICAgICBwcmludFdyaXRlci5wcmludGxuKCIjIS9iaW4vYmFzaCIpOwogICAgICAgIHByaW50V3JpdGVyLnByaW50bG4oInlhcGkgaW1wb3J0Iik7Ci8vICAgICAgICBwcmludFdyaXRlci5wcmludGxuKCJjZCBiaW4iKTsKLy8gICAgICAgIHByaW50V3JpdGVyLnByaW50bG4oImxzIik7CgogICAgICAgIHByaW50V3JpdGVyLmNsb3NlKCk7CgogICAgICAgIHJldHVybiB0ZW1wU2NyaXB0OwogICAgfQ==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIFByb2Nlc3NCdWlsZGVyIHBiID0gbmV3IFByb2Nlc3NCdWlsZGVyKCJiYXNoIiwgdGVtcFNjcmlwdC50b1N0cmluZygpKTsKICAgICAgICAgICAgcGIuaW5oZXJpdElPKCk7CiAgICAgICAgICAgIFByb2Nlc3MgcHJvY2VzcyA9IHBiLnN0YXJ0KCk7CiAgICAgICAgICAgIHByb2Nlc3Mud2FpdEZvcigpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIHRlbXBTY3JpcHQuZGVsZXRlKCk7CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="5" type="4">
-        <text>,
-                    &quot;yapi import&quot;,
-                    &quot;ping www.baidu.com&quot;}</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
-        <text>switch (moduleName) {
-            case MODULE_COMMENT:
-                url = COMMENT_API_URL;
-                break;
-            case MODULE_CONTENT:
-                url = CONTENT_API_URL;
-                break;
-            case MODULE_MANAGE:
-                url = MANAGE_API_URL;
-                break;
-            case MODULE_PAYMENT:
-                url = PAYMENT_API_URL;
-                break;
-            case MODULE_SEARCH:
-                url = SEARCH_API_URL;
-                break;
-            case MODULE_USER:
-                url = USER_API_URL;
-                break;
-            default:
-                break;
-        }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGV2Cg==</text>
-      </register>
-      <register name="x" type="4">
-        <text>shelfNo</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">b3IgKGludCBqID0gMDsgaiA8IHJlcXVlc3RUYWdzLnNpemUoKTsgaisrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyByZXF1ZXN0VGFnID0gcmVxdWVzdFRhZ3MuZ2V0U3RyaW5nKGopOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAoU3RyaW5nVXRpbHMuZXF1YWxzKHJlcXVlc3RUYWcsIG5hbWUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1ZXN0VGFncy4KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
