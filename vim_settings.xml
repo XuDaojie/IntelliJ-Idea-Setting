@@ -7,7 +7,9 @@
       <mark key="M" line="66" column="9" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/shiro-example/shiro-example-chapter3/src/test/java/com/github/zhangkaitao/shiro/chapter3/permission/BitAndWildPermissionResolver.java" timestamp="1529051851532" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/PreRequestFilter.java" timestamp="1529064024458">
+        <mark key="[" line="75" column="55" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/RecommendContentController.java" timestamp="1528984736130">
         <mark key="[" line="48" column="43" />
         <mark key="]" line="48" column="43" />
@@ -38,13 +40,19 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1529044431051" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1529044431051" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1529044431051" />
-      <file name="/Dummy.txt" timestamp="1529042452750">
+      <file name="/Dummy.txt" timestamp="1529067197388">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/resources/myexample/shiro.ini" timestamp="1529054924168">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1529067096239">
+        <mark key="[" line="279" column="47" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
+        <mark key="^" line="237" column="49" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1528980684248">
         <mark key="[" line="4" column="61" />
@@ -65,13 +73,13 @@
         <mark key="]" line="14" column="113" />
         <mark key="." line="14" column="113" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/boot/example2/realm/MyRealm2.java" timestamp="1529054621898" />
-      <file name="$USER_HOME$/IdeaProjects/shiro-example/shiro-example-chapter3/src/test/resources/shiro-authorizer.ini" timestamp="1529050870628" />
-      <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/boot/example2/realm/MyRealm1.java" timestamp="1529047093857" />
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/RecommendContentService.java" timestamp="1528983125615">
         <mark key="[" line="21" column="49" />
         <mark key="]" line="21" column="49" />
         <mark key="." line="21" column="49" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/DailyTaskController.java" timestamp="1529064963593">
+        <mark key="[" line="105" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/RecommendContentServiceImpl.java" timestamp="1528984386074">
         <mark key="[" line="44" column="0" />
@@ -84,11 +92,11 @@
         <mark key="]" line="4" column="56" />
         <mark key="." line="4" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1528981426996">
+      <file name="/fragment.java" timestamp="1529067197349">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="13" />
       </file>
     </filemarks>
@@ -195,8 +203,8 @@
       <jump line="10" column="69" filename="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/boot/myexample/PermissionTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AuthenticationToken</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -229,7 +237,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AuthenticationToken</text>
+        <text>PUT</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -238,31 +246,39 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmV3c0lkQXJyYXkubGVuZ3RoIDw9IDEpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmJhZCgpLm1lc3NhZ2UoIua2iOaBryIpLmJ1aWxkKCk7CiAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>for (String url : PERM_API_LIST) {
+            String queryString = getQueryString(request);
+        }</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>if (requestChain.matches(urlReg)) {
+                // 但是列表需要权限
+                setGoBack(ctx, 403, JSON.toJSONString(BaseResponse.noPermission()));
+                return null;
+            }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKFN0cmluZ1V0aWwuaXNCbGFuayhmaXJzdE5ld3NJZCkgfHwgIiIuZXF1YWxzKGZpcnN0TmV3c0lkKSkgJiYgKFN0cmluZ1V0aWwuaXNCbGFuayhzZWNvbmROZXdzSWQpIHx8ICIiLmVxdWFscyhzZWNvbmROZXdzSWQpKQogICAgICAgICAgICAgICAgJiYgKFN0cmluZ1V0aWwuaXNCbGFuayh0aGlyZE5ld3NJZCkgfHwgIiIuZXF1YWxzKHRoaXJkTmV3c0lkKSkpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmJhZCgpLm1lc3NhZ2UoIuaWsOmXu0lk5LiN6IO95Li656m677yM5b+F6aG76K6+572u6Iez5bCR5LiA56+H5paw6Ze7IikuYnVpbGQoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBpZiAoIShTdHJpbmdVdGlsLmlzQmxhbmsoZmlyc3ROZXdzSWQpIHx8ICIiLmVxdWFscyhmaXJzdE5ld3NJZCkpKSB7CiAgICAgICAgICAgICAgICBSZWNvbW1lbmRDb250ZW50RG8gcmVjb21tZW5kQ29udGVudERvID0gbmV3IFJlY29tbWVuZENvbnRlbnREbygpOwogICAgICAgICAgICAgICAgcmVjb21tZW5kQ29udGVudERvLnNldE5ld3NJZChmaXJzdE5ld3NJZCk7CiAgICAgICAgICAgICAgICByZWNvbW1lbmRDb250ZW50RG8uc2V0UHVibGlzaERhdGUoZ2V0VG9tbW93KCkpOwogICAgICAgICAgICAgICAgcmVjb21tZW5kQ29udGVudERvcy5hZGQocmVjb21tZW5kQ29udGVudERvKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKCEoU3RyaW5nVXRpbC5pc0JsYW5rKHNlY29uZE5ld3NJZCkgfHwgIiIuZXF1YWxzKHNlY29uZE5ld3NJZCkpKSB7CiAgICAgICAgICAgICAgICBSZWNvbW1lbmRDb250ZW50RG8gcmVjb21tZW5kQ29udGVudERvID0gbmV3IFJlY29tbWVuZENvbnRlbnREbygpOwogICAgICAgICAgICAgICAgcmVjb21tZW5kQ29udGVudERvLnNldE5ld3NJZChzZWNvbmROZXdzSWQpOwogICAgICAgICAgICAgICAgcmVjb21tZW5kQ29udGVudERvLnNldFB1Ymxpc2hEYXRlKGdldFRvbW1vdygpKTsKICAgICAgICAgICAgICAgIHJlY29tbWVuZENvbnRlbnREb3MuYWRkKHJlY29tbWVuZENvbnRlbnREbyk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmICghKFN0cmluZ1V0aWwuaXNCbGFuayh0aGlyZE5ld3NJZCkgfHwgIiIuZXF1YWxzKHRoaXJkTmV3c0lkKSkpIHsKICAgICAgICAgICAgICAgIFJlY29tbWVuZENvbnRlbnREbyByZWNvbW1lbmRDb250ZW50RG8gPSBuZXcgUmVjb21tZW5kQ29udGVudERvKCk7CiAgICAgICAgICAgICAgICByZWNvbW1lbmRDb250ZW50RG8uc2V0TmV3c0lkKHRoaXJkTmV3c0lkKTsKICAgICAgICAgICAgICAgIHJlY29tbWVuZENvbnRlbnREby5zZXRQdWJsaXNoRGF0ZShnZXRUb21tb3coKSk7CiAgICAgICAgICAgICAgICByZWNvbW1lbmRDb250ZW50RG9zLmFkZChyZWNvbW1lbmRDb250ZW50RG8pOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKChTdHJpbmdVdGlsLmlzQmxhbmsoZmlyc3ROZXdzSWQpIHx8ICIiLmVxdWFscyhmaXJzdE5ld3NJZCkpICYmIChTdHJpbmdVdGlsLmlzQmxhbmsoc2Vjb25kTmV3c0lkKSB8fCAiIi5lcXVhbHMoc2Vjb25kTmV3c0lkKSkKICAgICAgICAgICAgICAgICYmIChTdHJpbmdVdGlsLmlzQmxhbmsodGhpcmROZXdzSWQpIHx8ICIiLmVxdWFscyh0aGlyZE5ld3NJZCkpKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5iYWQoKS5tZXNzYWdlKCLmlrDpl7tJZOS4jeiDveS4uuepuu+8jOW/hemhu+iuvue9ruiHs+WwkeS4gOevh+aWsOmXuyIpLmJ1aWxkKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgaWYgKCEoU3RyaW5nVXRpbC5pc0JsYW5rKGZpcnN0TmV3c0lkKSB8fCAiIi5lcXVhbHMoZmlyc3ROZXdzSWQpKSkgewogICAgICAgICAgICAgICAgUmVjb21tZW5kQ29udGVudERvIHJlY29tbWVuZENvbnRlbnREbyA9IG5ldyBSZWNvbW1lbmRDb250ZW50RG8oKTsKICAgICAgICAgICAgICAgIHJlY29tbWVuZENvbnRlbnREby5zZXROZXdzSWQoZmlyc3ROZXdzSWQpOwogICAgICAgICAgICAgICAgcmVjb21tZW5kQ29udGVudERvLnNldFB1Ymxpc2hEYXRlKGdldFRvbW1vdygpKTsKICAgICAgICAgICAgICAgIHJlY29tbWVuZENvbnRlbnREb3MuYWRkKHJlY29tbWVuZENvbnRlbnREbyk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmICghKFN0cmluZ1V0aWwuaXNCbGFuayhzZWNvbmROZXdzSWQpIHx8ICIiLmVxdWFscyhzZWNvbmROZXdzSWQpKSkgewogICAgICAgICAgICAgICAgUmVjb21tZW5kQ29udGVudERvIHJlY29tbWVuZENvbnRlbnREbyA9IG5ldyBSZWNvbW1lbmRDb250ZW50RG8oKTsKICAgICAgICAgICAgICAgIHJlY29tbWVuZENvbnRlbnREby5zZXROZXdzSWQoc2Vjb25kTmV3c0lkKTsKICAgICAgICAgICAgICAgIHJlY29tbWVuZENvbnRlbnREby5zZXRQdWJsaXNoRGF0ZShnZXRUb21tb3coKSk7CiAgICAgICAgICAgICAgICByZWNvbW1lbmRDb250ZW50RG9zLmFkZChyZWNvbW1lbmRDb250ZW50RG8pOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAoIShTdHJpbmdVdGlsLmlzQmxhbmsodGhpcmROZXdzSWQpIHx8ICIiLmVxdWFscyh0aGlyZE5ld3NJZCkpKSB7CiAgICAgICAgICAgICAgICBSZWNvbW1lbmRDb250ZW50RG8gcmVjb21tZW5kQ29udGVudERvID0gbmV3IFJlY29tbWVuZENvbnRlbnREbygpOwogICAgICAgICAgICAgICAgcmVjb21tZW5kQ29udGVudERvLnNldE5ld3NJZCh0aGlyZE5ld3NJZCk7CiAgICAgICAgICAgICAgICByZWNvbW1lbmRDb250ZW50RG8uc2V0UHVibGlzaERhdGUoZ2V0VG9tbW93KCkpOwogICAgICAgICAgICAgICAgcmVjb21tZW5kQ29udGVudERvcy5hZGQocmVjb21tZW5kQ29udGVudERvKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG5ld3NJZEFycmF5Lmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+      <register name="6" type="4">
+        <text>if () {
+                    
+                }</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vY29uZmlnLnRlc3QubWFrZXppeHVuLmNvbTo4ODg4LwogICAgICBwcm9maWxlOiB0ZXN0ICAgICAgICAgICAgICAgICAgICAgICMg5oyH5a6acHJvZmlsZe+8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu25Lit55qEe3Byb2ZpbGV9CiAgICAgIGxhYmVsOiBtYXN0ZXIgICAgICAgICAgICAgICAgICAgICAjIOaMh+WummdpdOS7k+W6k+eahOWIhuaUr++8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu255qEe2xhYmVsfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -271,7 +287,7 @@
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmV3c0lkQXJyYXkubGVuZ3RoIDw9IDEpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmJhZCgpLm1lc3NhZ2UoIua2iOaBryIpLmJ1aWxkKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
