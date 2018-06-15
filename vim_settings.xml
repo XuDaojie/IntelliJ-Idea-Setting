@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" protocol="file" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" protocol="file" />
@@ -41,7 +41,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1529044431051" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1529044431051" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1529044431051" />
-      <file name="/Dummy.txt" timestamp="1529074750972">
+      <file name="/Dummy.txt" timestamp="1529076118360">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/resources/myexample/shiro.ini" timestamp="1529054924168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1529074664846">
-        <mark key="[" line="333" column="48" />
-        <mark key="]" line="333" column="0" />
-        <mark key="." line="333" column="0" />
-        <mark key="^" line="333" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1529077257474">
+        <mark key="[" line="221" column="26" />
+        <mark key="]" line="75" column="17" />
+        <mark key="." line="75" column="17" />
+        <mark key="^" line="75" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1528980684248">
         <mark key="[" line="4" column="61" />
@@ -94,12 +94,12 @@
         <mark key="]" line="4" column="56" />
         <mark key="." line="4" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1529074587069">
+      <file name="/fragment.java" timestamp="1529077568622">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="13" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -206,7 +206,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>requestChain</text>
+        <text encoding="base64">IHx8IHJlcXVlc3RDaGFpbi5tYXRjaGVzKHVybFJlZyArICIvLyoiKQ==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -239,7 +239,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>requestChain</text>
+        <text encoding="base64">IHx8IHJlcXVlc3RDaGFpbi5tYXRjaGVzKHVybFJlZyArICIvLyoiKQ==</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
