@@ -24,6 +24,7 @@
         <mark key="^" line="159" column="28" />
         <mark key="." line="159" column="28" />
       </file>
+      <file name="/NewsUserClient.java" timestamp="1529070483617" />
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/ContentManageServiceImpl.java" timestamp="1528982581651">
         <mark key="[" line="65" column="43" />
         <mark key="]" line="68" column="28" />
@@ -40,7 +41,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1529044431051" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1529044431051" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1529044431051" />
-      <file name="/Dummy.txt" timestamp="1529067197388">
+      <file name="/Dummy.txt" timestamp="1529074750972">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -48,11 +49,11 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/resources/myexample/shiro.ini" timestamp="1529054924168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1529067096239">
-        <mark key="[" line="279" column="47" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
-        <mark key="^" line="237" column="49" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1529074664846">
+        <mark key="[" line="333" column="48" />
+        <mark key="]" line="333" column="0" />
+        <mark key="." line="333" column="0" />
+        <mark key="^" line="333" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1528980684248">
         <mark key="[" line="4" column="61" />
@@ -73,13 +74,14 @@
         <mark key="]" line="14" column="113" />
         <mark key="." line="14" column="113" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/AcceptApprenticeController.java" timestamp="1529073600212" />
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/RecommendContentService.java" timestamp="1528983125615">
         <mark key="[" line="21" column="49" />
         <mark key="]" line="21" column="49" />
         <mark key="." line="21" column="49" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/DailyTaskController.java" timestamp="1529064963593">
-        <mark key="[" line="105" column="39" />
+        <mark key="[" line="108" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/RecommendContentServiceImpl.java" timestamp="1528984386074">
         <mark key="[" line="44" column="0" />
@@ -92,11 +94,11 @@
         <mark key="]" line="4" column="56" />
         <mark key="." line="4" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1529067197349">
+      <file name="/fragment.java" timestamp="1529074587069">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="53" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
     </filemarks>
@@ -203,8 +205,8 @@
       <jump line="10" column="69" filename="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/boot/myexample/PermissionTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>requestChain</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -237,7 +239,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PUT</text>
+        <text>requestChain</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
