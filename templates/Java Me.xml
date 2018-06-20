@@ -6,7 +6,7 @@
       <option name="JAVA_COMMENT" value="true" />
     </context>
   </template>
-  <template name="pvm" value="&#10;/**&#10; * @author $USER$&#10; * @date $DATE$&#10; * @version 1&#10; */&#10;private void $METHOD_NAME$() {&#10;    // todo&#10;}" description="privite void method" toReformat="false" toShortenFQNames="true">
+  <template name="pvm" value="&#10;/**&#10; * @author $USER$&#10; * @date $DATE$&#10; */&#10;private void $METHOD_NAME$() {&#10;    // todo&#10;}" description="privite void method" toReformat="false" toShortenFQNames="true">
     <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <variable name="METHOD_NAME" expression="complete()" defaultValue="method" alwaysStopAt="true" />
