@@ -1,7 +1,7 @@
 <templateSet group="Java Me">
-  <template name="mc" value="&#10;* @author $USER$&#10;* @date $DATE$" description="method comment" toReformat="false" toShortenFQNames="true">
-    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
-    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+  <template name="mc" value=" @author $USER$&#10;* @date $DATE$" description="method comment" toReformat="false" toShortenFQNames="true">
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_COMMENT" value="true" />
     </context>
