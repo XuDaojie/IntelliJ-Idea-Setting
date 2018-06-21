@@ -6,7 +6,7 @@
       <option name="JAVA_COMMENT" value="true" />
     </context>
   </template>
-  <template name="pvm" value="&#10;/**&#10; * @author $USER$&#10; * @date $DATE$&#10; */&#10;private void $METHOD_NAME$() {&#10;    // todo&#10;}" description="privite void method" toReformat="false" toShortenFQNames="true">
+  <template name="privm" value="&#10;/**&#10; * @author $USER$&#10; * @date $DATE$&#10; */&#10;private void $METHOD_NAME$() {&#10;    // todo&#10;}" description="privite void method" toReformat="false" toShortenFQNames="true">
     <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <variable name="METHOD_NAME" expression="complete()" defaultValue="method" alwaysStopAt="true" />
@@ -33,6 +33,14 @@
     <variable name="TAG" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="pubvm" value="&#10;/**&#10; * @author $USER$&#10; * @date $DATE$&#10; */&#10;public void $METHOD_NAME$() {&#10;    // todo&#10;}" description="public void method" toReformat="false" toShortenFQNames="true">
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="METHOD_NAME" expression="typeOfVariable(VAR)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
 </templateSet>
