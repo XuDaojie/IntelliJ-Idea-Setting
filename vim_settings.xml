@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" protocol="file" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" protocol="file" />
@@ -10,6 +10,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/PreRequestFilter.java" timestamp="1529064024458">
         <mark key="[" line="75" column="55" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-propre.properties" timestamp="1529734862499" />
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/RecommendContentController.java" timestamp="1528984736130">
         <mark key="[" line="48" column="43" />
         <mark key="]" line="48" column="43" />
@@ -24,7 +25,6 @@
         <mark key="^" line="159" column="28" />
         <mark key="." line="159" column="28" />
       </file>
-      <file name="/NewsUserClient.java" timestamp="1529070483617" />
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/ContentManageServiceImpl.java" timestamp="1528982581651">
         <mark key="[" line="65" column="43" />
         <mark key="]" line="68" column="28" />
@@ -41,7 +41,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1529044431051" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1529044431051" />
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1529044431051" />
-      <file name="/Dummy.txt" timestamp="1529076118360">
+      <file name="/Dummy.txt" timestamp="1529735026039">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -55,6 +55,7 @@
         <mark key="." line="75" column="17" />
         <mark key="^" line="75" column="17" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-test.yml" timestamp="1529734605559" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1528980684248">
         <mark key="[" line="4" column="61" />
       </file>
@@ -74,7 +75,15 @@
         <mark key="]" line="14" column="113" />
         <mark key="." line="14" column="113" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/AcceptApprenticeController.java" timestamp="1529073600212" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
+        <mark key="[" line="133" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1529734623865">
+        <mark key="[" line="116" column="36" />
+        <mark key="]" line="126" column="43" />
+        <mark key="^" line="126" column="43" />
+        <mark key="." line="126" column="43" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/RecommendContentService.java" timestamp="1528983125615">
         <mark key="[" line="21" column="49" />
         <mark key="]" line="21" column="49" />
@@ -205,8 +214,8 @@
       <jump line="10" column="69" filename="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/boot/myexample/PermissionTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHx8IHJlcXVlc3RDaGFpbi5tYXRjaGVzKHVybFJlZyArICIvLyoiKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -248,48 +257,48 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>for (String url : PERM_API_LIST) {
-            String queryString = getQueryString(request);
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMg6YeN5a6a5ZCR5o6l5Y+j5paH5qGjCiAgICBhcGktZG9jcy1jb21tZW50czoKICAgICAgcGF0aDogL2NvbW1lbnRzL3YyL2FwaS1kb2NzCiAgICAgIHNlcnZpY2VJZDogbmV3cy1jb21tZW50CiAgICAgIHN0cmlwUHJlZml4OiBmYWxzZQogICAgYXBpLWRvY3MtY29udGVudHM6CiAgICAgIHBhdGg6IC9jb250ZW50cy92Mi9hcGktZG9jcwogICAgICBzZXJ2aWNlSWQ6IG5ld3MtY29udGVudAogICAgICBzdHJpcFByZWZpeDogZmFsc2UKICAgIGFwaS1kb2NzLXNlYXJjaDoKICAgICAgcGF0aDogL3NlYXJjaC92Mi9hcGktZG9jcwogICAgICBzZXJ2aWNlSWQ6IG5ld3Mtc2VhcmNoCiAgICAgIHN0cmlwUHJlZml4OiBmYWxzZQogICAgYXBpLWRvY3MtdXNlcnM6CiAgICAgIHBhdGg6IC91c2Vycy92Mi9hcGktZG9jcwogICAgICBzZXJ2aWNlSWQ6IG5ld3MtdXNlcgogICAgICBzdHJpcFByZWZpeDogZmFsc2UKICAgIGFwaS1kb2NzLW1hbmFnZXM6CiAgICAgIHBhdGg6IC9tYW5hZ2VzL3YyL2FwaS1kb2NzCiAgICAgIHNlcnZpY2VJZDogbmV3cy1tYW5hZ2UKICAgICAgc3RyaXBQcmVmaXg6IGZhbHNlCiAgICBhcGktZG9jcy1wYXltZW50czoKICAgICAgcGF0aDogL3BheW1lbnRzL3YyL2FwaS1kb2NzCiAgICAgIHNlcnZpY2VJZDogbmV3cy1wYXltZW50CiAgICAgIHN0cmlwUHJlZml4OiBmYWxzZQo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>for (String url : PERM_API_LIST) {
+            String queryString = getQueryString(request);
+        }</text>
+      </register>
+      <register name="5" type="4">
         <text>if (requestChain.matches(urlReg)) {
                 // 但是列表需要权限
                 setGoBack(ctx, 403, JSON.toJSONString(BaseResponse.noPermission()));
                 return null;
             }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>if () {
-                    
-                }</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>if () {
+                    
+                }</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmV3c0lkQXJyYXkubGVuZ3RoIDw9IDEpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmJhZCgpLm1lc3NhZ2UoIua2iOaBryIpLmJ1aWxkKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
