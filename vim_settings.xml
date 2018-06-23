@@ -23,9 +23,9 @@
         <mark key="." line="165" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/SendSmsUtil.java" timestamp="1529749898162">
-        <mark key="[" line="52" column="77" />
-        <mark key="]" line="52" column="77" />
-        <mark key="." line="52" column="77" />
+        <mark key="[" line="51" column="77" />
+        <mark key="]" line="51" column="77" />
+        <mark key="." line="51" column="77" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/boot/example2/LoginLogoutTest.java" timestamp="1529054692344">
         <mark key="[" line="16" column="0" />
@@ -102,12 +102,18 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="46" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1529749556350">
+      <file name="/fragment.java" timestamp="1529753637120">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/ApiDocsController.java" timestamp="1529753710285">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="24" />
+        <mark key="^" line="23" column="74" />
+        <mark key="." line="21" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -214,7 +220,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>qa</text>
+        <text>v2/api-docs</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -247,7 +253,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>qa</text>
+        <text>v2/api-docs</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
