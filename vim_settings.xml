@@ -19,12 +19,14 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/boot/example2/LoginLogoutTest.java" timestamp="1529054692344">
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1529738241076" />
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/MessageExceptionQuartz.java" timestamp="1528910430881">
         <mark key="[" line="67" column="38" />
         <mark key="]" line="159" column="28" />
         <mark key="^" line="159" column="28" />
         <mark key="." line="159" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/anticenter/ApiAntiCenter.java" timestamp="1529739626549" />
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/ContentManageServiceImpl.java" timestamp="1528982581651">
         <mark key="[" line="65" column="43" />
         <mark key="]" line="68" column="28" />
@@ -38,10 +40,7 @@
         <mark key="." line="49" column="12" />
         <mark key="^" line="49" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1529044431051" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1529044431051" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1529044431051" />
-      <file name="/Dummy.txt" timestamp="1529735026039">
+      <file name="/Dummy.txt" timestamp="1529739636634">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -57,8 +56,10 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-dev.properties" timestamp="1529737043913" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-test.yml" timestamp="1529734605559" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1528980684248">
-        <mark key="[" line="4" column="61" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1529739656226">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/boot/myexample/realm/AuthRealm.java" timestamp="1529054525568">
         <mark key="[" line="20" column="111" />
@@ -104,7 +105,7 @@
         <mark key="]" line="4" column="56" />
         <mark key="." line="4" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1529077568622">
+      <file name="/fragment.java" timestamp="1529739636605">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -215,8 +216,8 @@
       <jump line="10" column="69" filename="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/boot/myexample/PermissionTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>192.168.115.103</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -249,7 +250,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IHJlcXVlc3RDaGFpbi5tYXRjaGVzKHVybFJlZyArICIvLyoiKQ==</text>
+        <text>192.168.115.103</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
