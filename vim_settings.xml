@@ -10,11 +10,12 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/PreRequestFilter.java" timestamp="1529064024458">
         <mark key="[" line="75" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1529760926236">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1529763963086">
         <mark key="[" line="361" column="9" />
         <mark key="]" line="369" column="0" />
         <mark key="." line="369" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/content/HomeContentQuartz.java" timestamp="1529763576973" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-propre.properties" timestamp="1529734862499" />
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application-local.yml" timestamp="1529741395048">
         <mark key="[" line="165" column="0" />
@@ -27,16 +28,15 @@
         <mark key="]" line="51" column="77" />
         <mark key="." line="51" column="77" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/consts/UserConst.java" timestamp="1529764114590">
+        <mark key="[" line="270" column="38" />
+        <mark key="]" line="270" column="37" />
+        <mark key="." line="270" column="37" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/boot/example2/LoginLogoutTest.java" timestamp="1529054692344">
         <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1529738241076" />
-      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/MessageExceptionQuartz.java" timestamp="1528910430881">
-        <mark key="[" line="67" column="38" />
-        <mark key="]" line="159" column="28" />
-        <mark key="^" line="159" column="28" />
-        <mark key="." line="159" column="28" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1529761964523" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/anticenter/ApiAntiCenter.java" timestamp="1529739626549" />
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/ContentManageServiceImpl.java" timestamp="1528982581651">
@@ -45,6 +45,7 @@
         <mark key="." line="68" column="28" />
         <mark key="^" line="68" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1529763593809" />
       <file name="/Dummy.txt" timestamp="1529760984823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -53,7 +54,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/resources/myexample/shiro.ini" timestamp="1529054924168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1529760740558">
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1529763864389">
         <mark key="]" line="75" column="17" />
         <mark key="." line="75" column="17" />
         <mark key="^" line="75" column="17" />
@@ -106,7 +107,7 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="46" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1529760984814">
+      <file name="/fragment.java" timestamp="1529763965536">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -221,7 +222,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v2/api-docs</text>
+        <text>t</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -254,7 +255,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>v2/api-docs</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
