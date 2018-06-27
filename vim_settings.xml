@@ -13,7 +13,6 @@
       <file name="/UserInviteServiceImpl.java" timestamp="1530085980976" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/UserPaymentClient.java" timestamp="1530092737462" />
       <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/user/UserLogAnnotation.java" timestamp="1530106428624" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserWakeupLogServiceImpl.java" timestamp="1530095679300" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/activity/DailyTaskController.java" timestamp="1530075518478" />
       <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/event/TimeStaticAspect.java" timestamp="1530065652273" />
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/BannerController.java" timestamp="1530101850075" />
@@ -27,6 +26,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1530114725748">
+        <mark key="[" line="247" column="62" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/interceptor/UserLogInterceptor.java" timestamp="1530107273011">
         <mark key="[" line="63" column="12" />
