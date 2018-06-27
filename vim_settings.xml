@@ -30,6 +30,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/anticenter/ApiAntiCenter.java" timestamp="1529911582657">
         <mark key="[" line="51" column="53" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserWakeupLogServiceImpl.java" timestamp="1530095679300" />
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/application-local.properties" timestamp="1529914972417">
         <mark key="[" line="18" column="16" />
       </file>
@@ -50,6 +51,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-pro.properties" timestamp="1529928288014">
         <mark key="[" line="55" column="74" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/user/UserQuartz.java" timestamp="1530095332348">
+        <mark key="[" line="72" column="15" />
+        <mark key="]" line="72" column="15" />
+        <mark key="." line="72" column="15" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/README.md" timestamp="1530083294363" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pre.properties" timestamp="1529928341514">
         <mark key="[" line="82" column="33" />
@@ -64,6 +70,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-pre.properties" timestamp="1529928283469">
         <mark key="[" line="55" column="74" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/client/UserClient.java" timestamp="1530095578934" />
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1530090836336" />
       <file name="/Dummy.txt" timestamp="1530092975722">
         <mark key="[" line="0" column="0" />
@@ -108,7 +115,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pro.properties" timestamp="1529928409739">
         <mark key="[" line="20" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1530065541596">
+      <file name="/fragment.java" timestamp="1530095053692">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -220,7 +227,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fixedDelay</text>
+        <text>cron = &quot;0 * */3 * * *</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -253,7 +260,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fixedDelay</text>
+        <text>cron = &quot;0 * */3 * * *</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
