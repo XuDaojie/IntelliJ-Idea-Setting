@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" protocol="file" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" protocol="file" />
@@ -16,7 +16,6 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pro.properties" timestamp="1529928376474">
         <mark key="[" line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/bootstrap-pre.yml" timestamp="1530164959537" />
       <file name="$USER_HOME$/IdeaProjects/news/sql/ddl.sql" timestamp="1529908487148">
         <mark key="[" line="734" column="10" />
       </file>
@@ -26,9 +25,6 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pro.properties" timestamp="1529928299109">
         <mark key="[" line="80" column="74" />
       </file>
-      <file name="/UserInviteServiceImpl.java" timestamp="1530085980976" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/UserPaymentClient.java" timestamp="1530092737462" />
-      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/user/UserLogAnnotation.java" timestamp="1530106428624" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-pre.properties" timestamp="1529928322831">
         <mark key="[" line="118" column="40" />
       </file>
@@ -40,6 +36,10 @@
         <mark key="]" line="127" column="4" />
         <mark key="." line="127" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserWakeupLogServiceImpl.java" timestamp="1530540771616">
+        <mark key="[" line="129" column="5" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1530511261961" />
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/application-local.properties" timestamp="1529914972417">
         <mark key="[" line="18" column="16" />
       </file>
@@ -52,34 +52,30 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pro.properties" timestamp="1529928352885">
         <mark key="[" line="56" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/activity/DailyTaskController.java" timestamp="1530075518478" />
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/resources/application-local.properties" timestamp="1529920502191">
         <mark key="[" line="88" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/event/TimeStaticAspect.java" timestamp="1530065652273" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-pro.properties" timestamp="1529928288014">
         <mark key="[" line="55" column="74" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/RecommendContentServiceImpl.java" timestamp="1530186548355">
         <mark key="[" line="140" column="115" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/BannerController.java" timestamp="1530101850075" />
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/user/UserQuartz.java" timestamp="1530110975440">
         <mark key="[" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/README.md" timestamp="1530083294363" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/RecommendContentController.java" timestamp="1530186486584" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pre.properties" timestamp="1529928341514">
         <mark key="[" line="82" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/ThreadLocalGlobal.java" timestamp="1530541414421" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pre.properties" timestamp="1529928384839">
         <mark key="[" line="30" column="62" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-pre.properties" timestamp="1529928283469">
         <mark key="[" line="55" column="74" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/client/UserClient.java" timestamp="1530110986171" />
-      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1530178076356" />
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1530511261961" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1530511261961" />
       <file name="/Dummy.txt" timestamp="1530186392147">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -103,9 +99,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/AcceptApprenticeServiceImpl.java" timestamp="1530090608588">
         <mark key="[" line="327" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserAwardServiceImpl.java" timestamp="1530182709388" />
-      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/payment/GoldRecord.java" timestamp="1530100246081" />
-      <file name="/DailyTaskServiceImpl.java" timestamp="1530089496119" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-pro.properties" timestamp="1529928330462">
         <mark key="[" line="116" column="40" />
       </file>
@@ -128,7 +121,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/media/MediaLoginController.java" timestamp="1530082320438">
         <mark key="[" line="105" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/ContentManageController.java" timestamp="1530188568266" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1529928389727">
         <mark key="[" line="30" column="62" />
       </file>
@@ -138,11 +130,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pre.properties" timestamp="1529928369698">
         <mark key="[" line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/service/impl/CommentServiceImpl.java" timestamp="1530104068255" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/activity/UserInviteController.java" timestamp="1530541055167" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pro.properties" timestamp="1529928409739">
         <mark key="[" line="20" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1530110336850">
+      <file name="/fragment.java" timestamp="1530540815761">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
