@@ -13,6 +13,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserWakeupLogMapper.java" timestamp="1530099574249">
         <mark key="[" line="45" column="7" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/CommentClient.java" timestamp="1530626839194" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pro.properties" timestamp="1529928376474">
         <mark key="[" line="27" column="38" />
       </file>
@@ -67,21 +68,28 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pre.properties" timestamp="1529928341514">
         <mark key="[" line="82" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/mapper/CommentMapper.java" timestamp="1530626919203" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/ThreadLocalGlobal.java" timestamp="1530542531070">
         <mark key="[" line="19" column="96" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pre.properties" timestamp="1529928384839">
         <mark key="[" line="30" column="62" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1530622661840" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1530626223015" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-pre.properties" timestamp="1529928283469">
         <mark key="[" line="55" column="74" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/base/BaseResponse.java" timestamp="1530622109379">
         <mark key="[" line="46" column="44" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/ContentServiceImpl.java" timestamp="1530626784636" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1530615390617" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1530615390617" />
+      <file name="/Dummy.txt" timestamp="1530626354887">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
@@ -121,8 +129,8 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1529928389727">
         <mark key="[" line="30" column="62" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1530588831286">
-        <mark key="[" line="33" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1530626655208">
+        <mark key="[" line="36" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/bean/ReflectTool.java" timestamp="1530066172285">
         <mark key="[" line="32" column="72" />
@@ -133,8 +141,8 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pro.properties" timestamp="1529928409739">
         <mark key="[" line="20" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-qa.yml" timestamp="1530595471337">
-        <mark key="[" line="36" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-qa.yml" timestamp="1530626293496">
+        <mark key="[" line="37" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1530595038743">
         <mark key="e" line="0" column="0" />
@@ -251,7 +259,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MICROSECONDS</text>
+        <text>网关配置格式错误</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -284,7 +292,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MICROSECONDS</text>
+        <text>网关配置格式错误</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
