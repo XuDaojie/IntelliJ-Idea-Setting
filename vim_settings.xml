@@ -16,8 +16,8 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pro.properties" timestamp="1530676097270">
         <mark key="[" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/content/HomeContentQuartz.java" timestamp="1530687321634">
-        <mark key="[" line="132" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/content/HomeContentQuartz.java" timestamp="1530716922084">
+        <mark key="[" line="132" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/sql/ddl.sql" timestamp="1529908487148">
         <mark key="[" line="734" column="10" />
@@ -30,12 +30,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pro.properties" timestamp="1530676001387">
         <mark key="[" line="33" column="40" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-pre.properties" timestamp="1530676051788">
-        <mark key="[" line="42" column="38" />
-        <mark key="]" line="56" column="7" />
-        <mark key="^" line="56" column="7" />
-        <mark key="." line="56" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1530588843944">
         <mark key="[" line="43" column="5" />
@@ -66,6 +60,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pro.properties" timestamp="1530676087719">
         <mark key="[" line="33" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/ContentController.java" timestamp="1530715870672" />
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/resources/application-local.properties" timestamp="1529920502191">
         <mark key="[" line="88" column="29" />
       </file>
@@ -90,12 +85,13 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/base/BaseResponse.java" timestamp="1530622109379">
         <mark key="[" line="46" column="44" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/ContentServiceImpl.java" timestamp="1530716894911" />
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1530704801074" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1530704801074" />
-      <file name="/Dummy.txt" timestamp="1530714213279">
+      <file name="/Dummy.txt" timestamp="1530716966850">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
@@ -111,12 +107,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pre.properties" timestamp="1530675991211">
         <mark key="[" line="33" column="40" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pre.yml" timestamp="1530671757687">
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="35" column="11" />
-        <mark key="^" line="35" column="11" />
-        <mark key="." line="35" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/media/MediaLoginController.java" timestamp="1530082320438">
         <mark key="[" line="105" column="39" />
@@ -142,7 +132,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-qa.yml" timestamp="1530626293496">
         <mark key="[" line="37" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1530711939614">
+      <file name="/fragment.java" timestamp="1530716286735">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -257,7 +247,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Token Scope改为prototype</text>
+        <text>local</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -290,7 +280,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Token Scope改为prototype</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
