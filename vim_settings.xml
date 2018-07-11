@@ -80,6 +80,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pro.properties" timestamp="1530676087719">
         <mark key="[" line="33" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/activity/DailyTaskController.java" timestamp="1531305321698">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/resources/application-local.properties" timestamp="1529920502191">
         <mark key="[" line="88" column="29" />
       </file>
@@ -102,16 +107,22 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pre.properties" timestamp="1530676083676">
         <mark key="[" line="33" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application.properties" timestamp="1531292684782">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pre.properties" timestamp="1530676102377">
         <mark key="[" line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1531298941409">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1531305598770">
+        <mark key="[" line="727" column="71" />
+        <mark key="]" line="628" column="0" />
+        <mark key="." line="628" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/QuartzApplication.java" timestamp="1531297758855">
         <mark key="[" line="20" column="2" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-dev.properties" timestamp="1531285410560">
+        <mark key="[" line="49" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-dev.properties" timestamp="1531285712895">
         <mark key="[" line="86" column="36" />
@@ -124,10 +135,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserLogServiceImpl.java" timestamp="1531297492065">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/AcceptApprenticeServiceImpl.java" timestamp="1531298719963">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/NewsConfigController.java" timestamp="1531305710155">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
         <mark key="[" line="133" column="19" />
@@ -169,11 +180,8 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/sql/ddl.sql" timestamp="1531221708530">
-        <mark key="[" line="837" column="2" />
-        <mark key="]" line="837" column="1" />
-        <mark key="^" line="837" column="1" />
-        <mark key="." line="837" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/news/sql/ddl.sql" timestamp="1531305644701">
+        <mark key="[" line="892" column="103" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-test.properties" timestamp="1531285734318">
         <mark key="[" line="121" column="40" />
@@ -207,6 +215,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1531306618073">
+        <mark key="[" line="208" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/ThreadLocalGlobal.java" timestamp="1530542531070">
         <mark key="[" line="19" column="96" />
       </file>
@@ -216,10 +227,12 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/base/BaseResponse.java" timestamp="1530622109379">
         <mark key="[" line="46" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/ContentServiceImpl.java" timestamp="1531297906600">
-        <mark key="[" line="69" column="45" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/ContentServiceImpl.java" timestamp="1531305220789">
+        <mark key="[" line="365" column="0" />
+        <mark key="]" line="365" column="0" />
+        <mark key="." line="365" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531299750138">
+      <file name="/Dummy.txt" timestamp="1531307030233">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -399,8 +412,8 @@
       <jump line="272" column="739" filename="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>local</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -442,40 +455,40 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmJhZCgpLm1lc3NhZ2UoIuaCqOeahOmYheivu+mAn+W6pui2hei/h+S6huacjeWKoeWZqOeahOWkhOeQhumAn+W6pizor7fnqI3lkI7lho3or5UiKS5idWlsZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2hlY2tSZWFkRXhwaXJlKHN0cmluZ1JlZGlzVGVtcGxhdGUsIHJlYWRFeHBpcmVLZXkpKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVhZEV4cGlyZUtleSA9IHJlZGlzS2V5KFRhc2tDb25zdC5SZWRpcy5SRUFEX0VYUElSRV9LRVksIHVzZXJJZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDmr48gUkVBRF9FWFBJUkVfVElNRSDnp5Llj6/ku6Xojrflj5bkuIDmrKHpmIXor7vlpZblirEK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDmo4Dmn6XkuIrmrKHpmIXor7vml7bpl7TmmK/lkKbov4fmnJ8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZSByZWFkUmV3YXJkKGxvbmcgdXNlcklkLCBTdHJpbmcgZGF0YUlkLCBTdHJpbmcgdmVyc2lvbikgewo=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5FbmFibGVUcmFuc2FjdGlvbk1hbmFnZW1lbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
