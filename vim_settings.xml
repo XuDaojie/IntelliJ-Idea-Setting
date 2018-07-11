@@ -22,12 +22,6 @@
       <file name="/a.dummy" timestamp="1529931444103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application-local.yml" timestamp="1531322321570">
-        <mark key="[" line="42" column="2" />
-        <mark key="]" line="42" column="2" />
-        <mark key="^" line="155" column="41" />
-        <mark key="." line="42" column="2" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-qa.properties" timestamp="1531309481406">
         <mark key="[" line="53" column="40" />
         <mark key="]" line="13" column="0" />
@@ -53,13 +47,14 @@
         <mark key="[" line="51" column="53" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/PostRequestFilter.java" timestamp="1531319016197">
-        <mark key="[" line="69" column="33" />
-        <mark key="]" line="108" column="15" />
-        <mark key="." line="108" column="15" />
+        <mark key="[" line="134" column="33" />
+        <mark key="]" line="173" column="15" />
+        <mark key="." line="173" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-pro.properties" timestamp="1531309008594">
         <mark key="[" line="83" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/UserClient.java" timestamp="1531275630107" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-test.properties" timestamp="1531309020948">
         <mark key="[" line="86" column="29" />
       </file>
@@ -84,6 +79,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/application-local.properties" timestamp="1531300278308">
         <mark key="[" line="127" column="40" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/client/NewsUserClient.java" timestamp="1531277201396" />
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/bootstrap-dev.yml" timestamp="1531317717745">
         <mark key="[" line="7" column="97" />
       </file>
@@ -99,6 +95,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pre.properties" timestamp="1531309435541">
         <mark key="[" line="94" column="74" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.10.RELEASE/c66d09f33f6b2e46442f3445f0611efbc421e85/spring-tx-4.3.10.RELEASE-sources.jar!/org/springframework/transaction/annotation/EnableTransactionManagement.java" timestamp="1531282100786" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-qa.properties" timestamp="1531309412205">
         <mark key="[" line="75" column="27" />
       </file>
@@ -164,8 +161,8 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-test.properties" timestamp="1531309241031">
         <mark key="[" line="121" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-test.properties" timestamp="1531310484345">
-        <mark key="[" line="94" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-test.properties" timestamp="1531326500008">
+        <mark key="[" line="19" column="28" />
         <mark key="]" line="19" column="24" />
         <mark key="^" line="19" column="24" />
         <mark key="." line="19" column="24" />
@@ -173,6 +170,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserWakeupLogServiceImpl.java" timestamp="1530540771616">
         <mark key="[" line="129" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/InnerReportController.java" timestamp="1531286305092" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-dev.properties" timestamp="1531325033422">
         <mark key="[" line="68" column="37" />
       </file>
@@ -200,12 +198,15 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-pro.properties" timestamp="1531309035448">
         <mark key="[" line="58" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserFavoritesController.java" timestamp="1531276065061" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-qa.properties" timestamp="1531310531453">
         <mark key="[" line="19" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/config/build.gradle" timestamp="1531208773666" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-dev.properties" timestamp="1531317677362">
         <mark key="[" line="96" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/ContentApplication.java" timestamp="1531297844628" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1531306618073">
         <mark key="[" line="208" column="0" />
       </file>
@@ -233,15 +234,13 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="81" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531325694808">
+      <file name="/Dummy.txt" timestamp="1531326564936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1531318792358">
-        <mark key="[" line="244" column="43" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1531318792358" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-test.yml" timestamp="1531325680133">
         <mark key="[" line="44" column="26" />
         <mark key="]" line="45" column="0" />
@@ -263,20 +262,24 @@
         <mark key="^" line="118" column="38" />
         <mark key="." line="118" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pre.properties" timestamp="1531310899619">
-        <mark key="[" line="19" column="27" />
+      <file name="/CommentLikeMapper.java" timestamp="1531287376503" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pre.properties" timestamp="1531326465726">
+        <mark key="[" line="19" column="28" />
         <mark key="]" line="71" column="25" />
         <mark key="." line="71" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1531278573006" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1531309439634">
         <mark key="[" line="94" column="74" />
       </file>
+      <file name="/InnerReportController.java" timestamp="1531283049161" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1531321911802">
         <mark key="[" line="31" column="23" />
         <mark key="]" line="45" column="36" />
         <mark key="^" line="45" column="36" />
         <mark key="." line="45" column="36" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/UserApplication.java" timestamp="1531297787266" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pre.properties" timestamp="1531309402125">
         <mark key="[" line="82" column="34" />
       </file>
