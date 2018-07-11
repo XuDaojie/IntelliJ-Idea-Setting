@@ -34,8 +34,8 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application-local.yml" timestamp="1530588718162">
         <mark key="[" line="59" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pro.properties" timestamp="1530676001387">
-        <mark key="[" line="33" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pro.properties" timestamp="1531277595728">
+        <mark key="[" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1530776298851">
         <mark key="[" line="46" column="21" />
@@ -45,10 +45,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/anticenter/ApiAntiCenter.java" timestamp="1529911582657">
         <mark key="[" line="51" column="53" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/PostRequestFilter.java" timestamp="1530707999868">
-        <mark key="]" line="109" column="15" />
-        <mark key="." line="109" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserWakeupLogServiceImpl.java" timestamp="1530540771616">
         <mark key="[" line="129" column="5" />
@@ -84,6 +80,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserFavoritesController.java" timestamp="1531276065061" />
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/build.gradle" timestamp="1531208773666" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/client/NewsUserClient.java" timestamp="1531277201396" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pre.properties" timestamp="1530676083676">
         <mark key="[" line="33" column="38" />
       </file>
@@ -123,12 +120,15 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
         <mark key="[" line="133" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pre.properties" timestamp="1530675991211">
-        <mark key="[" line="33" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pre.properties" timestamp="1531277576241">
+        <mark key="[" line="71" column="25" />
+        <mark key="]" line="71" column="25" />
+        <mark key="." line="71" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/media/MediaLoginController.java" timestamp="1530082320438">
         <mark key="[" line="105" column="39" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1531277209595" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1530676107291">
         <mark key="[" line="27" column="38" />
       </file>
@@ -267,7 +267,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>10.100.110.49,10.100.110.55,10.100.110.85</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -300,7 +300,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>10.100.110.49,10.100.110.55,10.100.110.85</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
