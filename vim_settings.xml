@@ -22,6 +22,12 @@
       <file name="/a.dummy" timestamp="1529931444103">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application-local.yml" timestamp="1531322321570">
+        <mark key="[" line="42" column="2" />
+        <mark key="]" line="42" column="2" />
+        <mark key="^" line="155" column="41" />
+        <mark key="." line="42" column="2" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-qa.properties" timestamp="1531309481406">
         <mark key="[" line="53" column="40" />
         <mark key="]" line="13" column="0" />
@@ -36,9 +42,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1531318195993">
         <mark key="[" line="19" column="22" />
-        <mark key="]" line="54" column="32" />
-        <mark key="^" line="54" column="32" />
-        <mark key="." line="54" column="32" />
+        <mark key="]" line="55" column="32" />
+        <mark key="^" line="55" column="32" />
+        <mark key="." line="55" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/resources/application-local.properties" timestamp="1530713788789">
         <mark key="[" line="33" column="29" />
@@ -56,12 +62,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-test.properties" timestamp="1531309020948">
         <mark key="[" line="86" column="29" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/m-eps-qa.properties" timestamp="1531308987702">
-        <mark key="[" line="100" column="77" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="100" column="0" />
-        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-qa.properties" timestamp="1531309013456">
         <mark key="[" line="81" column="77" />
@@ -108,8 +108,8 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-dev.properties" timestamp="1531309455847">
         <mark key="[" line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-dev.properties" timestamp="1531310951724">
-        <mark key="[" line="14" column="27" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-dev.properties" timestamp="1531322310866">
+        <mark key="[" line="92" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/service/impl/CommentRewardServiceImpl.java" timestamp="1531298402503">
         <mark key="[" line="41" column="0" />
@@ -131,11 +131,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
         <mark key="[" line="133" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pre.yml" timestamp="1531309747865">
-        <mark key="[" line="39" column="20" />
-        <mark key="]" line="44" column="36" />
-        <mark key="^" line="44" column="36" />
-        <mark key="." line="44" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pre.yml" timestamp="1531321919404">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="45" column="36" />
+        <mark key="^" line="45" column="36" />
+        <mark key="." line="45" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/media/MediaLoginController.java" timestamp="1530082320438">
         <mark key="[" line="105" column="39" />
@@ -146,17 +146,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/resources/bootstrap-pro.properties" timestamp="1530627918073">
         <mark key="[" line="18" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-qa.yml" timestamp="1531309772910">
-        <mark key="[" line="42" column="20" />
-        <mark key="]" line="47" column="36" />
-        <mark key="^" line="47" column="36" />
-        <mark key="." line="47" column="36" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-test.properties" timestamp="1531309579923">
-        <mark key="[" line="62" column="36" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-qa.yml" timestamp="1531321947401">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="48" column="36" />
+        <mark key="^" line="48" column="36" />
+        <mark key="." line="48" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserWakeupLogMapper.java" timestamp="1530099574249">
         <mark key="[" line="45" column="7" />
@@ -179,20 +173,8 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserWakeupLogServiceImpl.java" timestamp="1530540771616">
         <mark key="[" line="129" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/docs/v1.3.0.md" timestamp="1531124021988">
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="9" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="13" column="9" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-dev.properties" timestamp="1531309026147">
         <mark key="[" line="63" column="29" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/application-local.properties" timestamp="1531317712306">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="9" />
-        <mark key="^" line="84" column="9" />
-        <mark key="." line="84" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/m-eps-pre.properties" timestamp="1531308961454">
         <mark key="[" line="118" column="40" />
@@ -251,10 +233,8 @@
         <mark key="." line="87" column="33" />
         <mark key="^" line="81" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531319618583">
+      <file name="/Dummy.txt" timestamp="1531321956383">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
@@ -262,11 +242,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1531318792358">
         <mark key="[" line="244" column="43" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-test.yml" timestamp="1531318437694">
-        <mark key="[" line="46" column="1" />
-        <mark key="]" line="46" column="1" />
-        <mark key="^" line="62" column="36" />
-        <mark key="." line="46" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-test.yml" timestamp="1531321865132">
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-common.properties" timestamp="1531309426416">
         <mark key="[" line="98" column="77" />
@@ -291,11 +271,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1531309439634">
         <mark key="[" line="94" column="74" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1531309759116">
-        <mark key="[" line="39" column="20" />
-        <mark key="]" line="44" column="36" />
-        <mark key="^" line="44" column="36" />
-        <mark key="." line="44" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1531321911802">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="45" column="36" />
+        <mark key="^" line="45" column="36" />
+        <mark key="." line="45" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pre.properties" timestamp="1531309402125">
         <mark key="[" line="82" column="34" />
@@ -309,7 +289,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pro.properties" timestamp="1531309476592">
         <mark key="[" line="44" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1531319616674">
+      <file name="/fragment.java" timestamp="1531320590519">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -425,8 +405,8 @@
       <jump line="272" column="739" filename="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -459,7 +439,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>feign配置</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -467,20 +447,20 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZXJ2ZXI6CiAgICB0b21jYXQ6CiAgICAgICAgbWF4LWNvbm5lY3Rpb25zOiA0MDAK</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBva2h0dHA6CiAgICBlbmFibGU6IHRydWUK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZWFnZXItbG9hZDoKICAgIGNsaWVudHM6IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">c2VydmVyLnRvbWNhdC5tYXgtY29ubmVjdGlvbnM9NDAwCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZXJ2ZXI6CiAgICB0b21jYXQ6CiAgICAgICAgbWF4LWNvbm5lY3Rpb25zOiA0MDAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -492,7 +472,7 @@
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmVyLnRvbWNhdC5tYXgtY29ubmVjdGlvbnM9NDAwCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -501,7 +481,7 @@
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
