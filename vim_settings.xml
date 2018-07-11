@@ -143,8 +143,8 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/resources/bootstrap-pro.properties" timestamp="1530627918073">
         <mark key="[" line="18" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-qa.yml" timestamp="1531321947401">
-        <mark key="[" line="34" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-qa.yml" timestamp="1531327115522">
+        <mark key="[" line="21" column="19" />
         <mark key="]" line="48" column="36" />
         <mark key="^" line="48" column="36" />
         <mark key="." line="48" column="36" />
@@ -216,14 +216,19 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/ThreadLocalGlobal.java" timestamp="1530542531070">
         <mark key="[" line="19" column="96" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-dev.properties" timestamp="1531308999352">
-        <mark key="[" line="86" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-dev.properties" timestamp="1531327253671">
+        <mark key="[" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-pre.properties" timestamp="1531309030652">
         <mark key="[" line="58" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/base/BaseResponse.java" timestamp="1530622109379">
         <mark key="[" line="46" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/ContentServiceImpl.java" timestamp="1531327850531">
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-qa.properties" timestamp="1531309039935">
         <mark key="[" line="57" column="77" />
@@ -233,9 +238,6 @@
         <mark key="]" line="87" column="33" />
         <mark key="." line="87" column="33" />
         <mark key="^" line="81" column="44" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1531326564936">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
@@ -409,7 +411,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -451,34 +453,34 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBva2h0dHA6CiAgICBlbmFibGU6IHRydWUK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZWFnZXItbG9hZDoKICAgIGNsaWVudHM6IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZXJ2ZXI6CiAgICB0b21jYXQ6CiAgICAgICAgbWF4LWNvbm5lY3Rpb25zOiA0MDAK</text>
+      <register name="4" type="2">
+        <text encoding="base64">QFRyYW5zYWN0aW9uYWwocm9sbGJhY2tGb3IgPSBFeGNlcHRpb24uY2xhc3MpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBva2h0dHA6CiAgICBlbmFibGU6IHRydWUK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2VydmVyLnRvbWNhdC5tYXgtY29ubmVjdGlvbnM9NDAwCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZWFnZXItbG9hZDoKICAgIGNsaWVudHM6IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZXJ2ZXI6CiAgICB0b21jYXQ6CiAgICAgICAgbWF4LWNvbm5lY3Rpb25zOiA0MDAK</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
