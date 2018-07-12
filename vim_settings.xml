@@ -40,6 +40,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-pre.properties" timestamp="1531339977606">
         <mark key="[" line="19" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/m-eps-test.properties" timestamp="1531329298145" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1531328887875">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="57" column="32" />
@@ -60,6 +61,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-pro.properties" timestamp="1531329266457">
         <mark key="[" line="91" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/UserClient.java" timestamp="1531275630107" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-test.properties" timestamp="1531329254849">
         <mark key="[" line="94" column="29" />
       </file>
@@ -90,6 +92,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/application-local.properties" timestamp="1531300278308">
         <mark key="[" line="127" column="40" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/client/NewsUserClient.java" timestamp="1531277201396" />
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/bootstrap-dev.yml" timestamp="1531317717745">
         <mark key="[" line="7" column="97" />
       </file>
@@ -105,6 +108,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pre.properties" timestamp="1531340082594">
         <mark key="[" line="14" column="27" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.10.RELEASE/c66d09f33f6b2e46442f3445f0611efbc421e85/spring-tx-4.3.10.RELEASE-sources.jar!/org/springframework/transaction/annotation/EnableTransactionManagement.java" timestamp="1531282100786" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-qa.properties" timestamp="1531340065877">
         <mark key="[" line="13" column="27" />
       </file>
@@ -179,6 +183,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserWakeupLogServiceImpl.java" timestamp="1530540771616">
         <mark key="[" line="129" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/InnerReportController.java" timestamp="1531286305092" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-dev.properties" timestamp="1531340026645">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="31" column="38" />
@@ -218,12 +223,15 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserFavoritesController.java" timestamp="1531276065061" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-qa.properties" timestamp="1531339757047">
         <mark key="[" line="19" column="30" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/config/build.gradle" timestamp="1531208773666" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-dev.properties" timestamp="1531339792309">
         <mark key="[" line="104" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/ContentApplication.java" timestamp="1531297844628" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1531306618073">
         <mark key="[" line="208" column="0" />
       </file>
@@ -245,6 +253,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-qa.properties" timestamp="1531329538046">
         <mark key="[" line="62" column="77" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/notice/push/JpushUtil.java" timestamp="1531400958930" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/m-eps-dev.properties" timestamp="1531308973357">
         <mark key="[" line="87" column="33" />
         <mark key="]" line="87" column="33" />
@@ -280,20 +289,24 @@
         <mark key="^" line="126" column="38" />
         <mark key="." line="126" column="38" />
       </file>
+      <file name="/CommentLikeMapper.java" timestamp="1531287376503" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pre.properties" timestamp="1531339784752">
         <mark key="[" line="19" column="28" />
         <mark key="]" line="79" column="25" />
         <mark key="." line="79" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1531278573006" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1531340087068">
         <mark key="[" line="14" column="27" />
       </file>
+      <file name="/InnerReportController.java" timestamp="1531283049161" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1531342288335">
         <mark key="[" line="35" column="17" />
         <mark key="]" line="50" column="36" />
         <mark key="^" line="50" column="36" />
         <mark key="." line="50" column="36" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/UserApplication.java" timestamp="1531297787266" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pre.properties" timestamp="1531340055430">
         <mark key="[" line="13" column="27" />
       </file>
