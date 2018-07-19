@@ -71,6 +71,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-test.properties" timestamp="1531445991840">
         <mark key="[" line="94" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/controller/InnerStaticsController.java" timestamp="1532001382313" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-qa.properties" timestamp="1531445985592">
         <mark key="[" line="89" column="77" />
       </file>
@@ -80,7 +81,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/application-local.properties" timestamp="1531342359361">
         <mark key="[" line="83" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1531999163942">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1532000888181">
         <mark key="[" line="130" column="26" />
         <mark key="]" line="131" column="24" />
         <mark key="^" line="131" column="24" />
@@ -164,6 +165,12 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-qa.properties" timestamp="1531446011896">
         <mark key="[" line="62" column="77" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/resources/application-local.properties" timestamp="1532000891669">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="1" column="46" />
+        <mark key="^" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1531989656913" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1531989656913" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-dev.properties" timestamp="1531446146490">
@@ -181,8 +188,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531992699545">
+      <file name="/Dummy.txt" timestamp="1532002081575">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/m-wemedia/m-wemedia/src/main/resources/logback-spring.xml" timestamp="1531593432919">
         <mark key="[" line="20" column="28" />
@@ -231,7 +240,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pro.properties" timestamp="1531309476592">
         <mark key="[" line="44" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1531992699525">
+      <file name="/fragment.java" timestamp="1532000901144">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -339,7 +348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TkQgdXNlcl9pZD0gI3t1c2VySWR9IA==</text>
+        <text encoding="base64">SU5ERVgoaWR4X25ld3NfaWQpIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -372,7 +381,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TkQgdXNlcl9pZD0gI3t1c2VySWR9IA==</text>
+        <text encoding="base64">SU5ERVgoaWR4X25ld3NfaWQpIA==</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -381,34 +390,34 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+Pj4+IFRlbXBvcmFyeSBtZXJnZSBicmFuY2ggMgo=</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+Pj4+IFRlbXBvcmFyeSBtZXJnZSBicmFuY2ggMgo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PDw8IFRlbXBvcmFyeSBtZXJnZSBicmFuY2ggMQogICAgQFNlbGVjdCgiIFNFTEVDVCBpZCwgZ210X2NyZWF0ZSwgZ210X3VwZGF0ZSwgZGF0YV9pZCwgc2NvcmUsIGhlYXQsIHRodW1ibmFpbF9hcnJheSwgbGV2ZWxfY29kZSwgbGFiZWxfYXJyYXksIGxpa2Vfc2l6ZSwgdmlzaXRfc2l6ZSwgdmlkZW9fcGljLCB2aWRlb190aW1lLCBhdWRpb190aW1lLCBhdXRob3IsIHRpdGxlLCBzb3VyY2UsIG5ld3Nfc291cmNlLCBuZXdzX3R5cGUsIHN0YXRlLCBpc190b3AsIHRvcF9leHBpcmVkX3RpbWUsIHNvdXJjZV9wdWJsaXNoX3RpbWUsIHNvdXJjZV9jcmF3bF90aW1lLCBwdWJsaXNoX3RpbWUsIG9ubGluZV90aW1lLCBkZWxldGVfc3RhdGUsIGNvbW1lbnRfc2l6ZSwgY2hhcHRlciwgdmlkZW9fYWRkciwgYXVkaW9fYWRkciwgb25saW5lX3R5cGUsIHNvcnRfc2NvcmUsIGNoZWNrX3RpbWUsIGZpbGVfc2l6ZSwgdXJsLCBpbWdfY291bnQsIGlzX29yaWdpbmFsLCBuZXdzX2xldmVsIEZST00gbmV3c19jb250ZW50IFdIRVJFIHN0YXRlID0gNSBBTkQgZGVsZXRlX3N0YXRlID0gMCBBTkQgZGF0YV9pZCA9ICN7ZGF0YUlkfSAiKQo=</text>
+        <text encoding="base64">PT09PT09PT09Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnF1YXJ0eicKCmluY2x1ZGUgJzpuZXdzLWNvbW1lbnQnCmluY2x1ZGUgJzpuZXdzLWNvbnRlbnQnCmluY2x1ZGUgJzpuZXdzLXNlYXJjaCcKaW5jbHVkZSAnOm5ld3MtdXNlcicK</text>
+        <text encoding="base64">PDw8PDw8PDw8IFRlbXBvcmFyeSBtZXJnZSBicmFuY2ggMQogICAgQFNlbGVjdCgiIFNFTEVDVCBpZCwgZ210X2NyZWF0ZSwgZ210X3VwZGF0ZSwgZGF0YV9pZCwgc2NvcmUsIGhlYXQsIHRodW1ibmFpbF9hcnJheSwgbGV2ZWxfY29kZSwgbGFiZWxfYXJyYXksIGxpa2Vfc2l6ZSwgdmlzaXRfc2l6ZSwgdmlkZW9fcGljLCB2aWRlb190aW1lLCBhdWRpb190aW1lLCBhdXRob3IsIHRpdGxlLCBzb3VyY2UsIG5ld3Nfc291cmNlLCBuZXdzX3R5cGUsIHN0YXRlLCBpc190b3AsIHRvcF9leHBpcmVkX3RpbWUsIHNvdXJjZV9wdWJsaXNoX3RpbWUsIHNvdXJjZV9jcmF3bF90aW1lLCBwdWJsaXNoX3RpbWUsIG9ubGluZV90aW1lLCBkZWxldGVfc3RhdGUsIGNvbW1lbnRfc2l6ZSwgY2hhcHRlciwgdmlkZW9fYWRkciwgYXVkaW9fYWRkciwgb25saW5lX3R5cGUsIHNvcnRfc2NvcmUsIGNoZWNrX3RpbWUsIGZpbGVfc2l6ZSwgdXJsLCBpbWdfY291bnQsIGlzX29yaWdpbmFsLCBuZXdzX2xldmVsIEZST00gbmV3c19jb250ZW50IFdIRVJFIHN0YXRlID0gNSBBTkQgZGVsZXRlX3N0YXRlID0gMCBBTkQgZGF0YV9pZCA9ICN7ZGF0YUlkfSAiKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW5jbHVkZSAnOnF1YXJ0eicKCmluY2x1ZGUgJzpuZXdzLWNvbW1lbnQnCmluY2x1ZGUgJzpuZXdzLWNvbnRlbnQnCmluY2x1ZGUgJzpuZXdzLXNlYXJjaCcKaW5jbHVkZSAnOm5ld3MtdXNlcicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOm5ld3MtcGF5bWVudCcKaW5jbHVkZSAnOm0tY3BkJwo=</text>
+        <text encoding="base64">aW5jbHVkZSAnOnF1YXJ0eicKCmluY2x1ZGUgJzpuZXdzLWNvbW1lbnQnCmluY2x1ZGUgJzpuZXdzLWNvbnRlbnQnCmluY2x1ZGUgJzpuZXdzLXNlYXJjaCcKaW5jbHVkZSAnOm5ld3MtdXNlcicK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGV2Cg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOm5ld3MtcGF5bWVudCcKaW5jbHVkZSAnOm0tY3BkJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQo=</text>
+        <text encoding="base64">ZGV2Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
