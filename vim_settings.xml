@@ -10,11 +10,17 @@
       <file name="$USER_HOME$/IdeaProjects/news/docs/Git-Commit-规范.md" timestamp="1530082808221">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserWakeupLogMapper.java" timestamp="1531737461260">
+        <mark key="[" line="45" column="7" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pro.properties" timestamp="1531446110300">
         <mark key="[" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/NewsCouponServiceImpl.java" timestamp="1531297509371">
         <mark key="[" line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/APIVersion.java" timestamp="1531203028207">
+        <mark key="[" line="25" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/content/HomeContentQuartz.java" timestamp="1531708175837">
         <mark key="[" line="132" column="28" />
@@ -22,8 +28,20 @@
       <file name="/a.dummy" timestamp="1531592698637">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/sql/ddl.sql" timestamp="1531305644701">
+        <mark key="[" line="892" column="103" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application-local.yml" timestamp="1531476572503">
         <mark key="[" line="174" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-test.properties" timestamp="1531482897635">
+        <mark key="[" line="19" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1153f381-cde6-45d1-bc1b-6b5c998309ce/console.sql" timestamp="1531834070427">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-pre.properties" timestamp="1531482958899">
         <mark key="[" line="135" column="46" />
@@ -34,106 +52,27 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/anticenter/ApiAntiCenter.java" timestamp="1529911582657">
         <mark key="[" line="51" column="53" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-pro.properties" timestamp="1531445979709">
-        <mark key="[" line="91" column="27" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/UserClient.java" timestamp="1531815733119" />
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-test.properties" timestamp="1531445991840">
-        <mark key="[" line="94" column="29" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-qa.properties" timestamp="1531445985592">
-        <mark key="[" line="89" column="77" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pre.properties" timestamp="1531329890217">
-        <mark key="[" line="20" column="57" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/resources/application-local.properties" timestamp="1531532555291">
-        <mark key="[" line="49" column="32" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/RecommendContentServiceImpl.java" timestamp="1530186548355">
-        <mark key="[" line="140" column="115" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/application-local.properties" timestamp="1531576462162">
-        <mark key="[" line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/innerActiveController.java" timestamp="1531819380053">
-        <mark key="[" line="43" column="83" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/bootstrap-dev.yml" timestamp="1531317717745">
-        <mark key="[" line="7" column="97" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/README.md" timestamp="1531799422214">
-        <mark key="[" line="78" column="29" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pre.properties" timestamp="1531464493676">
-        <mark key="[" line="16" column="27" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-qa.properties" timestamp="1531446114376">
-        <mark key="[" line="13" column="27" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/QuartzApplication.java" timestamp="1531297758855">
-        <mark key="[" line="20" column="2" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-dev.properties" timestamp="1531446146490">
-        <mark key="[" line="58" column="29" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-dev.properties" timestamp="1531465063455">
-        <mark key="[" line="31" column="37" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserLogServiceImpl.java" timestamp="1531297492065">
-        <mark key="[" line="15" column="28" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/m-wemedia/m-wemedia/src/main/resources/logback-spring.xml" timestamp="1531593432919">
-        <mark key="[" line="20" column="28" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/activity/AcceptApprenticeController.java" timestamp="1531814895513" />
-      <file name="$USER_HOME$/IdeaProjects/config-repository/m-eps-pro.properties" timestamp="1531445933545">
-        <mark key="[" line="130" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
-        <mark key="[" line="133" column="19" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/media/MediaLoginController.java" timestamp="1530082320438">
-        <mark key="[" line="105" column="39" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/bean/ReflectTool.java" timestamp="1530066172285">
-        <mark key="[" line="32" column="72" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/resources/bootstrap-pro.properties" timestamp="1530627918073">
-        <mark key="[" line="18" column="36" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/NoviceTaskRecordMapper.java" timestamp="1531816694466" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserWakeupLogMapper.java" timestamp="1531737461260">
-        <mark key="[" line="45" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/APIVersion.java" timestamp="1531203028207">
-        <mark key="[" line="25" column="27" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1531815358867" />
-      <file name="$USER_HOME$/IdeaProjects/news/sql/ddl.sql" timestamp="1531305644701">
-        <mark key="[" line="892" column="103" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-test.properties" timestamp="1531482897635">
-        <mark key="[" line="19" column="27" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/client/ContentClient.java" timestamp="1531817736583" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1153f381-cde6-45d1-bc1b-6b5c998309ce/console.sql" timestamp="1531834070427">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/build.gradle" timestamp="1531911930527">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="17" column="89" />
         <mark key="^" line="17" column="89" />
         <mark key="." line="17" column="89" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-pro.properties" timestamp="1531445979709">
+        <mark key="[" line="91" column="27" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserWakeupLogServiceImpl.java" timestamp="1530540771616">
         <mark key="[" line="129" column="5" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1531989656913" />
       <file name="$USER_HOME$/IdeaProjects/m-wemedia/m-wemedia/src/main/resources/application-local.properties" timestamp="1531593230568">
         <mark key="[" line="9" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-test.properties" timestamp="1531445991840">
+        <mark key="[" line="94" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-qa.properties" timestamp="1531445985592">
+        <mark key="[" line="89" column="77" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/application-local.properties" timestamp="1531335593529">
         <mark key="[" line="86" column="29" />
@@ -141,11 +80,17 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/application-local.properties" timestamp="1531342359361">
         <mark key="[" line="83" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pre.properties" timestamp="1531329890217">
+        <mark key="[" line="20" column="57" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-test.properties" timestamp="1531446018103">
         <mark key="[" line="15" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-qa.properties" timestamp="1531465072291">
         <mark key="[" line="35" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/resources/application-local.properties" timestamp="1531532555291">
+        <mark key="[" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-test.properties" timestamp="1531465079899">
         <mark key="[" line="35" column="38" />
@@ -156,20 +101,38 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserAuditServiceImpl.java" timestamp="1531980249397">
         <mark key="[" line="67" column="18" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/RecommendContentServiceImpl.java" timestamp="1530186548355">
+        <mark key="[" line="140" column="115" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/activity/WelfareController.java" timestamp="1531816885534">
         <mark key="[" line="316" column="58" />
         <mark key="]" line="316" column="57" />
         <mark key="^" line="316" column="57" />
         <mark key="." line="316" column="57" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/application-local.properties" timestamp="1531576462162">
+        <mark key="[" line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-qa.properties" timestamp="1531483034297">
         <mark key="[" line="95" column="46" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/innerActiveController.java" timestamp="1531819380053">
+        <mark key="[" line="43" column="83" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-dev.properties" timestamp="1531483007703">
         <mark key="[" line="102" column="46" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/bootstrap-dev.yml" timestamp="1531317717745">
+        <mark key="[" line="7" column="97" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/README.md" timestamp="1531799422214">
+        <mark key="[" line="78" column="29" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1531749339799">
         <mark key="[" line="208" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pre.properties" timestamp="1531464493676">
+        <mark key="[" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-dev.properties" timestamp="1531446100483">
         <mark key="[" line="13" column="27" />
@@ -180,24 +143,43 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-dev.properties" timestamp="1531445961047">
         <mark key="[" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/InnerContentManagerController.java" timestamp="1531818145938" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-qa.properties" timestamp="1531446114376">
+        <mark key="[" line="13" column="27" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-pre.properties" timestamp="1531446003396">
         <mark key="[" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/base/BaseResponse.java" timestamp="1530622109379">
         <mark key="[" line="46" column="44" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/QuartzApplication.java" timestamp="1531297758855">
+        <mark key="[" line="20" column="2" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-qa.properties" timestamp="1531446011896">
         <mark key="[" line="62" column="77" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1531989656913" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1531989656913" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-dev.properties" timestamp="1531446146490">
+        <mark key="[" line="58" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/notice/push/JpushUtil.java" timestamp="1531799652714">
         <mark key="[" line="51" column="12" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-dev.properties" timestamp="1531465063455">
+        <mark key="[" line="31" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserLogServiceImpl.java" timestamp="1531297492065">
+        <mark key="[" line="15" column="28" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531966833002">
+      <file name="/Dummy.txt" timestamp="1531990232792">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/m-wemedia/m-wemedia/src/main/resources/logback-spring.xml" timestamp="1531593432919">
+        <mark key="[" line="20" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-common.properties" timestamp="1531446122755">
         <mark key="[" line="98" column="77" />
@@ -205,16 +187,30 @@
       <file name="$USER_HOME$/IdeaProjects/news/core/build.gradle" timestamp="1531911861963">
         <mark key="[" line="20" column="74" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/m-eps-pro.properties" timestamp="1531445933545">
+        <mark key="[" line="130" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/mapper/TransferMapper.java" timestamp="1531821596937">
         <mark key="[" line="29" column="186" />
         <mark key="]" line="29" column="186" />
         <mark key="." line="29" column="186" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1531793202636" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
+        <mark key="[" line="133" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/media/MediaLoginController.java" timestamp="1530082320438">
+        <mark key="[" line="105" column="39" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/mapper/ContentMapper.java" timestamp="1531817967951">
         <mark key="[" line="791" column="22" />
         <mark key="]" line="791" column="22" />
         <mark key="." line="791" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/bean/ReflectTool.java" timestamp="1530066172285">
+        <mark key="[" line="32" column="72" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/resources/bootstrap-pro.properties" timestamp="1530627918073">
+        <mark key="[" line="18" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pre.properties" timestamp="1531446106379">
         <mark key="[" line="13" column="27" />
@@ -228,7 +224,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pro.properties" timestamp="1531309476592">
         <mark key="[" line="44" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1531911886458">
+      <file name="/fragment.java" timestamp="1531990232761">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
