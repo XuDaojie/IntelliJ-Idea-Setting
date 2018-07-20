@@ -30,7 +30,11 @@
         <mark key="]" line="28" column="53" />
         <mark key="." line="28" column="53" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/CategoryController.java" timestamp="1532091065725" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/CategoryController.java" timestamp="1532092576149">
+        <mark key="[" line="49" column="64" />
+        <mark key="]" line="49" column="64" />
+        <mark key="." line="49" column="64" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/UserPaymentClient.java" timestamp="1532057117468" />
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/ContentManageServiceImpl.java" timestamp="1532003893634" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-pre.properties" timestamp="1531482958899">
@@ -120,6 +124,7 @@
         <mark key="[" line="18" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerUserInviteController.java" timestamp="1531999543856" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/interceptor/ParamInterceptor.java" timestamp="1532092475182" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserWakeupLogMapper.java" timestamp="1532004627815">
         <mark key="[" line="50" column="7" />
       </file>
@@ -131,6 +136,10 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-test.properties" timestamp="1531482897635">
         <mark key="[" line="19" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/CategoryServiceImpl.java" timestamp="1532092163207" />
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/base/BaseController.java" timestamp="1532092562340">
+        <mark key="[" line="19" column="86" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserWakeupLogServiceImpl.java" timestamp="1530540771616">
         <mark key="[" line="129" column="5" />
@@ -200,7 +209,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532091199110">
+      <file name="/Dummy.txt" timestamp="1532091883979">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -214,9 +223,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/core/build.gradle" timestamp="1531911861963">
         <mark key="[" line="20" column="74" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/mapper/ContentMapper.java" timestamp="1532004552445">
-        <mark key="[" line="71" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pre.properties" timestamp="1531446106379">
         <mark key="[" line="13" column="27" />
       </file>
@@ -229,7 +235,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pro.properties" timestamp="1531309476592">
         <mark key="[" line="44" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1532091199092">
+      <file name="/fragment.java" timestamp="1532092164383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/MangeQuartz.java" timestamp="1532089730130" />
@@ -338,7 +344,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>local</text>
+        <text>BaseController</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -371,7 +377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>BaseController</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
