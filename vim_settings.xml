@@ -37,6 +37,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-test.properties" timestamp="1531482897635">
         <mark key="[" line="19" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pro.properties" timestamp="1532086729309">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="35" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/UserPaymentClient.java" timestamp="1532057117468" />
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/ContentManageServiceImpl.java" timestamp="1532003893634" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-pre.properties" timestamp="1531482958899">
@@ -54,7 +59,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserWakeupLogServiceImpl.java" timestamp="1530540771616">
         <mark key="[" line="129" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1531989656913" />
       <file name="$USER_HOME$/IdeaProjects/m-wemedia/m-wemedia/src/main/resources/application-local.properties" timestamp="1531593230568">
         <mark key="[" line="9" column="35" />
       </file>
@@ -158,7 +162,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/ContentServiceImpl.java" timestamp="1532073734692">
         <mark key="[" line="1091" column="67" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1531989656913" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1531989656913" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-dev.properties" timestamp="1531446146490">
         <mark key="[" line="58" column="29" />
@@ -175,10 +178,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532073945211">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1532086837286">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/m-wemedia/m-wemedia/src/main/resources/logback-spring.xml" timestamp="1531593432919">
         <mark key="[" line="20" column="28" />
@@ -328,7 +331,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>comment</text>
+        <text>调整feign超时时间</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -361,7 +364,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>comment</text>
+        <text>调整feign超时时间</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
