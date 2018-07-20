@@ -37,10 +37,10 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-test.properties" timestamp="1531482897635">
         <mark key="[" line="19" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pro.properties" timestamp="1532086729309">
-        <mark key="[" line="28" column="35" />
-        <mark key="]" line="28" column="35" />
-        <mark key="." line="28" column="35" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pro.properties" timestamp="1532087939382">
+        <mark key="[" line="28" column="53" />
+        <mark key="]" line="28" column="53" />
+        <mark key="." line="28" column="53" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/UserPaymentClient.java" timestamp="1532057117468" />
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/ContentManageServiceImpl.java" timestamp="1532003893634" />
@@ -178,8 +178,8 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532086837286">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1532087946038">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -331,7 +331,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>调整feign超时时间</text>
+        <text>4006</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -364,7 +364,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>调整feign超时时间</text>
+        <text>4006</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
