@@ -80,6 +80,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-qa.properties" timestamp="1531446114376">
         <mark key="[" line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-local.yml" timestamp="1532160888748">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1532075571609" />
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/QuartzApplication.java" timestamp="1531297758855">
         <mark key="[" line="20" column="2" />
@@ -133,6 +138,12 @@
         <mark key="[" line="18" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerUserInviteController.java" timestamp="1531999543856" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/MockController.java" timestamp="1532160381122">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="24" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/interceptor/ParamInterceptor.java" timestamp="1532092475182" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserWakeupLogMapper.java" timestamp="1532004627815">
         <mark key="[" line="50" column="7" />
@@ -178,7 +189,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/application-local.properties" timestamp="1531342359361">
         <mark key="[" line="83" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1532100215038" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-test.properties" timestamp="1531446018103">
         <mark key="[" line="15" column="27" />
       </file>
@@ -234,7 +244,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532147098558">
+      <file name="/Dummy.txt" timestamp="1532160983814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -268,7 +278,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pro.properties" timestamp="1531309476592">
         <mark key="[" line="44" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1532104201412">
+      <file name="/fragment.java" timestamp="1532160983796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/MangeQuartz.java" timestamp="1532089730130" />
@@ -377,7 +387,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
+        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vY29uZmlnLnRlc3QubWFrZXppeHVuLmNvbTo4ODg4LwogICAgICBwcm9maWxlOiB0ZXN0ICAgICAgICAgICAgICAgICAgICAgIyDmjIflrppwcm9maWxl77yM5a+55bqUbWljcm9zZXJ2aWNlLWNvbmZpZy1zZXJ2ZXLmiYDojrflj5bnmoTphY3nva7mlofku7bkuK3nmoR7cHJvZmlsZX0KICAgICAgbGFiZWw6IG1hc3RlciAgICAgICAgICAgICAgICAgICAgICMg5oyH5a6aZ2l05LuT5bqT55qE5YiG5pSv77yM5a+55bqUbWljcm9zZXJ2aWNlLWNvbmZpZy1zZXJ2ZXLmiYDojrflj5bnmoTphY3nva7mlofku7bnmoR7bGFiZWx9Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -410,7 +420,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>success</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -419,25 +429,25 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
+        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vY29uZmlnLnRlc3QubWFrZXppeHVuLmNvbTo4ODg4LwogICAgICBwcm9maWxlOiB0ZXN0ICAgICAgICAgICAgICAgICAgICAgIyDmjIflrppwcm9maWxl77yM5a+55bqUbWljcm9zZXJ2aWNlLWNvbmZpZy1zZXJ2ZXLmiYDojrflj5bnmoTphY3nva7mlofku7bkuK3nmoR7cHJvZmlsZX0KICAgICAgbGFiZWw6IG1hc3RlciAgICAgICAgICAgICAgICAgICAgICMg5oyH5a6aZ2l05LuT5bqT55qE5YiG5pSv77yM5a+55bqUbWljcm9zZXJ2aWNlLWNvbmZpZy1zZXJ2ZXLmiYDojrflj5bnmoTphY3nva7mlofku7bnmoR7bGFiZWx9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9jYWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">bG9jYWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiAgRk9SQ0UgSU5ERVgoUFJJKSAgIiArCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -446,13 +456,13 @@
         <text encoding="base64">ICAgICAgICAgICAgIiAgRk9SQ0UgSU5ERVgoUFJJKSAgIiArCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiAgRk9SQ0UgSU5ERVgoUFJJKSAgIiArCg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+Pj4+IFRlbXBvcmFyeSBtZXJnZSBicmFuY2ggMgo=</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
