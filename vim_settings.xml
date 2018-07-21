@@ -93,6 +93,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-dev.properties" timestamp="1532101987013">
         <mark key="[" line="19" column="214" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/LoginServiceImpI.java" timestamp="1532151624517">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-dev.properties" timestamp="1531465063455">
         <mark key="[" line="31" column="37" />
       </file>
@@ -243,6 +248,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/core/build.gradle" timestamp="1531911861963">
         <mark key="[" line="20" column="74" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/mapper/TransferMapper.java" timestamp="1531821596937">
+        <mark key="[" line="29" column="186" />
+        <mark key="]" line="29" column="186" />
+        <mark key="." line="29" column="186" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-test.properties" timestamp="1532146866421" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1532142979520" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pre.properties" timestamp="1531446106379">
@@ -365,8 +375,8 @@
       <jump line="272" column="739" filename="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stringRedisTemplate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -399,7 +409,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stringRedisTemplate</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -408,22 +418,22 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9jYWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">bG9jYWwK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiAgRk9SQ0UgSU5ERVgoUFJJKSAgIiArCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIiAgRk9SQ0UgSU5ERVgoUFJJKSAgIiArCg==</text>
@@ -432,16 +442,16 @@
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiAgRk9SQ0UgSU5ERVgoUFJJKSAgIiArCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+Pj4+IFRlbXBvcmFyeSBtZXJnZSBicmFuY2ggMgo=</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+Pj4+IFRlbXBvcmFyeSBtZXJnZSBicmFuY2ggMgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
