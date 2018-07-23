@@ -45,8 +45,12 @@
         <mark key="]" line="29" column="51" />
         <mark key="." line="29" column="51" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/service/impl/WalletServiceImpl.java" timestamp="1532341665843" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-qa.properties" timestamp="1531445985592">
         <mark key="[" line="89" column="77" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/NewsOrderServiceImpl.java" timestamp="1532341962339">
+        <mark key="[" line="224" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pre.properties" timestamp="1531329890217">
         <mark key="[" line="20" column="57" />
@@ -99,6 +103,7 @@
         <mark key="[" line="130" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/NewsOrderController.java" timestamp="1532336040650" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/client/NewsPaymentClient.java" timestamp="1532341648987" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
         <mark key="[" line="133" column="19" />
       </file>
@@ -111,13 +116,14 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/resources/bootstrap-pro.properties" timestamp="1530627918073">
         <mark key="[" line="18" column="36" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/controller/InnerWalletController.java" timestamp="1532340756437" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserWakeupLogMapper.java" timestamp="1532004627815">
         <mark key="[" line="50" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/APIVersion.java" timestamp="1531203028207">
         <mark key="[" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/sql/ddl.sql" timestamp="1531305644701">
+      <file name="$USER_HOME$/IdeaProjects/news/sql/ddl.sql" timestamp="1532341379222">
         <mark key="[" line="892" column="103" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-test.properties" timestamp="1532313777807">
@@ -191,6 +197,7 @@
         <mark key="]" line="29" column="51" />
         <mark key="." line="29" column="51" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/payment/FreezeBalanceDTO.java" timestamp="1532340817982" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-pre.properties" timestamp="1531446003396">
         <mark key="[" line="13" column="27" />
       </file>
@@ -215,10 +222,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532336656737">
+      <file name="/Dummy.txt" timestamp="1532339671711">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1532089480789">
         <mark key="[" line="38" column="9" />
@@ -246,7 +253,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pro.properties" timestamp="1531309476592">
         <mark key="[" line="44" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1532336656712">
+      <file name="/fragment.java" timestamp="1532340513900">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -354,7 +361,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>te</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -387,7 +394,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>te</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
