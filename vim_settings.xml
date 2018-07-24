@@ -273,7 +273,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532428460010">
+      <file name="/Dummy.txt" timestamp="1532431330739">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -281,6 +281,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1532089480789">
         <mark key="[" line="38" column="9" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1532431238627" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-common.properties" timestamp="1531446122755">
         <mark key="[" line="98" column="77" />
       </file>
@@ -411,8 +412,8 @@
       <jump line="272" column="739" filename="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogbmV3c191c2VyX3dha2VfbG9nIC0+IG5ld3NfdXNlcl93YWtlX2xvZ19jb3B5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -445,7 +446,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>te</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
