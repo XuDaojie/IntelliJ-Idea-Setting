@@ -18,7 +18,7 @@
         <mark key="[" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/client/ManageClient.java" timestamp="1532329996867" />
-      <file name="/a.dummy" timestamp="1531592698637">
+      <file name="/a.dummy" timestamp="1532428394380">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application-local.yml" timestamp="1532175580359">
@@ -97,7 +97,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-qa.properties" timestamp="1531446114376">
         <mark key="[" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/client/UserClient.java" timestamp="1532360194207" />
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/client/UserClient.java" timestamp="1532428264958" />
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/QuartzApplication.java" timestamp="1531297758855">
         <mark key="[" line="20" column="2" />
       </file>
@@ -143,9 +143,12 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/resources/bootstrap-pro.properties" timestamp="1530627918073">
         <mark key="[" line="18" column="36" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerUserInviteController.java" timestamp="1532428335324" />
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/controller/InnerWalletController.java" timestamp="1532340756437" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserWakeupLogMapper.java" timestamp="1532349835044">
-        <mark key="[" line="12" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserWakeupLogMapper.java" timestamp="1532428431774">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/APIVersion.java" timestamp="1531203028207">
         <mark key="[" line="25" column="27" />
@@ -197,6 +200,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/application-local.properties" timestamp="1531342359361">
         <mark key="[" line="83" column="29" />
       </file>
+      <file name="/UserWakeupLogMapper.java" timestamp="1532428503940" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-test.properties" timestamp="1532313812171">
         <mark key="[" line="23" column="73" />
         <mark key="]" line="23" column="51" />
@@ -269,7 +273,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532426845078">
+      <file name="/Dummy.txt" timestamp="1532428460010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -407,8 +411,8 @@
       <jump line="272" column="739" filename="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>te</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogbmV3c191c2VyX3dha2VfbG9nIC0+IG5ld3NfdXNlcl93YWtlX2xvZ19jb3B5Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -450,22 +454,22 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vY29uZmlnLnRlc3QubWFrZXppeHVuLmNvbTo4ODg4LwogICAgICBwcm9maWxlOiB0ZXN0ICAgICAgICAgICAgICAgICAgICAgIyDmjIflrppwcm9maWxl77yM5a+55bqUbWljcm9zZXJ2aWNlLWNvbmZpZy1zZXJ2ZXLmiYDojrflj5bnmoTphY3nva7mlofku7bkuK3nmoR7cHJvZmlsZX0KICAgICAgbGFiZWw6IG1hc3RlciAgICAgICAgICAgICAgICAgICAgICMg5oyH5a6aZ2l05LuT5bqT55qE5YiG5pSv77yM5a+55bqUbWljcm9zZXJ2aWNlLWNvbmZpZy1zZXJ2ZXLmiYDojrflj5bnmoTphY3nva7mlofku7bnmoR7bGFiZWx9Cg==</text>
+        <text encoding="base64">ICogbmV3c191c2VyX3dha2VfbG9nIC0+IG5ld3NfdXNlcl93YWtlX2xvZ19jb3B5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
+        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vY29uZmlnLnRlc3QubWFrZXppeHVuLmNvbTo4ODg4LwogICAgICBwcm9maWxlOiB0ZXN0ICAgICAgICAgICAgICAgICAgICAgIyDmjIflrppwcm9maWxl77yM5a+55bqUbWljcm9zZXJ2aWNlLWNvbmZpZy1zZXJ2ZXLmiYDojrflj5bnmoTphY3nva7mlofku7bkuK3nmoR7cHJvZmlsZX0KICAgICAgbGFiZWw6IG1hc3RlciAgICAgICAgICAgICAgICAgICAgICMg5oyH5a6aZ2l05LuT5bqT55qE5YiG5pSv77yM5a+55bqUbWljcm9zZXJ2aWNlLWNvbmZpZy1zZXJ2ZXLmiYDojrflj5bnmoTphY3nva7mlofku7bnmoR7bGFiZWx9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9jYWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">bG9jYWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -474,7 +478,7 @@
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiAgRk9SQ0UgSU5ERVgoUFJJKSAgIiArCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIiAgRk9SQ0UgSU5ERVgoUFJJKSAgIiArCg==</text>
@@ -483,7 +487,7 @@
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiAgRk9SQ0UgSU5ERVgoUFJJKSAgIiArCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
