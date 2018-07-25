@@ -141,10 +141,8 @@
         <mark key="[" line="140" column="115" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/application-local.properties" timestamp="1532451285176">
-        <mark key="x" line="2" column="33" />
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="19" />
-        <mark key="^" line="2" column="32" />
         <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-qa.properties" timestamp="1532437500596">
@@ -248,7 +246,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532451063410">
+      <file name="/Dummy.txt" timestamp="1532452286124">
         <mark key="a" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -285,7 +283,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-test.properties" timestamp="1532437172989">
         <mark key="[" line="62" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/NewsOrderController.java" timestamp="1532451086523" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/NewsOrderController.java" timestamp="1532452279641" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
         <mark key="[" line="133" column="19" />
       </file>
@@ -433,7 +431,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debug</text>
+        <text>release</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -466,7 +464,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>release</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
