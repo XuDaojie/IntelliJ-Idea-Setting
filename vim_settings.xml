@@ -34,6 +34,12 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/bootstrap-dev.yml" timestamp="1532436855173">
         <mark key="[" line="7" column="97" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1153f381-cde6-45d1-bc1b-6b5c998309ce/console.sql" timestamp="1533016686991">
+        <mark key="[" line="45" column="37" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="34" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/base/BaseController.java" timestamp="1532092562340">
         <mark key="[" line="19" column="86" />
       </file>
@@ -343,8 +349,8 @@
       <jump line="272" column="739" filename="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>release</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mCgOivt+eggee7keWumicsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIGludml0ZUNvZGUK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -386,40 +392,112 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvb2w6CiAgICAgIG1heC1hY3RpdmU6IDgKICAgICAgbWF4LWlkbGU6IDgKICAgICAgbWF4LXdhaXQ6IC0xCiAgICAgIG1pbi1pZGxlOiA1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mCgOivt+eggee7keWumicsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIGludml0ZUNvZGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrIExJS0UgJ+WUpOmGkuW+kuWEv+S7u+WKoeWujOaIkCUnLCBhbW91bnQsIDAgKQogICAgICAgICAgICAgICAgKSBBUyByb3VzZUdvbGQsCg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkPWZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mYheivu+WlluWKsScsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIHJlYWRHb2xkLAogICAgICAgICAgICAgICAgU1VNKAogICAgICAgICAgICAgICAgICAgIElGCiAgICAgICAgICAgICAgICAgICAgKCByZW1hcmsgPSAn6ZiF6K+75byA5a6d566xJywgYW1vdW50LCAwICkKICAgICAgICAgICAgICAgICkgQVMgYm94R29sZCwKICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+etvuWIsCcsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIHNpZ25JbiwKICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrIExJS0UgJ+ivhOiuuuWlluWKsSUnLCBhbW91bnQsIDAgKQogICAgICAgICAgICAgICAgKSBBUyBjb21tZW50R29sZCwK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogbmV3c191c2VyX3dha2VfbG9nIC0+IG5ld3NfdXNlcl93YWtlX2xvZ19jb3B5Cg==</text>
+      <register name="4" type="4">
+        <text>LEFT JOIN (
+              SELECT
+                COUNT( id ) AS count,
+                master_id
+              FROM
+                news_user_invite
+              GROUP BY
+                master_id
+            ) nui ON nu.id = nui.master_id
+  LEFT JOIN (
+              SELECT
+                user_id,
+                MAX( CASE WHEN type = 9 THEN `value` END ) AS apprenticeCount,
+                MAX( CASE WHEN type = 5 THEN `value` END ) AS grandsonGold,
+                MAX( CASE WHEN type = 2 THEN `value` END ) AS apprenticeGold
+              FROM
+                news_user_earnings
+              GROUP BY
+                user_id
+            ) nue ON nu.id = nue.user_id
+  LEFT JOIN (
+              SELECT
+                user_id,
+                SUM(
+                    IF
+                    ( award_type = 5, amount, 0 )
+                ) AS redpack,
+                SUM(
+                    IF
+                    (
+                        award_type IN ( 1, 4, 5 ),
+                        amount,
+                        0
+                    )
+                ) AS apprenticeMoney
+              FROM
+                news_invite_award_log
+              GROUP BY
+                user_id
+            ) nial ON nu.id = nial.user_id
+  LEFT JOIN (
+              SELECT
+                t1.user_id,
+                t1.amount
+              FROM
+                news_payment.news_payment_transfer t1
+                LEFT JOIN (
+                            SELECT
+                              t.user_id,
+                              MIN( t.id ) firstId
+                            FROM
+                              news_payment.news_payment_transfer t
+                            WHERE
+                              t.remark = '新人红包'
+                            GROUP BY
+                              t.user_id
+                          ) t2 ON t2.user_id = t1.user_id
+              WHERE
+                t1.id = t2.firstId
+            ) xrhb ON nu.id = xrhb.user_id</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXJpOiBodHRwOi8vY29uZmlnLnRlc3QubWFrZXppeHVuLmNvbTo4ODg4LwogICAgICBwcm9maWxlOiB0ZXN0ICAgICAgICAgICAgICAgICAgICAgIyDmjIflrppwcm9maWxl77yM5a+55bqUbWljcm9zZXJ2aWNlLWNvbmZpZy1zZXJ2ZXLmiYDojrflj5bnmoTphY3nva7mlofku7bkuK3nmoR7cHJvZmlsZX0KICAgICAgbGFiZWw6IG1hc3RlciAgICAgICAgICAgICAgICAgICAgICMg5oyH5a6aZ2l05LuT5bqT55qE5YiG5pSv77yM5a+55bqUbWljcm9zZXJ2aWNlLWNvbmZpZy1zZXJ2ZXLmiYDojrflj5bnmoTphY3nva7mlofku7bnmoR7bGFiZWx9Cg==</text>
+      <register name="5" type="4">
+        <text>IFNULL( nui.count, 0 ) AS 徒孙数,
+  IFNULL( nue.apprenticeCount, 0 ) AS 徒弟数,
+  IFNULL( nue.apprenticeGold, 0 ) AS 徒弟贡献金币,
+  IFNULL( nue.grandsonGold, 0 ) AS 徒孙贡献金币,
+  IFNULL( nial.redpack, 0 ) AS 收徒红包,
+  IFNULL( nial.apprenticeMoney, 0 ) AS 徒弟贡献零钱,
+  IFNULL( xrhb.amount, 0 ) AS 新人红包,
+  IFNULL( ngr.boxGold, 0 ) AS 阅读开宝箱奖励,
+  IFNULL( ngr.readGold, 0 ) AS 个人阅读奖励,
+  IFNULL( ngr.signIn, 0 ) AS 签到奖励,
+  IFNULL( ngr.commentGold, 0 ) AS 评论奖励,
+
+  IFNULL( ngr.rouseGold, 0 ) AS 唤醒徒儿奖励,
+  IFNULL( npt.inviteCode, 0 ) AS 填邀请码奖励,</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
+        <text encoding="base64">ICAgIHBvb2w6CiAgICAgIG1heC1hY3RpdmU6IDgKICAgICAgbWF4LWlkbGU6IDgKICAgICAgbWF4LXdhaXQ6IC0xCiAgICAgIG1pbi1pZGxlOiA1Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9jYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkPWZhbHNlCg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogbmV3c191c2VyX3dha2VfbG9nIC0+IG5ld3NfdXNlcl93YWtlX2xvZ19jb3B5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
