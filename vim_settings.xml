@@ -155,10 +155,9 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-qa.properties" timestamp="1532437526426">
         <mark key="[" line="50" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/ContentServiceImpl.java" timestamp="1532073734692">
-        <mark key="[" line="1091" column="67" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/ContentServiceImpl.java" timestamp="1533223364419">
+        <mark key="[" line="1402" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1532438563936" />
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1532438563937" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-dev.properties" timestamp="1532101987013">
         <mark key="[" line="19" column="214" />
@@ -176,7 +175,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533179825097">
+      <file name="/Dummy.txt" timestamp="1533223660097">
         <mark key="a" line="0" column="6" />
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
@@ -246,7 +245,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pro.properties" timestamp="1531309476592">
         <mark key="[" line="44" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1532451063396">
+      <file name="/fragment.java" timestamp="1533223655966">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -353,8 +352,8 @@
       <jump line="0" column="6" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mCgOivt+eggee7keWumicsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIGludml0ZUNvZGUK</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -387,7 +386,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>release</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
