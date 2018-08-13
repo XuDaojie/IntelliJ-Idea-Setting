@@ -71,6 +71,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/application-local.properties" timestamp="1531342359361">
         <mark key="[" line="83" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/m-eps/settings.gradle" timestamp="1534127417162">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pre.properties" timestamp="1531329890217">
         <mark key="[" line="20" column="57" />
       </file>
@@ -92,7 +97,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pro.properties" timestamp="1532437562487">
         <mark key="[" line="73" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/resources/logback-spring.xml" timestamp="1534125691771">
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/resources/logback-spring.xml" timestamp="1534127207417">
         <mark key="[" line="242" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-qa.properties" timestamp="1532437659966">
@@ -366,7 +371,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>redis连接池大小修改为200</text>
+        <text>news</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -399,7 +404,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>redis连接池大小修改为200</text>
+        <text>news</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
