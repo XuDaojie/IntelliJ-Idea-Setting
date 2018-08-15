@@ -174,12 +174,12 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534250148561">
+      <file name="/Dummy.txt" timestamp="1534259179721">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1532089480789">
         <mark key="[" line="38" column="9" />
@@ -190,7 +190,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-dev.properties" timestamp="1532437474121">
         <mark key="[" line="61" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1534259128745">
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1534259223493">
         <mark key="[" line="247" column="49" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-common.properties" timestamp="1531446122755">
@@ -351,8 +351,8 @@
       <jump line="0" column="6" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>news</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">5L6d6LWWCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -385,7 +385,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>news</text>
+        <text>注释配置中心数据库</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -394,18 +394,21 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mCgOivt+eggee7keWumicsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIGludml0ZUNvZGUK</text>
+        <text encoding="base64">5L6d6LWWCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrIExJS0UgJ+WUpOmGkuW+kuWEv+S7u+WKoeWujOaIkCUnLCBhbW91bnQsIDAgKQogICAgICAgICAgICAgICAgKSBBUyByb3VzZUdvbGQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mCgOivt+eggee7keWumicsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIGludml0ZUNvZGUK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrIExJS0UgJ+WUpOmGkuW+kuWEv+S7u+WKoeWujOaIkCUnLCBhbW91bnQsIDAgKQogICAgICAgICAgICAgICAgKSBBUyByb3VzZUdvbGQsCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mYheivu+WlluWKsScsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIHJlYWRHb2xkLAogICAgICAgICAgICAgICAgU1VNKAogICAgICAgICAgICAgICAgICAgIElGCiAgICAgICAgICAgICAgICAgICAgKCByZW1hcmsgPSAn6ZiF6K+75byA5a6d566xJywgYW1vdW50LCAwICkKICAgICAgICAgICAgICAgICkgQVMgYm94R29sZCwKICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+etvuWIsCcsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIHNpZ25JbiwKICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrIExJS0UgJ+ivhOiuuuWlluWKsSUnLCBhbW91bnQsIDAgKQogICAgICAgICAgICAgICAgKSBBUyBjb21tZW50R29sZCwK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>LEFT JOIN (
               SELECT
                 COUNT( id ) AS count,
@@ -467,7 +470,7 @@
                 t1.id = t2.firstId
             ) xrhb ON nu.id = xrhb.user_id</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>IFNULL( nui.count, 0 ) AS 徒孙数,
   IFNULL( nue.apprenticeCount, 0 ) AS 徒弟数,
   IFNULL( nue.apprenticeGold, 0 ) AS 徒弟贡献金币,
@@ -483,23 +486,20 @@
   IFNULL( ngr.rouseGold, 0 ) AS 唤醒徒儿奖励,
   IFNULL( npt.inviteCode, 0 ) AS 填邀请码奖励,</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvb2w6CiAgICAgIG1heC1hY3RpdmU6IDgKICAgICAgbWF4LWlkbGU6IDgKICAgICAgbWF4LXdhaXQ6IC0xCiAgICAgIG1pbi1pZGxlOiA1Cg==</text>
-      </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvb2w6CiAgICAgIG1heC1hY3RpdmU6IDgKICAgICAgbWF4LWlkbGU6IDgKICAgICAgbWF4LXdhaXQ6IC0xCiAgICAgIG1pbi1pZGxlOiA1Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkPWZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogbmV3c191c2VyX3dha2VfbG9nIC0+IG5ld3NfdXNlcl93YWtlX2xvZ19jb3B5Cg==</text>
+        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkPWZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
