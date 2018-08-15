@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" protocol="file" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" protocol="file" />
@@ -75,6 +75,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/m-eps-pre.properties" timestamp="1533911159607">
         <mark key="[" line="12" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1153f381-cde6-45d1-bc1b-6b5c998309ce/console.sql" timestamp="1534315046541">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-qa.properties" timestamp="1532437208611">
         <mark key="[" line="60" column="31" />
@@ -352,7 +357,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">5L6d6LWWCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoIHJlbWFyayBMSUtFICflpKfovaznm5jmtojogJclJywgYW1vdW50LCAwIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -385,7 +390,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>注释配置中心数据库</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -394,21 +399,24 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">5L6d6LWWCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoIHJlbWFyayBMSUtFICflpKfovaznm5jmtojogJclJywgYW1vdW50LCAwIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mCgOivt+eggee7keWumicsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIGludml0ZUNvZGUK</text>
+        <text encoding="base64">5L6d6LWWCg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrIExJS0UgJ+WUpOmGkuW+kuWEv+S7u+WKoeWujOaIkCUnLCBhbW91bnQsIDAgKQogICAgICAgICAgICAgICAgKSBBUyByb3VzZUdvbGQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mCgOivt+eggee7keWumicsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIGludml0ZUNvZGUK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrIExJS0UgJ+WUpOmGkuW+kuWEv+S7u+WKoeWujOaIkCUnLCBhbW91bnQsIDAgKQogICAgICAgICAgICAgICAgKSBBUyByb3VzZUdvbGQsCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mYheivu+WlluWKsScsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIHJlYWRHb2xkLAogICAgICAgICAgICAgICAgU1VNKAogICAgICAgICAgICAgICAgICAgIElGCiAgICAgICAgICAgICAgICAgICAgKCByZW1hcmsgPSAn6ZiF6K+75byA5a6d566xJywgYW1vdW50LCAwICkKICAgICAgICAgICAgICAgICkgQVMgYm94R29sZCwKICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+etvuWIsCcsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIHNpZ25JbiwKICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrIExJS0UgJ+ivhOiuuuWlluWKsSUnLCBhbW91bnQsIDAgKQogICAgICAgICAgICAgICAgKSBBUyBjb21tZW50R29sZCwK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>LEFT JOIN (
               SELECT
                 COUNT( id ) AS count,
@@ -470,7 +478,10 @@
                 t1.id = t2.firstId
             ) xrhb ON nu.id = xrhb.user_id</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>IFNULL( nui.count, 0 ) AS 徒孙数,
   IFNULL( nue.apprenticeCount, 0 ) AS 徒弟数,
   IFNULL( nue.apprenticeGold, 0 ) AS 徒弟贡献金币,
@@ -486,20 +497,14 @@
   IFNULL( ngr.rouseGold, 0 ) AS 唤醒徒儿奖励,
   IFNULL( npt.inviteCode, 0 ) AS 填邀请码奖励,</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBvb2w6CiAgICAgIG1heC1hY3RpdmU6IDgKICAgICAgbWF4LWlkbGU6IDgKICAgICAgbWF4LXdhaXQ6IC0xCiAgICAgIG1pbi1pZGxlOiA1Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvb2w6CiAgICAgIG1heC1hY3RpdmU6IDgKICAgICAgbWF4LWlkbGU6IDgKICAgICAgbWF4LXdhaXQ6IC0xCiAgICAgIG1pbi1pZGxlOiA1Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkPWZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
