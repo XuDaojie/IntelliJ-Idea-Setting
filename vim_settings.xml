@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" protocol="file" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" protocol="file" />
@@ -70,6 +70,9 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1535179783933">
+        <mark key="[" line="8" column="36" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pre.properties" timestamp="1531329890217">
         <mark key="[" line="20" column="57" />
       </file>
@@ -80,6 +83,9 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/build.gradle" timestamp="1535178905521">
+        <mark key="[" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-qa.properties" timestamp="1532437208611">
         <mark key="[" line="60" column="31" />
@@ -123,6 +129,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/service/impl/StaticsServiceImpl.java" timestamp="1532444880598">
         <mark key="[" line="55" column="57" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.4.4.RELEASE/31dcf24117701eb988e96a732ec289fdaa1ba1a7/spring-cloud-netflix-core-1.4.4.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/RibbonRoutingFilter.java" timestamp="1535180082138" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/zipkin-server-dev.yml" timestamp="1532176233366">
         <mark key="[" line="26" column="53" />
       </file>
@@ -179,7 +186,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534259179721">
+      <file name="/Dummy.txt" timestamp="1535179379924">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
@@ -195,8 +202,10 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-dev.properties" timestamp="1532437474121">
         <mark key="[" line="61" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1534259223493">
-        <mark key="[" line="247" column="49" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1535179699783">
+        <mark key="[" line="288" column="0" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-common.properties" timestamp="1531446122755">
         <mark key="[" line="98" column="77" />
@@ -249,7 +258,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-pro.properties" timestamp="1531309476592">
         <mark key="[" line="44" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1534237675986">
+      <file name="/fragment.java" timestamp="1535180321409">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -357,7 +366,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoIHJlbWFyayBMSUtFICflpKfovaznm5jmtojogJclJywgYW1vdW50LCAwIAo=</text>
+        <text encoding="base64">ICAgICAgICBSaWJib25GaWx0ZXJDb250ZXh0SG9sZGVyLmdldEN1cnJlbnRDb250ZXh0KCkKICAgICAgICAgICAgLmFkZCgiIiwgIjEiKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -399,24 +408,30 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoIHJlbWFyayBMSUtFICflpKfovaznm5jmtojogJclJywgYW1vdW50LCAwIAo=</text>
+        <text encoding="base64">ICAgICAgICBSaWJib25GaWx0ZXJDb250ZXh0SG9sZGVyLmdldEN1cnJlbnRDb250ZXh0KCkKICAgICAgICAgICAgLmFkZCgiIiwgIjEiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">5L6d6LWWCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoIHJlbWFyayBMSUtFICflpKfovaznm5jmtojogJclJywgYW1vdW50LCAwIAo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mCgOivt+eggee7keWumicsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIGludml0ZUNvZGUK</text>
+        <text encoding="base64">5L6d6LWWCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrIExJS0UgJ+WUpOmGkuW+kuWEv+S7u+WKoeWujOaIkCUnLCBhbW91bnQsIDAgKQogICAgICAgICAgICAgICAgKSBBUyByb3VzZUdvbGQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mCgOivt+eggee7keWumicsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIGludml0ZUNvZGUK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrIExJS0UgJ+WUpOmGkuW+kuWEv+S7u+WKoeWujOaIkCUnLCBhbW91bnQsIDAgKQogICAgICAgICAgICAgICAgKSBBUyByb3VzZUdvbGQsCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+mYheivu+WlluWKsScsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIHJlYWRHb2xkLAogICAgICAgICAgICAgICAgU1VNKAogICAgICAgICAgICAgICAgICAgIElGCiAgICAgICAgICAgICAgICAgICAgKCByZW1hcmsgPSAn6ZiF6K+75byA5a6d566xJywgYW1vdW50LCAwICkKICAgICAgICAgICAgICAgICkgQVMgYm94R29sZCwKICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrID0gJ+etvuWIsCcsIGFtb3VudCwgMCApCiAgICAgICAgICAgICAgICApIEFTIHNpZ25JbiwKICAgICAgICAgICAgICAgIFNVTSgKICAgICAgICAgICAgICAgICAgICBJRgogICAgICAgICAgICAgICAgICAgICggcmVtYXJrIExJS0UgJ+ivhOiuuuWlluWKsSUnLCBhbW91bnQsIDAgKQogICAgICAgICAgICAgICAgKSBBUyBjb21tZW50R29sZCwK</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>LEFT JOIN (
               SELECT
                 COUNT( id ) AS count,
@@ -478,10 +493,7 @@
                 t1.id = t2.firstId
             ) xrhb ON nu.id = xrhb.user_id</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>IFNULL( nui.count, 0 ) AS 徒孙数,
   IFNULL( nue.apprenticeCount, 0 ) AS 徒弟数,
   IFNULL( nue.apprenticeGold, 0 ) AS 徒弟贡献金币,
@@ -497,14 +509,11 @@
   IFNULL( ngr.rouseGold, 0 ) AS 唤醒徒儿奖励,
   IFNULL( npt.inviteCode, 0 ) AS 填邀请码奖励,</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvb2w6CiAgICAgIG1heC1hY3RpdmU6IDgKICAgICAgbWF4LWlkbGU6IDgKICAgICAgbWF4LXdhaXQ6IC0xCiAgICAgIG1pbi1pZGxlOiA1Cg==</text>
-      </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvb2w6CiAgICAgIG1heC1hY3RpdmU6IDgKICAgICAgbWF4LWlkbGU6IDgKICAgICAgbWF4LXdhaXQ6IC0xCiAgICAgIG1pbi1pZGxlOiA1Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
