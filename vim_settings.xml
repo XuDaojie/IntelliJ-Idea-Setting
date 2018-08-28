@@ -52,6 +52,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-pro.properties" timestamp="1531445979709">
         <mark key="[" line="91" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerRedisController.java" timestamp="1535458428229">
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="33" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-qa.properties" timestamp="1532436091397">
         <mark key="[" line="89" column="77" />
       </file>
@@ -155,7 +160,7 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springcloud-service/src/main/java/io/github/xudaojie/cloud/controller/GreetingController.java" timestamp="1535303538664">
         <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535453163535">
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535459298193">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="26" column="41" />
@@ -318,10 +323,11 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="17" column="37" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerNewsReadCountController.java" timestamp="1535456100508" />
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/notice/push/JpushUtil.java" timestamp="1531799652714">
         <mark key="[" line="51" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerDailyTaskController.java" timestamp="1533543417698">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerDailyTaskController.java" timestamp="1535456898190">
         <mark key="[" line="50" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/gradle/wrapper/gradle-wrapper.properties" timestamp="1535310833497">
@@ -330,7 +336,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535450598170">
+      <file name="/Dummy.txt" timestamp="1535459132715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -392,7 +398,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1535453041088">
+      <file name="/fragment.java" timestamp="1535459132704">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -506,7 +512,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feature</text>
+        <text>List</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -539,7 +545,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>feature</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
