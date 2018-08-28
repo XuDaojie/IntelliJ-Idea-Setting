@@ -145,10 +145,10 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springcloud-service/src/main/java/io/github/xudaojie/cloud/controller/GreetingController.java" timestamp="1535303538664">
         <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535395463866">
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="69" column="28" />
-        <mark key="." line="69" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535421379716">
+        <mark key="[" line="73" column="12" />
+        <mark key="]" line="73" column="12" />
+        <mark key="." line="73" column="12" />
         <mark key="^" line="69" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
@@ -454,8 +454,8 @@
       <jump line="4" column="14" filename="$USER_HOME$/IdeaProjects/MyJava/springcloud-zuul/src/main/resources/static/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2FuYXJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -488,7 +488,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>zone</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
