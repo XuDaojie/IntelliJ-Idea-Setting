@@ -145,12 +145,6 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springcloud-service/src/main/java/io/github/xudaojie/cloud/controller/GreetingController.java" timestamp="1535303538664">
         <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535433554852">
-        <mark key="[" line="79" column="20" />
-        <mark key="]" line="79" column="20" />
-        <mark key="." line="79" column="20" />
-        <mark key="^" line="70" column="28" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
         <mark key="[" line="133" column="19" />
       </file>
@@ -289,12 +283,12 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535433031776">
+      <file name="/Dummy.txt" timestamp="1535434719531">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1532089480789">
         <mark key="[" line="38" column="9" />
@@ -457,7 +451,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>canary</text>
+        <text>非线上环境可利用请求头参数进行负载</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -490,7 +484,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>canary</text>
+        <text>非线上环境可利用请求头参数进行负载</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
