@@ -52,10 +52,10 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-pro.properties" timestamp="1531445979709">
         <mark key="[" line="91" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerRedisController.java" timestamp="1535460711318">
-        <mark key="[" line="36" column="33" />
-        <mark key="]" line="36" column="33" />
-        <mark key="." line="36" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerRedisController.java" timestamp="1535461534092">
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="37" column="13" />
+        <mark key="." line="37" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-qa.properties" timestamp="1532436091397">
         <mark key="[" line="89" column="77" />
@@ -398,7 +398,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1535460676748">
+      <file name="/fragment.java" timestamp="1535461561677">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -512,7 +512,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>List</text>
+        <text>CollectionUtils</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -545,7 +545,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>CollectionUtils</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
