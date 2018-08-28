@@ -22,8 +22,8 @@
       <file name="/a.dummy" timestamp="1535353404866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application-local.yml" timestamp="1535439112038">
-        <mark key="[" line="124" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application-local.yml" timestamp="1535447438411">
+        <mark key="[" line="175" column="20" />
         <mark key="]" line="127" column="37" />
         <mark key="." line="127" column="37" />
         <mark key="^" line="127" column="37" />
@@ -40,7 +40,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-pre.properties" timestamp="1531482958899">
         <mark key="[" line="135" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1535436360994">
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1535448802306">
         <mark key="[" line="134" column="12" />
         <mark key="]" line="137" column="6" />
         <mark key="^" line="137" column="31" />
@@ -73,18 +73,12 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pro.properties" timestamp="1532437562487">
         <mark key="[" line="73" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/ContentController.java" timestamp="1535437218492">
-        <mark key="[" line="490" column="0" />
-        <mark key="]" line="490" column="0" />
-        <mark key="." line="490" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/resources/application-local.properties" timestamp="1531532555291">
         <mark key="[" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/RecommendContentServiceImpl.java" timestamp="1530186548355">
         <mark key="[" line="140" column="115" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-client/1.7.2/8737426801d070cadc03134913a72c3555b3993/eureka-client-1.7.2-sources.jar!/com/netflix/discovery/endpoint/EndpointUtils.java" timestamp="1535376873468" />
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/application-local.properties" timestamp="1535354451279">
         <mark key="[" line="5" column="71" />
       </file>
@@ -97,7 +91,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/service/impl/StaticsServiceImpl.java" timestamp="1532444880598">
         <mark key="[" line="55" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery/src/main/resources/application-dev.yml" timestamp="1535379388301" />
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/bootstrap-dev.yml" timestamp="1531317717745">
         <mark key="[" line="7" column="97" />
       </file>
@@ -169,8 +162,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
         <mark key="[" line="133" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pre.yml" timestamp="1532436307503">
-        <mark key="[" line="20" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pre.yml" timestamp="1535448816647">
+        <mark key="[" line="97" column="36" />
+        <mark key="]" line="101" column="37" />
+        <mark key="^" line="101" column="37" />
+        <mark key="." line="101" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/media/MediaLoginController.java" timestamp="1530082320438">
         <mark key="[" line="105" column="39" />
@@ -213,8 +209,7 @@
       <file name="$USER_HOME$/IdeaProjects/m-wemedia/m-wemedia/src/main/resources/application-local.properties" timestamp="1531593230568">
         <mark key="[" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-client/1.7.2/8737426801d070cadc03134913a72c3555b3993/eureka-client-1.7.2-sources.jar!/com/netflix/discovery/shared/resolver/aws/ConfigClusterResolver.java" timestamp="1535377037784" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/application-local.properties" timestamp="1535435641193">
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/application-local.properties" timestamp="1535448165432">
         <mark key="[" line="10" column="33" />
         <mark key="]" line="10" column="33" />
         <mark key="^" line="77" column="36" />
@@ -256,7 +251,6 @@
         <mark key="^" line="26" column="23" />
         <mark key="." line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.4.4.RELEASE/31dcf24117701eb988e96a732ec289fdaa1ba1a7/spring-cloud-netflix-core-1.4.4.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/RibbonRoutingFilter.java" timestamp="1535380520827" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/zipkin-server-dev.yml" timestamp="1532176233366">
         <mark key="[" line="26" column="53" />
       </file>
@@ -331,7 +325,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535439331878">
+      <file name="/Dummy.txt" timestamp="1535448836579">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
@@ -340,6 +334,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1532089480789">
         <mark key="[" line="38" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-test.yml" timestamp="1535448833469">
+        <mark key="[" line="142" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-common.properties" timestamp="1531446122755">
         <mark key="[" line="98" column="77" />
@@ -368,8 +365,8 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-testcanary.properties" timestamp="1535437506314">
         <mark key="[" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1532436303757">
-        <mark key="[" line="20" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1535448824851">
+        <mark key="[" line="99" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pre.properties" timestamp="1531446106379">
         <mark key="[" line="13" column="27" />
