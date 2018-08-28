@@ -199,11 +199,9 @@
         <mark key="[" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-client/1.7.2/8737426801d070cadc03134913a72c3555b3993/eureka-client-1.7.2-sources.jar!/com/netflix/discovery/shared/resolver/aws/ConfigClusterResolver.java" timestamp="1535377037784" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/application-local.properties" timestamp="1535383651196">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="44" />
-        <mark key="^" line="79" column="36" />
-        <mark key="." line="6" column="44" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/application-local.properties" timestamp="1535429851049">
+        <mark key="[" line="4" column="66" />
+        <mark key="^" line="76" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/application-local.properties" timestamp="1531342359361">
         <mark key="[" line="83" column="29" />
@@ -236,8 +234,10 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/zipkin-server-dev.yml" timestamp="1532176233366">
         <mark key="[" line="26" column="53" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-dev.properties" timestamp="1535383440905">
-        <mark key="[" line="10" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-dev.properties" timestamp="1535429926073">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1531749339799">
         <mark key="[" line="208" column="0" />
@@ -272,8 +272,8 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1535365454713">
         <mark key="[" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/MockController.java" timestamp="1535373367629">
-        <mark key="[" line="11" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/MockController.java" timestamp="1535429366781">
+        <mark key="[" line="21" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/notice/push/JpushUtil.java" timestamp="1531799652714">
         <mark key="[" line="51" column="12" />
@@ -287,7 +287,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535428514637">
+      <file name="/Dummy.txt" timestamp="1535429933345">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
@@ -345,7 +345,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1535428514626">
+      <file name="/fragment.java" timestamp="1535429715962">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -455,7 +455,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!StringUtils.isBlank(deviceInfo)</text>
+        <text>test</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -488,7 +488,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!StringUtils.isBlank(deviceInfo)</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
