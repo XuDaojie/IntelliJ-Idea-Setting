@@ -22,7 +22,7 @@
       <file name="/a.dummy" timestamp="1535353404866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application-local.yml" timestamp="1535447438411">
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application-local.yml" timestamp="1535449642103">
         <mark key="[" line="175" column="20" />
         <mark key="]" line="127" column="37" />
         <mark key="." line="127" column="37" />
@@ -325,9 +325,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535448836579">
-        <mark key="a" line="0" column="0" />
-        <mark key="'" line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1535450598170">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -362,7 +360,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1532437216053">
         <mark key="[" line="70" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-testcanary.properties" timestamp="1535437506314">
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-testcanary.properties" timestamp="1535449802422">
         <mark key="[" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1535448824851">
@@ -389,11 +387,14 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1535439264751">
+      <file name="/fragment.java" timestamp="1535450486482">
         <mark key="'" line="0" column="48" />
-        <mark key="[" line="0" column="32" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/bootstrap-testcanary.yml" timestamp="1535451064446">
+        <mark key="[" line="6" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -499,8 +500,8 @@
       <jump line="0" column="48" filename="/fragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>feature</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -533,7 +534,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>redisTemplate</text>
+        <text>feature</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
