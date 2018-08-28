@@ -22,7 +22,7 @@
       <file name="/a.dummy" timestamp="1535353404866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application-local.yml" timestamp="1535368952179">
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application-local.yml" timestamp="1535427117368">
         <mark key="]" line="131" column="16" />
         <mark key="." line="131" column="16" />
         <mark key="^" line="131" column="16" />
@@ -145,10 +145,10 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springcloud-service/src/main/java/io/github/xudaojie/cloud/controller/GreetingController.java" timestamp="1535303538664">
         <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535422668024">
-        <mark key="[" line="75" column="12" />
-        <mark key="]" line="75" column="12" />
-        <mark key="." line="75" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535428305289">
+        <mark key="[" line="79" column="20" />
+        <mark key="]" line="79" column="20" />
+        <mark key="." line="79" column="20" />
         <mark key="^" line="70" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
@@ -287,7 +287,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535383641623">
+      <file name="/Dummy.txt" timestamp="1535428514637">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
@@ -345,7 +345,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1535383641613">
+      <file name="/fragment.java" timestamp="1535428514626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -455,7 +455,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>!StringUtils.isBlank(deviceInfo)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -488,7 +488,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>!StringUtils.isBlank(deviceInfo)</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
