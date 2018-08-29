@@ -39,11 +39,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-pre.properties" timestamp="1531482958899">
         <mark key="[" line="135" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1535448802306">
-        <mark key="[" line="134" column="12" />
-        <mark key="]" line="137" column="6" />
-        <mark key="^" line="137" column="31" />
-        <mark key="." line="137" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1535554022267">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="8" />
+        <mark key="^" line="48" column="16" />
+        <mark key="." line="49" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/anticenter/ApiAntiCenter.java" timestamp="1529911582657">
         <mark key="[" line="51" column="53" />
@@ -165,8 +165,8 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springcloud-service/src/main/java/io/github/xudaojie/cloud/controller/GreetingController.java" timestamp="1535303538664">
         <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535552801087">
-        <mark key="[" line="91" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535554804894">
+        <mark key="[" line="93" column="51" />
         <mark key="]" line="91" column="39" />
         <mark key="." line="91" column="39" />
         <mark key="^" line="91" column="19" />
@@ -334,8 +334,8 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535551840609">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1535554046980">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -379,11 +379,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-testcanary.properties" timestamp="1535449802422">
         <mark key="[" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1535548832597">
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1535553911071">
         <mark key="[" line="52" column="16" />
-        <mark key="]" line="46" column="16" />
-        <mark key="." line="46" column="16" />
-        <mark key="^" line="46" column="16" />
+        <mark key="]" line="46" column="17" />
+        <mark key="." line="46" column="17" />
+        <mark key="^" line="46" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-pre.properties" timestamp="1531446106379">
         <mark key="[" line="13" column="27" />
@@ -406,7 +406,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1535543136250">
+      <file name="/fragment.java" timestamp="1535554046973">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -520,7 +520,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gateway</text>
+        <text>content</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -553,7 +553,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gateway</text>
+        <text>content</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
