@@ -310,10 +310,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535473973470">
+      <file name="/Dummy.txt" timestamp="1535522131723">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1532089480789">
         <mark key="[" line="38" column="9" />
@@ -486,7 +486,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>canary</text>
+        <text>fix: content bootstrap-testcanary.yml配置错误</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -519,7 +519,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>canary</text>
+        <text>fix: content bootstrap-testcanary.yml配置错误</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
