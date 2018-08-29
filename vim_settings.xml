@@ -156,10 +156,10 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springcloud-service/src/main/java/io/github/xudaojie/cloud/controller/GreetingController.java" timestamp="1535303538664">
         <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535538609248">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535543173293">
+        <mark key="[" line="50" column="15" />
+        <mark key="]" line="50" column="15" />
+        <mark key="." line="50" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
         <mark key="[" line="133" column="19" />
@@ -324,7 +324,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535540364999">
+      <file name="/Dummy.txt" timestamp="1535542834709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -393,7 +393,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1535540073031">
+      <file name="/fragment.java" timestamp="1535543136250">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -507,7 +507,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${server.port}</text>
+        <text>true</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -540,7 +540,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${server.port}</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -549,40 +549,40 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigidGVzdCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlsIbliqDlhaXngbDluqbmtYvor5XnmoTmtLvot4Porr7lpIfot6/nlLHoh7PmnIDmlrDmnI3liqEKICAgICAgICBPYmplY3Qgc2VydmljZUlkT2JqID0gY3R4LmdldCgic2VydmljZUlkIik7CiAgICAgICAgaWYgKHNlcnZpY2VJZE9iaiAhPSBudWxsKSB7CiAgICAgICAgICAgIFN0cmluZyBzZXJ2aWNlSWQgPSBzZXJ2aWNlSWRPYmoudG9TdHJpbmcoKTsKICAgICAgICAgICAgLy8gY29udGV4dOS9v+eUqOiHquWumuS5iei0n+i9veWdh+ihoQogICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmVxdWFscyhzZXJ2aWNlSWQsICJuZXdzLWNvbnRlbnQiKSkgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDlsIbliqDlhaXngbDluqbmtYvor5XnmoTmtLvot4Porr7lpIfot6/nlLHoh7PmnIDmlrDmnI3liqEKICAgICAgICBPYmplY3Qgc2VydmljZUlkT2JqID0gY3R4LmdldCgic2VydmljZUlkIik7CiAgICAgICAgaWYgKHNlcnZpY2VJZE9iaiAhPSBudWxsKSB7CiAgICAgICAgICAgIFN0cmluZyBzZXJ2aWNlSWQgPSBzZXJ2aWNlSWRPYmoudG9TdHJpbmcoKTsKICAgICAgICAgICAgLy8gY29udGV4dOS9v+eUqOiHquWumuS5iei0n+i9veWdh+ihoQogICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmVxdWFscyhzZXJ2aWNlSWQsICJuZXdzLWNvbnRlbnQiKSkgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgQFJlc291cmNlCi8vICAgIHByaXZhdGUgUmVkaXNUZW1wbGF0ZSByZWRpc1RlbXBsYXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RyaW5nUmVkaXNUZW1wbGF0ZS5vcHNGb3JIYXNoKCkuZ2V0KCIiKQo=</text>
+        <text encoding="base64">Ly8gICAgQFJlc291cmNlCi8vICAgIHByaXZhdGUgUmVkaXNUZW1wbGF0ZSByZWRpc1RlbXBsYXRlOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOa1i+ivleWujOaIkOWQjumcgOWIoOmZpAogICAgICAgIGxvZ2dlci5pbmZvKCIvc3ViSW5kZXhMaXN0LyIgKyBjb2RlKTsK</text>
+        <text encoding="base64">c3RyaW5nUmVkaXNUZW1wbGF0ZS5vcHNGb3JIYXNoKCkuZ2V0KCIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FuYXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOa1i+ivleWujOaIkOWQjumcgOWIoOmZpAogICAgICAgIGxvZ2dlci5pbmZvKCIvc3ViSW5kZXhMaXN0LyIgKyBjb2RlKTsK</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29udGV4dAo=</text>
+        <text encoding="base64">Y2FuYXJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
