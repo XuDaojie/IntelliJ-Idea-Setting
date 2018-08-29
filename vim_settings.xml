@@ -89,6 +89,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/application-local.properties" timestamp="1535354451279">
         <mark key="[" line="5" column="71" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.jmnarloch/ribbon-discovery-filter-spring-cloud-starter/2.1.0/8e11a9dc9ad1b67f221d3ba06bb1f1e400fdd56d/ribbon-discovery-filter-spring-cloud-starter-2.1.0-sources.jar!/io/jmnarloch/spring/cloud/ribbon/support/RibbonDiscoveryRuleAutoConfiguration.java" timestamp="1535547878884" />
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/innerActiveController.java" timestamp="1531819380053">
         <mark key="[" line="43" column="83" />
       </file>
@@ -130,6 +131,12 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springcloud-service/build.gradle" timestamp="1535299982209">
         <mark key="[" line="16" column="73" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-procanary.properties" timestamp="1535548592052">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/QuartzApplication.java" timestamp="1531297758855">
         <mark key="[" line="20" column="2" />
       </file>
@@ -158,10 +165,11 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springcloud-service/src/main/java/io/github/xudaojie/cloud/controller/GreetingController.java" timestamp="1535303538664">
         <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535543796726">
-        <mark key="[" line="50" column="15" />
-        <mark key="]" line="50" column="15" />
-        <mark key="." line="50" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535552801087">
+        <mark key="[" line="91" column="39" />
+        <mark key="]" line="91" column="39" />
+        <mark key="." line="91" column="39" />
+        <mark key="^" line="91" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
         <mark key="[" line="133" column="19" />
@@ -268,10 +276,10 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/zipkin-server-dev.yml" timestamp="1532176233366">
         <mark key="[" line="26" column="53" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-dev.properties" timestamp="1535540350884">
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-dev.properties" timestamp="1535551826757">
         <mark key="[" line="6" column="106" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/ContentApplication.java" timestamp="1535470924868" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1531749339799">
@@ -326,8 +334,8 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535545957709">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1535551840609">
+        <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -365,13 +373,13 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/common-service-dev.properties" timestamp="1535539774895">
         <mark key="[" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1532437216053">
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1535547011297">
         <mark key="[" line="70" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-testcanary.properties" timestamp="1535449802422">
         <mark key="[" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1535545954830">
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1535548832597">
         <mark key="[" line="52" column="16" />
         <mark key="]" line="46" column="16" />
         <mark key="." line="46" column="16" />
@@ -512,7 +520,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgbWV0cmljczoKICAgIGVuYWJsZWQ6IGZhbHNl</text>
+        <text>gateway</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -545,7 +553,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>gateway</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -554,41 +562,41 @@
         <text>entries</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgbWV0cmljczoKICAgIGVuYWJsZWQ6IGZhbHNl</text>
+        <text encoding="base64">IVN0cmluZ1V0aWxzLmVxdWFscyhwcm9maWxlcywgInBybyIpCiAgICAgICAgICAgICAgICAmJiAhU3RyaW5nVXRpbHMuZXF1YWxzKHByb2ZpbGVzLCAicHJlIik=</text>
       </register>
-      <register name="2" type="4">
-        <text>metrics:
-    enabled: false</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoIWhhc0RldmljZSkgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigidGVzdCIpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgbWV0cmljczoKICAgIGVuYWJsZWQ6IGZhbHNl</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>metrics:
+    enabled: false</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigidGVzdCIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlsIbliqDlhaXngbDluqbmtYvor5XnmoTmtLvot4Porr7lpIfot6/nlLHoh7PmnIDmlrDmnI3liqEKICAgICAgICBPYmplY3Qgc2VydmljZUlkT2JqID0gY3R4LmdldCgic2VydmljZUlkIik7CiAgICAgICAgaWYgKHNlcnZpY2VJZE9iaiAhPSBudWxsKSB7CiAgICAgICAgICAgIFN0cmluZyBzZXJ2aWNlSWQgPSBzZXJ2aWNlSWRPYmoudG9TdHJpbmcoKTsKICAgICAgICAgICAgLy8gY29udGV4dOS9v+eUqOiHquWumuS5iei0n+i9veWdh+ihoQogICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmVxdWFscyhzZXJ2aWNlSWQsICJuZXdzLWNvbnRlbnQiKSkgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgQFJlc291cmNlCi8vICAgIHByaXZhdGUgUmVkaXNUZW1wbGF0ZSByZWRpc1RlbXBsYXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDlsIbliqDlhaXngbDluqbmtYvor5XnmoTmtLvot4Porr7lpIfot6/nlLHoh7PmnIDmlrDmnI3liqEKICAgICAgICBPYmplY3Qgc2VydmljZUlkT2JqID0gY3R4LmdldCgic2VydmljZUlkIik7CiAgICAgICAgaWYgKHNlcnZpY2VJZE9iaiAhPSBudWxsKSB7CiAgICAgICAgICAgIFN0cmluZyBzZXJ2aWNlSWQgPSBzZXJ2aWNlSWRPYmoudG9TdHJpbmcoKTsKICAgICAgICAgICAgLy8gY29udGV4dOS9v+eUqOiHquWumuS5iei0n+i9veWdh+ihoQogICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmVxdWFscyhzZXJ2aWNlSWQsICJuZXdzLWNvbnRlbnQiKSkgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RyaW5nUmVkaXNUZW1wbGF0ZS5vcHNGb3JIYXNoKCkuZ2V0KCIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
