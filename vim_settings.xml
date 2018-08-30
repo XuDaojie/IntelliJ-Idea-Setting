@@ -154,11 +154,9 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springcloud-service/src/main/java/io/github/xudaojie/cloud/controller/GreetingController.java" timestamp="1535303538664">
         <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535618871823">
-        <mark key="[" line="93" column="51" />
-        <mark key="]" line="89" column="42" />
-        <mark key="." line="89" column="42" />
-        <mark key="^" line="89" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535623459231">
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
         <mark key="[" line="133" column="19" />
@@ -326,7 +324,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535620343576">
+      <file name="/Dummy.txt" timestamp="1535623716030">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -391,7 +389,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1535620343553">
+      <file name="/fragment.java" timestamp="1535622921806">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -502,7 +500,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -544,41 +542,40 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZWQ6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgaW5mbzoKIyAgICBzZW5zaXRpdmU6IGZhbHNlCiAgI2VuZHBvaW50cy5pbmZvLnNlbnNpdGl2ZT1mYWxzZQogICNlbmRwb2ludHMuaGVhbHRoLnNlbnNpdGl2ZT1mYWxzZQogICNkZWZhdWx0Wm9uZTogaHR0cDovL2xvY2FsaG9zdDo4NzYxL2V1cmVrYS8K</text>
+        <text encoding="base64">bGIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGV2Cg==</text>
+        <text encoding="base64">ICAgIGVuYWJsZWQ6IHRydWUK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IVN0cmluZ1V0aWxzLmVxdWFscyhwcm9maWxlcywgInBybyIpCiAgICAgICAgICAgICAgICAmJiAhU3RyaW5nVXRpbHMuZXF1YWxzKHByb2ZpbGVzLCAicHJlIik=</text>
+      <register name="5" type="2">
+        <text encoding="base64">IyAgaW5mbzoKIyAgICBzZW5zaXRpdmU6IGZhbHNlCiAgI2VuZHBvaW50cy5pbmZvLnNlbnNpdGl2ZT1mYWxzZQogICNlbmRwb2ludHMuaGVhbHRoLnNlbnNpdGl2ZT1mYWxzZQogICNkZWZhdWx0Wm9uZTogaHR0cDovL2xvY2FsaG9zdDo4NzYxL2V1cmVrYS8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoIWhhc0RldmljZSkgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ZGV2Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgbWV0cmljczoKICAgIGVuYWJsZWQ6IGZhbHNl</text>
+        <text encoding="base64">IVN0cmluZ1V0aWxzLmVxdWFscyhwcm9maWxlcywgInBybyIpCiAgICAgICAgICAgICAgICAmJiAhU3RyaW5nVXRpbHMuZXF1YWxzKHByb2ZpbGVzLCAicHJlIik=</text>
       </register>
-      <register name="8" type="4">
-        <text>metrics:
-    enabled: false</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoIWhhc0RldmljZSkgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigidGVzdCIpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgbWV0cmljczoKICAgIGVuYWJsZWQ6IGZhbHNl</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
