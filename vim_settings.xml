@@ -158,8 +158,8 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springcloud-service/src/main/java/io/github/xudaojie/cloud/controller/GreetingController.java" timestamp="1535303538664">
         <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535609502470">
-        <mark key="[" line="88" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1535614707724">
+        <mark key="[" line="93" column="51" />
         <mark key="]" line="89" column="42" />
         <mark key="." line="89" column="42" />
         <mark key="^" line="89" column="42" />
@@ -240,6 +240,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/resources/logback-spring.xml" timestamp="1534127207417">
         <mark key="[" line="242" column="38" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.ribbon/ribbon-loadbalancer/2.2.5/ea8c4cc1423178e368d412ea9233caebca13635c/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/ZoneAwareLoadBalancer.java" timestamp="1535612432385" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-qa.properties" timestamp="1532437659966">
         <mark key="[" line="35" column="38" />
       </file>
@@ -274,7 +275,7 @@
         <mark key="]" line="19" column="56" />
         <mark key="." line="19" column="56" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.4.4.RELEASE/31dcf24117701eb988e96a732ec289fdaa1ba1a7/spring-cloud-netflix-core-1.4.4.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/RibbonRoutingFilter.java" timestamp="1535380520827" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.4.4.RELEASE/31dcf24117701eb988e96a732ec289fdaa1ba1a7/spring-cloud-netflix-core-1.4.4.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/RibbonRoutingFilter.java" timestamp="1535612163985" />
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/build.gradle" timestamp="1535600745955" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/zipkin-server-dev.yml" timestamp="1532176233366">
         <mark key="[" line="26" column="53" />
@@ -334,7 +335,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535607243454">
+      <file name="/Dummy.txt" timestamp="1535613010850">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -360,6 +361,7 @@
         <mark key="." line="53" column="38" />
         <mark key="^" line="38" column="48" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.ribbon/ribbon-loadbalancer/2.2.5/ea8c4cc1423178e368d412ea9233caebca13635c/ribbon-loadbalancer-2.2.5-sources.jar!/com/netflix/loadbalancer/LoadBalancerContext.java" timestamp="1535612280901" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-test.properties" timestamp="1532437172989">
         <mark key="[" line="62" column="30" />
       </file>
@@ -400,11 +402,11 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1535607243432">
+      <file name="/fragment.java" timestamp="1535614655078">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -511,7 +513,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZWQ6IHRydWUK</text>
+        <text encoding="base64">bGIK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -553,41 +555,41 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZWQ6IHRydWUK</text>
+        <text encoding="base64">bGIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgaW5mbzoKIyAgICBzZW5zaXRpdmU6IGZhbHNlCiAgI2VuZHBvaW50cy5pbmZvLnNlbnNpdGl2ZT1mYWxzZQogICNlbmRwb2ludHMuaGVhbHRoLnNlbnNpdGl2ZT1mYWxzZQogICNkZWZhdWx0Wm9uZTogaHR0cDovL2xvY2FsaG9zdDo4NzYxL2V1cmVrYS8K</text>
+        <text encoding="base64">ICAgIGVuYWJsZWQ6IHRydWUK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">IyAgaW5mbzoKIyAgICBzZW5zaXRpdmU6IGZhbHNlCiAgI2VuZHBvaW50cy5pbmZvLnNlbnNpdGl2ZT1mYWxzZQogICNlbmRwb2ludHMuaGVhbHRoLnNlbnNpdGl2ZT1mYWxzZQogICNkZWZhdWx0Wm9uZTogaHR0cDovL2xvY2FsaG9zdDo4NzYxL2V1cmVrYS8K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ZGV2Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IVN0cmluZ1V0aWxzLmVxdWFscyhwcm9maWxlcywgInBybyIpCiAgICAgICAgICAgICAgICAmJiAhU3RyaW5nVXRpbHMuZXF1YWxzKHByb2ZpbGVzLCAicHJlIik=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoIWhhc0RldmljZSkgcmV0dXJuIG51bGw7Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgbWV0cmljczoKICAgIGVuYWJsZWQ6IGZhbHNl</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">CiAgbWV0cmljczoKICAgIGVuYWJsZWQ6IGZhbHNl</text>
+      </register>
+      <register name="8" type="4">
         <text>metrics:
     enabled: false</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigidGVzdCIpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigidGVzdCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
