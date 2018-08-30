@@ -39,8 +39,8 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-pre.properties" timestamp="1531482958899">
         <mark key="[" line="135" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1535554022267">
-        <mark key="[" line="49" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1535596515694">
+        <mark key="[" line="211" column="53" />
         <mark key="]" line="49" column="8" />
         <mark key="^" line="48" column="16" />
         <mark key="." line="49" column="8" />
@@ -140,14 +140,17 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/QuartzApplication.java" timestamp="1531297758855">
         <mark key="[" line="20" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-dev.properties" timestamp="1532101987013">
-        <mark key="[" line="19" column="214" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/quartz-dev.properties" timestamp="1535596620330">
+        <mark key="[" line="1" column="71" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/application-zone1.properties" timestamp="1535382049920">
         <mark key="[" line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-dev.properties" timestamp="1532437541354">
-        <mark key="[" line="53" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/m-wemedia-dev.properties" timestamp="1535596563236">
+        <mark key="[" line="4" column="71" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-dev.properties" timestamp="1535596596730">
+        <mark key="[" line="1" column="71" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserLogServiceImpl.java" timestamp="1531297492065">
         <mark key="[" line="15" column="28" />
@@ -156,8 +159,11 @@
       <file name="$USER_HOME$/IdeaProjects/m-wemedia/m-wemedia/src/main/resources/logback-spring.xml" timestamp="1531593432919">
         <mark key="[" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-dev.properties" timestamp="1532437474121">
-        <mark key="[" line="61" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-dev.properties" timestamp="1535596611074">
+        <mark key="[" line="4" column="71" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-dev.properties" timestamp="1535596586624">
+        <mark key="[" line="6" column="71" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/m-eps-pro.properties" timestamp="1533911154770">
         <mark key="[" line="12" column="14" />
@@ -224,6 +230,9 @@
       <file name="$USER_HOME$/IdeaProjects/m-wemedia/m-wemedia/src/main/resources/application-local.properties" timestamp="1531593230568">
         <mark key="[" line="9" column="35" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-comment-dev.properties" timestamp="1535596500986">
+        <mark key="[" line="3" column="71" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-client/1.7.2/8737426801d070cadc03134913a72c3555b3993/eureka-client-1.7.2-sources.jar!/com/netflix/discovery/shared/resolver/aws/ConfigClusterResolver.java" timestamp="1535377037784" />
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/application-local.properties" timestamp="1535544479939">
         <mark key="[" line="14" column="34" />
@@ -285,6 +294,9 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1531749339799">
         <mark key="[" line="208" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-dev.properties" timestamp="1535596602774">
+        <mark key="[" line="1" column="71" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/news-user-demo/src/main/resources/application-local.properties" timestamp="1535378954653">
         <mark key="[" line="5" column="66" />
         <mark key="]" line="2" column="0" />
@@ -331,10 +343,13 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/gradle/wrapper/gradle-wrapper.properties" timestamp="1535310833497">
         <mark key="[" line="2" column="73" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/m-eps-dev.properties" timestamp="1535596558208">
+        <mark key="[" line="4" column="71" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535554046980">
+      <file name="/Dummy.txt" timestamp="1535596700507">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -370,8 +385,8 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-pre.properties" timestamp="1535437475762">
         <mark key="[" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/common-service-dev.properties" timestamp="1535539774895">
-        <mark key="[" line="6" column="37" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/common-service-dev.properties" timestamp="1535596550056">
+        <mark key="[" line="6" column="71" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1535547011297">
         <mark key="[" line="70" column="30" />
@@ -406,7 +421,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1535554046973">
+      <file name="/fragment.java" timestamp="1535596700498">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
