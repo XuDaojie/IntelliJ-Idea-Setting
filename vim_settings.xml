@@ -43,6 +43,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-pro.properties" timestamp="1535539344559">
         <mark key="[" line="4" column="122" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/ApiDocsController.java" timestamp="1536066412702" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerRedisController.java" timestamp="1535524923493">
         <mark key="[" line="37" column="13" />
         <mark key="]" line="37" column="13" />
@@ -81,8 +82,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/RecommendContentServiceImpl.java" timestamp="1530186548355">
         <mark key="[" line="140" column="115" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/application-local.properties" timestamp="1535354451279">
-        <mark key="[" line="5" column="71" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/application-local.properties" timestamp="1536066897793">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/innerActiveController.java" timestamp="1531819380053">
         <mark key="[" line="43" column="83" />
@@ -155,10 +158,11 @@
       <file name="$USER_HOME$/IdeaProjects/MyJava/springcloud-service/src/main/java/io/github/xudaojie/cloud/controller/GreetingController.java" timestamp="1535303538664">
         <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1536063805732">
-        <mark key="[" line="66" column="16" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/LoadBalancingFilter.java" timestamp="1536066884176">
+        <mark key="[" line="66" column="54" />
+        <mark key="]" line="49" column="34" />
+        <mark key="." line="49" column="34" />
+        <mark key="^" line="49" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-propre.yml" timestamp="1529734874992">
         <mark key="[" line="133" column="19" />
@@ -329,7 +333,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536040441725">
+      <file name="/Dummy.txt" timestamp="1536066727972">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -394,7 +398,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1536040439509">
+      <file name="/fragment.java" timestamp="1536066727957">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -504,8 +508,8 @@
       <jump line="0" column="48" filename="/fragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICghU3RyaW5nVXRpbHMuZXF1YWxzKHByb2ZpbGVzLCAicHJvIikKLy8gICAgICAgICAgICAgICAgJiYgIVN0cmluZ1V0aWxzLmVxdWFscyhwcm9maWxlcywgInByZSIpCi8vICAgICAgICAgICAgICAgICYmIHJlcXVlc3QuZ2V0SGVhZGVyKCJYLVpvbmUiKSAhPSBudWxsKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>debug</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -538,7 +542,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
