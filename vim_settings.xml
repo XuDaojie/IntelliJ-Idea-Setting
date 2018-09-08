@@ -33,8 +33,8 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-pre.properties" timestamp="1531482958899">
         <mark key="[" line="135" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1536151767229">
-        <mark key="[" line="211" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-dev.yml" timestamp="1536397216952">
+        <mark key="[" line="211" column="88" />
         <mark key="]" line="49" column="8" />
         <mark key="^" line="48" column="16" />
         <mark key="." line="49" column="8" />
@@ -51,6 +51,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/ApiDocsController.java" timestamp="1536066412702" />
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/UserClient.java" timestamp="1536236588639">
         <mark key="[" line="19" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerRedisController.java" timestamp="1535524923493">
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="37" column="13" />
+        <mark key="." line="37" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-qa.properties" timestamp="1532436091397">
         <mark key="[" line="89" column="77" />
@@ -102,6 +107,9 @@
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/Java.md" timestamp="1536234507843">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery/src/main/resources/application-dev.yml" timestamp="1536397384599">
+        <mark key="[" line="1" column="9" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/bootstrap-dev.yml" timestamp="1531317717745">
         <mark key="[" line="7" column="97" />
       </file>
@@ -110,6 +118,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pre.properties" timestamp="1535971826924">
         <mark key="[" line="108" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/news-user-demo/src/main/resources/application-local2.properties" timestamp="1535377272992">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-qa.properties" timestamp="1531446114376">
         <mark key="[" line="13" column="27" />
@@ -204,6 +217,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/constant/ZuulFilterOrder.java" timestamp="1535532008765">
         <mark key="[" line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/MyJava/gateway/src/main/resources/application-local.yml" timestamp="1535379172214">
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/bean/ReflectTool.java" timestamp="1530066172285">
         <mark key="[" line="32" column="72" />
       </file>
@@ -277,6 +295,12 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-test.properties" timestamp="1532437653006">
         <mark key="[" line="56" column="30" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery/src/main/resources/application-dev2.yml" timestamp="1536398643349">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserAuditServiceImpl.java" timestamp="1531980249397">
         <mark key="[" line="67" column="18" />
       </file>
@@ -295,8 +319,18 @@
         <mark key="^" line="26" column="23" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery/src/main/resources/application-dev1.yml" timestamp="1536397393008">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="56" />
+        <mark key="." line="19" column="56" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/zipkin-server-dev.yml" timestamp="1532176233366">
         <mark key="[" line="26" column="53" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-dev.properties" timestamp="1536043371511">
+        <mark key="[" line="7" column="60" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1531749339799">
         <mark key="[" line="208" column="0" />
@@ -353,10 +387,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536389646768">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1536398657935">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1532089480789">
         <mark key="[" line="38" column="9" />
@@ -430,7 +464,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1536214143489">
+      <file name="/fragment.java" timestamp="1536397718711">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -540,8 +574,8 @@
       <jump line="0" column="48" filename="/fragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+      <register name="&quot;" type="4">
+        <text>dev1端口</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -574,7 +608,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>这一点与Google其它语言的编程风格不同(如C++和JavaScript)。</text>
+        <text>dev1端口</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
