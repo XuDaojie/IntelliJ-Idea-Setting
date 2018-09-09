@@ -75,6 +75,11 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-pro.properties" timestamp="1535974596248">
         <mark key="[" line="110" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/ContentController.java" timestamp="1536494953433">
+        <mark key="[" line="590" column="9" />
+        <mark key="]" line="590" column="9" />
+        <mark key="." line="590" column="9" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/build.gradle" timestamp="1535969727358">
         <mark key="[" line="17" column="93" />
         <mark key="]" line="17" column="92" />
@@ -278,6 +283,9 @@
         <mark key="^" line="77" column="36" />
         <mark key="." line="10" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/hbase/ContentDetailDo.java" timestamp="1536493326951">
+        <mark key="[" line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/application-local.properties" timestamp="1531342359361">
         <mark key="[" line="83" column="29" />
       </file>
@@ -387,13 +395,13 @@
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1536491857798">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1536491598811">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1532089480789">
         <mark key="[" line="38" column="9" />
@@ -579,7 +587,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>response</text>
+        <text>else{
+            boolean hasDevice = stringRedisTemplate.opsForHash()
+                    .hasKey(&quot;device:active&quot;, &quot;device.id:&quot; + deviceId);
+            if(!hasDevice){
+                return subIndexList(code,localCode,pageQuery,request);
+            }
+        }</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -620,41 +634,47 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+      <register name="1" type="4">
+        <text>else{
+            boolean hasDevice = stringRedisTemplate.opsForHash()
+                    .hasKey(&quot;device:active&quot;, &quot;device.id:&quot; + deviceId);
+            if(!hasDevice){
+                return subIndexList(code,localCode,pageQuery,request);
+            }
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoUHJvYmxlbUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICByZWNvdmVyKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSGJhc2VUZW1wbGF0ZSBoYmFzZVRlbXBsYXRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDorr7lpIfmjqjojZDliJfooagKICAgICAgICAgKi8KICAgICAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBSRUNPTU1ERVJfTkVXU19MSVNUID0gIlJFQ09NTURFUl9ORVdTX0xJU1RfIjsKCiAgICAgICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVDT01NREVSX05FV1NfTElTVF9QQUdFPSJSRUNPTU1ERVJfTkVXU19MSVNUX1BBR0VfIjsKCiAgICAgICAgcHVibGljIHN0YXRpYyBTdHJpbmcgTkVXU19QT09MX0tFWV9IT1RfQ0FURSA9ICJORVdTX1BPT0xfS0VZX0hPVF9DQVRFIiA7IC8v5YiG57G754Ot6Zeo5paw6Ze75byA5YWzCiAgICAgICAgcHVibGljIHN0YXRpYyBTdHJpbmcgTkVXU19QT09MX0tFWV9IT1RfQUxMID0gIk5FV1NfUE9PTF9LRVlfSE9UX0FMTCIgOyAgIC8v5omA5pyJ54Ot6Zeo5paw6Ze75byA5YWzCiAgICAgICAgcHVibGljIHN0YXRpYyBTdHJpbmcgTkVXU19QT09MX0tFWV9DT0xEX0NBVEUgPSAiTkVXU19QT09MX0tFWV9DT0xEX0NBVEUiIDsgLy/liIbnsbvlhrfpl6jmlrDpl7vlvIDlhbMKICAgICAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBORVdTX1BPT0xfS0VZX0FMUyA9ICJORVdTX1BPT0xfS0VZX0FMUyIgOy8v5Y2P5ZCM6L+H5ruk5paw6Ze75byA5YWzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIyDms6jop6MKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSDmjqXlj6PniYjmnKzkvb/nlKjor7fmsYLlpLRgWC1BUEktVmVyc2lvbmDmjqfliLbniYjmnKwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoUHJvYmxlbUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICByZWNvdmVyKCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSB1cmznpoHmraLku6UgLyDnu5PlsL4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSDml7bpl7TmrrXlrZfmrrXlkI3kuIDlvovkvb/nlKggc3RhcnREYXRlL2VuZERhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBTUUzlhpnlnKgvcmVzb3VyY2VzL2RhdGEv55uu5b2VCg==</text>
+        <text encoding="base64">IyMjIyDms6jop6MKCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
