@@ -49,6 +49,12 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/UserClient.java" timestamp="1536236588639">
         <mark key="[" line="19" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/service/impl/WalletServiceImpl.java" timestamp="1536512638679">
+        <mark key="[" line="269" column="13" />
+        <mark key="]" line="197" column="46" />
+        <mark key="^" line="197" column="46" />
+        <mark key="." line="197" column="46" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerRedisController.java" timestamp="1535524923493">
         <mark key="[" line="37" column="13" />
         <mark key="]" line="37" column="13" />
@@ -241,6 +247,7 @@
         <mark key="[" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/service/impl/ActiveServiceImpl.java" timestamp="1536408336150" />
+      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/client/PaymentClient.java" timestamp="1536511753032" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-qa.yml" timestamp="1532436695382">
         <mark key="[" line="21" column="19" />
       </file>
@@ -404,8 +411,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-dev.yml" timestamp="1529928065666">
         <mark key="[" line="7" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536504589411">
+      <file name="/Dummy.txt" timestamp="1536513468360">
+        <mark key="a" line="0" column="6" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536510532753">
         <mark key="[" line="38" column="9" />
@@ -592,13 +602,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else{
-            boolean hasDevice = stringRedisTemplate.opsForHash()
-                    .hasKey(&quot;device:active&quot;, &quot;device.id:&quot; + deviceId);
-            if(!hasDevice){
-                return subIndexList(code,localCode,pageQuery,request);
-            }
-        }</text>
+        <text>release</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -631,7 +635,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>release</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
