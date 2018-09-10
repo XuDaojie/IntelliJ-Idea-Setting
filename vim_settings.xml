@@ -84,6 +84,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/ContentController.java" timestamp="1536504272662">
         <mark key="[" line="702" column="44" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/activity/DailyTaskController.java" timestamp="1536587114389" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/build.gradle" timestamp="1535969727358">
         <mark key="[" line="17" column="93" />
         <mark key="]" line="17" column="92" />
@@ -133,7 +134,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-qa.properties" timestamp="1531446114376">
         <mark key="[" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1533612290873">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1536587697592">
         <mark key="[" line="947" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/bootstrap-devcanary.yml" timestamp="1535533565744">
@@ -194,6 +195,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-manage-dev.properties" timestamp="1536043442991">
         <mark key="[" line="6" column="60" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserAwardServiceImpl.java" timestamp="1536586652637" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/activity/AcceptApprenticeController.java" timestamp="1536314678263">
         <mark key="[" line="49" column="98" />
       </file>
@@ -334,6 +336,12 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-precanary.properties" timestamp="1535437544662">
         <mark key="[" line="8" column="45" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserFavoritesController.java" timestamp="1536586249626">
+        <mark key="[" line="130" column="65" />
+        <mark key="]" line="130" column="64" />
+        <mark key="^" line="130" column="64" />
+        <mark key="." line="130" column="64" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-content-qa.properties" timestamp="1535437469405">
         <mark key="[" line="7" column="38" />
       </file>
@@ -356,7 +364,7 @@
         <mark key="]" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1531749339799">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1536587657973">
         <mark key="[" line="208" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-dev.properties" timestamp="1536151925492">
@@ -463,7 +471,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/test.json" timestamp="1536389726436">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1536482104924" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1536585355585" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/common-service-dev.properties" timestamp="1536151807460">
         <mark key="[" line="6" column="60" />
       </file>
@@ -497,13 +505,8 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1536497882501">
-        <mark key="'" line="0" column="48" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/MangeQuartz.java" timestamp="1536510544577" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserFavoritesServiceImpl.java" timestamp="1536585321548" />
     </filemarks>
     <jumps>
       <jump line="47" column="20" filename="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/activity/HomeActivity.java" />
