@@ -374,8 +374,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/ThreadLocalGlobal.java" timestamp="1530542531070">
         <mark key="[" line="19" column="96" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/build.gradle" timestamp="1536571669071">
-        <mark key="[" line="58" column="76" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/build.gradle" timestamp="1536582107075">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-activity-dev.properties" timestamp="1536151854985">
         <mark key="[" line="2" column="27" />
@@ -606,8 +608,8 @@
       <jump line="0" column="48" filename="/fragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>release</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1hdmVuIHsgdXJsICJodHRwOi8vbmV4dXMuNTFmYi5jb20vbmV4dXMvY29udGVudC9ncm91cHMvcHVibGljLyIgfQovLyAgICAgICAgbWF2ZW4geyB1cmwgImh0dHA6Ly8xOTIuMTY4LjEwMS42NTo4MDE4L25leHVzL2NvbnRlbnQvZ3JvdXBzL3B1YmxpYy8iIH0K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -648,7 +650,19 @@
       <register name="0" type="4">
         <text>entries</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1hdmVuIHsgdXJsICJodHRwOi8vbmV4dXMuNTFmYi5jb20vbmV4dXMvY29udGVudC9ncm91cHMvcHVibGljLyIgfQovLyAgICAgICAgbWF2ZW4geyB1cmwgImh0dHA6Ly8xOTIuMTY4LjEwMS42NTo4MDE4L25leHVzL2NvbnRlbnQvZ3JvdXBzL3B1YmxpYy8iIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGNvbXBpbGUgIm5ldC5zZi5laGNhY2hlOmVoY2FjaGU6Mi44LjMiCg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGNvbXBpbGUgImlvLmpzb253ZWJ0b2tlbjpqand0OjAuNy4wIgovLyAgICAgICAgY29tcGlsZSAidG9vbDpjb21tb24tdXRpbDoxLjAuMCIKLy8gICAgICAgIGNvbXBpbGUgImNvbW1vbnMtY29kZWM6Y29tbW9ucy1jb2RlYzoxLjciCi8vICAgICAgICBjb21waWxlICJvcmcuZGJ1bml0OmRidW5pdDoyLjQuOSIKLy8gICAgICAgIGNvbXBpbGUgIm9yZy5ib3VuY3ljYXN0bGU6YmNwcm92LWV4dC1qZGsxNToxLjQ2Igo=</text>
+      </register>
+      <register name="4" type="4">
         <text>else{
             boolean hasDevice = stringRedisTemplate.opsForHash()
                     .hasKey(&quot;device:active&quot;, &quot;device.id:&quot; + deviceId);
@@ -657,38 +671,26 @@
             }
         }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSGJhc2VUZW1wbGF0ZSBoYmFzZVRlbXBsYXRlOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDorr7lpIfmjqjojZDliJfooagKICAgICAgICAgKi8KICAgICAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBSRUNPTU1ERVJfTkVXU19MSVNUID0gIlJFQ09NTURFUl9ORVdTX0xJU1RfIjsKCiAgICAgICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVDT01NREVSX05FV1NfTElTVF9QQUdFPSJSRUNPTU1ERVJfTkVXU19MSVNUX1BBR0VfIjsKCiAgICAgICAgcHVibGljIHN0YXRpYyBTdHJpbmcgTkVXU19QT09MX0tFWV9IT1RfQ0FURSA9ICJORVdTX1BPT0xfS0VZX0hPVF9DQVRFIiA7IC8v5YiG57G754Ot6Zeo5paw6Ze75byA5YWzCiAgICAgICAgcHVibGljIHN0YXRpYyBTdHJpbmcgTkVXU19QT09MX0tFWV9IT1RfQUxMID0gIk5FV1NfUE9PTF9LRVlfSE9UX0FMTCIgOyAgIC8v5omA5pyJ54Ot6Zeo5paw6Ze75byA5YWzCiAgICAgICAgcHVibGljIHN0YXRpYyBTdHJpbmcgTkVXU19QT09MX0tFWV9DT0xEX0NBVEUgPSAiTkVXU19QT09MX0tFWV9DT0xEX0NBVEUiIDsgLy/liIbnsbvlhrfpl6jmlrDpl7vlvIDlhbMKICAgICAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBORVdTX1BPT0xfS0VZX0FMUyA9ICJORVdTX1BPT0xfS0VZX0FMUyIgOy8v5Y2P5ZCM6L+H5ruk5paw6Ze75byA5YWzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoUHJvYmxlbUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICByZWNvdmVyKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSGJhc2VUZW1wbGF0ZSBoYmFzZVRlbXBsYXRlOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDorr7lpIfmjqjojZDliJfooagKICAgICAgICAgKi8KICAgICAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBSRUNPTU1ERVJfTkVXU19MSVNUID0gIlJFQ09NTURFUl9ORVdTX0xJU1RfIjsKCiAgICAgICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVDT01NREVSX05FV1NfTElTVF9QQUdFPSJSRUNPTU1ERVJfTkVXU19MSVNUX1BBR0VfIjsKCiAgICAgICAgcHVibGljIHN0YXRpYyBTdHJpbmcgTkVXU19QT09MX0tFWV9IT1RfQ0FURSA9ICJORVdTX1BPT0xfS0VZX0hPVF9DQVRFIiA7IC8v5YiG57G754Ot6Zeo5paw6Ze75byA5YWzCiAgICAgICAgcHVibGljIHN0YXRpYyBTdHJpbmcgTkVXU19QT09MX0tFWV9IT1RfQUxMID0gIk5FV1NfUE9PTF9LRVlfSE9UX0FMTCIgOyAgIC8v5omA5pyJ54Ot6Zeo5paw6Ze75byA5YWzCiAgICAgICAgcHVibGljIHN0YXRpYyBTdHJpbmcgTkVXU19QT09MX0tFWV9DT0xEX0NBVEUgPSAiTkVXU19QT09MX0tFWV9DT0xEX0NBVEUiIDsgLy/liIbnsbvlhrfpl6jmlrDpl7vlvIDlhbMKICAgICAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBORVdTX1BPT0xfS0VZX0FMUyA9ICJORVdTX1BPT0xfS0VZX0FMUyIgOy8v5Y2P5ZCM6L+H5ruk5paw6Ze75byA5YWzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjIyDms6jop6MKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoUHJvYmxlbUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICByZWNvdmVyKCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
