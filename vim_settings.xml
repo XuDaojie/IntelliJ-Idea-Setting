@@ -10,11 +10,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/content/HomeContentQuartz.java" timestamp="1536510590011">
         <mark key="[" line="137" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/build.gradle" timestamp="1553246990119">
-        <mark key="[" line="8" column="66" />
-        <mark key="]" line="8" column="66" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/build.gradle" timestamp="1553248040592">
+        <mark key="[" line="3" column="78" />
+        <mark key="]" line="3" column="78" />
         <mark key="^" line="8" column="38" />
-        <mark key="." line="8" column="66" />
+        <mark key="." line="3" column="78" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/build.gradle" timestamp="1553247430097">
         <mark key="[" line="10" column="0" />
@@ -110,8 +110,7 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553247358717">
-        <mark key="a" line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1553248051826">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -266,8 +265,8 @@
       <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNsYXNzcGF0aCAnb3JnLmFraGlraGwuZ3JldHR5OmdyZXR0eToxLjQuMicK</text>
+      <register name="&quot;" type="4">
+        <text>32323</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -300,7 +299,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:${springBootVersion}</text>
+        <text>32323</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
