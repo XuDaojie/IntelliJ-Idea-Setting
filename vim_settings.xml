@@ -10,6 +10,17 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/content/HomeContentQuartz.java" timestamp="1536510590011">
         <mark key="[" line="137" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/build.gradle" timestamp="1553246990119">
+        <mark key="[" line="8" column="66" />
+        <mark key="]" line="8" column="66" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="66" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/build.gradle" timestamp="1553247430097">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1553186524139" />
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/service/impl/WalletServiceImpl.java" timestamp="1536512638679">
         <mark key="[" line="269" column="13" />
@@ -99,7 +110,7 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553226138227">
+      <file name="/Dummy.txt" timestamp="1553247358717">
         <mark key="a" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -135,7 +146,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/请求及响应.md" timestamp="1536574644914">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-boot/build.gradle" timestamp="1553234853161">
+      <file name="$USER_HOME$/IdeaProjects/news-boot/build.gradle" timestamp="1553246793098">
         <mark key="[" line="54" column="86" />
       </file>
       <file name="/fragment.java" timestamp="1536939967207">
@@ -145,10 +156,11 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/build.gradle" timestamp="1553242073267">
+      <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/build.gradle" timestamp="1553247157375">
         <mark key="[" line="1" column="84" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -255,7 +267,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNsYXNzcGF0aCAnb3JnLmFraGlraGwuZ3JldHR5OmdyZXR0eToxLjQuMicK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -288,7 +300,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bootRun</text>
+        <text>:${springBootVersion}</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -297,26 +309,26 @@
         <text>entries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNsYXNzcGF0aCAnb3JnLmFraGlraGwuZ3JldHR5OmdyZXR0eToxLjQuMicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGFzayBib290UnVuRGV2KHR5cGU6IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5ncmFkbGUudGFza3MucnVuLkJvb3RSdW4pIHsKICAgIGp2bUFyZ3MgPSBbIi1hZ2VudGxpYjpqZHdwPXRyYW5zcG9ydD1kdF9zb2NrZXQsc2VydmVyPXksc3VzcGVuZD15LGFkZHJlc3M9MzIzMjMiLAogICAgICAgICAgICAgICAiLURzcHJpbmcucHJvZmlsZXMuYWN0aXZlPWRldiJdCn0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBIYmFzZSBqYXLljIXku5PlupMKICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9yZXBvc2l0b3J5LmNsb3VkZXJhLmNvbS9hcnRpZmFjdG9yeS9jbG91ZGVyYS1yZXBvcyJ9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dGFzayBib290UnVuRGV2KHR5cGU6IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5ncmFkbGUudGFza3MucnVuLkJvb3RSdW4pIHsKICAgIGp2bUFyZ3MgPSBbIi1hZ2VudGxpYjpqZHdwPXRyYW5zcG9ydD1kdF9zb2NrZXQsc2VydmVyPXksc3VzcGVuZD15LGFkZHJlc3M9MzIzMjMiLAogICAgICAgICAgICAgICAiLURzcHJpbmcucHJvZmlsZXMuYWN0aXZlPWRldiJdCn0K</text>
+      </register>
+      <register name="5" type="4">
         <text>/    args = [&quot;--spring.output.ansi.enabled=ALWAYS&quot;, &quot;--spring.profiles.active=dev&quot;]
 //    jvmArgs = [&quot;-Dspring.profiles.active=dev&quot;]
     doFirst() {
         systemProperty '--spring.profiles.active' 'dev'
     }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -325,16 +337,16 @@
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly90YXNrIGJvb3RSdW5EZWJ1ZyhkZXBlbmRzb246IGJvb3RSdW4pIHsKLy8vLyAgICBncm91cCBhcHBsaWNhdGlvbgovLy8vICAgIGp2bUFyZ3M9WyItYWdlbnRsaWI6amR3cD10cmFuc3BvcnQ9ZHRfc29ja2V0LHNlcnZlcj15LHN1c3BlbmQ9eSxhZGRyZXNzPTMyMzIzIl0KLy99CgovL3Rhc2sgYWEoZGVwZW5kc09uOiBib290UnVuKSB7Ci8vICAgIGdyb3VwICdhcHBsaWNhdGlvbicKLy8gICAganZtQXJncyA9IFsiLWFnZW50bGliOmpkd3A9dHJhbnNwb3J0PWR0X3NvY2tldCxzZXJ2ZXI9eSxzdXNwZW5kPXksYWRkcmVzcz0zMjMyMyJdCi8vfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN5c3RlbVByb3BlcnRpZXMgPSBTeXN0ZW0ucHJvcGVydGllcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBleGVjU3BlYyB7CiAgICAgICAgc3lzdGVtUHJvcGVydGllcyA9IFN5c3RlbS5wcm9wZXJ0aWVzCiAgICB9Cg==</text>
+        <text encoding="base64">Ly90YXNrIGJvb3RSdW5EZWJ1ZyhkZXBlbmRzb246IGJvb3RSdW4pIHsKLy8vLyAgICBncm91cCBhcHBsaWNhdGlvbgovLy8vICAgIGp2bUFyZ3M9WyItYWdlbnRsaWI6amR3cD10cmFuc3BvcnQ9ZHRfc29ja2V0LHNlcnZlcj15LHN1c3BlbmQ9eSxhZGRyZXNzPTMyMzIzIl0KLy99CgovL3Rhc2sgYWEoZGVwZW5kc09uOiBib290UnVuKSB7Ci8vICAgIGdyb3VwICdhcHBsaWNhdGlvbicKLy8gICAganZtQXJncyA9IFsiLWFnZW50bGliOmpkd3A9dHJhbnNwb3J0PWR0X3NvY2tldCxzZXJ2ZXI9eSxzdXNwZW5kPXksYWRkcmVzcz0zMjMyMyJdCi8vfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
