@@ -3,9 +3,6 @@
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery_3.2.1_jquery.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES />
       <DOCUMENTATION>
