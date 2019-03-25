@@ -7,24 +7,10 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery_3.2.1_jquery.js" />
         </sourceFilesUrls>
       </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery_3.2.1_jquery.js" />
-      </CLASSES>
+      <CLASSES />
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
       </DOCUMENTATION>
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="material" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.getmdl.io_1.3.0_material.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.getmdl.io_1.3.0_material.js" />
-      </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
