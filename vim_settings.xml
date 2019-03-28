@@ -201,6 +201,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e6156071-ea4a-4716-a19f-8accde962bc5/console.sql" timestamp="1553705154151">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/controller/api/AppMessageController.java" timestamp="1553766291316">
+        <mark key="[" line="50" column="70" />
+        <mark key="]" line="50" column="70" />
+        <mark key="^" line="51" column="4" />
+        <mark key="." line="50" column="70" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/build.gradle" timestamp="1553678689154">
         <mark key="[" line="26" column="25" />
       </file>
@@ -315,7 +321,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHB1YmxpYyBJT1MgZ2V0SW9zKCkgewogICAgICAgIHJldHVybiBpb3M7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0SW9zKElPUyBpb3MpIHsKICAgICAgICB0aGlzLmlvcyA9IGlvczsKICAgIH0=</text>
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -348,7 +354,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>JPushProperties</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
