@@ -28,6 +28,7 @@
       <file name="/news_common.news_message_app_log [pro_news_common@192.168.115.31]" timestamp="1553707329889">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/mapper/FollowingPeopleMapper.java" timestamp="1553839660821" />
       <file name="/UserAttentionController.java" timestamp="1553837539367" />
       <file name="$USER_HOME$/IdeaProjects/news-recommend/src/main/java/com/ald/news/recommend/dao/dto/ResourceMongoDBDo.java" timestamp="1553781539015">
         <mark key="[" line="16" column="4" />
@@ -60,11 +61,22 @@
         <mark key="^" line="27" column="14" />
         <mark key="." line="27" column="14" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/FollowingPeopleRepository.java" timestamp="1553840450255">
+        <mark key="[" line="83" column="15" />
+        <mark key="]" line="83" column="15" />
+        <mark key="." line="83" column="15" />
+      </file>
       <file name="/news_common.news_app_message [pro_news_common@192.168.115.31]" timestamp="1553705120965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/SvideoManageController.java" timestamp="1553600463503">
         <mark key="[" line="181" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/FollowingController.java" timestamp="1553840257961">
+        <mark key="[" line="58" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/FollowingServiceImpl.java" timestamp="1553840247390">
+        <mark key="[" line="102" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserFavoritesController.java" timestamp="1536586249626">
         <mark key="[" line="130" column="65" />
@@ -124,6 +136,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-comment/build.gradle" timestamp="1553519462371">
         <mark key="[" line="8" column="62" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/FollowingPeopleDataSource.java" timestamp="1553840457623">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
       </file>
       <file name="/news_common.news_code_log [pro_news_common@192.168.115.31]" timestamp="1553778642273">
         <mark key="[" line="0" column="0" />
@@ -228,13 +245,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/build.gradle" timestamp="1553678689154">
         <mark key="[" line="26" column="25" />
-      </file>
-      <file name="/fragment.java" timestamp="1553781666082">
-        <mark key="'" line="0" column="48" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/build.gradle" timestamp="1553679373336">
         <mark key="[" line="0" column="0" />
@@ -347,7 +357,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>Long</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -380,7 +390,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
