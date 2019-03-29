@@ -39,10 +39,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1553861463409" />
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/FollowingPeopleRepository.java" timestamp="1553866415341">
-        <mark key="[" line="82" column="73" />
-        <mark key="]" line="83" column="38" />
-        <mark key="." line="83" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/FollowingPeopleRepository.java" timestamp="1553885186306">
+        <mark key="]" line="39" column="15" />
+        <mark key="^" line="39" column="15" />
+        <mark key="." line="39" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/mapper/FollowingSubjectMapper.java" timestamp="1553848743535">
         <mark key="[" line="27" column="69" />
@@ -129,10 +129,10 @@
       <file name="/a.sql" timestamp="1553860385534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/FollowingPeopleDataSource.java" timestamp="1553841994260">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/FollowingPeopleDataSource.java" timestamp="1553868641015">
+        <mark key="[" line="25" column="59" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
       </file>
       <file name="/news_common.news_code_log [pro_news_common@192.168.115.31]" timestamp="1553778642273">
         <mark key="[" line="0" column="0" />
@@ -212,7 +212,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1553867572530">
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1553868573264">
         <mark key="[" line="37" column="82" />
         <mark key="]" line="37" column="82" />
         <mark key="." line="37" column="82" />
@@ -334,7 +334,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>selectFollowingsByUserId</text>
+        <text>selectByExample</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -367,7 +367,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>selectFollowingsByUserId</text>
+        <text>selectByExample</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
