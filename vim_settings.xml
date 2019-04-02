@@ -299,7 +299,7 @@
       <file name="$USER_HOME$/IdeaProjects/common/gradle/wrapper/gradle-wrapper.properties" timestamp="1553774389729">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554208093472">
+      <file name="/Dummy.txt" timestamp="1554216185124">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536573864658">
@@ -341,13 +341,13 @@
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/controller/api/UserReadSourceController.java" timestamp="1554198384323">
         <mark key="[" line="49" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554208107230">
-        <mark key="[" line="378" column="46" />
-        <mark key="]" line="372" column="57" />
-        <mark key="^" line="372" column="57" />
-        <mark key="." line="372" column="57" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554215736914">
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="124" column="12" />
+        <mark key="^" line="375" column="57" />
+        <mark key="." line="124" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1554209002296">
+      <file name="/fragment.java" timestamp="1554216087533">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -457,7 +457,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>targetId</text>
+        <text>subjectDo.getId()</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -490,7 +490,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>targetId</text>
+        <text>subjectDo.getId()</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
