@@ -33,7 +33,7 @@
         <mark key="]" line="24" column="12" />
         <mark key="." line="24" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/subscriber/JokeSubscriber.java" timestamp="1554148138024">
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/subscriber/JokeSubscriber.java" timestamp="1554182806547">
         <mark key="[" line="31" column="15" />
         <mark key="]" line="31" column="15" />
         <mark key="." line="31" column="15" />
@@ -47,7 +47,9 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/SvideoManageController.java" timestamp="1553600463503">
         <mark key="[" line="181" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/NotificationController.java" timestamp="1554176543297" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/NotificationController.java" timestamp="1554186883621">
+        <mark key="[" line="86" column="5" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NewsArticleRepository.java" timestamp="1554150807638">
         <mark key="[" line="312" column="30" />
         <mark key="]" line="312" column="30" />
@@ -143,8 +145,8 @@
         <mark key="]" line="28" column="33" />
         <mark key="." line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/InnerNotificationController.java" timestamp="1554035478519">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/InnerNotificationController.java" timestamp="1554187113935">
+        <mark key="[" line="10" column="17" />
       </file>
       <file name="/news_forum.news_subject [@192.168.115.105]" timestamp="1554063610174">
         <mark key="[" line="0" column="0" />
@@ -166,8 +168,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e6156071-ea4a-4716-a19f-8accde962bc5/console.sql" timestamp="1553705154151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/ArticleBean.java" timestamp="1554108469984">
-        <mark key="[" line="84" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/ArticleBean.java" timestamp="1554189736588">
+        <mark key="[" line="89" column="28" />
+        <mark key="]" line="89" column="28" />
+        <mark key="." line="89" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/event/JokeCheckEvent.java" timestamp="1554130759279">
         <mark key="[" line="8" column="46" />
@@ -241,6 +245,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/ComSubjectController.java" timestamp="1554184726394">
+        <mark key="[" line="151" column="5" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1536655174775">
         <mark key="[" line="208" column="0" />
       </file>
@@ -286,7 +293,7 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554172943025">
+      <file name="/Dummy.txt" timestamp="1554190053825">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -326,14 +333,16 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/ArticleServiceImpl.java" timestamp="1554148455299">
         <mark key="[" line="190" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554177705517">
-        <mark key="[" line="362" column="93" />
-        <mark key="]" line="362" column="93" />
-        <mark key="^" line="123" column="56" />
-        <mark key="." line="362" column="93" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554189646205">
+        <mark key="[" line="186" column="10" />
+        <mark key="]" line="186" column="10" />
+        <mark key="^" line="286" column="58" />
+        <mark key="." line="186" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1554177475992">
+      <file name="/fragment.java" timestamp="1554189637492">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -440,7 +449,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, SetOption.SET_IF_ABSENT</text>
+        <text>long</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -473,7 +482,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, SetOption.SET_IF_ABSENT</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -482,6 +491,15 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">RGF0ZSBkYXRlID0gbmV3IERhdGUoKTsKICAgICAgICAgICAgRXhhbXBsZSBleGFtcGxlMiA9IG5ldyBFeGFtcGxlKFN1YmplY3RSZXNvdXJjZURPLmNsYXNzKTsKICAgICAgICAgICAgZXhhbXBsZTIuY3JlYXRlQ3JpdGVyaWEoKQogICAgICAgICAgICAgICAgLmFuZEVxdWFsVG8oInJlc291cmNlSWQiLCBuZXdzQXJ0aWNsZURvLmdldElkKCkpOwogICAgICAgICAgICBMaXN0PFN1YmplY3RSZXNvdXJjZURPPiBzdWJqZWN0UmVzb3VyY2VETyA9IHN1YmplY3RSZXNvdXJjZURhdGFTb3VyY2Uuc2VsZWN0QnlFeGFtcGxlKGV4YW1wbGUyKTsKICAgICAgICAgICAgU3RyaW5nIGtleSA9ICJmb3J1bTpzdWJqZWN0OnB1Ymxpc2giICsgRGF0ZUZvcm1hdFV0aWxzLmZvcm1hdChkYXRlLCAiTU1kZGhoIikgKyAiOnNpemUiOwogICAgICAgICAgICBpZiAoIXN0cmluZ1JlZGlzVGVtcGxhdGUuaGFzS2V5KGtleSkpIHsKICAgICAgICAgICAgICAgIHN0cmluZ1JlZGlzVGVtcGxhdGUub3BzRm9ySGFzaCgpLnB1dElmQWJzZW50KGtleSwgImRlZmF1bHQiLCAiMCIpOwogICAgICAgICAgICAgICAgc3RyaW5nUmVkaXNUZW1wbGF0ZS5leHBpcmUoa2V5LCAyLCBUaW1lVW5pdC5IT1VSUyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KHN1YmplY3RSZXNvdXJjZURPKSkgewogICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzdWJqZWN0UmVzb3VyY2VETy5zaXplKCk7IGkrKykgewogICAgICAgICAgICAgICAgICAgIHN0cmluZ1JlZGlzVGVtcGxhdGUub3BzRm9ySGFzaCgpLmluY3JlbWVudChrZXksIHN1YmplY3RSZXNvdXJjZURPLmdldChpKS5nZXRTdWJqZWN0SWQoKSArICIiLCAxTCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">U0VMRUNUIGlkLHVzZXJfaWQsdG9fdXNlcl9pZCxnbXRfY3JlYXRlLGdtdF91cGRhdGUsaXNfbXV0ZSBGUk9NIG5ld3NfcGVvcGxlX2ZvbGxvd2luZyBXSEVSRSAoIHVzZXJfaWQgPSA/IGFuZCBpc19tdXRlID0gPyApCg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>//            jPush.push pushNoticeKeyList pushUserIdList  message
             //1咕咕鸡 2小视频 3 潮闻
 //            UserDto authorDto = userService.getUserSimpleInfoByUserId(authorId);
@@ -494,38 +512,29 @@
 //                newsManageClient.push(pushRequest);
 //            }</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">bmV3c0FydGljbGVEbyA9IGV2ZW50LmdldERhdGEoKTsKICAgICAgICBMaXN0PExvbmc+IHN1YmplY3RJZA==</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">UmVzcG9uc2UgcmVwbyA9IG1hbmFnZUZvcnVtQ2xpZW50LmF1ZGl0QXJ0aWNsZShkYXRhSWQsIGF1ZGl0QXJ0aWNsZURUTykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGF0YUlkCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0QXV0aG9ySWQoKSB7CiAgICAgICAgcmV0dXJuIGF1dGhvcklkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEF1dGhvcklkKGludCBhdXRob3JJZCkgewogICAgICAgIHRoaXMuYXV0aG9ySWQgPSBhdXRob3JJZDsKICAgIH0K</text>
+        <text encoding="base64">UmVzcG9uc2UgcmVwbyA9IG1hbmFnZUZvcnVtQ2xpZW50LmF1ZGl0QXJ0aWNsZShkYXRhSWQsIGF1ZGl0QXJ0aWNsZURUTykK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8gICAgLyoqCi8vICAgICAqIHRvZG8g6L2s56e75Yiwc3ViamVjdCBkYXRhc291cmNl5LitCi8vICAgICAqLwovLyAgICBAT3ZlcnJpZGUKLy8gICAgcHVibGljIGJvb2xlYW4gdGVtcFN1YmplY3RMaXN0KE9iamVjdCBzdWJqZWN0KSB7Ci8vICAgICAgICBpZiAoc3ViamVjdCAhPSBudWxsICYmIHN1YmplY3QgaW5zdGFuY2VvZiBTdWJqZWN0Rm9sbG93aW5nRG8pIHsKLy8vLyAgICAgICAgICAgIExvbmcgc3ViamVjdElkID0gKChTdWJqZWN0Rm9sbG93aW5nRG8pIHN1YmplY3QpLmdldFN1YmplY3RJZCgpOwovLyAgICAgICAgICAgIC8vIHRvZG8KLy8gICAgICAgICAgICBMaXN0PExvbmc+IHN1YmplY3RJZExpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKLy8KLy8vLyAgICAgICAgICAgIEV4YW1wbGUgZXhhbXBsZSA9IG5ldyBFeGFtcGxlKFN1YmplY3RGb2xsb3dpbmdEby5jbGFzcyk7Ci8vLy8gICAgICAgICAgICBleGFtcGxlLmNyZWF0ZUNyaXRlcmlhKCkKLy8vLyAgICAgICAgICAgICAgICAuYW5kSW4oInN1YmplY3RfaWQiLCBzdWJqZWN0SWRMaXN0KTsKLy8KLy8gICAgICAgICAgICBzdHJpbmdSZWRpc1RlbXBsYXRlLmV4ZWN1dGVQaXBlbGluZWQoKFJlZGlzQ2FsbGJhY2s8U3RyaW5nPikgY29ubmVjdGlvbiAtPiB7Ci8vICAgICAgICAgICAgICAgIFN0cmluZ1JlZGlzQ29ubmVjdGlvbiBzdHJpbmdSZWRpc0Nvbm4gPSAoU3RyaW5nUmVkaXNDb25uZWN0aW9uKSBjb25uZWN0aW9uOwovLyAgICAgICAgICAgICAgICBTdHJpbmcga2V5ID0gImZvcnVtOnN1YmplY3Q6cHVibGlzaCIgKyBEYXRlRm9ybWF0VXRpbHMuZm9ybWF0KG5ldyBEYXRlKCksICJNTWRkaGg6c2l6ZSIpOwovLyAgICAgICAgICAgICAgICBpZiAoIXN0cmluZ1JlZGlzQ29ubi5leGlzdHMoa2V5KSkgc3RyaW5nUmVkaXNDb25uLmhTZXROWChrZXksICJkZWZhdWx0IiwgIjAiKTsKLy8gICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzdWJqZWN0SWRMaXN0LnNpemUoKTsgaSsrKSB7Ci8vICAgICAgICAgICAgICAgICAgICBMb25nIHN1YmplY3RJZCA9IHN1YmplY3RJZExpc3QuZ2V0KGkpOwovLyAgICAgICAgICAgICAgICAgICAgc3RyaW5nUmVkaXNDb25uLmhJbmNyQnkoa2V5LCBzdWJqZWN0SWQgKyAiIiwgMUwpOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgICAgIH0pOwovLyAgICAgICAgfQovLwovLyAgICAgICAgcmV0dXJuIGZhbHNlOwovLyAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZGF0YUlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gdGFnICAgICAgcGVvcGxlIHN1YmplY3RzCiAgICAgKiBAcGFyYW0gZXZlbnRzICAgZm9sbG93IHVuZm9sbG93IG11dGUKICAgICAqIEBwYXJhbSB1c2VySWQgICDlvZPliY3nlKjmiLdJRAogICAgICogQHBhcmFtIHRhcmdldElkIOiiq+WFs+azqOeUqOaIt0lE44CB6K+d6aKYSUQKICAgICAqLwogICAgQFBvc3RNYXBwaW5nKCIvdHJhbnNmZXIiKQogICAgcHVibGljIFJlc3BvbnNlIGhhbmRsZVVzZXJGb2xsb3dpbmdUcmFuc2ZlcihAUmVxdWVzdFBhcmFtKCJ0YWciKSBTdHJpbmcgdGFnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKCJldmVudHMiKSBTdHJpbmcgZXZlbnRzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKCJ1c2VySWQiKSBMb25nIHVzZXJJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgidGFyZ2V0SWQiKSBMb25nIHRhcmdldElkKSB7CiAgICAgICAgQmFzZUpzb25RdWVyeTxMb25nPiBiYXNlSnNvblF1ZXJ5ID0gbmV3IEJhc2VKc29uUXVlcnk8PigpOwogICAgICAgIGJhc2VKc29uUXVlcnkuc2V0RXZlbnRzKGV2ZW50cyk7CiAgICAgICAgYmFzZUpzb25RdWVyeS5zZXRDb25kaXRpb25zKENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QodGFyZ2V0SWQpKTsKCiAgICAgICAgaWYgKCJtdXRlIi5lcXVhbHMoZXZlbnRzKSAmJiAicGVvcGxlIi5lcXVhbHModGFnKSkgewogICAgICAgICAgICAvLyB0b2RvIHNhdmVGb2xsb3dpbmdSZWxhdGlvblNoaXAg6ZyA6KaB6YeN5p6ECg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0QXV0aG9ySWQoKSB7CiAgICAgICAgcmV0dXJuIGF1dGhvcklkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEF1dGhvcklkKGludCBhdXRob3JJZCkgewogICAgICAgIHRoaXMuYXV0aG9ySWQgPSBhdXRob3JJZDsKICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8g5pqC5pe25Y+W5raI55So5oi35LqS5Yqo6KGM5Li65o6o6YCBCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ly8gICAgLyoqCi8vICAgICAqIHRvZG8g6L2s56e75Yiwc3ViamVjdCBkYXRhc291cmNl5LitCi8vICAgICAqLwovLyAgICBAT3ZlcnJpZGUKLy8gICAgcHVibGljIGJvb2xlYW4gdGVtcFN1YmplY3RMaXN0KE9iamVjdCBzdWJqZWN0KSB7Ci8vICAgICAgICBpZiAoc3ViamVjdCAhPSBudWxsICYmIHN1YmplY3QgaW5zdGFuY2VvZiBTdWJqZWN0Rm9sbG93aW5nRG8pIHsKLy8vLyAgICAgICAgICAgIExvbmcgc3ViamVjdElkID0gKChTdWJqZWN0Rm9sbG93aW5nRG8pIHN1YmplY3QpLmdldFN1YmplY3RJZCgpOwovLyAgICAgICAgICAgIC8vIHRvZG8KLy8gICAgICAgICAgICBMaXN0PExvbmc+IHN1YmplY3RJZExpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKLy8KLy8vLyAgICAgICAgICAgIEV4YW1wbGUgZXhhbXBsZSA9IG5ldyBFeGFtcGxlKFN1YmplY3RGb2xsb3dpbmdEby5jbGFzcyk7Ci8vLy8gICAgICAgICAgICBleGFtcGxlLmNyZWF0ZUNyaXRlcmlhKCkKLy8vLyAgICAgICAgICAgICAgICAuYW5kSW4oInN1YmplY3RfaWQiLCBzdWJqZWN0SWRMaXN0KTsKLy8KLy8gICAgICAgICAgICBzdHJpbmdSZWRpc1RlbXBsYXRlLmV4ZWN1dGVQaXBlbGluZWQoKFJlZGlzQ2FsbGJhY2s8U3RyaW5nPikgY29ubmVjdGlvbiAtPiB7Ci8vICAgICAgICAgICAgICAgIFN0cmluZ1JlZGlzQ29ubmVjdGlvbiBzdHJpbmdSZWRpc0Nvbm4gPSAoU3RyaW5nUmVkaXNDb25uZWN0aW9uKSBjb25uZWN0aW9uOwovLyAgICAgICAgICAgICAgICBTdHJpbmcga2V5ID0gImZvcnVtOnN1YmplY3Q6cHVibGlzaCIgKyBEYXRlRm9ybWF0VXRpbHMuZm9ybWF0KG5ldyBEYXRlKCksICJNTWRkaGg6c2l6ZSIpOwovLyAgICAgICAgICAgICAgICBpZiAoIXN0cmluZ1JlZGlzQ29ubi5leGlzdHMoa2V5KSkgc3RyaW5nUmVkaXNDb25uLmhTZXROWChrZXksICJkZWZhdWx0IiwgIjAiKTsKLy8gICAgICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzdWJqZWN0SWRMaXN0LnNpemUoKTsgaSsrKSB7Ci8vICAgICAgICAgICAgICAgICAgICBMb25nIHN1YmplY3RJZCA9IHN1YmplY3RJZExpc3QuZ2V0KGkpOwovLyAgICAgICAgICAgICAgICAgICAgc3RyaW5nUmVkaXNDb25uLmhJbmNyQnkoa2V5LCBzdWJqZWN0SWQgKyAiIiwgMUwpOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgICAgIH0pOwovLyAgICAgICAgfQovLwovLyAgICAgICAgcmV0dXJuIGZhbHNlOwovLyAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
