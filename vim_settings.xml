@@ -53,13 +53,16 @@
         <mark key="^" line="95" column="42" />
         <mark key="." line="92" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/FollowingController.java" timestamp="1554209160679" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/FollowingController.java" timestamp="1554213350005">
+        <mark key="[" line="59" column="42" />
+        <mark key="]" line="59" column="42" />
+        <mark key="." line="59" column="42" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NewsArticleRepository.java" timestamp="1554150807638">
         <mark key="[" line="312" column="30" />
         <mark key="]" line="312" column="30" />
         <mark key="." line="312" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/InnerArticleController.java" timestamp="1554148518719" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/FollowingServiceImpl.java" timestamp="1554210030965">
         <mark key="[" line="374" column="61" />
         <mark key="]" line="374" column="61" />
@@ -126,7 +129,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/InnerActiveController.java" timestamp="1536409196205">
         <mark key="[" line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/interceptor/ManageInterceptor.java" timestamp="1554146686668" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/IJokeService.java" timestamp="1554049717158">
         <mark key="[" line="32" column="26" />
       </file>
@@ -288,7 +290,6 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/FollowingService.java" timestamp="1553846463783">
         <mark key="[" line="25" column="66" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/JokeServiceImpl.java" timestamp="1554130810387" />
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1536893700375">
         <mark key="[" line="19" column="26" />
       </file>
@@ -456,7 +457,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>messageId</text>
+        <text>targetId</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -489,7 +490,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>messageId</text>
+        <text>targetId</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -497,44 +498,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBwdWJsaWMgTG9uZyBnZXRUb1VzZXJJZCgpIHsKICAgICAgICByZXR1cm4gdG9Vc2VySWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VG9Vc2VySWQoTG9uZyB0b1VzZXJJZCkgewogICAgICAgIHRoaXMudG9Vc2VySWQgPSB0b1VzZXJJZDsKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>NotificationReadLogDO notificationReadLogDO = new NotificationReadLogDO();
-            notificationReadLogDO.setIsRead(1);
-            notificationService.update()</text>
+        <text encoding="base64">ICBwdWJsaWMgTG9uZyBnZXRUb1VzZXJJZCgpIHsKICAgICAgICByZXR1cm4gdG9Vc2VySWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VG9Vc2VySWQoTG9uZyB0b1VzZXJJZCkgewogICAgICAgIHRoaXMudG9Vc2VySWQgPSB0b1VzZXJJZDsKICAgIH0=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text>NotificationReadLogDO notificationReadLogDO = new NotificationReadLogDO();
+            notificationReadLogDO.setIsRead(1);
+            notificationService.update()</text>
+      </register>
+      <register name="4" type="4">
         <text>@RequestParam Long followingId,
                          @RequestParam Integer type,</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aWYgKGZvbGxvd2luZ0lkID09IG51bGwgJiYgc3ViamVjdElkID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmJhZCgpLmJ1aWxkKCk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAuYW5kRXF1YWxUbygiaXNSZWFkIiwgIjAiKTsK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZm9sbG93aW5nSWQgPT0gbnVsbCAmJiAgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkuYnVpbGQoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAuYW5kRXF1YWxUbygiaXNSZWFkIiwgIjAiKTsK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZm9sbG93aW5nSWQgPT0gbnVsbCAmJiAgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkuYnVpbGQoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJmb2xsb3dlcl91bnJlYWRfbnVtIikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJsaWtlX3VucmVhZF9udW0iKQo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJmb2xsb3dlcl91bnJlYWRfbnVtIikK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
