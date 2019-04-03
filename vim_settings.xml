@@ -324,7 +324,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/ComSubjectController.java" timestamp="1554184726394">
         <mark key="[" line="151" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/data/repository/impl/UserReadSourceRepository.java" timestamp="1554303885300">
+      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/data/repository/impl/UserReadSourceRepository.java" timestamp="1554305793988">
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
@@ -407,10 +407,8 @@
         <mark key="^" line="219" column="39" />
         <mark key="." line="219" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1554303168539">
+      <file name="/fragment.java" timestamp="1554305577257">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -517,7 +515,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VTdGF0aXN0aWNzRG8uc2V0TGFzdGVkTXNnSWQobXNnSWQpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbWVzc2FnZVN0YXRpc3RpY3NEby5zZXRMYXN0ZWRNc2dJZChtc2dJZCk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -550,7 +548,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text>idByLastedId</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -559,41 +557,41 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VTdGF0aXN0aWNzRG8uc2V0TGFzdGVkTXNnSWQobXNnSWQpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbWVzc2FnZVN0YXRpc3RpY3NEby5zZXRMYXN0ZWRNc2dJZChtc2dJZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PERhdGFCZWFuLkxpc3RCZWFuLlJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IGdldFJlc291cmNlTW9uZ29EQkRvTGlzdCgpIHsKICAgICAgICByZXR1cm4gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJlc291cmNlTW9uZ29EQkRvTGlzdChMaXN0PERhdGFCZWFuLkxpc3RCZWFuLlJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IHJlc291cmNlTW9uZ29EQkRvTGlzdCkgewogICAgICAgIHRoaXMucmVzb3VyY2VNb25nb0RCRG9MaXN0ID0gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VTdGF0aXN0aWNzRG8uc2V0TGFzdGVkTXNnSWQobXNnSWQpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IGdldFJlc291cmNlTW9uZ29EQkRvTGlzdCgpIHsKICAgICAgICByZXR1cm4gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJlc291cmNlTW9uZ29EQkRvTGlzdChMaXN0PFJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IHJlc291cmNlTW9uZ29EQkRvTGlzdCkgewogICAgICAgIHRoaXMucmVzb3VyY2VNb25nb0RCRG9MaXN0ID0gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VTdGF0aXN0aWNzRG8uc2V0TGFzdGVkTXNnSWQobXNnSWQpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>ResourceMongoDBDo resourceMongoDBDo = new ResourceMongoDBDo();
-                    BeanUtils.copy(resourceMongoDBDoListResp.getData().get(i), resourceMongoDBDo);</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PERhdGFCZWFuLkxpc3RCZWFuLlJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IGdldFJlc291cmNlTW9uZ29EQkRvTGlzdCgpIHsKICAgICAgICByZXR1cm4gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJlc291cmNlTW9uZ29EQkRvTGlzdChMaXN0PERhdGFCZWFuLkxpc3RCZWFuLlJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IHJlc291cmNlTW9uZ29EQkRvTGlzdCkgewogICAgICAgIHRoaXMucmVzb3VyY2VNb25nb0RCRG9MaXN0ID0gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyByZXNvdXJjZUlkID0gc3ViamVjdERvLmdldFJlc291cmNlc0lkcygpOwogICAgICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsocmVzb3VyY2VJZCkpIHsKICAgICAgICAgICAgICAgICAgICByZXNvcmNlSWRMaXN0LmFkZChyZXNvdXJjZUlkKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IGdldFJlc291cmNlTW9uZ29EQkRvTGlzdCgpIHsKICAgICAgICByZXR1cm4gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJlc291cmNlTW9uZ29EQkRvTGlzdChMaXN0PFJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IHJlc291cmNlTW9uZ29EQkRvTGlzdCkgewogICAgICAgIHRoaXMucmVzb3VyY2VNb25nb0RCRG9MaXN0ID0gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="6" type="4">
+        <text>ResourceMongoDBDo resourceMongoDBDo = new ResourceMongoDBDo();
+                    BeanUtils.copy(resourceMongoDBDoListResp.getData().get(i), resourceMongoDBDo);</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHVibGljIExpc3Q8UmVzb3VyY2VNb25nb0RCRG9MaXN0QmVhbj4gZ2V0UmVzb3VyY2VNb25nb0RCRG9MaXN0KCkgewogICAgICAgIHJldHVybiBSZXNvdXJjZU1vbmdvREJEb0xpc3Q7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmVzb3VyY2VNb25nb0RCRG9MaXN0KExpc3Q8UmVzb3VyY2VNb25nb0RCRG9MaXN0QmVhbj4gcmVzb3VyY2VNb25nb0RCRG9MaXN0KSB7CiAgICAgICAgUmVzb3VyY2VNb25nb0RCRG9MaXN0ID0gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyByZXNvdXJjZUlkID0gc3ViamVjdERvLmdldFJlc291cmNlc0lkcygpOwogICAgICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsocmVzb3VyY2VJZCkpIHsKICAgICAgICAgICAgICAgICAgICByZXNvcmNlSWRMaXN0LmFkZChyZXNvdXJjZUlkKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJnbXRfdXBkYXRlIikK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJnbXRfY3JlYXRlIikK</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHVibGljIExpc3Q8UmVzb3VyY2VNb25nb0RCRG9MaXN0QmVhbj4gZ2V0UmVzb3VyY2VNb25nb0RCRG9MaXN0KCkgewogICAgICAgIHJldHVybiBSZXNvdXJjZU1vbmdvREJEb0xpc3Q7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmVzb3VyY2VNb25nb0RCRG9MaXN0KExpc3Q8UmVzb3VyY2VNb25nb0RCRG9MaXN0QmVhbj4gcmVzb3VyY2VNb25nb0RCRG9MaXN0KSB7CiAgICAgICAgUmVzb3VyY2VNb25nb0RCRG9MaXN0ID0gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAg</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
