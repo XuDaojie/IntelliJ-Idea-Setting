@@ -47,12 +47,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/SvideoManageController.java" timestamp="1553600463503">
         <mark key="[" line="181" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/NotificationController.java" timestamp="1554291875846">
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="36" column="13" />
-        <mark key="." line="36" column="13" />
-        <mark key="^" line="36" column="13" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageRepairOrderQuartz.java" timestamp="1554285009149" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/FollowingController.java" timestamp="1554213350005">
         <mark key="[" line="59" column="42" />
@@ -235,7 +229,7 @@
         <mark key="]" line="8" column="46" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/NotificationServiceImpl.java" timestamp="1554291323562">
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/NotificationServiceImpl.java" timestamp="1554318719102">
         <mark key="[" line="58" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/BaseEvent.java" timestamp="1554031093464">
@@ -292,10 +286,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1554287477478">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/entity/NotificationReadLogDO.java" timestamp="1554277043749">
-        <mark key="[" line="152" column="4" />
-        <mark key="]" line="152" column="4" />
-        <mark key="." line="152" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/entity/NotificationReadLogDO.java" timestamp="1554319271762">
+        <mark key="[" line="156" column="4" />
+        <mark key="]" line="156" column="4" />
+        <mark key="." line="156" column="4" />
         <mark key="^" line="148" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-test.yml" timestamp="1554117755951">
@@ -401,13 +395,13 @@
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/controller/api/UserReadSourceController.java" timestamp="1554262333321">
         <mark key="[" line="49" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554307883532">
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554319025569">
         <mark key="[" line="266" column="0" />
         <mark key="]" line="219" column="39" />
         <mark key="^" line="219" column="39" />
         <mark key="." line="219" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1554307599077">
+      <file name="/fragment.java" timestamp="1554319257550">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -514,8 +508,14 @@
       <jump line="441" column="0" filename="$USER_HOME$/IdeaProjects/news-recommend/src/main/java/com/ald/news/recommend/dao/bo/NewsArticleBo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbWVzc2FnZVN0YXRpc3RpY3NEby5zZXRMYXN0ZWRNc2dJZChtc2dJZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>public void setAddSize(int addSize) {
+        this.addSize = addSize;
+    }
+
+    public Long getAuthorId() {
+        return authorId;
+    }</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -548,7 +548,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>idByLastedId</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -556,11 +556,17 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbWVzc2FnZVN0YXRpc3RpY3NEby5zZXRMYXN0ZWRNc2dJZChtc2dJZCk7Cg==</text>
+      <register name="1" type="4">
+        <text>public void setAddSize(int addSize) {
+        this.addSize = addSize;
+    }
+
+    public Long getAuthorId() {
+        return authorId;
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VTdGF0aXN0aWNzRG8uc2V0TGFzdGVkTXNnSWQobXNnSWQpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbWVzc2FnZVN0YXRpc3RpY3NEby5zZXRMYXN0ZWRNc2dJZChtc2dJZCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
@@ -569,29 +575,29 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VTdGF0aXN0aWNzRG8uc2V0TGFzdGVkTXNnSWQobXNnSWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PERhdGFCZWFuLkxpc3RCZWFuLlJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IGdldFJlc291cmNlTW9uZ29EQkRvTGlzdCgpIHsKICAgICAgICByZXR1cm4gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJlc291cmNlTW9uZ29EQkRvTGlzdChMaXN0PERhdGFCZWFuLkxpc3RCZWFuLlJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IHJlc291cmNlTW9uZ29EQkRvTGlzdCkgewogICAgICAgIHRoaXMucmVzb3VyY2VNb25nb0RCRG9MaXN0ID0gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VTdGF0aXN0aWNzRG8uc2V0TGFzdGVkTXNnSWQobXNnSWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IGdldFJlc291cmNlTW9uZ29EQkRvTGlzdCgpIHsKICAgICAgICByZXR1cm4gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJlc291cmNlTW9uZ29EQkRvTGlzdChMaXN0PFJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IHJlc291cmNlTW9uZ29EQkRvTGlzdCkgewogICAgICAgIHRoaXMucmVzb3VyY2VNb25nb0RCRG9MaXN0ID0gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PERhdGFCZWFuLkxpc3RCZWFuLlJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IGdldFJlc291cmNlTW9uZ29EQkRvTGlzdCgpIHsKICAgICAgICByZXR1cm4gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJlc291cmNlTW9uZ29EQkRvTGlzdChMaXN0PERhdGFCZWFuLkxpc3RCZWFuLlJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IHJlc291cmNlTW9uZ29EQkRvTGlzdCkgewogICAgICAgIHRoaXMucmVzb3VyY2VNb25nb0RCRG9MaXN0ID0gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>ResourceMongoDBDo resourceMongoDBDo = new ResourceMongoDBDo();
-                    BeanUtils.copy(resourceMongoDBDoListResp.getData().get(i), resourceMongoDBDo);</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IGdldFJlc291cmNlTW9uZ29EQkRvTGlzdCgpIHsKICAgICAgICByZXR1cm4gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJlc291cmNlTW9uZ29EQkRvTGlzdChMaXN0PFJlc291cmNlTW9uZ29EQkRvTGlzdEJlYW4+IHJlc291cmNlTW9uZ29EQkRvTGlzdCkgewogICAgICAgIHRoaXMucmVzb3VyY2VNb25nb0RCRG9MaXN0ID0gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyByZXNvdXJjZUlkID0gc3ViamVjdERvLmdldFJlc291cmNlc0lkcygpOwogICAgICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsocmVzb3VyY2VJZCkpIHsKICAgICAgICAgICAgICAgICAgICByZXNvcmNlSWRMaXN0LmFkZChyZXNvdXJjZUlkKTsKICAgICAgICAgICAgICAgIH0K</text>
+      <register name="7" type="4">
+        <text>ResourceMongoDBDo resourceMongoDBDo = new ResourceMongoDBDo();
+                    BeanUtils.copy(resourceMongoDBDoListResp.getData().get(i), resourceMongoDBDo);</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyByZXNvdXJjZUlkID0gc3ViamVjdERvLmdldFJlc291cmNlc0lkcygpOwogICAgICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsocmVzb3VyY2VJZCkpIHsKICAgICAgICAgICAgICAgICAgICByZXNvcmNlSWRMaXN0LmFkZChyZXNvdXJjZUlkKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIExpc3Q8UmVzb3VyY2VNb25nb0RCRG9MaXN0QmVhbj4gZ2V0UmVzb3VyY2VNb25nb0RCRG9MaXN0KCkgewogICAgICAgIHJldHVybiBSZXNvdXJjZU1vbmdvREJEb0xpc3Q7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmVzb3VyY2VNb25nb0RCRG9MaXN0KExpc3Q8UmVzb3VyY2VNb25nb0RCRG9MaXN0QmVhbj4gcmVzb3VyY2VNb25nb0RCRG9MaXN0KSB7CiAgICAgICAgUmVzb3VyY2VNb25nb0RCRG9MaXN0ID0gcmVzb3VyY2VNb25nb0RCRG9MaXN0OwogICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
