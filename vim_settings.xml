@@ -192,6 +192,7 @@
         <mark key="]" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/ComSubjectServiceImpl.java" timestamp="1554293985403" />
       <file name="/news_forum.news_subject [@192.168.115.105]" timestamp="1554063610174">
         <mark key="[" line="0" column="0" />
       </file>
@@ -422,11 +423,11 @@
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/controller/api/UserReadSourceController.java" timestamp="1554262333321">
         <mark key="[" line="49" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554291165693">
-        <mark key="[" line="428" column="0" />
-        <mark key="]" line="428" column="0" />
-        <mark key="^" line="429" column="23" />
-        <mark key="." line="428" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554294152357">
+        <mark key="[" line="221" column="36" />
+        <mark key="]" line="221" column="36" />
+        <mark key="^" line="85" column="45" />
+        <mark key="." line="221" column="36" />
       </file>
       <file name="/fragment.java" timestamp="1554285492470">
         <mark key="[" line="0" column="0" />
@@ -538,7 +539,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEBQb3N0TWFwcGluZwogICAgcHVibGljIFJlc3BvbnNlIGNyZWF0ZUJ5U3ViamVjdCgpIHsKICAgICAgICBub3RpZmljYXRpb25TZXJ2aWNlLmNyZWF0ZUJ5U3ViamVjdCgpOwoKICAgICAgICByZXR1cm4gUmVzcG9uc2Uub2soKS5idWlsZCgpOwogICAgfQ==</text>
+        <text>isBlank</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -571,7 +572,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DateFormatUtils.format(preHour, &quot;MMddHH&quot;)</text>
+        <text>isBlank</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
