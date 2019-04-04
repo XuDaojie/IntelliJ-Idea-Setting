@@ -19,9 +19,6 @@
       <file name="/a.dummy" timestamp="1554299821134">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-recommend/src/main/java/com/ald/news/recommend/service/impl/TimelineServiceImpl.java" timestamp="1554357781286">
-        <mark key="[" line="156" column="27" />
-      </file>
       <file name="/news_common.news_message_app_log [pro_news_common@192.168.115.31]" timestamp="1553707329889">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,9 +81,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/service/UserReadSourceService.java" timestamp="1554196986979">
         <mark key="[" line="16" column="31" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/TestBean.java" timestamp="1554358707084">
-        <mark key="[" line="22" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/forum/ForumQuartz.java" timestamp="1554286916329">
         <mark key="[" line="29" column="38" />
@@ -229,9 +223,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/mongo/ResourceMongoDBDo.java" timestamp="1554297151545" />
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/mapper/FollowingPeopleMapper.java" timestamp="1554220380908">
-        <mark key="[" line="24" column="51" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/req/NotificationMuteReq.java" timestamp="1554350741673">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
@@ -263,7 +254,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/BaseEvent.java" timestamp="1554031093464">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/subscriber/FollowingSubscriber.java" timestamp="1554378229233">
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/subscriber/FollowingSubscriber.java" timestamp="1554378920745">
         <mark key="[" line="70" column="37" />
         <mark key="]" line="70" column="37" />
         <mark key="." line="70" column="37" />
@@ -286,9 +277,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/forum/JokeQuartz.java" timestamp="1554285333380">
-        <mark key="[" line="19" column="28" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/client/ForumClient.java" timestamp="1554287454881">
         <mark key="[" line="8" column="7" />
         <mark key="]" line="8" column="7" />
@@ -300,9 +288,6 @@
       </file>
       <file name="/news_common.news_app_message [pro_news_common@192.168.115.31]" timestamp="1553705120965">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/SubjectResourceRepository.java" timestamp="1554320561737">
-        <mark key="[" line="26" column="56" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/vo/SubjectResourceVO.java" timestamp="1554296294820">
         <mark key="[" line="2" column="30" />
@@ -325,9 +310,6 @@
         <mark key="]" line="18" column="70" />
         <mark key="." line="18" column="70" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1554287477478">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/entity/NotificationReadLogDO.java" timestamp="1554347068291">
         <mark key="[" line="52" column="20" />
         <mark key="]" line="52" column="20" />
@@ -347,9 +329,6 @@
       </file>
       <file name="/news_app_message [pro_news_common@192.168.115.31]" timestamp="1553778641580">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/InnerNewsArticleController.java" timestamp="1554149626564">
-        <mark key="[" line="95" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/event/FollowingEvent.java" timestamp="1554209954035">
         <mark key="[" line="28" column="2" />
@@ -414,10 +393,10 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554378315283">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1554380832637">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536573864658">
         <mark key="[" line="31" column="71" />
@@ -433,9 +412,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/client/RecommenClient.java" timestamp="1553781034875">
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/data/repository/UserReadSourceDataSource.java" timestamp="1554197300366">
-        <mark key="[" line="31" column="76" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/test/java/io/github/xudaojie/boot/bean/AccountEntity.java" timestamp="1536939267081">
         <mark key="[" line="13" column="38" />
@@ -458,12 +434,6 @@
         <mark key="[" line="18" column="32" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/ArticleServiceImpl.java" timestamp="1554148455299">
-        <mark key="[" line="190" column="36" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/controller/api/UserReadSourceController.java" timestamp="1554262333321">
-        <mark key="[" line="49" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554377698698">
         <mark key="[" line="561" column="15" />
