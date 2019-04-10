@@ -66,6 +66,11 @@
         <mark key="]" line="59" column="42" />
         <mark key="." line="59" column="42" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NewsArticleRepository.java" timestamp="1554868624536">
+        <mark key="[" line="155" column="16" />
+        <mark key="]" line="155" column="16" />
+        <mark key="." line="155" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/bo/SubjectBo.java" timestamp="1554300412389">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="249" column="0" />
@@ -481,7 +486,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA9PSA=</text>
+        <text encoding="base64">bmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZm9yRWFjaChuZXcgQ29uc3VtZXI8TmV3c0FydGljbGVEbz4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KE5ld3NBcnRpY2xlRG8gbmV3c0FydGljbGVEbykgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -523,26 +528,41 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="4">
-        <text>extends
-    org.springframework.boot.autoconfigure.data.redis.RedisProperties</text>
+        <text encoding="base64">bmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZm9yRWFjaChuZXcgQ29uc3VtZXI8TmV3c0FydGljbGVEbz4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KE5ld3NBcnRpY2xlRG8gbmV3c0FydGljbGVEbykgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTs=</text>
       </register>
-      <register name="2" type="4">
-        <text>extends
-    org.springframework.boot.autoconfigure.data.redis.RedisProperties</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICog5bm25LiN5piv5bey5byD55SoCg==</text>
+      <register name="4" type="4">
+        <text>extends
+    org.springframework.boot.autoconfigure.data.redis.RedisProperties</text>
       </register>
       <register name="5" type="4">
+        <text>extends
+    org.springframework.boot.autoconfigure.data.redis.RedisProperties</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICog5bm25LiN5piv5bey5byD55SoCg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICBEYXRlIHByZUhvdXIgPSBEYXRlVXRpbHMuYWRkSG91cnMobmV3IERhdGUoKSwgLTEpO1xuIiArCiAgICAiICAgICAgICBTdHJpbmcgZGF0ZUZvcm1hdCA9IERhdGVGb3JtYXRVdGlscy5mb3JtYXQocHJlSG91ciwgXCJcIik7</text>
       </register>
-      <register name="6" type="4">
+      <register name="x" type="4">
+        <text>shelfNo</text>
+      </register>
+      <register name="9" type="4">
         <text>Merge remote-tracking branch 'remotes/origin/devleop/v132' into release
 
 # Conflicts:
@@ -551,21 +571,6 @@
 #	app/src/main/java/com/ald/forum/data/NewsArticleRepository.java
 #	app/src/main/java/com/ald/forum/service/impl/NewsArticleServiceImpl.java
 #	app/src/main/resources/application-local.propertie</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LS1zaXplCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGQubmV3cy5kb21haW4uanB1c2guSnB1c2hEYXRhU3RhdGlzdGljczsK</text>
-      </register>
-      <register name="x" type="4">
-        <text>shelfNo</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGQubmV3cy5tYW5hZ2UuY29uc3RzLk1hbmFnZUNvbnN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
