@@ -7,8 +7,11 @@
       <mark key="M" line="66" column="9" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/NewsArticleServiceImpl.java" timestamp="1554866726938">
-        <mark key="'" line="442" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/NewsArticleServiceImpl.java" timestamp="1554879775413">
+        <mark key="'" line="449" column="25" />
+        <mark key="[" line="39" column="68" />
+        <mark key="]" line="39" column="68" />
+        <mark key="." line="39" column="68" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/content/HomeContentQuartz.java" timestamp="1536510590011">
         <mark key="[" line="137" column="28" />
@@ -66,11 +69,7 @@
         <mark key="]" line="59" column="42" />
         <mark key="." line="59" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NewsArticleRepository.java" timestamp="1554875362078">
-        <mark key="[" line="160" column="69" />
-        <mark key="]" line="160" column="69" />
-        <mark key="." line="160" column="69" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NewsArticleRepository.java" timestamp="1554879448241" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/bo/SubjectBo.java" timestamp="1554300412389">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="249" column="0" />
@@ -265,9 +264,6 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/InnerNewsArticleController.java" timestamp="1554383497864">
         <mark key="[" line="95" column="16" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.java" timestamp="1554739383894">
-        <mark key="'" line="286" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/ComSubjectController.java" timestamp="1554184726394">
         <mark key="[" line="151" column="5" />
       </file>
@@ -298,7 +294,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/FollowingService.java" timestamp="1553846463783">
         <mark key="[" line="25" column="66" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/JokeServiceImpl.java" timestamp="1554865288569">
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/JokeServiceImpl.java" timestamp="1554879429369">
         <mark key="[" line="809" column="44" />
         <mark key="]" line="809" column="44" />
         <mark key="." line="809" column="44" />
@@ -371,12 +367,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/forum/CreateSubjectLogReq.java" timestamp="1554390324270">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554866853795">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="164" column="58" />
-        <mark key="^" line="164" column="58" />
-        <mark key="." line="164" column="58" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554880728656" />
       <file name="/fragment.java" timestamp="1554863946318">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="53" />
@@ -487,7 +478,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ONLINE</text>
+        <text>listArticle</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -520,7 +511,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ONLINE</text>
+        <text>listArticle</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -528,24 +519,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KG5ld3NBcnRpY2xlRG8gLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChuZXdzQXJ0aWNsZURvLmdldFN0YXR1cygpID09IEFydGljbGVTdGF0dXNFbnVtLk9OTElORS5nZXRDb2RlKCkpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld3NBcnRpY2xlRG9zID0gbmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZmlsdGVyKG8gLT4gewogICAgICAgICAgICAgICAgICAgIC8v5pyq5LiK57q/CiAgICAgICAgICAgICAgICAgICAgaWYgKG8uZ2V0U3RhdHVzKCkuaW50VmFsdWUoKSAhPSBBcnRpY2xlU3RhdHVzRW51bS5PTkxJTkUuZ2V0Q29kZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChPYmplY3RzLmVxdWFscyh1c2VySWQsby5nZXRBdXRob3JJZCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">bmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZm9yRWFjaChuZXcgQ29uc3VtZXI8TmV3c0FydGljbGVEbz4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KE5ld3NBcnRpY2xlRG8gbmV3c0FydGljbGVEbykgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTs=</text>
+        <text encoding="base64">KG5ld3NBcnRpY2xlRG8gLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChuZXdzQXJ0aWNsZURvLmdldFN0YXR1cygpID09IEFydGljbGVTdGF0dXNFbnVtLk9OTElORS5nZXRDb2RlKCkpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">bmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZm9yRWFjaChuZXcgQ29uc3VtZXI8TmV3c0FydGljbGVEbz4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KE5ld3NBcnRpY2xlRG8gbmV3c0FydGljbGVEbykgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>extends
-    org.springframework.boot.autoconfigure.data.redis.RedisProperties</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="4">
         <text>extends
@@ -554,17 +544,18 @@
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
+      <register name="7" type="4">
+        <text>extends
+    org.springframework.boot.autoconfigure.data.redis.RedisProperties</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICog5bm25LiN5piv5bey5byD55SoCg==</text>
+        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBEYXRlIHByZUhvdXIgPSBEYXRlVXRpbHMuYWRkSG91cnMobmV3IERhdGUoKSwgLTEpO1xuIiArCiAgICAiICAgICAgICBTdHJpbmcgZGF0ZUZvcm1hdCA9IERhdGVGb3JtYXRVdGlscy5mb3JtYXQocHJlSG91ciwgXCJcIik7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICog5bm25LiN5piv5bey5byD55SoCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
