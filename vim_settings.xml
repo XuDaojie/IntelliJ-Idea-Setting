@@ -24,7 +24,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-recommend/src/main/java/com/ald/news/recommend/service/impl/TimelineServiceImpl.java" timestamp="1554357781286">
         <mark key="[" line="156" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/encrypt/TokenUtils.java" timestamp="1554861723052" />
+      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/encrypt/TokenUtils.java" timestamp="1554862887316" />
       <file name="/news_common.news_message_app_log [pro_news_common@192.168.115.31]" timestamp="1553707329889">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,6 +35,9 @@
       </file>
       <file name="/news_forum.news_people_following [@192.168.115.105]" timestamp="1553845491349">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/JokeService.java" timestamp="1554863508236">
+        <mark key="[" line="32" column="82" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/subscriber/JokeSubscriber.java" timestamp="1554384271543">
         <mark key="[" line="33" column="61" />
@@ -126,8 +129,8 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/InnerActiveController.java" timestamp="1536409196205">
         <mark key="[" line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/IJokeService.java" timestamp="1554049717158">
-        <mark key="[" line="32" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/IJokeService.java" timestamp="1554862988397">
+        <mark key="[" line="32" column="80" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-recommend/src/main/resources/application-local.yaml" timestamp="1553855821961">
         <mark key="[" line="4" column="10" />
@@ -286,6 +289,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/FollowingService.java" timestamp="1553846463783">
         <mark key="[" line="25" column="66" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/JokeServiceImpl.java" timestamp="1554863685546">
+        <mark key="[" line="809" column="44" />
+        <mark key="]" line="809" column="44" />
+        <mark key="." line="809" column="44" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1536893700375">
         <mark key="[" line="19" column="26" />
       </file>
@@ -301,7 +309,7 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554734377043">
+      <file name="/Dummy.txt" timestamp="1554863946337">
         <mark key="a" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -354,10 +362,12 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/forum/CreateSubjectLogReq.java" timestamp="1554390324270">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554801535193">
-        <mark key="[" line="164" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554863512060">
+        <mark key="]" line="161" column="58" />
+        <mark key="^" line="161" column="58" />
+        <mark key="." line="161" column="58" />
       </file>
-      <file name="/fragment.java" timestamp="1554739200284">
+      <file name="/fragment.java" timestamp="1554863946318">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="53" />
         <mark key="." line="1" column="53" />
@@ -467,7 +477,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>org.springframework.boot.autoconfigure.data.redis.</text>
+        <text encoding="base64">ICA9PSA=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -500,7 +510,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>org.springframework.boot.autoconfigure.data.redis.</text>
+        <text encoding="base64">ICA9PSA=</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
