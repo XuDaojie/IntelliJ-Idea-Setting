@@ -69,7 +69,7 @@
         <mark key="]" line="59" column="42" />
         <mark key="." line="59" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NewsArticleRepository.java" timestamp="1554879448241" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NewsArticleRepository.java" timestamp="1554886777901" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/bo/SubjectBo.java" timestamp="1554300412389">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="249" column="0" />
@@ -294,10 +294,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/FollowingService.java" timestamp="1553846463783">
         <mark key="[" line="25" column="66" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/JokeServiceImpl.java" timestamp="1554885108641">
-        <mark key="[" line="809" column="44" />
-        <mark key="]" line="809" column="44" />
-        <mark key="." line="809" column="44" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/JokeServiceImpl.java" timestamp="1554887288250">
+        <mark key="[" line="777" column="34" />
+        <mark key="]" line="777" column="34" />
+        <mark key="." line="777" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1536893700375">
         <mark key="[" line="19" column="26" />
@@ -478,7 +478,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>listArticle</text>
+        <text>okeBo.class</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -511,7 +511,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>listArticle</text>
+        <text>okeBo.class</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
