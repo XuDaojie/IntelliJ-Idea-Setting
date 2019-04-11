@@ -30,7 +30,6 @@
       <file name="$USER_HOME$/IdeaProjects/news-recommend/src/main/java/com/ald/news/recommend/service/impl/TimelineServiceImpl.java" timestamp="1554357781286">
         <mark key="[" line="156" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/encrypt/TokenUtils.java" timestamp="1554862887316" />
       <file name="/news_common.news_message_app_log [pro_news_common@192.168.115.31]" timestamp="1553707329889">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,7 +111,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/manage/req/PushBo.java" timestamp="1554041486540">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/enums/ArticleStatusEnum.java" timestamp="1554875358839" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/entity/FollowingPeopleDO.java" timestamp="1554026318797">
         <mark key="[" line="138" column="5" />
       </file>
@@ -127,6 +125,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/commons/build.gradle" timestamp="1553678662544">
         <mark key="[" line="10" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/signature/SignatureUtil.java" timestamp="1554953696477">
+        <mark key="[" line="125" column="99" />
+        <mark key="]" line="91" column="8" />
+        <mark key="." line="91" column="8" />
+        <mark key="^" line="91" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/RedisConfiguration.java" timestamp="1554902666287">
         <mark key="[" line="59" column="0" />
@@ -145,6 +149,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-test3.yml" timestamp="1554117614753">
         <mark key="[" line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1554953934884" />
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/Java规范.md" timestamp="1536575085831">
         <mark key="[" line="138" column="37" />
       </file>
@@ -223,6 +228,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/event/ArticleCheckEvent.java" timestamp="1554129967328">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1554953934884" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/bo/SubjectDox.java" timestamp="1554299808211">
         <mark key="[" line="84" column="27" />
       </file>
@@ -313,7 +319,6 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/FollowingService.java" timestamp="1553846463783">
         <mark key="[" line="25" column="66" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserSecretKeyController.java" timestamp="1554951369309" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/JokeServiceImpl.java" timestamp="1554898784394">
         <mark key="[" line="784" column="9" />
         <mark key="]" line="790" column="34" />
@@ -323,6 +328,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1536893700375">
         <mark key="[" line="19" column="26" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1554953934884" />
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-test2.yml" timestamp="1554117609691">
         <mark key="[" line="17" column="20" />
       </file>
@@ -334,7 +340,7 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554863946337">
+      <file name="/Dummy.txt" timestamp="1554955187399">
         <mark key="a" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -372,7 +378,7 @@
         <mark key="]" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1554951575434">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1554953380568">
         <mark key="[" line="219" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/请求及响应.md" timestamp="1536574644914">
@@ -390,8 +396,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/forum/CreateSubjectLogReq.java" timestamp="1554390324270">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554880728656" />
-      <file name="/fragment.java" timestamp="1554902820799">
+      <file name="/fragment.java" timestamp="1554954195434">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="53" />
         <mark key="." line="1" column="53" />
@@ -501,7 +506,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RedisProperties</text>
+        <text>loc</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -534,7 +539,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RedisProperties</text>
+        <text>loc</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
