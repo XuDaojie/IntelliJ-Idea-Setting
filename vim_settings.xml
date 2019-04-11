@@ -7,12 +7,6 @@
       <mark key="M" line="66" column="9" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/NewsArticleServiceImpl.java" timestamp="1554890386092">
-        <mark key="'" line="449" column="25" />
-        <mark key="[" line="201" column="42" />
-        <mark key="]" line="201" column="42" />
-        <mark key="." line="201" column="42" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/content/HomeContentQuartz.java" timestamp="1536510590011">
         <mark key="[" line="137" column="28" />
       </file>
@@ -120,16 +114,17 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/ApiDocsController.java" timestamp="1553252068676">
         <mark key="[" line="15" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/signature/CreateSecretKeyUtil.java" timestamp="1554965802998" />
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/src/main/java/com/ald/news/sample/greeting/GreetingController.java" timestamp="1553225367707">
         <mark key="[" line="14" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/commons/build.gradle" timestamp="1553678662544">
         <mark key="[" line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/signature/SignatureUtil.java" timestamp="1554964392352">
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/signature/SignatureUtil.java" timestamp="1554972244022">
         <mark key="[" line="125" column="99" />
-        <mark key="]" line="91" column="8" />
-        <mark key="." line="91" column="8" />
+        <mark key="]" line="125" column="99" />
+        <mark key="." line="125" column="99" />
         <mark key="^" line="91" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/RedisConfiguration.java" timestamp="1554902666287">
@@ -174,6 +169,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/.java-version" timestamp="1553481521273">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/consts/redis/UserRedisConst.java" timestamp="1554969214745" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserAttentionController.java" timestamp="1553838667761">
         <mark key="[" line="186" column="57" />
       </file>
@@ -185,6 +181,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/NewsPushServiceImpl.java" timestamp="1554371155063">
         <mark key="[" line="438" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/test/java/com/ald/news/core/signature/CreateSecretKeyUtilTest.java" timestamp="1554971885307">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="28" />
+        <mark key="." line="59" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/mapper/NotificationReadLogMapper.java" timestamp="1554055754113">
         <mark key="[" line="9" column="0" />
@@ -202,6 +203,7 @@
         <mark key="]" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1554971420305" />
       <file name="/news_forum.news_subject [@192.168.115.105]" timestamp="1554063610174">
         <mark key="[" line="0" column="0" />
       </file>
@@ -300,6 +302,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1536655174775">
         <mark key="[" line="208" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/RedisUtil.java" timestamp="1554968994844" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/NotificationService.java" timestamp="1554371714732">
         <mark key="[" line="19" column="28" />
         <mark key="]" line="20" column="0" />
@@ -319,6 +322,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/FollowingService.java" timestamp="1553846463783">
         <mark key="[" line="25" column="66" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserSecretKeyController.java" timestamp="1554967829191" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/JokeServiceImpl.java" timestamp="1554898784394">
         <mark key="[" line="784" column="9" />
         <mark key="]" line="790" column="34" />
@@ -378,8 +382,11 @@
         <mark key="]" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1554953380568">
-        <mark key="[" line="219" column="46" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1554965559277">
+        <mark key="[" line="255" column="67" />
+        <mark key="]" line="255" column="66" />
+        <mark key="^" line="255" column="66" />
+        <mark key="." line="255" column="66" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/请求及响应.md" timestamp="1536574644914">
         <mark key="[" line="13" column="0" />
@@ -396,7 +403,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/forum/CreateSubjectLogReq.java" timestamp="1554390324270">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1554954195434">
+      <file name="/fragment.java" timestamp="1554971758564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="53" />
         <mark key="." line="1" column="53" />
@@ -506,7 +513,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>loc</text>
+        <text>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxqzM1tOn/U/nJVA9eZJvKD+ibCZvDSQYVrNpSwr0TdKsq92vPTmF751M2niuFNFzZWxKcBWz/kcD3N9OWCVVQXfvS5y+q+vkRYC/ChFyr/crM5EogVaGRLiWUiySTQvKk77dzBfY5Xisn4k4m1aL/XQa/9z2I3sAJ4ffRI4/nxQIDAQAB</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -539,7 +546,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>loc</text>
+        <text>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxqzM1tOn/U/nJVA9eZJvKD+ibCZvDSQYVrNpSwr0TdKsq92vPTmF751M2niuFNFzZWxKcBWz/kcD3N9OWCVVQXfvS5y+q+vkRYC/ChFyr/crM5EogVaGRLiWUiySTQvKk77dzBfY5Xisn4k4m1aL/XQa/9z2I3sAJ4ffRI4/nxQIDAQAB</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -547,19 +554,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgUmVkaXNDb25maWd1cmF0aW9uIHsKICAgICAgICAKICAgIH0K</text>
+      <register name="1" type="4">
+        <text>privateKey</text>
       </register>
-      <register name="2" type="4">
-        <text>if (config != null) {
-
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgUmVkaXNDb25maWd1cmF0aW9uIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>if (config != null) {
+
+        }</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -568,22 +575,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld3NBcnRpY2xlRG9zID0gbmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZmlsdGVyKG8gLT4gewogICAgICAgICAgICAgICAgICAgIC8v5pyq5LiK57q/CiAgICAgICAgICAgICAgICAgICAgaWYgKG8uZ2V0U3RhdHVzKCkuaW50VmFsdWUoKSAhPSBBcnRpY2xlU3RhdHVzRW51bS5PTkxJTkUuZ2V0Q29kZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChPYmplY3RzLmVxdWFscyh1c2VySWQsby5nZXRBdXRob3JJZCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KG5ld3NBcnRpY2xlRG8gLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChuZXdzQXJ0aWNsZURvLmdldFN0YXR1cygpID09IEFydGljbGVTdGF0dXNFbnVtLk9OTElORS5nZXRDb2RlKCkpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld3NBcnRpY2xlRG9zID0gbmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZmlsdGVyKG8gLT4gewogICAgICAgICAgICAgICAgICAgIC8v5pyq5LiK57q/CiAgICAgICAgICAgICAgICAgICAgaWYgKG8uZ2V0U3RhdHVzKCkuaW50VmFsdWUoKSAhPSBBcnRpY2xlU3RhdHVzRW51bS5PTkxJTkUuZ2V0Q29kZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChPYmplY3RzLmVxdWFscyh1c2VySWQsby5nZXRBdXRob3JJZCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">bmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZm9yRWFjaChuZXcgQ29uc3VtZXI8TmV3c0FydGljbGVEbz4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KE5ld3NBcnRpY2xlRG8gbmV3c0FydGljbGVEbykgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTs=</text>
+        <text encoding="base64">KG5ld3NBcnRpY2xlRG8gLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChuZXdzQXJ0aWNsZURvLmdldFN0YXR1cygpID09IEFydGljbGVTdGF0dXNFbnVtLk9OTElORS5nZXRDb2RlKCkpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="x" type="4">
-        <text>shelfNo</text>
+        <text>privateKey</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">bmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZm9yRWFjaChuZXcgQ29uc3VtZXI8TmV3c0FydGljbGVEbz4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KE5ld3NBcnRpY2xlRG8gbmV3c0FydGljbGVEbykgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTs=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
