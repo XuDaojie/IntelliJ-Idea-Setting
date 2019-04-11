@@ -42,8 +42,21 @@
       <file name="/news_forum.news_people_following [@192.168.115.105]" timestamp="1553845491349">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" timestamp="1554902997624">
+        <mark key="'" line="248" column="0" />
+        <mark key="[" line="63" column="53" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/TestRedisProperties.java" timestamp="1554902808818">
+        <mark key="[" line="2" column="33" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/JokeService.java" timestamp="1554863508236">
         <mark key="[" line="32" column="82" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/TestRedisAutoConfiguration.java" timestamp="1554903011572">
+        <mark key="[" line="30" column="48" />
+        <mark key="]" line="36" column="34" />
+        <mark key="." line="36" column="34" />
+        <mark key="^" line="36" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/subscriber/JokeSubscriber.java" timestamp="1554384271543">
         <mark key="[" line="33" column="61" />
@@ -80,11 +93,11 @@
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/service/UserReadSourceService.java" timestamp="1554196986979">
         <mark key="[" line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/RedisProperties.java" timestamp="1554739389666">
-        <mark key="'" line="94" column="30" />
-        <mark key="[" line="5" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/RedisProperties.java" timestamp="1554901956474">
+        <mark key="'" line="95" column="30" />
+        <mark key="[" line="10" column="29" />
         <mark key="]" line="5" column="29" />
-        <mark key="^" line="94" column="30" />
+        <mark key="^" line="95" column="30" />
         <mark key="." line="5" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/TestBean.java" timestamp="1554358707084">
@@ -115,10 +128,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/commons/build.gradle" timestamp="1553678662544">
         <mark key="[" line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/RedisConfiguration.java" timestamp="1554739552350">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="12" />
-        <mark key="." line="27" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/RedisConfiguration.java" timestamp="1554902666287">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-comment/build.gradle" timestamp="1553519462371">
         <mark key="[" line="8" column="62" />
@@ -132,7 +145,6 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-test3.yml" timestamp="1554117614753">
         <mark key="[" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1554795839548" />
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/Java规范.md" timestamp="1536575085831">
         <mark key="[" line="138" column="37" />
       </file>
@@ -159,6 +171,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserAttentionController.java" timestamp="1553838667761">
         <mark key="[" line="186" column="57" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/TestRedisAutoCOnfiguration.java" timestamp="1554902837517">
+        <mark key="[" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/client/ResourceClient.java" timestamp="1554383063066">
         <mark key="[" line="21" column="37" />
@@ -208,7 +223,6 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/event/ArticleCheckEvent.java" timestamp="1554129967328">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1554795839548" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/bo/SubjectDox.java" timestamp="1554299808211">
         <mark key="[" line="84" column="27" />
       </file>
@@ -265,6 +279,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/InnerNewsArticleController.java" timestamp="1554383497864">
         <mark key="[" line="95" column="16" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.java" timestamp="1554902869023">
+        <mark key="'" line="286" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/ComSubjectController.java" timestamp="1554184726394">
         <mark key="[" line="151" column="5" />
@@ -371,15 +388,13 @@
         <mark key="[" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1554880728656" />
-      <file name="/fragment.java" timestamp="1554884946668">
+      <file name="/fragment.java" timestamp="1554902820799">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="44" filename="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/activity/ProductBuyActivity.java" />
-      <jump line="31" column="13" filename="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/java/runtong/bocai/com/runtong/activity/ProductBuyActivity.java" />
       <jump line="37" column="21" filename="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/java/runtong/bocai/com/runtong/activity/ProductBuyConfirmActivity.java" />
       <jump line="37" column="23" filename="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/activity/ProductBuyConfirmActivity.java" />
       <jump line="35" column="14" filename="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/java/runtong/bocai/com/runtong/activity/ProductBuyConfirmActivity.java" />
@@ -478,10 +493,12 @@
       <jump line="33" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.java" />
       <jump line="286" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.java" />
       <jump line="442" column="25" filename="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/NewsArticleServiceImpl.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" />
+      <jump line="248" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>该潮闻</text>
+        <text>RedisProperties</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -514,7 +531,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>该潮闻</text>
+        <text>RedisProperties</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -523,42 +540,42 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld3NBcnRpY2xlRG9zID0gbmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZmlsdGVyKG8gLT4gewogICAgICAgICAgICAgICAgICAgIC8v5pyq5LiK57q/CiAgICAgICAgICAgICAgICAgICAgaWYgKG8uZ2V0U3RhdHVzKCkuaW50VmFsdWUoKSAhPSBBcnRpY2xlU3RhdHVzRW51bS5PTkxJTkUuZ2V0Q29kZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChPYmplY3RzLmVxdWFscyh1c2VySWQsby5nZXRBdXRob3JJZCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgUmVkaXNDb25maWd1cmF0aW9uIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">KG5ld3NBcnRpY2xlRG8gLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChuZXdzQXJ0aWNsZURvLmdldFN0YXR1cygpID09IEFydGljbGVTdGF0dXNFbnVtLk9OTElORS5nZXRDb2RlKCkpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQ==</text>
+        <text>if (config != null) {
+
+        }</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZm9yRWFjaChuZXcgQ29uc3VtZXI8TmV3c0FydGljbGVEbz4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KE5ld3NBcnRpY2xlRG8gbmV3c0FydGljbGVEbykgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>extends
-    org.springframework.boot.autoconfigure.data.redis.RedisProperties</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld3NBcnRpY2xlRG9zID0gbmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZmlsdGVyKG8gLT4gewogICAgICAgICAgICAgICAgICAgIC8v5pyq5LiK57q/CiAgICAgICAgICAgICAgICAgICAgaWYgKG8uZ2V0U3RhdHVzKCkuaW50VmFsdWUoKSAhPSBBcnRpY2xlU3RhdHVzRW51bS5PTkxJTkUuZ2V0Q29kZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChPYmplY3RzLmVxdWFscyh1c2VySWQsby5nZXRBdXRob3JJZCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text>extends
-    org.springframework.boot.autoconfigure.data.redis.RedisProperties</text>
+        <text encoding="base64">KG5ld3NBcnRpY2xlRG8gLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChuZXdzQXJ0aWNsZURvLmdldFN0YXR1cygpID09IEFydGljbGVTdGF0dXNFbnVtLk9OTElORS5nZXRDb2RlKCkpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
+      <register name="8" type="4">
+        <text encoding="base64">bmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZm9yRWFjaChuZXcgQ29uc3VtZXI8TmV3c0FydGljbGVEbz4oKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KE5ld3NBcnRpY2xlRG8gbmV3c0FydGljbGVEbykgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="x" type="4">
         <text>shelfNo</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICog5bm25LiN5piv5bey5byD55SoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
