@@ -228,11 +228,12 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/ComSubjectController.java" timestamp="1554184726394">
         <mark key="[" line="151" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/data/repository/impl/UserReadSourceRepository.java" timestamp="1555054341894">
-        <mark key="[" line="212" column="21" />
-        <mark key="]" line="71" column="42" />
-        <mark key="." line="71" column="42" />
-        <mark key="^" line="71" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/data/repository/impl/UserReadSourceRepository.java" timestamp="1555063208286">
+        <mark key="'" line="260" column="46" />
+        <mark key="[" line="267" column="63" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
+        <mark key="^" line="267" column="53" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1536655174775">
         <mark key="[" line="208" column="0" />
@@ -317,14 +318,13 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/forum/CreateSubjectLogReq.java" timestamp="1554390324270">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1554992489264">
+      <file name="/fragment.java" timestamp="1555062338311">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="21" filename="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/java/runtong/bocai/com/runtong/activity/ProductBuyConfirmActivity.java" />
       <jump line="37" column="23" filename="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/activity/ProductBuyConfirmActivity.java" />
       <jump line="35" column="14" filename="$USER_HOME$/AndroidStudioProjects/RunTongAsset/app/src/main/java/runtong/bocai/com/runtong/activity/ProductBuyConfirmActivity.java" />
       <jump line="30" column="36" filename="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/activity/FinancialProductActivity.java" />
@@ -424,10 +424,11 @@
       <jump line="442" column="25" filename="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/NewsArticleServiceImpl.java" />
       <jump line="72" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" />
       <jump line="248" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" />
+      <jump line="260" column="46" filename="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/data/repository/impl/UserReadSourceRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>class org.springframework.dao.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -460,7 +461,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>class org.springframework.dao.</text>
+        <text>11111</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -469,27 +470,27 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoTXlTUUxJbnRlZ3JpdHlDb25zdHJhaW50VmlvbGF0aW9uRXhjZXB0aW9uIGUpIHsKCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoTXlTUUxJbnRlZ3JpdHlDb25zdHJhaW50VmlvbGF0aW9uRXhjZXB0aW9uIGUpIHsKCiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="4">
         <text>privateKey</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgUmVkaXNDb25maWd1cmF0aW9uIHsKICAgICAgICAKICAgIH0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>if (config != null) {
 
         }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
@@ -504,7 +505,7 @@
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld3NBcnRpY2xlRG9zID0gbmV3c0FydGljbGVEb3Muc3RyZWFtKCkuZmlsdGVyKG8gLT4gewogICAgICAgICAgICAgICAgICAgIC8v5pyq5LiK57q/CiAgICAgICAgICAgICAgICAgICAgaWYgKG8uZ2V0U3RhdHVzKCkuaW50VmFsdWUoKSAhPSBBcnRpY2xlU3RhdHVzRW51bS5PTkxJTkUuZ2V0Q29kZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChPYmplY3RzLmVxdWFscyh1c2VySWQsby5nZXRBdXRob3JJZCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0pLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
