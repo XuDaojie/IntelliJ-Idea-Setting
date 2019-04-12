@@ -238,11 +238,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/ComSubjectController.java" timestamp="1554184726394">
         <mark key="[" line="151" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/data/repository/impl/UserReadSourceRepository.java" timestamp="1555065451169">
+      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/data/repository/impl/UserReadSourceRepository.java" timestamp="1555068972899">
         <mark key="'" line="260" column="46" />
-        <mark key="[" line="214" column="40" />
-        <mark key="]" line="274" column="66" />
-        <mark key="." line="274" column="66" />
+        <mark key="[" line="280" column="23" />
+        <mark key="]" line="280" column="23" />
+        <mark key="." line="280" column="23" />
         <mark key="^" line="274" column="66" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserInviteServiceImpl.java" timestamp="1536655174775">
@@ -252,6 +252,7 @@
       <file name="/news_forum.news_subject_resource [@192.168.115.105]" timestamp="1554063630660">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/service/impl/UserReadSourceServiceImpl.java" timestamp="1555066532787" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/test/java/io/github/xudaojie/boot/bean/AccountDTO.java" timestamp="1536939298620">
         <mark key="[" line="6" column="23" />
       </file>
@@ -265,6 +266,9 @@
         <mark key="." line="790" column="34" />
         <mark key="^" line="790" column="34" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/common/common-service/out/production/resources/mapper/UserReadSourceMapper.xml" timestamp="1555067358793">
+        <mark key="[" line="22" column="20" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1536893700375">
         <mark key="[" line="19" column="26" />
       </file>
@@ -274,7 +278,7 @@
       <file name="$USER_HOME$/IdeaProjects/common/gradle/wrapper/gradle-wrapper.properties" timestamp="1553774389729">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555052362938">
+      <file name="/Dummy.txt" timestamp="1555068944683">
         <mark key="a" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -328,10 +332,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/forum/CreateSubjectLogReq.java" timestamp="1554390324270">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1555065427707">
+      <file name="/fragment.java" timestamp="1555069663199">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -438,7 +442,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>beforeMaxId</text>
+        <text>true</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -471,7 +475,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>beforeMaxId</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
