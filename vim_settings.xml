@@ -379,8 +379,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/ApiDocsController.java" timestamp="1555595099281">
-        <mark key="[" line="25" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/ApiDocsController.java" timestamp="1555597130486">
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="15" />
+        <mark key="." line="41" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/config/ConfigDataSource.java" timestamp="1555573533411">
         <mark key="[" line="59" column="0" />
@@ -493,8 +495,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>throw new RuntimeException(&quot;&quot;);
-        ImmutableMap</text>
+        <text>key</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -527,7 +528,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>vestUserDataSource</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
