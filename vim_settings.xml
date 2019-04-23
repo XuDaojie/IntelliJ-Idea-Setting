@@ -10,7 +10,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/LoginController.java" timestamp="1555592957243">
         <mark key="[" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/springboot-autoconfigure-greeting/build.gradle" timestamp="1556004024188" />
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/content/HomeContentQuartz.java" timestamp="1536510590011">
         <mark key="[" line="137" column="28" />
       </file>
@@ -52,10 +51,10 @@
         <mark key="^" line="53" column="45" />
         <mark key="." line="64" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/java/io/github/xudaojie/generator/CodeGeneratorTest.java" timestamp="1556006968368">
-        <mark key="[" line="67" column="39" />
-        <mark key="]" line="67" column="39" />
-        <mark key="." line="67" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/java/io/github/xudaojie/generator/CodeGeneratorTest.java" timestamp="1556010572166">
+        <mark key="[" line="71" column="37" />
+        <mark key="]" line="71" column="37" />
+        <mark key="." line="71" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/SvideoManageController.java" timestamp="1553600463503">
         <mark key="[" line="181" column="15" />
@@ -101,10 +100,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/src/main/java/com/ald/news/sample/greeting/GreetingController.java" timestamp="1553225367707">
         <mark key="[" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/build.gradle" timestamp="1556001857435">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/build.gradle" timestamp="1556010237662">
+        <mark key="[" line="5" column="58" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/commons/build.gradle" timestamp="1553678662544">
         <mark key="[" line="10" column="34" />
@@ -235,7 +234,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/application-local.properties" timestamp="1554737771485">
         <mark key="[" line="77" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1556006904040">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1556009596172">
         <mark key="[" line="62" column="27" />
         <mark key="]" line="32" column="31" />
         <mark key="^" line="32" column="31" />
@@ -270,7 +269,6 @@
       <file name="/news_app_message [pro_news_common@192.168.115.31]" timestamp="1553778641580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/resources/generatorConfig.xml" timestamp="1555957797735" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/InnerNewsArticleController.java" timestamp="1554383497864">
         <mark key="[" line="95" column="16" />
       </file>
@@ -336,7 +334,6 @@
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/client/RecommenClient.java" timestamp="1553781034875">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/core/build.gradle" timestamp="1556002073254" />
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/data/repository/UserReadSourceDataSource.java" timestamp="1554197300366">
         <mark key="[" line="36" column="76" />
       </file>
@@ -505,7 +502,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user</text>
+        <text>localhost</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -538,7 +535,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
