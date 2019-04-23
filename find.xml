@@ -7,14 +7,13 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.gradle</mask>
     <mask>*Impl.java</mask>
     <mask>*.html</mask>
     <mask>*-dev.properties</mask>
@@ -25,5 +24,6 @@
     <mask>*Controller.java</mask>
     <mask>build.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
