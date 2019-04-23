@@ -51,8 +51,8 @@
         <mark key="^" line="53" column="45" />
         <mark key="." line="64" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/java/io/github/xudaojie/generator/CodeGeneratorTest.java" timestamp="1556024234153">
-        <mark key="[" line="71" column="37" />
+      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/java/io/github/xudaojie/generator/CodeGeneratorTest.java" timestamp="1556026472100">
+        <mark key="[" line="87" column="61" />
         <mark key="]" line="71" column="37" />
         <mark key="." line="71" column="37" />
       </file>
@@ -100,10 +100,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/src/main/java/com/ald/news/sample/greeting/GreetingController.java" timestamp="1553225367707">
         <mark key="[" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/build.gradle" timestamp="1556010237662">
-        <mark key="[" line="5" column="58" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/build.gradle" timestamp="1556026146309">
+        <mark key="[" line="3" column="61" />
+        <mark key="]" line="3" column="61" />
+        <mark key="." line="3" column="61" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/commons/build.gradle" timestamp="1553678662544">
         <mark key="[" line="10" column="34" />
@@ -240,6 +240,7 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="32" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Java/springboot/build.gradle" timestamp="1556026128913" />
       <file name="/news_common.news_app_message [pro_news_common@192.168.115.31]" timestamp="1553705120965">
         <mark key="[" line="0" column="0" />
       </file>
@@ -344,6 +345,11 @@
         <mark key="[" line="2410" column="41" />
         <mark key="]" line="2410" column="41" />
         <mark key="." line="2410" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/main/java/io/github/xudaojie/generator/com/baomidou/springboot/withannoidtypeprefix/controller/NewsUserController.java" timestamp="1556026256707">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/test/java/io/github/xudaojie/boot/bean/AccountEntity.java" timestamp="1536939267081">
         <mark key="[" line="13" column="38" />
@@ -502,7 +508,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>com.baomidou.springboot.withannoidtypeprefix.entity.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -535,7 +541,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>com.baomidou.springboot.withannoidtypeprefix.entity.</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
