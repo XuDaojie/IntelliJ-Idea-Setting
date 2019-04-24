@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" protocol="file" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" protocol="file" />
@@ -36,6 +36,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/TestRedisProperties.java" timestamp="1554902808818">
         <mark key="[" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/build.gradle" timestamp="1556073617749" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/JokeService.java" timestamp="1554863508236">
         <mark key="[" line="32" column="82" />
       </file>
@@ -51,7 +52,7 @@
         <mark key="^" line="53" column="45" />
         <mark key="." line="64" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/java/io/github/xudaojie/generator/CodeGeneratorTest.java" timestamp="1556026472100">
+      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/java/io/github/xudaojie/generator/CodeGeneratorTest.java" timestamp="1556076271551">
         <mark key="[" line="87" column="61" />
         <mark key="]" line="71" column="37" />
         <mark key="." line="71" column="37" />
@@ -66,9 +67,6 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/FollowingServiceImpl.java" timestamp="1555483896325">
-        <mark key="[" line="356" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/TestBean.java" timestamp="1554358707084">
         <mark key="[" line="22" column="35" />
@@ -217,7 +215,6 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/event/ArticleCheckEvent.java" timestamp="1554129967328">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1555669138223" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/bo/SubjectDox.java" timestamp="1554299808211">
         <mark key="[" line="84" column="27" />
       </file>
@@ -263,6 +260,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-test.yml" timestamp="1554117755951">
         <mark key="[" line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/service/impl/NiceDetailServiceImpl.java" timestamp="1556073399819" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/SubjectService.java" timestamp="1554035194968">
         <mark key="[" line="157" column="56" />
       </file>
@@ -281,16 +279,27 @@
       <file name="$USER_HOME$/IdeaProjects/news-activity/build.gradle" timestamp="1555579040948">
         <mark key="[" line="44" column="66" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/main/java/io.github.xudaojie/com/baomidou/controller/NewsUserController.java" timestamp="1556075576021">
+        <mark key="[" line="18" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-activity/news-activity/src/main/java/com/ald/news/activity/data/VideoActivityRepository.java" timestamp="1555517856665">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/java/io/github/xudaojie/generator/MysqlGenerator.java" timestamp="1556077756823">
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/news_forum.news_subject_resource [@192.168.115.105]" timestamp="1554063630660">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/data/mapper/NewsContentTopLogMapper.xml" timestamp="1555957877371">
         <mark key="[" line="17" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Java/build.gradle" timestamp="1556075959997">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="30" />
+        <mark key="." line="38" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/test/java/io/github/xudaojie/boot/bean/AccountDTO.java" timestamp="1536939298620">
         <mark key="[" line="6" column="23" />
@@ -304,7 +313,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1536893700375">
         <mark key="[" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1555669138223" />
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-test2.yml" timestamp="1554117609691">
         <mark key="[" line="17" column="20" />
       </file>
@@ -334,6 +342,7 @@
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/client/RecommenClient.java" timestamp="1553781034875">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Java/springcloud-zuul/build.gradle" timestamp="1556076054766" />
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/data/repository/UserReadSourceDataSource.java" timestamp="1554197300366">
         <mark key="[" line="36" column="76" />
       </file>
@@ -351,10 +360,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-recommend/build.gradle" timestamp="1553776645539">
         <mark key="[" line="26" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/java/io/github/xudaojie/generator/MyCodeGeneratorTest.java" timestamp="1556028468288">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/java/io/github/xudaojie/generator/MyCodeGeneratorTest.java" timestamp="1556077147267">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="45" />
+        <mark key="." line="25" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1555657242905">
         <mark key="[" line="255" column="67" />
@@ -506,8 +515,8 @@
       <jump line="138" column="0" filename="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/main/java/io/github/xudaojie/generator/MyBatisGenerator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlQ29uZmlnLnNldERyaXZlck5hbWUodXJsKTsK</text>
+      <register name="&quot;" type="4">
+        <text>io.github.xudaojie</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -540,7 +549,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>com.baomidou.springboot.withannoidtypeprefix.entity.</text>
+        <text>io.github.xudaojie</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>

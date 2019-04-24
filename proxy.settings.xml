@@ -3,6 +3,6 @@
     <option name="USE_HTTP_PROXY" value="true" />
     <option name="PROXY_HOST" value="127.0.0.1" />
     <option name="PROXY_PORT" value="8001" />
-    <option name="PROXY_EXCEPTIONS" value="localhost,127.0.0.1,192.168.*,*.makezixun.com,*.aliyun.com," />
+    <option name="PROXY_EXCEPTIONS" value="localhost,127.0.0.1,192.168.*,nexus.makezixun.com,*.makezixun.com,*.aliyun.com" />
   </component>
 </application>
