@@ -69,6 +69,30 @@
   <component name="StatisticBase">
     <option name="persistedLessonId2State">
       <map>
+        <entry key="Basic Completion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1556260543046" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.CompletionwithTab">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1556260615825" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.StatementCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1556260613379" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="EditorBasics.Collapse">
           <value>
             <StatisticData>
@@ -122,6 +146,14 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="48405" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Smart Type Completion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1556260571150" />
             </StatisticData>
           </value>
         </entry>
