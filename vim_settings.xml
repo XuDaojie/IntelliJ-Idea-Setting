@@ -123,7 +123,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/data/NewsUserRepository.java" timestamp="1555669041377">
         <mark key="[" line="40" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/test/java/io/github/xudaojie/generator/ApiParamTest.java" timestamp="1556363638114">
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/test/java/io/github/xudaojie/generator/ApiParamTest.java" timestamp="1556365384305">
         <mark key="[" line="56" column="4" />
         <mark key="]" line="56" column="4" />
         <mark key="." line="56" column="4" />
@@ -194,6 +194,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-recommend/src/main/resources/application-local.yaml" timestamp="1553855821961">
         <mark key="[" line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-core/3.1.0/e4f3bbfb67524dcfb3a86944f2edbd46ddbb1a2/mybatis-plus-core-3.1.0-sources.jar!/com/baomidou/mybatisplus/core/conditions/AbstractWrapper.java" timestamp="1556364623474" />
       <file name="/news_forum.news_people_following [test]" timestamp="1553841947310">
         <mark key="[" line="0" column="0" />
       </file>
@@ -443,12 +444,12 @@
         <mark key="]" line="85" column="90" />
         <mark key="." line="85" column="90" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" timestamp="1556358693748">
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" timestamp="1556365271840">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="14" />
-        <mark key="]" line="60" column="14" />
-        <mark key="." line="60" column="14" />
-        <mark key="^" line="141" column="37" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="63" column="74" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/请求及响应.md" timestamp="1536574644914">
         <mark key="[" line="13" column="0" />
@@ -580,7 +581,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text encoding="base64">CiAgICAgICAgLy8gb3JkZXJCeT1uYW1lIGRlc2MKICAgICAgICAvLyBmaWx0ZXI9bmFtZSBlcSAnZGF2aWQnIGFuZCBwcmljZSBsdCAyLjU1</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -613,7 +614,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>eq</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -622,10 +623,10 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiByZW1vdmVCeUlkKExvbmcgaWQpIHsKICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigpOwogICAgICAgIHVzZXIuc2V0SWQoaWQpOwogICAgICAgIHVzZXIuc2V0RGVsZXRlKHRydWUpOwoKICAgICAgICByZXR1cm4gYmFzZURhdGFTb3VyY2UudXBkYXRlKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiByZW1vdmVCeUlkcyhDb2xsZWN0aW9uPExvbmc+IGlkTGlzdCkgewogICAgICAgIHJldHVybiBzdXBlci5yZW1vdmVCeUlkcyhpZExpc3QpOwogICAgfQ==</text>
+        <text encoding="base64">CiAgICAgICAgLy8gb3JkZXJCeT1uYW1lIGRlc2MKICAgICAgICAvLyBmaWx0ZXI9bmFtZSBlcSAnZGF2aWQnIGFuZCBwcmljZSBsdCAyLjU1</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiByZW1vdmVCeUlkKExvbmcgaWQpIHsKICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigpOwogICAgICAgIHVzZXIuc2V0SWQoaWQpOwogICAgICAgIHVzZXIuc2V0RGVsZXRlKHRydWUpOwoKICAgICAgICByZXR1cm4gYmFzZURhdGFTb3VyY2UudXBkYXRlKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiByZW1vdmVCeUlkcyhDb2xsZWN0aW9uPExvbmc+IGlkTGlzdCkgewogICAgICAgIHJldHVybiBzdXBlci5yZW1vdmVCeUlkcyhpZExpc3QpOwogICAgfQ==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
@@ -649,13 +650,13 @@
         <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICogQHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">Ly8gICAgICogQHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
