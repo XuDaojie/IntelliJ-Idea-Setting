@@ -67,6 +67,9 @@
         <mark key="]" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/ExternalNewsController.java" timestamp="1556354792480">
+        <mark key="[" line="49" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/main/resources/templates/serviceimpl.java.ftl" timestamp="1556350073219">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="20" column="15" />
@@ -89,6 +92,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/FollowingController.java" timestamp="1556270332654">
         <mark key="[" line="141" column="25" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/ad97fe8faaf01a3d3faacecd58e8fa6e78a973ca/guava-18.0-sources.jar!/com/google/common/collect/ImmutableMap.java" timestamp="1556354863506" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/TestBean.java" timestamp="1554358707084">
         <mark key="[" line="22" column="35" />
       </file>
@@ -151,6 +155,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/Java规范.md" timestamp="1555998501438">
         <mark key="[" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/base/BaseService.java" timestamp="1556353393489">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/InnerActiveController.java" timestamp="1536409196205">
         <mark key="[" line="20" column="19" />
       </file>
@@ -181,6 +190,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/TestRedisAutoCOnfiguration.java" timestamp="1554902837517">
         <mark key="[" line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/main/resources/templates/controller.java.ftl" timestamp="1556355231893">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/build.gradle" timestamp="1556264483252">
         <mark key="[" line="5" column="34" />
@@ -346,12 +360,6 @@
       <file name="$USER_HOME$/IdeaProjects/common/common-service/out/production/resources/mapper/UserReadSourceMapper.xml" timestamp="1555338824212">
         <mark key="[" line="19" column="84" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/resources/templates/controller.java.ftl" timestamp="1556203697859">
-        <mark key="'" line="29" column="35" />
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1536893700375">
         <mark key="[" line="19" column="26" />
       </file>
@@ -362,6 +370,11 @@
         <mark key="[" line="5" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/main/resources/application.properties" timestamp="1556250500723" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/base/BaseServiceImpl.java" timestamp="1556354890692">
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1556350701406">
         <mark key="[" line="0" column="0" />
       </file>
@@ -406,11 +419,8 @@
         <mark key="]" line="85" column="90" />
         <mark key="." line="85" column="90" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" timestamp="1556351778488">
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" timestamp="1556355217176">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="113" column="44" />
-        <mark key="]" line="113" column="44" />
-        <mark key="." line="113" column="44" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/请求及响应.md" timestamp="1536574644914">
         <mark key="[" line="13" column="0" />
@@ -541,8 +551,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -575,7 +585,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>? extends Serializable</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -584,40 +594,40 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBVc2VyRGF0YVNvdXJjZSB1c2VyRGF0YVNvdXJjZTsK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVuYWJsZUdyZWV0aW5nQ29uZmlndXJhdGlvbgpAUmVzdENvbnRyb2xsZXIK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9AU3ByaW5nQm9vdEFwcGxpY2F0aW9uKHNjYW5CYXNlUGFja2FnZXMgPSAiaW8uZ2l0aHViLnh1ZGFvamllIikK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgaG9tZSgpIHsKICAgICAgICByZXR1cm4gdGVzdEJlYW4uZ2V0TmFtZSgpOwovLyAgICAgICAgcmV0dXJuICJIZWxsbyBXb3JsZCEiOwovLyAgICAgICAgcmV0dXJuIGdyZWV0aW5nLnByaW50KCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBUZXN0QmVhbiB0ZXN0QmVhbjsKCiAgICBAUmVzb3VyY2UKICAgIHByaXZhdGUgR3JlZXRpbmcgZ3JlZXRpbmc7CgogICAgQFJlcXVlc3RNYXBwaW5nKHsiLyJ9KQo=</text>
+        <text encoding="base64">Ly8gICAgICogQHJldHVybgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXdlYiIK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
