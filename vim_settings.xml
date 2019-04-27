@@ -68,10 +68,10 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/test/java/io/github/xudaojie/generator/CodeGeneratorTest.java" timestamp="1556301174461">
-        <mark key="[" line="24" column="69" />
-        <mark key="]" line="28" column="31" />
-        <mark key="." line="28" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/test/java/io/github/xudaojie/generator/CodeGeneratorTest.java" timestamp="1556302897832">
+        <mark key="[" line="59" column="29" />
+        <mark key="]" line="59" column="29" />
+        <mark key="." line="59" column="29" />
       </file>
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.6183.87/IntelliJ IDEA.app.vmoptions" timestamp="1554055374025">
         <mark key="[" line="0" column="7" />
@@ -86,7 +86,7 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/main/resources/templates/repository.java.ftl" timestamp="1556268636946">
         <mark key="[" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/java/io/github/xudaojie/generator/CodeGeneratorTest.java" timestamp="1556301796616">
+      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/java/io/github/xudaojie/generator/CodeGeneratorTest.java" timestamp="1556302884104">
         <mark key="[" line="87" column="61" />
         <mark key="]" line="71" column="37" />
         <mark key="." line="71" column="37" />
@@ -595,7 +595,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>user</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -628,7 +628,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
