@@ -123,11 +123,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/data/NewsUserRepository.java" timestamp="1555669041377">
         <mark key="[" line="40" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/test/java/io/github/xudaojie/generator/ApiParamTest.java" timestamp="1556361360370">
-        <mark key="[" line="18" column="53" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="30" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/test/java/io/github/xudaojie/generator/ApiParamTest.java" timestamp="1556363638114">
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="4" />
+        <mark key="." line="56" column="4" />
+        <mark key="^" line="31" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/entity/FollowingPeopleDO.java" timestamp="1554026318797">
         <mark key="[" line="138" column="5" />
@@ -580,7 +580,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lt</text>
+        <text>private</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -613,7 +613,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lt</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
