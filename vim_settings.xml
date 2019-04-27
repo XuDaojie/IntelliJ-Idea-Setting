@@ -62,14 +62,15 @@
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.6183.87/IntelliJ IDEA.app.vmoptions" timestamp="1554055374025">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/service/impl/UserServiceImpl.java" timestamp="1556346292864">
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/service/impl/UserServiceImpl.java" timestamp="1556350037396">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/main/resources/templates/serviceimpl.java.ftl" timestamp="1556346305311">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/main/resources/templates/serviceimpl.java.ftl" timestamp="1556350073219">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/mapper/FollowingSubjectMapper.java" timestamp="1553848743535">
         <mark key="[" line="27" column="69" />
@@ -345,6 +346,12 @@
       <file name="$USER_HOME$/IdeaProjects/common/common-service/out/production/resources/mapper/UserReadSourceMapper.xml" timestamp="1555338824212">
         <mark key="[" line="19" column="84" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/resources/templates/controller.java.ftl" timestamp="1556203697859">
+        <mark key="'" line="29" column="35" />
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1536893700375">
         <mark key="[" line="19" column="26" />
       </file>
@@ -355,7 +362,7 @@
         <mark key="[" line="5" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/main/resources/application.properties" timestamp="1556250500723" />
-      <file name="/Dummy.txt" timestamp="1556345979342">
+      <file name="/Dummy.txt" timestamp="1556350701406">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536573864658">
@@ -399,11 +406,11 @@
         <mark key="]" line="85" column="90" />
         <mark key="." line="85" column="90" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" timestamp="1556346049119">
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" timestamp="1556351778488">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="113" column="44" />
+        <mark key="]" line="113" column="44" />
+        <mark key="." line="113" column="44" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/请求及响应.md" timestamp="1536574644914">
         <mark key="[" line="13" column="0" />
@@ -424,7 +431,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1556344177836">
+      <file name="/fragment.java" timestamp="1556351497771">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -535,7 +542,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UserService</text>
+        <text>String</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -568,7 +575,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UserService</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
