@@ -60,12 +60,6 @@
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/.gitignore" timestamp="1556250663356">
-        <mark key="[" line="193" column="5" />
-        <mark key="]" line="194" column="3" />
-        <mark key="^" line="194" column="3" />
-        <mark key="." line="194" column="3" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/test/java/io/github/xudaojie/generator/CodeGeneratorTest.java" timestamp="1556341906307">
         <mark key="[" line="59" column="29" />
         <mark key="]" line="59" column="29" />
@@ -277,12 +271,6 @@
       <file name="$USER_HOME$/IdeaProjects/Java/.editorconfig" timestamp="1556195086904">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/main/java/io/github/xudaojie/generator/service/impl/UserServiceImpl.java" timestamp="1556344210375">
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="15" column="31" />
-        <mark key="^" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-qa.yml" timestamp="1554117605289">
         <mark key="[" line="17" column="20" />
       </file>
@@ -400,8 +388,10 @@
         <mark key="]" line="65" column="42" />
         <mark key="." line="65" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556361982228">
+      <file name="/Dummy.txt" timestamp="1556418801677">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536573864658">
         <mark key="[" line="31" column="71" />
@@ -470,7 +460,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1556361982237">
+      <file name="/fragment.java" timestamp="1556418796067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -581,7 +571,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gb3JkZXJCeT1uYW1lIGRlc2MKICAgICAgICAvLyBmaWx0ZXI9bmFtZSBlcSAnZGF2aWQnIGFuZCBwcmljZSBsdCAyLjU1</text>
+        <text>dev</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -614,7 +604,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>eq</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
