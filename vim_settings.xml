@@ -388,7 +388,7 @@
         <mark key="]" line="65" column="42" />
         <mark key="." line="65" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556418801677">
+      <file name="/Dummy.txt" timestamp="1556422430928">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -434,11 +434,11 @@
         <mark key="]" line="85" column="90" />
         <mark key="." line="85" column="90" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" timestamp="1556365271840">
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" timestamp="1556422771787">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+        <mark key="[" line="63" column="11" />
+        <mark key="]" line="63" column="11" />
+        <mark key="." line="63" column="11" />
         <mark key="^" line="63" column="74" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/请求及响应.md" timestamp="1536574644914">
@@ -460,7 +460,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1556418796067">
+      <file name="/fragment.java" timestamp="1556422430921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -571,7 +571,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>String</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -604,7 +604,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
