@@ -168,8 +168,8 @@
         <mark key="]" line="158" column="1" />
         <mark key="." line="158" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/domain/User.java" timestamp="1556504867010">
-        <mark key="[" line="10" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/domain/User.java" timestamp="1556522025656">
+        <mark key="[" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/consts/SvideoConstant.java" timestamp="1556508941901">
         <mark key="[" line="50" column="5" />
@@ -253,6 +253,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e6156071-ea4a-4716-a19f-8accde962bc5/console.sql" timestamp="1553705154151">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/domain/src/main/java/com/ald/news/domain/svideo/SVideoPlaySizeRequest.java" timestamp="1556522167230">
+        <mark key="[" line="2" column="36" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/BaseEvent.java" timestamp="1554031093464">
         <mark key="[" line="2" column="24" />
       </file>
@@ -320,6 +323,9 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-test.yml" timestamp="1554117755951">
         <mark key="[" line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/data/MnConfigRepository.java" timestamp="1556522896488">
+        <mark key="[" line="46" column="35" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/SubjectService.java" timestamp="1554035194968">
         <mark key="[" line="157" column="56" />
       </file>
@@ -366,6 +372,9 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/FollowingService.java" timestamp="1555426894822">
         <mark key="[" line="25" column="59" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/service/SvideoService.java" timestamp="1556523067275">
+        <mark key="[" line="42" column="37" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/common/common-service/out/production/resources/mapper/UserReadSourceMapper.xml" timestamp="1555338824212">
         <mark key="[" line="19" column="84" />
       </file>
@@ -382,8 +391,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-test2.yml" timestamp="1554117609691">
         <mark key="[" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/controller/InnerSvideoController.java" timestamp="1556521121784">
-        <mark key="[" line="551" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/controller/InnerSvideoController.java" timestamp="1556522925706">
+        <mark key="[" line="555" column="15" />
+        <mark key="]" line="555" column="15" />
+        <mark key="." line="555" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/common/gradle/wrapper/gradle-wrapper.properties" timestamp="1553774389729">
         <mark key="[" line="5" column="69" />
@@ -436,9 +447,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/src/main/java/com/ald/news/sample/eventbus/subscriber/AsyncXxEventSubscriber.java" timestamp="1554734350601">
         <mark key="[" line="26" column="66" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/service/impl/SvideoServiceImpl.java" timestamp="1556521022400">
-        <mark key="[" line="683" column="56" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/service/impl/SvideoServiceImpl.java" timestamp="1556523026865" />
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/test/java/io/github/xudaojie/boot/bean/AccountEntity.java" timestamp="1536939267081">
         <mark key="[" line="13" column="38" />
       </file>
@@ -581,7 +590,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KiAg</text>
+        <text>null</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -614,7 +623,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KiAg</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
