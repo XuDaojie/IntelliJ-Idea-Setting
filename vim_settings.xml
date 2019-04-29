@@ -163,8 +163,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/InnerActiveController.java" timestamp="1536409196205">
         <mark key="[" line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/controller/api/SvideoController.java" timestamp="1556507659222">
-        <mark key="[" line="164" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/controller/api/SvideoController.java" timestamp="1556520910881">
+        <mark key="[" line="158" column="1" />
+        <mark key="]" line="158" column="1" />
+        <mark key="." line="158" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/domain/User.java" timestamp="1556504867010">
         <mark key="[" line="10" column="3" />
@@ -380,6 +382,9 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-test2.yml" timestamp="1554117609691">
         <mark key="[" line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/controller/InnerSvideoController.java" timestamp="1556521121784">
+        <mark key="[" line="551" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/common/gradle/wrapper/gradle-wrapper.properties" timestamp="1553774389729">
         <mark key="[" line="5" column="69" />
       </file>
@@ -431,8 +436,8 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/src/main/java/com/ald/news/sample/eventbus/subscriber/AsyncXxEventSubscriber.java" timestamp="1554734350601">
         <mark key="[" line="26" column="66" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/service/impl/SvideoServiceImpl.java" timestamp="1556518613671">
-        <mark key="[" line="699" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/service/impl/SvideoServiceImpl.java" timestamp="1556521022400">
+        <mark key="[" line="683" column="56" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/test/java/io/github/xudaojie/boot/bean/AccountEntity.java" timestamp="1536939267081">
         <mark key="[" line="13" column="38" />
@@ -575,8 +580,8 @@
       <jump line="61" column="96" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bGlzdC5nZXQoNikuZ2V0Q29tbWVudFNpemUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KiAg</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -609,7 +614,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>io.github.xudaojie</text>
+        <text encoding="base64">KiAg</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
