@@ -31,6 +31,11 @@
       <file name="/news_forum.news_people_following [@192.168.115.105]" timestamp="1553845491349">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-activity/news-activity/src/test/java/com/ald/news/client/Test1.java" timestamp="1556642167314">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/TestRedisProperties.java" timestamp="1554902808818">
         <mark key="[" line="2" column="33" />
       </file>
@@ -391,10 +396,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1556623250199">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="0" column="38" />
+      <file name="/fragment.java" timestamp="1556642231579">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/config/ConfigDataSource.java" timestamp="1556592347589" />
     </filemarks>
@@ -502,7 +507,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>showPlayNumber</text>
+        <text>find(0)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -535,7 +540,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>showPlayNumber</text>
+        <text>find(0)</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
