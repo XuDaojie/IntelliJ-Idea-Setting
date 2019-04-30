@@ -175,8 +175,13 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/domain/User.java" timestamp="1556522025656">
         <mark key="[" line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/consts/SvideoConstant.java" timestamp="1556508941901">
-        <mark key="[" line="50" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/consts/SvideoConstant.java" timestamp="1556606243963">
+        <mark key="[" line="64" column="61" />
+        <mark key="]" line="64" column="61" />
+        <mark key="." line="64" column="61" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/domain/src/main/java/com/ald/news/domain/svideo/VideoInfo.java" timestamp="1556607311486">
+        <mark key="[" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/IJokeService.java" timestamp="1554862988397">
         <mark key="[" line="32" column="80" />
@@ -310,6 +315,9 @@
         <mark key="[" line="1" column="48" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/SensorsAnalyticsUtil.java" timestamp="1556533612593" />
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/domain/src/main/java/com/ald/news/domain/svideo/vo/SvideoVo.java" timestamp="1556605635211">
+        <mark key="[" line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/vo/SubjectResourceVO.java" timestamp="1554296294820">
         <mark key="[" line="2" column="30" />
       </file>
@@ -410,8 +418,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" timestamp="1536910060314">
         <mark key="[" line="271" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/resources/mapper/ShortVideoMapper.xml" timestamp="1553602257921">
-        <mark key="[" line="407" column="48" />
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/resources/mapper/ShortVideoMapper.xml" timestamp="1556605557317">
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/manage/PushBo.java" timestamp="1554041294964">
         <mark key="[" line="2" column="21" />
@@ -442,10 +452,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/src/main/java/com/ald/news/sample/eventbus/subscriber/AsyncXxEventSubscriber.java" timestamp="1554734350601">
         <mark key="[" line="26" column="66" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/service/impl/SvideoServiceImpl.java" timestamp="1556604349986">
-        <mark key="[" line="407" column="35" />
-        <mark key="]" line="702" column="0" />
-        <mark key="." line="702" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news-short-video/news-svideo/src/main/java/com/ald/news/svideo/service/impl/SvideoServiceImpl.java" timestamp="1556607711386">
+        <mark key="[" line="726" column="12" />
+        <mark key="]" line="726" column="12" />
+        <mark key="." line="726" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/test/java/io/github/xudaojie/boot/bean/AccountEntity.java" timestamp="1536939267081">
         <mark key="[" line="13" column="38" />
@@ -589,8 +599,8 @@
       <jump line="61" column="96" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>initPlayNumber == null</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -623,7 +633,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>initPlayNumber == null</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
