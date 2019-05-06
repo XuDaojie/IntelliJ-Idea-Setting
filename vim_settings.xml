@@ -247,7 +247,7 @@
       <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/main/java/io/github/xudaojie/generator/service/UserService.java" timestamp="1556203387110">
         <mark key="[" line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/SensorsAnalyticsUtil.java" timestamp="1557113322718" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/SensorsAnalyticsUtil.java" timestamp="1557114536817" />
       <file name="$USER_HOME$/IdeaProjects/news-short-video/domain/src/main/java/com/ald/news/domain/svideo/vo/SvideoVo.java" timestamp="1556609759077">
         <mark key="[" line="287" column="0" />
         <mark key="]" line="287" column="0" />
@@ -306,6 +306,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/data/mapper/NewsContentTopLogMapper.xml" timestamp="1555957877371">
         <mark key="[" line="17" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/service/impl/CommonCommentServiceImpl.java" timestamp="1557114971565">
+        <mark key="[" line="1259" column="28" />
+        <mark key="]" line="1259" column="28" />
+        <mark key="." line="1259" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/test/java/io/github/xudaojie/boot/bean/AccountDTO.java" timestamp="1536939298620">
         <mark key="[" line="6" column="23" />
@@ -515,7 +520,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>find(0)</text>
+        <text>bad</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -548,7 +553,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>find(0)</text>
+        <text>bad</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
