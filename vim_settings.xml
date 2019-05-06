@@ -307,10 +307,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/data/mapper/NewsContentTopLogMapper.xml" timestamp="1555957877371">
         <mark key="[" line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/service/impl/CommonCommentServiceImpl.java" timestamp="1557114971565">
-        <mark key="[" line="1259" column="28" />
-        <mark key="]" line="1259" column="28" />
-        <mark key="." line="1259" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-comment/src/main/java/com/ald/news/comment/service/impl/CommonCommentServiceImpl.java" timestamp="1557124263161">
+        <mark key="[" line="1259" column="35" />
+        <mark key="]" line="1259" column="35" />
+        <mark key="." line="1259" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/test/java/io/github/xudaojie/boot/bean/AccountDTO.java" timestamp="1536939298620">
         <mark key="[" line="6" column="23" />
@@ -343,7 +343,7 @@
         <mark key="^" line="28" column="42" />
         <mark key="." line="28" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557122825518">
+      <file name="/Dummy.txt" timestamp="1557124392444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -520,7 +520,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>remove: 1. 删除无用文件</text>
+        <text>Object</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -553,7 +553,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>remove: 1. 删除无用文件</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
