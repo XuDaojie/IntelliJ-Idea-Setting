@@ -67,6 +67,9 @@
         <mark key="]" line="93" column="13" />
         <mark key="." line="93" column="13" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/service/impl/WalletServiceImpl.java" timestamp="1557732494115">
+        <mark key="[" line="147" column="5" />
+      </file>
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.6183.87/IntelliJ IDEA.app.vmoptions" timestamp="1554055374025">
         <mark key="[" line="0" column="7" />
       </file>
@@ -179,6 +182,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/bean/BeanProperty.java" timestamp="1557147980956">
         <mark key="[" line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/rabbitmq/UserDrawCashTopic.java" timestamp="1557735016866" />
       <file name="$USER_HOME$/IdeaProjects/news-short-video/domain/src/main/java/com/ald/news/domain/svideo/VideoInfo.java" timestamp="1556607311486">
         <mark key="[" line="15" column="34" />
       </file>
@@ -226,6 +230,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/bean/ReflectTool.java" timestamp="1557147760999">
         <mark key="[" line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/controller/InnerWalletController.java" timestamp="1557732683879">
+        <mark key="[" line="198" column="53" />
+        <mark key="]" line="198" column="53" />
+        <mark key="." line="198" column="53" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/client/ResourceClient.java" timestamp="1554383063066">
         <mark key="[" line="21" column="37" />
       </file>
@@ -250,8 +259,8 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/base/BaseRepository.java" timestamp="1556447451911">
         <mark key="[" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1557730803762">
-        <mark key="[" line="1514" column="58" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1557731255039">
+        <mark key="[" line="1501" column="57" />
       </file>
       <file name="/news_forum.news_subject [@192.168.115.105]" timestamp="1554063610174">
         <mark key="[" line="0" column="0" />
@@ -404,6 +413,9 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/data/mapper/NewsContentTopLogMapper.xml" timestamp="1555957877371">
         <mark key="[" line="17" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/rabbitmq/PayDrawCashRabbitmqUtil.java" timestamp="1557734640016">
+        <mark key="[" line="66" column="51" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/MyJava/springboot/src/test/java/io/github/xudaojie/boot/bean/AccountDTO.java" timestamp="1536939298620">
         <mark key="[" line="6" column="23" />
       </file>
@@ -434,7 +446,7 @@
         <mark key="]" line="22" column="14" />
         <mark key="." line="22" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557712062988">
+      <file name="/Dummy.txt" timestamp="1557735013568">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -525,7 +537,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1557712062977">
+      <file name="/fragment.java" timestamp="1557735013562">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -641,13 +653,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public String getApprenticeGmtCreate() {
-        return apprenticeGmtCreate;
-    }
-
-    public void setApprenticeGmtCreate(String apprenticeGmtCreate) {
-        this.apprenticeGmtCreate = apprenticeGmtCreate;
-    }</text>
+        <text>test</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -680,7 +686,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
