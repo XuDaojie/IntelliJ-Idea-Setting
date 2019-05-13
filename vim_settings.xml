@@ -13,6 +13,7 @@
       <file name="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/main/java/io/github/xudaojie/generator/controller/UserController.java" timestamp="1556203313372">
         <mark key="[" line="31" column="11" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/resource/resource/src/main/java/com/ald/news/resource/entity/ReqCompressDto.java" timestamp="1557756169377" />
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/content/HomeContentQuartz.java" timestamp="1536510590011">
         <mark key="[" line="137" column="28" />
       </file>
@@ -69,6 +70,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/service/impl/WalletServiceImpl.java" timestamp="1557732494115">
         <mark key="[" line="147" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/resource/resource/src/main/java/com/ald/news/resource/controller/api/FileController.java" timestamp="1557755311794" />
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.6183.87/IntelliJ IDEA.app.vmoptions" timestamp="1554055374025">
         <mark key="[" line="0" column="7" />
       </file>
@@ -194,6 +196,7 @@
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/mapper/UserReadSourceMapper.java" timestamp="1555064942911">
         <mark key="[" line="21" column="108" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/resource/resource/src/main/java/com/ald/news/resource/resource/impl/VideoResourcePersistent.java" timestamp="1557755770860" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserAttentionController.java" timestamp="1553838667761">
         <mark key="[" line="186" column="57" />
       </file>
@@ -282,6 +285,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/BaseEvent.java" timestamp="1554031093464">
         <mark key="[" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/resource/resource/src/main/java/com/ald/news/resource/service/impl/ResourceServiceImpl.java" timestamp="1557755409494" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/event/ArticleCheckEvent.java" timestamp="1554129967328">
         <mark key="[" line="4" column="0" />
       </file>
@@ -408,7 +412,7 @@
       <file name="$USER_HOME$/IdeaProjects/common/gradle/wrapper/gradle-wrapper.properties" timestamp="1553774389729">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557746292710">
+      <file name="/Dummy.txt" timestamp="1557755187029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -497,7 +501,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1557740600661">
+      <file name="/fragment.java" timestamp="1557755883266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -508,6 +512,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/config/ConfigDataSource.java" timestamp="1557728858491">
         <mark key="[" line="150" column="13" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/resource/resource/src/main/java/com/ald/news/resource/client/FileCompressClient.java" timestamp="1557756392017" />
     </filemarks>
     <jumps>
       <jump line="7" column="13" filename="$USER_HOME$/AndroidStudioProjects/AnYiTou/app/src/main/java/aiyitou/bocai/com/anyitou/bean/ProductListBean.java" />
@@ -613,7 +618,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>userStatVo</text>
+        <text>dto</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -646,7 +651,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userStatVo</text>
+        <text>dto</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
