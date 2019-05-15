@@ -195,8 +195,11 @@
       <file name="/news_forum.news_subject_resource [@192.168.115.105]" timestamp="1554063630660">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/api/UserController.java" timestamp="1557909427828">
-        <mark key="[" line="46" column="46" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/api/UserController.java" timestamp="1557914224867">
+        <mark key="[" line="118" column="27" />
+        <mark key="]" line="118" column="26" />
+        <mark key="^" line="118" column="26" />
+        <mark key="." line="118" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/rabbitmq/PayDrawCashRabbitmqUtil.java" timestamp="1557734640016">
         <mark key="[" line="66" column="51" />
@@ -225,7 +228,9 @@
       <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/manage/PushBo.java" timestamp="1554041294964">
         <mark key="[" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/utils/QueryRequestUtils.java" timestamp="1557910774096" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/utils/QueryRequestUtils.java" timestamp="1557914782294">
+        <mark key="[" line="49" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/bean/BeanCopierFactory.java" timestamp="1557147703245">
         <mark key="[" line="11" column="3" />
       </file>
@@ -280,6 +285,12 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/inner/InnerUserController.java" timestamp="1557805118067">
         <mark key="[" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/NewsUserServiceImpl.java" timestamp="1557840623998">
+        <mark key="[" line="432" column="0" />
+        <mark key="]" line="432" column="0" />
+        <mark key="^" line="432" column="0" />
+        <mark key="." line="432" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/resource/resource/src/main/java/com/ald/news/resource/task/PendingJobPool.java" timestamp="1557750354580">
         <mark key="[" line="103" column="27" />
       </file>
@@ -328,7 +339,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/manage/req/PushBo.java" timestamp="1554041486540">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/test/java/io/github/xudaojie/generator/ApiParamTest.java" timestamp="1557912725649">
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/test/java/io/github/xudaojie/generator/ApiParamTest.java" timestamp="1557914015556">
         <mark key="[" line="18" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/entity/FollowingPeopleDO.java" timestamp="1554026318797">
@@ -476,6 +487,12 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/ActiveRuleController.java" timestamp="1557558980632">
         <mark key="[" line="71" column="20" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/core/src/main/java/com/ald/forum/core/publish/PubState.java" timestamp="1557820066330">
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="23" column="41" />
+        <mark key="^" line="23" column="41" />
+        <mark key="." line="23" column="41" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/main/java/io/github/xudaojie/generator/templates/BaseDataSource.java" timestamp="1556268680327">
         <mark key="[" line="0" column="46" />
       </file>
@@ -533,6 +550,12 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/domain/req/UserRequest.java" timestamp="1557569996482">
         <mark key="[" line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" timestamp="1557740799517">
+        <mark key="[" line="71" column="17" />
+        <mark key="]" line="35" column="28" />
+        <mark key="." line="35" column="28" />
+        <mark key="^" line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/请求及响应.md" timestamp="1536574644914">
         <mark key="[" line="13" column="0" />
       </file>
@@ -550,6 +573,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/controller/api/UserReadSourceController.java" timestamp="1554262333321">
         <mark key="[" line="55" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/config/ConfigDataSource.java" timestamp="1557835642377">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="107" column="15" />
+        <mark key="." line="107" column="15" />
+        <mark key="^" line="107" column="15" />
       </file>
     </filemarks>
     <jumps>
