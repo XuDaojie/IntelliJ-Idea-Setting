@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" protocol="file" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" protocol="file" />
@@ -158,8 +158,8 @@
         <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1557974590873" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/AppLoginServiceImpl.java" timestamp="1555661442011">
-        <mark key="[" line="75" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/AppLoginServiceImpl.java" timestamp="1558073210581">
+        <mark key="[" line="105" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/Java规范.md" timestamp="1555998501438">
         <mark key="[" line="5" column="7" />
@@ -305,6 +305,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/BaseEvent.java" timestamp="1554031093464">
         <mark key="[" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/base/Response.java" timestamp="1558072446971">
+        <mark key="[" line="390" column="44" />
+        <mark key="]" line="390" column="44" />
+        <mark key="." line="390" column="44" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/event/ArticleCheckEvent.java" timestamp="1554129967328">
         <mark key="[" line="4" column="0" />
       </file>
@@ -417,11 +422,11 @@
       <file name="/news_forum.news_subject_resource [@192.168.115.105]" timestamp="1554063630660">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/api/UserController.java" timestamp="1557914224867">
-        <mark key="[" line="118" column="27" />
-        <mark key="]" line="118" column="26" />
-        <mark key="^" line="118" column="26" />
-        <mark key="." line="118" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/api/UserController.java" timestamp="1558072685825">
+        <mark key="[" line="74" column="26" />
+        <mark key="]" line="74" column="26" />
+        <mark key="^" line="128" column="26" />
+        <mark key="." line="74" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/resources/data/mapper/NewsContentTopLogMapper.xml" timestamp="1555957877371">
         <mark key="[" line="17" column="38" />
@@ -460,7 +465,7 @@
       <file name="$USER_HOME$/IdeaProjects/common/gradle/wrapper/gradle-wrapper.properties" timestamp="1553774389729">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557928965999">
+      <file name="/Dummy.txt" timestamp="1558073214158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536573864658">
@@ -674,7 +679,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, produces = MediaType.APPLICATION_JSON_UTF8_VALUE</text>
+        <text encoding="base64">TGlzdDxVc2VyPg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -707,7 +712,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, produces = MediaType.APPLICATION_JSON_UTF8_VALUE</text>
+        <text encoding="base64">TGlzdDxVc2VyPg==</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
