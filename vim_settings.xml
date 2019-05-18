@@ -25,10 +25,17 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/UserManageClient.java" timestamp="1558160439610" />
+      <file name="$USER_HOME$/IdeaProjects/news/logs/quartz/quartz-error.log" timestamp="1558173717493" />
       <file name="/news_forum.news_people_following [@192.168.115.105]" timestamp="1553845491349">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/NewsUserSuspicionMapper.java" timestamp="1558096595326" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/client/TestClient.java" timestamp="1558173244389">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="7" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserNationalDayMapper.java" timestamp="1557465655691">
         <mark key="[" line="28" column="43" />
       </file>
@@ -204,6 +211,12 @@
       <file name="/news_forum.news_subject_resource [@192.168.115.105]" timestamp="1554063630660">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/api/UserController.java" timestamp="1558173197929">
+        <mark key="[" line="88" column="52" />
+        <mark key="]" line="78" column="26" />
+        <mark key="^" line="134" column="26" />
+        <mark key="." line="78" column="26" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/rabbitmq/PayDrawCashRabbitmqUtil.java" timestamp="1557734640016">
         <mark key="[" line="66" column="51" />
       </file>
@@ -314,8 +327,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-short-video/gradle/wrapper/gradle-wrapper.properties" timestamp="1556507206556">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/aop/ClientAspect.java" timestamp="1558170071747">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/aop/ClientAspect.java" timestamp="1558173381938">
+        <mark key="[" line="18" column="75" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/Objects.toStringHelper (Guava)" timestamp="1557199940468">
         <mark key="[" line="0" column="0" />
@@ -686,7 +702,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>users</text>
+        <text>static</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -719,7 +735,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>users</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
