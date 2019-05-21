@@ -282,7 +282,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1558417670089">
+      <file name="/fragment.java" timestamp="1558432817791">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -330,8 +330,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-short-video/gradle/wrapper/gradle-wrapper.properties" timestamp="1556507206556">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/aop/ClientAspect.java" timestamp="1558182852137">
-        <mark key="[" line="17" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/aop/ClientAspect.java" timestamp="1558433668347">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="28" />
+        <mark key="^" line="34" column="7" />
+        <mark key="." line="43" column="28" />
       </file>
       <file name="/Objects.toStringHelper (Guava)" timestamp="1557199940468">
         <mark key="[" line="0" column="0" />
@@ -710,8 +713,8 @@
       <jump line="61" column="96" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtcyh7CiAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJpbnZpdGVDb2RlIiwgdmFsdWUgPSAi6YKA6K+356CBIiwgcmVxdWlyZWQgPSB0cnVlLCBkYXRhVHlwZSA9ICJTdHJpbmciLCBwYXJhbVR5cGUgPSAicXVlcnkiKX0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>request</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -744,7 +747,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, produces = MediaType.APPLICATION_JSON_UTF8_VALUE</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
