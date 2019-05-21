@@ -25,6 +25,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/UserManageClient.java" timestamp="1558317603775" />
       <file name="$USER_HOME$/IdeaProjects/news/logs/quartz/quartz-error.log" timestamp="1558173717493" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Exception.java" timestamp="1558419929180">
+        <mark key="[" line="50" column="34" />
+      </file>
       <file name="/news_forum.news_people_following [@192.168.115.105]" timestamp="1553845491349">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,11 +174,6 @@
         <mark key="[" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserMobileAntiResultMapper.java" timestamp="1558317554023" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/activity/WelfareController.java" timestamp="1558417783989">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-test.yml" timestamp="1554117755951">
         <mark key="[" line="17" column="20" />
       </file>
@@ -235,7 +233,7 @@
         <mark key="[" line="5" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1558160667286" />
-      <file name="/Dummy.txt" timestamp="1558417670098">
+      <file name="/Dummy.txt" timestamp="1558420141225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/ConfigController.java" timestamp="1557835148901">
@@ -414,7 +412,9 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/IJokeService.java" timestamp="1554862988397">
         <mark key="[" line="32" column="80" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserAwardServiceImpl.java" timestamp="1558417255057" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserAwardServiceImpl.java" timestamp="1558420051040">
+        <mark key="[" line="1004" column="55" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-recommend/src/main/resources/application-local.yaml" timestamp="1553855821961">
         <mark key="[" line="4" column="10" />
       </file>
@@ -707,7 +707,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gInRva2VuIiwgdmFsdWUgPSAi55So5oi3dG9rZW4iLCByZXF1aXJlZCA9IHRydWUsIGRhdGFUeXBlID0gIlN0cmluZyIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpLAo=</text>
+        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtcyh7CiAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJpbnZpdGVDb2RlIiwgdmFsdWUgPSAi6YKA6K+356CBIiwgcmVxdWlyZWQgPSB0cnVlLCBkYXRhVHlwZSA9ICJTdHJpbmciLCBwYXJhbVR5cGUgPSAicXVlcnkiKX0pCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -740,7 +740,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HttpHeaders.FROM</text>
+        <text>, produces = MediaType.APPLICATION_JSON_UTF8_VALUE</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -749,27 +749,33 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gInRva2VuIiwgdmFsdWUgPSAi55So5oi3dG9rZW4iLCByZXF1aXJlZCA9IHRydWUsIGRhdGFUeXBlID0gIlN0cmluZyIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpLAo=</text>
+        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtcyh7CiAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJpbnZpdGVDb2RlIiwgdmFsdWUgPSAi6YKA6K+356CBIiwgcmVxdWlyZWQgPSB0cnVlLCBkYXRhVHlwZSA9ICJTdHJpbmciLCBwYXJhbVR5cGUgPSAicXVlcnkiKX0pCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Host: 192.168.115.66:8763
-X-App-Version: iOS:120
-X-API-Version: 110
-Connection: close</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gInRva2VuIiwgdmFsdWUgPSAi55So5oi3dG9rZW4iLCByZXF1aXJlZCA9IHRydWUsIGRhdGFUeXBlID0gIlN0cmluZyIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpLAo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiMjIwpQT1NUIC9hcGkvaW5uZXIvdXNlci9kZXZpY2UvYWN0aXZlIEhUVFAvMS4xCkNvbnRlbnQtVHlwZTogbXVsdGlwYXJ0L2Zvcm0tZGF0YTsgY2hhcnNldD11dGYtODsgYm91bmRhcnk9X19YX1BBV19CT1VOREFSWV9fCkhvc3Q6IDE5Mi4xNjguMTE1LjY2Ojg3NjMKQ29ubmVjdGlvbjogY2xvc2UKVXNlci1BZ2VudDogUGF3LzMuMS44IChNYWNpbnRvc2g7IE9TIFgvMTAuMTQuNCkgR0NESFRUUFJlcXVlc3QKQ29udGVudC1MZW5ndGg6IDEwOQoKLS1fX1hfUEFXX0JPVU5EQVJZX18KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJkZXZpY2VJZHMiCgoxLDIsMyw0LDUKLS1fX1hfUEFXX0JPVU5EQVJZX18tLQo=</text>
+        <text>Host: 192.168.115.66:8763
+X-App-Version: iOS:120
+X-API-Version: 110
+Connection: close</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoU3RyaW5nVXRpbHMuZXF1YWxzKCJwcm9wIiwgdHlwZSkpIHsKICAgICAgICAgICAgICAgICAgICBpZiAodmFsID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcy5zZXRWYWwoIiIpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHByb3BlcnRpZXMuc2V0VmFsKHZhbCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">CiMjIwpQT1NUIC9hcGkvaW5uZXIvdXNlci9kZXZpY2UvYWN0aXZlIEhUVFAvMS4xCkNvbnRlbnQtVHlwZTogbXVsdGlwYXJ0L2Zvcm0tZGF0YTsgY2hhcnNldD11dGYtODsgYm91bmRhcnk9X19YX1BBV19CT1VOREFSWV9fCkhvc3Q6IDE5Mi4xNjguMTE1LjY2Ojg3NjMKQ29ubmVjdGlvbjogY2xvc2UKVXNlci1BZ2VudDogUGF3LzMuMS44IChNYWNpbnRvc2g7IE9TIFgvMTAuMTQuNCkgR0NESFRUUFJlcXVlc3QKQ29udGVudC1MZW5ndGg6IDEwOQoKLS1fX1hfUEFXX0JPVU5EQVJZX18KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJkZXZpY2VJZHMiCgoxLDIsMyw0LDUKLS1fX1hfUEFXX0JPVU5EQVJZX18tLQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlcldhbGxldHMuZ2V0Q29kZSgpID09IDIwMCkgewogICAgICAgICAgICAKICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoU3RyaW5nVXRpbHMuZXF1YWxzKCJwcm9wIiwgdHlwZSkpIHsKICAgICAgICAgICAgICAgICAgICBpZiAodmFsID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcy5zZXRWYWwoIiIpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHByb3BlcnRpZXMuc2V0VmFsKHZhbCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAodXNlcldhbGxldHMuZ2V0Q29kZSgpID09IDIwMCkgewogICAgICAgICAgICAKICAgICAgICB9</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>public String getApprenticeGmtCreate() {
         return apprenticeGmtCreate;
     }
@@ -778,20 +784,14 @@ Connection: close</text>
         this.apprenticeGmtCreate = apprenticeGmtCreate;
     }</text>
       </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgRCBiYXNlU2VydmljZTsKCiAgICBAR2V0TWFwcGluZygiL3F3ZXF3ZXF3ZXF3ZXEiKQogICAgcHJpdmF0ZSBUIGZpbmRCeWlkKFN0cmluZyBpZCkgewogICAgICAgIHJldHVybiBiYXNlU2VydmljZS5nZXRCeUlkKGlkKTsKICAgIH0=</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEBwYXJhbSBpZCBpZ25vcmUKICAgICAqIEByZXR1cm4g5qC55o2uaWTov5Tlm57mlbDmja4KICAgICAqLwogICAgQEdldE1hcHBpbmcodmFsdWUgPSAiL3tpZH0iLCBoZWFkZXJzID0gIiIpCiAgICBwdWJsaWMgVXNlciBmaW5kQnlJZChAUGF0aFZhcmlhYmxlIFN0cmluZyBpZCkgewogICAgICAgIHJldHVybiB1c2VyU2VydmljZS5nZXRCeUlkKGlkKTsKICAgIH0=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRCBiYXNlU2VydmljZTsKCiAgICBAR2V0TWFwcGluZygiL3F3ZXF3ZXF3ZXF3ZXEiKQogICAgcHJpdmF0ZSBUIGZpbmRCeWlkKFN0cmluZyBpZCkgewogICAgICAgIHJldHVybiBiYXNlU2VydmljZS5nZXRCeUlkKGlkKTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
