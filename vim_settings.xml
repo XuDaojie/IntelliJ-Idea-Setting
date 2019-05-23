@@ -49,6 +49,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/service/impl/WalletServiceImpl.java" timestamp="1557732494115">
         <mark key="[" line="147" column="5" />
       </file>
+      <file name="$USER_HOME$/Downloads/日志.txt" timestamp="1558606140520" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/README.md" timestamp="1557910419632">
         <mark key="[" line="73" column="12" />
       </file>
@@ -278,7 +279,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1558600223623">
+      <file name="/fragment.java" timestamp="1558606453918">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -558,6 +559,9 @@
       <file name="$USER_HOME$/IdeaProjects/news-activity/build.gradle" timestamp="1555579040948">
         <mark key="[" line="44" column="66" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/history/ReadHisCountController.java" timestamp="1558606058492">
+        <mark key="[" line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/api/TestController.java" timestamp="1558447025843">
         <mark key="[" line="48" column="5" />
         <mark key="]" line="47" column="40" />
@@ -584,12 +588,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1536893700375">
         <mark key="[" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1558496668666" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/ReadHisCountServiceImpl.java" timestamp="1558603595030">
-        <mark key="[" line="67" column="16" />
-        <mark key="]" line="67" column="16" />
-        <mark key="." line="67" column="16" />
-        <mark key="^" line="151" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/ReadHisCountServiceImpl.java" timestamp="1558606280303">
+        <mark key="[" line="66" column="37" />
+        <mark key="]" line="66" column="37" />
+        <mark key="." line="66" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536573864658">
         <mark key="[" line="31" column="71" />
@@ -743,7 +745,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>StringUtils.equals(startDate, endDate)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -776,7 +778,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>StringUtils.equals(startDate, endDate)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -785,9 +787,24 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmVhZENvdW50RG8uc2V0UmVhZERhdGUobmV3IFNpbXBsZURhdGVGb3JtYXQoRGF0ZVV0aWwuREVGQVVMVF9QQVRURVJOX1dJVEhfSFlQSEVOKS5wYXJzZShzdGFydERhdGUpKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlYWRDb3VudERvLnNldFJlYWREYXRlKG5ldyBTaW1wbGVEYXRlRm9ybWF0KERhdGVVdGlsLkRFRkFVTFRfUEFUVEVSTl9XSVRIX0hZUEhFTikucGFyc2UoZW5kRGF0ZSkpOwo=</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlYWRDb3VudERvLnNldFJlYWREYXRlKG5ldyBTaW1wbGVEYXRlRm9ybWF0KERhdGVVdGlsLkRFRkFVTFRfUEFUVEVSTl9XSVRIX0hZUEhFTikucGFyc2Uoc3RhcnREYXRlKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>//    @Pointcut(&quot;execution(public * io.github.xudaojie.generator.client.*.*(..))&quot;)
 //    public void asss() {
 //    }
@@ -797,28 +814,13 @@
 //        System.err.println(&quot;x&quot;);
 //    }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
-        <text>private void () {
-    // todo
-}</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>private void () {
+    // todo
+}</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -826,8 +828,8 @@
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIENsaWVudEh0dHBSZXNwb25zZSBpbnRlcmNlcHQoSHR0cFJlcXVlc3QgcmVxdWVzdCwgYnl0ZVtdIGJvZHksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDbGllbnRIdHRwUmVxdWVzdEV4ZWN1dGlvbiBleGVjdXRpb24pIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgUmVxdWVzdEF0dHJpYnV0ZXMgYXR0cmlidXRlcyA9IFJlcXVlc3RDb250ZXh0SG9sZGVyLmdldFJlcXVlc3RBdHRyaWJ1dGVzKCk7CiAgICAgICAgT2JqZWN0IHJlcXVlc3RJZCA9IGF0dHJpYnV0ZXMuZ2V0QXR0cmlidXRlKCJyZXF1ZXN0SWQiLCBSZXF1ZXN0QXR0cmlidXRlcy5TQ09QRV9SRVFVRVNUKTsKICAgICAgICByZXF1ZXN0LmdldEhlYWRlcnMoKS5hZGQoIlgtUmVxdWVzdC1JRCIsIHJlcXVlc3RJZCArICIiKTsKICAgICAgICByZXR1cm4gZXhlY3V0aW9uLmV4ZWN1dGUocmVxdWVzdCwgYm9keSk7CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
