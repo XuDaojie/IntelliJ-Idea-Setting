@@ -204,13 +204,6 @@
       <file name="/news_forum.news_subject_resource [@192.168.115.105]" timestamp="1554063630660">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/api/UserController.java" timestamp="1558446617505">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="82" column="4" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/rabbitmq/PayDrawCashRabbitmqUtil.java" timestamp="1557734640016">
         <mark key="[" line="66" column="51" />
       </file>
@@ -226,7 +219,7 @@
       <file name="$USER_HOME$/IdeaProjects/common/gradle/wrapper/gradle-wrapper.properties" timestamp="1553774389729">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558533080429">
+      <file name="/Dummy.txt" timestamp="1558593282867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/ConfigController.java" timestamp="1557835148901">
@@ -268,7 +261,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1558447073220">
+      <file name="/fragment.java" timestamp="1558593282861">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -494,6 +487,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/SubjectResourceRepository.java" timestamp="1554320561737">
         <mark key="[" line="26" column="56" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/event/EventPoint.java" timestamp="1558593010173">
+        <mark key="[" line="525" column="61" />
+        <mark key="]" line="525" column="61" />
+        <mark key="." line="525" column="61" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/vo/SubjectResourceVO.java" timestamp="1554296294820">
         <mark key="[" line="2" column="30" />
       </file>
@@ -545,6 +543,11 @@
         <mark key="[" line="19" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1558496668666" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/ReadHisCountServiceImpl.java" timestamp="1558593098123">
+        <mark key="[" line="80" column="132" />
+        <mark key="]" line="80" column="132" />
+        <mark key="." line="80" column="132" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536573864658">
         <mark key="[" line="31" column="71" />
       </file>
@@ -696,8 +699,8 @@
       <jump line="167" column="0" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/api/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+      <register name="&quot;" type="4">
+        <text>appVersion</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -730,7 +733,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text>appVersion</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
