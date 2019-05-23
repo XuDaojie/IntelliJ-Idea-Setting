@@ -96,6 +96,9 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/AppLoginServiceImpl.java" timestamp="1558073210581">
         <mark key="[" line="105" column="45" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-dev.properties" timestamp="1558596643620">
+        <mark key="[" line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/activity/AcceptApprenticeController.java" timestamp="1558162718749">
         <mark key="[" line="66" column="81" />
       </file>
@@ -231,8 +234,10 @@
       <file name="$USER_HOME$/IdeaProjects/common/gradle/wrapper/gradle-wrapper.properties" timestamp="1553774389729">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558594352022">
+      <file name="/Dummy.txt" timestamp="1558597093851">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/ConfigController.java" timestamp="1557835148901">
         <mark key="[" line="42" column="85" />
@@ -273,7 +278,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1558594352015">
+      <file name="/fragment.java" timestamp="1558600223623">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -497,7 +502,6 @@
         <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/logback-spring.xml" timestamp="1558594079793" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1558496668666" />
       <file name="/Dummy.regexp" timestamp="1557199940515">
         <mark key="[" line="0" column="0" />
       </file>
@@ -581,10 +585,11 @@
         <mark key="[" line="19" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1558496668666" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/ReadHisCountServiceImpl.java" timestamp="1558593098123">
-        <mark key="[" line="80" column="132" />
-        <mark key="]" line="80" column="132" />
-        <mark key="." line="80" column="132" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/ReadHisCountServiceImpl.java" timestamp="1558601215704">
+        <mark key="[" line="63" column="46" />
+        <mark key="]" line="63" column="46" />
+        <mark key="." line="63" column="46" />
+        <mark key="^" line="150" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536573864658">
         <mark key="[" line="31" column="71" />
@@ -738,7 +743,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>appVersion</text>
+        <text>startDate</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -771,7 +776,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>appVersion</text>
+        <text>startDate</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
