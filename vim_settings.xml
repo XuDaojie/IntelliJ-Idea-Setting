@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="V" line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" protocol="file" />
       <mark key="I" line="217" column="32" filename="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" protocol="file" />
@@ -85,11 +85,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-short-video/gradle/wrapper/gradle-wrapper.properties" timestamp="1556507206556">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/aop/ClientAspect.java" timestamp="1558442067695">
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="43" column="8" />
-        <mark key="^" line="36" column="89" />
-        <mark key="." line="43" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/aop/ClientAspect.java" timestamp="1558532598732">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="34" column="89" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/Objects.toStringHelper (Guava)" timestamp="1557199940468">
         <mark key="[" line="0" column="0" />
@@ -295,6 +295,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/mapper/NotificationReadLogMapper.java" timestamp="1554055754113">
         <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/aop/ControllerAspect.java" timestamp="1558532682216">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/news_forum.news_subject_following [@192.168.115.105]" timestamp="1554063626276">
         <mark key="[" line="0" column="0" />
@@ -512,7 +517,7 @@
       <file name="$USER_HOME$/IdeaProjects/common/gradle/wrapper/gradle-wrapper.properties" timestamp="1553774389729">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558420141225">
+      <file name="/Dummy.txt" timestamp="1558533080429">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536573864658">
@@ -713,8 +718,8 @@
       <jump line="167" column="0" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/api/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>select</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -747,7 +752,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>select</text>
+        <text>client</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -756,16 +761,25 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>//    @Pointcut(&quot;execution(public * io.github.xudaojie.generator.client.*.*(..))&quot;)
+//    public void asss() {
+//    }
+
+//    @Before(&quot;execution(public * io.github.xudaojie.generator.client.TestClient.m1())&quot;)
+//    public void ss() {
+//        System.err.println(&quot;x&quot;);
+//    }</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>private void () {
+    // todo
+}</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -773,23 +787,23 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIENsaWVudEh0dHBSZXNwb25zZSBpbnRlcmNlcHQoSHR0cFJlcXVlc3QgcmVxdWVzdCwgYnl0ZVtdIGJvZHksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDbGllbnRIdHRwUmVxdWVzdEV4ZWN1dGlvbiBleGVjdXRpb24pIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgUmVxdWVzdEF0dHJpYnV0ZXMgYXR0cmlidXRlcyA9IFJlcXVlc3RDb250ZXh0SG9sZGVyLmdldFJlcXVlc3RBdHRyaWJ1dGVzKCk7CiAgICAgICAgT2JqZWN0IHJlcXVlc3RJZCA9IGF0dHJpYnV0ZXMuZ2V0QXR0cmlidXRlKCJyZXF1ZXN0SWQiLCBSZXF1ZXN0QXR0cmlidXRlcy5TQ09QRV9SRVFVRVNUKTsKICAgICAgICByZXF1ZXN0LmdldEhlYWRlcnMoKS5hZGQoIlgtUmVxdWVzdC1JRCIsIHJlcXVlc3RJZCArICIiKTsKICAgICAgICByZXR1cm4gZXhlY3V0aW9uLmV4ZWN1dGUocmVxdWVzdCwgYm9keSk7CiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG0xKCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGVzdENsaWVudC5tMSgpIik7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBEb2N1bWVudGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIENsaWVudEh0dHBSZXNwb25zZSBleGVjdXRlKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPdXRwdXRTdHJlYW0gZ2V0Qm9keSgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgSHR0cE1ldGhvZCBnZXRNZXRob2QoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgVVJJIGdldFVSSSgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBIdHRwSGVhZGVycyBnZXRIZWFkZXJzKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIENsaWVudEh0dHBSZXNwb25zZSBpbnRlcmNlcHQoSHR0cFJlcXVlc3QgcmVxdWVzdCwgYnl0ZVtdIGJvZHksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDbGllbnRIdHRwUmVxdWVzdEV4ZWN1dGlvbiBleGVjdXRpb24pIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgUmVxdWVzdEF0dHJpYnV0ZXMgYXR0cmlidXRlcyA9IFJlcXVlc3RDb250ZXh0SG9sZGVyLmdldFJlcXVlc3RBdHRyaWJ1dGVzKCk7CiAgICAgICAgT2JqZWN0IHJlcXVlc3RJZCA9IGF0dHJpYnV0ZXMuZ2V0QXR0cmlidXRlKCJyZXF1ZXN0SWQiLCBSZXF1ZXN0QXR0cmlidXRlcy5TQ09QRV9SRVFVRVNUKTsKICAgICAgICByZXF1ZXN0LmdldEhlYWRlcnMoKS5hZGQoIlgtUmVxdWVzdC1JRCIsIHJlcXVlc3RJZCArICIiKTsKICAgICAgICByZXR1cm4gZXhlY3V0aW9uLmV4ZWN1dGUocmVxdWVzdCwgYm9keSk7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
