@@ -585,11 +585,11 @@
         <mark key="[" line="19" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1558496668666" />
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/ReadHisCountServiceImpl.java" timestamp="1558601215704">
-        <mark key="[" line="63" column="46" />
-        <mark key="]" line="63" column="46" />
-        <mark key="." line="63" column="46" />
-        <mark key="^" line="150" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/ReadHisCountServiceImpl.java" timestamp="1558603595030">
+        <mark key="[" line="67" column="16" />
+        <mark key="]" line="67" column="16" />
+        <mark key="." line="67" column="16" />
+        <mark key="^" line="151" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536573864658">
         <mark key="[" line="31" column="71" />
@@ -743,7 +743,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>startDate</text>
+        <text>StringUtils.equals(startDate, endDate)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -776,7 +776,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>startDate</text>
+        <text>StringUtils.equals(startDate, endDate)</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
