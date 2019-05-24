@@ -13,6 +13,7 @@
       <file name="/a.dummy" timestamp="1557251667291">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/Date.java" timestamp="1558668065440" />
       <file name="$USER_HOME$/IdeaProjects/news-recommend/src/main/java/com/ald/news/recommend/service/impl/TimelineServiceImpl.java" timestamp="1554357781286">
         <mark key="[" line="156" column="27" />
       </file>
@@ -235,7 +236,7 @@
       <file name="$USER_HOME$/IdeaProjects/common/gradle/wrapper/gradle-wrapper.properties" timestamp="1553774389729">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558611509281">
+      <file name="/Dummy.txt" timestamp="1558668903673">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -279,7 +280,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1558606453918">
+      <file name="/fragment.java" timestamp="1558668846163">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -544,6 +545,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1554287477478">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/user/UserFrozenController.java" timestamp="1558669228658">
+        <mark key="[" line="67" column="32" />
+        <mark key="]" line="67" column="31" />
+        <mark key="^" line="67" column="31" />
+        <mark key="." line="67" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/SubjectService.java" timestamp="1554035194968">
         <mark key="[" line="157" column="56" />
       </file>
@@ -588,11 +595,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1536893700375">
         <mark key="[" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/ReadHisCountServiceImpl.java" timestamp="1558667008340">
-        <mark key="[" line="67" column="37" />
-        <mark key="]" line="66" column="40" />
-        <mark key="." line="66" column="40" />
-        <mark key="^" line="66" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/ReadHisCountServiceImpl.java" timestamp="1558668834667">
+        <mark key="[" line="65" column="27" />
+        <mark key="]" line="65" column="27" />
+        <mark key="." line="65" column="27" />
+        <mark key="^" line="75" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536573864658">
         <mark key="[" line="31" column="71" />
@@ -746,7 +753,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>endTime</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -779,7 +786,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>endTime</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
