@@ -63,8 +63,12 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/ConfigServiceImpl.java" timestamp="1557835255881">
         <mark key="[" line="50" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/data/client/impl/UserPaymentDataClientImpl.java" timestamp="1558670032813" />
       <file name="/StringBuffer" timestamp="1557199940457">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/PaymentApplication.http" timestamp="1558670558061">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/ForumApplication.java" timestamp="1553252008223">
         <mark key="[" line="30" column="30" />
@@ -236,7 +240,7 @@
       <file name="$USER_HOME$/IdeaProjects/common/gradle/wrapper/gradle-wrapper.properties" timestamp="1553774389729">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558668903673">
+      <file name="/Dummy.txt" timestamp="1558670189220">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -280,7 +284,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1558668846163">
+      <file name="/fragment.java" timestamp="1558670286717">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -309,6 +313,7 @@
       <file name="$USER_HOME$/IdeaProjects/resource/resource/src/main/java/com/ald/news/resource/task/PendingJobPool.java" timestamp="1557750354580">
         <mark key="[" line="103" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/UserPaymentClient.java" timestamp="1558670234064" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/mapper/UserNotLoggedDaysMapper.xml" timestamp="1558590919985" />
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/MyClientHttpResponse.java" timestamp="1558331479972">
         <mark key="[" line="64" column="46" />
@@ -337,7 +342,7 @@
       <file name="/Objects.toStringHelper (Guava)" timestamp="1557199940468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/NewsUserExtensionServiceImpl.java" timestamp="1558582113791">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/NewsUserExtensionServiceImpl.java" timestamp="1558670030013">
         <mark key="[" line="125" column="54" />
       </file>
       <file name="/ToStringBuilder (Apache commons-lang)" timestamp="1557199940463">
@@ -423,6 +428,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserAwardServiceImpl.java" timestamp="1558420051040">
         <mark key="[" line="1004" column="55" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/service/impl/TransferServiceImpl.java" timestamp="1558670456001" />
       <file name="$USER_HOME$/IdeaProjects/news-recommend/src/main/resources/application-local.yaml" timestamp="1553855821961">
         <mark key="[" line="4" column="10" />
       </file>
@@ -476,6 +482,7 @@
       <file name="/news_forum.news_subject [@192.168.115.105]" timestamp="1554063610174">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/controller/InnerUserActiveFrozenController.java" timestamp="1558670326487" />
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/client/ManageUserClient.java" timestamp="1558096163360">
         <mark key="[" line="142" column="7" />
       </file>
@@ -545,7 +552,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1554287477478">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/user/UserFrozenController.java" timestamp="1558669228658">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/user/UserFrozenController.java" timestamp="1558669994051">
         <mark key="[" line="67" column="32" />
         <mark key="]" line="67" column="31" />
         <mark key="^" line="67" column="31" />
