@@ -32,12 +32,6 @@
       <file name="/news_forum.news_people_following [@192.168.115.105]" timestamp="1553845491349">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/client/TestClient.java" timestamp="1558444086420">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="11" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="7" column="11" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserNationalDayMapper.java" timestamp="1557465655691">
         <mark key="[" line="28" column="43" />
       </file>
@@ -109,6 +103,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/activity/AcceptApprenticeController.java" timestamp="1558162718749">
         <mark key="[" line="66" column="81" />
       </file>
+      <file name="/build.gradle" timestamp="1558929047432" />
       <file name="/news_forum.news_notification_read_log [@192.168.115.105]" timestamp="1553924099819">
         <mark key="[" line="0" column="0" />
       </file>
@@ -138,12 +133,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/gradle/wrapper/gradle-wrapper.properties" timestamp="1553508497108">
         <mark key="[" line="5" column="69" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/logback-spring.xml" timestamp="1558594112911">
-        <mark key="[" line="538" column="55" />
-        <mark key="]" line="514" column="14" />
-        <mark key="^" line="514" column="14" />
-        <mark key="." line="514" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/sagan/sagan-site/src/main/java/sagan/guides/support/DocsWebhookController.java" timestamp="1557565515985">
         <mark key="[" line="68" column="33" />
@@ -180,7 +169,9 @@
       <file name="/news_common.news_app_message [pro_news_common@192.168.115.31]" timestamp="1553705120965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/build.gradle" timestamp="1558582106393" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/build.gradle" timestamp="1558929699507">
+        <mark key="[" line="7" column="65" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/frozenconf/FrozenConfController.java" timestamp="1558508524079">
         <mark key="[" line="37" column="14" />
       </file>
@@ -228,6 +219,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/rabbitmq/PayDrawCashRabbitmqUtil.java" timestamp="1557734640016">
         <mark key="[" line="66" column="51" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/build.gradle" timestamp="1558929552136">
+        <mark key="[" line="81" column="71" />
+        <mark key="]" line="81" column="71" />
+        <mark key="." line="81" column="71" />
+        <mark key="^" line="81" column="71" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/common/common-service/out/production/resources/mapper/UserReadSourceMapper.xml" timestamp="1555338824212">
         <mark key="[" line="19" column="84" />
@@ -305,23 +302,11 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/inner/InnerUserController.java" timestamp="1557805118067">
         <mark key="[" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/NewsUserServiceImpl.java" timestamp="1558179785085">
-        <mark key="[" line="452" column="145" />
-        <mark key="]" line="443" column="20" />
-        <mark key="^" line="443" column="20" />
-        <mark key="." line="443" column="20" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/resource/resource/src/main/java/com/ald/news/resource/task/PendingJobPool.java" timestamp="1557750354580">
         <mark key="[" line="103" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/UserPaymentClient.java" timestamp="1558670234064" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/mapper/UserNotLoggedDaysMapper.xml" timestamp="1558590919985" />
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/MyClientHttpResponse.java" timestamp="1558331479972">
-        <mark key="[" line="64" column="46" />
-        <mark key="]" line="64" column="55" />
-        <mark key="^" line="64" column="55" />
-        <mark key="." line="64" column="55" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/TranspondController.java" timestamp="1557841156036">
         <mark key="[" line="33" column="22" />
       </file>
@@ -404,12 +389,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/data/mapper/UserMapper.java" timestamp="1557906419838">
         <mark key="[" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/user/NewsUserController.java" timestamp="1558176637711">
-        <mark key="[" line="124" column="67" />
-        <mark key="]" line="124" column="66" />
-        <mark key="^" line="124" column="66" />
-        <mark key="." line="124" column="66" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/Java规范.md" timestamp="1555998501438">
         <mark key="[" line="5" column="7" />
@@ -517,6 +496,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/bus/local/event/ArticleCheckEvent.java" timestamp="1554129967328">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/zipkin/build.gradle" timestamp="1558928503239" />
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/logback-spring.xml" timestamp="1558594079793" />
       <file name="/Dummy.regexp" timestamp="1557199940515">
         <mark key="[" line="0" column="0" />
@@ -550,6 +530,9 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/ActiveRuleController.java" timestamp="1558158528378">
         <mark key="[" line="68" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery/build.gradle" timestamp="1558929258347">
+        <mark key="[" line="13" column="73" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/main/java/io/github/xudaojie/generator/templates/BaseDataSource.java" timestamp="1556268680327">
         <mark key="[" line="0" column="46" />
       </file>
@@ -565,14 +548,13 @@
         <mark key="^" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/config/build.gradle" timestamp="1558929664257">
+        <mark key="[" line="8" column="66" />
+        <mark key="]" line="8" column="66" />
+        <mark key="." line="8" column="66" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/SubjectService.java" timestamp="1554035194968">
         <mark key="[" line="157" column="56" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/payment/Transfer.java" timestamp="1558336094952">
-        <mark key="[" line="50" column="32" />
-        <mark key="]" line="51" column="24" />
-        <mark key="^" line="51" column="24" />
-        <mark key="." line="51" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator/src/main/resources/templates/mapper.java.ftl" timestamp="1556346700866">
         <mark key="[" line="1" column="0" />
@@ -767,7 +749,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>endTime</text>
+        <text>:${springBootVersion}</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -800,7 +782,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>endTime</text>
+        <text>:${springBootVersion}</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -809,49 +791,40 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmVhZENvdW50RG8uc2V0UmVhZERhdGUobmV3IFNpbXBsZURhdGVGb3JtYXQoRGF0ZVV0aWwuREVGQVVMVF9QQVRURVJOX1dJVEhfSFlQSEVOKS5wYXJzZShzdGFydERhdGUpKTsK</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSAib3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItamRiYyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlYWRDb3VudERvLnNldFJlYWREYXRlKG5ldyBTaW1wbGVEYXRlRm9ybWF0KERhdGVVdGlsLkRFRkFVTFRfUEFUVEVSTl9XSVRIX0hZUEhFTikucGFyc2UoZW5kRGF0ZSkpOwo=</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSAibXlzcWw6bXlzcWwtY29ubmVjdG9yLWphdmE6NS4xLjQ2Igo=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlYWRDb3VudERvLnNldFJlYWREYXRlKG5ldyBTaW1wbGVEYXRlRm9ybWF0KERhdGVVdGlsLkRFRkFVTFRfUEFUVEVSTl9XSVRIX0hZUEhFTikucGFyc2Uoc3RhcnREYXRlKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSAib3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZDpzcHJpbmctY2xvdWQtc3RhcnRlci1ldXJla2EiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8ubWF2ZW4uYXBhY2hlLm9yZy9tYXZlbjIiIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8yLm1hdmVuLm9yZy9tYXZlbjIiIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text>//    @Pointcut(&quot;execution(public * io.github.xudaojie.generator.client.*.*(..))&quot;)
-//    public void asss() {
-//    }
-
-//    @Before(&quot;execution(public * io.github.xudaojie.generator.client.TestClient.m1())&quot;)
-//    public void ss() {
-//        System.err.println(&quot;x&quot;);
-//    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1hdmVuIHsgdXJsICJodHRwOi8vMTkyLjE2OC4xMDEuNjU6ODAxOC9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvIiB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text>private void () {
-    // todo
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1hdmVuIHsgdXJsICJodHRwOi8vbmV4dXMuNTFmYi5jb20vbmV4dXMvY29udGVudC9ncm91cHMvcHVibGljLyIgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbXBpbGUgIm5ldC5zZi5laGNhY2hlOmVoY2FjaGU6Mi44LjMiCg==</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbXBpbGUgImlvLmpzb253ZWJ0b2tlbjpqand0OjAuNy4wIgovLyAgICAgICAgY29tcGlsZSAidG9vbDpjb21tb24tdXRpbDoxLjAuMCIKLy8gICAgICAgIGNvbXBpbGUgImNvbW1vbnMtY29kZWM6Y29tbW9ucy1jb2RlYzoxLjciCi8vICAgICAgICBjb21waWxlICJvcmcuZGJ1bml0OmRidW5pdDoyLjQuOSIKLy8gICAgICAgIGNvbXBpbGUgIm9yZy5ib3VuY3ljYXN0bGU6YmNwcm92LWV4dC1qZGsxNToxLjQ2Igo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
