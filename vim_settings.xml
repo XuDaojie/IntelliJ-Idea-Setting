@@ -66,6 +66,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/PaymentApplication.http" timestamp="1558670558061">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/data/ManageRedisRepository.java" timestamp="1558953904095" />
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/ForumApplication.java" timestamp="1553252008223">
         <mark key="[" line="30" column="30" />
       </file>
@@ -215,9 +216,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-payment/src/main/java/com/ald/news/payment/rabbitmq/PayDrawCashRabbitmqUtil.java" timestamp="1557734640016">
         <mark key="[" line="66" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/build.gradle" timestamp="1558947193018">
-        <mark key="^" line="63" column="71" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/common/common-service/out/production/resources/mapper/UserReadSourceMapper.xml" timestamp="1555338824212">
         <mark key="[" line="19" column="84" />
       </file>
@@ -233,7 +231,8 @@
       <file name="$USER_HOME$/IdeaProjects/common/gradle/wrapper/gradle-wrapper.properties" timestamp="1553774389729">
         <mark key="[" line="5" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558950519949">
+      <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1558954139354" />
+      <file name="/Dummy.txt" timestamp="1558953941178">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -280,7 +279,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1558950640467">
+      <file name="/fragment.java" timestamp="1558953941172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -297,6 +296,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/ConfigRedisProperties.java" timestamp="1554739319810">
         <mark key="[" line="8" column="53" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/service/impl/CommonAiteRecordServiceImpl.java" timestamp="1558954707252" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/inner/InnerUserController.java" timestamp="1557805118067">
         <mark key="[" line="2" column="33" />
       </file>
@@ -366,7 +366,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/ApiDocsController.java" timestamp="1553252068676">
         <mark key="[" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1558159323289">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/DailyTaskServiceImpl.java" timestamp="1558953653397">
         <mark key="[" line="404" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-comment/build.gradle" timestamp="1553519462371">
@@ -378,7 +378,6 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/data/mapper/UserMapper.java" timestamp="1557906419838">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1558943819554" />
       <file name="$USER_HOME$/IdeaProjects/news/docs/代码规范/Java规范.md" timestamp="1555998501438">
         <mark key="[" line="5" column="7" />
       </file>
@@ -421,6 +420,7 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/base/BaseController.java" timestamp="1557909570194">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/consts/redis/UserRedisConst.java" timestamp="1558953829127" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/base/BaseDataSource.java" timestamp="1556444421709">
         <mark key="[" line="38" column="0" />
       </file>
@@ -453,6 +453,7 @@
       <file name="/news_forum.news_subject_following [@192.168.115.105]" timestamp="1554063626276">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1558953745060" />
       <file name="/news_forum.news_subject [@192.168.115.105]" timestamp="1554063610174">
         <mark key="[" line="0" column="0" />
       </file>
@@ -477,7 +478,6 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/zipkin/build.gradle" timestamp="1558941929754">
         <mark key="[" line="8" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1558943819554" />
       <file name="/Dummy.regexp" timestamp="1557199940515">
         <mark key="[" line="0" column="0" />
       </file>
@@ -565,7 +565,6 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/client/BannersClient.java" timestamp="1536893700375">
         <mark key="[" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1558943819554" />
       <file name="$USER_HOME$/IdeaProjects/news/quartz/src/main/java/com/ald/news/quartz/manage/ManageCouponQuartz.java" timestamp="1536573864658">
         <mark key="[" line="31" column="71" />
       </file>
