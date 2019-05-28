@@ -281,7 +281,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1555422598195">
         <mark key="[" line="378" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1559010280580">
+      <file name="/fragment.java" timestamp="1559024275602">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -423,10 +423,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/settings.gradle" timestamp="1558947459311">
         <mark key="[" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/src/main/java/com/ald/cloud/gateway/GatewayApplication2.java" timestamp="1559014409007">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/src/main/java/com/ald/cloud/gateway/GatewayApplication2.java" timestamp="1559024541897">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="23" />
+        <mark key="." line="39" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/mapper/UserReadSourceMapper.java" timestamp="1555064942911">
         <mark key="[" line="21" column="108" />
@@ -544,8 +544,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1554287477478">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/build.gradle" timestamp="1559014725250">
-        <mark key="[" line="13" column="71" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/build.gradle" timestamp="1559024195243">
+        <mark key="[" line="15" column="38" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
@@ -739,7 +739,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRpc2NvdmVyeToKICAgICAgICBsb2NhdG9yOgogICAgICAgICAgZW5hYmxlZDogdHJ1ZQogICAgICAgICAgcHJlZGljYXRlczoKICAgICAgICAgIC0gbmFtZTogL3VzZXJzL3YyL2FwaS1kb2NzCiAgICAgICAgICAtIGFyZ3M=</text>
+        <text>key</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -772,7 +772,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gatewayFilterSpec</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
