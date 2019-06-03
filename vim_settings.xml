@@ -10,14 +10,31 @@
       <file name="/a.dummy" timestamp="1559548370976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices/src/main/resources/bootstrap-nacos.yml" timestamp="1559552897189">
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery2/build.gradle" timestamp="1559555390231">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices/src/main/resources/bootstrap-nacos.yml" timestamp="1559555697097">
         <mark key="[" line="17" column="21" />
         <mark key="]" line="17" column="21" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1559528804045" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery2/src/main/resources/application-test.yml" timestamp="1559554697611">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery2/src/main/resources/application-local.yml" timestamp="1559555036438">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/README.md" timestamp="1559186548717">
         <mark key="[" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery2/src/main/resources/application.yml" timestamp="1559555007681">
+        <mark key="[" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-gateway-core/2.1.1.RELEASE/91d54230cb66cd6fb4afdd422727396bb17de56/spring-cloud-gateway-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/handler/predicate/ReadBodyPredicateFactory.java" timestamp="1559201752338">
         <mark key="[" line="59" column="7" />
@@ -31,10 +48,10 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-gateway-core/2.1.1.RELEASE/91d54230cb66cd6fb4afdd422727396bb17de56/spring-cloud-gateway-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/config/GatewayAutoConfiguration.java" timestamp="1559148777489">
         <mark key="[" line="360" column="53" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices/build.gradle" timestamp="1559552240168">
-        <mark key="[" line="9" column="76" />
-        <mark key="]" line="10" column="62" />
-        <mark key="." line="10" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices/build.gradle" timestamp="1559555381649">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="11" column="62" />
+        <mark key="." line="11" column="62" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices/src/main/java/com/ald/cloud/microservices/MicroServices.java" timestamp="1559552433589">
         <mark key="[" line="17" column="3" />
@@ -42,15 +59,13 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/build.gradle" timestamp="1559548862140">
         <mark key="[" line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery2/src/main/java/com/ald/cloud/discovery/NacosApplication.java" timestamp="1559552044036">
-        <mark key="[" line="11" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery2/src/main/java/com/ald/cloud/discovery/NacosApplication.java" timestamp="1559554501097">
+        <mark key="[" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1559528804045" />
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1559528804045" />
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/src/main/java/com/ald/cloud/gateway/TokenFilter.java" timestamp="1559202273645">
         <mark key="[" line="8" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559552831981">
+      <file name="/Dummy.txt" timestamp="1559554997578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices/src/main/resources/application-local.yml" timestamp="1559552545937">
@@ -74,7 +89,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1559552831974">
+      <file name="/fragment.java" timestamp="1559554997572">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -187,7 +202,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://</text>
+        <text>172.21.41.42</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -220,7 +235,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://</text>
+        <text>172.21.41.42</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -229,40 +244,40 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0b21jYXQ6CiAgICAjIOacgOWkp+e6v+eoi+aVsAogICAgbWF4LXRocmVhZHM6IDIwMDAKICAgICMg5pyA5bCP57q/56iL5pWwCiAgICBtaW4tc3BhcmUtdGhyZWFkczogMjAwCiAgICAjIOi/nuaOpeaVsOi+vuWIsOacgOWkp+aXtu+8jOWuouaIt+err+i/nuaOpeeahOetieW+hemYn+WIl+mVv+W6pgogICAgYWNjZXB0LWNvdW50OiAyMDAwCiAgICAjIOacgOWkp+i/nuaOpeaVsAogICAgbWF4LWNvbm5lY3Rpb25zOiAxMDAwMAogICMg56m66Zey6L+e5o6l6LaF5pe25pe26Ze0OiAxMHMKICBjb25uZWN0aW9uLXRpbWVvdXQ6IDEwMDAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICByZWRpczoKICAgIGNsdXN0ZXI6CiAgICAgIG5vZGVzOiAxOTIuMTY4LjExNS4xMDY6NzAwMCwxOTIuMTY4LjExNS4xMDY6NzAwMSwxOTIuMTY4LjExNS4xMDc6NzAwMiwxOTIuMTY4LjExNS4xMDc6NzAwMywxOTIuMTY4LjExNS4xMDg6NzAwNCwxOTIuMTY4LjExNS4xMDg6NzAwNQogICAgICBtYXgtcmVkaXJlY3RzOiA4CiAgICBsZXR0dWNlOgogICAgICBwb29sOgogICAgICAgIG1heC1hY3RpdmU6IDgKICAgICAgICBtYXgtaWRsZTogOAogICAgICAgIG1heC13YWl0OiAtMQogICAgICAgIG1pbi1pZGxlOiA1CiAgICB0aW1lb3V0OiAzMDAwCiAgc2VydmxldDoKICAgIG11bHRpcGFydDoKICAgICAgbWF4LWZpbGUtc2l6ZTogMjAwTUIKICAgICAgbWF4LXJlcXVlc3Qtc2l6ZTogNTAwTUIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGluc3RhbmNlOgogICAgaG9zdG5hbWU6IGxvY2FsaG9zdCAgICAgICAgICAgICAgICAjIOaMh+WumuivpUV1cmVrYeWunuS+i+eahOS4u+acuuWQjQogIHNlcnZlcjoKICAgIGVuYWJsZS1zZWxmLXByZXNlcnZhdGlvbjogZmFsc2UgICAgIyDlhbPpl63oh6rmiJHkv53miqQKICAgIGV2aWN0aW9uLWludGVydmFsLXRpbWVyLWluLW1zOiA1MDAwICMg5riF55CG6Ze06ZqU77yI5Y2V5L2N5q+r56eS77yM6buY6K6k5pivNjAqMTAwMO+8iQ==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICBjbG91ZDoKICAgIGdhdGV3YXk6CiAgICAgIHJvdXRlczoKICAgICAgIyDot6/nlLHoh7PmjIflrpp1cmkKICAgICAgLSBpZDogdGVzdAogICAgICAgIHVyaTogaHR0cDovL2V4YW1wbGUub3JnCiAgICAgICAgcHJlZGljYXRlczoKICAgICAgICAtIFBhdGg9L2Zvby97eHh9LC9iYXIve3h4fQogICAgICAjIOi3r+eUseiHs+aMh+WumuacjeWKoQogICAgICAtIGlkOiBtaXNjcm8tc2VydmljZQogICAgICAgIHVyaTogbGI6Ly9uZXdzLXVzZXIKICAgICAgICBwcmVkaWNhdGVzOgogICAgICAgIC0gUGF0aD0vdXNlcnMvdjIvYXBpLWRvY3MKIyAgICAgICAgLSBSZWFkQm9keVByZWRpY2F0ZUZhY3Rvcnk9dGVzdAojICAgICAgICBmaWx0ZXJzOgojICAgICAgICAgIOmZkOa1gQojICAgICAgICAtIG5hbWU6IFJlcXVlc3RSYXRlTGltaXRlcgojICAgICAgICAgIGFyZ3M6CiMgICAgICAgICAgICByZWRpcy1yYXRlLWxpbWl0ZXIucmVwbGVuaXNoUmF0ZTogMTAKIyAgICAgICAgICAgIHJlZGlzLXJhdGUtbGltaXRlci5idXJzdENhcGFjaXR5OiAyMA==</text>
+        <text encoding="base64">ICAgICAgcmVnaXN0ZXJXaXRoRXVyZWthOiBmYWxzZSAjIOS4jeWQkeazqOWGjOS4reW/g+azqOWGjOiHquW3sQogICAgICBmZXRjaFJlZ2lzdHJ5OiBmYWxzZSAjIOWFs+mXreacjeWKoeajgOe0ogoKICAgICAgc2VydmljZVVybDoKIyAgICAgICAgIGRlZmF1bHRab25lOiBodHRwOi8vZGlzY292ZXJ5Ojg3NjEvZXVyZWthLwogICAgICAgIGRlZmF1bHRab25lOiBodHRwOi8vJHtldXJla2EuaW5zdGFuY2UuaG9zdG5hbWV9OiR7c2VydmVyLnBvcnR9L2V1cmVrYS8=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB6aXBraW46CiAgICBiYXNlLXVybDogaHR0cDovL1pJUEtJTi1TRVJWRVIvCiAgICBzZW5kZXI6CiAgICAgIHR5cGU6IHdlYgogIHNsZXV0aDoKICAgIHNhbXBsZXI6CiAgICAgIHBlcmNlbnRhZ2U6IDEK</text>
+        <text encoding="base64">CiMg5Y+C6ICD5paH5qGj77yaaHR0cDovL3Byb2plY3RzLnNwcmluZy5pby9zcHJpbmctY2xvdWQvZG9jcy8xLjAuMy9zcHJpbmctY2xvdWQuaHRtbCNfc3RhbmRhbG9uZV9tb2RlCiMg5Y+C6ICD5paH5qGj77yaaHR0cDovL215Lm9zY2hpbmEubmV0L2J1d2VpL2Jsb2cvNjE4NzU2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJhdGUtbGltaXRlcjoKICAgICAgaG9zdDogMTkyLjE2OC4xMTUuMTA0CiAgICAgIHBvcnQ6IDYzNzkKICAgIHVzZXItcmVkaXM6CiAgICAgIGhvc3Q6IDE5Mi4xNjguMTE1LjEwNAogICAgICBwb3J0OiA2Mzc5CiAgICAgIHNlbnRpbmVsOgogICAgICAgIG1hc3RlcjogbXltYXN0ZXIKICAgICAgICBub2RlczogMTkyLjE2OC4xMTUuMTA0OjYzODAK</text>
+        <text encoding="base64">ICB0b21jYXQ6CiAgICAjIOacgOWkp+e6v+eoi+aVsAogICAgbWF4LXRocmVhZHM6IDIwMDAKICAgICMg5pyA5bCP57q/56iL5pWwCiAgICBtaW4tc3BhcmUtdGhyZWFkczogMjAwCiAgICAjIOi/nuaOpeaVsOi+vuWIsOacgOWkp+aXtu+8jOWuouaIt+err+i/nuaOpeeahOetieW+hemYn+WIl+mVv+W6pgogICAgYWNjZXB0LWNvdW50OiAyMDAwCiAgICAjIOacgOWkp+i/nuaOpeaVsAogICAgbWF4LWNvbm5lY3Rpb25zOiAxMDAwMAogICMg56m66Zey6L+e5o6l6LaF5pe25pe26Ze0OiAxMHMKICBjb25uZWN0aW9uLXRpbWVvdXQ6IDEwMDAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZWRpczoKICAgIGNsdXN0ZXI6CiAgICAgIG5vZGVzOiAxOTIuMTY4LjExNS4xMDY6NzAwMCwxOTIuMTY4LjExNS4xMDY6NzAwMSwxOTIuMTY4LjExNS4xMDc6NzAwMiwxOTIuMTY4LjExNS4xMDc6NzAwMywxOTIuMTY4LjExNS4xMDg6NzAwNCwxOTIuMTY4LjExNS4xMDg6NzAwNQogICAgICBtYXgtcmVkaXJlY3RzOiA4CiAgICBsZXR0dWNlOgogICAgICBwb29sOgogICAgICAgIG1heC1hY3RpdmU6IDgKICAgICAgICBtYXgtaWRsZTogOAogICAgICAgIG1heC13YWl0OiAtMQogICAgICAgIG1pbi1pZGxlOiA1CiAgICB0aW1lb3V0OiAzMDAwCiAgc2VydmxldDoKICAgIG11bHRpcGFydDoKICAgICAgbWF4LWZpbGUtc2l6ZTogMjAwTUIKICAgICAgbWF4LXJlcXVlc3Qtc2l6ZTogNTAwTUIK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aHlzdHJpeDoKICB0aHJlYWRwb29sOgogICAgZGVmYXVsdDoKICAgICAgY29yZVNpemU6IDEwMAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBjbG91ZDoKICAgIGdhdGV3YXk6CiAgICAgIHJvdXRlczoKICAgICAgIyDot6/nlLHoh7PmjIflrpp1cmkKICAgICAgLSBpZDogdGVzdAogICAgICAgIHVyaTogaHR0cDovL2V4YW1wbGUub3JnCiAgICAgICAgcHJlZGljYXRlczoKICAgICAgICAtIFBhdGg9L2Zvby97eHh9LC9iYXIve3h4fQogICAgICAjIOi3r+eUseiHs+aMh+WumuacjeWKoQogICAgICAtIGlkOiBtaXNjcm8tc2VydmljZQogICAgICAgIHVyaTogbGI6Ly9uZXdzLXVzZXIKICAgICAgICBwcmVkaWNhdGVzOgogICAgICAgIC0gUGF0aD0vdXNlcnMvdjIvYXBpLWRvY3MKIyAgICAgICAgLSBSZWFkQm9keVByZWRpY2F0ZUZhY3Rvcnk9dGVzdAojICAgICAgICBmaWx0ZXJzOgojICAgICAgICAgIOmZkOa1gQojICAgICAgICAtIG5hbWU6IFJlcXVlc3RSYXRlTGltaXRlcgojICAgICAgICAgIGFyZ3M6CiMgICAgICAgICAgICByZWRpcy1yYXRlLWxpbWl0ZXIucmVwbGVuaXNoUmF0ZTogMTAKIyAgICAgICAgICAgIHJlZGlzLXJhdGUtbGltaXRlci5idXJzdENhcGFjaXR5OiAyMA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21tYW5kOgogICAgZGVmYXVsdDoKICAgICAgZXhlY3V0aW9uOgogICAgICAgIGlzb2xhdGlvbjoKICAgICAgICAgIHRocmVhZDoKICAgICAgICAgICAgIyBIeXN0cml4Q29tbWFuZCDotoXml7bml7bpl7TvvIzotoXml7blkI7op6blj5EgZmFsbGJhY2sKICAgICAgICAgICAgdGltZW91dEluTWlsbGlzZWNvbmRzOiAxNTAwMAoKcmliYm9uOgogICMgIG9raHR0cDoKICAjICAgIGVuYWJsZTogdHJ1ZQogICMg6K+76LaF5pe2CiAgUmVhZFRpbWVvdXQ6IDUwMDAKICAjIOi/nuaOpei2heaXtgogIENvbm5lY3RUaW1lb3V0OiAyMDAwCiAgIyDmr4/kuKrot6/nlLHnmoTov57mjqXmgLvmlbAKICBNYXhDb25uZWN0aW9uc1Blckhvc3Q6IDIwMDAKICAjIOacgOWkp+i/nuaOpeaVsAogIE1heFRvdGFsQ29ubmVjdGlvbnM6IDEwMDAwCiAgIyDmnIDlpKfph43or5XmrKHmlbAKICBNYXhBdXRvUmV0cmllczogMAogICMg6YeN6K+V5pyN5Yqh55qE5pWw6YePKOS4jeWMheaLrOesrOS4gOS4quacjeWKoSkKICBNYXhBdXRvUmV0cmllc05leHRTZXJ2ZXI6IDEKICAjIOmHjeivleWuouaIt+err+eahOaJgOacieaTjeS9nAogIE9rVG9SZXRyeU9uQWxsT3BlcmF0aW9uczogZmFsc2UKICAjIOWIt+aWsOacjeWKoeeahOmXtOmalOaXtumXtAogIFNlcnZlckxpc3RSZWZyZXNoSW50ZXJ2YWw6IDMwMDAwCiAgIyDkvb/nlKjlk43lupTml7bpl7TliIbphY3otJ/ovb3mnYPph40KICBORkxvYWRCYWxhbmNlclJ1bGVDbGFzc05hbWU6IGNvbS5uZXRmbGl4LmxvYWRiYWxhbmNlci5XZWlnaHRlZFJlc3BvbnNlVGltZVJ1bGUK</text>
+        <text encoding="base64">ICB6aXBraW46CiAgICBiYXNlLXVybDogaHR0cDovL1pJUEtJTi1TRVJWRVIvCiAgICBzZW5kZXI6CiAgICAgIHR5cGU6IHdlYgogIHNsZXV0aDoKICAgIHNhbXBsZXI6CiAgICAgIHBlcmNlbnRhZ2U6IDEK</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhdGUtbGltaXRlcjoKICAgICAgaG9zdDogMTkyLjE2OC4xMTUuMTA0CiAgICAgIHBvcnQ6IDYzNzkKICAgIHVzZXItcmVkaXM6CiAgICAgIGhvc3Q6IDE5Mi4xNjguMTE1LjEwNAogICAgICBwb3J0OiA2Mzc5CiAgICAgIHNlbnRpbmVsOgogICAgICAgIG1hc3RlcjogbXltYXN0ZXIKICAgICAgICBub2RlczogMTkyLjE2OC4xMTUuMTA0OjYzODAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
