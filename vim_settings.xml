@@ -54,13 +54,18 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/build.gradle" timestamp="1559543723920">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+      </file>
       <file name="/fragment.java" timestamp="1559185876791">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/src/main/resources/application-local.yml" timestamp="1559148909613">
-        <mark key="[" line="53" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/src/main/resources/application-local.yml" timestamp="1559543801699">
+        <mark key="[" line="50" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -167,7 +172,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W6K+35rGC5L2T5Lit55qE5a2X56ym5Liy5YaF5a65CiAgICAgKiBAcGFyYW0gc2VydmVySHR0cFJlcXVlc3QKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgcHJpdmF0ZSBTdHJpbmcgcmVzb2x2ZUJvZHlGcm9tUmVxdWVzdChTZXJ2ZXJIdHRwUmVxdWVzdCBzZXJ2ZXJIdHRwUmVxdWVzdCl7CiAgICAgICAgLy/ojrflj5bor7fmsYLkvZMKICAgICAgICBGbHV4PERhdGFCdWZmZXI+IGJvZHkgPSBzZXJ2ZXJIdHRwUmVxdWVzdC5nZXRCb2R5KCk7CiAgICAgICAgU3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CgogICAgICAgIGJvZHkuc3Vic2NyaWJlKGJ1ZmZlciAtPiB7CiAgICAgICAgICAgIGJ5dGVbXSBieXRlcyA9IG5ldyBieXRlW2J1ZmZlci5yZWFkYWJsZUJ5dGVDb3VudCgpXTsKICAgICAgICAgICAgYnVmZmVyLnJlYWQoYnl0ZXMpOwogICAgICAgICAgICBEYXRhQnVmZmVyVXRpbHMucmVsZWFzZShidWZmZXIpOwogICAgICAgICAgICBTdHJpbmcgYm9keVN0cmluZyA9IG5ldyBTdHJpbmcoYnl0ZXMsIFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgpOwogICAgICAgICAgICBzYi5hcHBlbmQoYm9keVN0cmluZyk7CiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuIHNiLnRvU3RyaW5nKCk7CgogICAgfQ==</text>
+        <text>spring-cloud-starter-gateway</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -200,7 +205,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CACHE_REQUEST_BODY_OBJECT_KEY</text>
+        <text>spring-cloud-starter-gateway</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
