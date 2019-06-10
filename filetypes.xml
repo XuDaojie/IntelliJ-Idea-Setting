@@ -7,6 +7,7 @@
       <mapping pattern="gesture_ambient_lift" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="peroperties" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
