@@ -28,10 +28,11 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/rest-client.env.json" timestamp="1560188975602">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/user/controller/UserController.java" timestamp="1560223361903">
-        <mark key="[" line="134" column="12" />
-        <mark key="]" line="134" column="12" />
-        <mark key="." line="134" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/user/controller/UserController.java" timestamp="1560225486303">
+        <mark key="[" line="116" column="45" />
+        <mark key="]" line="116" column="45" />
+        <mark key="." line="116" column="45" />
+        <mark key="^" line="116" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/utils/build.gradle" timestamp="1560142331886">
         <mark key="[" line="8" column="63" />
@@ -76,6 +77,9 @@
         <mark key="[" line="2" column="29" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1560225609846">
+        <mark key="[" line="44" column="23" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-gateway-core/2.1.1.RELEASE/91d54230cb66cd6fb4afdd422727396bb17de56/spring-cloud-gateway-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/config/GatewayAutoConfiguration.java" timestamp="1559148777489">
         <mark key="[" line="360" column="53" />
@@ -171,6 +175,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/build.gradle" timestamp="1560219182459" />
+      <file name="/fragment.java" timestamp="1560225574655">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/src/main/resources/application-local.yml" timestamp="1559543801699">
         <mark key="[" line="50" column="26" />
       </file>
@@ -279,7 +286,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isOK</text>
+        <text>String</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -312,7 +319,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isOK</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
