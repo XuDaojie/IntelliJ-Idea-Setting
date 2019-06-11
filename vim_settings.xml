@@ -28,8 +28,18 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/rest-client.env.json" timestamp="1560188975602">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/user/controller/UserController.java" timestamp="1560223361903">
+        <mark key="[" line="134" column="12" />
+        <mark key="]" line="134" column="12" />
+        <mark key="." line="134" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/utils/build.gradle" timestamp="1560142331886">
         <mark key="[" line="8" column="63" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/base/Response.java" timestamp="1560221988997">
+        <mark key="[" line="100" column="63" />
+        <mark key="]" line="100" column="63" />
+        <mark key="." line="100" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/domain/entity/User.java" timestamp="1560171924117">
         <mark key="[" line="36" column="37" />
@@ -269,7 +279,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>192.168.115.99</text>
+        <text>isOK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -302,7 +312,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>192.168.115.99</text>
+        <text>isOK</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
