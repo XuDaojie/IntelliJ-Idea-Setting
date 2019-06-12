@@ -29,10 +29,10 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/data/mapper/ShopCategoryMapper.java" timestamp="1560321251261">
         <mark key="[" line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/mapper/ShopAuctionMapper.java" timestamp="1560323464822">
-        <mark key="[" line="67" column="14" />
-        <mark key="]" line="67" column="14" />
-        <mark key="." line="67" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/mapper/ShopAuctionMapper.java" timestamp="1560326955150">
+        <mark key="[" line="67" column="15" />
+        <mark key="]" line="67" column="15" />
+        <mark key="." line="67" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/utils/build.gradle" timestamp="1560254335188">
         <mark key="[" line="4" column="93" />
@@ -87,6 +87,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/.java-version" timestamp="1560144797050">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper/3.4.3/87c90eabf837dc6d68ebd0cc656be2bb82f82e6/mapper-3.4.3-sources.jar!/tk/mybatis/mapper/common/base/update/UpdateByPrimaryKeyMapper.java" timestamp="1560327499068" />
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/forum/controller/inner/package-info.java" timestamp="1560137861047">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,8 +99,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/ShopAuctionService.java" timestamp="1560323620300">
-        <mark key="[" line="30" column="83" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/ShopAuctionService.java" timestamp="1560326884367">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/a.sql" timestamp="1560257560609">
         <mark key="[" line="0" column="0" />
@@ -120,8 +123,8 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/utils/src/main/java/com/ald/news/twoshop/utils/bean/BeanUtils.java" timestamp="1560142648019">
         <mark key="[" line="43" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1560307704595">
-        <mark key="[" line="55" column="55" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1560326649452">
+        <mark key="[" line="62" column="27" />
         <mark key="]" line="33" column="10" />
         <mark key="." line="33" column="10" />
         <mark key="^" line="33" column="10" />
@@ -132,11 +135,11 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/domain/src/main/java/com/ald/news/twoshop/domain/package-info.java" timestamp="1560147719964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/data/mapper/ShopAuctionMapper.xml" timestamp="1560323407913">
-        <mark key="[" line="24" column="59" />
-        <mark key="]" line="35" column="23" />
-        <mark key="." line="35" column="23" />
-        <mark key="^" line="35" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/data/mapper/ShopAuctionMapper.xml" timestamp="1560326916989">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="42" column="23" />
+        <mark key="." line="42" column="23" />
+        <mark key="^" line="42" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/core/base/BaseServiceImpl.java" timestamp="1560321494700">
         <mark key="[" line="27" column="5" />
@@ -149,11 +152,11 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/mapper/AddressMapper.java" timestamp="1560306737206">
         <mark key="[" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAuctionServiceImpl.java" timestamp="1560325841859">
-        <mark key="[" line="164" column="42" />
-        <mark key="]" line="164" column="34" />
-        <mark key="." line="164" column="34" />
-        <mark key="^" line="164" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAuctionServiceImpl.java" timestamp="1560327238317">
+        <mark key="[" line="156" column="27" />
+        <mark key="]" line="156" column="27" />
+        <mark key="." line="156" column="27" />
+        <mark key="^" line="180" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices/src/main/resources/bootstrap-local.yml" timestamp="1559662027782">
         <mark key="[" line="14" column="26" />
@@ -189,7 +192,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/data/mapper/ShopOrderMapper.xml" timestamp="1560257654580">
         <mark key="[" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopAuctionController.java" timestamp="1560323637186">
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopAuctionController.java" timestamp="1560327149165">
         <mark key="[" line="93" column="34" />
         <mark key="]" line="93" column="34" />
         <mark key="." line="93" column="34" />
@@ -268,8 +271,8 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/forum/service/impl/package-info.java" timestamp="1560137569417">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/TwoShopApplication.java" timestamp="1560317176660">
-        <mark key="[" line="21" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/TwoShopApplication.java" timestamp="1560326588723">
+        <mark key="[" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/forum/controller/api/package-info.java" timestamp="1560137830553">
         <mark key="[" line="0" column="0" />
@@ -395,7 +398,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>shopAuctionVo</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -428,7 +431,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>shopAuctionVo</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -437,21 +440,18 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiZm9yX3NhbGUiOgogICAgICAgICAgICAgICAgYnJlYWs7</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2hlY2tUZXh0KHNob3BBdWN0aW9uVm8uZ2V0VGl0bGUoKSArIHNob3BBdWN0aW9uVm8uZ2V0RGVzY3JpcHRpb24oKSkpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmJhZCgpLm1lc3NhZ2UoIuagh+mimOaIluaPj+i/sOWMheWQq+aVj+aEn+ivjSIpLmJ1aWxkKCk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="2" type="4">
-        <text>if (checkText(shopAuctionVo.getTitle() + shopAuctionVo.getDescription())) {
-            return Response.bad().message(&quot;标题或描述包含敏感词&quot;).build();
-        }
-        int rows = shopAuctionMapper.updateShopAuction(shopAuctionVo);
-        if (rows == 0) {
-            return Response.bad().message(&quot;编辑商品失败&quot;).build();
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiZm9yX3NhbGUiOgogICAgICAgICAgICAgICAgYnJlYWs7</text>
+      </register>
+      <register name="4" type="4">
         <text>if (checkText(shopAuctionVo.getTitle() + shopAuctionVo.getDescription())) {
             return Response.bad().message(&quot;标题或描述包含敏感词&quot;).build();
         }
@@ -460,34 +460,37 @@
             return Response.bad().message(&quot;编辑商品失败&quot;).build();
         }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
+        <text>if (checkText(shopAuctionVo.getTitle() + shopAuctionVo.getDescription())) {
+            return Response.bad().message(&quot;标题或描述包含敏感词&quot;).build();
+        }
+        int rows = shopAuctionMapper.updateShopAuction(shopAuctionVo);
+        if (rows == 0) {
+            return Response.bad().message(&quot;编辑商品失败&quot;).build();
+        }</text>
+      </register>
+      <register name="6" type="4">
         <text>is_new = #{isNew}, category_code = #{categoryCode}, img_ids = #{imgIds},
             title = #{title}, description = #{description}, price = #{price},
             lat = #{lat}, lng = #{lng}, city_code = #{cityCode}</text>
-      </register>
-      <register name="5" type="4">
-        <text>SELECT id, img_ids, title, price, visit_size, `status`
-        FROM shop_auction
-        where user_id = #{id}
-        ORDER BY id DESC LIMIT #{offset}, #{pageSize};</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">LyoqCiAgICAgKgogICAgICogQHBhcmFtIGlkIGlnbm9yZQogICAgICogQHJldHVybiDmoLnmja5pZOi/lOWbnuaVsOaNrgogICAgICovCiAgICBAR2V0TWFwcGluZygiL3tpZH0iKQogICAgcHVibGljIFJlc3BvbnNlPEF1Y3Rpb24+IGZpbmRCeUlkKEBQYXRoVmFyaWFibGUgU3RyaW5nIGlkKSB7CiAgICAgICAgQXVjdGlvbiBkYXRhID0gYXVjdGlvblNlcnZpY2UuZ2V0QnlJZChpZCk7CiAgICAgICAgaWYgKGRhdGEgIT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2Uub2soZGF0YSkuYnVpbGQoKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmJhZCgpLmJ1aWxkKCk7CiAgICB9CgogICAgIC8qKgogICAgICog5qC55o2uaWTov5Tlm57liJfooagKICAgICAqIEBwYXJhbSBpZHMgaWTpm4blkIgg5qC85byPOiBpZDEsaWQyLGlkMwogICAgICogQHJldHVybgogICAgICovCiAgICBAR2V0TWFwcGluZygiL2JhdGNoL3tpZHN9IikKICAgIHB1YmxpYyBSZXNwb25zZTxDb2xsZWN0aW9uPEF1Y3Rpb24+PiBmaW5kQnlJZHMoQFBhdGhWYXJpYWJsZSBMaXN0PFN0cmluZz4gaWRzKSB7CiAgICAgICAgQ29sbGVjdGlvbjxBdWN0aW9uPiBkYXRhID0gYXVjdGlvblNlcnZpY2UubGlzdEJ5SWRzKGlkcyk7CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlLm9rKGRhdGEpLmJ1aWxkKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiDmoLnmja7mnaHku7bmn6Xor6IKICAgICAqCiAgICAgKiDnpLrkvosKICAgICAqIGh0dHA6Ly9sY2FvbGhvc3Q6ODA4MD9maWx0ZXI9bmlja25hbWUgZXEgJ+iuuOS6jOeLlycgYW5kIGdtdF9jcmVhdGUgZXEgJzIwMTktMDQtMjYgMjA6NTg6NDAnJm9yZGVyQnk9Z210X2NyZWF0ZSBkZXNjJmZpZWxkcz1pZCxuaWNrbmFtZQogICAgICoKICAgICAqIEBwYXJhbSBmaWx0ZXIg6L+H5ruk5p2h5Lu2CiAgICAgKiBAcGFyYW0gb3JkZXJCeSDmjpLluo8KICAgICAqIEBwYXJhbSBmaWVsZHMg6ZyA6L+U5Zue55qE5a2X5q61CiAgICAgKi8KICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQogICAgQEdldE1hcHBpbmcoIiIpCiAgICBwdWJsaWMgUmVzcG9uc2U8TGlzdDxBdWN0aW9uPj4gZmluZEJ5V3JhcHBlcihTdHJpbmcgZmlsdGVyLCBTdHJpbmcgb3JkZXJCeSwgQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IGZhbHNlKSBMaXN0PFN0cmluZz4gZmllbGRzKSB7CiAgICAgICAgUXVlcnlXcmFwcGVyPEF1Y3Rpb24+IHdyYXBwZXIgPSBRdWVyeVJlcXVlc3RVdGlscy5nZXRRdWVyeVdyYXBwZXIoZmlsdGVyLCBvcmRlckJ5LCBmaWVsZHMpOwogICAgICAgIExpc3Q8QXVjdGlvbj4gZGF0YSA9IGF1Y3Rpb25TZXJ2aWNlLmxpc3Qod3JhcHBlcik7CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlLm9rKGRhdGEpLmJ1aWxkKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiDmlrDlop7kuIDmnaHorrDlvZUKICAgICAqIEBwYXJhbSBib2R5CiAgICAgKi8KICAgIEBQb3N0TWFwcGluZygiIikKICAgIHB1YmxpYyBSZXNwb25zZTxBdWN0aW9uPiBzYXZlKEBSZXF1ZXN0Qm9keSBBdWN0aW9uIGJvZHkpIHsKICAgICAgICBib29sZWFuIGlzT2sgPSBhdWN0aW9uU2VydmljZS5zYXZlKGJvZHkpOwogICAgICAgIGlmIChpc09rKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5vayhib2R5KS5idWlsZCgpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkuYnVpbGQoKTsKICAgIH0KCiAgICAvKioKICAgICAqIOaJuemHj+aWsOWinuiusOW9lQogICAgICogQHBhcmFtIGJvZHkKICAgICAqLwogICAgQFBvc3RNYXBwaW5nKCIvYmF0Y2giKQogICAgcHVibGljIFJlc3BvbnNlIHNhdmVCYXRjaChAUmVxdWVzdEJvZHkgTGlzdDxBdWN0aW9uPiBib2R5KSB7CiAgICAgICAgYm9vbGVhbiBpc09rID0gYXVjdGlvblNlcnZpY2Uuc2F2ZUJhdGNoKGJvZHkpOwogICAgICAgIGlmIChpc09rKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5vaygpLmJ1aWxkKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkuYnVpbGQoKTsKICAgIH0=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">LyoqCiAgICAgKiDmoLnmja5pZOaJuemHj+abtOaWsOiusOW9lQogICAgICogQHBhcmFtIGJvZHkKICAgICAqLwogICAgQFB1dE1hcHBpbmcoIi9iYXRjaCIpCiAgICBwdWJsaWMgUmVzcG9uc2UgdXBkYXRlQmF0Y2hCeUlkKEBSZXF1ZXN0Qm9keSBMaXN0PEF1Y3Rpb24+IGJvZHkpIHsKICAgICAgICBib29sZWFuIGlzT2sgPSBhdWN0aW9uU2VydmljZS51cGRhdGVCYXRjaEJ5SWQoYm9keSk7CgogICAgICAgIGlmIChpc09rKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5vaygpLmJ1aWxkKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkuYnVpbGQoKTsKICAgIH0=</text>
+        <text>SELECT id, img_ids, title, price, visit_size, `status`
+        FROM shop_auction
+        where user_id = #{id}
+        ORDER BY id DESC LIMIT #{offset}, #{pageSize};</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LyAgICAvKioKLy8gICAgICog5qC55o2uaWTliKDpmaTorrDlvZUo6YC76L6R5Yig6ZmkKQovLyAgICAgKiBAcGFyYW0gaWQKLy8gICAgICovCi8vICAgIEBEZWxldGVNYXBwaW5nKCIve2lkfSIpCi8vICAgIHB1YmxpYyBSZXNwb25zZSByZW1vdmVCeUlkKEBQYXRoVmFyaWFibGUgTG9uZyBpZCkgewovLyAgICAgICAgYm9vbGVhbiBpc09rID0gYXVjdGlvblNlcnZpY2UucmVtb3ZlQnlJZChpZCk7Ci8vCi8vICAgICAgICBpZiAoaXNPaykgewovLyAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5vaygpLmJ1aWxkKCk7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkuYnVpbGQoKTsKLy8gICAgfQovLwovLyAgICAvKioKLy8gICAgICog5qC55o2uaWTmibnph4/liKDpmaTorrDlvZUo6YC76L6R5Yig6ZmkKQovLyAgICAgKiBAcGFyYW0gaWRzIGlk6ZuG5ZCIIOagvOW8jzogaWQxLGlkMixpZDMKLy8gICAgICovCi8vICAgIEBEZWxldGVNYXBwaW5nKCIvYmF0Y2gve2lkc30iKQovLyAgICBwdWJsaWMgUmVzcG9uc2UgcmVtb3ZlQnlJZHMoQFBhdGhWYXJpYWJsZSBMaXN0PExvbmc+IGlkcykgewovLyAgICAgICAgYm9vbGVhbiBpc09rID0gYXVjdGlvblNlcnZpY2UucmVtb3ZlQnlJZHMoaWRzKTsKLy8KLy8gICAgICAgIGlmIChpc09rKSB7Ci8vICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLm9rKCkuYnVpbGQoKTsKLy8gICAgICAgIH0KLy8KLy8gICAgICAgIHJldHVybiBSZXNwb25zZS5iYWQoKS5idWlsZCgpOwovLyAgICB9Ci8vCi8vICAgIC8qKgovLyAgICAgKiDmoLnmja5pZOWIoOmZpOiusOW9lSjniannkIbliKDpmaQpCi8vICAgICAqIEBwYXJhbSBpZCDkuLvplK4gSUQKLy8gICAgICovCi8vICAgIEBEZWxldGVNYXBwaW5nKCIvZGVsL3tpZH0iKQovLyAgICBwdWJsaWMgUmVzcG9uc2UgZGVsZXRlQnlJZChAUGF0aFZhcmlhYmxlIFNlcmlhbGl6YWJsZSBpZCkgewovLyAgICAgICAgYm9vbGVhbiBpc09rID0gYXVjdGlvblNlcnZpY2UuZGVsZXRlQnlJZChpZCk7Ci8vCi8vICAgICAgICBpZiAoaXNPaykgewovLyAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5vaygpLmJ1aWxkKCk7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkuYnVpbGQoKTsKLy8gICAgfQovLwovLyAgICAvKioKLy8gICAgICog5qC55o2uaWTmibnph4/liKDpmaTorrDlvZUo54mp55CG5Yig6ZmkKQovLyAgICAgKiBAcGFyYW0gaWRzIGlk6ZuG5ZCIIOagvOW8jzogaWQxLGlkMixpZDMKLy8gICAgICovCi8vICAgIEBEZWxldGVNYXBwaW5nKCIvZGVsL2JhdGNoL3tpZHN9IikKLy8gICAgcHVibGljIFJlc3BvbnNlIGRlbGV0ZUJ5SWQoQFBhdGhWYXJpYWJsZSBMaXN0PFN0cmluZz4gaWRzKSB7Ci8vICAgICAgICBib29sZWFuIGlzT2sgPSBhdWN0aW9uU2VydmljZS5kZWxldGVCeUlkcyhpZHMpOwovLwovLyAgICAgICAgaWYgKGlzT2spIHsKLy8gICAgICAgICAgICByZXR1cm4gUmVzcG9uc2Uub2soKS5idWlsZCgpOwovLyAgICAgICAgfQovLwovLyAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmJhZCgpLmJ1aWxkKCk7Ci8vICAgIH0=</text>
+        <text encoding="base64">LyoqCiAgICAgKgogICAgICogQHBhcmFtIGlkIGlnbm9yZQogICAgICogQHJldHVybiDmoLnmja5pZOi/lOWbnuaVsOaNrgogICAgICovCiAgICBAR2V0TWFwcGluZygiL3tpZH0iKQogICAgcHVibGljIFJlc3BvbnNlPEF1Y3Rpb24+IGZpbmRCeUlkKEBQYXRoVmFyaWFibGUgU3RyaW5nIGlkKSB7CiAgICAgICAgQXVjdGlvbiBkYXRhID0gYXVjdGlvblNlcnZpY2UuZ2V0QnlJZChpZCk7CiAgICAgICAgaWYgKGRhdGEgIT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2Uub2soZGF0YSkuYnVpbGQoKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmJhZCgpLmJ1aWxkKCk7CiAgICB9CgogICAgIC8qKgogICAgICog5qC55o2uaWTov5Tlm57liJfooagKICAgICAqIEBwYXJhbSBpZHMgaWTpm4blkIgg5qC85byPOiBpZDEsaWQyLGlkMwogICAgICogQHJldHVybgogICAgICovCiAgICBAR2V0TWFwcGluZygiL2JhdGNoL3tpZHN9IikKICAgIHB1YmxpYyBSZXNwb25zZTxDb2xsZWN0aW9uPEF1Y3Rpb24+PiBmaW5kQnlJZHMoQFBhdGhWYXJpYWJsZSBMaXN0PFN0cmluZz4gaWRzKSB7CiAgICAgICAgQ29sbGVjdGlvbjxBdWN0aW9uPiBkYXRhID0gYXVjdGlvblNlcnZpY2UubGlzdEJ5SWRzKGlkcyk7CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlLm9rKGRhdGEpLmJ1aWxkKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiDmoLnmja7mnaHku7bmn6Xor6IKICAgICAqCiAgICAgKiDnpLrkvosKICAgICAqIGh0dHA6Ly9sY2FvbGhvc3Q6ODA4MD9maWx0ZXI9bmlja25hbWUgZXEgJ+iuuOS6jOeLlycgYW5kIGdtdF9jcmVhdGUgZXEgJzIwMTktMDQtMjYgMjA6NTg6NDAnJm9yZGVyQnk9Z210X2NyZWF0ZSBkZXNjJmZpZWxkcz1pZCxuaWNrbmFtZQogICAgICoKICAgICAqIEBwYXJhbSBmaWx0ZXIg6L+H5ruk5p2h5Lu2CiAgICAgKiBAcGFyYW0gb3JkZXJCeSDmjpLluo8KICAgICAqIEBwYXJhbSBmaWVsZHMg6ZyA6L+U5Zue55qE5a2X5q61CiAgICAgKi8KICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQogICAgQEdldE1hcHBpbmcoIiIpCiAgICBwdWJsaWMgUmVzcG9uc2U8TGlzdDxBdWN0aW9uPj4gZmluZEJ5V3JhcHBlcihTdHJpbmcgZmlsdGVyLCBTdHJpbmcgb3JkZXJCeSwgQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IGZhbHNlKSBMaXN0PFN0cmluZz4gZmllbGRzKSB7CiAgICAgICAgUXVlcnlXcmFwcGVyPEF1Y3Rpb24+IHdyYXBwZXIgPSBRdWVyeVJlcXVlc3RVdGlscy5nZXRRdWVyeVdyYXBwZXIoZmlsdGVyLCBvcmRlckJ5LCBmaWVsZHMpOwogICAgICAgIExpc3Q8QXVjdGlvbj4gZGF0YSA9IGF1Y3Rpb25TZXJ2aWNlLmxpc3Qod3JhcHBlcik7CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlLm9rKGRhdGEpLmJ1aWxkKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiDmlrDlop7kuIDmnaHorrDlvZUKICAgICAqIEBwYXJhbSBib2R5CiAgICAgKi8KICAgIEBQb3N0TWFwcGluZygiIikKICAgIHB1YmxpYyBSZXNwb25zZTxBdWN0aW9uPiBzYXZlKEBSZXF1ZXN0Qm9keSBBdWN0aW9uIGJvZHkpIHsKICAgICAgICBib29sZWFuIGlzT2sgPSBhdWN0aW9uU2VydmljZS5zYXZlKGJvZHkpOwogICAgICAgIGlmIChpc09rKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5vayhib2R5KS5idWlsZCgpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkuYnVpbGQoKTsKICAgIH0KCiAgICAvKioKICAgICAqIOaJuemHj+aWsOWinuiusOW9lQogICAgICogQHBhcmFtIGJvZHkKICAgICAqLwogICAgQFBvc3RNYXBwaW5nKCIvYmF0Y2giKQogICAgcHVibGljIFJlc3BvbnNlIHNhdmVCYXRjaChAUmVxdWVzdEJvZHkgTGlzdDxBdWN0aW9uPiBib2R5KSB7CiAgICAgICAgYm9vbGVhbiBpc09rID0gYXVjdGlvblNlcnZpY2Uuc2F2ZUJhdGNoKGJvZHkpOwogICAgICAgIGlmIChpc09rKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5vaygpLmJ1aWxkKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkuYnVpbGQoKTsKICAgIH0=</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGQubmV3cy50d29zaG9wLmNvcmUuYmFzZS5CYXNlTWFwcGVyOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiDmoLnmja5pZOaJuemHj+abtOaWsOiusOW9lQogICAgICogQHBhcmFtIGJvZHkKICAgICAqLwogICAgQFB1dE1hcHBpbmcoIi9iYXRjaCIpCiAgICBwdWJsaWMgUmVzcG9uc2UgdXBkYXRlQmF0Y2hCeUlkKEBSZXF1ZXN0Qm9keSBMaXN0PEF1Y3Rpb24+IGJvZHkpIHsKICAgICAgICBib29sZWFuIGlzT2sgPSBhdWN0aW9uU2VydmljZS51cGRhdGVCYXRjaEJ5SWQoYm9keSk7CgogICAgICAgIGlmIChpc09rKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5vaygpLmJ1aWxkKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkuYnVpbGQoKTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
