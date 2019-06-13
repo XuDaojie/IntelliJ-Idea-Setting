@@ -109,11 +109,8 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/http/FeignClientConfiguration.java" timestamp="1560235254277">
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopOrderController.java" timestamp="1560341595216">
-        <mark key="[" line="76" column="59" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopOrderController.java" timestamp="1560344592649">
+        <mark key="[" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/ShopAuctionService.java" timestamp="1560326884367">
         <mark key="[" line="42" column="0" />
@@ -152,10 +149,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/data/mapper/ShopAuctionMapper.xml" timestamp="1560336957550">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="42" column="23" />
-        <mark key="." line="42" column="23" />
-        <mark key="^" line="42" column="23" />
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="23" />
+        <mark key="." line="43" column="23" />
+        <mark key="^" line="43" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/core/base/BaseServiceImpl.java" timestamp="1560321494700">
         <mark key="[" line="27" column="5" />
@@ -168,7 +165,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/mapper/AddressMapper.java" timestamp="1560306737206">
         <mark key="[" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAuctionServiceImpl.java" timestamp="1560334018766">
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAuctionServiceImpl.java" timestamp="1560342961949">
         <mark key="[" line="231" column="80" />
         <mark key="]" line="170" column="27" />
         <mark key="." line="170" column="27" />
@@ -227,11 +224,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices/src/main/java/com/ald/cloud/microservices/controller/TestController.java" timestamp="1559663770951">
         <mark key="[" line="43" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/ShopOrder.java" timestamp="1560339036271">
-        <mark key="[" line="76" column="26" />
-        <mark key="]" line="79" column="6" />
-        <mark key="^" line="79" column="6" />
-        <mark key="." line="79" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/ShopOrder.java" timestamp="1560344428769">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/Auction.java" timestamp="1560256945821">
         <mark key="[" line="104" column="11" />
@@ -283,7 +279,7 @@
       <file name="/dummy.sql" timestamp="1560329216148">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560341586001">
+      <file name="/Dummy.txt" timestamp="1560344511740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/data/ShopCategoryDataSource.java" timestamp="1560318318620" />
@@ -425,8 +421,8 @@
       <jump line="6" column="11" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/CHANGELOG.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>shopAuctions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -459,7 +455,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>shopAuctions</text>
+        <text>buy</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
@@ -468,54 +464,40 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2hvcEF1Y3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAvL+m7mOiupOafpeivojLkuKrmnIjllYblk4EKICAgICAgICBpZiAocXVlcnlCby5nZXRQdXREYXRlKCkgPT0gbnVsbCkgewogICAgICAgICAgICBxdWVyeUJvLnNldFB1dERhdGUoRGF0ZVV0aWwuZ2V0RGF0ZUJlZm9yZShEYXRlVXRpbC5nZXREYXlCZWdpbigpLCA2MCkpOwogICAgICAgIH0KICAgICAgICAvL2Zvcl9zYWxlOuW3suS4iuaetiBvbl9zYWxlOuW3suS4iuaetijmiZPmipgpCiAgICAgICAgaWYgKFN0cmluZ1V0aWwuaXNCbGFuayhxdWVyeUJvLmdldFN0YXR1cygpKSl7CiAgICAgICAgICAgIHF1ZXJ5Qm8uc2V0U3RhdHVzKG5ldyBTdHJpbmdCdWZmZXIoKS5hcHBlbmQoIidmb3Jfc2FsZScsICIpLmFwcGVuZCgiJ29uX3NhbGUnIikudG9TdHJpbmcoKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcXVlcnlCby5zZXRTdGF0dXMoIiciLmNvbmNhdChxdWVyeUJvLmdldFN0YXR1cygpKS5jb25jYXQoIiciKSk7CiAgICAgICAgfQogICAgICAgIExpc3Q8U2hvcEF1Y3Rpb25Wbz4gc2hvcEF1Y3Rpb25zID0gbnVsbDsKICAgICAgICBpZihxdWVyeUJvLmdldFR5cGUoKSA9PSAxKSB7CiAgICAgICAgICAgIC8v6ZmE6L+RCiAgICAgICAgICAgIHNob3BBdWN0aW9ucz0gc2hvcEF1Y3Rpb25NYXBwZXIuc2VsZWN0TmVhcmJ5TGlzdEJ5UGFyYW1zKHF1ZXJ5Qm8pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIC8v5aW96LSnCiAgICAgICAgICAgIHNob3BBdWN0aW9ucyA9IHNob3BBdWN0aW9uTWFwcGVyLnNlbGVjdEdvb2RMaXN0QnlQYXJhbXMocXVlcnlCbyk7CiAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJzZWxsZXJfY2FuY2VsX3JlbWFyayIpCiAgICBwcml2YXRlIFN0cmluZyBzZWxsZXJDYW5jZWxSZW1hcms7CgogICAgQENvbHVtbihuYW1lID0gImJ1eWVyX2NhbmNlbF9yZW1hcmsiKQogICAgcHJpdmF0ZSBTdHJpbmcgYnV5ZXJDYW5jZWxSZW1hcms7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgQmFzZVBhZ2U8U2hvcEF1Y3Rpb25Wbz4gc2VsZWN0R29vZExpc3RCeVBhcmFtcyhTaG9wUXVlcnlWbyBxdWVyeUJvKSB7CiAgICAgICAgc2V0UGFnZUhlbHBlcihxdWVyeUJvLCBxdWVyeUJvLmdldFR5cGUoKSk7IC8v6K6+572u6LW35aeL6aG1CiAgICAgICAgQmFzZVBhZ2UgYmFzZVBhZ2UgPSBuZXcgQmFzZVBhZ2UoKTsKICAgICAgICAvL+m7mOiupOafpeivojLkuKrmnIjllYblk4EKICAgICAgICBpZiAocXVlcnlCby5nZXRQdXREYXRlKCkgPT0gbnVsbCkgewogICAgICAgICAgICBxdWVyeUJvLnNldFB1dERhdGUoRGF0ZVV0aWwuZ2V0RGF0ZUJlZm9yZShEYXRlVXRpbC5nZXREYXlCZWdpbigpLCA2MCkpOwogICAgICAgIH0KICAgICAgICAvL2Zvcl9zYWxlOuW3suS4iuaetiBvbl9zYWxlOuW3suS4iuaetijmiZPmipgpCiAgICAgICAgaWYgKFN0cmluZ1V0aWwuaXNCbGFuayhxdWVyeUJvLmdldFN0YXR1cygpKSl7CiAgICAgICAgICAgIHF1ZXJ5Qm8uc2V0U3RhdHVzKG5ldyBTdHJpbmdCdWZmZXIoKS5hcHBlbmQoIidmb3Jfc2FsZScsICIpLmFwcGVuZCgiJ29uX3NhbGUnIikudG9TdHJpbmcoKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcXVlcnlCby5zZXRTdGF0dXMoIiciLmNvbmNhdChxdWVyeUJvLmdldFN0YXR1cygpKS5jb25jYXQoIiciKSk7CiAgICAgICAgfQogICAgICAgIExpc3Q8U2hvcEF1Y3Rpb25Wbz4gc2hvcEF1Y3Rpb25zID0gbnVsbDsKICAgICAgICBpZihxdWVyeUJvLmdldFR5cGUoKSA9PSAxKSB7CiAgICAgICAgICAgIC8v6ZmE6L+RCiAgICAgICAgICAgIHNob3BBdWN0aW9ucz0gc2hvcEF1Y3Rpb25NYXBwZXIuc2VsZWN0TmVhcmJ5TGlzdEJ5UGFyYW1zKHF1ZXJ5Qm8pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIC8v5aW96LSnCiAgICAgICAgICAgIHNob3BBdWN0aW9ucyA9IHNob3BBdWN0aW9uTWFwcGVyLnNlbGVjdEdvb2RMaXN0QnlQYXJhbXMocXVlcnlCbyk7CiAgICAgICAgfQoKICAgICAgICBQYWdlSW5mbzxTaG9wQXVjdGlvblZvPiBwYWdlSW5mbyA9IG5ldyBQYWdlSW5mbzw+KHNob3BBdWN0aW9ucyk7IC8v5a6e5L6L5YyWUGFnZUluZm8KICAgICAgICBmb3IoU2hvcEF1Y3Rpb25WbyBzaG9wQXVjdGlvbjogc2hvcEF1Y3Rpb25zKSB7CiAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBpbWdJZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgZm9yIChTdHJpbmcgaW1nSWQ6IHNob3BBdWN0aW9uLmdldEltZ0lkcygpLnRyaW0oKS5zcGxpdCgiLCIsIC0xKSkgewogICAgICAgICAgICAgICAgaWYoaW1nSWQubGVuZ3RoKCkgPiAwICYmIGltZ0lkICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBpbWdJZHMuYWRkKGltZ0lkKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICAvL+iOt+WPluWbvueJh+i1hOa6kAogICAgICAgICAgICBMaXN0PFJlc291cmNlTW9uZ29EQkRvPiBkYXRhcyA9IHJlc291cmNlQ2xpZW50Lmxpc3RSZXNvdXJjZShpbWdJZHMpLmdldERhdGEoKTsKICAgICAgICAgICAgc2hvcEF1Y3Rpb24uc2V0SW1nRGV0YWlscyhkYXRhcyk7CiAgICAgICAgfQogICAgICAgIGJhc2VQYWdlLnNldFRvdGFsKHBhZ2VJbmZvLmdldFRvdGFsKCkpOwogICAgICAgIGJhc2VQYWdlLnNldExpc3QocGFnZUluZm8uZ2V0TGlzdCgpKTsKICAgICAgICBiYXNlUGFnZS5zZXRQYWdlTnVtKHF1ZXJ5Qm8uZ2V0UGFnZU51bSgpKTsKICAgICAgICBiYXNlUGFnZS5zZXRQYWdlU2l6ZShxdWVyeUJvLmdldFBhZ2VTaXplKCkpOwogICAgICAgIHJldHVybiBiYXNlUGFnZTsKICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJzZWxsZXJfY2FuY2VsX3JlbWFyayIpCiAgICBwcml2YXRlIFN0cmluZyBzZWxsZXJDYW5jZWxSZW1hcms7CgogICAgQENvbHVtbihuYW1lID0gImJ1eWVyX2NhbmNlbF9yZW1hcmsiKQogICAgcHJpdmF0ZSBTdHJpbmcgYnV5ZXJDYW5jZWxSZW1hcms7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoY2hlY2tUZXh0KHNob3BBdWN0aW9uVm8uZ2V0VGl0bGUoKSArIHNob3BBdWN0aW9uVm8uZ2V0RGVzY3JpcHRpb24oKSkpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmJhZCgpLm1lc3NhZ2UoIuagh+mimOaIluaPj+i/sOWMheWQq+aVj+aEn+ivjSIpLmJ1aWxkKCk7CiAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">c2hvcEF1Y3Rpb24K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAvL+m7mOiupOafpeivojLkuKrmnIjllYblk4EKICAgICAgICBpZiAocXVlcnlCby5nZXRQdXREYXRlKCkgPT0gbnVsbCkgewogICAgICAgICAgICBxdWVyeUJvLnNldFB1dERhdGUoRGF0ZVV0aWwuZ2V0RGF0ZUJlZm9yZShEYXRlVXRpbC5nZXREYXlCZWdpbigpLCA2MCkpOwogICAgICAgIH0KICAgICAgICAvL2Zvcl9zYWxlOuW3suS4iuaetiBvbl9zYWxlOuW3suS4iuaetijmiZPmipgpCiAgICAgICAgaWYgKFN0cmluZ1V0aWwuaXNCbGFuayhxdWVyeUJvLmdldFN0YXR1cygpKSl7CiAgICAgICAgICAgIHF1ZXJ5Qm8uc2V0U3RhdHVzKG5ldyBTdHJpbmdCdWZmZXIoKS5hcHBlbmQoIidmb3Jfc2FsZScsICIpLmFwcGVuZCgiJ29uX3NhbGUnIikudG9TdHJpbmcoKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcXVlcnlCby5zZXRTdGF0dXMoIiciLmNvbmNhdChxdWVyeUJvLmdldFN0YXR1cygpKS5jb25jYXQoIiciKSk7CiAgICAgICAgfQogICAgICAgIExpc3Q8U2hvcEF1Y3Rpb25Wbz4gc2hvcEF1Y3Rpb25zID0gbnVsbDsKICAgICAgICBpZihxdWVyeUJvLmdldFR5cGUoKSA9PSAxKSB7CiAgICAgICAgICAgIC8v6ZmE6L+RCiAgICAgICAgICAgIHNob3BBdWN0aW9ucz0gc2hvcEF1Y3Rpb25NYXBwZXIuc2VsZWN0TmVhcmJ5TGlzdEJ5UGFyYW1zKHF1ZXJ5Qm8pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIC8v5aW96LSnCiAgICAgICAgICAgIHNob3BBdWN0aW9ucyA9IHNob3BBdWN0aW9uTWFwcGVyLnNlbGVjdEdvb2RMaXN0QnlQYXJhbXMocXVlcnlCbyk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiZm9yX3NhbGUiOgogICAgICAgICAgICAgICAgYnJlYWs7</text>
+        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgQmFzZVBhZ2U8U2hvcEF1Y3Rpb25Wbz4gc2VsZWN0R29vZExpc3RCeVBhcmFtcyhTaG9wUXVlcnlWbyBxdWVyeUJvKSB7CiAgICAgICAgc2V0UGFnZUhlbHBlcihxdWVyeUJvLCBxdWVyeUJvLmdldFR5cGUoKSk7IC8v6K6+572u6LW35aeL6aG1CiAgICAgICAgQmFzZVBhZ2UgYmFzZVBhZ2UgPSBuZXcgQmFzZVBhZ2UoKTsKICAgICAgICAvL+m7mOiupOafpeivojLkuKrmnIjllYblk4EKICAgICAgICBpZiAocXVlcnlCby5nZXRQdXREYXRlKCkgPT0gbnVsbCkgewogICAgICAgICAgICBxdWVyeUJvLnNldFB1dERhdGUoRGF0ZVV0aWwuZ2V0RGF0ZUJlZm9yZShEYXRlVXRpbC5nZXREYXlCZWdpbigpLCA2MCkpOwogICAgICAgIH0KICAgICAgICAvL2Zvcl9zYWxlOuW3suS4iuaetiBvbl9zYWxlOuW3suS4iuaetijmiZPmipgpCiAgICAgICAgaWYgKFN0cmluZ1V0aWwuaXNCbGFuayhxdWVyeUJvLmdldFN0YXR1cygpKSl7CiAgICAgICAgICAgIHF1ZXJ5Qm8uc2V0U3RhdHVzKG5ldyBTdHJpbmdCdWZmZXIoKS5hcHBlbmQoIidmb3Jfc2FsZScsICIpLmFwcGVuZCgiJ29uX3NhbGUnIikudG9TdHJpbmcoKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcXVlcnlCby5zZXRTdGF0dXMoIiciLmNvbmNhdChxdWVyeUJvLmdldFN0YXR1cygpKS5jb25jYXQoIiciKSk7CiAgICAgICAgfQogICAgICAgIExpc3Q8U2hvcEF1Y3Rpb25Wbz4gc2hvcEF1Y3Rpb25zID0gbnVsbDsKICAgICAgICBpZihxdWVyeUJvLmdldFR5cGUoKSA9PSAxKSB7CiAgICAgICAgICAgIC8v6ZmE6L+RCiAgICAgICAgICAgIHNob3BBdWN0aW9ucz0gc2hvcEF1Y3Rpb25NYXBwZXIuc2VsZWN0TmVhcmJ5TGlzdEJ5UGFyYW1zKHF1ZXJ5Qm8pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIC8v5aW96LSnCiAgICAgICAgICAgIHNob3BBdWN0aW9ucyA9IHNob3BBdWN0aW9uTWFwcGVyLnNlbGVjdEdvb2RMaXN0QnlQYXJhbXMocXVlcnlCbyk7CiAgICAgICAgfQoKICAgICAgICBQYWdlSW5mbzxTaG9wQXVjdGlvblZvPiBwYWdlSW5mbyA9IG5ldyBQYWdlSW5mbzw+KHNob3BBdWN0aW9ucyk7IC8v5a6e5L6L5YyWUGFnZUluZm8KICAgICAgICBmb3IoU2hvcEF1Y3Rpb25WbyBzaG9wQXVjdGlvbjogc2hvcEF1Y3Rpb25zKSB7CiAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBpbWdJZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgZm9yIChTdHJpbmcgaW1nSWQ6IHNob3BBdWN0aW9uLmdldEltZ0lkcygpLnRyaW0oKS5zcGxpdCgiLCIsIC0xKSkgewogICAgICAgICAgICAgICAgaWYoaW1nSWQubGVuZ3RoKCkgPiAwICYmIGltZ0lkICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBpbWdJZHMuYWRkKGltZ0lkKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICAvL+iOt+WPluWbvueJh+i1hOa6kAogICAgICAgICAgICBMaXN0PFJlc291cmNlTW9uZ29EQkRvPiBkYXRhcyA9IHJlc291cmNlQ2xpZW50Lmxpc3RSZXNvdXJjZShpbWdJZHMpLmdldERhdGEoKTsKICAgICAgICAgICAgc2hvcEF1Y3Rpb24uc2V0SW1nRGV0YWlscyhkYXRhcyk7CiAgICAgICAgfQogICAgICAgIGJhc2VQYWdlLnNldFRvdGFsKHBhZ2VJbmZvLmdldFRvdGFsKCkpOwogICAgICAgIGJhc2VQYWdlLnNldExpc3QocGFnZUluZm8uZ2V0TGlzdCgpKTsKICAgICAgICBiYXNlUGFnZS5zZXRQYWdlTnVtKHF1ZXJ5Qm8uZ2V0UGFnZU51bSgpKTsKICAgICAgICBiYXNlUGFnZS5zZXRQYWdlU2l6ZShxdWVyeUJvLmdldFBhZ2VTaXplKCkpOwogICAgICAgIHJldHVybiBiYXNlUGFnZTsKICAgIH0=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
-        <text>if (checkText(shopAuctionVo.getTitle() + shopAuctionVo.getDescription())) {
-            return Response.bad().message(&quot;标题或描述包含敏感词&quot;).build();
-        }
-        int rows = shopAuctionMapper.updateShopAuction(shopAuctionVo);
-        if (rows == 0) {
-            return Response.bad().message(&quot;编辑商品失败&quot;).build();
-        }</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2hlY2tUZXh0KHNob3BBdWN0aW9uVm8uZ2V0VGl0bGUoKSArIHNob3BBdWN0aW9uVm8uZ2V0RGVzY3JpcHRpb24oKSkpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLmJhZCgpLm1lc3NhZ2UoIuagh+mimOaIluaPj+i/sOWMheWQq+aVj+aEn+ivjSIpLmJ1aWxkKCk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="4">
-        <text>if (checkText(shopAuctionVo.getTitle() + shopAuctionVo.getDescription())) {
-            return Response.bad().message(&quot;标题或描述包含敏感词&quot;).build();
-        }
-        int rows = shopAuctionMapper.updateShopAuction(shopAuctionVo);
-        if (rows == 0) {
-            return Response.bad().message(&quot;编辑商品失败&quot;).build();
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="4">
-        <text>is_new = #{isNew}, category_code = #{categoryCode}, img_ids = #{imgIds},
-            title = #{title}, description = #{description}, price = #{price},
-            lat = #{lat}, lng = #{lng}, city_code = #{cityCode}</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiZm9yX3NhbGUiOgogICAgICAgICAgICAgICAgYnJlYWs7</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
