@@ -189,8 +189,10 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/http/FeignClientConfiguration.java" timestamp="1560235254277">
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopOrderController.java" timestamp="1560344592649">
-        <mark key="[" line="37" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopOrderController.java" timestamp="1560419502019">
+        <mark key="]" line="69" column="28" />
+        <mark key="^" line="69" column="28" />
+        <mark key="." line="69" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/ShopAuctionService.java" timestamp="1560326884367">
         <mark key="[" line="42" column="0" />
@@ -480,6 +482,12 @@
       <file name="/dummy.sql" timestamp="1560329216148">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1560419790357">
+        <mark key="a" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/data/ShopCategoryDataSource.java" timestamp="1560318318620" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/utils/QueryRequestUtils.java" timestamp="1560409114252">
         <mark key="[" line="14" column="3" />
@@ -653,8 +661,8 @@
       <jump line="6" column="11" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/CHANGELOG.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -687,7 +695,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>mcallback.clearView</text>
