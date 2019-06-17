@@ -293,8 +293,8 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/build.gradle" timestamp="1560618144295">
         <mark key="[" line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-2shop-test.properties" timestamp="1560514121016">
-        <mark key="[" line="50" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-2shop-test.properties" timestamp="1560770359771">
+        <mark key="[" line="93" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/src/main/resources/application-local.yml" timestamp="1559543801699">
         <mark key="[" line="50" column="26" />
@@ -310,6 +310,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/README.md" timestamp="1560417723684">
         <mark key="[" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAuctionServiceImpl.java" timestamp="1560755466462">
+        <mark key="[" line="205" column="37" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/2.14.0/5767d06a8fee45eca2de60462210d69f0a74c2aa/redisson-2.14.0-sources.jar!/org/redisson/RedissonMultiLock.java" timestamp="1560766375658" />
       <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices/src/main/resources/bootstrap-local.yml" timestamp="1559662027782">
@@ -359,10 +362,10 @@
         <mark key="]" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/TestController.java" timestamp="1560766667290">
-        <mark key="[" line="46" column="24" />
-        <mark key="]" line="46" column="24" />
-        <mark key="." line="46" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/TestController.java" timestamp="1560770925841">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/settings.gradle" timestamp="1560758579817">
         <mark key="[" line="2" column="0" />
@@ -391,6 +394,9 @@
         <mark key="[" line="156" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-payment-test.properties" timestamp="1560770379852">
+        <mark key="[" line="139" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/base/BaseRepository.java" timestamp="1560307200779">
         <mark key="[" line="30" column="3" />
@@ -503,7 +509,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/core/Page.java" timestamp="1560428813813">
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560766173429">
+      <file name="/Dummy.txt" timestamp="1560770435579">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/utils/QueryRequestUtils.java" timestamp="1560409114252">
@@ -714,7 +720,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>已被加锁</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBSZWRpc1RlbXBsYXRlIHJlZGlzVGVtcGxhdGU7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -755,17 +761,17 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBSZWRpc1RlbXBsYXRlIHJlZGlzVGVtcGxhdGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBSZWRpc1RlbXBsYXRlIHJlZGlzVGVtcGxhdGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBSZWRpc1RlbXBsYXRlIHJlZGlzVGVtcGxhdGU7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -774,22 +780,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBSZWRpc0NsaWVudCByZWRpc0NsaWVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9ARW5hYmxlU3dhZ2dlcjJEb2MK</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBSZWRpc0NsaWVudCByZWRpc0NsaWVudDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9ARW5hYmxlU3dhZ2dlcjJEb2MK</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBSZWFjdGl2ZVJlZGlzVGVtcGxhdGUgcmVhY3RpdmVSZWRpc1RlbXBsYXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
