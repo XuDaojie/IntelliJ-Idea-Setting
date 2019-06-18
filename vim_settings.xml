@@ -205,8 +205,8 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/.java-version" timestamp="1560830413095">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-2shop-pro.properties" timestamp="1560842209781">
-        <mark key="[" line="104" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-2shop-pro.properties" timestamp="1560855216929">
+        <mark key="[" line="23" column="34" />
         <mark key="]" line="104" column="7" />
         <mark key="." line="104" column="7" />
       </file>
@@ -334,7 +334,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/logs/bootstrap/error/bootstrap-error-2019-04-01.0.log" timestamp="1560505591859">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560852286032">
+      <file name="/Dummy.txt" timestamp="1560855230823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -537,6 +537,12 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/publish/PubState.java" timestamp="1560415145191">
         <mark key="[" line="27" column="9" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/config-repository/m-eps-pro.properties" timestamp="1560855104933">
+        <mark key="[" line="45" column="62" />
+        <mark key="]" line="45" column="61" />
+        <mark key="^" line="45" column="61" />
+        <mark key="." line="45" column="61" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1560763532719">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -610,6 +616,11 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/utils/src/main/java/com/ald/news/twoshop/utils/app/OrderNoUtils.java" timestamp="1560510783806">
         <mark key="[" line="26" column="47" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap-pre.yml" timestamp="1560854779743">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/user/controller/inner/InnerUserController.java" timestamp="1560851688644">
         <mark key="'" line="73" column="6" />
       </file>
@@ -682,8 +693,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-2shop-pre.properties" timestamp="1560842891789">
-        <mark key="[" line="57" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-2shop-pre.properties" timestamp="1560855224457">
+        <mark key="[" line="25" column="34" />
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
@@ -693,6 +704,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/PayServiceImpl.java" timestamp="1560493948960">
         <mark key="[" line="43" column="30" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap-dev.yml" timestamp="1560854747413" />
       <file name="$USER_HOME$/IdeaProjects/news-boot/commons/commons-data-redis/src/main/resources/redis/lock.lua" timestamp="1560493120738">
         <mark key="[" line="15" column="3" />
       </file>
@@ -832,7 +844,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>List</text>
+        <text>k</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -865,7 +877,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
