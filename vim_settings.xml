@@ -37,8 +37,8 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/config/aop/RequestParamAsp.java" timestamp="1560417142969">
         <mark key="[" line="50" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/spy.properties" timestamp="1561183169032">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/spy.properties" timestamp="1561184921590">
+        <mark key="[" line="8" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/rest-client.http" timestamp="1560151894332">
         <mark key="[" line="12" column="2" />
@@ -239,10 +239,10 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/publish/PubState.java" timestamp="1560415145191">
         <mark key="[" line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1561184146076">
-        <mark key="[" line="29" column="66" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1561184963251">
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/core/base/BaseRepository.java" timestamp="1560700149975">
         <mark key="[" line="167" column="48" />
@@ -268,10 +268,10 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/data/mapper/xml/OrderMapper.xml" timestamp="1560828871255">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/config/MybatisPlusConfig.java" timestamp="1561184085654">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/config/MybatisPlusConfig.java" timestamp="1561185699276">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/logs/bootstrap/bootstrap-debug.log" timestamp="1560505602207">
         <mark key="[" line="18" column="31" />
@@ -470,7 +470,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/core/Page.java" timestamp="1560825898852">
         <mark key="[" line="135" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561182889519">
+      <file name="/Dummy.txt" timestamp="1561185387818">
         <mark key="a" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -544,7 +544,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1560872264676">
         <mark key="[" line="19" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1561181059265">
+      <file name="/fragment.java" timestamp="1561185387810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -653,8 +653,8 @@
       <jump line="151" column="0" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/test/resources/templates/client.java.ftl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -687,7 +687,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
