@@ -37,6 +37,9 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/config/aop/RequestParamAsp.java" timestamp="1560417142969">
         <mark key="[" line="50" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/spy.properties" timestamp="1561183169032">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/rest-client.http" timestamp="1560151894332">
         <mark key="[" line="12" column="2" />
       </file>
@@ -108,6 +111,9 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/data/mapper/AuctionMapper.xml" timestamp="1561122048396">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/build.gradle" timestamp="1561183243407">
+        <mark key="[" line="39" column="48" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery2/src/main/resources/application.yml" timestamp="1559555007681">
         <mark key="[" line="2" column="16" />
       </file>
@@ -122,6 +128,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/service/impl/ShopCategoryServiceImpl.java" timestamp="1560444511322">
         <mark key="[" line="19" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/controller/api/SendSMSController.java" timestamp="1561180020256">
+        <mark key="[" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/resources/static/index.html" timestamp="1560408205479">
         <mark key="[" line="7" column="0" />
@@ -206,7 +215,6 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery2/src/main/java/com/ald/cloud/discovery/NacosApplication.java" timestamp="1559554501097">
         <mark key="[" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1561121888183" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/data/repository/CategoryRepository.java" timestamp="1560828853058">
         <mark key="[" line="21" column="0" />
       </file>
@@ -231,8 +239,10 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/publish/PubState.java" timestamp="1560415145191">
         <mark key="[" line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1561120212421">
-        <mark key="[" line="58" column="63" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1561184146076">
+        <mark key="[" line="29" column="66" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/core/base/BaseRepository.java" timestamp="1560700149975">
         <mark key="[" line="167" column="48" />
@@ -257,6 +267,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/data/mapper/xml/OrderMapper.xml" timestamp="1560828871255">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/config/MybatisPlusConfig.java" timestamp="1561184085654">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/logs/bootstrap/bootstrap-debug.log" timestamp="1560505602207">
         <mark key="[" line="18" column="31" />
@@ -323,6 +338,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/.editorconfig" timestamp="1560153001781">
         <mark key="[" line="21" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/service/impl/SmsServiceImpl.java" timestamp="1561179604140">
+        <mark key="[" line="50" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1561121888183" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/controller/inner/InnerOrderController.java" timestamp="1560829272754">
@@ -427,6 +445,9 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices2/src/main/resources/bootstrap-nacos.yml" timestamp="1559620255375">
         <mark key="[" line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/test/java/io/github/xudaojie/generator/MyCodeGeneratorTest.java" timestamp="1561180746376">
+        <mark key="[" line="74" column="39" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1561121888183" />
       <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices2/src/main/java/com/ald/cloud/microservices/MicroServices2.java" timestamp="1559619686530">
         <mark key="[" line="22" column="26" />
@@ -449,7 +470,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/core/Page.java" timestamp="1560825898852">
         <mark key="[" line="135" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561126216240">
+      <file name="/Dummy.txt" timestamp="1561182889519">
         <mark key="a" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -478,6 +499,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/resource-test.properties" timestamp="1560761461918">
         <mark key="[" line="31" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/resources/application.properties" timestamp="1561181264661">
+        <mark key="[" line="36" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/core/base/PageQuery.java" timestamp="1560398316447">
         <mark key="[" line="2" column="24" />
@@ -520,7 +544,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pro.yml" timestamp="1560872264676">
         <mark key="[" line="19" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1561126047241">
+      <file name="/fragment.java" timestamp="1561181059265">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -629,8 +653,8 @@
       <jump line="151" column="0" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/test/resources/templates/client.java.ftl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -663,7 +687,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
@@ -672,40 +696,40 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9wcHBwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9paWkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nOgogIGFwcGxpY2F0aW9uOgogICAgbmFtZTogbmV3cy0yc2hvcCAgICAjIOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu255qEe2FwcGxpY2F0aW9ufQogIGNsb3VkOgogICAgY29uZmlnOgogICAgICB1cmk6IGh0dHA6Ly9jb25maWcudGVzdC5tYWtleml4dW4uY29tOjg4ODgvCiAgICAgIHByb2ZpbGU6IGRldiAgICAgICAgICAgICAgICAgICAgICMg5oyH5a6acHJvZmlsZe+8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu25Lit55qEe3Byb2ZpbGV9CiAgICAgIGxhYmVsOiBtYXN0ZXIgICAgICAgICAgICAgICAgICAgICAjIOaMh+WummdpdOS7k+W6k+eahOWIhuaUr++8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu255qEe2xhYmVsfQo=</text>
+        <text encoding="base64">IyBtYXBwZXIKbWFwcGVyLm1hcHBlcnM9Y29tLmFsZC5uZXdzLnR3b3Nob3AuY29yZS5iYXNlLkJhc2VNYXBwZXIKbWFwcGVyLm5vdC1lbXB0eT1mYWxzZQptYXBwZXIuaWRlbnRpdHk9TVlTUUwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">b25maWd1cmF0aW9ucy5hbGwgewogICAgLy8gY2hlY2sgZm9yIHVwZGF0ZXMgZXZlcnkgYnVpbGQKICAgIHJlc29sdXRpb25TdHJhdGVneS5jYWNoZUNoYW5naW5nTW9kdWxlc0ZvciAwLCAnc2Vjb25kcycKfQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnNldE1heFRpbWUoMTApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNldFdyaXRlSW5Mb2codHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wcHBwCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9paWkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PCNsaXN0IHRhYmxlLmltcG9ydFBhY2thZ2VzIGFzIHBrZz4KaW1wb3J0ICR7cGtnfTsKPC8jbGlzdD4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">c3ByaW5nOgogIGFwcGxpY2F0aW9uOgogICAgbmFtZTogbmV3cy0yc2hvcCAgICAjIOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu255qEe2FwcGxpY2F0aW9ufQogIGNsb3VkOgogICAgY29uZmlnOgogICAgICB1cmk6IGh0dHA6Ly9jb25maWcudGVzdC5tYWtleml4dW4uY29tOjg4ODgvCiAgICAgIHByb2ZpbGU6IGRldiAgICAgICAgICAgICAgICAgICAgICMg5oyH5a6acHJvZmlsZe+8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu25Lit55qEe3Byb2ZpbGV9CiAgICAgIGxhYmVsOiBtYXN0ZXIgICAgICAgICAgICAgICAgICAgICAjIOaMh+WummdpdOS7k+W6k+eahOWIhuaUr++8jOWvueW6lG1pY3Jvc2VydmljZS1jb25maWctc2VydmVy5omA6I635Y+W55qE6YWN572u5paH5Lu255qEe2xhYmVsfQo=</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PCNpZiBzd2FnZ2VyMj4KaW1wb3J0IGlvLnN3YWdnZXIuYW5ub3RhdGlvbnMuQXBpTW9kZWw7CmltcG9ydCBpby5zd2FnZ2VyLmFubm90YXRpb25zLkFwaU1vZGVsUHJvcGVydHk7CjwvI2lmPg==</text>
+        <text encoding="base64">b25maWd1cmF0aW9ucy5hbGwgewogICAgLy8gY2hlY2sgZm9yIHVwZGF0ZXMgZXZlcnkgYnVpbGQKICAgIHJlc29sdXRpb25TdHJhdGVneS5jYWNoZUNoYW5naW5nTW9kdWxlc0ZvciAwLCAnc2Vjb25kcycKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
