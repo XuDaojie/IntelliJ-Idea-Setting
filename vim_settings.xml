@@ -281,7 +281,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1561102154017">
         <mark key="[" line="1070" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561432676807">
+      <file name="/Dummy.txt" timestamp="1561434632670">
         <mark key="a" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -323,8 +323,10 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-2shop-dev.properties" timestamp="1561432524568">
         <mark key="[" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/TwoShopApplication.java" timestamp="1561432957338">
-        <mark key="[" line="34" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/TwoShopApplication.java" timestamp="1561434900521">
+        <mark key="[" line="41" column="39" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/forum/controller/api/package-info.java" timestamp="1560137830553">
         <mark key="[" line="0" column="0" />
@@ -332,7 +334,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/entity/Auction.java" timestamp="1561125517381">
         <mark key="[" line="131" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1561432676794">
+      <file name="/fragment.java" timestamp="1561434632663">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -448,8 +450,10 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/publish/PubState.java" timestamp="1560415145191">
         <mark key="[" line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1561432426097">
-        <mark key="[" line="5" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1561434245988">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/core/base/BaseRepository.java" timestamp="1560700149975">
         <mark key="[" line="167" column="48" />
@@ -705,7 +709,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ilterParams[i]</text>
+        <text encoding="base64">IGV4dGVuZHMgQmFzZUFwcGxpY2F0aW9uIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -738,7 +742,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ilterParams[i]</text>
+        <text encoding="base64">IGV4dGVuZHMgQmFzZUFwcGxpY2F0aW9uIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
@@ -747,36 +751,41 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmVyLmVycm9yLmluY2x1ZGUtc3RhY2t0cmFjZT1vbl90cmFjZV9wYXJhbQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBZnRlcigiZXhlY3V0aW9uKHB1YmxpYyAqIGNvbS5hbGQubmV3cy5zYW1wbGUuY29yZS5jbGllbnQuKi4qKC4uKSkiKQogICAgcHVibGljIHZvaWQgczMoT2JqZWN0IHJlc3ApIHsKICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4ocmVzcCk7CiAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmFsZC5maWxlLnNlcnZlci5hY2Nlc3MuYmFzZS5ob3N0PWh0dHA6Ly90ZXN0aW1hZ2UubWFrZXppeHVuLmNvbQphbGQuc3ViZWpjdC5kZWZhdWx0PS9ndWd1amlfc3ViamVjdC5wbmc=</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
+      <register name="3" type="4">
+        <text>### \u8BF7\u6C42\u5904\u7406\u7684\u8D85\u65F6\u65F6\u95F4
+common-service.ribbon.ReadTimeout=50000
+### \u8BF7\u6C42\u8FDE\u63A5\u8D85\u65F6\u65F6\u95F4
+common-service.ribbon.ConnectTimeout=30000</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
+      <register name="4" type="4">
+        <text>## Zipkin
+spring.zipkin.baseUrl=http://ZIPKIN-SERVER/
+spring.sleuth.sampler.percentage=1
+spring.zipkin.sender.type=web
+spring.zipkin.enabled=false</text>
       </register>
-      <register name="5" type="4">
-        <text>public void m1() {
-        
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">IyBtYXBwZXIKbWFwcGVyLm1hcHBlcnM9Y29tLmFsZC5uZXdzLnR3b3Nob3AuY29yZS5iYXNlLkJhc2VNYXBwZXIKbWFwcGVyLm5vdC1lbXB0eT1mYWxzZQptYXBwZXIuaWRlbnRpdHk9TVlTUUwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmliYm9uLm9raHR0cC5lbmFibGVkPXRydWUKcmliYm9uLkNvbm5lY3RUaW1lb3V0PTEwMDAKcmliYm9uLlJlYWRUaW1lb3V0PTMwMDAKcmliYm9uLk1heEF1dG9SZXRyaWVzTmV4dFNlcnZlcj0wCnJpYmJvbi5NYXhBdXRvUmV0cmllcz0wCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJ1bnRpbWUgJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1kZXZ0b29scycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBtYW9wYW8KI2FsZC5tYW9wYW8uaG9zdD1odHRwczovL3dlYmNhc3QtdGVzdC5tYW9wcC5jbgphbGQubWFvcGFvLmhvc3Q9aHR0cHM6Ly93ZWJjYXN0Lm1hb3BwLmNuCg==</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
