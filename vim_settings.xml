@@ -256,9 +256,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices2/src/main/resources/bootstrap-nacos.yml" timestamp="1559620255375">
         <mark key="[" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/test/java/io/github/xudaojie/generator/MyCodeGeneratorTest.java" timestamp="1561180746376">
-        <mark key="[" line="74" column="39" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/test/java/io/github/xudaojie/generator/MyCodeGeneratorTest.java" timestamp="1561450285185" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/user/controller/api/TestController.java" timestamp="1561368749515">
         <mark key="[" line="35" column="27" />
         <mark key="]" line="35" column="27" />
@@ -282,7 +280,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1561102154017">
         <mark key="[" line="1070" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561446664852">
+      <file name="/Dummy.txt" timestamp="1561450313458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/utils/QueryRequestUtils.java" timestamp="1560409114252">
@@ -332,10 +330,10 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/entity/Auction.java" timestamp="1561125517381">
         <mark key="[" line="131" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1561444592539">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/fragment.java" timestamp="1561450045380">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/data/repository/AuctionRepository.java" timestamp="1560255197663">
         <mark key="[" line="18" column="28" />
@@ -713,11 +711,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>build.time=2019-06-25T15\:01\:31+0800
-build.artifact=news-2shop
-build.group=com.ald.news
-build.name=app
-build.version=1.0-SNAPSHOT</text>
+        <text>pathSeparator</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -750,7 +744,7 @@ build.version=1.0-SNAPSHOT</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>group</text>
+        <text>pathSeparator</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
