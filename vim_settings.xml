@@ -318,8 +318,10 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/forum/service/impl/package-info.java" timestamp="1560137569417">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/config-repository/news-2shop-dev.properties" timestamp="1561432524568">
-        <mark key="[" line="0" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/config-repository/news-2shop-dev.properties" timestamp="1561534168334">
+        <mark key="[" line="53" column="63" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/TwoShopApplication.java" timestamp="1561446515099">
         <mark key="[" line="37" column="48" />
@@ -711,7 +713,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgbWFwcGVyCm1hcHBlci5tYXBwZXJzPWNvbS5hbGQubmV3cy50d29zaG9wLmNvcmUuYmFzZS5CYXNlTWFwcGVyCm1hcHBlci5ub3QtZW1wdHk9ZmFsc2UKbWFwcGVyLmlkZW50aXR5PU1ZU1FMCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -753,51 +755,51 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgbWFwcGVyCm1hcHBlci5tYXBwZXJzPWNvbS5hbGQubmV3cy50d29zaG9wLmNvcmUuYmFzZS5CYXNlTWFwcGVyCm1hcHBlci5ub3QtZW1wdHk9ZmFsc2UKbWFwcGVyLmlkZW50aXR5PU1ZU1FMCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMg5r2u6Ze75LiT55SocmVkaXMKc3ByaW5nLnJlZGlzLmNsdXN0ZXIubm9kZXMucmVjb21tZW5kPTE5Mi4xNjguMTE1Ljk1OjIwMTEsMTkyLjE2OC4xMTUuOTU6MjAxMiwxOTIuMTY4LjExNS45NToyMDEzLDE5Mi4xNjguMTE1Ljk1OjIwMTQsMTkyLjE2OC4xMTUuOTU6MjAxNSwxOTIuMTY4LjExNS45NToyMDE2CnNwcmluZy5yZWRpcy50aW1lb3V0LnJlY29tbWVuZD0zMDAwMDAKc3ByaW5nLnJlZGlzLnBvb2wubWF4LWFjdGl2ZS5yZWNvbW1lbmQ9MTI4CnNwcmluZy5yZWRpcy5wb29sLm1heC13YWl0LnJlY29tbWVuZD0zMDAKc3ByaW5nLnJlZGlzLnBvb2wubWF4LWlkbGUucmVjb21tZW5kPTY0CnNwcmluZy5yZWRpcy5wb29sLm1pbi1pZGxlLnJlY29tbWVuZD02NApzcHJpbmcucmVkaXMucmVkaXJlY3QucmVjb21tZW5kPTYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">IyMg5r2u6Ze75LiT55SocmVkaXMKc3ByaW5nLnJlZGlzLmNsdXN0ZXIubm9kZXMucmVjb21tZW5kPTE5Mi4xNjguMTE1Ljk1OjIwMTEsMTkyLjE2OC4xMTUuOTU6MjAxMiwxOTIuMTY4LjExNS45NToyMDEzLDE5Mi4xNjguMTE1Ljk1OjIwMTQsMTkyLjE2OC4xMTUuOTU6MjAxNSwxOTIuMTY4LjExNS45NToyMDE2CnNwcmluZy5yZWRpcy50aW1lb3V0LnJlY29tbWVuZD0zMDAwMDAKc3ByaW5nLnJlZGlzLnBvb2wubWF4LWFjdGl2ZS5yZWNvbW1lbmQ9MTI4CnNwcmluZy5yZWRpcy5wb29sLm1heC13YWl0LnJlY29tbWVuZD0zMDAKc3ByaW5nLnJlZGlzLnBvb2wubWF4LWlkbGUucmVjb21tZW5kPTY0CnNwcmluZy5yZWRpcy5wb29sLm1pbi1pZGxlLnJlY29tbWVuZD02NApzcHJpbmcucmVkaXMucmVkaXJlY3QucmVjb21tZW5kPTYK</text>
+      </register>
+      <register name="4" type="4">
         <text>build.time=2019-06-25T15\:01\:31+0800
 build.artifact=news-2shop
 build.group=com.ald.news
 build.name=app
 build.version=1.0-SNAPSHOT</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">c2VydmVyLmVycm9yLmluY2x1ZGUtc3RhY2t0cmFjZT1vbl90cmFjZV9wYXJhbQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmFsZC5maWxlLnNlcnZlci5hY2Nlc3MuYmFzZS5ob3N0PWh0dHA6Ly90ZXN0aW1hZ2UubWFrZXppeHVuLmNvbQphbGQuc3ViZWpjdC5kZWZhdWx0PS9ndWd1amlfc3ViamVjdC5wbmc=</text>
-      </register>
       <register name="6" type="4">
-        <text>### \u8BF7\u6C42\u5904\u7406\u7684\u8D85\u65F6\u65F6\u95F4
-common-service.ribbon.ReadTimeout=50000
-### \u8BF7\u6C42\u8FDE\u63A5\u8D85\u65F6\u65F6\u95F4
-common-service.ribbon.ConnectTimeout=30000</text>
+        <text encoding="base64">CmFsZC5maWxlLnNlcnZlci5hY2Nlc3MuYmFzZS5ob3N0PWh0dHA6Ly90ZXN0aW1hZ2UubWFrZXppeHVuLmNvbQphbGQuc3ViZWpjdC5kZWZhdWx0PS9ndWd1amlfc3ViamVjdC5wbmc=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
+        <text>### \u8BF7\u6C42\u5904\u7406\u7684\u8D85\u65F6\u65F6\u95F4
+common-service.ribbon.ReadTimeout=50000
+### \u8BF7\u6C42\u8FDE\u63A5\u8D85\u65F6\u65F6\u95F4
+common-service.ribbon.ConnectTimeout=30000</text>
+      </register>
+      <register name="8" type="4">
         <text>## Zipkin
 spring.zipkin.baseUrl=http://ZIPKIN-SERVER/
 spring.sleuth.sampler.percentage=1
 spring.zipkin.sender.type=web
 spring.zipkin.enabled=false</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBtYXBwZXIKbWFwcGVyLm1hcHBlcnM9Y29tLmFsZC5uZXdzLnR3b3Nob3AuY29yZS5iYXNlLkJhc2VNYXBwZXIKbWFwcGVyLm5vdC1lbXB0eT1mYWxzZQptYXBwZXIuaWRlbnRpdHk9TVlTUUwK</text>
-      </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmliYm9uLm9raHR0cC5lbmFibGVkPXRydWUKcmliYm9uLkNvbm5lY3RUaW1lb3V0PTEwMDAKcmliYm9uLlJlYWRUaW1lb3V0PTMwMDAKcmliYm9uLk1heEF1dG9SZXRyaWVzTmV4dFNlcnZlcj0wCnJpYmJvbi5NYXhBdXRvUmV0cmllcz0wCg==</text>
+        <text encoding="base64">IyBtYXBwZXIKbWFwcGVyLm1hcHBlcnM9Y29tLmFsZC5uZXdzLnR3b3Nob3AuY29yZS5iYXNlLkJhc2VNYXBwZXIKbWFwcGVyLm5vdC1lbXB0eT1mYWxzZQptYXBwZXIuaWRlbnRpdHk9TVlTUUwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
