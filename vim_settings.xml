@@ -279,8 +279,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1561521655222">
         <mark key="[" line="1070" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561521669388">
+      <file name="/Dummy.txt" timestamp="1561528179073">
+        <mark key="a" line="0" column="6" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/utils/QueryRequestUtils.java" timestamp="1560409114252">
         <mark key="[" line="14" column="3" />
@@ -708,7 +711,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>on_trace_param</text>
+        <text>release</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -741,7 +744,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>on_trace_param</text>
+        <text>release</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
