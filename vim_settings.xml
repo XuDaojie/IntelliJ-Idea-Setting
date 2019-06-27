@@ -95,7 +95,7 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/data/mapper/AuctionMapper.java" timestamp="1560829107665">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user-client/src/main/java/com/ald/news/user/client/UserClient.java" timestamp="1561620202190">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user-client/src/main/java/com/ald/news/user/client/UserClient.java" timestamp="1561622191237">
         <mark key="[" line="58" column="25" />
         <mark key="]" line="62" column="16" />
         <mark key="." line="62" column="16" />
@@ -179,11 +179,11 @@
         <mark key="[" line="5" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ald/news/core/news-core/0.4.0-SNAPSHOT/news-core-0.4.0-SNAPSHOT-sources.jar!/com/ald/news/core/base/BaseServiceImpl.java" timestamp="1561619406951" />
-      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/user/UserDo.java" timestamp="1561620361333">
-        <mark key="[" line="239" column="6" />
-        <mark key="]" line="857" column="16" />
-        <mark key="." line="857" column="16" />
-        <mark key="^" line="857" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/user/UserDo.java" timestamp="1561621658668">
+        <mark key="[" line="310" column="32" />
+        <mark key="]" line="308" column="23" />
+        <mark key="." line="308" column="23" />
+        <mark key="^" line="861" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopAddressController.java" timestamp="1560861761107">
         <mark key="[" line="34" column="44" />
@@ -306,7 +306,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1561529274004">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561616391472">
+      <file name="/Dummy.txt" timestamp="1561622245831">
         <mark key="a" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -366,12 +366,12 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/entity/Auction.java" timestamp="1561125517381">
         <mark key="[" line="131" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user-client/src/main/java/com/ald/news/user/domain/entity/User.java" timestamp="1561619040254">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user-client/src/main/java/com/ald/news/user/domain/entity/User.java" timestamp="1561621662497">
+        <mark key="[" line="204" column="31" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1561615001556">
+      <file name="/fragment.java" timestamp="1561622008476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -601,8 +601,8 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/base/BaseRepository.java" timestamp="1560307200779">
         <mark key="[" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerUser2Controller.java" timestamp="1561620051201">
-        <mark key="'" line="104" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerUser2Controller.java" timestamp="1561622019142">
+        <mark key="'" line="105" column="0" />
         <mark key="[" line="93" column="19" />
         <mark key="]" line="93" column="18" />
         <mark key="." line="93" column="18" />
@@ -785,7 +785,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PD4g</text>
+        <text>融云即时通讯token</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -818,7 +818,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PD4g</text>
+        <text>融云即时通讯token</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
