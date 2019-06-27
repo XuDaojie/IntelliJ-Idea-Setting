@@ -72,10 +72,10 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/data/mapper/AuctionMapper.xml" timestamp="1561308058095">
         <mark key="[" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/build.gradle" timestamp="1561546774843">
-        <mark key="[" line="55" column="56" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="20" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/build.gradle" timestamp="1561561038670">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery2/src/main/resources/application.yml" timestamp="1559555007681">
         <mark key="[" line="2" column="16" />
@@ -199,9 +199,6 @@
       <file name="$MAVEN_REPOSITORY$/com/ald/news/core/news-core/0.2.0-SNAPSHOT/news-core-0.2.0-SNAPSHOT-sources.jar!/com/ald/news/core/Page.java" timestamp="1560850247736">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAuctionServiceImpl.java" timestamp="1561120914527">
-        <mark key="[" line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/build.gradle" timestamp="1561455622294">
         <mark key="[" line="7" column="54" />
       </file>
@@ -302,7 +299,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1561529274004">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561559970796">
+      <file name="/Dummy.txt" timestamp="1561561032953">
         <mark key="a" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -484,7 +481,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/publish/PubState.java" timestamp="1560415145191">
         <mark key="[" line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1561556969155">
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1561560689545">
         <mark key="'" line="103" column="28" />
         <mark key="[" line="115" column="11" />
         <mark key="]" line="26" column="0" />
@@ -494,11 +491,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/core/base/BaseRepository.java" timestamp="1560700149975">
         <mark key="[" line="167" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/inner/Inner1AuctionController.java" timestamp="1561549968175">
-        <mark key="[" line="54" column="23" />
-        <mark key="]" line="56" column="7" />
-        <mark key="." line="56" column="7" />
-        <mark key="^" line="56" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/inner/Inner1AuctionController.java" timestamp="1561561123109">
+        <mark key="[" line="50" column="23" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/domain/entity/ShopOrder.java" timestamp="1560620570845">
         <mark key="[" line="16" column="0" />
@@ -773,8 +770,8 @@
       <jump line="88" column="24" filename="$USER_HOME$/IdeaProjects/news-boot/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Edgware.SR3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -816,40 +813,40 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJwdXNoX3Rva2VuIikKICAgIEBBcGlNb2RlbFByb3BlcnR5KCLmjqjpgIHnmoTku6TniYwiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLlrqLmiLfnq6/llK/kuIDmoIfor4blj7ciKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLlr4bnoIEiKQo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJwdXNoX3Rva2VuIikKICAgIEBBcGlNb2RlbFByb3BlcnR5KCLmjqjpgIHnmoTku6TniYwiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLnlKjmiLfpgq7nrrEiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLlrqLmiLfnq6/llK/kuIDmoIfor4blj7ciKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLmiYvmnLrlj7ciKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLlr4bnoIEiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJpZGVudGl0eV9jYXJkIikKICAgIEBBcGlNb2RlbFByb3BlcnR5KCLouqvku73or4Hlj7fnoIEiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLnlKjmiLfpgq7nrrEiKQo=</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLnlKjmiLflrp7lkI0iKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLmiYvmnLrlj7ciKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLnlKjmiLfmmLXnp7AiKQo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJpZGVudGl0eV9jYXJkIikKICAgIEBBcGlNb2RlbFByb3BlcnR5KCLouqvku73or4Hlj7fnoIEiKQo=</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLnlKjmiLflkI0iKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLnlKjmiLflrp7lkI0iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
