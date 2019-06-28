@@ -368,11 +368,6 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/entity/Auction.java" timestamp="1561125517381">
         <mark key="[" line="131" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user-client/src/main/java/com/ald/news/user/domain/entity/User.java" timestamp="1561621662497">
-        <mark key="[" line="204" column="31" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1561690558101">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -509,12 +504,12 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/publish/PubState.java" timestamp="1560415145191">
         <mark key="[" line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1561614303558">
-        <mark key="'" line="103" column="28" />
-        <mark key="[" line="115" column="11" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="27" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" timestamp="1561692899631">
+        <mark key="'" line="105" column="28" />
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="29" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/core/base/BaseRepository.java" timestamp="1560700149975">
         <mark key="[" line="167" column="48" />
@@ -803,7 +798,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>redisTemplate</text>
+        <text>twoshop</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -836,7 +831,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>redisTemplate</text>
+        <text>twoshop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
