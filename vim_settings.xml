@@ -101,10 +101,6 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/mapper/package-info.java" timestamp="1560171802080">
         <mark key="[" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/data/NewsUserRepository.java" timestamp="1561708978226">
-        <mark key="[" line="201" column="60" />
-        <mark key="^" line="9" column="15" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/base/BaseMapper.java" timestamp="1560412493959">
         <mark key="[" line="11" column="65" />
       </file>
@@ -206,6 +202,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/.java-version" timestamp="1560830413095">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/ConfigController.java" timestamp="1561950852960" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/TwoShopApplication.http" timestamp="1561951241015">
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-2shop-pro.properties" timestamp="1561432589135">
         <mark key="[" line="0" column="23" />
       </file>
@@ -263,10 +264,10 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/web/WebShopCategoryController.java" timestamp="1561089633847">
         <mark key="[" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopAuctionController.java" timestamp="1561948192081">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopAuctionController.java" timestamp="1561950950703">
+        <mark key="[" line="116" column="90" />
+        <mark key="]" line="116" column="90" />
+        <mark key="." line="116" column="90" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/sql/ddl.sql" timestamp="1560843084974">
         <mark key="[" line="12" column="39" />
@@ -304,6 +305,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/ConfigController.java" timestamp="1561950728015" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/utils/QueryRequestUtils.java" timestamp="1560409114252">
         <mark key="[" line="14" column="3" />
       </file>
@@ -641,6 +643,9 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/src/main/java/com/ald/news/sample/core/client/TestClient2.java" timestamp="1561372466089">
         <mark key="[" line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/config/ConfigDataSource.java" timestamp="1561950527391">
+        <mark key="[" line="82" column="39" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="104" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/home_warning_detail_activity.xml" />
@@ -745,8 +750,8 @@
       <jump line="88" column="24" filename="$USER_HOME$/IdeaProjects/news-boot/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eSh0b2tlbikpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnVuYXV0aG9yaXplZCgpLmJ1aWxkKCk7CiAgICAgICAgfQogICAgICAgIExvbmcgdXNlcklkID0gVXNlclRva2VuVXRpbHMuZ2V0VXNlcklkKHRva2VuKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QFF1ZXJ5UGFyYW0oInBhZ2UiKSA=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -779,7 +784,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text encoding="base64">QFF1ZXJ5UGFyYW0oInBhZ2UiKSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
@@ -787,71 +792,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eSh0b2tlbikpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnVuYXV0aG9yaXplZCgpLmJ1aWxkKCk7CiAgICAgICAgfQogICAgICAgIExvbmcgdXNlcklkID0gVXNlclRva2VuVXRpbHMuZ2V0VXNlcklkKHRva2VuKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">PiB7JQpjbGllbnQudGVzdCgpCiAlfQ==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBMb25nIHVzZXJJZCA9IFVzZXJUb2tlblV0aWxzLmdldFVzZXJJZCh0b2tlbik7CiAgICAgICAgaWYgKHVzZXJJZCA9PSAwTCkgewogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkubWVzc2FnZSgi6Z2e5rOV6K+35rGCIikuYnVpbGQoKTsKICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eSh0b2tlbikpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnVuYXV0aG9yaXplZCgpLmJ1aWxkKCk7CiAgICAgICAgfQogICAgICAgIExvbmcgdXNlcklkID0gVXNlclRva2VuVXRpbHMuZ2V0VXNlcklkKHRva2VuKTsK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBMb25nIHVzZXJJZCA9IFVzZXJUb2tlblV0aWxzLmdldFVzZXJJZCh0b2tlbik7CiAgICAgICAgaWYgKHVzZXJJZCA9PSAwTCkgewogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkubWVzc2FnZSgi6Z2e5rOV6K+35rGCIikuYnVpbGQoKTsKICAgICAgICB9</text>
+      </register>
+      <register name="4" type="4">
         <text>UserDo userDo = new UserDo();
         userDo.setLng(body.getLng());
         userDo.setLat(body.getLng());</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld3NBcnRpY2xlQm8uc2V0RGlzdGFuY2UoZ2V0RGlzdGFuY2UoCiAgICAgICAgICAgICAgICAgICAgbG5nLCBsYXQsCiAgICAgICAgICAgICAgICAgICAgbmV3c0FydGljbGVCby5nZXRVc2VyKCkuZ2V0TG9jKCkuZ2V0WCgpLAogICAgICAgICAgICAgICAgICAgIG5ld3NBcnRpY2xlQm8uZ2V0VXNlcigpLmdldExvYygpLmdldFkoKQogICAgICAgICAgICAgICAgKSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld3NBcnRpY2xlQm8uc2V0RGlzdGFuY2UoZ2V0RGlzdGFuY2UoCiAgICAgICAgICAgICAgICAgICAgbG5nLCBsYXQsCiAgICAgICAgICAgICAgICAgICAgbmV3c0FydGljbGVCby5nZXRVc2VyKCkuZ2V0TG9jKCkuZ2V0WCgpLAogICAgICAgICAgICAgICAgICAgIG5ld3NBcnRpY2xlQm8uZ2V0VXNlcigpLmdldExvYygpLmdldFkoKQogICAgICAgICAgICAgICAgKSk7</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEBwYXJhbSBpZCBpZ25vcmUKICAgICAqIEByZXR1cm4g5qC55o2uaWTov5Tlm57mlbDmja4KICAgICAqLwogICAgQEdldE1hcHBpbmcoIi97aWR9IikKICAgIFJlc3BvbnNlPFVzZXI+IGZpbmRCeUlkKEBQYXRoVmFyaWFibGUoImlkIikgU3RyaW5nIGlkLCBAUmVxdWVzdFBhcmFtKCJzY29wZSIpIFN0cmluZyBzY29wZSk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="4">
-        <text>private UserDo getUser(Serializable id) {
-        Long userId = Long.parseLong(id + &quot;&quot;);
-        String key = UserCacheKey.userInfo(userId);
-        String jsonStr = redisUserCache.getStringValue(key);
-        if (StringUtils.isBlank(jsonStr)) {
-            UserDo user = newsUserMapper.selectUserByUserId(userId);
-            if (user != null) {
-                if (user.getInviteCode() == null) {
-                    String inviteCode = initUserInviteCode(userId);
-                    user.setInviteCode(inviteCode);
-                }
-                AvatarUtil.handleAvatar(user, imageHost, user.getAvatar());
-                String userStr = BeanStringUtil.beanToString(user);
-                redisUserCache.setStringValue(key, userStr, 3, TimeUnit.DAYS);
-            }
-            return user;
-        }
-        try {
-            return BeanStringUtil.stringToBean(jsonStr, UserDo.class);
-        } catch (Exception e) {
-            UserDo user = newsUserMapper.selectByPrimaryKey(id);
-            if (user != null) {
-                AvatarUtil.handleAvatar(user, imageHost, user.getAvatar());
-                String userStr = BeanStringUtil.beanToString(user);
-                redisUserCache.setStringValue(key, userStr, 3, TimeUnit.DAYS);
-            }
-            return user;
-        }}
-    }</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEBwYXJhbSBpZCBpZ25vcmUKICAgICAqIEByZXR1cm4g5qC55o2uaWTov5Tlm57mlbDmja4KICAgICAqLwogICAgQEdldE1hcHBpbmcoIi97aWR9IikKICAgIFJlc3BvbnNlPFVzZXI+IGZpbmRCeUlkKEBQYXRoVmFyaWFibGUoImlkIikgU3RyaW5nIGlkLCBAUmVxdWVzdFBhcmFtKCJzY29wZSIpIFN0cmluZyBzY29wZSk7</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
