@@ -113,7 +113,7 @@
         <mark key="[" line="199" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/inner/InnerAuctionController.java" timestamp="1561708754456">
-        <mark key="[" line="34" column="42" />
+        <mark key="[" line="32" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/http/FeignClientConfiguration.java" timestamp="1560235254277">
         <mark key="[" line="16" column="0" />
@@ -193,8 +193,11 @@
       <file name="$MAVEN_REPOSITORY$/com/ald/news/core/news-core/0.2.0-SNAPSHOT/news-core-0.2.0-SNAPSHOT-sources.jar!/com/ald/news/core/Page.java" timestamp="1560850247736">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAuctionServiceImpl.java" timestamp="1561952138780">
-        <mark key="[" line="64" column="49" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAuctionServiceImpl.java" timestamp="1562038520707">
+        <mark key="[" line="296" column="32" />
+        <mark key="]" line="296" column="31" />
+        <mark key="^" line="296" column="31" />
+        <mark key="." line="296" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/build.gradle" timestamp="1561455622294">
         <mark key="[" line="7" column="54" />
@@ -272,7 +275,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/sql/ddl.sql" timestamp="1560843084974">
         <mark key="[" line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/ShopAuctionVo.java" timestamp="1561120578033">
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/ShopAuctionVo.java" timestamp="1562039945588">
         <mark key="[" line="16" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/build.gradle" timestamp="1561086665364">
@@ -488,8 +491,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/LoginServiceImpI.java" timestamp="1561555726391">
         <mark key="[" line="139" column="69" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/web/WebShopAuctionController.java" timestamp="1562034129486">
-        <mark key="[" line="88" column="74" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/web/WebShopAuctionController.java" timestamp="1562040154092">
+        <mark key="[" line="95" column="46" />
+        <mark key="]" line="95" column="46" />
+        <mark key="^" line="100" column="92" />
+        <mark key="." line="95" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/gradle/wrapper/gradle-wrapper.properties" timestamp="1560135712216">
         <mark key="[" line="5" column="67" />
@@ -774,7 +780,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getImageUrl</text>
+        <text>ShopAuctionVo</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -807,7 +813,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getImageUrl</text>
+        <text>ShopAuctionVo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
@@ -816,42 +822,96 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgYGxuZ2AgZmxvYXQgREVGQVVMVCAnMCcgQ09NTUVOVCAn57uP5bqmJywKICAgICAgICBgbGF0YCBmbG9hdCBERUZBVUxUICcwJyBDT01NRU5UICfnuqzluqYnLA==</text>
+        <text>/        if (!StringUtil.isEmpty(token)) {
+//            Long userId = UserTokenUtils.getUserId(token);
+//            shopAuctionVo.setUserId(userId);
+////            return Response.unauthorized().build();
+//        }
+//        shopAuctionVo.setId(id);
+//
+//        // 商品状态 unsale:未上架 for_sale:已上架 on_sale:已上架(打折)  sale_out: 已售出
+//        if (StringUtils.isNotBlank(shopAuctionVo.getStatus())) {
+//            switch (shopAuctionVo.getStatus()) {
+//                case &quot;unsale&quot;:
+//                    break;
+//                case &quot;for_sale&quot;:
+//                    break;
+//                case &quot;on_sale&quot;:
+//                    break;
+//                case &quot;sale_out&quot;:
+//                    break;
+//                default:
+//                    return Response.bad().build();
+//            }
+//        }
+//
+//        int rows = shopAuctionMapper.updateStatus(shopAuctionVo);
+//        if (rows == 0) {
+//            return Response.bad().build();
+//        }
+//        return Response.ok().build();</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PiB7JQpjbGllbnQudGVzdCgpCiAlfQ==</text>
+        <text>//        if (!StringUtil.isEmpty(token)) {
+//            Long userId = UserTokenUtils.getUserId(token);
+//            shopAuctionVo.setUserId(userId);
+////            return Response.unauthorized().build();
+//        }
+//        shopAuctionVo.setId(id);
+//
+//        // 商品状态 unsale:未上架 for_sale:已上架 on_sale:已上架(打折)  sale_out: 已售出
+//        if (StringUtils.isNotBlank(shopAuctionVo.getStatus())) {
+//            switch (shopAuctionVo.getStatus()) {
+//                case &quot;unsale&quot;:
+//                    break;
+//                case &quot;for_sale&quot;:
+//                    break;
+//                case &quot;on_sale&quot;:
+//                    break;
+//                case &quot;sale_out&quot;:
+//                    break;
+//                default:
+//                    return Response.bad().build();
+//            }
+//        }
+//
+//        int rows = shopAuctionMapper.updateStatus(shopAuctionVo);
+//        if (rows == 0) {
+//            return Response.bad().build();
+//        }
+//        return Response.ok().build();</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eSh0b2tlbikpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnVuYXV0aG9yaXplZCgpLmJ1aWxkKCk7CiAgICAgICAgfQogICAgICAgIExvbmcgdXNlcklkID0gVXNlclRva2VuVXRpbHMuZ2V0VXNlcklkKHRva2VuKTsK</text>
+      <register name="3" type="4">
+        <text>else {
+                return false;
+            }</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBMb25nIHVzZXJJZCA9IFVzZXJUb2tlblV0aWxzLmdldFVzZXJJZCh0b2tlbik7CiAgICAgICAgaWYgKHVzZXJJZCA9PSAwTCkgewogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkubWVzc2FnZSgi6Z2e5rOV6K+35rGCIikuYnVpbGQoKTsKICAgICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>UserDo userDo = new UserDo();
-        userDo.setLng(body.getLng());
-        userDo.setLat(body.getLng());</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgIm9uX3NhbGUiOgogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSAic2FsZV9vdXQiOgogICAgICAgICAgICAgICAgICAgIGJyZWFrOw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgYGxuZ2AgZmxvYXQgREVGQVVMVCAnMCcgQ09NTUVOVCAn57uP5bqmJywKICAgICAgICBgbGF0YCBmbG9hdCBERUZBVUxUICcwJyBDT01NRU5UICfnuqzluqYnLA==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PiB7JQpjbGllbnQudGVzdCgpCiAlfQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld3NBcnRpY2xlQm8uc2V0RGlzdGFuY2UoZ2V0RGlzdGFuY2UoCiAgICAgICAgICAgICAgICAgICAgbG5nLCBsYXQsCiAgICAgICAgICAgICAgICAgICAgbmV3c0FydGljbGVCby5nZXRVc2VyKCkuZ2V0TG9jKCkuZ2V0WCgpLAogICAgICAgICAgICAgICAgICAgIG5ld3NBcnRpY2xlQm8uZ2V0VXNlcigpLmdldExvYygpLmdldFkoKQogICAgICAgICAgICAgICAgKSk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eSh0b2tlbikpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnVuYXV0aG9yaXplZCgpLmJ1aWxkKCk7CiAgICAgICAgfQogICAgICAgIExvbmcgdXNlcklkID0gVXNlclRva2VuVXRpbHMuZ2V0VXNlcklkKHRva2VuKTsK</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBMb25nIHVzZXJJZCA9IFVzZXJUb2tlblV0aWxzLmdldFVzZXJJZCh0b2tlbik7CiAgICAgICAgaWYgKHVzZXJJZCA9PSAwTCkgewogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2UuYmFkKCkubWVzc2FnZSgi6Z2e5rOV6K+35rGCIikuYnVpbGQoKTsKICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
