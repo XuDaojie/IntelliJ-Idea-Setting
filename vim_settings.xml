@@ -96,7 +96,7 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/data/mapper/AuctionMapper.java" timestamp="1560829107665">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user-client/src/main/java/com/ald/news/user/client/UserClient.java" timestamp="1562050651543" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user-client/src/main/java/com/ald/news/user/client/UserClient.java" timestamp="1562073713290" />
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/core/config/aop/RequestParamAsp.java" timestamp="1560501068788">
         <mark key="[" line="22" column="24" />
       </file>
@@ -107,6 +107,12 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/mapper/package-info.java" timestamp="1560171802080">
         <mark key="[" line="3" column="41" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/data/NewsUserRepository.java" timestamp="1562073880245">
+        <mark key="[" line="221" column="63" />
+        <mark key="]" line="226" column="0" />
+        <mark key="^" line="226" column="0" />
+        <mark key="." line="226" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/base/BaseMapper.java" timestamp="1560412493959">
         <mark key="[" line="11" column="65" />
       </file>
@@ -116,7 +122,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pre.properties" timestamp="1560857841597">
         <mark key="[" line="199" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/inner/InnerAuctionController.java" timestamp="1562068326715">
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/inner/InnerAuctionController.java" timestamp="1562074388695">
         <mark key="[" line="50" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/http/FeignClientConfiguration.java" timestamp="1560235254277">
@@ -191,6 +197,12 @@
         <mark key="^" line="103" column="62" />
         <mark key="." line="103" column="62" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/user/UserDo.java" timestamp="1561701156505">
+        <mark key="[" line="610" column="19" />
+        <mark key="]" line="520" column="20" />
+        <mark key="." line="520" column="20" />
+        <mark key="^" line="520" column="20" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopAddressController.java" timestamp="1560861761107">
         <mark key="[" line="34" column="44" />
       </file>
@@ -222,8 +234,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-content/src/main/java/com/ald/news/content/controller/api/ConfigController.java" timestamp="1561950852960" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/TwoShopApplication.http" timestamp="1562068341578">
-        <mark key="[" line="40" column="49" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/TwoShopApplication.http" timestamp="1562074498302">
+        <mark key="[" line="65" column="51" />
         <mark key="]" line="40" column="49" />
         <mark key="." line="40" column="49" />
         <mark key="^" line="26" column="47" />
@@ -239,6 +251,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/service/impl/SmsServiceImpl.java" timestamp="1561179604140">
         <mark key="[" line="50" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerMediaOfficialController.java" timestamp="1561535926798">
+        <mark key="[" line="41" column="57" />
+        <mark key="]" line="41" column="56" />
+        <mark key="^" line="41" column="56" />
+        <mark key="." line="41" column="56" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/mapper/ShopCategoryMapper.java" timestamp="1560444308161">
         <mark key="[" line="16" column="35" />
@@ -306,6 +324,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/build.gradle" timestamp="1561086665364">
         <mark key="[" line="25" column="37" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/repository/AuctionRepository.java" timestamp="1562074397153">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/mapper/NewsUserMapper.xml" timestamp="1561629017500">
         <mark key="[" line="158" column="13" />
       </file>
@@ -336,10 +359,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1561529274004">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562070148929">
+      <file name="/Dummy.txt" timestamp="1562073892496">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/ConfigController.java" timestamp="1562051363948">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/ConfigController.java" timestamp="1562073689453">
         <mark key="[" line="49" column="43" />
         <mark key="]" line="49" column="42" />
         <mark key="^" line="49" column="42" />
@@ -420,6 +443,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices2/src/main/resources/application-local.yml" timestamp="1559619909446">
         <mark key="[" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/NewsUserServiceImpl.java" timestamp="1562073736269">
+        <mark key="[" line="481" column="46" />
+        <mark key="]" line="464" column="34" />
+        <mark key="." line="464" column="34" />
+        <mark key="^" line="90" column="61" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/client/package-info.java" timestamp="1560139301495">
         <mark key="[" line="0" column="0" />
@@ -559,6 +588,12 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/core/base/BaseRepository.java" timestamp="1560700149975">
         <mark key="[" line="167" column="48" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/inner/Inner1AuctionController.java" timestamp="1561561123109">
+        <mark key="[" line="50" column="23" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/domain/entity/ShopOrder.java" timestamp="1560620570845">
         <mark key="[" line="16" column="0" />
       </file>
@@ -575,10 +610,10 @@
         <mark key="[" line="15" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/utils/CacheHelper.java" timestamp="1562072758083">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="26" column="35" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="29" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/src/main/resources/application-local.yml" timestamp="1559543801699">
         <mark key="[" line="50" column="26" />
@@ -731,7 +766,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/src/main/java/com/ald/news/sample/core/client/TestClient2.java" timestamp="1561372466089">
         <mark key="[" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/config/ConfigDataSource.java" timestamp="1562056877945">
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/config/ConfigDataSource.java" timestamp="1562073680822">
         <mark key="[" line="82" column="39" />
       </file>
     </filemarks>
@@ -839,7 +874,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>static</text>
+        <text encoding="base64">dmFsdWUgPSAic3ByaW5nLmNhY2hlIiwg</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -872,7 +907,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text encoding="base64">dmFsdWUgPSAic3ByaW5nLmNhY2hlIiwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
