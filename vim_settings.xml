@@ -533,6 +533,9 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/utils/src/main/java/com/ald/news/twoshop/utils/bean/BeanUtils.java" timestamp="1560142648019">
         <mark key="[" line="43" column="42" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/NewsConfigController.java" timestamp="1562056244207">
+        <mark key="[" line="188" column="5" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/publish/PubState.java" timestamp="1560415145191">
         <mark key="[" line="27" column="9" />
       </file>
@@ -690,6 +693,12 @@
         <mark key="]" line="254" column="24" />
         <mark key="." line="254" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/inner/InnerCacheController.java" timestamp="1562057104744">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1561012454472">
         <mark key="[" line="201" column="0" />
       </file>
@@ -702,7 +711,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/src/main/java/com/ald/news/sample/core/client/TestClient2.java" timestamp="1561372466089">
         <mark key="[" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/config/ConfigDataSource.java" timestamp="1562051965845">
+      <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/config/ConfigDataSource.java" timestamp="1562056877945">
         <mark key="[" line="82" column="39" />
       </file>
     </filemarks>
@@ -809,8 +818,8 @@
       <jump line="104" column="78" filename="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/BannerController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>config</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -843,7 +852,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>CacheLoader</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
@@ -851,28 +860,28 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>if (&quot;switch&quot;.equals(&quot;type&quot;)) {
-             
-         }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>@GetMapping(&quot;&quot;)
-    public Response config() {
-        
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIExvYWRpbmdDYWNoZTxLZXksIEdyYXBoPiBncmFwaHMgPSBDYWNoZUJ1aWxkZXIubmV3QnVpbGRlcigpCiAgICAgICAgLm1heGltdW1TaXplKDEwMDApCiAgICAgICAgLmV4cGlyZUFmdGVyV3JpdGUoMTAsIFRpbWVVbml0Lk1JTlVURVMpCiAgICAgICAgLnJlbW92YWxMaXN0ZW5lcihNWV9MSVNURU5FUikKICAgICAgICAuYnVpbGQoCiAgICAgICAgICAgIG5ldyBDYWNoZUxvYWRlcjxLZXksIEdyYXBoPigpIHsKICAgICAgICAgICAgICAgIHB1YmxpYyBHcmFwaCBsb2FkKEtleSBrZXkpIHRocm93cyBBbnlFeGNlcHRpb24gewogICAgICAgICAgICAgICAgICAgIHJldHVybiBjcmVhdGVFeHBlbnNpdmVHcmFwaChrZXkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTs=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="4" type="4">
+        <text>if (&quot;switch&quot;.equals(&quot;type&quot;)) {
+             
+         }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="5" type="4">
+        <text>@GetMapping(&quot;&quot;)
+    public Response config() {
+        
+    }</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -881,16 +890,16 @@
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQoKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
