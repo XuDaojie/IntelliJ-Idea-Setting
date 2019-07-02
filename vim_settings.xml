@@ -324,10 +324,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/build.gradle" timestamp="1561086665364">
         <mark key="[" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/repository/AuctionRepository.java" timestamp="1562074397153">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="15" />
-        <mark key="." line="22" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/repository/AuctionRepository.java" timestamp="1562077005971">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/mapper/NewsUserMapper.xml" timestamp="1561629017500">
         <mark key="[" line="158" column="13" />
@@ -874,7 +874,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFsdWUgPSAic3ByaW5nLmNhY2hlIiwg</text>
+        <text>id</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -907,7 +907,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsdWUgPSAic3ByaW5nLmNhY2hlIiwg</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
