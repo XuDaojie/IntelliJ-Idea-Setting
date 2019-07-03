@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Determine if a JCache provider is available. This either kicks in if a default * {@link CachingProvider} has been found or if the property referring to the provider * to use has been set." />
       <item value="* {@link CacheManager} implementation that lazily builds {@link ConcurrentMapCache} * instances for each {@link #getCache} request. Also supports a 'static' mode where * the set of cache names is pre-defined through {@link #setCacheNames}, with no * dynamic creation of further cache regions at runtime. * * &lt;p&gt;Note: This is by no means a sophisticated CacheManager; it comes with no * cache configuration options. However, it may be useful for testing or simple * caching scenarios. For advanced local caching needs, consider" />
       <item value="implementation" />
       <item value="Constructs a new {@code CacheBuilder} instance with the settings specified in {@code spec}." />
@@ -16,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
