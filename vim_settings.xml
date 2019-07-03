@@ -241,6 +241,11 @@
       <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/service/impl/SmsServiceImpl.java" timestamp="1561179604140">
         <mark key="[" line="50" column="37" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/user/data/repository/UserRepository.java" timestamp="1562152941729">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/mapper/ShopCategoryMapper.java" timestamp="1560444308161">
         <mark key="[" line="16" column="35" />
       </file>
@@ -388,7 +393,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/entity/Auction.java" timestamp="1562048371040">
         <mark key="[" line="309" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1562150184718">
+      <file name="/fragment.java" timestamp="1562153004765">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="22" />
@@ -639,8 +644,8 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-pre.yml" timestamp="1560856225903">
         <mark key="[" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/user/controller/inner/InnerUserController.java" timestamp="1562143418724">
-        <mark key="[" line="41" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/user/controller/inner/InnerUserController.java" timestamp="1562152997951">
+        <mark key="[" line="42" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/geetest/GeetestConfig.java" timestamp="1560857867591">
         <mark key="[" line="27" column="0" />
@@ -830,7 +835,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text />
       </register>
       <register name="i" type="4">
         <keys>
@@ -863,7 +868,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
