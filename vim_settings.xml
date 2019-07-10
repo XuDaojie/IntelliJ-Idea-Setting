@@ -219,8 +219,8 @@
       <file name="$MAVEN_REPOSITORY$/com/ald/news/core/news-core/0.2.0-SNAPSHOT/news-core-0.2.0-SNAPSHOT-sources.jar!/com/ald/news/core/Page.java" timestamp="1560850247736">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-i18n.properties" timestamp="1562740882983">
-        <mark key="[" line="4" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-i18n.properties" timestamp="1562767252004">
+        <mark key="[" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/build.gradle" timestamp="1562751856449">
         <mark key="[" line="1" column="16" />
@@ -315,12 +315,6 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap-i18n_zh.yml" timestamp="1562656648928">
         <mark key="[" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopAuctionController.java" timestamp="1562745292234">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="128" column="83" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/sql/ddl.sql" timestamp="1560843084974">
         <mark key="[" line="12" column="39" />
       </file>
@@ -333,6 +327,7 @@
       <file name="$USER_HOME$/Downloads/demo 3/src/main/resources/application.properties" timestamp="1562651654148">
         <mark key="[" line="1" column="71" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/RedisUtil.java" timestamp="1562767404848" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/config/JacksonRedisConfiguration.java" timestamp="1562228175289">
         <mark key="[" line="1" column="0" />
       </file>
@@ -373,7 +368,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1561529274004">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562765125119">
+      <file name="/Dummy.txt" timestamp="1562767406151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -591,10 +586,11 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/controller/inner/InnerCategoryController.java" timestamp="1561105024014">
         <mark key="[" line="31" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1562763608475">
-        <mark key="[" line="2469" column="36" />
-        <mark key="]" line="2469" column="36" />
-        <mark key="." line="2469" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1562767280500">
+        <mark key="[" line="3188" column="61" />
+        <mark key="]" line="403" column="0" />
+        <mark key="." line="403" column="0" />
+        <mark key="^" line="403" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user-client/README.md" timestamp="1561550449398">
         <mark key="[" line="0" column="4" />
@@ -608,8 +604,8 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/strategy/BindStrategy.java" timestamp="1560416954310">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/SendSmsUtil.java" timestamp="1561095966618">
-        <mark key="[" line="52" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/SendSmsUtil.java" timestamp="1562766961826">
+        <mark key="[" line="45" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/data/README.md" timestamp="1560139195519">
         <mark key="[" line="1" column="21" />
@@ -650,10 +646,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/UserService.java" timestamp="1561714050896">
         <mark key="[" line="57" column="52" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/NicknameUtil.java" timestamp="1562763716582">
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="19" />
-        <mark key="." line="37" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/NicknameUtil.java" timestamp="1562766562913">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap-i18n.properties" timestamp="1562664414093">
         <mark key="[" line="0" column="5" />
@@ -870,8 +866,8 @@
       <jump line="65" column="4" filename="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/CaffeineAutoCacheConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>local</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -912,23 +908,27 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gICAgICAgIGludCBwYWdlTnVtID0gcGFnZVF1ZXJ5LmdldFBhZ2VOdW0oKTsKLy8gICAgICAgIGludCBwYWdlU2l6ZSA9IHBhZ2VRdWVyeS5nZXRQYWdlU2l6ZSgpOwovLyAgICAgICAgYm9vbGVhbiBlbmFibGVDb3VudCA9IGZhbHNlOwovLwovLyAgICAgICAgUGFnZUhlbHBlci5zdGFydFBhZ2UocGFnZU51bSwgcGFnZVNpemUsIGVuYWJsZUNvdW50KTsKLy8KLy8gICAgICAgIExpc3Q8VD4gZGF0YSA9IGJhc2VEYXRhU291cmNlLmxpc3QocXVlcnlXcmFwcGVyKTsKLy8gICAgICAgIFBhZ2VCdWlsZGVyPFQ+IHBhZ2VCdWlsZGVyID0gUGFnZS5idWlsZGVyKCk7Ci8vCi8vICAgICAgICByZXR1cm4gcGFnZUJ1aWxkZXIucGFnZVNpemUocGFnZVNpemUpCi8vICAgICAgICAgICAgLnBhZ2VOdW0ocGFnZU51bSkKLy8gICAgICAgICAgICAuaXRlbXMoZGF0YSkKLy8gICAgICAgICAgICAuYnVpbGQoKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhZ2U8VD4gcGFnZShQYWdlIHBhZ2VRdWVyeSwgV3JhcHBlcjxUPiBxdWVyeVdyYXBwZXIpIHsKICAgICAgICBpbnQgcGFnZU51bSA9IHBhZ2VRdWVyeS5nZXRQYWdlTnVtKCk7CiAgICAgICAgaW50IHBhZ2VTaXplID0gcGFnZVF1ZXJ5LmdldFBhZ2VTaXplKCk7CiAgICAgICAgYm9vbGVhbiBlbmFibGVDb3VudCA9IGZhbHNlOwoKICAgICAgICBQYWdlSGVscGVyLnN0YXJ0UGFnZShwYWdlTnVtLCBwYWdlU2l6ZSwgZW5hYmxlQ291bnQpOwoKICAgICAgICBMaXN0PFQ+IGRhdGEgPSBiYXNlRGF0YVNvdXJjZS5saXN0KHF1ZXJ5V3JhcHBlcik7CiAgICAgICAgUGFnZUJ1aWxkZXI8VD4gcGFnZUJ1aWxkZXIgPSBQYWdlLmJ1aWxkZXIoKTsKCiAgICAgICAgcmV0dXJuIHBhZ2VCdWlsZGVyLnBhZ2VTaXplKHBhZ2VTaXplKQogICAgICAgICAgICAucGFnZU51bShwYWdlTnVtKQogICAgICAgICAgICAuaXRlbXMoZGF0YSkKICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICB9</text>
+        <text>//        if (StringUtils.isNotBlank(phone)) {
+//            return  &quot;u&quot; + StringUtil.getHashCode(phone) + UUID.randomUUID().hashCode();
+//        } else {
+//            return StringUtil.createRandomCode(UserConst.User.USER_UUID_TWELVE);
+//        }</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">Ly8gICAgICAgIGludCBwYWdlTnVtID0gcGFnZVF1ZXJ5LmdldFBhZ2VOdW0oKTsKLy8gICAgICAgIGludCBwYWdlU2l6ZSA9IHBhZ2VRdWVyeS5nZXRQYWdlU2l6ZSgpOwovLyAgICAgICAgYm9vbGVhbiBlbmFibGVDb3VudCA9IGZhbHNlOwovLwovLyAgICAgICAgUGFnZUhlbHBlci5zdGFydFBhZ2UocGFnZU51bSwgcGFnZVNpemUsIGVuYWJsZUNvdW50KTsKLy8KLy8gICAgICAgIExpc3Q8VD4gZGF0YSA9IGJhc2VEYXRhU291cmNlLmxpc3QocXVlcnlXcmFwcGVyKTsKLy8gICAgICAgIFBhZ2VCdWlsZGVyPFQ+IHBhZ2VCdWlsZGVyID0gUGFnZS5idWlsZGVyKCk7Ci8vCi8vICAgICAgICByZXR1cm4gcGFnZUJ1aWxkZXIucGFnZVNpemUocGFnZVNpemUpCi8vICAgICAgICAgICAgLnBhZ2VOdW0ocGFnZU51bSkKLy8gICAgICAgICAgICAuaXRlbXMoZGF0YSkKLy8gICAgICAgICAgICAuYnVpbGQoKTs=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhZ2U8VD4gcGFnZShQYWdlIHBhZ2VRdWVyeSwgV3JhcHBlcjxUPiBxdWVyeVdyYXBwZXIpIHsKICAgICAgICBpbnQgcGFnZU51bSA9IHBhZ2VRdWVyeS5nZXRQYWdlTnVtKCk7CiAgICAgICAgaW50IHBhZ2VTaXplID0gcGFnZVF1ZXJ5LmdldFBhZ2VTaXplKCk7CiAgICAgICAgYm9vbGVhbiBlbmFibGVDb3VudCA9IGZhbHNlOwoKICAgICAgICBQYWdlSGVscGVyLnN0YXJ0UGFnZShwYWdlTnVtLCBwYWdlU2l6ZSwgZW5hYmxlQ291bnQpOwoKICAgICAgICBMaXN0PFQ+IGRhdGEgPSBiYXNlRGF0YVNvdXJjZS5saXN0KHF1ZXJ5V3JhcHBlcik7CiAgICAgICAgUGFnZUJ1aWxkZXI8VD4gcGFnZUJ1aWxkZXIgPSBQYWdlLmJ1aWxkZXIoKTsKCiAgICAgICAgcmV0dXJuIHBhZ2VCdWlsZGVyLnBhZ2VTaXplKHBhZ2VTaXplKQogICAgICAgICAgICAucGFnZU51bShwYWdlTnVtKQogICAgICAgICAgICAuaXRlbXMoZGF0YSkKICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICB9</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">aW50IHBhZ2VOdW0gPSBwYWdlUXVlcnkuZ2V0UGFnZU51bSgpOwogICAgICAgIGludCBwYWdlU2l6ZSA9IHBhZ2VRdWVyeS5nZXRQYWdlU2l6ZSgpOwogICAgICAgIGJvb2xlYW4gZW5hYmxlQ291bnQgPSBmYWxzZTsKCiAgICAgICAgUGFnZUhlbHBlci5zdGFydFBhZ2UocGFnZU51bSwgcGFnZVNpemUsIGVuYWJsZUNvdW50KTsKCiAgICAgICAgTGlzdDxUPiBkYXRhID0gYmFzZURhdGFTb3VyY2UubGlzdChxdWVyeVdyYXBwZXIpOwogICAgICAgIFBhZ2VCdWlsZGVyPFQ+IHBhZ2VCdWlsZGVyID0gUGFnZS5idWlsZGVyKCk7CgogICAgICAgIHJldHVybiBwYWdlQnVpbGRlci5wYWdlU2l6ZShwYWdlU2l6ZSkKICAgICAgICAgICAgLnBhZ2VOdW0ocGFnZU51bSkKICAgICAgICAgICAgLml0ZW1zKGRhdGEpCiAgICAgICAgICAgIC5idWlsZCgpOw==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHttc2cuYX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgdGVzdE1zZzsKCiAgICBAUmVzb3VyY2UKICAgIHByaXZhdGUgRW52aXJvbm1lbnQgZW52Owo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -937,16 +937,16 @@
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog576k5Y+R5bim5qC85byP6YKu5Lu2CiAgICAgKi8KICAgIEBHZXRNYXBwaW5nKCIvbWFuYWdlcy9tYWlsL3NlbmRIdG1sTWFpbE11bHRpIikKICAgIFJlc3BvbnNlIHNlbmRIdG1sTWFpbChAUmVxdWVzdFBhcmFtKCJhZGRyZXNzZXMiKSBTdHJpbmdbXSBhZGRyZXNzZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgidGl0bGUiKSBTdHJpbmcgdGl0bGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgiY29udGVudCIpIFN0cmluZyBjb250ZW50KTsK</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHttc2cuYX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgdGVzdE1zZzsKCiAgICBAUmVzb3VyY2UKICAgIHByaXZhdGUgRW52aXJvbm1lbnQgZW52Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9ATWFwcGVyU2NhbigiY29tLmFsZC5uZXdzLm1hbmFnZS5kYXRhIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oInh4eHh4eHh4Iik7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog576k5Y+R5bim5qC85byP6YKu5Lu2CiAgICAgKi8KICAgIEBHZXRNYXBwaW5nKCIvbWFuYWdlcy9tYWlsL3NlbmRIdG1sTWFpbE11bHRpIikKICAgIFJlc3BvbnNlIHNlbmRIdG1sTWFpbChAUmVxdWVzdFBhcmFtKCJhZGRyZXNzZXMiKSBTdHJpbmdbXSBhZGRyZXNzZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgidGl0bGUiKSBTdHJpbmcgdGl0bGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgiY29udGVudCIpIFN0cmluZyBjb250ZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
