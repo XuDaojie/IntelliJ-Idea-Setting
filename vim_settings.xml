@@ -34,6 +34,11 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/rest-client.http" timestamp="1560151894332">
         <mark key="[" line="12" column="2" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/UserManageClient.java" timestamp="1562727215660">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/data/repository/UserRepository.java" timestamp="1560240962384">
         <mark key="[" line="0" column="8" />
       </file>
@@ -55,6 +60,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/base/Page.java" timestamp="1560415157510">
         <mark key="[" line="24" column="7" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/service/impl/NewsNoticeServiceImpl.java" timestamp="1562727411193" />
       <file name="$USER_HOME$/IdeaProjects/spring/gs-caching/complete/src/main/java/hello/AppRunner.java" timestamp="1562134648100">
         <mark key="[" line="12" column="48" />
       </file>
@@ -82,12 +88,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-gateway-core/2.1.1.RELEASE/91d54230cb66cd6fb4afdd422727396bb17de56/spring-cloud-gateway-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/handler/predicate/ReadBodyPredicateFactory.java" timestamp="1559201752338">
         <mark key="[" line="59" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap-pro-idn.yml" timestamp="1562662572725">
-        <mark key="[" line="7" column="97" />
-        <mark key="]" line="7" column="25" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="25" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/repository/ShopAuctionRepository.java" timestamp="1560511705262">
         <mark key="[" line="14" column="88" />
       </file>
@@ -112,6 +112,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap-i18n_en.yml" timestamp="1562656653250">
         <mark key="[" line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/InnerMailController.java" timestamp="1562727176392" />
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/base/BaseMapper.java" timestamp="1560412493959">
         <mark key="[" line="11" column="65" />
       </file>
@@ -299,8 +300,11 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap-i18n_zh.yml" timestamp="1562656648928">
         <mark key="[" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopAuctionController.java" timestamp="1562665017329">
-        <mark key="[" line="35" column="46" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopAuctionController.java" timestamp="1562726583852">
+        <mark key="[" line="59" column="43" />
+        <mark key="]" line="136" column="83" />
+        <mark key="." line="136" column="83" />
+        <mark key="^" line="136" column="83" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/sql/ddl.sql" timestamp="1560843084974">
         <mark key="[" line="12" column="39" />
@@ -335,8 +339,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices2/src/main/resources/bootstrap-nacos.yml" timestamp="1559620255375">
         <mark key="[" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/ManageApplication.java" timestamp="1562054859603">
-        <mark key="[" line="24" column="44" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/ManageApplication.java" timestamp="1562727245508">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/core/src/main/java/com/ald/news/core/Response.java" timestamp="1562674906150" />
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/src/main/java/com/ald/cloud/gateway/TokenFilter.java" timestamp="1559202273645">
@@ -354,7 +360,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1561529274004">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562672887648">
+      <file name="/Dummy.txt" timestamp="1562727290218">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -395,7 +401,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAbilityServiceImpl.java" timestamp="1562670108054">
         <mark key="[" line="251" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1562672789892">
+      <file name="/fragment.java" timestamp="1562726045292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/data/repository/AuctionRepository.java" timestamp="1560255197663">
@@ -458,12 +464,6 @@
       <file name="$MAVEN_REPOSITORY$/com/ald/news/core/news-core/0.0.1-SNAPSHOT/news-core-0.0.1-SNAPSHOT-sources.jar!/com/ald/news/core/utils/QueryRequestUtils.java" timestamp="1560618214001">
         <mark key="[" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap.properties" timestamp="1562667072942">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/.gitignore" timestamp="1560151098651">
         <mark key="[" line="233" column="17" />
       </file>
@@ -508,6 +508,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/resources/data/mapper/UserMapper.xml" timestamp="1560411929884">
         <mark key="[" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/.idea/vcs.xml" timestamp="1562726316688">
+        <mark key="[" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/AuctionDataSource.java" timestamp="1561121389626">
         <mark key="[" line="15" column="68" />
@@ -840,8 +843,8 @@
       <jump line="65" column="4" filename="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/CaffeineAutoCacheConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIDxjdXN0b20tcmVzb3VyY2UtYnVuZGxlPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl9lbi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl96aC5wcm9wZXJ0aWVzIiAvPgogICAgICA8YmFzZS1uYW1lPmJvb3RzdHJhcC1pMThuPC9iYXNlLW5hbWU+CiAgICA8L2N1c3RvbS1yZXNvdXJjZS1idW5kbGU+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -874,7 +877,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>该手机号码已经绑定过</text>
+        <text>用户未输入经纬度</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
@@ -882,16 +885,31 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIDxjdXN0b20tcmVzb3VyY2UtYnVuZGxlPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl9lbi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl96aC5wcm9wZXJ0aWVzIiAvPgogICAgICA8YmFzZS1uYW1lPmJvb3RzdHJhcC1pMThuPC9iYXNlLW5hbWU+CiAgICA8L2N1c3RvbS1yZXNvdXJjZS1idW5kbGU+</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxjdXN0b20tcmVzb3VyY2UtYnVuZGxlPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl9lbi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl96aC5wcm9wZXJ0aWVzIiAvPgogICAgICA8YmFzZS1uYW1lPmJvb3RzdHJhcC1pMThuPC9iYXNlLW5hbWU+CiAgICA8L2N1c3RvbS1yZXNvdXJjZS1idW5kbGU+Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog576k5Y+R5bim5qC85byP6YKu5Lu2CiAgICAgKi8KICAgIEBHZXRNYXBwaW5nKCIvbWFuYWdlcy9tYWlsL3NlbmRIdG1sTWFpbE11bHRpIikKICAgIFJlc3BvbnNlIHNlbmRIdG1sTWFpbChAUmVxdWVzdFBhcmFtKCJhZGRyZXNzZXMiKSBTdHJpbmdbXSBhZGRyZXNzZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgidGl0bGUiKSBTdHJpbmcgdGl0bGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgiY29udGVudCIpIFN0cmluZyBjb250ZW50KTsK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Ly9ATWFwcGVyU2NhbigiY29tLmFsZC5uZXdzLm1hbmFnZS5kYXRhIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oInh4eHh4eHh4Iik7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIDxjdXN0b20tcmVzb3VyY2UtYnVuZGxlPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl9lbi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl96aC5wcm9wZXJ0aWVzIiAvPgogICAgICA8YmFzZS1uYW1lPmJvb3RzdHJhcC1pMThuPC9iYXNlLW5hbWU+CiAgICA8L2N1c3RvbS1yZXNvdXJjZS1idW5kbGU+</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxjdXN0b20tcmVzb3VyY2UtYnVuZGxlPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl9lbi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl96aC5wcm9wZXJ0aWVzIiAvPgogICAgICA8YmFzZS1uYW1lPmJvb3RzdHJhcC1pMThuPC9iYXNlLW5hbWU+CiAgICA8L2N1c3RvbS1yZXNvdXJjZS1idW5kbGU+Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="4">
         <text>logging:
   level:
     root: info
@@ -921,29 +939,14 @@ eureka:
 # 参考文档：http://projects.spring.io/spring-cloud/docs/1.0.3/spring-cloud.html#_standalone_mode
 # 参考文档：http://my.oschina.net/buwei/blog/618756</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly9teXNxbC41MWZib3BzLmNvbTozMzA2L25ld3NfdXNlcgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bG9jYWwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">YT0zCg==</text>
-      </register>
-      <register name="w" type="4">
-        <text>jkeh</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">YT0xCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">YT0xCg==</text>
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly9teXNxbC41MWZib3BzLmNvbTozMzA2L25ld3NfdXNlcgo=</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YT0yCg==</text>
+        <text encoding="base64">bG9jYWwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
