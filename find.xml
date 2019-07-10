@@ -29,5 +29,6 @@
     <mask>*java</mask>
     <mask>*Client.java</mask>
     <mask>*.java</mask>
+    <mask>*idn.*</mask>
   </component>
 </application>
