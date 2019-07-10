@@ -841,7 +841,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>该手机号码已经绑定过</text>
+        <text encoding="base64">ICAgIDxjdXN0b20tcmVzb3VyY2UtYnVuZGxlPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl9lbi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl96aC5wcm9wZXJ0aWVzIiAvPgogICAgICA8YmFzZS1uYW1lPmJvb3RzdHJhcC1pMThuPC9iYXNlLW5hbWU+CiAgICA8L2N1c3RvbS1yZXNvdXJjZS1idW5kbGU+</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -883,6 +883,15 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgIDxjdXN0b20tcmVzb3VyY2UtYnVuZGxlPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl9lbi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl96aC5wcm9wZXJ0aWVzIiAvPgogICAgICA8YmFzZS1uYW1lPmJvb3RzdHJhcC1pMThuPC9iYXNlLW5hbWU+CiAgICA8L2N1c3RvbS1yZXNvdXJjZS1idW5kbGU+</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxjdXN0b20tcmVzb3VyY2UtYnVuZGxlPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl9lbi5wcm9wZXJ0aWVzIiAvPgogICAgICA8ZmlsZSB2YWx1ZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvYXBwL3NyYy9tYWluL3Jlc291cmNlcy9ib290c3RyYXAtaTE4bl96aC5wcm9wZXJ0aWVzIiAvPgogICAgICA8YmFzZS1uYW1lPmJvb3RzdHJhcC1pMThuPC9iYXNlLW5hbWU+CiAgICA8L2N1c3RvbS1yZXNvdXJjZS1idW5kbGU+Cg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>logging:
   level:
     root: info
@@ -912,38 +921,29 @@ eureka:
 # 参考文档：http://projects.spring.io/spring-cloud/docs/1.0.3/spring-cloud.html#_standalone_mode
 # 参考文档：http://my.oschina.net/buwei/blog/618756</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly9teXNxbC41MWZib3BzLmNvbTozMzA2L25ld3NfdXNlcgo=</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">bG9jYWwK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">YT0zCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YT0xCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">YT0xCg==</text>
+        <text encoding="base64">YT0zCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YT0yCg==</text>
+        <text encoding="base64">YT0xCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YT0xCg==</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YT0yCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
