@@ -378,7 +378,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1561529274004">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562779269527">
+      <file name="/Dummy.txt" timestamp="1562780763030">
         <mark key="a" line="0" column="2" />
         <mark key="x" line="0" column="2" />
         <mark key="[" line="0" column="0" />
@@ -421,7 +421,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAbilityServiceImpl.java" timestamp="1562670108054">
         <mark key="[" line="251" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1562775879661">
+      <file name="/fragment.java" timestamp="1562780763024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -504,7 +504,7 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/service/impl/ShopCategoryServiceImpl.java" timestamp="1560444511322">
         <mark key="[" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/controller/api/SendSMSController.java" timestamp="1561180020256">
+      <file name="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/controller/api/SendSMSController.java" timestamp="1562781082453">
         <mark key="[" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/resources/static/index.html" timestamp="1560408205479">
@@ -644,6 +644,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/vo/EarnestMoneyVo.java" timestamp="1562329774110">
         <mark key="[" line="26" column="1" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/CommonServiceApplication.http" timestamp="1562780905592" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/controller/inner/InnerOrderController.java" timestamp="1560829272754">
         <mark key="[" line="29" column="2" />
       </file>
@@ -877,7 +878,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text encoding="base64">CnsKfQ==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -918,45 +919,45 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">CnsKfQ==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="4">
         <text>//        if (StringUtils.isNotBlank(phone)) {
 //            return  &quot;u&quot; + StringUtil.getHashCode(phone) + UUID.randomUUID().hashCode();
 //        } else {
 //            return StringUtil.createRandomCode(UserConst.User.USER_UUID_TWELVE);
 //        }</text>
       </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ly8gICAgICAgIGludCBwYWdlTnVtID0gcGFnZVF1ZXJ5LmdldFBhZ2VOdW0oKTsKLy8gICAgICAgIGludCBwYWdlU2l6ZSA9IHBhZ2VRdWVyeS5nZXRQYWdlU2l6ZSgpOwovLyAgICAgICAgYm9vbGVhbiBlbmFibGVDb3VudCA9IGZhbHNlOwovLwovLyAgICAgICAgUGFnZUhlbHBlci5zdGFydFBhZ2UocGFnZU51bSwgcGFnZVNpemUsIGVuYWJsZUNvdW50KTsKLy8KLy8gICAgICAgIExpc3Q8VD4gZGF0YSA9IGJhc2VEYXRhU291cmNlLmxpc3QocXVlcnlXcmFwcGVyKTsKLy8gICAgICAgIFBhZ2VCdWlsZGVyPFQ+IHBhZ2VCdWlsZGVyID0gUGFnZS5idWlsZGVyKCk7Ci8vCi8vICAgICAgICByZXR1cm4gcGFnZUJ1aWxkZXIucGFnZVNpemUocGFnZVNpemUpCi8vICAgICAgICAgICAgLnBhZ2VOdW0ocGFnZU51bSkKLy8gICAgICAgICAgICAuaXRlbXMoZGF0YSkKLy8gICAgICAgICAgICAuYnVpbGQoKTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhZ2U8VD4gcGFnZShQYWdlIHBhZ2VRdWVyeSwgV3JhcHBlcjxUPiBxdWVyeVdyYXBwZXIpIHsKICAgICAgICBpbnQgcGFnZU51bSA9IHBhZ2VRdWVyeS5nZXRQYWdlTnVtKCk7CiAgICAgICAgaW50IHBhZ2VTaXplID0gcGFnZVF1ZXJ5LmdldFBhZ2VTaXplKCk7CiAgICAgICAgYm9vbGVhbiBlbmFibGVDb3VudCA9IGZhbHNlOwoKICAgICAgICBQYWdlSGVscGVyLnN0YXJ0UGFnZShwYWdlTnVtLCBwYWdlU2l6ZSwgZW5hYmxlQ291bnQpOwoKICAgICAgICBMaXN0PFQ+IGRhdGEgPSBiYXNlRGF0YVNvdXJjZS5saXN0KHF1ZXJ5V3JhcHBlcik7CiAgICAgICAgUGFnZUJ1aWxkZXI8VD4gcGFnZUJ1aWxkZXIgPSBQYWdlLmJ1aWxkZXIoKTsKCiAgICAgICAgcmV0dXJuIHBhZ2VCdWlsZGVyLnBhZ2VTaXplKHBhZ2VTaXplKQogICAgICAgICAgICAucGFnZU51bShwYWdlTnVtKQogICAgICAgICAgICAuaXRlbXMoZGF0YSkKICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICB9</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">aW50IHBhZ2VOdW0gPSBwYWdlUXVlcnkuZ2V0UGFnZU51bSgpOwogICAgICAgIGludCBwYWdlU2l6ZSA9IHBhZ2VRdWVyeS5nZXRQYWdlU2l6ZSgpOwogICAgICAgIGJvb2xlYW4gZW5hYmxlQ291bnQgPSBmYWxzZTsKCiAgICAgICAgUGFnZUhlbHBlci5zdGFydFBhZ2UocGFnZU51bSwgcGFnZVNpemUsIGVuYWJsZUNvdW50KTsKCiAgICAgICAgTGlzdDxUPiBkYXRhID0gYmFzZURhdGFTb3VyY2UubGlzdChxdWVyeVdyYXBwZXIpOwogICAgICAgIFBhZ2VCdWlsZGVyPFQ+IHBhZ2VCdWlsZGVyID0gUGFnZS5idWlsZGVyKCk7CgogICAgICAgIHJldHVybiBwYWdlQnVpbGRlci5wYWdlU2l6ZShwYWdlU2l6ZSkKICAgICAgICAgICAgLnBhZ2VOdW0ocGFnZU51bSkKICAgICAgICAgICAgLml0ZW1zKGRhdGEpCiAgICAgICAgICAgIC5idWlsZCgpOw==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHttc2cuYX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgdGVzdE1zZzsKCiAgICBAUmVzb3VyY2UKICAgIHByaXZhdGUgRW52aXJvbm1lbnQgZW52Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHttc2cuYX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgdGVzdE1zZzsKCiAgICBAUmVzb3VyY2UKICAgIHByaXZhdGUgRW52aXJvbm1lbnQgZW52Owo=</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog576k5Y+R5bim5qC85byP6YKu5Lu2CiAgICAgKi8KICAgIEBHZXRNYXBwaW5nKCIvbWFuYWdlcy9tYWlsL3NlbmRIdG1sTWFpbE11bHRpIikKICAgIFJlc3BvbnNlIHNlbmRIdG1sTWFpbChAUmVxdWVzdFBhcmFtKCJhZGRyZXNzZXMiKSBTdHJpbmdbXSBhZGRyZXNzZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgidGl0bGUiKSBTdHJpbmcgdGl0bGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgiY29udGVudCIpIFN0cmluZyBjb250ZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
