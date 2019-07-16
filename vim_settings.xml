@@ -21,6 +21,9 @@
         <mark key="[" line="164" column="21" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ald.news.client/news-forum/0.0.1-SNAPSHOT/15821dc728ba737cfa9926d0cce9cb4a2c43de5c/news-forum-0.0.1-SNAPSHOT-sources.jar!/com/ald/news/client/forum/NewArticleClient.java" timestamp="1563262590195" />
+      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/user/UserDo.java" timestamp="1563269420409">
+        <mark key="[" line="265" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1563178667990">
         <mark key="[" line="97" column="50" />
         <mark key="]" line="97" column="31" />
@@ -67,13 +70,12 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1563267638446">
-        <mark key="[" line="1083" column="43" />
-        <mark key="]" line="1083" column="43" />
-        <mark key="." line="1083" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1563269962853">
+        <mark key="[" line="1134" column="17" />
+        <mark key="]" line="1134" column="17" />
+        <mark key="." line="1134" column="17" />
         <mark key="^" line="403" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" timestamp="1563103370393" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/FileController.java" timestamp="1563264743416">
         <mark key="[" line="230" column="59" />
         <mark key="]" line="216" column="12" />
@@ -189,7 +191,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>参数缺失</text>
+        <text>setBirthdayUptime</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -222,7 +224,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>参数缺失</text>
+        <text>setBirthdayUptime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
