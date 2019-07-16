@@ -44,6 +44,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/TwoShopApplication.java" timestamp="1563262477602" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NotificationRepository.java" timestamp="1563266841306">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1563179154462">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -56,7 +61,6 @@
         <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ald.news.client/news-forum/0.0.1-SNAPSHOT/15821dc728ba737cfa9926d0cce9cb4a2c43de5c/news-forum-0.0.1-SNAPSHOT-sources.jar!/com/ald/news/client/forum/ArticleClient.java" timestamp="1563262603371" />
-      <file name="$USER_HOME$/AndroidStudioProjects/YouBangGuanjia/app/src/main/java/com/bocai/ybgj/capture/inshelf/InputShelfPresenter.java" timestamp="1563103370393" />
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/AvatarUtil.java" timestamp="1562783375865">
         <mark key="[" line="56" column="19" />
         <mark key="]" line="47" column="0" />
@@ -184,8 +188,8 @@
       <jump line="65" column="4" filename="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/CaffeineAutoCacheConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>文件模块不符合</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8TG9uZz4gdXNlcklkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgdXNlcklkcy5hZGQoMTAwMDZMKTsKLy8gICAgICAgIHVzZXJJZHMuYWRkKDEwMDAzTCk7Ci8vICAgICAgICB1c2VySWRzLmFkZCgxMDAwN0wpOwovLyAgICAgICAgdXNlcklkcy5hZGQoMTAwNzhMKTsKCi8vICAgICAgICBMb25nIHVzZXJJZCA9IFVzZXJUb2tlblV0aWxzLmdldFVzZXJJZChxdWVyeS5nZXRUb2tlbigpKTsKLy8gICAgICAgIEV4YW1wbGUgZXhhbXBsZSA9IG5ldyBFeGFtcGxlKEZvbGxvd2luZ1Blb3BsZURPLmNsYXNzKTsKLy8gICAgICAgIGV4YW1wbGUuY3JlYXRlQ3JpdGVyaWEoKQovLyAgICAgICAgICAgIC5hbmRFcXVhbFRvKCJ1c2VySWQiLCB1c2VySWQpCi8vICAgICAgICAgICAgLmFuZEVxdWFsVG8oImlzTXV0ZSIsIDApOwovLyAgICAgICAgLy8gdG9kbyDkuIDmrKHmgKfov5Tlm57miYDmnInlhbPms6jjgIHmgKfog73lj6/og73mhJ/kuroKLy8gICAgICAgIExpc3Q8Rm9sbG93aW5nUGVvcGxlRE8+IGZvbGxvd2luZ1Blb3BsZURPTGlzdCA9IGZvbGxvd2luZ1Blb3BsZURhdGFTb3VyY2Uuc2VsZWN0QnlFeGFtcGxlKGV4YW1wbGUpOwoKLy8gICAgICAgIExpc3Q8TG9uZz4gdXNlcklkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgZm9yIChGb2xsb3dpbmdQZW9wbGVETyBmb2xsb3dpbmdQZW9wbGVETyA6IGZvbGxvd2luZ1Blb3BsZURPTGlzdCkgewovLyAgICAgICAgICAgIHVzZXJJZHMuYWRkKGZvbGxvd2luZ1Blb3BsZURPLmdldFRvVXNlcklkKCkpOwovLyAgICAgICAgfQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -226,7 +230,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8TG9uZz4gdXNlcklkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgdXNlcklkcy5hZGQoMTAwMDZMKTsKLy8gICAgICAgIHVzZXJJZHMuYWRkKDEwMDAzTCk7Ci8vICAgICAgICB1c2VySWRzLmFkZCgxMDAwN0wpOwovLyAgICAgICAgdXNlcklkcy5hZGQoMTAwNzhMKTsKCi8vICAgICAgICBMb25nIHVzZXJJZCA9IFVzZXJUb2tlblV0aWxzLmdldFVzZXJJZChxdWVyeS5nZXRUb2tlbigpKTsKLy8gICAgICAgIEV4YW1wbGUgZXhhbXBsZSA9IG5ldyBFeGFtcGxlKEZvbGxvd2luZ1Blb3BsZURPLmNsYXNzKTsKLy8gICAgICAgIGV4YW1wbGUuY3JlYXRlQ3JpdGVyaWEoKQovLyAgICAgICAgICAgIC5hbmRFcXVhbFRvKCJ1c2VySWQiLCB1c2VySWQpCi8vICAgICAgICAgICAgLmFuZEVxdWFsVG8oImlzTXV0ZSIsIDApOwovLyAgICAgICAgLy8gdG9kbyDkuIDmrKHmgKfov5Tlm57miYDmnInlhbPms6jjgIHmgKfog73lj6/og73mhJ/kuroKLy8gICAgICAgIExpc3Q8Rm9sbG93aW5nUGVvcGxlRE8+IGZvbGxvd2luZ1Blb3BsZURPTGlzdCA9IGZvbGxvd2luZ1Blb3BsZURhdGFTb3VyY2Uuc2VsZWN0QnlFeGFtcGxlKGV4YW1wbGUpOwoKLy8gICAgICAgIExpc3Q8TG9uZz4gdXNlcklkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgZm9yIChGb2xsb3dpbmdQZW9wbGVETyBmb2xsb3dpbmdQZW9wbGVETyA6IGZvbGxvd2luZ1Blb3BsZURPTGlzdCkgewovLyAgICAgICAgICAgIHVzZXJJZHMuYWRkKGZvbGxvd2luZ1Blb3BsZURPLmdldFRvVXNlcklkKCkpOwovLyAgICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="4">
         <text>File manageDir = new File(basePathManage);
 //        if (!baseDir.exists()) {
 //            baseDir.mkdirs();
@@ -235,16 +242,16 @@
 //            manageDir.mkdirs();
 //        }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmaWxlLnNlcnZlci5iYXNlLnBhdGgyfSIpCiAgICBwcml2YXRlIFN0cmluZyBiYXNlUGF0aE1hbmFnZTsgICAgICAgICAgICAgICAgICAgIC8vIOWbvueJh+acjeWKoeWZqOebuOWvueaguei3r+W+hAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/**
      *
      */
@@ -252,16 +259,16 @@
 
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cHJvCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">LmNvbXBsZXRlZEZ1dHVyZSgiIikKICAgICAgICAgICAgLnRoZW5BY2NlcHRBc3luYyhuZXcgQ29uc3VtZXI8U3RyaW5nPigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGFjY2VwdChTdHJpbmcgcykgewoKICAgICAgICAgICAgfQogICAgICAgIA==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">LmNvbXBsZXRlZEZ1dHVyZSgiIikKICAgICAgICAgICAgLnRoZW5BY2NlcHRBc3luYyhuZXcgQ29uc3VtZXI8U3RyaW5nPigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGFjY2VwdChTdHJpbmcgcykgewoKICAgICAgICAgICAgfQogICAgICAgIA==</text>
+      </register>
+      <register name="8" type="4">
         <text>runAsync(new Runnable() {
             @Override
             public void run() {
@@ -270,14 +277,11 @@
         })
             .</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmluY2x1ZGU9aTE4bgo=</text>
-      </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CnsKfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmluY2x1ZGU9aTE4bgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
