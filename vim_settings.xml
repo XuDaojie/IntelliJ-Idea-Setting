@@ -20,9 +20,18 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-dev.properties" timestamp="1563171252210">
         <mark key="[" line="164" column="21" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/result/UserInfoResult.java" timestamp="1563273475169">
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="55" column="27" />
+        <mark key="^" line="55" column="27" />
+        <mark key="." line="55" column="27" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ald.news.client/news-forum/0.0.1-SNAPSHOT/15821dc728ba737cfa9926d0cce9cb4a2c43de5c/news-forum-0.0.1-SNAPSHOT-sources.jar!/com/ald/news/client/forum/NewArticleClient.java" timestamp="1563262590195" />
-      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/user/UserDo.java" timestamp="1563269420409">
-        <mark key="[" line="265" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/user/UserDo.java" timestamp="1563271388557">
+        <mark key="[" line="271" column="32" />
+        <mark key="]" line="271" column="31" />
+        <mark key="^" line="271" column="31" />
+        <mark key="." line="271" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1563178667990">
         <mark key="[" line="97" column="50" />
@@ -38,6 +47,9 @@
         <mark key="]" line="175" column="12" />
         <mark key="." line="175" column="12" />
         <mark key="^" line="181" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/resources/application-local.properties" timestamp="1563271354110">
+        <mark key="[" line="131" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1563264744304">
         <mark key="a" line="0" column="2" />
@@ -57,6 +69,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/NewsUserServiceImpl.java" timestamp="1563273012423">
+        <mark key="[" line="552" column="19" />
+        <mark key="]" line="552" column="19" />
+        <mark key="^" line="540" column="15" />
+        <mark key="." line="552" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap.properties" timestamp="1563103404469">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="27" />
@@ -70,11 +88,11 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1563269962853">
-        <mark key="[" line="1134" column="17" />
-        <mark key="]" line="1134" column="17" />
-        <mark key="." line="1134" column="17" />
-        <mark key="^" line="403" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1563271518959">
+        <mark key="[" line="1116" column="12" />
+        <mark key="]" line="1116" column="11" />
+        <mark key="." line="1116" column="11" />
+        <mark key="^" line="1116" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/FileController.java" timestamp="1563264743416">
         <mark key="[" line="230" column="59" />
@@ -82,7 +100,6 @@
         <mark key="^" line="216" column="12" />
         <mark key="." line="216" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Seeking/app/src/main/java/com/bocai/seeking/ui/activity/answer/AnswerQuestionActivity.java" timestamp="1563103370393" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1563171323003">
         <mark key="[" line="201" column="0" />
       </file>
@@ -191,7 +208,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setBirthdayUptime</text>
+        <text>date</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -224,7 +241,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setBirthdayUptime</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
