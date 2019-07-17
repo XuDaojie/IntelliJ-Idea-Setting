@@ -63,6 +63,12 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/base/Page.java" timestamp="1560415157510">
         <mark key="[" line="24" column="7" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/data/client/BaiduMapClient.java" timestamp="1563361936937">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spring/gs-caching/complete/src/main/java/hello/AppRunner.java" timestamp="1562134648100">
         <mark key="[" line="12" column="48" />
       </file>
@@ -461,6 +467,9 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/forum/controller/api/package-info.java" timestamp="1560137830553">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/entity/BaiduReverseGeocodingResp.java" timestamp="1563361005942">
+        <mark key="[" line="2" column="38" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAbilityServiceImpl.java" timestamp="1562670108054">
         <mark key="[" line="251" column="57" />
       </file>
@@ -469,7 +478,7 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1563358962615">
+      <file name="/fragment.java" timestamp="1563360409666">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -668,11 +677,11 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/controller/inner/InnerCategoryController.java" timestamp="1561105024014">
         <mark key="[" line="31" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1563271518959">
-        <mark key="[" line="1116" column="12" />
-        <mark key="]" line="1116" column="11" />
-        <mark key="." line="1116" column="11" />
-        <mark key="^" line="1116" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1563363224121">
+        <mark key="[" line="693" column="28" />
+        <mark key="]" line="693" column="28" />
+        <mark key="." line="693" column="28" />
+        <mark key="^" line="1128" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user-client/README.md" timestamp="1561550449398">
         <mark key="[" line="0" column="4" />
@@ -698,8 +707,10 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap-i18n_en.properties" timestamp="1562666404722">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/MapHelper.java" timestamp="1563358852684">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/MapHelper.java" timestamp="1563362099150">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="11" />
+        <mark key="." line="30" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.http" timestamp="1561369661702">
         <mark key="[" line="6" column="0" />
@@ -952,7 +963,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Locale</text>
+        <text encoding="base64">YWRkcmVzc0NvbXBvbmVudC5nZXRQcm92aW5jZSgpIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -985,7 +996,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Locale</text>
+        <text encoding="base64">YWRkcmVzc0NvbXBvbmVudC5nZXRQcm92aW5jZSgpIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
