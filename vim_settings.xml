@@ -63,11 +63,11 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/base/Page.java" timestamp="1560415157510">
         <mark key="[" line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/data/client/BaiduMapClient.java" timestamp="1563429240776">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-        <mark key="^" line="12" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/data/client/BaiduMapClient.java" timestamp="1563432279658">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+        <mark key="^" line="11" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/spring/gs-caching/complete/src/main/java/hello/AppRunner.java" timestamp="1562134648100">
         <mark key="[" line="12" column="48" />
@@ -432,7 +432,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1561529274004">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563429081479">
+      <file name="/Dummy.txt" timestamp="1563432352709">
         <mark key="a" line="0" column="2" />
         <mark key="x" line="0" column="2" />
         <mark key="[" line="0" column="0" />
@@ -484,7 +484,7 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1563429081472">
+      <file name="/fragment.java" timestamp="1563432679829">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -683,11 +683,11 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/controller/inner/InnerCategoryController.java" timestamp="1561105024014">
         <mark key="[" line="31" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1563419810925">
-        <mark key="[" line="651" column="87" />
-        <mark key="]" line="651" column="87" />
-        <mark key="." line="651" column="87" />
-        <mark key="^" line="1096" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1563431550133">
+        <mark key="[" line="652" column="52" />
+        <mark key="]" line="652" column="52" />
+        <mark key="." line="652" column="52" />
+        <mark key="^" line="1097" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user-client/README.md" timestamp="1561550449398">
         <mark key="[" line="0" column="4" />
@@ -714,10 +714,10 @@
         <mark key="[" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/MapHelper.java" timestamp="1563419621630">
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="19" column="3" />
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.http" timestamp="1561369661702">
         <mark key="[" line="6" column="0" />
@@ -838,7 +838,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/commons/commons-data-redis/src/main/resources/redis/lock.lua" timestamp="1560493120738">
         <mark key="[" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1562778271508">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1563431266813">
         <mark key="[" line="850" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1563171323003">
@@ -970,7 +970,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pro</text>
+        <text>BaiduReverseGeocodingResponse</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1003,7 +1003,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pro</text>
+        <text>BaiduReverseGeocodingResponse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
