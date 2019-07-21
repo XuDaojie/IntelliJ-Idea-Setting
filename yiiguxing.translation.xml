@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fair" />
       <item value="* Base of synchronization control for this lock. Subclassed * into fair and nonfair versions below. Uses AQS state to * represent the number of holds on the lock." />
       <item value="* Because String objects are immutable they can be shared. For example:" />
       <item value="Here are some more examples of how strings can be used:" />
@@ -20,8 +21,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="13" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
