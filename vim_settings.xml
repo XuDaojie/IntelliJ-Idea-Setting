@@ -19,6 +19,9 @@
       <file name="/a.dummy" timestamp="1562328910648">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/consts/SearchConst.java" timestamp="1563797490349">
+        <mark key="[" line="29" column="55" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/domain/entity/Auction.java" timestamp="1561126116840">
         <mark key="[" line="307" column="0" />
       </file>
@@ -49,6 +52,9 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/enums/OrderTypeEnum.java" timestamp="1560829170382">
         <mark key="[" line="23" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/data/SearchDataSource.java" timestamp="1563800915509">
+        <mark key="[" line="27" column="15" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/TestRedisProperties.java" timestamp="1561350487255">
         <mark key="[" line="5" column="54" />
       </file>
@@ -63,6 +69,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/domain/entity/Order.java" timestamp="1560828378567">
         <mark key="[" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/CHANGELOG.md" timestamp="1563801525428">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/query/CustomMenuQuery.java" timestamp="1560868604035">
         <mark key="[" line="29" column="29" />
@@ -81,9 +92,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/discovery2/src/main/resources/application.yml" timestamp="1559555007681">
         <mark key="[" line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/article/NewsArticleDo.java" timestamp="1563796008246">
-        <mark key="'" line="356" column="6" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-gateway-core/2.1.1.RELEASE/91d54230cb66cd6fb4afdd422727396bb17de56/spring-cloud-gateway-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/handler/predicate/ReadBodyPredicateFactory.java" timestamp="1559201752338">
         <mark key="[" line="59" column="7" />
@@ -129,6 +137,11 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/framework/cache/CaffeineAutoCacheConfiguration.java" timestamp="1562341185267">
         <mark key="[" line="16" column="8" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/data/mapper/ShopAbilityMapper.xml" timestamp="1563804132975">
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="54" column="14" />
+        <mark key="." line="54" column="14" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/commons/build.gradle" timestamp="1560429486348">
         <mark key="[" line="10" column="34" />
       </file>
@@ -144,7 +157,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/settings.gradle" timestamp="1560418199829">
         <mark key="[" line="12" column="36" />
       </file>
-      <file name="/a.sql" timestamp="1562136740886">
+      <file name="/a.sql" timestamp="1563803548555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/ShopAuctionDetailVo.java" timestamp="1562061684279">
@@ -182,7 +195,7 @@
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pre.yml" timestamp="1560841814300">
         <mark key="[" line="270" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/search/climaxhis/ArticleQuery.java" timestamp="1563792409262">
+      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/search/climaxhis/ArticleQuery.java" timestamp="1563805903763">
         <mark key="[" line="61" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/data/cache/test.lua" timestamp="1560139259695">
@@ -200,6 +213,9 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/i18n/message_zh.properties" timestamp="1563782610166">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/data/SearchDataRepository.java" timestamp="1563806437628">
+        <mark key="[" line="84" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/NewsArticleController.java" timestamp="1563794121646">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="160" column="10" />
@@ -212,14 +228,16 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopAddressController.java" timestamp="1560861761107">
         <mark key="[" line="34" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/service/impl/ArticleSearchServiceImpl.java" timestamp="1563796074490">
-        <mark key="[" line="144" column="41" />
-        <mark key="]" line="144" column="41" />
-        <mark key="^" line="587" column="25" />
-        <mark key="." line="144" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/service/impl/ArticleSearchServiceImpl.java" timestamp="1563806326863">
+        <mark key="[" line="172" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/data/repository/OrderRepository.java" timestamp="1560828857780">
         <mark key="[" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/mapper/ShopAbilityMapper.java" timestamp="1563803991942">
+        <mark key="[" line="36" column="45" />
+        <mark key="]" line="36" column="45" />
+        <mark key="." line="36" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/config/init/ConfigSystemBeforeApplicationStartedInitializer.java" timestamp="1560441872470">
         <mark key="[" line="20" column="72" />
@@ -236,8 +254,8 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAuctionServiceImpl.java" timestamp="1563763407817">
         <mark key="[" line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/controller/api/ArticleSearchController.java" timestamp="1563766382220" />
-      <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/build.gradle" timestamp="1562751856449">
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/controller/api/ArticleSearchController.java" timestamp="1563805747356" />
+      <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/build.gradle" timestamp="1563801630096">
         <mark key="[" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/.java-version" timestamp="1560830413095">
@@ -246,6 +264,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/5.6.5/629a6d385fd7715e8b6099369a118a39dabd4bee/elasticsearch-5.6.5-sources.jar!/org/elasticsearch/common/unit/DistanceUnit.java" timestamp="1563790159561" />
       <file name="$USER_HOME$/Downloads/demo 3/src/main/resources/message.properties" timestamp="1562651825825">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/TwoShopApplication.http" timestamp="1563805044258">
+        <mark key="[" line="95" column="40" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/entity/FilterMoments.java" timestamp="1563788032255" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-2shop-pro.properties" timestamp="1561432589135">
@@ -272,10 +295,12 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/package-info.java" timestamp="1560154184026">
         <mark key="[" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/application-local.properties" timestamp="1563782760406">
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/application-local.properties" timestamp="1563801100965">
+        <mark key="[" line="78" column="35" />
         <mark key="]" line="1" column="44" />
         <mark key="." line="1" column="44" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/client/SearchUserClient.java" timestamp="1563800327531" />
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/build.gradle" timestamp="1560830220813">
         <mark key="[" line="19" column="0" />
       </file>
@@ -284,6 +309,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap-i18n_zh_CN.properties" timestamp="1562664004467">
         <mark key="[" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/ShopAbilityService.java" timestamp="1563803344107">
+        <mark key="[" line="65" column="85" />
+        <mark key="]" line="72" column="17" />
+        <mark key="^" line="72" column="17" />
+        <mark key="." line="72" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopGenerateOrdersController.java" timestamp="1561119919494">
         <mark key="[" line="47" column="16" />
@@ -390,7 +421,12 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1561529274004">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563795131358">
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopAbilityController.java" timestamp="1563806541700">
+        <mark key="[" line="109" column="18" />
+        <mark key="]" line="109" column="18" />
+        <mark key="." line="109" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1563805274944">
         <mark key="a" line="0" column="0" />
         <mark key="x" line="0" column="2" />
         <mark key="[" line="0" column="0" />
@@ -424,6 +460,9 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/event/AppEventType.java" timestamp="1560416763641">
         <mark key="[" line="34" column="9" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/ShopAbility.java" timestamp="1563804625401">
+        <mark key="[" line="48" column="25" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/forum/service/impl/package-info.java" timestamp="1560137569417">
         <mark key="[" line="0" column="0" />
       </file>
@@ -438,13 +477,15 @@
         <mark key="]" line="25" column="15" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAbilityServiceImpl.java" timestamp="1562670108054">
-        <mark key="[" line="251" column="57" />
+      <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAbilityServiceImpl.java" timestamp="1563804825069">
+        <mark key="[" line="331" column="13" />
+        <mark key="]" line="331" column="13" />
+        <mark key="." line="331" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1563796409437">
+      <file name="/fragment.java" timestamp="1563806311856">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/data/repository/AuctionRepository.java" timestamp="1560255197663">
         <mark key="[" line="18" column="28" />
@@ -471,10 +512,10 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/data/client/package-info.java" timestamp="1560139301495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/search/article/NewsArticleVo.java" timestamp="1563795948703">
-        <mark key="[" line="591" column="4" />
-        <mark key="]" line="591" column="4" />
-        <mark key="." line="591" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/search/article/NewsArticleVo.java" timestamp="1563799328225">
+        <mark key="[" line="517" column="16" />
+        <mark key="]" line="517" column="16" />
+        <mark key="." line="517" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/data/mapper/ShopCategoryMapper.java" timestamp="1560444305803">
         <mark key="[" line="16" column="7" />
@@ -493,6 +534,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-forum-dev.properties" timestamp="1562209708725">
         <mark key="[" line="1" column="54" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/build.gradle" timestamp="1563800431916">
+        <mark key="[" line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user-client/CHANGELOG.md" timestamp="1563802188265">
+        <mark key="[" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/domain/entity/User.java" timestamp="1560171924117">
         <mark key="[" line="36" column="37" />
@@ -521,8 +568,8 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/.gitignore" timestamp="1560151098651">
         <mark key="[" line="233" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserMapper.java" timestamp="1561628977079">
-        <mark key="[" line="1011" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/mapper/UserMapper.java" timestamp="1563800342061">
+        <mark key="[" line="843" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/UserApplication.http" timestamp="1562079122524">
         <mark key="[" line="15" column="35" />
@@ -541,6 +588,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/data/mapper/NewsUserMapper.java" timestamp="1561628987168">
         <mark key="[" line="23" column="46" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/build.gradle" timestamp="1563801244162">
+        <mark key="[" line="33" column="79" />
       </file>
       <file name="/Clipboard.txt" timestamp="1562765002809">
         <mark key="[" line="0" column="0" />
@@ -563,6 +613,7 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/user/data/mapper/UserMapper.java" timestamp="1560411189314">
         <mark key="[" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/framework/cache/CacheAutoConfiguration.java" timestamp="1563801326955" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/resources/data/mapper/UserMapper.xml" timestamp="1560411929884">
         <mark key="[" line="4" column="24" />
       </file>
@@ -608,6 +659,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/settings.gradle" timestamp="1561540391949">
         <mark key="[" line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/5.6.5/629a6d385fd7715e8b6099369a118a39dabd4bee/elasticsearch-5.6.5-sources.jar!/org/elasticsearch/common/geo/GeoDistance.java" timestamp="1563799452130" />
       <file name="$USER_HOME$/IdeaProjects/2shop/logs/bootstrap/bootstrap-debug.log" timestamp="1560505602207">
         <mark key="[" line="18" column="31" />
       </file>
@@ -651,6 +703,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/strategy/BindStrategy.java" timestamp="1560416954310">
         <mark key="[" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/build.gradle" timestamp="1563801177452" />
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/data/README.md" timestamp="1560139195519">
         <mark key="[" line="1" column="21" />
       </file>
@@ -689,6 +742,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/UserService.java" timestamp="1561714050896">
         <mark key="[" line="57" column="52" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/framework/config/MybatisPlusConfig.java" timestamp="1563801834769">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap-i18n.properties" timestamp="1562664414093">
         <mark key="[" line="0" column="5" />
@@ -738,6 +796,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/xx.http" timestamp="1559662964665">
         <mark key="[" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user-client/build.gradle" timestamp="1563802177066">
+        <mark key="[" line="1" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/SystemController.java" timestamp="1562126307233">
         <mark key="[" line="72" column="71" />
       </file>
@@ -754,10 +815,7 @@
         <mark key="[" line="355" column="48" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/es/EsServiceimpl.java" timestamp="1563786952720">
-        <mark key="[" line="172" column="58" />
-        <mark key="]" line="93" column="27" />
-        <mark key="^" line="93" column="27" />
-        <mark key="." line="93" column="27" />
+        <mark key="[" line="188" column="58" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-2shop-pre.properties" timestamp="1561432580177">
         <mark key="[" line="0" column="23" />
@@ -779,6 +837,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1563431266813">
         <mark key="[" line="851" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/framework/cache/JacksonRedisAutoConfiguration.java" timestamp="1563801333111">
+        <mark key="[" line="18" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-pro.properties" timestamp="1563171323003">
         <mark key="[" line="201" column="0" />
@@ -909,7 +970,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>value</text>
+        <text>ResourceMongoDBDo</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -942,7 +1003,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>ResourceMongoDBDo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
@@ -950,7 +1011,22 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4xLjcnCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">LSA6IEJhc2VTZXJ2aWNlSW1wbC5wYWdlKFBhZ2UsIFdyYXBwZXI8VD4sIGJvb2xlYW4pLOWIhumhteaXtuWPr+aOp+WItuaYr+WQpui/lOWbnuaAu+iusOW9leaVsAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCB1c2VySWRzOyBpKyspIHsKCiAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="4">
         <text>public static class Ability {
         /**
          * 技能ID
@@ -1019,44 +1095,23 @@
         }
     }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLmva7pl7votYTmupAiKQogICAgcHJpdmF0ZSBBYmlsaXR5IGFiaWxpdHk7</text>
-      </register>
-      <register name="r" type="4">
-        <text>msg</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">cHJpdmF0ZSB2b2lkIHBhcnNlU2NvcmUoTGlzdDxVc2VyU3RhdFZvPiB1c2VyU3RhdFZvcykgewogICAgICAgIExpc3Q8TG9uZz4gdXNlckV4dGVuZExpc3QgPSB1c2VyU3RhdFZvcy5zdHJlYW0oKS5tYXAoVXNlclN0YXRWbzo6Z2V0SWQpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgICAgTGlzdDxOZXdzVXNlckFudGlTY29yZUV4dGVuZERvPiBuZXdzVXNlckFudGlTY29yZUV4dGVuZERvTGlzdCA9IG51bGw7CiAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KHVzZXJFeHRlbmRMaXN0KSkgewogICAgICAgICAgICBFeGFtcGxlIGV4YW1wbGUgPSBuZXcgRXhhbXBsZShOZXdzVXNlckFudGlTY29yZUV4dGVuZERvLmNsYXNzKTsKICAgICAgICAgICAgZXhhbXBsZS5jcmVhdGVDcml0ZXJpYSgpLmFuZEluKCJ1c2VySWQiLCB1c2VyRXh0ZW5kTGlzdCk7CiAgICAgICAgICAgIG5ld3NVc2VyQW50aVNjb3JlRXh0ZW5kRG9MaXN0ID0gbmV3c1VzZXJBbnRpU2NvcmVFeHRlbmRNYXBwZXIuc2VsZWN0QnlFeGFtcGxlKGV4YW1wbGUpOwogICAgICAgIH0KICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkobmV3c1VzZXJBbnRpU2NvcmVFeHRlbmREb0xpc3QpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgZm9yIChVc2VyU3RhdFZvIHVzZXJTdGF0Vm8gOiB1c2VyU3RhdFZvcykgewogICAgICAgICAgICBmb3IgKE5ld3NVc2VyQW50aVNjb3JlRXh0ZW5kRG8gbmV3c1VzZXJBbnRpU2NvcmVFeHRlbmREbyA6IG5ld3NVc2VyQW50aVNjb3JlRXh0ZW5kRG9MaXN0KSB7CiAgICAgICAgICAgICAgICBpZiAoT2JqZWN0cy5pc051bGwodXNlclN0YXRWbykKICAgICAgICAgICAgICAgICAgICB8fCBPYmplY3RzLmlzTnVsbCh1c2VyU3RhdFZvLmdldElkKCkpCiAgICAgICAgICAgICAgICAgICAgfHwgT2JqZWN0cy5pc051bGwobmV3c1VzZXJBbnRpU2NvcmVFeHRlbmREbykKICAgICAgICAgICAgICAgICAgICB8fCBPYmplY3RzLmlzTnVsbChuZXdzVXNlckFudGlTY29yZUV4dGVuZERvLmdldFVzZXJJZCgpKSkgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBpZiAobmV3c1VzZXJBbnRpU2NvcmVFeHRlbmREby5nZXRVc2VySWQoKS5lcXVhbHModXNlclN0YXRWby5nZXRJZCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICB1c2VyU3RhdFZvLnNldFNjb3JlKHVzZXJTdGF0Vm8uZ2V0U2NvcmUoKS5hZGQobmV3c1VzZXJBbnRpU2NvcmVFeHRlbmREby5nZXRBY3Rpb25TY29yZSgpKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoIiIsIGUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGp1ZGdlTmFtZUZvcm1hdChTdHJpbmcgbmlja05hbWUpewogICAgICAgIFN0cmluZyB0ZXh0ID0gdXNlck1hbmFnZUNsaWVudC5nZXRTdHJpbmdSZWRpcyhDb25zdGFudHMuR2xvYmFsLlNZU1RFTV9DT05GSUdfUFJFRklYICsKICAgICAgICAgICAgVXNlclJlZGlzQ29uc3QuQ29uZmlnLlVTRVJfRk9SQklEREVOX1NZTUJPTCkuZ2V0RGF0YSgpOwogICAgICAgIGlmKCFTdHJpbmdVdGlsLmlzRW1wdHkodGV4dCkgJiYgIVN0cmluZ1V0aWwuaXNFbXB0eShuaWNrTmFtZSkpewogICAgICAgICAgICBTdHJpbmdbXSBuYW1lcyA9IG5pY2tOYW1lLnNwbGl0KCIiKTsKICAgICAgICAgICAgZm9yIChTdHJpbmcgbmFtZTpuYW1lcyl7CiAgICAgICAgICAgICAgICBpZih0ZXh0LmNvbnRhaW5zKG5hbWUpKXsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLmva7pl7votYTmupAiKQogICAgcHJpdmF0ZSBBYmlsaXR5IGFiaWxpdHk7</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBjYWxsQW50aUNlbnRlcihTdHJpbmcgbW9iaWxlLCBTdHJpbmcgYXBwVmVyc2lvbiwgSW50ZWdlciBkZXZpY2VUeXBlLCBTdHJpbmcgZGV2aWNlSWQsIFN0cmluZyBtYWNBZGRyZXNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyB1c2VyQWdlbnQsIFVzZXJEbyB1c2VyRG8pIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBBbnRpQWN0aW9uQm8gdGFyZ2V0ID0gZ2V0QW50aUFjdGlvbkJvKG1vYmlsZSwgYXBwVmVyc2lvbiwgZGV2aWNlVHlwZSwgZGV2aWNlSWQsIG1hY0FkZHJlc3MsIHVzZXJBZ2VudCk7CiAgICAgICAgICAgIEpzb25PYmplY3QganNvbk9iamVjdCA9IGNhbGxBbnRpQWN0aW9uKHRhcmdldCk7CiAgICAgICAgICAgIFN0cmluZyBzdGF0dXMgPSBqc29uT2JqZWN0LmdldCgic3RhdHVzIikuZ2V0QXNTdHJpbmcoKTsKICAgICAgICAgICAgSnNvbk9iamVjdCBkYXRhID0ganNvbk9iamVjdC5nZXQoImRhdGEiKS5nZXRBc0pzb25PYmplY3QoKTsKICAgICAgICAgICAgaW50IHJpc2tMZXZlbCA9IGRhdGEuZ2V0KCJyaXNrTGV2ZWwiKS5nZXRBc0ludCgpOwogICAgICAgICAgICBTdHJpbmcgcmlza1R5cGUgPSBkYXRhLmdldCgicmlza1R5cGUiKS5nZXRBc1N0cmluZygpOwogICAgICAgICAgICBsb2dnZXIuaW5mbygiW2FudGlDZW50ZXLnur/kuIpde33po47pmannrYnnuqd7fSzpo47pmannsbvlnot7fSznm7TmjqXlj5HpgIHnn63kv6EiLCBtb2JpbGUsIHJpc2tMZXZlbCwgcmlza1R5cGUpOwogICAgICAgICAgICBpZiAoIjAwMDAiLmVxdWFscyhzdGF0dXMpKSB7CiAgICAgICAgICAgICAgICBtb2JpbGVBbnRpUmVjb3JkU2VydmljZS5zYXZlTW9iaWxlQW50aVJlY29yZCgiRksiLCBtb2JpbGUsIFN0cmluZy52YWx1ZU9mKHJpc2tMZXZlbCksIGRldmljZUlkKTsKICAgICAgICAgICAgICAgIG91dEFudGlDZW50ZXJMb2cobW9iaWxlLCB1c2VyRG8sIHJpc2tMZXZlbCk7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoInt9546v5aKD6LCD55So5Y+N5qy66K+I5Lit5b+D5byC5bi4LOWTjeW6lOe7k+aenHt9LOWQr+WKqOWIm+iTnei/m+ihjOWQjue7reajgOa1iyIsIFVzZXJDb25zdC5uZXdzU3RhZ2UsIHN0YXR1cyk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoInt9546v5aKDe33osIPnlKjlj43mrLror4jkuK3lv4PlvILluLh7fSzlkK/liqjliJvok53ov5vooYzlkI7nu63mo4DmtYsiLCBVc2VyQ29uc3QubmV3c1N0YWdlLCBtb2JpbGUsIGUpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgb3V0QW50aUNsTG9nKFN0cmluZyBtb2JpbGUsIFVzZXJEbyB1c2VyRG8sIFN0cmluZyByZXQpIHsKICAgICAgICBTdHJpbmcgYW50aUxvZyA9IEV2ZW50QW50aS5jcmVhdGVBbnRpTG9nKAogICAgICAgICAgICBtb2JpbGUsCiAgICAgICAgICAgIHVzZXJEbyA9PSBudWxsID8gIjAiIDogU3RyaW5nLnZhbHVlT2YodXNlckRvLmdldElkKCkpLAogICAgICAgICAgICBFdmVudEFudGlQbGF0Zm9ybS5BTlRJX0NBTExfQ0wsCiAgICAgICAgICAgIFN0cmluZy52YWx1ZU9mKEFudGlTdGF0dXNVdGlsLnJlc3VsdFN0YXR1c1RvQXBwZWFsU3RhdHVzKHJldCkpLAogICAgICAgICAgICBBbnRpU3RhdHVzVXRpbC5oYW5kbGVTdGF0dXNUb0FudGlQb2ludFJlc3VsdChyZXQpKTsKICAgICAgICBsb2dnZXIuaW5mbyhhbnRpTG9nKTsKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8TG9uZz4gdXNlcklkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgdXNlcklkcy5hZGQoMTAwMDZMKTsKLy8gICAgICAgIHVzZXJJZHMuYWRkKDEwMDAzTCk7Ci8vICAgICAgICB1c2VySWRzLmFkZCgxMDAwN0wpOwovLyAgICAgICAgdXNlcklkcy5hZGQoMTAwNzhMKTsKCi8vICAgICAgICBMb25nIHVzZXJJZCA9IFVzZXJUb2tlblV0aWxzLmdldFVzZXJJZChxdWVyeS5nZXRUb2tlbigpKTsKLy8gICAgICAgIEV4YW1wbGUgZXhhbXBsZSA9IG5ldyBFeGFtcGxlKEZvbGxvd2luZ1Blb3BsZURPLmNsYXNzKTsKLy8gICAgICAgIGV4YW1wbGUuY3JlYXRlQ3JpdGVyaWEoKQovLyAgICAgICAgICAgIC5hbmRFcXVhbFRvKCJ1c2VySWQiLCB1c2VySWQpCi8vICAgICAgICAgICAgLmFuZEVxdWFsVG8oImlzTXV0ZSIsIDApOwovLyAgICAgICAgLy8gdG9kbyDkuIDmrKHmgKfov5Tlm57miYDmnInlhbPms6jjgIHmgKfog73lj6/og73mhJ/kuroKLy8gICAgICAgIExpc3Q8Rm9sbG93aW5nUGVvcGxlRE8+IGZvbGxvd2luZ1Blb3BsZURPTGlzdCA9IGZvbGxvd2luZ1Blb3BsZURhdGFTb3VyY2Uuc2VsZWN0QnlFeGFtcGxlKGV4YW1wbGUpOwoKLy8gICAgICAgIExpc3Q8TG9uZz4gdXNlcklkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgZm9yIChGb2xsb3dpbmdQZW9wbGVETyBmb2xsb3dpbmdQZW9wbGVETyA6IGZvbGxvd2luZ1Blb3BsZURPTGlzdCkgewovLyAgICAgICAgICAgIHVzZXJJZHMuYWRkKGZvbGxvd2luZ1Blb3BsZURPLmdldFRvVXNlcklkKCkpOwovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="4">
-        <text>File manageDir = new File(basePathManage);
-//        if (!baseDir.exists()) {
-//            baseDir.mkdirs();
-//        }
-//        if (!manageDir.exists()) {
-//            manageDir.mkdirs();
-//        }</text>
+        <text encoding="base64">cHJpdmF0ZSB2b2lkIHBhcnNlU2NvcmUoTGlzdDxVc2VyU3RhdFZvPiB1c2VyU3RhdFZvcykgewogICAgICAgIExpc3Q8TG9uZz4gdXNlckV4dGVuZExpc3QgPSB1c2VyU3RhdFZvcy5zdHJlYW0oKS5tYXAoVXNlclN0YXRWbzo6Z2V0SWQpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICAgICAgTGlzdDxOZXdzVXNlckFudGlTY29yZUV4dGVuZERvPiBuZXdzVXNlckFudGlTY29yZUV4dGVuZERvTGlzdCA9IG51bGw7CiAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KHVzZXJFeHRlbmRMaXN0KSkgewogICAgICAgICAgICBFeGFtcGxlIGV4YW1wbGUgPSBuZXcgRXhhbXBsZShOZXdzVXNlckFudGlTY29yZUV4dGVuZERvLmNsYXNzKTsKICAgICAgICAgICAgZXhhbXBsZS5jcmVhdGVDcml0ZXJpYSgpLmFuZEluKCJ1c2VySWQiLCB1c2VyRXh0ZW5kTGlzdCk7CiAgICAgICAgICAgIG5ld3NVc2VyQW50aVNjb3JlRXh0ZW5kRG9MaXN0ID0gbmV3c1VzZXJBbnRpU2NvcmVFeHRlbmRNYXBwZXIuc2VsZWN0QnlFeGFtcGxlKGV4YW1wbGUpOwogICAgICAgIH0KICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkobmV3c1VzZXJBbnRpU2NvcmVFeHRlbmREb0xpc3QpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgZm9yIChVc2VyU3RhdFZvIHVzZXJTdGF0Vm8gOiB1c2VyU3RhdFZvcykgewogICAgICAgICAgICBmb3IgKE5ld3NVc2VyQW50aVNjb3JlRXh0ZW5kRG8gbmV3c1VzZXJBbnRpU2NvcmVFeHRlbmREbyA6IG5ld3NVc2VyQW50aVNjb3JlRXh0ZW5kRG9MaXN0KSB7CiAgICAgICAgICAgICAgICBpZiAoT2JqZWN0cy5pc051bGwodXNlclN0YXRWbykKICAgICAgICAgICAgICAgICAgICB8fCBPYmplY3RzLmlzTnVsbCh1c2VyU3RhdFZvLmdldElkKCkpCiAgICAgICAgICAgICAgICAgICAgfHwgT2JqZWN0cy5pc051bGwobmV3c1VzZXJBbnRpU2NvcmVFeHRlbmREbykKICAgICAgICAgICAgICAgICAgICB8fCBPYmplY3RzLmlzTnVsbChuZXdzVXNlckFudGlTY29yZUV4dGVuZERvLmdldFVzZXJJZCgpKSkgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBpZiAobmV3c1VzZXJBbnRpU2NvcmVFeHRlbmREby5nZXRVc2VySWQoKS5lcXVhbHModXNlclN0YXRWby5nZXRJZCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICB1c2VyU3RhdFZvLnNldFNjb3JlKHVzZXJTdGF0Vm8uZ2V0U2NvcmUoKS5hZGQobmV3c1VzZXJBbnRpU2NvcmVFeHRlbmREby5nZXRBY3Rpb25TY29yZSgpKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoIiIsIGUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
