@@ -719,11 +719,11 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/controller/inner/InnerCategoryController.java" timestamp="1561105024014">
         <mark key="[" line="31" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1563437657006">
-        <mark key="[" line="660" column="77" />
-        <mark key="]" line="652" column="52" />
-        <mark key="." line="652" column="52" />
-        <mark key="^" line="1098" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1563767746540">
+        <mark key="[" line="684" column="33" />
+        <mark key="]" line="684" column="33" />
+        <mark key="." line="684" column="33" />
+        <mark key="^" line="1106" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user-client/README.md" timestamp="1561550449398">
         <mark key="[" line="0" column="4" />
@@ -1005,7 +1005,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>BaseUtil.removeSensitiveNumber(</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1038,7 +1038,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>BaseUtil.removeSensitiveNumber(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
