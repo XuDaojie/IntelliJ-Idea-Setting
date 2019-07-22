@@ -246,11 +246,11 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/ShopAddressController.java" timestamp="1560861761107">
         <mark key="[" line="34" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/service/impl/ArticleSearchServiceImpl.java" timestamp="1563782647191">
-        <mark key="[" line="130" column="22" />
-        <mark key="]" line="130" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/service/impl/ArticleSearchServiceImpl.java" timestamp="1563785620011">
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="88" column="12" />
         <mark key="^" line="587" column="25" />
-        <mark key="." line="130" column="22" />
+        <mark key="." line="88" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/data/repository/OrderRepository.java" timestamp="1560828857780">
         <mark key="[" line="21" column="0" />
@@ -513,6 +513,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/entity/BaiduReverseGeocodingResp.java" timestamp="1563361005942">
         <mark key="[" line="2" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/utils/MessageHelper.java" timestamp="1563784686870">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAbilityServiceImpl.java" timestamp="1562670108054">
         <mark key="[" line="251" column="57" />
       </file>
@@ -521,7 +526,7 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1563782860497">
+      <file name="/fragment.java" timestamp="1563785398378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -549,10 +554,6 @@
         <mark key="]" line="132" column="24" />
         <mark key="^" line="108" column="0" />
         <mark key="." line="132" column="24" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1563723398325">
-        <mark key="[" line="126" column="63" />
-        <mark key="]" line="113" column="48" />
       </file>
       <file name="/RedisUtil.java" timestamp="1562771022964">
         <mark key="[" line="31" column="35" />
@@ -1015,7 +1016,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>MessageSource</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1048,7 +1049,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>MessageSource</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
