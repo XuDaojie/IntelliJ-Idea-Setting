@@ -119,7 +119,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user-client/src/main/java/com/ald/news/user/client/UserClient.java" timestamp="1562139453040">
         <mark key="[" line="85" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NewsArticleRepository.java" timestamp="1563788736895" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/data/NewsArticleRepository.java" timestamp="1563793793414">
+        <mark key="[" line="202" column="19" />
+        <mark key="]" line="202" column="19" />
+        <mark key="." line="202" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/news-core/src/main/java/com/ald/news/core/config/aop/RequestParamAsp.java" timestamp="1560501068788">
         <mark key="[" line="22" column="24" />
       </file>
@@ -226,11 +230,11 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/i18n/message_zh.properties" timestamp="1563782610166">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/NewsArticleController.java" timestamp="1563764917619">
-        <mark key="[" line="149" column="11" />
-        <mark key="]" line="149" column="10" />
-        <mark key="^" line="149" column="10" />
-        <mark key="." line="149" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/controller/api/NewsArticleController.java" timestamp="1563794121646">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="160" column="10" />
+        <mark key="^" line="160" column="10" />
+        <mark key="." line="160" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/domain/src/main/java/com/ald/news/domain/user/UserDo.java" timestamp="1563271388557">
         <mark key="[" line="271" column="32" />
@@ -469,7 +473,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1561529274004">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563782753891">
+      <file name="/Dummy.txt" timestamp="1563793957269">
         <mark key="a" line="0" column="0" />
         <mark key="x" line="0" column="2" />
         <mark key="[" line="0" column="0" />
@@ -531,7 +535,7 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1563792182577">
+      <file name="/fragment.java" timestamp="1563793957261">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -722,6 +726,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway2/src/main/resources/application-local.yml" timestamp="1559543801699">
         <mark key="[" line="50" column="26" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/article/NewsArticleBo.java" timestamp="1563793635882" />
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/PayCallBackController.java" timestamp="1561119831551">
         <mark key="[" line="48" column="16" />
       </file>
@@ -1021,7 +1026,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rangeQueryBuilder</text>
+        <text>p</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1054,7 +1059,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rangeQueryBuilder</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
