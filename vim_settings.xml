@@ -229,6 +229,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/resources/i18n/message_zh.properties" timestamp="1563782610166">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserAttentionController.java" timestamp="1564048469626" />
       <file name="$USER_HOME$/IdeaProjects/news/news-search/src/main/java/com/ald/news/search/data/SearchDataRepository.java" timestamp="1563806437628">
         <mark key="[" line="84" column="13" />
       </file>
@@ -466,7 +467,7 @@
         <mark key="." line="89" column="53" />
         <mark key="^" line="89" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564041721261">
+      <file name="/Dummy.txt" timestamp="1564049768132">
         <mark key="a" line="0" column="0" />
         <mark key="x" line="0" column="2" />
         <mark key="[" line="0" column="0" />
@@ -515,11 +516,11 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/forum/controller/api/package-info.java" timestamp="1560137830553">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserAttentionServiceImpl.java" timestamp="1564022975346">
-        <mark key="[" line="414" column="74" />
-        <mark key="]" line="439" column="58" />
-        <mark key="^" line="439" column="58" />
-        <mark key="." line="439" column="58" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserAttentionServiceImpl.java" timestamp="1564049623722">
+        <mark key="[" line="417" column="69" />
+        <mark key="]" line="417" column="69" />
+        <mark key="^" line="415" column="67" />
+        <mark key="." line="417" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/client/entity/BaiduReverseGeocodingResp.java" timestamp="1563361005942">
         <mark key="[" line="2" column="38" />
@@ -1061,8 +1062,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isBlank</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1095,7 +1096,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>isBlank</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
