@@ -142,7 +142,9 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/bootstrap-i18n_en.yml" timestamp="1562656653250">
         <mark key="[" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/data/NewsUserRepository.java" timestamp="1564133578992" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/data/NewsUserRepository.java" timestamp="1564170801343">
+        <mark key="[" line="173" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/base/BaseMapper.java" timestamp="1560412493959">
         <mark key="[" line="11" column="65" />
       </file>
@@ -293,6 +295,12 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/package-info.java" timestamp="1560154184026">
         <mark key="[" line="3" column="44" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/application-local.properties" timestamp="1564169706274">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="97" column="31" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/build.gradle" timestamp="1560830220813">
         <mark key="[" line="19" column="0" />
       </file>
@@ -416,7 +424,7 @@
         <mark key="." line="89" column="53" />
         <mark key="^" line="89" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564166190882">
+      <file name="/Dummy.txt" timestamp="1564170299753">
         <mark key="a" line="0" column="0" />
         <mark key="x" line="0" column="2" />
         <mark key="[" line="0" column="0" />
@@ -484,7 +492,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAbilityServiceImpl.java" timestamp="1564134304009">
         <mark key="[" line="327" column="72" />
       </file>
-      <file name="/fragment.java" timestamp="1564166190875">
+      <file name="/fragment.java" timestamp="1564170147711">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -771,7 +779,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/core/src/main/java/com/ald/news/twoshop/core/base/BaseRepository.java" timestamp="1560307200779">
         <mark key="[" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerUser2Controller.java" timestamp="1564133873466" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerUser2Controller.java" timestamp="1564169372145" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-search-test.properties" timestamp="1564144648376">
         <mark key="[" line="3" column="38" />
       </file>
@@ -984,7 +992,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>obj</text>
+        <text>info</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1017,7 +1025,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>obj</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
