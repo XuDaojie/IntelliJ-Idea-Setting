@@ -502,8 +502,10 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAbilityServiceImpl.java" timestamp="1564134304009">
         <mark key="[" line="327" column="72" />
       </file>
-      <file name="/fragment.java" timestamp="1564152832803">
+      <file name="/fragment.java" timestamp="1564157357956">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/data/repository/AuctionRepository.java" timestamp="1560255197663">
         <mark key="[" line="18" column="28" />
@@ -578,9 +580,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/controller/api/TestConrtroller.java" timestamp="1560153106443">
         <mark key="[" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/resource/resource/src/main/java/com/ald/news/resource/controller/api/FileController.java" timestamp="1561713154267">
-        <mark key="[" line="53" column="11" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/resource/resource/src/main/java/com/ald/news/resource/controller/api/FileController.java" timestamp="1564157546856" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/App.java" timestamp="1562246968986">
         <mark key="[" line="8" column="41" />
       </file>
@@ -726,6 +726,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/domain/entity/Order.java" timestamp="1561426985312">
         <mark key="[" line="15" column="39" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/resource/resource/src/main/java/com/ald/news/resource/config/MultipartResolverOverrideV2.java" timestamp="1564157353719" />
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/twoshop/controller/inner/InnerCategoryController.java" timestamp="1561105024014">
         <mark key="[" line="31" column="2" />
       </file>
@@ -1028,7 +1029,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>obj</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1061,7 +1062,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>obj</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
