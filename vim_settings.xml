@@ -34,7 +34,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/spy.properties" timestamp="1561184921590">
         <mark key="[" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/consts/UserConst.java" timestamp="1564487030607" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/consts/UserConst.java" timestamp="1564494328715" />
       <file name="$USER_HOME$/IdeaProjects/2shop/rest-client.http" timestamp="1560151894332">
         <mark key="[" line="12" column="2" />
       </file>
@@ -263,6 +263,9 @@
       <file name="$USER_HOME$/IdeaProjects/news-cloud/.java-version" timestamp="1560830413095">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/i18n/messages_zh.properties" timestamp="1564494635212">
+        <mark key="[" line="14" column="27" />
+      </file>
       <file name="$USER_HOME$/Downloads/demo 3/src/main/resources/message.properties" timestamp="1562651825825">
         <mark key="[" line="0" column="0" />
       </file>
@@ -429,8 +432,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1564162234480">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564493125688">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1564494645739">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/utils/QueryRequestUtils.java" timestamp="1560409114252">
         <mark key="[" line="14" column="3" />
@@ -721,7 +726,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/ComSubjectServiceImpl.java" timestamp="1563967530860">
         <mark key="[" line="287" column="76" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1564492408247">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1564494391526">
         <mark key="e" line="489" column="25" />
         <mark key="[" line="1196" column="47" />
         <mark key="]" line="1196" column="47" />
@@ -839,6 +844,9 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/core/base/Response.java" timestamp="1560426013586">
         <mark key="[" line="94" column="30" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/i18n/messages_in.properties" timestamp="1564494978169">
+        <mark key="[" line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-cloud/microservices/src/main/java/com/ald/cloud/microservices/MicroServices.java" timestamp="1559634999996">
         <mark key="[" line="19" column="25" />
       </file>
@@ -895,7 +903,7 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/commons/commons-data-redis/src/main/resources/redis/lock.lua" timestamp="1560493120738">
         <mark key="[" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1564388306277">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/UserController.java" timestamp="1564494935354">
         <mark key="[" line="273" column="39" />
         <mark key="]" line="273" column="39" />
         <mark key="." line="273" column="39" />
@@ -1032,7 +1040,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>msg.user.avatar.rewords</text>
+        <text>修改用户信息国际化</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1065,7 +1073,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>msg.user.avatar.rewords</text>
+        <text>修改用户信息国际化</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
