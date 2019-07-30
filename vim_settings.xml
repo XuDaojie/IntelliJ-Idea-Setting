@@ -340,8 +340,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/api/edushi/EdushiSyncController.java" timestamp="1564388711438">
         <mark key="[" line="50" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-test.yml" timestamp="1564480830849">
-        <mark key="[" line="25" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/config/src/main/resources/application-test.yml" timestamp="1564482414676">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ald/news/core/news-core/0.0.1-SNAPSHOT/news-core-0.0.1-SNAPSHOT-sources.jar!/com/ald/news/core/base/BaseRepository.java" timestamp="1560700082118">
         <mark key="[" line="193" column="63" />
@@ -417,7 +419,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1564162234480">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564480641465">
+      <file name="/Dummy.txt" timestamp="1564482599756">
         <mark key="a" line="0" column="0" />
         <mark key="x" line="0" column="2" />
         <mark key="[" line="0" column="0" />
@@ -1007,7 +1009,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>不能关注自己</text>
+        <text>tmp</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1040,7 +1042,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>不能关注自己</text>
+        <text>tmp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
