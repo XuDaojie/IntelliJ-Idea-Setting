@@ -194,6 +194,9 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/core/aop/ClientAspect.java" timestamp="1561368675049">
         <mark key="[" line="51" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/resources/bootstrap-i18n_zh.properties" timestamp="1564495849310">
+        <mark key="[" line="8" column="22" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/config-repository/news-user-dev.properties" timestamp="1564144601020">
         <mark key="[" line="2" column="53" />
       </file>
@@ -389,6 +392,12 @@
       <file name="$USER_HOME$/Downloads/demo 3/src/main/resources/application.properties" timestamp="1562651654148">
         <mark key="[" line="1" column="71" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/util/RedisUtil.java" timestamp="1564495859590">
+        <mark key="[" line="75" column="48" />
+        <mark key="]" line="75" column="48" />
+        <mark key="^" line="39" column="7" />
+        <mark key="." line="75" column="48" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/config/JacksonRedisConfiguration.java" timestamp="1562228175289">
         <mark key="[" line="1" column="0" />
       </file>
@@ -432,8 +441,8 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1564162234480">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564494645739">
-        <mark key="[" line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1564495889092">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
@@ -1040,7 +1049,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>修改用户信息国际化</text>
+        <text>getProperty</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1073,7 +1082,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>修改用户信息国际化</text>
+        <text>getProperty</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
