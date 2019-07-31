@@ -162,6 +162,9 @@
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/http/FeignClientConfiguration.java" timestamp="1560235254277">
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/application.yml" timestamp="1564542956468">
+        <mark key="[" line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/settings.gradle" timestamp="1560418199829">
         <mark key="[" line="12" column="36" />
       </file>
@@ -204,6 +207,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/news-manage/src/main/resources/mapper/LotteryAwardRecordHolidayMapper.xml" timestamp="1560864358795">
         <mark key="[" line="12" column="21" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.27/a10612f0af27c7bfcc4e8d88393adad1fc5b4ece/tomcat-embed-core-8.5.27.jar!/javax/servlet/ServletContext.class" timestamp="1564542788692" />
       <file name="$USER_HOME$/IdeaProjects/config-repository/api-gateway-pre.yml" timestamp="1560841814300">
         <mark key="[" line="270" column="6" />
       </file>
@@ -248,6 +252,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ald/news/core/news-core/0.2.0-SNAPSHOT/news-core-0.2.0-SNAPSHOT-sources.jar!/com/ald/news/core/Page.java" timestamp="1560850247736">
         <mark key="[" line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/bootstrap-pre.yml" timestamp="1564543342062">
+        <mark key="[" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAuctionServiceImpl.java" timestamp="1563763407817">
         <mark key="[" line="138" column="0" />
@@ -437,7 +444,7 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1564162234480">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564498762288">
+      <file name="/Dummy.txt" timestamp="1564543504591">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -516,6 +523,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/http/FeignInterceptor.java" timestamp="1561365857527">
         <mark key="[" line="16" column="79" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/bootstrap-pro.yml" timestamp="1564543346811">
+        <mark key="[" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/.gitignore" timestamp="1560761760505">
         <mark key="[" line="195" column="68" />
@@ -625,6 +635,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ald.news.client/news-forum/0.0.1-SNAPSHOT/15821dc728ba737cfa9926d0cce9cb4a2c43de5c/news-forum-0.0.1-SNAPSHOT-sources.jar!/com/ald/news/client/forum/ArticleClient.java" timestamp="1563433789878">
         <mark key="[" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/consts/EdushiConst.java" timestamp="1564542711950">
+        <mark key="[" line="16" column="51" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/2shop/.java-version" timestamp="1560144797050">
         <mark key="[" line="1" column="0" />
       </file>
@@ -721,12 +734,15 @@
       <file name="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/ComSubjectServiceImpl.java" timestamp="1563967530860">
         <mark key="[" line="287" column="76" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1564497419098">
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" timestamp="1564543740271">
         <mark key="e" line="489" column="25" />
-        <mark key="[" line="690" column="17" />
-        <mark key="]" line="690" column="16" />
-        <mark key="." line="690" column="16" />
+        <mark key="[" line="1084" column="31" />
+        <mark key="]" line="1084" column="31" />
+        <mark key="." line="1084" column="31" />
         <mark key="^" line="690" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/resources/bootstrap-pro-idn.yml" timestamp="1564544064170">
+        <mark key="[" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news/news-user-client/README.md" timestamp="1561550449398">
         <mark key="[" line="0" column="4" />
@@ -910,8 +926,10 @@
       <file name="$USER_HOME$/IdeaProjects/news-boot/build.gradle" timestamp="1562346394789">
         <mark key="[" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/UserApplication.java" timestamp="1561559679508">
-        <mark key="[" line="50" column="44" />
+      <file name="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/UserApplication.java" timestamp="1564542870629">
+        <mark key="[" line="21" column="52" />
+        <mark key="]" line="21" column="52" />
+        <mark key="." line="21" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/news-boot/spring-boot-sample/src/main/java/com/ald/news/sample/core/client/TestClient2.java" timestamp="1561372466089">
         <mark key="[" line="10" column="16" />
@@ -1030,7 +1048,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>locale</text>
+        <text>isEmpty</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1063,7 +1081,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>locale</text>
+        <text>isEmpty</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
