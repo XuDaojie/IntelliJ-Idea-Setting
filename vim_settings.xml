@@ -442,10 +442,10 @@
       <file name="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/Constants.java" timestamp="1564162234480">
         <mark key="[" line="1072" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564643096115">
+      <file name="/Dummy.txt" timestamp="1564724247269">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/utils/QueryRequestUtils.java" timestamp="1560409114252">
         <mark key="[" line="14" column="3" />
@@ -514,7 +514,7 @@
       <file name="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/service/impl/ShopAbilityServiceImpl.java" timestamp="1564134304009">
         <mark key="[" line="327" column="72" />
       </file>
-      <file name="/fragment.java" timestamp="1564559335872">
+      <file name="/fragment.java" timestamp="1564724245228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="52" />
         <mark key="." line="0" column="52" />
@@ -1073,8 +1073,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ25ldC5zZi5qc29uLWxpYjpqc29uLWxpYjoyLjQ6amRrMTUnCiAgICBjb21waWxlIGdyb3VwOiAnb3JnLmpkb20nLCBuYW1lOiAnamRvbScsIHZlcnNpb246ICcxLjEuMycKICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuZnJlZW1hcmtlcicsIG5hbWU6ICdmcmVlbWFya2VyJywgdmVyc2lvbjogJzIuMy4yOCcK</text>
+      <register name="&quot;" type="4">
+        <text>local</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1107,7 +1107,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2shop</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0d29zaG9wXD4=</text>
