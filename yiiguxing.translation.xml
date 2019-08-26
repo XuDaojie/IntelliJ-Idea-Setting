@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Is the eventObject passed as parameter discardable? The base class's implementation of this method always returns * 'false' but sub-classes may (and do) override this method. * &lt;p&gt; * Note that only if the buffer is nearly full are events discarded. Otherwise, when the buffer is &quot;not full&quot; * all events are logged. * * @param eventObject * @return - true if the event can be discarded, false otherwise" />
       <item value="* Creates an Executor that uses a single worker thread operating * off an unbounded queue. (Note however that if this single * thread terminates due to a failure during execution prior to * shutdown, a new one will take its place if needed to execute * subsequent tasks.) Tasks are guaranteed to execute * sequentially, and no more than one task will be active at any * given time. Unlike the otherwise equivalent * {@code newFixedThreadPool(1)} the returned executor is * guaranteed not to be reconfigurable to use additional threads. * * @return the newly created single-threaded Executor" />
       <item value="* Encapsulates information about a handler method consisting of a * {@linkplain #getMethod() method} and a {@linkplain #getBean() bean}. * Provides convenient access to method parameters, the method return value, * method annotations, etc. * * &lt;p&gt;The class may be created with a bean instance or with a bean name * (e.g. lazy-init bean, prototype bean). Use {@link #createWithResolvedBean()} * to obtain a {@code HandlerMethod} instance with a bean instance resolved * through the associated {@link BeanFactory}." />
       <item value="Common infrastructure for handler method processing, as used by * Spring MVC's {@code org.springframework.web.servlet.mvc.method} package." />
@@ -26,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="21" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
