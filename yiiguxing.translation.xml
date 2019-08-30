@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Appends the suffix to the end of the string if the string does not * already end with the suffix." />
       <item value="Requested bean is currently in creation: Is there an unresolvable circular reference?" />
       <item value="/** * Helper class that simplifies Redis data access code. * &lt;p/&gt; * Performs automatic serialization/deserialization between the given objects and the underlying binary data in the * Redis store. By default, it uses Java serialization for its objects (through {@link JdkSerializationRedisSerializer} * ). For String intensive operations consider the dedicated {@link StringRedisTemplate}. * &lt;p/&gt; * The central method is execute, supporting Redis access code implementing the {@link RedisCallback} interface. It * provides {@link RedisConnection} handling such that neither the {@link RedisCallback} implementation nor the calling * code needs to explicitly care about retrieving/closing Redis connections, or handling Connection lifecycle * exceptions. For typical single step actions, there are various convenience methods. * &lt;p/&gt; * Once configured, this class is thread-safe. * &lt;p/&gt; * Note that while the template is generified, it is up to the serializers/deserializers to properly convert the given * Objects to and from binary data. * &lt;p/&gt; * &lt;b&gt;This is the central class in Redis support&lt;/b&gt;" />
       <item value="* Is the eventObject passed as parameter discardable? The base class's implementation of this method always returns * 'false' but sub-classes may (and do) override this method. * &lt;p&gt; * Note that only if the buffer is nearly full are events discarded. Otherwise, when the buffer is &quot;not full&quot; * all events are logged. * * @param eventObject * @return - true if the event can be discarded, false otherwise" />
@@ -29,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="24" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
