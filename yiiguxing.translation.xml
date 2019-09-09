@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the same hash code for the given object as * would be returned by the default method hashCode(), * whether or not the given object's class overrides * hashCode(). * The hash code for the null reference is zero." />
       <item value="* Return a log message prefix to use to correlate messages for this exchange. * The prefix is based on the value of the attribute {@link #LOG_ID_ATTRIBUTE} * along with some extra formatting so that the prefix can be conveniently * prepended with no further formatting no separators required. * @return the log message prefix or an empty String if the * {@link #LOG_ID_ATTRIBUTE} is not set. * @since 5.1" />
       <item value="Return an id that represents the underlying connection, if available, * or the request for the purpose of correlating log messages." />
       <item value="// the cached ServerHttpRequest is used when the ServerWebExchange can not be // mutated, for example, during a predicate where the body is read, but still // needs to be cached." />
@@ -26,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
