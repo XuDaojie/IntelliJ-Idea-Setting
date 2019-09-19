@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Annotation for interfaces declaring that a REST client with that interface should be * created (e.g. for autowiring into another component). If ribbon is available it will be * used to load balance the backend requests, and the load balancer can be configured * using a &lt;code&gt;@RibbonClient&lt;/code&gt; with the same name (i.e. value) as the feign client." />
       <item value="A builder for creating Feign clients without using the {@link FeignClient} annotation. * &lt;p&gt; * This builder builds the Feign client exactly like it would be created by using the * {@link FeignClient} annotation." />
       <item value="A builder for creating Feign clients without using the" />
       <item value="// see corresponding configurations in FeignRibbonClientAutoConfiguration // for load balanced ribbon clients." />
@@ -38,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="30" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
