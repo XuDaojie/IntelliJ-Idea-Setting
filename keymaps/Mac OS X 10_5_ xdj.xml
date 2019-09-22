@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ xdj" parent="Mac OS X 10.5+">
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
