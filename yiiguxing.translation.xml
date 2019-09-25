@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parse" />
+      <item value="Detect any custom bean name generation strategy supplied through the enclosing application context" />
+      <item value="Sort by previously determined @Order value, if applicable" />
       <item value="Parses" />
       <item value="* The auto-configure classes that should have not yet been applied." />
       <item value="* Hint for that an {@link EnableAutoConfiguration auto-configuration} should be applied * after other specified auto-configuration classes." />
@@ -45,8 +48,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="39" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
