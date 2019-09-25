@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parses" />
       <item value="* The auto-configure classes that should have not yet been applied." />
       <item value="* Hint for that an {@link EnableAutoConfiguration auto-configuration} should be applied * after other specified auto-configuration classes." />
       <item value="* Auto-configuration classes are regular Spring {@link Configuration} beans. They are * located using the {@link SpringFactoriesLoader} mechanism (keyed against this class). * Generally auto-configuration beans are {@link Conditional @Conditional} beans (most * often using {@link ConditionalOnClass @ConditionalOnClass} and * {@link ConditionalOnMissingBean @ConditionalOnMissingBean} annotations)." />
@@ -44,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="36" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
