@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pageTotal" />
+      <item value="pagetotal" />
+      <item value="total" />
       <item value="hikari" />
       <item value="Mark one as primary or declare a specific CacheManager to use." />
       <item value="specified" />
@@ -48,13 +51,10 @@
       <item value="the domain name of a service, through which the server address can be dynamically * obtained." />
       <item value="problem" />
       <item value="individually filter routes so that filterWhen error delaying is not a" />
-      <item value="{@link RouteLocator} that loads routes from a {@link RouteDefinitionLocator}." />
-      <item value="qq" />
-      <item value="omitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
+        <entry key="CHINESE" value="47" />
         <entry key="ENGLISH" value="44" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
