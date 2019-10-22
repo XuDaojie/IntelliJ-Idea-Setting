@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="h the invocation handler to dispatch method invocations to" />
+      <item value="the list of interfaces for the proxy class * to implement" />
+      <item value="the class loader to define the proxy class" />
       <item value="Spring's repackaging of * &lt;a href=&quot;https://github.com/cglib/cglib&quot;&gt;CGLIB 3.3&lt;/a&gt; * (with Spring-specific patches; for internal use only). * * &lt;p&gt;This repackaging technique avoids any potential conflicts with * dependencies on CGLIB at the application level or from third-party * libraries and frameworks. * * &lt;p&gt;As this repackaging happens at the class file level, sources * and javadocs are not available here." />
       <item value="* A visitor to visit a Java annotation. The methods of this class must be called in the following * order: ( {@code visit} | {@code visitEnum} | {@code visitAnnotation} | {@code visitArray} )* * {@code visitEnd}. * * @author Eric Bruneton * @author Eugene Kuleshov" />
       <item value="Empty class used to ensure that the {@code org.springframework.cglib} * package is processed during javadoc generation. * * &lt;p&gt;See &lt;a href=&quot;package-summary.html&quot;&gt;package-level javadocs&lt;/a&gt; for more * information on {@code org.springframework.cglib}. * * @author Chris Beams * @since 3.2" />
@@ -48,14 +51,11 @@
       <item value="Declarative" />
       <item value="Returns the same hash code for the given object as * would be returned by the default method hashCode(), * whether or not the given object's class overrides * hashCode(). * The hash code for the null reference is zero." />
       <item value="* Return a log message prefix to use to correlate messages for this exchange. * The prefix is based on the value of the attribute {@link #LOG_ID_ATTRIBUTE} * along with some extra formatting so that the prefix can be conveniently * prepended with no further formatting no separators required. * @return the log message prefix or an empty String if the * {@link #LOG_ID_ATTRIBUTE} is not set. * @since 5.1" />
-      <item value="Return an id that represents the underlying connection, if available, * or the request for the purpose of correlating log messages." />
-      <item value="// the cached ServerHttpRequest is used when the ServerWebExchange can not be // mutated, for example, during a predicate where the body is read, but still // needs to be cached." />
-      <item value="* An InputStreamReader is a bridge from byte streams to character streams: It * reads bytes and decodes them into characters using a specified {@link * java.nio.charset.Charset charset}. The charset that it uses * may be specified by name or may be given explicitly, or the platform's * default charset may be accepted." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
