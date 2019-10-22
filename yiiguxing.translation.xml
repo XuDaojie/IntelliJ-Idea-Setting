@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="As mentioned above, transform cglib's internal asm dependencies from // org.objectweb.asm =&gt; org.springframework.asm. Doing this counts on the // the fact that Spring and cglib depend on the same version of asm!" />
       <item value="When prompted exclude the spring-aspects module (or after the import via File-&gt; Project Structure -&gt; Modules)" />
       <item value="// log4j-to-slf4j bridge -&gt; we'll rather go with the SLF4J SPI; // however, we still prefer Log4j over the plain SLF4J API since // the latter does not have location awareness support." />
       <item value="Present" />
@@ -50,7 +51,6 @@
       <item value="Here are some more examples of how strings can be used:" />
       <item value="Determine if a JCache provider is available. This either kicks in if a default * {@link CachingProvider} has been found or if the property referring to the provider * to use has been set." />
       <item value="* {@link CacheManager} implementation that lazily builds {@link ConcurrentMapCache} * instances for each {@link #getCache} request. Also supports a 'static' mode where * the set of cache names is pre-defined through {@link #setCacheNames}, with no * dynamic creation of further cache regions at runtime. * * &lt;p&gt;Note: This is by no means a sophisticated CacheManager; it comes with no * cache configuration options. However, it may be useful for testing or simple * caching scenarios. For advanced local caching needs, consider" />
-      <item value="implementation" />
     </histories>
     <option name="languageScores">
       <map>
