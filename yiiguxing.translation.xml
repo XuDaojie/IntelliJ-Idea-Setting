@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="When prompted exclude the spring-aspects module (or after the import via File-&gt; Project Structure -&gt; Modules)" />
       <item value="// log4j-to-slf4j bridge -&gt; we'll rather go with the SLF4J SPI; // however, we still prefer Log4j over the plain SLF4J API since // the latter does not have location awareness support." />
       <item value="Present" />
       <item value="* Spring's variant of the * &lt;a href=&quot;https://commons.apache.org/logging&quot;&gt;Commons Logging API&lt;/a&gt;: * with special support for Log4J 2, SLF4J and {@code java.util.logging}. * * &lt;p&gt;This is a custom bridge along the lines of {@code jcl-over-slf4j}. * You may exclude {@code spring-jcl} and switch to {@code jcl-over-slf4j} * instead if you prefer the hard-bound SLF4J bridge. However, Spring's own * bridge provides a better out-of-the-box experience when using Log4J 2 * or {@code java.util.logging}, with no extra bridge jars necessary, and * also easier setup of SLF4J with Logback (no JCL exclude, no JCL bridge). * * &lt;p&gt;{@link org.apache.commons.logging.Log} is equivalent to the original. * However, {@link org.apache.commons.logging.LogFactory} is a very different * implementation which is minimized and optimized for Spring's purposes, * detecting Log4J 2.x and SLF4J 1.7 in the framework classpath and falling * back to {@code java.util.logging}. If you run into any issues with this * implementation, consider excluding {@code spring-jcl} and switching to the * standard {@code commons-logging} artifact or to {@code jcl-over-slf4j}. * * &lt;p&gt;Note that this Commons Logging bridge is only meant to be used for * framework logging purposes, both in the core framework and in extensions. * For applications, prefer direct use of Log4J/SLF4J or {@code java.util.logging}." />
@@ -50,7 +51,6 @@
       <item value="Determine if a JCache provider is available. This either kicks in if a default * {@link CachingProvider} has been found or if the property referring to the provider * to use has been set." />
       <item value="* {@link CacheManager} implementation that lazily builds {@link ConcurrentMapCache} * instances for each {@link #getCache} request. Also supports a 'static' mode where * the set of cache names is pre-defined through {@link #setCacheNames}, with no * dynamic creation of further cache regions at runtime. * * &lt;p&gt;Note: This is by no means a sophisticated CacheManager; it comes with no * cache configuration options. However, it may be useful for testing or simple * caching scenarios. For advanced local caching needs, consider" />
       <item value="implementation" />
-      <item value="Constructs a new {@code CacheBuilder} instance with the settings specified in {@code spec}." />
     </histories>
     <option name="languageScores">
       <map>
