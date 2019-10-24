@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Build message codes for the given error code and object name. * Used for building the codes list of an ObjectError. * @param errorCode the error code used for rejecting the object * @param objectName the name of the object * @return the message codes to use" />
       <item value="fluent" />
       <item value="Fluent" />
       <item value="h the invocation handler to dispatch method invocations to" />
@@ -50,12 +51,11 @@
       <item value="Heartbeat" />
       <item value="Supplier" />
       <item value="Declarative" />
-      <item value="Returns the same hash code for the given object as * would be returned by the default method hashCode(), * whether or not the given object's class overrides * hashCode(). * The hash code for the null reference is zero." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
