@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fluent" />
+      <item value="Fluent" />
       <item value="h the invocation handler to dispatch method invocations to" />
       <item value="the list of interfaces for the proxy class * to implement" />
       <item value="the class loader to define the proxy class" />
@@ -17,7 +19,6 @@
       <item value="Present" />
       <item value="* Spring's variant of the * &lt;a href=&quot;https://commons.apache.org/logging&quot;&gt;Commons Logging API&lt;/a&gt;: * with special support for Log4J 2, SLF4J and {@code java.util.logging}. * * &lt;p&gt;This is a custom bridge along the lines of {@code jcl-over-slf4j}. * You may exclude {@code spring-jcl} and switch to {@code jcl-over-slf4j} * instead if you prefer the hard-bound SLF4J bridge. However, Spring's own * bridge provides a better out-of-the-box experience when using Log4J 2 * or {@code java.util.logging}, with no extra bridge jars necessary, and * also easier setup of SLF4J with Logback (no JCL exclude, no JCL bridge). * * &lt;p&gt;{@link org.apache.commons.logging.Log} is equivalent to the original. * However, {@link org.apache.commons.logging.LogFactory} is a very different * implementation which is minimized and optimized for Spring's purposes, * detecting Log4J 2.x and SLF4J 1.7 in the framework classpath and falling * back to {@code java.util.logging}. If you run into any issues with this * implementation, consider excluding {@code spring-jcl} and switching to the * standard {@code commons-logging} artifact or to {@code jcl-over-slf4j}. * * &lt;p&gt;Note that this Commons Logging bridge is only meant to be used for * framework logging purposes, both in the core framework and in extensions. * For applications, prefer direct use of Log4J/SLF4J or {@code java.util.logging}." />
       <item value="Low level support for Cloud deployments." />
-      <item value="Fluent" />
       <item value="lower bound" />
       <item value="pageTotal" />
       <item value="pagetotal" />
@@ -50,11 +51,10 @@
       <item value="Supplier" />
       <item value="Declarative" />
       <item value="Returns the same hash code for the given object as * would be returned by the default method hashCode(), * whether or not the given object's class overrides * hashCode(). * The hash code for the null reference is zero." />
-      <item value="* Return a log message prefix to use to correlate messages for this exchange. * The prefix is based on the value of the attribute {@link #LOG_ID_ATTRIBUTE} * along with some extra formatting so that the prefix can be conveniently * prepended with no further formatting no separators required. * @return the log message prefix or an empty String if the * {@link #LOG_ID_ATTRIBUTE} is not set. * @since 5.1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
+        <entry key="CHINESE" value="58" />
         <entry key="ENGLISH" value="58" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
