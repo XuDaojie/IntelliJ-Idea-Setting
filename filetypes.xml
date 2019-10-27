@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern="filtershow_state_button_background" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".java-version" type="PLAIN_TEXT" />
       <mapping pattern="gesture_ambient_lift" type="PLAIN_TEXT" />
       <mapping pattern=".springformat" type="PLAIN_TEXT" />
