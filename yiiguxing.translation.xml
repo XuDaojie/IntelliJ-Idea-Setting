@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Remove unnecessary files after hexo generate." />
+      <item value="Enable sidebar on narrow view" />
+      <item value="Specify the date when the site was setup. If not defined, current year will be used." />
       <item value="transition" />
       <item value="# If false, merge configs from `_data/next.yml` into default configuration (rewrite).&#10;# If true, will fully override default configuration by options from `_data/next.yml` (override). Only for NexT settings.&#10;# And if true, all config from default NexT `_config.yml` must be copied into `next.yml`. Use if you know what you are doing.&#10;# Useful if you want to comment some options from NexT `_config.yml` by `next.yml` without editing default config." />
       <item value="* Build message codes for the given error code and object name. * Used for building the codes list of an ObjectError. * @param errorCode the error code used for rejecting the object * @param objectName the name of the object * @return the message codes to use" />
@@ -48,14 +51,11 @@
       <item value="the following configuration is for alternate feign clients if // ribbon is not on the class path." />
       <item value="* A custom &lt;code&gt;@Configuration&lt;/code&gt; for the feign client. Can contain override * &lt;code&gt;@Bean&lt;/code&gt; definition for the pieces that make up the client, for instance * {@link feign.codec.Decoder}, {@link feign.codec.Encoder}, {@link feign.Contract}. * * @see FeignClientsConfiguration for the defaults * @return list of configurations for feign client" />
       <item value="// the following configuration is for alternate feign clients if // ribbon is not on the class path. // see corresponding configurations in FeignRibbonClientAutoConfiguration // for load balanced ribbon clients." />
-      <item value="Selects configurations to load, defined by the generic type T. Loads implementations" />
-      <item value="Monitor" />
-      <item value="Heartbeat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
