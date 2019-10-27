@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If manual, trigger search by pressing enter key or search button." />
+      <item value="Preload the search data when the page loads." />
+      <item value="Unescape html strings to the readable one." />
+      <item value="better Performance" />
+      <item value="Show number of visitors to each article." />
       <item value="Remove unnecessary files after hexo generate." />
       <item value="Enable sidebar on narrow view" />
       <item value="Specify the date when the site was setup. If not defined, current year will be used." />
@@ -46,16 +51,11 @@
       <item value="unkown" />
       <item value="* Annotation for interfaces declaring that a REST client with that interface should be * created (e.g. for autowiring into another component). If ribbon is available it will be * used to load balance the backend requests, and the load balancer can be configured * using a &lt;code&gt;@RibbonClient&lt;/code&gt; with the same name (i.e. value) as the feign client." />
       <item value="A builder for creating Feign clients without using the {@link FeignClient} annotation. * &lt;p&gt; * This builder builds the Feign client exactly like it would be created by using the * {@link FeignClient} annotation." />
-      <item value="A builder for creating Feign clients without using the" />
-      <item value="// see corresponding configurations in FeignRibbonClientAutoConfiguration // for load balanced ribbon clients." />
-      <item value="the following configuration is for alternate feign clients if // ribbon is not on the class path." />
-      <item value="* A custom &lt;code&gt;@Configuration&lt;/code&gt; for the feign client. Can contain override * &lt;code&gt;@Bean&lt;/code&gt; definition for the pieces that make up the client, for instance * {@link feign.codec.Decoder}, {@link feign.codec.Encoder}, {@link feign.Contract}. * * @see FeignClientsConfiguration for the defaults * @return list of configurations for feign client" />
-      <item value="// the following configuration is for alternate feign clients if // ribbon is not on the class path. // see corresponding configurations in FeignRibbonClientAutoConfiguration // for load balanced ribbon clients." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
