@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="# If false, merge configs from `_data/next.yml` into default configuration (rewrite).&#10;# If true, will fully override default configuration by options from `_data/next.yml` (override). Only for NexT settings.&#10;# And if true, all config from default NexT `_config.yml` must be copied into `next.yml`. Use if you know what you are doing.&#10;# Useful if you want to comment some options from NexT `_config.yml` by `next.yml` without editing default config." />
       <item value="* Build message codes for the given error code and object name. * Used for building the codes list of an ObjectError. * @param errorCode the error code used for rejecting the object * @param objectName the name of the object * @return the message codes to use" />
       <item value="fluent" />
       <item value="Fluent" />
@@ -50,12 +51,11 @@
       <item value="Monitor" />
       <item value="Heartbeat" />
       <item value="Supplier" />
-      <item value="Declarative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
