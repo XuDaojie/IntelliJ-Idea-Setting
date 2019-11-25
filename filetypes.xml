@@ -11,6 +11,7 @@
       <mapping pattern=".springformat" type="PLAIN_TEXT" />
       <mapping ext="ftml" type="PLAIN_TEXT" />
       <mapping ext="peroperties" type="PLAIN_TEXT" />
+      <mapping ext="gradle-back" type="PLAIN_TEXT" />
       <mapping ext="eq" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
