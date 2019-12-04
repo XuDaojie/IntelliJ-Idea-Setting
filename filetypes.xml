@@ -1,19 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="gradlew" type="PLAIN_TEXT" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping pattern=".springformat" type="PLAIN_TEXT" />
-      <mapping pattern=".java-version" type="PLAIN_TEXT" />
       <mapping pattern="filtershow_state_button_background" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern="gradlew" type="PLAIN_TEXT" />
+      <mapping pattern=".java-version" type="PLAIN_TEXT" />
+      <mapping pattern=".springformat" type="PLAIN_TEXT" />
       <mapping pattern="gesture_ambient_lift" type="PLAIN_TEXT" />
       <mapping ext="ftml" type="PLAIN_TEXT" />
       <mapping ext="peroperties" type="PLAIN_TEXT" />
       <mapping ext="gradle-back" type="PLAIN_TEXT" />
       <mapping ext="eq" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
