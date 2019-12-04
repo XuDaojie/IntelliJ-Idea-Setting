@@ -1,15 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="ignore" type="Git exclude file" />
-      <mapping pattern="filtershow_state_button_background" type="PLAIN_TEXT" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
-      <mapping pattern=".java-version" type="PLAIN_TEXT" />
-      <mapping pattern="gesture_ambient_lift" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".springformat" type="PLAIN_TEXT" />
+      <mapping pattern=".java-version" type="PLAIN_TEXT" />
+      <mapping pattern="filtershow_state_button_background" type="PLAIN_TEXT" />
+      <mapping pattern="gesture_ambient_lift" type="PLAIN_TEXT" />
       <mapping ext="ftml" type="PLAIN_TEXT" />
       <mapping ext="peroperties" type="PLAIN_TEXT" />
       <mapping ext="gradle-back" type="PLAIN_TEXT" />
@@ -25,6 +22,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
 </application>
