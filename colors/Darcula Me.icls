@@ -1,5 +1,13 @@
 <scheme name="Darcula Me" version="142" parent_scheme="Darcula">
   <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="344134" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="LOGCAT_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff8785" />
@@ -12092,13 +12100,6 @@
         <option name="FOREGROUND" value="2b8ccc" />
         <option name="BACKGROUND" value="1f3a3a" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="40271e" />
-        <option name="ERROR_STRIPE_COLOR" value="b56277" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
