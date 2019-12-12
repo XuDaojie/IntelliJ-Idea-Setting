@@ -30,5 +30,6 @@
     <mask>*idn.*</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.pom</mask>
   </component>
 </application>
