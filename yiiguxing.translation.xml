@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Popular vote was to return null on 0 results and throw exception on too many." />
       <item value="Popular vote was to return null on 0 results and throw exception on too many." />
       <item value="* The primary Java interface for working with MyBatis. * Through this interface you can execute commands, get mappers and manage transactions." />
       <item value="The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping tools." />
@@ -50,12 +51,11 @@
       <item value="hikari" />
       <item value="Mark one as primary or declare a specific CacheManager to use." />
       <item value="specified" />
-      <item value="declare" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
