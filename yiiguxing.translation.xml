@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* An actual SQL String got from an {@link SqlSource} after having processed any dynamic content. * The SQL may have SQL placeholders &quot;?&quot; and an list (ordered) of an parameter mappings * with the additional information for each parameter (at least the property name of the input object to read * the value from). * &lt;p&gt; * Can also have additional parameters that are created by the dynamic language (for loops, bind...)." />
       <item value="statement" />
       <item value="DIRTY" />
       <item value="dirty" />
@@ -50,12 +51,11 @@
       <item value="lower bound" />
       <item value="pageTotal" />
       <item value="pagetotal" />
-      <item value="total" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
