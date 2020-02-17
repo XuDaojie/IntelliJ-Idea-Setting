@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statement" />
+      <item value="DIRTY" />
+      <item value="dirty" />
       <item value="// Popular vote was to return null on 0 results and throw exception on too many." />
       <item value="Popular vote was to return null on 0 results and throw exception on too many." />
       <item value="* The primary Java interface for working with MyBatis. * Through this interface you can execute commands, get mappers and manage transactions." />
@@ -48,14 +51,11 @@
       <item value="pageTotal" />
       <item value="pagetotal" />
       <item value="total" />
-      <item value="hikari" />
-      <item value="Mark one as primary or declare a specific CacheManager to use." />
-      <item value="specified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
