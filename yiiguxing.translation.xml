@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Creates a thread pool that reuses a fixed number of threads * operating off a shared unbounded queue. At any point, at most * {@code nThreads} threads will be active processing tasks. * If additional tasks are submitted when all threads are active, * they will wait in the queue until a thread is available. * If any thread terminates due to a failure during execution * prior to shutdown, a new one will take its place if needed to * execute subsequent tasks. The threads in the pool will exist * until it is explicitly {@link ExecutorService#shutdown shutdown}." />
+      <item value="Creates a thread pool that reuses a fixed number of threads * operating off a shared unbounded queue. At any point, at most * {@code nThreads} threads will be active processing tasks. * If additional tasks are submitted when all threads are active, * they will wait in the queue until a thread is available. * If any thread terminates due to a failure during execution * prior to shutdown, a new one will take its place if needed to * execute subsequent tasks. The threads in the pool will exist * until it is explicitly {@link ExecutorService#shutdown shutdown}." />
       <item value="HANDLE RESULT SETS" />
       <item value="* An actual SQL String got from an {@link SqlSource} after having processed any dynamic content. * The SQL may have SQL placeholders &quot;?&quot; and an list (ordered) of an parameter mappings * with the additional information for each parameter (at least the property name of the input object to read * the value from). * &lt;p&gt; * Can also have additional parameters that are created by the dynamic language (for loops, bind...)." />
       <item value="statement" />
@@ -49,13 +51,11 @@
       <item value="Present" />
       <item value="* Spring's variant of the * &lt;a href=&quot;https://commons.apache.org/logging&quot;&gt;Commons Logging API&lt;/a&gt;: * with special support for Log4J 2, SLF4J and {@code java.util.logging}. * * &lt;p&gt;This is a custom bridge along the lines of {@code jcl-over-slf4j}. * You may exclude {@code spring-jcl} and switch to {@code jcl-over-slf4j} * instead if you prefer the hard-bound SLF4J bridge. However, Spring's own * bridge provides a better out-of-the-box experience when using Log4J 2 * or {@code java.util.logging}, with no extra bridge jars necessary, and * also easier setup of SLF4J with Logback (no JCL exclude, no JCL bridge). * * &lt;p&gt;{@link org.apache.commons.logging.Log} is equivalent to the original. * However, {@link org.apache.commons.logging.LogFactory} is a very different * implementation which is minimized and optimized for Spring's purposes, * detecting Log4J 2.x and SLF4J 1.7 in the framework classpath and falling * back to {@code java.util.logging}. If you run into any issues with this * implementation, consider excluding {@code spring-jcl} and switching to the * standard {@code commons-logging} artifact or to {@code jcl-over-slf4j}. * * &lt;p&gt;Note that this Commons Logging bridge is only meant to be used for * framework logging purposes, both in the core framework and in extensions. * For applications, prefer direct use of Log4J/SLF4J or {@code java.util.logging}." />
       <item value="Low level support for Cloud deployments." />
-      <item value="lower bound" />
-      <item value="pageTotal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
