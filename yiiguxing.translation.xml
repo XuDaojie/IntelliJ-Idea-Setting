@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Abstract base class for reference objects. This class defines the * operations common to all reference objects. Because reference objects are * implemented in close cooperation with the garbage collector, this class may * not be subclassed directly." />
       <item value="* Factory method to create map of inherited thread locals. * Designed to be called only from Thread constructor. * * @param parentMap the map associated with parent thread * @return a map containing the parent's inheritable bindings" />
       <item value="* ThreadLocalMap is a customized hash map suitable only for * maintaining thread local values. No operations are exported * outside of the ThreadLocal class. The class is package private to * allow declaration of fields in class Thread. To help deal with * very large and long-lived usages, the hash table entries use * WeakReferences for keys. However, since reference queues are not * used, stale entries are guaranteed to be removed only when * the table starts running out of space." />
       <item value="The difference between successively generated hash codes - turns * implicit sequential thread-local IDs into near-optimally spread * multiplicative hash values for power-of-two-sized tables." />
@@ -50,12 +51,11 @@
       <item value="spring-core includes asm and repackages cglib, inlining both into the spring-core jar." />
       <item value="pantsbuild" />
       <item value="As mentioned above, transform cglib's internal asm dependencies from // org.objectweb.asm =&gt; org.springframework.asm. Doing this counts on the // the fact that Spring and cglib depend on the same version of asm!" />
-      <item value="When prompted exclude the spring-aspects module (or after the import via File-&gt; Project Structure -&gt; Modules)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
