@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* The next size value at which to resize." />
+      <item value="The next size value at which to resize." />
+      <item value="Set the resize threshold to maintain at worst a 2/3 load factor." />
       <item value="* ThreadLocals rely on per-thread linear-probe hash maps attached * to each thread (Thread.threadLocals and * inheritableThreadLocals). The ThreadLocal objects act as keys, * searched via threadLocalHashCode. This is a custom hash code * (useful only within ThreadLocalMaps) that eliminates collisions * in the common case where consecutively constructed ThreadLocals * are used by the same threads, while remaining well-behaved in * less common cases." />
       <item value="* The difference between successively generated hash codes - turns * implicit sequential thread-local IDs into near-optimally spread * multiplicative hash values for power-of-two-sized tables." />
       <item value="The initial capacity -- MUST be a power of two." />
@@ -48,14 +51,11 @@
       <item value="h the invocation handler to dispatch method invocations to" />
       <item value="the list of interfaces for the proxy class * to implement" />
       <item value="the class loader to define the proxy class" />
-      <item value="Spring's repackaging of * &lt;a href=&quot;https://github.com/cglib/cglib&quot;&gt;CGLIB 3.3&lt;/a&gt; * (with Spring-specific patches; for internal use only). * * &lt;p&gt;This repackaging technique avoids any potential conflicts with * dependencies on CGLIB at the application level or from third-party * libraries and frameworks. * * &lt;p&gt;As this repackaging happens at the class file level, sources * and javadocs are not available here." />
-      <item value="* A visitor to visit a Java annotation. The methods of this class must be called in the following * order: ( {@code visit} | {@code visitEnum} | {@code visitAnnotation} | {@code visitArray} )* * {@code visitEnd}. * * @author Eric Bruneton * @author Eugene Kuleshov" />
-      <item value="Empty class used to ensure that the {@code org.springframework.cglib} * package is processed during javadoc generation. * * &lt;p&gt;See &lt;a href=&quot;package-summary.html&quot;&gt;package-level javadocs&lt;/a&gt; for more * information on {@code org.springframework.cglib}. * * @author Chris Beams * @since 3.2" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
