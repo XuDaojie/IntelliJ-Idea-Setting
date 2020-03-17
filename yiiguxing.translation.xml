@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// We don't use a fast path as with get() because it is at // least as common to use set() to create new entries as // it is to replace existing ones, in which case, a fast // path would fail more often than not." />
       <item value="* The next size value at which to resize." />
       <item value="The next size value at which to resize." />
       <item value="Set the resize threshold to maintain at worst a 2/3 load factor." />
@@ -50,12 +51,11 @@
       <item value="Fluent" />
       <item value="h the invocation handler to dispatch method invocations to" />
       <item value="the list of interfaces for the proxy class * to implement" />
-      <item value="the class loader to define the proxy class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
