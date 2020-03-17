@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* The entries in this hash map extend WeakReference, using * its main ref field as the key (which is always a * ThreadLocal object). Note that null keys (i.e. entry.get() * == null) mean that the key is no longer referenced, so the * entry can be expunged from table. Such entries are referred to * as &quot;stale entries&quot; in the code that follows." />
       <item value="// We don't use a fast path as with get() because it is at // least as common to use set() to create new entries as // it is to replace existing ones, in which case, a fast // path would fail more often than not." />
       <item value="* The next size value at which to resize." />
       <item value="The next size value at which to resize." />
@@ -50,12 +51,11 @@
       <item value="fluent" />
       <item value="Fluent" />
       <item value="h the invocation handler to dispatch method invocations to" />
-      <item value="the list of interfaces for the proxy class * to implement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
