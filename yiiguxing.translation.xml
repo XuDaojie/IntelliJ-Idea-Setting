@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a power of two size for the given target capacity." />
       <item value="The load factor used when none specified in constructor." />
       <item value="Implements Map.put and related methods." />
       <item value="if false, the table is in creation mode." />
@@ -50,12 +51,11 @@
       <item value="# Disable Baidu transformation on mobile devices." />
       <item value="Available" />
       <item value="If manual, trigger search by pressing enter key or search button." />
-      <item value="Preload the search data when the page loads." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
