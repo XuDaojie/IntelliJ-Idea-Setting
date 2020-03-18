@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Stripped-down version of helper class used in previous version, * declared for the sake of serialization compatibility" />
       <item value="* &lt;strong&gt;NOTE: This class is obsolete. New implementations should * implement the Map interface, rather than extending this class.&lt;/strong&gt;" />
       <item value="* The &lt;code&gt;Dictionary&lt;/code&gt; class is the abstract parent of any * class, such as &lt;code&gt;Hashtable&lt;/code&gt;, which maps keys to values. * Every key and every value is an object. In any one &lt;tt&gt;Dictionary&lt;/tt&gt; * object, every key is associated with at most one value. Given a * &lt;tt&gt;Dictionary&lt;/tt&gt; and a key, the associated element can be looked up. * Any non-&lt;code&gt;null&lt;/code&gt; object can be used as a key and as a value. * &lt;p&gt; * As a rule, the &lt;code&gt;equals&lt;/code&gt; method should be used by * implementations of this class to decide if two keys are the same. * &lt;p&gt; * &lt;strong&gt;NOTE: This class is obsolete. New implementations should * implement the Map interface, rather than extending this class.&lt;/strong&gt;" />
       <item value="Returns a power of two size for the given target capacity." />
@@ -50,12 +51,11 @@
       <item value="# If auto, save the reading progress when closing the page or clicking the bookmark-icon. # If manual, only save it by clicking the bookmark-icon." />
       <item value="# Change headers hierarchy on site-subtitle (will be main site description) and on all post / page titles for better SEO-optimization." />
       <item value="# set a canonical link tag in your hexo, you could use it for your seo of blog.&#10;# see: https://support.google.com/webmasters/answer/139066&#10;# remember to set up your url in hexo `_config.yml` (e.g. url: http://yourdomain.com)" />
-      <item value="# Disable Baidu transformation on mobile devices." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
