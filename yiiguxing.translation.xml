@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Causes the currently executing thread to sleep (temporarily cease * execution) for the specified number of milliseconds, subject to * the precision and accuracy of system timers and schedulers. The thread * does not lose ownership of any monitors." />
+      <item value="* if any thread has interrupted the current thread. The * &lt;i&gt;interrupted status&lt;/i&gt; of the current thread is * cleared when this exception is thrown." />
       <item value="* InheritableThreadLocal values pertaining to this thread. This map is * maintained by the InheritableThreadLocal class." />
       <item value="* Defines the part common to all monitor MBeans. * A monitor MBean monitors values of an attribute common to a set of observed * MBeans. The observed attribute is monitored at intervals specified by the * granularity period. A gauge value (derived gauge) is derived from the values * of the observed attribute." />
       <item value="Helps transfer if a resize is in progress." />
@@ -49,13 +51,11 @@
       <item value="The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping tools." />
       <item value="To get started, you'll need JRuby with the Bundler gem installed." />
       <item value="# If true, all level of TOC in a post will be displayed, rather than the activated part of it." />
-      <item value="# If true, all words will placed on next lines if header width longer then sidebar width." />
-      <item value="# A button to open designated chat widget in sidebar.&#10;# Firstly, you need enable the chat service you want to activate its sidebar button." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
