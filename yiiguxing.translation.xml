@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Helps transfer if a resize is in progress." />
       <item value="* Maps the specified key to the specified value in this table. * Neither the key nor the value can be null. * * &lt;p&gt;The value can be retrieved by calling the {@code get} method * with a key that is equal to the original key. * * @param key key with which the specified value is to be associated * @param value value to be associated with the specified key * @return the previous value associated with {@code key}, or * {@code null} if there was no mapping for {@code key} * @throws NullPointerException if the specified key or value is null" />
       <item value="Stripped-down version of helper class used in previous version, * declared for the sake of serialization compatibility" />
       <item value="* Stripped-down version of helper class used in previous version, * declared for the sake of serialization compatibility" />
@@ -50,12 +51,11 @@
       <item value="# If true, all words will placed on next lines if header width longer then sidebar width." />
       <item value="# A button to open designated chat widget in sidebar.&#10;# Firstly, you need enable the chat service you want to activate its sidebar button." />
       <item value="# TagCloud settings for tags page." />
-      <item value="# If auto, save the reading progress when closing the page or clicking the bookmark-icon. # If manual, only save it by clicking the bookmark-icon." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
