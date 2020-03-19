@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* InheritableThreadLocal values pertaining to this thread. This map is * maintained by the InheritableThreadLocal class." />
       <item value="* Defines the part common to all monitor MBeans. * A monitor MBean monitors values of an attribute common to a set of observed * MBeans. The observed attribute is monitored at intervals specified by the * granularity period. A gauge value (derived gauge) is derived from the values * of the observed attribute." />
       <item value="Helps transfer if a resize is in progress." />
       <item value="* Maps the specified key to the specified value in this table. * Neither the key nor the value can be null. * * &lt;p&gt;The value can be retrieved by calling the {@code get} method * with a key that is equal to the original key. * * @param key key with which the specified value is to be associated * @param value value to be associated with the specified key * @return the previous value associated with {@code key}, or * {@code null} if there was no mapping for {@code key} * @throws NullPointerException if the specified key or value is null" />
@@ -30,7 +31,6 @@
       <item value="* The difference between successively generated hash codes - turns * implicit sequential thread-local IDs into near-optimally spread * multiplicative hash values for power-of-two-sized tables." />
       <item value="The initial capacity -- MUST be a power of two." />
       <item value="* Sets the current thread's copy of this thread-local variable * to the specified value. Most subclasses will have no need to * override this method, relying solely on the {@link #initialValue} * method to set the values of thread-locals. * * @param value the value to be stored in the current thread's copy of * this thread-local." />
-      <item value="* InheritableThreadLocal values pertaining to this thread. This map is * maintained by the InheritableThreadLocal class." />
       <item value="/* ThreadLocal values pertaining to this thread. This map is maintained * by the ThreadLocal class. */" />
       <item value="* Abstract base class for reference objects. This class defines the * operations common to all reference objects. Because reference objects are * implemented in close cooperation with the garbage collector, this class may * not be subclassed directly." />
       <item value="* Factory method to create map of inherited thread locals. * Designed to be called only from Thread constructor. * * @param parentMap the map associated with parent thread * @return a map containing the parent's inheritable bindings" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
