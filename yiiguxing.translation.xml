@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="    /**&#10;     * Atomically adds the given value to the current value of a field&#10;     * or array element within the given object {@code o}&#10;     * at the given {@code offset}.&#10;     *&#10;     * @param o object/array to update the field/element in&#10;     * @param offset field/element offset&#10;     * @param delta the value to add&#10;     * @return the previous value&#10;     * @since 1.8&#10;     */" />
+      <item value="     * Atomically updates Java variable to {@code x} if it is currently&#10;     * holding {@code expected}.&#10;     *&#10;     * &lt;p&gt;This operation has memory semantics of a {@code volatile} read&#10;     * and write.  Corresponds to C11 atomic_compare_exchange_strong.&#10;     *&#10;     * @return {@code true} if successful" />
+      <item value="    /// peek and poke operations&#10;    /// (compilers should optimize these to memory ops)&#10;&#10;    // These work on object fields in the Java heap.&#10;    // They will not work on elements of packed arrays." />
+      <item value=" * A collection of methods for performing low-level, unsafe operations.&#10; * Although the class and all methods are public, use of this class is&#10; * limited because only trusted code can obtain instances of it.&#10; *&#10; * &lt;em&gt;Note:&lt;/em&gt; It is the resposibility of the caller to make sure&#10; * arguments are checked before methods of this class are&#10; * called. While some rudimentary checks are performed on the input,&#10; * the checks are best effort and when performance is an overriding&#10; * priority, as when methods of this class are optimized by the&#10; * runtime compiler, some or all checks (if any) may be elided. Hence,&#10; * the caller must not rely on the checks and corresponding&#10; * exceptions!" />
+      <item value="* A collection of methods for performing low-level, unsafe operations. * Although the class and all methods are public, use of this class is * limited because only trusted code can obtain instances of it. * * &lt;em&gt;Note:&lt;/em&gt; It is the resposibility of the caller to make sure * arguments are checked before methods of this class are * called. While some rudimentary checks are performed on the input, * the checks are best effort and when performance is an overriding * priority, as when methods of this class are optimized by the * runtime compiler, some or all checks (if any) may be elided. Hence, * the caller must not rely on the checks and corresponding * exceptions!" />
       <item value="* Causes the currently executing thread to sleep (temporarily cease * execution) for the specified number of milliseconds, subject to * the precision and accuracy of system timers and schedulers. The thread * does not lose ownership of any monitors." />
       <item value="* if any thread has interrupted the current thread. The * &lt;i&gt;interrupted status&lt;/i&gt; of the current thread is * cleared when this exception is thrown." />
       <item value="* InheritableThreadLocal values pertaining to this thread. This map is * maintained by the InheritableThreadLocal class." />
@@ -46,22 +51,18 @@
       <item value="DIRTY" />
       <item value="dirty" />
       <item value="// Popular vote was to return null on 0 results and throw exception on too many." />
-      <item value="Popular vote was to return null on 0 results and throw exception on too many." />
-      <item value="* The primary Java interface for working with MyBatis. * Through this interface you can execute commands, get mappers and manage transactions." />
-      <item value="The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping tools." />
-      <item value="To get started, you'll need JRuby with the Bundler gem installed." />
-      <item value="# If true, all level of TOC in a post will be displayed, rather than the activated part of it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="33b178d8a0960b4a" />
