@@ -1,6 +1,30 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDwiXD4=</entry>
+        <entry>mGetTask</entry>
+        <entry>getInstance</entry>
+        <entry encoding="base64">bmV3IA==</entry>
+        <entry>new CommonLineChartFr</entry>
+        <entry>lifec</entry>
+        <entry>left_</entry>
+        <entry>life_cycle</entry>
+        <entry>fx</entry>
+        <entry encoding="base64">XDx0d29zaG9wXD4=</entry>
+        <entry>odps-sdk-core</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
@@ -48,7 +72,264 @@
         <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1586338502898">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ishangjie/jieba/ebei-mudao/ebei-admin-server/src/main/java/com/cx/ebei/admin/biz/service/impl/AdminLoanService.java" timestamp="1586325401935">
+        <mark key="[" line="44" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ishangjie/jieba/ebei-mudao/ebei-dal/src/main/resource/sqlmap/EbLoan.xml" timestamp="1586317926997">
+        <mark key="[" line="975" column="0" />
+        <mark key="]" line="975" column="0" />
+        <mark key="." line="975" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ishangjie/bigdata222/recommend/src/main/resources/confpro.properties" timestamp="1585823188417">
+        <mark key="[" line="22" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ishangjie/bigdata222/recommend/src/main/resources/conf.properties" timestamp="1585795732199">
+        <mark key="[" line="16" column="74" />
+        <mark key="]" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ishangjie/eca/manager/pom.xml" timestamp="1586314644288">
+        <mark key="[" line="282" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Scripts/redis-cluster.py" timestamp="1586334962075">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ishangjie/jieba/ebei-mudao/ebei-dal/src/main/resource/sqlmap/EbLoanRepayment.xml" timestamp="1586421344310">
+        <mark key="[" line="538" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ishangjie/bigdata222/recommend/src/main/scala/com/ald/bigdata/recommend/job/IshangjieEveryDayExport.scala" timestamp="1586400786015">
+        <mark key="[" line="41" column="40" />
+        <mark key="]" line="142" column="26" />
+        <mark key="^" line="259" column="12" />
+        <mark key="." line="142" column="26" />
+      </file>
+      <file name="/" timestamp="1586485071515">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ishangjie/eca/manager/src/main/java/com/ald/eca/manager/controller/inner/ChannelUserController.java" timestamp="1586315253154">
+        <mark key="[" line="169" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Scripts/aaa.py" timestamp="1586334512456">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1585727311745">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ishangjie/bigdata222/common/src/main/scala/com/ald/bigdata/untils/mysql/SparkMysqPoolUntil.scala" timestamp="1585823846623">
+        <mark key="[" line="210" column="7" />
+        <mark key="]" line="210" column="14" />
+        <mark key="^" line="210" column="14" />
+        <mark key="." line="210" column="14" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="208" column="24" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/HomeWarningDetailActivity.java" />
+      <jump line="154" column="4" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/HomeWarningDetailActivity.java" />
+      <jump line="110" column="22" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWarningFragment.java" />
+      <jump line="131" column="45" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWarningFragment.java" />
+      <jump line="133" column="50" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWarningFragment.java" />
+      <jump line="205" column="60" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWarningFragment.java" />
+      <jump line="6" column="30" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/Account.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_handle_manager_list_item.xml" />
+      <jump line="548" column="40" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_manager_activity.xml" />
+      <jump line="54" column="64" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/BusinessHandleManagerFragment.java" />
+      <jump line="44" column="17" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxTenantsService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxTenantsService.java" />
+      <jump line="10" column="31" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_handle_manager_fragment.xml" />
+      <jump line="293" column="57" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/main_home_fragment.xml" />
+      <jump line="72" column="9" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bizscale/BizScaleFragment.java" />
+      <jump line="189" column="36" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_manager_activity.xml" />
+      <jump line="276" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/res/layout/business_manager_activity.xml" />
+      <jump line="10" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DbHealthBean.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DbHealthBean.java" />
+      <jump line="12" column="19" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/WarningAlertDetailBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/WarningAlertDetailBean.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/LoginSecBean.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/WarningAlertDetailBean.java" />
+      <jump line="156" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/WarningAlertDetailBean.java" />
+      <jump line="14" column="6" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/NetWarnBean.java" />
+      <jump line="151" column="32" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BasicResCtrlBean.java" />
+      <jump line="212" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BasicResCtrlBean.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/ResScopeCtrlBean.java" />
+      <jump line="398" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/NetWarnDetailActivity.java" />
+      <jump line="475" column="31" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/activity/NetWarnDetailActivity.java" />
+      <jump line="10" column="2" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/LoginSecBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/LoginSecBean.java" />
+      <jump line="9" column="3" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/TenantsWarnBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/TenantsWarnBean.java" />
+      <jump line="119" column="51" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/service/rx/RxTenantsService.java" />
+      <jump line="644" column="19" filename="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/25.1.0/recyclerview-v7-25.1.0-sources.jar!/android/support/v7/widget/helper/ItemTouchHelper.java" />
+      <jump line="874" column="16" filename="$USER_HOME$/Library/Android/android-sdk-mac/extras/android/m2repository/com/android/support/recyclerview-v7/25.1.0/recyclerview-v7-25.1.0-sources.jar!/android/support/v7/widget/helper/ItemTouchHelper.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DeviceRepairBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DeviceRepairBean.java" />
+      <jump line="301" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/DeviceRepairBean.java" />
+      <jump line="34" column="19" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BusinessHealthBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/bean/BusinessHealthBean.java" />
+      <jump line="25" column="35" filename="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/view/HomeFragment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/ChunHua/app/src/main/java/com/bocai/chunhua/section/main/view/HomeFragment.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/README.md" />
+      <jump line="94" column="39" filename="$USER_HOME$/AndroidStudioProjects/DeveloperSettings/app/src/main/java/io/github/xudaojie/developersettings/DevelopmentSettingsActivity.java" />
+      <jump line="10" column="69" filename="$USER_HOME$/IdeaProjects/MyJava/shiro/src/test/java/io/github/xudaojie/boot/myexample/PermissionTest.java" />
+      <jump line="272" column="739" filename="$USER_HOME$/IdeaProjects/news-cloud/gateway/src/main/java/com/ald/cloud/gateway/filter/TokenVerifyFilter.java" />
+      <jump line="0" column="6" filename="/Dummy.txt" />
+      <jump line="4" column="14" filename="$USER_HOME$/IdeaProjects/MyJava/springcloud-zuul/src/main/resources/static/index.html" />
+      <jump line="0" column="48" filename="/fragment.java" />
+      <jump line="248" column="27" filename="$USER_HOME$/IdeaProjects/news/utils/src/main/java/com/ald/news/utils/encrypt/AesUtil.java" />
+      <jump line="9" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
+      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
+      <jump line="16" column="19" filename="$USER_HOME$/IdeaProjects/news-recommend/src/main/java/com/ald/news/recommend/dao/bo/NewsArticleBo.java" />
+      <jump line="441" column="0" filename="$USER_HOME$/IdeaProjects/news-recommend/src/main/java/com/ald/news/recommend/dao/bo/NewsArticleBo.java" />
+      <jump line="75" column="30" filename="$USER_HOME$/IdeaProjects/news-boot/spring-boot-autoconfigure/src/main/java/com/ald/news/autoconfigure/redis/RedisProperties.java" />
+      <jump line="33" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.java" />
+      <jump line="286" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.java" />
+      <jump line="442" column="25" filename="$USER_HOME$/IdeaProjects/news-forum/app/src/main/java/com/ald/forum/service/impl/NewsArticleServiceImpl.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" />
+      <jump line="248" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.19.RELEASE/af456fd39bf56bb69b91c369aab7f4da33d898e6/spring-boot-autoconfigure-1.5.19.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" />
+      <jump line="260" column="46" filename="$USER_HOME$/IdeaProjects/common/common-service/src/main/java/com/ald/common/data/repository/impl/UserReadSourceRepository.java" />
+      <jump line="137" column="0" filename="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/main/java/io/github/xudaojie/generator/MyBatisGenerator.java" />
+      <jump line="138" column="0" filename="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/main/java/io/github/xudaojie/generator/MyBatisGenerator.java" />
+      <jump line="29" column="35" filename="$USER_HOME$/IdeaProjects/Java/mybatis-generator/src/test/resources/templates/controller.java.ftl" />
+      <jump line="18" column="13" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" />
+      <jump line="61" column="96" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/UserController.java" />
+      <jump line="91" column="5" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/api/UserController.java" />
+      <jump line="167" column="0" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/io/github/xudaojie/generator/controller/api/UserController.java" />
+      <jump line="4" column="31" filename="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/data/mapper/CustomMenuMapper.xml" />
+      <jump line="6" column="11" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/CHANGELOG.md" />
+      <jump line="2" column="27" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/resources/application.properties" />
+      <jump line="73" column="6" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/user/controller/inner/InnerUserController.java" />
+      <jump line="24" column="4" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/test/resources/templates/client.java.ftl" />
+      <jump line="151" column="0" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/test/resources/templates/client.java.ftl" />
+      <jump line="103" column="28" filename="$USER_HOME$/IdeaProjects/2shop/app/src/main/resources/application-local.properties" />
+      <jump line="113" column="0" filename="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerUser2Controller.java" />
+      <jump line="509" column="0" filename="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/controller/InnerUser2Controller.java" />
+      <jump line="30" column="6" filename="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/UserService2.java" />
+      <jump line="696" column="0" filename="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/UserService2.java" />
+      <jump line="88" column="24" filename="$USER_HOME$/IdeaProjects/news-boot/build.gradle" />
+      <jump line="104" column="78" filename="$USER_HOME$/IdeaProjects/news/news-manage/src/main/java/com/ald/news/manage/controller/api/BannerController.java" />
+      <jump line="52" column="13" filename="$USER_HOME$/IdeaProjects/mybatis-plus-generator/mybatis-generator-sample/src/main/java/com/ald/news/user/controller/inner/InnerUserController.java" />
+      <jump line="65" column="4" filename="$USER_HOME$/IdeaProjects/2shop/app/src/main/java/com/ald/news/twoshop/CaffeineAutoCacheConfiguration.java" />
+      <jump line="356" column="6" filename="$USER_HOME$/IdeaProjects/news-forum/domain/src/main/java/com/ald/forum/domain/article/NewsArticleDo.java" />
+      <jump line="611" column="28" filename="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/news/news-user/src/main/java/com/ald/news/user/service/impl/UserServiceImpl.java" />
+      <jump line="39" column="17" filename="$USER_HOME$/IdeaProjects/ishangjie/ishangjie-user-service/src/main/resources/bootstrap-local.yml" />
+      <jump line="124" column="3" filename="$USER_HOME$/IdeaProjects/ishangjie/ishangjie-user-service/src/main/resources/bootstrap-local.yml" />
+      <jump line="127" column="29" filename="$USER_HOME$/IdeaProjects/ishangjie/ishangjie-user-service/src/main/resources/bootstrap-local.yml" />
+      <jump line="126" column="31" filename="$USER_HOME$/IdeaProjects/ishangjie/ishangjie-user-service/src/main/resources/bootstrap-local.yml" />
+      <jump line="125" column="0" filename="$USER_HOME$/IdeaProjects/ishangjie/ishangjie-user-service/src/main/resources/bootstrap-local.yml" />
+      <jump line="6" column="13" filename="$USER_HOME$/IdeaProjects/workspace/project/service-user/src/main/resources/application.yml" />
+      <jump line="69" column="30" filename="$USER_HOME$/IdeaProjects/open-source/DataX/odpswriter/pom.xml" />
+      <jump line="0" column="15" filename="$USER_HOME$/Hexo/source/_data/next.yml" />
+      <jump line="14" column="11" filename="$USER_HOME$/IdeaProjects/ishangjie/ishangjie-search-service/src/main/java/com/ald/ishangjie/dao/mapper/resource/ResourceNicheSortMapper.java" />
+      <jump line="206" column="66" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
+      <jump line="2396" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text />
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="35831" code="0" mods="0" />
+          <key char="36755" code="0" mods="0" />
+          <key char="20837" code="0" mods="0" />
+          <key char="24066" code="0" mods="0" />
+          <key char="26792" code="0" mods="0" />
+          <key char="26641" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="23454" code="0" mods="0" />
+          <key char="20363" code="0" mods="0" />
+          <key char="25968" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="23454" code="0" mods="0" />
+          <key char="20363" code="0" mods="0" />
+          <key char="25968" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>修复MySQL工具类bug</text>
+      </register>
+      <register name="/" type="4">
+        <text>odps-sdk-core</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb2xvcjogIiM3NTc1NzUiCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text>rc.get(&quot;foo&quot;)</text>
+      </register>
+      <register name="r" type="4">
+        <text>msg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QKICAgICAgICA8aW5jbHVkZSByZWZpZD0ibG9hbkZpZWxkc0psIi8+CiAgICAgICAgRlJPTQogICAgICAgIGViX2xvYW4gbAogICAgICAgIExFRlQgSk9JTiBlYl91c2VyIHUgT04gbC51c2VyX2lkID0gdS5pZAogICAgICAgIExFRlQgSk9JTiBlYl91ZHVuX3VzZXJfcmVsYXRpb24gcmUgT04gbC5pZCA9IHJlLnJlZl9pZAogICAgICAgIExFRlQgSk9JTiBlYl91ZHVuIHVkdW4gT04gcmUudWR1bl9pZCA9IHVkdW4uaWQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG15c3FsLmluc2VydE9yVXBkYXRlREZ0b0RCVXNlUG9vbCgiYXNqX21hbGxfdXNlcl9hZnRlcnNhbGVfYXBwbHlfcmF0ZV96aG91eWhfcmVzdWx0IiwgcmVzdWx0LCBBcnJheSgKICAgICAgImRheXMiLAogICAgICAicGF5bnVtIgogICAgKSk=</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkeh</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG15c3FsLmluc2VydE9yVXBkYXRlREZ0b0RCVXNlUG9vbCgiYXNqX21hbGxfdXNlcl9hZnRlcnNhbGVfYXBwbHlfY2FzZV96aG91eWhfcmVzdWx0IiwgcmVzdWx0LCBBcnJheSgKICAgICAgImRheXMiLAogICAgICAidHlwZSIsCiAgICAgICJjbGFzcyIsCiAgICAgICJwYXludW0iCiAgICApKQ==</text>
+      </register>
+      <register name="x" type="4">
+        <text>privateKey</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICJjbGFzcyIsCiAgICAgICJwYXludW0i</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>odps-sdk-core</last-search>
+      <last-offset />
+      <last-pattern>odps-sdk-core</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
