@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" * Represents the result of an asynchronous computation&#10; * &#10; * @author Nikita Koksharov&#10; *&#10; * @param &lt;V&gt; type of value" />
+      <item value="Acquired" />
+      <item value="remain" />
+      <item value="the maximum time to acquire the lock" />
+      <item value="lease time" />
+      <item value="     * Tries to acquire the lock with defined &lt;code&gt;leaseTime&lt;/code&gt;.&#10;     * Waits up to defined &lt;code&gt;waitTime&lt;/code&gt; if necessary until the lock became available.&#10;     *&#10;     * Lock will be released automatically after defined &lt;code&gt;leaseTime&lt;/code&gt; interval." />
+      <item value="lease Time" />
+      <item value="Interruptibly" />
+      <item value="    /**      * Atomically adds the given value to the current value of a field      * or array element within the given object {@code o}      * at the given {@code offset}.      *      * @param o object/array to update the field/element in      * @param offset field/element offset      * @param delta the value to add      * @return the previous value      * @since 1.8      */" />
       <item value="    /**&#10;     * Atomically adds the given value to the current value of a field&#10;     * or array element within the given object {@code o}&#10;     * at the given {@code offset}.&#10;     *&#10;     * @param o object/array to update the field/element in&#10;     * @param offset field/element offset&#10;     * @param delta the value to add&#10;     * @return the previous value&#10;     * @since 1.8&#10;     */" />
       <item value="     * Atomically updates Java variable to {@code x} if it is currently&#10;     * holding {@code expected}.&#10;     *&#10;     * &lt;p&gt;This operation has memory semantics of a {@code volatile} read&#10;     * and write.  Corresponds to C11 atomic_compare_exchange_strong.&#10;     *&#10;     * @return {@code true} if successful" />
       <item value="    /// peek and poke operations&#10;    /// (compilers should optimize these to memory ops)&#10;&#10;    // These work on object fields in the Java heap.&#10;    // They will not work on elements of packed arrays." />
@@ -42,20 +51,11 @@
       <item value="* Abstract base class for reference objects. This class defines the * operations common to all reference objects. Because reference objects are * implemented in close cooperation with the garbage collector, this class may * not be subclassed directly." />
       <item value="* Factory method to create map of inherited thread locals. * Designed to be called only from Thread constructor. * * @param parentMap the map associated with parent thread * @return a map containing the parent's inheritable bindings" />
       <item value="* ThreadLocalMap is a customized hash map suitable only for * maintaining thread local values. No operations are exported * outside of the ThreadLocal class. The class is package private to * allow declaration of fields in class Thread. To help deal with * very large and long-lived usages, the hash table entries use * WeakReferences for keys. However, since reference queues are not * used, stale entries are guaranteed to be removed only when * the table starts running out of space." />
-      <item value="The difference between successively generated hash codes - turns * implicit sequential thread-local IDs into near-optimally spread * multiplicative hash values for power-of-two-sized tables." />
-      <item value="* Creates a thread pool that reuses a fixed number of threads * operating off a shared unbounded queue. At any point, at most * {@code nThreads} threads will be active processing tasks. * If additional tasks are submitted when all threads are active, * they will wait in the queue until a thread is available. * If any thread terminates due to a failure during execution * prior to shutdown, a new one will take its place if needed to * execute subsequent tasks. The threads in the pool will exist * until it is explicitly {@link ExecutorService#shutdown shutdown}." />
-      <item value="Creates a thread pool that reuses a fixed number of threads * operating off a shared unbounded queue. At any point, at most * {@code nThreads} threads will be active processing tasks. * If additional tasks are submitted when all threads are active, * they will wait in the queue until a thread is available. * If any thread terminates due to a failure during execution * prior to shutdown, a new one will take its place if needed to * execute subsequent tasks. The threads in the pool will exist * until it is explicitly {@link ExecutorService#shutdown shutdown}." />
-      <item value="HANDLE RESULT SETS" />
-      <item value="* An actual SQL String got from an {@link SqlSource} after having processed any dynamic content. * The SQL may have SQL placeholders &quot;?&quot; and an list (ordered) of an parameter mappings * with the additional information for each parameter (at least the property name of the input object to read * the value from). * &lt;p&gt; * Can also have additional parameters that are created by the dynamic language (for loops, bind...)." />
-      <item value="statement" />
-      <item value="DIRTY" />
-      <item value="dirty" />
-      <item value="// Popular vote was to return null on 0 results and throw exception on too many." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
@@ -66,7 +66,6 @@
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="33b178d8a0960b4a" />
-        <option name="appKeyConfigured" value="true" />
       </youdao-translate>
     </option>
   </component>
