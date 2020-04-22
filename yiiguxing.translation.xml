@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remain" />
       <item value="interruptibly" />
       <item value="Base Redisson object" />
       <item value="acquired" />
@@ -12,7 +13,6 @@
       <item value=" * &lt;p&gt;All methods adhere to the above triggering, execution, and&#10; * exceptional completion specifications (which are not repeated in&#10; * individual method specifications). Additionally, while arguments&#10; * used to pass a completion result (that is, for parameters of type&#10; * {@code T}) for methods accepting them may be null, passing a null&#10; * value for any other parameter will result in a {@link&#10; * NullPointerException} being thrown.&#10; *&#10; * &lt;p&gt;This interface does not define methods for initially creating,&#10; * forcibly completing normally or exceptionally, probing completion&#10; * status or results, or awaiting completion of a stage.&#10; * Implementations of CompletionStage may provide means of achieving&#10; * such effects, as appropriate.  Method {@link #toCompletableFuture}&#10; * enables interoperability among different implementations of this&#10; * interface by providing a common conversion type." />
       <item value=" * Represents the result of an asynchronous computation&#10; * &#10; * @author Nikita Koksharov&#10; *&#10; * @param &lt;V&gt; type of value" />
       <item value="Acquired" />
-      <item value="remain" />
       <item value="the maximum time to acquire the lock" />
       <item value="lease time" />
       <item value="     * Tries to acquire the lock with defined &lt;code&gt;leaseTime&lt;/code&gt;.&#10;     * Waits up to defined &lt;code&gt;waitTime&lt;/code&gt; if necessary until the lock became available.&#10;     *&#10;     * Lock will be released automatically after defined &lt;code&gt;leaseTime&lt;/code&gt; interval." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
