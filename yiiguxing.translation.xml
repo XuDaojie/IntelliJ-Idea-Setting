@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interruptibly" />
+      <item value="Base Redisson object" />
+      <item value="acquired" />
+      <item value="lease" />
+      <item value="Remainin" />
       <item value="try Acquire" />
       <item value="acquire" />
       <item value="Marks this future as a success and notifies all&#10;     * listeners." />
@@ -46,16 +51,11 @@
       <item value="// We don't use a fast path as with get() because it is at // least as common to use set() to create new entries as // it is to replace existing ones, in which case, a fast // path would fail more often than not." />
       <item value="* The next size value at which to resize." />
       <item value="The next size value at which to resize." />
-      <item value="Set the resize threshold to maintain at worst a 2/3 load factor." />
-      <item value="* ThreadLocals rely on per-thread linear-probe hash maps attached * to each thread (Thread.threadLocals and * inheritableThreadLocals). The ThreadLocal objects act as keys, * searched via threadLocalHashCode. This is a custom hash code * (useful only within ThreadLocalMaps) that eliminates collisions * in the common case where consecutively constructed ThreadLocals * are used by the same threads, while remaining well-behaved in * less common cases." />
-      <item value="* The difference between successively generated hash codes - turns * implicit sequential thread-local IDs into near-optimally spread * multiplicative hash values for power-of-two-sized tables." />
-      <item value="The initial capacity -- MUST be a power of two." />
-      <item value="* Sets the current thread's copy of this thread-local variable * to the specified value. Most subclasses will have no need to * override this method, relying solely on the {@link #initialValue} * method to set the values of thread-locals. * * @param value the value to be stored in the current thread's copy of * this thread-local." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
