@@ -93,11 +93,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/api/RLockAsync.java" timestamp="1587627097380" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/RedissonObject.java" timestamp="1587526644428" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/config/Config.java" timestamp="1587525042802" />
-      <file name="$USER_HOME$/IdeaProjects/Java/javase/src/test/java/io/github/xudaojie/javase/redis/RedissonTest.java" timestamp="1587613429382">
-        <mark key="[" line="81" column="27" />
-        <mark key="]" line="81" column="27" />
-        <mark key="^" line="30" column="40" />
-        <mark key="." line="81" column="27" />
+      <file name="$USER_HOME$/IdeaProjects/Java/javase/src/test/java/io/github/xudaojie/javase/redis/RedissonTest.java" timestamp="1587628820771">
+        <mark key="[" line="81" column="1" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="78" column="20" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/Redisson.java" timestamp="1587535156595">
         <mark key="[" line="335" column="72" />
@@ -119,7 +119,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/api/RFuture.java" timestamp="1587626848365" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/command/CommandAsyncService.java" timestamp="1587535049451" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/pubsub/PublishSubscribe.java" timestamp="1587541584090" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/RedissonMultiLock.java" timestamp="1587626932005">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/RedissonMultiLock.java" timestamp="1587627323072">
         <mark key="[" line="418" column="50" />
       </file>
       <file name="/fragment.java" timestamp="1587613364753">
@@ -231,8 +231,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>lock2.remainTimeToLive()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -274,40 +274,40 @@
         <text encoding="base64">ICBjb2xvcjogIiM3NTc1NzUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEV4ZWN1dG9yU2VydmljZSBwb29sID0gRXhlY3V0b3JzLm5ld0NhY2hlZFRocmVhZFBvb2woKTsKLy8gICAgICAgIEZ1dHVyZTxTdHJpbmc+IGZ1dHVyZSA9IHBvb2wuc3VibWl0KG5ldyBDYWxsYWJsZTxTdHJpbmc+KCkgewovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgY2FsbCgpIHRocm93cyBFeGNlcHRpb24gewovLyAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApOwovLyAgICAgICAgICAgICAgICByZXR1cm4gIkhlbGxvV29ybGQiOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0pOw==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGdXR1cmUgc0Z1dHVyZSA9IHBvb2wuc3VibWl0KG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAwKTsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZldHVyZSIpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGlmIChvYmplY3QgPT0gbnVsbCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7CiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>sExecutors.</text>
+        <text encoding="base64">Ly8gICAgICAgIEV4ZWN1dG9yU2VydmljZSBwb29sID0gRXhlY3V0b3JzLm5ld0NhY2hlZFRocmVhZFBvb2woKTsKLy8gICAgICAgIEZ1dHVyZTxTdHJpbmc+IGZ1dHVyZSA9IHBvb2wuc3VibWl0KG5ldyBDYWxsYWJsZTxTdHJpbmc+KCkgewovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgY2FsbCgpIHRocm93cyBFeGNlcHRpb24gewovLyAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApOwovLyAgICAgICAgICAgICAgICByZXR1cm4gIkhlbGxvV29ybGQiOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0pOw==</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGdXR1cmUgc0Z1dHVyZSA9IHBvb2wuc3VibWl0KG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAwKTsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZldHVyZSIpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
