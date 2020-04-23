@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expirable" />
       <item value="Acquires the lock with defined leaseTime. Waits if necessary until lock became available. Lock will be released automatically after defined leaseTime interval" />
       <item value=" java.util.concurrent.locks.Lock Acquires the lock only if it is free at the time of invocation. Acquires the lock if it is available and returns immediately with the value true. If the lock is not available then this method will return immediately with the value false. A typical usage idiom for this method would be:     Lock lock = ...;  if (lock.tryLock()) {    try {      // manipulate protected state    } finally {      lock.unlock();    }  } else {    // perform alternative actions  } This usage ensures that the lock is unlocked if it was acquired, and doesn't try to unlock if the lock was not acquired." />
       <item value="&#10;java.util.concurrent.locks.Lock Acquires the lock only if it is free at the time of invocation.&#10;Acquires the lock if it is available and returns immediately with the value true. If the lock is not available then this method will return immediately with the value false.&#10;A typical usage idiom for this method would be:&#10;  &#10; Lock lock = ...;&#10; if (lock.tryLock()) {&#10;   try {&#10;     // manipulate protected state&#10;   } finally {&#10;     lock.unlock();&#10;   }&#10; } else {&#10;   // perform alternative actions&#10; }&#10;This usage ensures that the lock is unlocked if it was acquired, and doesn't try to unlock if the lock was not acquired." />
@@ -50,12 +51,11 @@
       <item value="if false, the table is in creation mode." />
       <item value="if true, don't change existing value" />
       <item value="* Computes key.hashCode() and spreads (XORs) higher bits of hash * to lower. Because the table uses power-of-two masking, sets of * hashes that vary only in bits above the current mask will * always collide. (Among known examples are sets of Float keys * holding consecutive whole numbers in small tables.) So we * apply a transform that spreads the impact of higher bits * downward. There is a tradeoff between speed, utility, and * quality of bit-spreading. Because many common sets of hashes * are already reasonably distributed (so don't benefit from * spreading), and because we use trees to handle large sets of * collisions in bins, we just XOR some shifted bits in the * cheapest possible way to reduce systematic lossage, as well as * to incorporate impact of the highest bits that would otherwise * never be used in index calculations because of table bounds." />
-      <item value="* The smallest table capacity for which bins may be treeified. * (Otherwise the table is resized if too many nodes in a bin.) * Should be at least 4 * TREEIFY_THRESHOLD to avoid conflicts * between resizing and treeification thresholds." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="ENGLISH" value="158" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
