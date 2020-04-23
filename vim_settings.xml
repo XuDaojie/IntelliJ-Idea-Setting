@@ -83,18 +83,26 @@
         <mark key="^" line="350" column="29" />
         <mark key="." line="350" column="28" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/RedissonRedLock.java" timestamp="1587612753021">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="2" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/open-source/redisson-parent/redisson/src/main/java/org/redisson/RedissonObject.java" timestamp="1587522795636" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/RedissonObject.java" timestamp="1587526644428" />
+      <file name="/console" timestamp="1587612072717">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Java/build.gradle" timestamp="1587523170142">
         <mark key="[" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/config/Config.java" timestamp="1587525042802" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletionStage.java" timestamp="1587466605426" />
-      <file name="$USER_HOME$/IdeaProjects/Java/javase/src/test/java/io/github/xudaojie/javase/redis/RedissonTest.java" timestamp="1587544659244">
-        <mark key="[" line="58" column="15" />
-        <mark key="]" line="58" column="15" />
-        <mark key="^" line="28" column="40" />
-        <mark key="." line="58" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/Java/javase/src/test/java/io/github/xudaojie/javase/redis/RedissonTest.java" timestamp="1587613429382">
+        <mark key="[" line="81" column="27" />
+        <mark key="]" line="81" column="27" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="81" column="27" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/Redisson.java" timestamp="1587535156595">
         <mark key="[" line="335" column="72" />
@@ -103,7 +111,6 @@
       <file name="$USER_HOME$/IdeaProjects/open-source/redisson-parent/redisson/src/main/java/org/redisson/RedissonLock.java" timestamp="1587522996792">
         <mark key="[" line="184" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java" timestamp="1587468139419" />
       <file name="$USER_HOME$/IdeaProjects/open-source/redisson-parent/redisson/src/main/java/org/redisson/pubsub/PublishSubscribe.java" timestamp="1587470080081" />
       <file name="/Dummy.txt" timestamp="1587469267913">
         <mark key="[" line="0" column="0" />
@@ -114,15 +121,12 @@
         <mark key="[" line="4" column="41" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/api/RedissonClient.java" timestamp="1587523843838" />
-      <file name="$USER_HOME$/IdeaProjects/Java/javase/src/test/java/io/github/xudaojie/javase/future/FutureTest.java" timestamp="1587469235172">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="116" column="66" />
-        <mark key="." line="116" column="66" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/command/CommandAsyncService.java" timestamp="1587535049451" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/pubsub/PublishSubscribe.java" timestamp="1587541584090" />
-      <file name="/fragment.java" timestamp="1587541935038">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.redisson/redisson/3.12.5/c990d5c8d2970b910202ef0b1a015b47a9ab4dea/redisson-3.12.5-sources.jar!/org/redisson/RedissonMultiLock.java" timestamp="1587614704126">
+        <mark key="[" line="418" column="50" />
+      </file>
+      <file name="/fragment.java" timestamp="1587613364753">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -232,7 +236,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>lock2.remainTimeToLive()</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -265,7 +269,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>lock2.remainTimeToLive()</text>
       </register>
       <register name="/" type="4">
         <text>odps-sdk-core</text>
@@ -274,40 +278,40 @@
         <text encoding="base64">ICBjb2xvcjogIiM3NTc1NzUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEV4ZWN1dG9yU2VydmljZSBwb29sID0gRXhlY3V0b3JzLm5ld0NhY2hlZFRocmVhZFBvb2woKTsKLy8gICAgICAgIEZ1dHVyZTxTdHJpbmc+IGZ1dHVyZSA9IHBvb2wuc3VibWl0KG5ldyBDYWxsYWJsZTxTdHJpbmc+KCkgewovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgY2FsbCgpIHRocm93cyBFeGNlcHRpb24gewovLyAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApOwovLyAgICAgICAgICAgICAgICByZXR1cm4gIkhlbGxvV29ybGQiOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0pOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBGdXR1cmUgc0Z1dHVyZSA9IHBvb2wuc3VibWl0KG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAwKTsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZldHVyZSIpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGlmIChvYmplY3QgPT0gbnVsbCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7CiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgIEV4ZWN1dG9yU2VydmljZSBwb29sID0gRXhlY3V0b3JzLm5ld0NhY2hlZFRocmVhZFBvb2woKTsKLy8gICAgICAgIEZ1dHVyZTxTdHJpbmc+IGZ1dHVyZSA9IHBvb2wuc3VibWl0KG5ldyBDYWxsYWJsZTxTdHJpbmc+KCkgewovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgY2FsbCgpIHRocm93cyBFeGNlcHRpb24gewovLyAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApOwovLyAgICAgICAgICAgICAgICByZXR1cm4gIkhlbGxvV29ybGQiOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0pOw==</text>
       </register>
       <register name="6" type="2">
-        <text>sExecutors.</text>
+        <text encoding="base64">ICAgICAgICBGdXR1cmUgc0Z1dHVyZSA9IHBvb2wuc3VibWl0KG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAwKTsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZldHVyZSIpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGlmIChvYmplY3QgPT0gbnVsbCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7CiAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICAgICAgZGF5czogU3RyaW5nLAogICAgICAvLyAgICAgICAgYXBwbHlfbm86IFN0cmluZywKICAgICAgLy8gICAgICAgIGFwcGx5X3RpbWU6IFRpbWVzdGFtcCwKICAgICAgLy8gICAgICAgIHJldmlld190aW1lOiBUaW1lc3RhbXAsCiAgICAgIC8vICAgICAgICBhcHBseV90eXBlOiBTdHJpbmcsCiAgICAgIC8vICAgICAgICByZWZ1bmRfY2F1c2U6IFN0cmluZywKICAgICAgLy8gICAgICAgIGFmdGVyc2FsZV9yZW1hcms6IFN0cmluZywKICAgICAgLy8gICAgICAgIGFwcGx5X3N0YXR1czogU3RyaW5nLAogICAgICAvLyAgICAgICAgb3JkZXJfbm86IFN0cmluZywKICAgICAgLy8gICAgICAgIG9yZGVyX3RpbWU6IFRpbWVzdGFtcCwKICAgICAgLy8gICAgICAgIHBheV90aW1lOiBUaW1lc3RhbXAsCiAgICAgIC8vICAgICAgICBvcmRlcl90eXBlOiBTdHJpbmcsCiAgICAgIC8vICAgICAgICBvcmRlcl9zdGF0dXM6IFN0cmluZywKICAgICAgLy8gICAgICAgIGdvb2RzX2lkOiBMb25nLAogICAgICAvLyAgICAgICAgZ29vZHNfbmFtZTogU3RyaW5nLAogICAgICAvLyAgICAgICAgY2xhc3MxOiBTdHJpbmcsCiAgICAgIC8vICAgICAgICBnb29kc19zb3VyY2U6IFN0cmluZywKICAgICAgLy8gICAgICAgIHVzZXJfaWQ6IExvbmcsCiAgICAgIC8vICAgICAgICBmaXJzdG9yZGVyX3lvcm46IFN0cmluZw==</text>
+        <text>sExecutors.</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oYSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
