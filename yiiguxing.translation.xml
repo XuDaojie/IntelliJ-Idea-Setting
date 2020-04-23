@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="     * Waits for this future until it is done, and rethrows the cause of the failure if this future&#10;     * failed.&#10;     * &#10;     * @return Future object" />
       <item value="Waits for this future until it is done, and rethrows the cause of the failure if this future&#10;     * failed." />
       <item value=" * RedLock locking algorithm implementation for multiple locks. &#10; * It manages all locks as one." />
       <item value="remain" />
@@ -50,12 +51,11 @@
       <item value="Default initial capacity." />
       <item value="Shared empty array instance used for empty instances." />
       <item value="* The entries in this hash map extend WeakReference, using * its main ref field as the key (which is always a * ThreadLocal object). Note that null keys (i.e. entry.get() * == null) mean that the key is no longer referenced, so the * entry can be expunged from table. Such entries are referred to * as &quot;stale entries&quot; in the code that follows." />
-      <item value="// We don't use a fast path as with get() because it is at // least as common to use set() to create new entries as // it is to replace existing ones, in which case, a fast // path would fail more often than not." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="156" />
+        <entry key="ENGLISH" value="157" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
