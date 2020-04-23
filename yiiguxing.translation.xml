@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Waits for this future to be completed without interruption. This method catches an InterruptedException and discards it silently. " />
+      <item value="Waits for this future to be completed without interruption. This method catches an InterruptedException and discards it silently.&#10;" />
+      <item value="await Uninterruptibly" />
+      <item value="     * Waits for this future to be completed without&#10;     * interruption.  This method catches an {@link InterruptedException} and&#10;     * discards it silently." />
       <item value="Expirable" />
       <item value="Acquires the lock with defined leaseTime. Waits if necessary until lock became available. Lock will be released automatically after defined leaseTime interval" />
       <item value=" java.util.concurrent.locks.Lock Acquires the lock only if it is free at the time of invocation. Acquires the lock if it is available and returns immediately with the value true. If the lock is not available then this method will return immediately with the value false. A typical usage idiom for this method would be:     Lock lock = ...;  if (lock.tryLock()) {    try {      // manipulate protected state    } finally {      lock.unlock();    }  } else {    // perform alternative actions  } This usage ensures that the lock is unlocked if it was acquired, and doesn't try to unlock if the lock was not acquired." />
@@ -47,15 +51,11 @@
       <item value="* The &lt;code&gt;Dictionary&lt;/code&gt; class is the abstract parent of any * class, such as &lt;code&gt;Hashtable&lt;/code&gt;, which maps keys to values. * Every key and every value is an object. In any one &lt;tt&gt;Dictionary&lt;/tt&gt; * object, every key is associated with at most one value. Given a * &lt;tt&gt;Dictionary&lt;/tt&gt; and a key, the associated element can be looked up. * Any non-&lt;code&gt;null&lt;/code&gt; object can be used as a key and as a value. * &lt;p&gt; * As a rule, the &lt;code&gt;equals&lt;/code&gt; method should be used by * implementations of this class to decide if two keys are the same. * &lt;p&gt; * &lt;strong&gt;NOTE: This class is obsolete. New implementations should * implement the Map interface, rather than extending this class.&lt;/strong&gt;" />
       <item value="Returns a power of two size for the given target capacity." />
       <item value="The load factor used when none specified in constructor." />
-      <item value="Implements Map.put and related methods." />
-      <item value="if false, the table is in creation mode." />
-      <item value="if true, don't change existing value" />
-      <item value="* Computes key.hashCode() and spreads (XORs) higher bits of hash * to lower. Because the table uses power-of-two masking, sets of * hashes that vary only in bits above the current mask will * always collide. (Among known examples are sets of Float keys * holding consecutive whole numbers in small tables.) So we * apply a transform that spreads the impact of higher bits * downward. There is a tradeoff between speed, utility, and * quality of bit-spreading. Because many common sets of hashes * are already reasonably distributed (so don't benefit from * spreading), and because we use trees to handle large sets of * collisions in bins, we just XOR some shifted bits in the * cheapest possible way to reduce systematic lossage, as well as * to incorporate impact of the highest bits that would otherwise * never be used in index calculations because of table bounds." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="160" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
