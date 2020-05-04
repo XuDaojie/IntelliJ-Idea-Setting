@@ -76,24 +76,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/dao/DataAccessException.java" timestamp="1588603311442" />
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/.gitignore" timestamp="1588595500298">
         <mark key="[" line="170" column="5" />
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/jdbc/support/lob/OracleLobHandler.java" timestamp="1588593582183" />
+      <file name="$USER_HOME$/IdeaProjects/Java/build.gradle" timestamp="1588604175201">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588597250874">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-boot/README.adoc" timestamp="1588434873575">
-        <mark key="[" line="98" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/Java/.gitignore" timestamp="1588604186178">
+        <mark key="[" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-boot/spring-boot-project/spring-boot-parent/pom.xml" timestamp="1588513217108" />
+      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/build.gradle" timestamp="1588604332838">
+        <mark key="[" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Java/.project" timestamp="1588604189344">
+        <mark key="[" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework/org.springframework.spring-parent/pom.xml" timestamp="1588575252610" />
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-boot/spring-boot-project/spring-boot-dependencies/pom.xml" timestamp="1588513239400" />
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/feed/AbstractAtomFeedView.java" timestamp="1588597646923" />
+      <file name="$USER_HOME$/IdeaProjects/Java/settings.gradle" timestamp="1588604204218">
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework/spring-web/src/main/java/org/springframework/http/client/AbstractAsyncClientHttpRequest.java" timestamp="1588597553767" />
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-boot/spring-boot-project/spring-boot-docs/pom.xml" timestamp="1588436111831" />
     </filemarks>
     <jumps>
       <jump line="110" column="22" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWarningFragment.java" />
@@ -201,7 +213,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>!dist</text>
+        <text encoding="base64">CnByb2plY3QoIiIpIHsKICAgIAp9Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -243,10 +255,10 @@
         <text encoding="base64">ICBjb2xvcjogIiM3NTc1NzUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text>!dist</text>
+        <text encoding="base64">CnByb2plY3QoIiIpIHsKICAgIAp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>!dist</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
@@ -254,11 +266,11 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -267,7 +279,7 @@
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -276,7 +288,7 @@
         <text>privateKey</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEV4ZWN1dG9yU2VydmljZSBwb29sID0gRXhlY3V0b3JzLm5ld0NhY2hlZFRocmVhZFBvb2woKTsKLy8gICAgICAgIEZ1dHVyZTxTdHJpbmc+IGZ1dHVyZSA9IHBvb2wuc3VibWl0KG5ldyBDYWxsYWJsZTxTdHJpbmc+KCkgewovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgY2FsbCgpIHRocm93cyBFeGNlcHRpb24gewovLyAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApOwovLyAgICAgICAgICAgICAgICByZXR1cm4gIkhlbGxvV29ybGQiOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0pOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
