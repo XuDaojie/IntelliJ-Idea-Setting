@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="1. Those steps don't work currently for Intellij IDEA 13+&#10;2. `spring-aspects` does not compile out of the box due to references to aspect types unknown to IDEA.&#10;See http://youtrack.jetbrains.com/issue/IDEA-64446 for details. In the meantime, the 'spring-aspects'&#10;module has been excluded from the overall project to avoid compilation errors.&#10;3. While all JUnit tests pass from the command line with Gradle, many will fail when run from IDEA.&#10;Resolving this is a work in progress. If attempting to run all JUnit tests from within IDEA, you will&#10;likely need to set the following VM options to avoid out of memory errors:&#10;    -XX:MaxPermSize=2048m -Xmx2048m -XX:MaxHeapSize=2048m" />
+      <item value=" Those steps don't work currently for Intellij IDEA 13+" />
       <item value="Waits for this future to be completed without interruption. This method catches an InterruptedException and discards it silently. " />
       <item value="Waits for this future to be completed without interruption. This method catches an InterruptedException and discards it silently.&#10;" />
       <item value="await Uninterruptibly" />
@@ -49,13 +51,11 @@
       <item value="* Stripped-down version of helper class used in previous version, * declared for the sake of serialization compatibility" />
       <item value="* &lt;strong&gt;NOTE: This class is obsolete. New implementations should * implement the Map interface, rather than extending this class.&lt;/strong&gt;" />
       <item value="* The &lt;code&gt;Dictionary&lt;/code&gt; class is the abstract parent of any * class, such as &lt;code&gt;Hashtable&lt;/code&gt;, which maps keys to values. * Every key and every value is an object. In any one &lt;tt&gt;Dictionary&lt;/tt&gt; * object, every key is associated with at most one value. Given a * &lt;tt&gt;Dictionary&lt;/tt&gt; and a key, the associated element can be looked up. * Any non-&lt;code&gt;null&lt;/code&gt; object can be used as a key and as a value. * &lt;p&gt; * As a rule, the &lt;code&gt;equals&lt;/code&gt; method should be used by * implementations of this class to decide if two keys are the same. * &lt;p&gt; * &lt;strong&gt;NOTE: This class is obsolete. New implementations should * implement the Map interface, rather than extending this class.&lt;/strong&gt;" />
-      <item value="Returns a power of two size for the given target capacity." />
-      <item value="The load factor used when none specified in constructor." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
