@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" * Abstract BeanFactory superclass that implements default bean creation.&#10; * Implements the AutowireCapableBeanFactory interface.&#10; *&#10; * &lt;p&gt;Provides bean creation, initialization and wiring, supporting&#10; * autowiring and constructor resolution. Handles runtime bean references,&#10; * managed collections, and bean destruction.&#10; *&#10; * &lt;p&gt;The main template method to be implemented by subclasses is&#10; * findMatchingBeans, used for autowiring by type. Note that this class&#10; * does &lt;i&gt;not&lt;/i&gt; implement bean definition registry capabilities&#10; * (DefaultListableBeanFactory does)." />
       <item value="definitions" />
       <item value="1. Those steps don't work currently for Intellij IDEA 13+&#10;2. `spring-aspects` does not compile out of the box due to references to aspect types unknown to IDEA.&#10;See http://youtrack.jetbrains.com/issue/IDEA-64446 for details. In the meantime, the 'spring-aspects'&#10;module has been excluded from the overall project to avoid compilation errors.&#10;3. While all JUnit tests pass from the command line with Gradle, many will fail when run from IDEA.&#10;Resolving this is a work in progress. If attempting to run all JUnit tests from within IDEA, you will&#10;likely need to set the following VM options to avoid out of memory errors:&#10;    -XX:MaxPermSize=2048m -Xmx2048m -XX:MaxHeapSize=2048m" />
       <item value=" Those steps don't work currently for Intellij IDEA 13+" />
@@ -50,12 +51,11 @@
       <item value="* Maps the specified key to the specified value in this table. * Neither the key nor the value can be null. * * &lt;p&gt;The value can be retrieved by calling the {@code get} method * with a key that is equal to the original key. * * @param key key with which the specified value is to be associated * @param value value to be associated with the specified key * @return the previous value associated with {@code key}, or * {@code null} if there was no mapping for {@code key} * @throws NullPointerException if the specified key or value is null" />
       <item value="Stripped-down version of helper class used in previous version, * declared for the sake of serialization compatibility" />
       <item value="* Stripped-down version of helper class used in previous version, * declared for the sake of serialization compatibility" />
-      <item value="* &lt;strong&gt;NOTE: This class is obsolete. New implementations should * implement the Map interface, rather than extending this class.&lt;/strong&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
