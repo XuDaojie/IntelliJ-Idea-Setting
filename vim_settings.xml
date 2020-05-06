@@ -76,14 +76,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/.gitignore" timestamp="1588595500298">
-        <mark key="[" line="170" column="5" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/.gitignore" timestamp="1588604186178">
-        <mark key="[" line="10" column="32" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/BeanUtils.java" timestamp="1588690972383" />
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/support/AbstractBeanFactory.java" timestamp="1588695699325" />
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/xml/XmlBeanDefinitionParser.java" timestamp="1588690679392" />
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/xml/DefaultXmlBeanDefinitionParser.java" timestamp="1588693296047" />
       <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/build.gradle" timestamp="1588607162316">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="0" />
@@ -93,14 +89,15 @@
         <mark key="[" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/samples/webapp-typical/war/WEB-INF/classes/example.hbm.xml" timestamp="1588607889330" />
-      <file name="$USER_HOME$/IdeaProjects/Java/.project" timestamp="1588604189344">
-        <mark key="[" line="17" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" timestamp="1588692058055">
+        <mark key="[" line="67" column="60" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/feed/AbstractAtomFeedView.java" timestamp="1588597646923" />
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/samples/imagedb/war/WEB-INF/applicationContext.xml" timestamp="1588608171075">
         <mark key="[" line="1" column="103" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework/spring-web/src/main/java/org/springframework/http/client/AbstractAsyncClientHttpRequest.java" timestamp="1588597553767" />
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/BeanWrapperImpl.java" timestamp="1588695556068" />
       <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/resources/mybeans.xml" timestamp="1588608266503">
         <mark key="[" line="9" column="33" />
         <mark key="]" line="2" column="0" />
@@ -109,7 +106,7 @@
       <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/TestBean.java" timestamp="1588606200064">
         <mark key="[" line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/dao/DataAccessException.java" timestamp="1588603311442" />
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/BeanWrapper.java" timestamp="1588695739039" />
       <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/First.java" timestamp="1588605753781">
         <mark key="[" line="2" column="16" />
       </file>
@@ -118,19 +115,17 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/FirstTests.java" timestamp="1588609182289">
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/FirstTests.java" timestamp="1588694054458">
+        <mark key="[" line="25" column="72" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" timestamp="1588608648740" />
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1588647735197" />
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" timestamp="1588693392103" />
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1588695862505">
+        <mark key="[" line="175" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/xml/XmlBeanFactory.java" timestamp="1588608623163" />
-      <file name="/Dummy.txt" timestamp="1588597250874">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/settings.gradle" timestamp="1588604204218">
-        <mark key="[" line="12" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.java" timestamp="1588692209973" />
     </filemarks>
     <jumps>
       <jump line="110" column="22" filename="$USER_HOME$/AndroidStudioProjects/ChinaMobile/app/src/main/java/com/bocai/chinamobile/ui/fragment/HomeWarningFragment.java" />
@@ -238,7 +233,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJlYW5GYWN0b3J5IGJlYW5GYWN0b3J5ID0gbmV3IFhtbEJlYW5GYWN0b3J5KG5ldyBGaWxlSW5wdXRTdHJlYW0oIm15YmVhbnMueG1sIikpOwo=</text>
+        <text encoding="base64">CSAqIHtAbGlua30K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -271,7 +266,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Default</text>
+        <text>{@code setParserClass}</text>
       </register>
       <register name="/" type="4">
         <text>odps-sdk-core</text>
@@ -280,40 +275,40 @@
         <text encoding="base64">ICBjb2xvcjogIiM3NTc1NzUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJlYW5GYWN0b3J5IGJlYW5GYWN0b3J5ID0gbmV3IFhtbEJlYW5GYWN0b3J5KG5ldyBGaWxlSW5wdXRTdHJlYW0oIm15YmVhbnMueG1sIikpOwo=</text>
+        <text encoding="base64">CSAqIHtAbGlua30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLTxiZWFucyB4bWxucz0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucyItLT4KPCEtLSAgICB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIi0tPgo8IS0tICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucyBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zL3NwcmluZy1iZWFucy54c2QiPi0tPgo=</text>
+        <text encoding="base64">CSAqIHtAbGluayBYbWxCZWFuRGVmaW5pdGlvblJlYWRlciNwYXJzZXJDbGFzc30K</text>
       </register>
       <register name="r" type="4">
         <text>msg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEJlYW5GYWN0b3J5IGJlYW5GYWN0b3J5ID0gbmV3IFhtbEJlYW5GYWN0b3J5KG5ldyBGaWxlSW5wdXRTdHJlYW0oIm15YmVhbnMueG1sIikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eShKYXZhVmVyc2lvbi5WRVJTSU9OXzFfNCkK</text>
+        <text encoding="base64">PCEtLTxiZWFucyB4bWxucz0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucyItLT4KPCEtLSAgICB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIi0tPgo8IS0tICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucyBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zL3NwcmluZy1iZWFucy54c2QiPi0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnByb2plY3QoIiIpIHsKICAgIAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>!dist</text>
+        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eShKYXZhVmVyc2lvbi5WRVJTSU9OXzFfNCkK</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnByb2plY3QoIiIpIHsKICAgIAp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>!dist</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
