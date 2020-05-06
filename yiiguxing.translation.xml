@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&#9; * Set the names of the beans that this bean depends on being initialized.&#10;&#9; * The bean factory will guarantee that these beans get initialized before.&#10;&#9; * &lt;p&gt;Note that dependencies are normally expressed through bean properties or&#10;&#9; * constructor arguments. This property should just be necessary for other kinds&#10;&#9; * of dependencies like statics (*ugh*) or database preparation on startup." />
+      <item value="Return the bean names that this bean depends on." />
+      <item value="re-check singleton cache within synchronized block" />
       <item value="Return a RootBeanDefinition, even by traversing parent if the parameter is a child definition." />
       <item value="&#9; * Return a RootBeanDefinition, even by traversing parent if the parameter is a child definition.&#10;" />
       <item value="&#9; * Return a RootBeanDefinition, even by traversing parent if the parameter is a child definition.&#10;&#9; * Will ask the parent bean factory if not found in this instance." />
@@ -48,14 +51,11 @@
       <item value="Acquires the lock.&#10;If the lock is not available then the current thread becomes disabled for thread scheduling purposes and lies dormant until the lock has been acquired.&#10;Implementation Considerations&#10;A Lock implementation may be able to detect erroneous use of the lock, such as an invocation that would cause deadlock, and may throw an (unchecked) exception in such circumstances. The circumstances and the exception type must be documented by that Lock implementation." />
       <item value="Acquires the lock only if it is free at the time of invocation. Acquires the lock if it is available and returns immediately with the value true. If the lock is not available then this method will return immediately with the value false. A typical usage idiom for this method would be:" />
       <item value="Acquires the lock only if it is free at the time of invocation.&#10;Acquires the lock if it is available and returns immediately with the value true. If the lock is not available then this method will return immediately with the value false.&#10;A typical usage idiom for this method would be:" />
-      <item value="     * Waits for this future until it is done, and rethrows the cause of the failure if this future&#10;     * failed.&#10;     * &#10;     * @return Future object" />
-      <item value="Waits for this future until it is done, and rethrows the cause of the failure if this future&#10;     * failed." />
-      <item value=" * RedLock locking algorithm implementation for multiple locks. &#10; * It manages all locks as one." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="207" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="SPANISH" value="2" />
       </map>
