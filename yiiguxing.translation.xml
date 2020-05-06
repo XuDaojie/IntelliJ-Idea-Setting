@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&#9; * Return a RootBeanDefinition, even by traversing parent if the parameter is a child definition.&#10;" />
+      <item value="&#9; * Return a RootBeanDefinition, even by traversing parent if the parameter is a child definition.&#10;&#9; * Will ask the parent bean factory if not found in this instance." />
+      <item value="check if bean definition exists" />
       <item value="&#9;&#9;// Eagerly cache singletons to be able to resolve circular references&#10;&#9;&#9;// even when triggered by lifecycle interfaces like BeanFactoryAware." />
       <item value="Eagerly cache singletons to be able to resolve circular references&#10;&#9;&#9;// even when triggered by lifecycle interfaces like BeanFactoryAware." />
       <item value="Register the given custom property editor for all properties of the&#10;&#9; * given type." />
@@ -9,7 +12,6 @@
       <item value="&#9; * Create new BeanWrapperImpl, wrapping a new instance of the specified class.&#10;" />
       <item value="Resolved A" />
       <item value="guarantee initialization of beans that the current one depends on" />
-      <item value="check if bean definition exists" />
       <item value="&#9; * Create a bean instance for the given bean definition.&#10;&#9; * The bean definition will already have been merged with the parent&#10;&#9; * definition in case of a child definition.&#10;&#9; * &lt;p&gt;All the other methods in this class invoke this method, although&#10;&#9; * beans may be cached after being instantiated by this method. All bean&#10;&#9; * instantiation within this class is performed by this method." />
       <item value="&#9; * Get the object for the given shared bean, either the bean&#10;&#9; * instance itself or its created object in case of a FactoryBean." />
       <item value="eagerly check singleton cache for manually registered singletons" />
@@ -49,13 +51,11 @@
       <item value="Waits for this future until it is done, and rethrows the cause of the failure if this future&#10;     * failed." />
       <item value=" * RedLock locking algorithm implementation for multiple locks. &#10; * It manages all locks as one." />
       <item value="remain" />
-      <item value="interruptibly" />
-      <item value="Base Redisson object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="SPANISH" value="2" />
       </map>
