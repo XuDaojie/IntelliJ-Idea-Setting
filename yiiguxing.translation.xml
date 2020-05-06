@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&#9; * Initialize the given BeanWrapper with the custom editors registered&#10;&#9; * with this factory." />
       <item value="&#9; * Set the names of the beans that this bean depends on being initialized.&#10;&#9; * The bean factory will guarantee that these beans get initialized before.&#10;&#9; * &lt;p&gt;Note that dependencies are normally expressed through bean properties or&#10;&#9; * constructor arguments. This property should just be necessary for other kinds&#10;&#9; * of dependencies like statics (*ugh*) or database preparation on startup." />
       <item value="Return the bean names that this bean depends on." />
       <item value="re-check singleton cache within synchronized block" />
@@ -11,7 +12,6 @@
       <item value="&#9;&#9;// Eagerly cache singletons to be able to resolve circular references&#10;&#9;&#9;// even when triggered by lifecycle interfaces like BeanFactoryAware." />
       <item value="Eagerly cache singletons to be able to resolve circular references&#10;&#9;&#9;// even when triggered by lifecycle interfaces like BeanFactoryAware." />
       <item value="Register the given custom property editor for all properties of the&#10;&#9; * given type." />
-      <item value="&#9; * Initialize the given BeanWrapper with the custom editors registered&#10;&#9; * with this factory." />
       <item value=" * Default implementation of the BeanWrapper interface that should be sufficient&#10; * for all normal uses. Caches introspection results for efficiency.&#10; *&#10; * &lt;p&gt;Note: This class never tries to load a class by name, as this can pose&#10; * class loading problems in J2EE applications with multiple deployment modules.&#10; * The caller is responsible for loading a target class.&#10; *&#10; * &lt;p&gt;Note: Auto-registers all default property editors (not the custom ones)&#10; * in the org.springframework.beans.propertyeditors package.&#10; * Applications can either use a standard PropertyEditorManager to register a&#10; * custom editor before using a BeanWrapperImpl instance, or call the instance's&#10; * registerCustomEditor method to register an editor for the particular instance.&#10; *&#10; * &lt;p&gt;BeanWrapperImpl will convert List and array values to the corresponding&#10; * target arrays, if necessary. Custom property editors that deal with Lists or&#10; * arrays can be written against a comma delimited String as String arrays are&#10; * converted in such a format if the array itself is not assignable." />
       <item value="&#9; * Create new BeanWrapperImpl, wrapping a new instance of the specified class.&#10;" />
       <item value="Resolved A" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="208" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="SPANISH" value="2" />
       </map>
