@@ -79,27 +79,14 @@
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/dist/spring-full-source-2.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java" timestamp="1588735600252">
         <mark key="[" line="486" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/TestGroupBean.java" timestamp="1588729626800">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/build.gradle" timestamp="1588731652784">
-        <mark key="[" line="9" column="80" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" timestamp="1588692058055">
-        <mark key="[" line="67" column="60" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1588729599615">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ishangjie/bigdata222/reports/src/main/scala/com/ald/bigdata/reports/job/IshangjieWaihu.scala" timestamp="1588753665814">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="36" />
-        <mark key="^" line="18" column="57" />
-        <mark key="." line="33" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/ishangjie/bigdata222/reports/src/main/scala/com/ald/bigdata/reports/job/IshangjieWaihu.scala" timestamp="1588754859772">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="28" />
+        <mark key="^" line="118" column="15" />
+        <mark key="." line="131" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/support/AbstractBeanFactory.java" timestamp="1588736965175">
         <mark key="[" line="141" column="23" />
@@ -107,7 +94,6 @@
         <mark key="^" line="137" column="14" />
         <mark key="." line="137" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/support/RootBeanDefinition.java" timestamp="1588735879823" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.19/9af69ef0f68eae737351ff55c0ba6e23a06826a5/mysql-connector-java-8.0.19.jar!/META-INF/services/java.sql.Driver" timestamp="1588730195780">
         <mark key="[" line="0" column="24" />
       </file>
@@ -119,10 +105,25 @@
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1588729387197">
         <mark key="[" line="161" column="64" />
       </file>
+      <file name="/Dummy.scala" timestamp="1588754458007">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/TestGroupBean.java" timestamp="1588729626800">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/build.gradle" timestamp="1588731652784">
+        <mark key="[" line="9" column="80" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/support/RootBeanDefinition.java" timestamp="1588735879823" />
+      <file name="$USER_HOME$/IdeaProjects/ishangjie/bigdata222/reports/src/main/resources/conf.properties" timestamp="1588754395424">
+        <mark key="[" line="25" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/TestAccountBean.java" timestamp="1588729636937">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1588752385708">
+      <file name="/fragment.java" timestamp="1588754210154">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/resources/mybeans.xml" timestamp="1588734851452">
@@ -237,7 +238,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>orderDateStr</text>
+        <text>.persist(StorageLevel.MEMORY_AND_DISK)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -270,7 +271,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>orderDateStr</text>
+        <text>.persist(StorageLevel.MEMORY_AND_DISK)</text>
       </register>
       <register name="/" type="4">
         <text>odps-sdk-core</text>
