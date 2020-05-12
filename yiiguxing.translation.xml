@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&#9;&#9;// We must check each PropertyValue to see whether it&#10;&#9;&#9;// requires a runtime reference to another bean to be resolved.&#10;&#9;&#9;// If it does, we'll attempt to instantiate the bean and set the reference." />
+      <item value="&#9; * Given a PropertyValue, return a value, resolving any references to other&#10;&#9; * beans in the factory if necessary. The value could be:&#10;&#9; * &lt;li&gt;A BeanDefinition, which leads to the creation of a corresponding&#10;&#9; * new bean instance. Singleton flags and names of such &quot;inner beans&quot;&#10;&#9; * are always ignored: Inner beans are anonymous prototypes.&#10;&#9; * &lt;li&gt;A RuntimeBeanReference, which must be resolved.&#10;&#9; * &lt;li&gt;A ManagedList. This is a special collection that may contain&#10;&#9; * RuntimeBeanReferences or Collections that will need to be resolved.&#10;&#9; * &lt;li&gt;A ManagedSet. May also contain RuntimeBeanReferences or&#10;&#9; * Collections that will need to be resolved.&#10;&#9; * &lt;li&gt;A ManagedMap. In this case the value may be a RuntimeBeanReference&#10;&#9; * or Collection that will need to be resolved." />
+      <item value="&#9;&#9;&#9;// synchronize if custom editors are registered&#10;&#9;&#9;&#9;// necessary because PropertyEditors are not thread-safe" />
+      <item value="&#9;&#9;&#9;// update mutable copy&#10;" />
+      <item value="&#9; * Deep copy constructor. Guarantees PropertyValue references&#10;&#9; * are independent, although it can't deep copy objects currently&#10;&#9; * referenced by individual PropertyValue objects" />
+      <item value="Perform" />
+      <item value="dependency" />
+      <item value="&#9; * Perform a dependency check that all properties exposed have been set,&#10;&#9; * if desired. Dependency checks can be objects (collaborating beans)," />
+      <item value="Populate the bean instance in the given BeanWrapper with the property values&#10;&#9; * from the bean definition." />
+      <item value="populate" />
       <item value="The &quot;lib&quot; directory is just included in the &quot;-with-dependencies&quot; download. Make sure to download this full&#10;distribution ZIP file if you want to run the sample applications and/or build the framework yourself.&#10;Ant build scripts for the framework and the samples are provided. The standard samples can be built with&#10;the included Ant runtime by invoking the corresponding &quot;build.bat&quot; files (see samples subdirectories)." />
       <item value="&#9; * Initialize the given BeanWrapper with the custom editors registered&#10;&#9; * with this factory." />
       <item value="&#9; * Set the names of the beans that this bean depends on being initialized.&#10;&#9; * The bean factory will guarantee that these beans get initialized before.&#10;&#9; * &lt;p&gt;Note that dependencies are normally expressed through bean properties or&#10;&#9; * constructor arguments. This property should just be necessary for other kinds&#10;&#9; * of dependencies like statics (*ugh*) or database preparation on startup." />
@@ -41,21 +51,11 @@
       <item value="1. Those steps don't work currently for Intellij IDEA 13+&#10;2. `spring-aspects` does not compile out of the box due to references to aspect types unknown to IDEA.&#10;See http://youtrack.jetbrains.com/issue/IDEA-64446 for details. In the meantime, the 'spring-aspects'&#10;module has been excluded from the overall project to avoid compilation errors.&#10;3. While all JUnit tests pass from the command line with Gradle, many will fail when run from IDEA.&#10;Resolving this is a work in progress. If attempting to run all JUnit tests from within IDEA, you will&#10;likely need to set the following VM options to avoid out of memory errors:&#10;    -XX:MaxPermSize=2048m -Xmx2048m -XX:MaxHeapSize=2048m" />
       <item value=" Those steps don't work currently for Intellij IDEA 13+" />
       <item value="Waits for this future to be completed without interruption. This method catches an InterruptedException and discards it silently. " />
-      <item value="Waits for this future to be completed without interruption. This method catches an InterruptedException and discards it silently.&#10;" />
-      <item value="await Uninterruptibly" />
-      <item value="     * Waits for this future to be completed without&#10;     * interruption.  This method catches an {@link InterruptedException} and&#10;     * discards it silently." />
-      <item value="Expirable" />
-      <item value="Acquires the lock with defined leaseTime. Waits if necessary until lock became available. Lock will be released automatically after defined leaseTime interval" />
-      <item value=" java.util.concurrent.locks.Lock Acquires the lock only if it is free at the time of invocation. Acquires the lock if it is available and returns immediately with the value true. If the lock is not available then this method will return immediately with the value false. A typical usage idiom for this method would be:     Lock lock = ...;  if (lock.tryLock()) {    try {      // manipulate protected state    } finally {      lock.unlock();    }  } else {    // perform alternative actions  } This usage ensures that the lock is unlocked if it was acquired, and doesn't try to unlock if the lock was not acquired." />
-      <item value="&#10;java.util.concurrent.locks.Lock Acquires the lock only if it is free at the time of invocation.&#10;Acquires the lock if it is available and returns immediately with the value true. If the lock is not available then this method will return immediately with the value false.&#10;A typical usage idiom for this method would be:&#10;  &#10; Lock lock = ...;&#10; if (lock.tryLock()) {&#10;   try {&#10;     // manipulate protected state&#10;   } finally {&#10;     lock.unlock();&#10;   }&#10; } else {&#10;   // perform alternative actions&#10; }&#10;This usage ensures that the lock is unlocked if it was acquired, and doesn't try to unlock if the lock was not acquired." />
-      <item value="Acquires the lock. If the lock is not available then the current thread becomes disabled for thread scheduling purposes and lies dormant until the lock has been acquired. Implementation Considerations A Lock implementation may be able to detect erroneous use of the lock, such as an invocation that would cause deadlock, and may throw an (unchecked) exception in such circumstances. The circumstances and the exception type must be documented by that Lock implementation." />
-      <item value="Acquires the lock.&#10;If the lock is not available then the current thread becomes disabled for thread scheduling purposes and lies dormant until the lock has been acquired.&#10;Implementation Considerations&#10;A Lock implementation may be able to detect erroneous use of the lock, such as an invocation that would cause deadlock, and may throw an (unchecked) exception in such circumstances. The circumstances and the exception type must be documented by that Lock implementation." />
-      <item value="Acquires the lock only if it is free at the time of invocation. Acquires the lock if it is available and returns immediately with the value true. If the lock is not available then this method will return immediately with the value false. A typical usage idiom for this method would be:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="SPANISH" value="2" />
       </map>
