@@ -102,10 +102,11 @@
         <mark key="^" line="137" column="14" />
         <mark key="." line="137" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/FirstTests.java" timestamp="1589341641217">
-        <mark key="[" line="24" column="63" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/FirstTests.java" timestamp="1589350842775">
+        <mark key="[" line="54" column="86" />
+        <mark key="]" line="46" column="7" />
+        <mark key="." line="46" column="6" />
+        <mark key="^" line="46" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1589276740473" />
       <file name="/Dummy.scala" timestamp="1589264293948">
@@ -114,6 +115,7 @@
       <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/TestBeanPostProcessors.java" timestamp="1589340978257">
         <mark key="[" line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/config/BeanPostProcessor.java" timestamp="1589348671995" />
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1589273583216" />
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/BeanFactory.java" timestamp="1589273594546" />
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" timestamp="1589250451930" />
@@ -129,12 +131,12 @@
       <file name="$USER_HOME$/IdeaProjects/Java/settings.gradle" timestamp="1589273556556">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/TestAccountBean.java" timestamp="1589341262255">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/TestAccountBean.java" timestamp="1589350283841">
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
       </file>
-      <file name="/fragment.java" timestamp="1589274909976">
+      <file name="/fragment.java" timestamp="1589349310435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/resources/mybeans.xml" timestamp="1589340716112">
@@ -248,7 +250,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>getTypeName</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -281,7 +283,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>getTypeName</text>
       </register>
       <register name="/" type="4">
         <text>odps-sdk-core</text>
