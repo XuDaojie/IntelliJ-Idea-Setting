@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&#9; * Modify the application context's internal bean factory after its standard&#10;&#9; * initialization. All bean definitions will have been loaded, but no beans&#10;&#9; * will have been instantiated yet. This allows for overriding or adding&#10;&#9; * properties even to eager-initializing beans.&#10;&#9; * @param beanFactory the bean factory used by the application context" />
+      <item value="&#9; * initialization. All bean definitions will have been loaded, but no beans&#10;&#9; * will have been instantiated yet. This allows for overriding or adding&#10;&#9; * properties even to eager-initializing beans.&#10;&#9; * @param beanFactory the bean factory used by the application context&#10;&#9; * @throws org.springframework.beans.BeansException in case of errors" />
+      <item value="invoke factory processors registered with the context instance" />
+      <item value="&#9; * Modify the application context's internal bean factory after its standard&#10;&#9; * initialization. All bean definitions will have been loaded, but no beans&#10;&#9; * will have been instantiated yet. This allows for registering special&#10;&#9; * BeanPostProcessors etc in certain ApplicationContext implementations.&#10;&#9; * @param beanFactory the bean factory used by the application context&#10;&#9; * @throws org.springframework.beans.BeansException in case of errors" />
+      <item value="&#9; * Set the ResourceLoader that this object runs in.&#10;&#9; * &lt;p&gt;Invoked after population of normal bean properties but before an init&#10;&#9; * callback like InitializingBean's afterPropertiesSet or a custom init-method.&#10;&#9; * Invoked before ApplicationContextAware's setApplicationContext.&#10;&#9; * @param resourceLoader ResourceLoader object to be used by this object" />
+      <item value="Aware" />
+      <item value="&#9; * Subclasses must implement this method to perform the actual configuration load.&#10;&#9; * The method is invoked by refresh before any other initialization work.&#10;&#9; * @see #refresh" />
+      <item value="&#9;&#9;// tell subclass to refresh the internal bean factory&#10;" />
+      <item value="&#9; * Load or reload configuration.&#10;&#9; * @throws org.springframework.context.ApplicationContextException if the configuration&#10;&#9; * was invalid or couldn't be found, or if configuration has already been loaded and&#10;&#9; * reloading is forbidden&#10;&#9; * @throws BeansException if the bean factory could not be initialized" />
+      <item value=" * &lt;p&gt;See PropertyResourceConfigurer and its concrete implementations&#10; * for out-of-the-box solutions that address such configuration needs." />
+      <item value=" * &lt;p&gt;Useful for custom config files targeted at system administrators that&#10; * override bean properties configured in the application context." />
       <item value=" * Partial implementation of ApplicationContext. Doesn't mandate the type&#10; * of storage used for configuration, but implements common functionality.&#10; * Uses the Template Method design pattern, requiring concrete subclasses&#10; * to implement abstract methods.&#10; *&#10; * &lt;p&gt;In contrast to a plain bean factory, an ApplicationContext is supposed&#10; * to detect special beans defined in its bean factory: Therefore, this class&#10; * automatically registers BeanFactoryPostProcessors, BeanPostProcessors&#10; * and ApplicationListeners that are defined as beans in the context.&#10; *&#10; * &lt;p&gt;A MessageSource may be also supplied as a bean in the context, with&#10; * the name &quot;messageSource&quot;. Else, message resolution is delegated to the&#10; * parent context.&#10; *&#10; * &lt;p&gt;Implements resource loading through extending DefaultResourceLoader.&#10; * Therefore, treats resource paths as class path resources. Only supports&#10; * full classpath resource names that include the package path, like&#10; * &quot;mypackage/myresource.dat&quot;." />
       <item value="&#9; * Return a friendly name for this context.&#10;&#9; * @return a display name for this context" />
       <item value="&#9; * Return the timestamp when this context was first loaded.&#10;&#9; * @return the timestamp (ms) when this context was first loaded" />
-      <item value="Aware" />
       <item value="Listable" />
       <item value="Hierarchica" />
       <item value="Listable Bean Factory" />
@@ -41,21 +51,11 @@
       <item value="Resolved A" />
       <item value="guarantee initialization of beans that the current one depends on" />
       <item value="&#9; * Create a bean instance for the given bean definition.&#10;&#9; * The bean definition will already have been merged with the parent&#10;&#9; * definition in case of a child definition.&#10;&#9; * &lt;p&gt;All the other methods in this class invoke this method, although&#10;&#9; * beans may be cached after being instantiated by this method. All bean&#10;&#9; * instantiation within this class is performed by this method." />
-      <item value="&#9; * Get the object for the given shared bean, either the bean&#10;&#9; * instance itself or its created object in case of a FactoryBean." />
-      <item value="eagerly check singleton cache for manually registered singletons" />
-      <item value="&#9; * Return the bean name, stripping out the factory dereference prefix if necessary,&#10;&#9; * and resolving aliases to canonical names." />
-      <item value="Return the set of classes that will get ignored for autowiring." />
-      <item value=" * Abstract superclass for BeanFactory implementations.&#10; * Implements the ConfigurableBeanFactory SPI interface.&#10; *&#10; * &lt;p&gt;This class provides singleton/prototype determination, singleton cache,&#10; * aliases, FactoryBean handling, and bean definition merging for child bean&#10; * definitions. It also allows for management of a bean factory hierarchy,&#10; * implementing the HierarchicalBeanFactory interface.&#10; *&#10; * &lt;p&gt;The main template methods to be implemented by subclasses are&#10; * getBeanDefinition and createBean, retrieving a bean definition for&#10; * a given bean name respectively creating a bean instance for a given&#10; * bean definition." />
-      <item value="Parent bean factory, for bean inheritance support" />
-      <item value="&#9; * Create a new AbstractBeanFactory with the given parent." />
-      <item value="&#9; * Parse an element definition: We know this is a BEAN element.&#10;&#9; * Bean elements specify their canonical name as id attribute&#10;&#9; * and their aliases as a delimited name attribute.&#10;&#9; * If no id specified, use the first name in the name attribute as&#10;&#9; * canonical name, registering all others as aliases." />
-      <item value=" * Abstract base class for bean definition readers.&#10; * Provides common properties like the bean factory to work on&#10; * and the class loader to use for loading bean classes. " />
-      <item value=" * Bean definition reader for Spring's default XML bean definition format.&#10; * Typically applied to a DefaultListableBeanFactory.&#10; *&#10; * &lt;p&gt;The structure, element and attribute names of the required XML document&#10; * are hard-coded in this class. (Of course a transform could be run if necessary&#10; * to produce this format). &quot;beans&quot; doesn't need to be the root element of the XML&#10; * document: This class will parse all bean definition elements in the XML file.&#10; *&#10; * &lt;p&gt;This class registers each bean definition with the given bean factory superclass,&#10; * and relies on the latter's implementation of the BeanDefinitionRegistry interface.&#10; * It supports singletons, prototypes, and references to either of these kinds of bean." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
