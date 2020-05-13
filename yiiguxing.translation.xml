@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" * Interface to be implemented by event listeners.&#10; * Based on standard java.util base class for Observer" />
+      <item value="&#9;&#9;// last step: publish respective event&#10;" />
+      <item value="&#9;&#9;// instantiate singletons this late to allow them to access the message source&#10;" />
+      <item value="&#9; * Add beans that implement ApplicationListener as listeners.&#10;&#9; * Doesn't affect other listeners, which can be added without being beans." />
+      <item value=" * Utilities common to all UI application context implementations.&#10;" />
+      <item value="Initialize the theme capability." />
+      <item value="&#9; * Template method which can be overridden to add context-specific refresh work.&#10;&#9; * Called on initialization of special beans, before instantiation of singletons.&#10;&#9; * @throws BeansException in case of errors during refresh" />
+      <item value="initialize other special beans in specific context subclasses" />
       <item value="&#9; * Instantiate and invoke all registered BeanPostProcessor beans,&#10;&#9; * respecting explicit order if given.&#10;&#9; * Must be called before singleton instantiation." />
       <item value="&#9; * Modify the application context's internal bean factory after its standard&#10;&#9; * initialization. All bean definitions will have been loaded, but no beans&#10;&#9; * will have been instantiated yet. This allows for overriding or adding&#10;&#9; * properties even to eager-initializing beans.&#10;&#9; * @param beanFactory the bean factory used by the application context" />
       <item value="&#9; * initialization. All bean definitions will have been loaded, but no beans&#10;&#9; * will have been instantiated yet. This allows for overriding or adding&#10;&#9; * properties even to eager-initializing beans.&#10;&#9; * @param beanFactory the bean factory used by the application context&#10;&#9; * @throws org.springframework.beans.BeansException in case of errors" />
@@ -43,19 +51,11 @@
       <item value="Return a RootBeanDefinition, even by traversing parent if the parameter is a child definition." />
       <item value="&#9; * Return a RootBeanDefinition, even by traversing parent if the parameter is a child definition.&#10;" />
       <item value="&#9; * Return a RootBeanDefinition, even by traversing parent if the parameter is a child definition.&#10;&#9; * Will ask the parent bean factory if not found in this instance." />
-      <item value="check if bean definition exists" />
-      <item value="&#9;&#9;// Eagerly cache singletons to be able to resolve circular references&#10;&#9;&#9;// even when triggered by lifecycle interfaces like BeanFactoryAware." />
-      <item value="Eagerly cache singletons to be able to resolve circular references&#10;&#9;&#9;// even when triggered by lifecycle interfaces like BeanFactoryAware." />
-      <item value="Register the given custom property editor for all properties of the&#10;&#9; * given type." />
-      <item value=" * Default implementation of the BeanWrapper interface that should be sufficient&#10; * for all normal uses. Caches introspection results for efficiency.&#10; *&#10; * &lt;p&gt;Note: This class never tries to load a class by name, as this can pose&#10; * class loading problems in J2EE applications with multiple deployment modules.&#10; * The caller is responsible for loading a target class.&#10; *&#10; * &lt;p&gt;Note: Auto-registers all default property editors (not the custom ones)&#10; * in the org.springframework.beans.propertyeditors package.&#10; * Applications can either use a standard PropertyEditorManager to register a&#10; * custom editor before using a BeanWrapperImpl instance, or call the instance's&#10; * registerCustomEditor method to register an editor for the particular instance.&#10; *&#10; * &lt;p&gt;BeanWrapperImpl will convert List and array values to the corresponding&#10; * target arrays, if necessary. Custom property editors that deal with Lists or&#10; * arrays can be written against a comma delimited String as String arrays are&#10; * converted in such a format if the array itself is not assignable." />
-      <item value="&#9; * Create new BeanWrapperImpl, wrapping a new instance of the specified class.&#10;" />
-      <item value="Resolved A" />
-      <item value="guarantee initialization of beans that the current one depends on" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
