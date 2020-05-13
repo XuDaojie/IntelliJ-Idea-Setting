@@ -102,12 +102,13 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/context/ApplicationContextAware.java" timestamp="1589352204848" />
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1589353933498" />
+      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/config/BeanFactoryPostProcessor.java" timestamp="1589354709327" />
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/context/support/ClassPathXmlApplicationContext.java" timestamp="1589353633616" />
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/context/ApplicationContext.java" timestamp="1589353383942" />
-      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/BeanFactoryTests.java" timestamp="1589353126367">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/java/io/github/xudaojie/springframework/BeanFactoryTests.java" timestamp="1589354718413">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Java/spring/springframework-1.0/src/test/resources/mybeans.xml" timestamp="1589352849470">
         <mark key="[" line="25" column="11" />
@@ -128,11 +129,6 @@
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1589276740473" />
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/config/BeanPostProcessor.java" timestamp="1589351238517" />
       <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0/src/org/springframework/beans/factory/BeanFactory.java" timestamp="1589273594546" />
-      <file name="$USER_HOME$/IdeaProjects/open-source/spring/spring-framework-1.0/spring-framework-1.0-demo/src/main/java/io/github/xudaojie/springframework/Main.java" timestamp="1589273517025">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/Java/settings.gradle" timestamp="1589273556556">
         <mark key="[" line="14" column="0" />
       </file>
@@ -250,8 +246,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>与BeanFactory相比</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -293,7 +289,7 @@
         <text encoding="base64">ICBjb2xvcjogIiM3NTc1NzUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGVzdEJlYW4xKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -305,22 +301,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGJlYW5GYWN0b3J5UG9zdFByb2Nlc3NvclRlc3QoKSB7CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogZmlyc3Tkvp3otZbms6jlhaUKICAgICAqIEB0aHJvd3MgRmlsZU5vdEZvdW5kRXhjZXB0aW9uCiAgICAgKi8KICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBtMSgpIHRocm93cyBGaWxlTm90Rm91bmRFeGNlcHRpb24gewogICAgICAgIFJlc291cmNlIHJlc291cmNlID0gcmVzb3VyY2VMb2FkZXIuZ2V0UmVzb3VyY2UoIm15YmVhbnMueG1sIik7CiAgICAgICAgLy8g6Kej5p6QeG1s77yM5bm25bCG6Kej5p6Q5ZCO55qE5a6a5LmJ5a2Y5YWlbWFwCiAgICAgICAgQmVhbkZhY3RvcnkgYmVhbkZhY3RvcnkgPSBuZXcgWG1sQmVhbkZhY3RvcnkocmVzb3VyY2UpOwovLyAgICAgICAgWG1sV2ViQXBwbGljYXRpb25Db250ZXh0CiAgICAgICAgLy8g5YWI5LuO57yT5a2Y5Lit6I635Y+WYmVhbu+8jOWmguaenOe8k+WtmOS4reS4jeWtmOWcqO+8jOWImeaWsOW7umJlYW4KICAgICAgICBUZXN0QWNjb3VudEJlYW4gdGVzdEJlYW4xID0gKFRlc3RBY2NvdW50QmVhbikgYmVhbkZhY3RvcnkuZ2V0QmVhbigidGVzdEJlYW4iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGVzdEJlYW4xKTsKLy8gICAgICAgIFRlc3RBY2NvdW50QmVhbiB0ZXN0QmVhbjIgPSAoVGVzdEFjY291bnRCZWFuKSBiZWFuRmFjdG9yeS5nZXRCZWFuKCJ0ZXN0QmVhbiIpOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRlc3RCZWFuMSA9PSB0ZXN0QmVhbjIpOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRlc3RCZWFuMS5nZXRUZXN0R3JvdXBCZWFuKCkuZ2V0TmFtZSgpKTsKICAgIH0KCiAgICAvKioKICAgICAqIOW+queOr+S+nei1lgogICAgICovCiAgICBwdWJsaWMgdm9pZCBtMigpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0O2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkeh</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGVzdEJlYW4xKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrJywgbmFtZTogJ3NwcmluZy1mdWxsJywgdmVyc2lvbjogJzEuMC4xJwoKLy8gICAgY29tcGlsZSBncm91cDogJ29yZy5zcHJpbmdmcmFtZXdvcmsnLCBuYW1lOiAnc3ByaW5nLWNvcmUnLCB2ZXJzaW9uOiAnMS4wJwovLyAgICBjb21waWxlIGdyb3VwOiAnb3JnLnNwcmluZ2ZyYW1ld29yaycsIG5hbWU6ICdzcHJpbmctY29udGV4dCcsIHZlcnNpb246ICcxLjAnCi8vICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrJywgbmFtZTogJ3NwcmluZy1iZWFucycsIHZlcnNpb246ICcxLjAnIG1hdmVu5bqT5Lit5rKh5pyJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>privateKey</text>
