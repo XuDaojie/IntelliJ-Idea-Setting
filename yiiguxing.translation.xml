@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unsatisfied" />
+      <item value="&#9; * Return an array of object-type property names that are unsatisfied.&#10;&#9; * These are probably unsatisfied references to other beans in the&#10;&#9; * factory. Does not include simple properties like primitives or Strings." />
+      <item value="&#9; * Fills in any missing property values with references to&#10;&#9; * other beans in this factory if autowire is set to &quot;byName&quot;." />
+      <item value="Property Values" />
+      <item value="Mutable" />
+      <item value="&#9; * &quot;autowire constructor&quot; (with constructor arguments by type) behaviour.&#10;&#9; * Also applied if explicit constructor argument values are specified,&#10;&#9; * matching all remaining arguments with beans from the bean factory.&#10;&#9; * &lt;p&gt;This corresponds to constructor injection: In this mode, a Spring&#10;&#9; * bean factory is able to host components that expect constructor-based&#10;&#9; * dependency resolution." />
       <item value="Event raised when an ApplicationContext gets initialized or refreshed." />
       <item value=" * Interface to be implemented by event listeners.&#10; * Based on standard java.util base class for Observer" />
       <item value="&#9;&#9;// last step: publish respective event&#10;" />
@@ -45,17 +51,11 @@
       <item value="Populate the bean instance in the given BeanWrapper with the property values&#10;&#9; * from the bean definition." />
       <item value="populate" />
       <item value="The &quot;lib&quot; directory is just included in the &quot;-with-dependencies&quot; download. Make sure to download this full&#10;distribution ZIP file if you want to run the sample applications and/or build the framework yourself.&#10;Ant build scripts for the framework and the samples are provided. The standard samples can be built with&#10;the included Ant runtime by invoking the corresponding &quot;build.bat&quot; files (see samples subdirectories)." />
-      <item value="&#9; * Initialize the given BeanWrapper with the custom editors registered&#10;&#9; * with this factory." />
-      <item value="&#9; * Set the names of the beans that this bean depends on being initialized.&#10;&#9; * The bean factory will guarantee that these beans get initialized before.&#10;&#9; * &lt;p&gt;Note that dependencies are normally expressed through bean properties or&#10;&#9; * constructor arguments. This property should just be necessary for other kinds&#10;&#9; * of dependencies like statics (*ugh*) or database preparation on startup." />
-      <item value="Return the bean names that this bean depends on." />
-      <item value="re-check singleton cache within synchronized block" />
-      <item value="Return a RootBeanDefinition, even by traversing parent if the parameter is a child definition." />
-      <item value="&#9; * Return a RootBeanDefinition, even by traversing parent if the parameter is a child definition.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="262" />
+        <entry key="ENGLISH" value="263" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
