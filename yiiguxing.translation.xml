@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reworked" />
+      <item value="introduced" />
       <item value="unsatisfied" />
       <item value="&#9; * Return an array of object-type property names that are unsatisfied.&#10;&#9; * These are probably unsatisfied references to other beans in the&#10;&#9; * factory. Does not include simple properties like primitives or Strings." />
       <item value="&#9; * Fills in any missing property values with references to&#10;&#9; * other beans in this factory if autowire is set to &quot;byName&quot;." />
@@ -49,13 +51,11 @@
       <item value="dependency" />
       <item value="&#9; * Perform a dependency check that all properties exposed have been set,&#10;&#9; * if desired. Dependency checks can be objects (collaborating beans)," />
       <item value="Populate the bean instance in the given BeanWrapper with the property values&#10;&#9; * from the bean definition." />
-      <item value="populate" />
-      <item value="The &quot;lib&quot; directory is just included in the &quot;-with-dependencies&quot; download. Make sure to download this full&#10;distribution ZIP file if you want to run the sample applications and/or build the framework yourself.&#10;Ant build scripts for the framework and the samples are provided. The standard samples can be built with&#10;the included Ant runtime by invoking the corresponding &quot;build.bat&quot; files (see samples subdirectories)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="265" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
