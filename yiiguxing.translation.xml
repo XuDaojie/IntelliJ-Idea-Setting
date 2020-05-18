@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" * Interface for accessing attributes at runtime. This is a facade,&#10; * which can accommodate any attributes API such as Jakarta Commons Attributes,&#10; * or (possibly in future) a Spring attributes implementation.&#10; *&#10; * &lt;p&gt;The purpose of using this interface is to decouple Spring code from any&#10; * specific attributes implementation. Even once JSR-175 is available, there&#10; * is still value in such a facade interface, as it allows for hierarchical&#10; * attribute sources: for example, an XML file or properties file might override&#10; * some attributes defined in source-level metadata with JSR-175 or another framework." />
+      <item value=" * A simple wrapper for exceptions that occur within the metadata package.&#10;" />
       <item value="reworked" />
       <item value="introduced" />
       <item value="unsatisfied" />
@@ -49,13 +51,11 @@
       <item value="&#9; * Deep copy constructor. Guarantees PropertyValue references&#10;&#9; * are independent, although it can't deep copy objects currently&#10;&#9; * referenced by individual PropertyValue objects" />
       <item value="Perform" />
       <item value="dependency" />
-      <item value="&#9; * Perform a dependency check that all properties exposed have been set,&#10;&#9; * if desired. Dependency checks can be objects (collaborating beans)," />
-      <item value="Populate the bean instance in the given BeanWrapper with the property values&#10;&#9; * from the bean definition." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="265" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
