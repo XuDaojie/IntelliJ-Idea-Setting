@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" * General purpose factory loading mechanism for internal use within the framework.&#10; *&#10; * &lt;p&gt;{@code SpringFactoriesLoader} {@linkplain #loadFactories loads} and instantiates&#10; * factories of a given type from {@value #FACTORIES_RESOURCE_LOCATION} files which&#10; * may be present in multiple JAR files in the classpath. The {@code spring.factories}&#10; * file must be in {@link Properties} format, where the key is the fully qualified&#10; * name of the interface or abstract class, and the value is a comma-separated list of&#10; * implementation class names. For example:&#10; *&#10; * &lt;pre class=&quot;code&quot;&gt;example.MyService=example.MyServiceImpl1,example.MyServiceImpl2&lt;/pre&gt;&#10; *&#10; * where {@code example.MyService} is the name of the interface, and {@code MyServiceImpl1}&#10; * and {@code MyServiceImpl2} are two implementations." />
+      <item value="Properties" />
       <item value="&#9; * Subclasses must return their internal bean factory here.&#10;&#9; * They should implement the lookup efficiently, so that it can be called&#10;&#9; * repeatedly without a performance penalty.&#10;&#9; * @return this application context's internal bean factory" />
       <item value="If the driver is packaged as a Service Provider, load it." />
       <item value="     * Creates a new service loader for the given service type, using the&#10;     * extension class loader.&#10;     *&#10;     * &lt;p&gt; This convenience method simply locates the extension class loader,&#10;     * call it &lt;tt&gt;&lt;i&gt;extClassLoader&lt;/i&gt;&lt;/tt&gt;, and then returns&#10;     *&#10;     * &lt;blockquote&gt;&lt;pre&gt;&#10;     * ServiceLoader.load(&lt;i&gt;service&lt;/i&gt;, &lt;i&gt;extClassLoader&lt;/i&gt;)&lt;/pre&gt;&lt;/blockquote&gt;&#10;     *&#10;     * &lt;p&gt; If the extension class loader cannot be found then the system class&#10;     * loader is used; if there is no system class loader then the bootstrap&#10;     * class loader is used.&#10;     *&#10;     * &lt;p&gt; This method is intended for use when only installed providers are&#10;     * desired.  The resulting service will only find and load providers that&#10;     * have been installed into the current Java virtual machine; providers on&#10;     * the application's class path will be ignored." />
@@ -49,13 +51,11 @@
       <item value=" * Partial implementation of ApplicationContext. Doesn't mandate the type&#10; * of storage used for configuration, but implements common functionality.&#10; * Uses the Template Method design pattern, requiring concrete subclasses&#10; * to implement abstract methods.&#10; *&#10; * &lt;p&gt;In contrast to a plain bean factory, an ApplicationContext is supposed&#10; * to detect special beans defined in its bean factory: Therefore, this class&#10; * automatically registers BeanFactoryPostProcessors, BeanPostProcessors&#10; * and ApplicationListeners that are defined as beans in the context.&#10; *&#10; * &lt;p&gt;A MessageSource may be also supplied as a bean in the context, with&#10; * the name &quot;messageSource&quot;. Else, message resolution is delegated to the&#10; * parent context.&#10; *&#10; * &lt;p&gt;Implements resource loading through extending DefaultResourceLoader.&#10; * Therefore, treats resource paths as class path resources. Only supports&#10; * full classpath resource names that include the package path, like&#10; * &quot;mypackage/myresource.dat&quot;." />
       <item value="&#9; * Return a friendly name for this context.&#10;&#9; * @return a display name for this context" />
       <item value="&#9; * Return the timestamp when this context was first loaded.&#10;&#9; * @return the timestamp (ms) when this context was first loaded" />
-      <item value="Listable" />
-      <item value="Hierarchica" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="282" />
+        <entry key="ENGLISH" value="283" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
