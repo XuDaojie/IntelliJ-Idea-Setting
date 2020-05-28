@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transaction" />
       <item value=" * Interface for classes that define transaction properties.&#10; * Base interface for TransactionAttribute.&#10; *&#10; * &lt;p&gt;Note that isolation level, timeout and read-only settings will only&#10; * get applied when starting a new transaction. As only PROPAGATION_REQUIRED&#10; * and PROPAGATION_REQUIRES_NEW can actually cause that, it doesn't make sense&#10; * to specify any of those settings else. Furthermore, not all transaction&#10; * managers will support those features and thus throw respective exceptions&#10; * when given non-default values." />
       <item value="&#9; * Invoked by a BeanFactory after it has set all bean properties supplied&#10;&#9; * (and satisfied BeanFactoryAware and ApplicationContextAware).&#10;&#9; * &lt;p&gt;This method allows the bean instance to perform initialization only&#10;&#9; * possible when all bean properties have been set and to throw an&#10;&#9; * exception in the event of misconfiguration.&#10;&#9; * @throws Exception in the event of misconfiguration (such&#10;&#9; * as failure to set an essential property) or if initialization fails." />
       <item value="Interface to be implemented by beans that need to react once all their&#10; * properties have been set by a BeanFactory: for example, to perform custom&#10; * initialization, or merely to check that all mandatory properties have been set.&#10; * &#10; * &lt;p&gt;An alternative to implementing InitializingBean is specifying a custom&#10; * init-method, for example in an XML bean definition.&#10; * For a list of all bean lifecycle methods, see the BeanFactory javadocs." />
@@ -50,12 +51,11 @@
       <item value="&#9;&#9;// tell subclass to refresh the internal bean factory&#10;" />
       <item value="&#9; * Load or reload configuration.&#10;&#9; * @throws org.springframework.context.ApplicationContextException if the configuration&#10;&#9; * was invalid or couldn't be found, or if configuration has already been loaded and&#10;&#9; * reloading is forbidden&#10;&#9; * @throws BeansException if the bean factory could not be initialized" />
       <item value=" * &lt;p&gt;See PropertyResourceConfigurer and its concrete implementations&#10; * for out-of-the-box solutions that address such configuration needs." />
-      <item value=" * &lt;p&gt;Useful for custom config files targeted at system administrators that&#10; * override bean properties configured in the application context." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="285" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="286" />
+        <entry key="ENGLISH" value="287" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
