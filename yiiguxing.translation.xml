@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Depends on whether we have expose proxy or frozen or static ts" />
+      <item value=" * Superclass for AOP Proxy configuration managers.&#10; * These are not themselves AOP proxies, but&#10; * subclasses of this class are normally factories from which &#10; * AOP proxy instances are obtained directly.&#10; *&#10; * &lt;p&gt;This class frees subclasses of the housekeeping of Interceptors&#10; * and Advisors, but doesn't actually implement proxy creation&#10; * methods, which are provided by subclasses." />
       <item value="representing" />
       <item value="transaction" />
       <item value=" * Interface for classes that define transaction properties.&#10; * Base interface for TransactionAttribute.&#10; *&#10; * &lt;p&gt;Note that isolation level, timeout and read-only settings will only&#10; * get applied when starting a new transaction. As only PROPAGATION_REQUIRED&#10; * and PROPAGATION_REQUIRES_NEW can actually cause that, it doesn't make sense&#10; * to specify any of those settings else. Furthermore, not all transaction&#10; * managers will support those features and thus throw respective exceptions&#10; * when given non-default values." />
@@ -49,13 +51,11 @@
       <item value="&#9; * Set the ResourceLoader that this object runs in.&#10;&#9; * &lt;p&gt;Invoked after population of normal bean properties but before an init&#10;&#9; * callback like InitializingBean's afterPropertiesSet or a custom init-method.&#10;&#9; * Invoked before ApplicationContextAware's setApplicationContext.&#10;&#9; * @param resourceLoader ResourceLoader object to be used by this object" />
       <item value="Aware" />
       <item value="&#9; * Subclasses must implement this method to perform the actual configuration load.&#10;&#9; * The method is invoked by refresh before any other initialization work.&#10;&#9; * @see #refresh" />
-      <item value="&#9;&#9;// tell subclass to refresh the internal bean factory&#10;" />
-      <item value="&#9; * Load or reload configuration.&#10;&#9; * @throws org.springframework.context.ApplicationContextException if the configuration&#10;&#9; * was invalid or couldn't be found, or if configuration has already been loaded and&#10;&#9; * reloading is forbidden&#10;&#9; * @throws BeansException if the bean factory could not be initialized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="290" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
