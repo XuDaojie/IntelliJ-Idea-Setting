@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" * Interface to be implemented by beans that wish to be aware of their owning  * BeanFactory. Beans can e.g. look up collaborating beans via the factory." />
       <item value=" * Interface to be implemented by beans that wish to be aware of their owning&#10; * BeanFactory. Beans can e.g. look up collaborating beans via the factory." />
       <item value="Depends on whether we have expose proxy or frozen or static ts" />
       <item value=" * Superclass for AOP Proxy configuration managers.&#10; * These are not themselves AOP proxies, but&#10; * subclasses of this class are normally factories from which &#10; * AOP proxy instances are obtained directly.&#10; *&#10; * &lt;p&gt;This class frees subclasses of the housekeeping of Interceptors&#10; * and Advisors, but doesn't actually implement proxy creation&#10; * methods, which are provided by subclasses." />
@@ -50,11 +51,10 @@
       <item value="invoke factory processors registered with the context instance" />
       <item value="&#9; * Modify the application context's internal bean factory after its standard&#10;&#9; * initialization. All bean definitions will have been loaded, but no beans&#10;&#9; * will have been instantiated yet. This allows for registering special&#10;&#9; * BeanPostProcessors etc in certain ApplicationContext implementations.&#10;&#9; * @param beanFactory the bean factory used by the application context&#10;&#9; * @throws org.springframework.beans.BeansException in case of errors" />
       <item value="&#9; * Set the ResourceLoader that this object runs in.&#10;&#9; * &lt;p&gt;Invoked after population of normal bean properties but before an init&#10;&#9; * callback like InitializingBean's afterPropertiesSet or a custom init-method.&#10;&#9; * Invoked before ApplicationContextAware's setApplicationContext.&#10;&#9; * @param resourceLoader ResourceLoader object to be used by this object" />
-      <item value="Aware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
+        <entry key="CHINESE" value="291" />
         <entry key="ENGLISH" value="291" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
@@ -65,7 +65,6 @@
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
     <option name="keepFormat" value="true" />
-    <option name="translateDocumentation" value="false" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="33b178d8a0960b4a" />
