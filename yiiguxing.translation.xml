@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROPAGATION SUPPORTS" />
       <item value="Globals can't be last unless we specified a targetSource using the property..." />
       <item value="* DelegatingIntroductionInterceptor only replaces a return value with the proxy if the proxy is actually assignable&#10;* JdkDynamic/Cglib2AopProxy only replaces return value with proxy if declaring class is not marked for raw target access&#10;* AbstractRefreshableTargetSource's &quot;getTargetClass()&quot; method is properly synchronized&#10;* ScopedObject's &quot;getTargetObject()&quot; method returns the actual target object now (instead of the proxy object)&#10;* fixed &quot;aop:scoped-proxy&quot; tag to properly apply to defined alias names as well" />
       <item value="Cannot proxy target class because CGLIB2 is not available. &quot; +&#10;&#9;&#9;&#9;&#9;&#9;&#9;&quot;Add CGLIB to the class path or specify proxy interfaces." />
@@ -50,12 +51,11 @@
       <item value="initialize other special beans in specific context subclasses" />
       <item value="&#9; * Instantiate and invoke all registered BeanPostProcessor beans,&#10;&#9; * respecting explicit order if given.&#10;&#9; * Must be called before singleton instantiation." />
       <item value="&#9; * Modify the application context's internal bean factory after its standard&#10;&#9; * initialization. All bean definitions will have been loaded, but no beans&#10;&#9; * will have been instantiated yet. This allows for overriding or adding&#10;&#9; * properties even to eager-initializing beans.&#10;&#9; * @param beanFactory the bean factory used by the application context" />
-      <item value="&#9; * initialization. All bean definitions will have been loaded, but no beans&#10;&#9; * will have been instantiated yet. This allows for overriding or adding&#10;&#9; * properties even to eager-initializing beans.&#10;&#9; * @param beanFactory the bean factory used by the application context&#10;&#9; * @throws org.springframework.beans.BeansException in case of errors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
