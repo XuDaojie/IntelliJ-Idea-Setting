@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" * Interface to be implemented by objects used within a BeanFactory&#10; * that are themselves factories. If a bean implements this interface,&#10; * it is used as a factory, not directly as a bean.&#10; *&#10; * &lt;p&gt;&lt;b&gt;NB: A bean that implements this interface cannot be used&#10; * as a normal bean.&lt;/b&gt;&#10; *&#10; * &lt;p&gt;FactoryBeans can support singletons and prototypes." />
       <item value="a" />
       <item value="either" />
       <item value="PROPAGATION SUPPORTS" />
@@ -50,12 +51,11 @@
       <item value=" * Utilities common to all UI application context implementations.&#10;" />
       <item value="Initialize the theme capability." />
       <item value="&#9; * Template method which can be overridden to add context-specific refresh work.&#10;&#9; * Called on initialization of special beans, before instantiation of singletons.&#10;&#9; * @throws BeansException in case of errors during refresh" />
-      <item value="initialize other special beans in specific context subclasses" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
-        <entry key="ENGLISH" value="297" />
+        <entry key="CHINESE" value="298" />
+        <entry key="ENGLISH" value="299" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
