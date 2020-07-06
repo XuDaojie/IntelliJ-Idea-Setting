@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&#9; * Set if controller execution should be synchronized on the session,&#10;&#9; * to serialize parallel invocations from the same client.&#10;&#9; * &lt;p&gt;More specifically, the execution of the handleRequestInternal&#10;&#9; * method will get synchronized if this flag is true." />
       <item value="&#9; * Context attribute to bind root WebApplicationContext to on successful startup.&#10;&#9; * &lt;p&gt;Note: If the startup of the root context fails, this attribute can contain&#10;&#9; * an exception or error as value. Use WebApplicationContextUtils for convenient&#10;&#9; * lookup of the root WebApplicationContext." />
       <item value=" * Interface to be implemented by objects used within a BeanFactory&#10; * that are themselves factories. If a bean implements this interface,&#10; * it is used as a factory, not directly as a bean.&#10; *&#10; * &lt;p&gt;&lt;b&gt;NB: A bean that implements this interface cannot be used&#10; * as a normal bean.&lt;/b&gt;&#10; *&#10; * &lt;p&gt;FactoryBeans can support singletons and prototypes." />
       <item value="a" />
@@ -50,7 +51,6 @@
       <item value="&#9;&#9;// instantiate singletons this late to allow them to access the message source&#10;" />
       <item value="&#9; * Add beans that implement ApplicationListener as listeners.&#10;&#9; * Doesn't affect other listeners, which can be added without being beans." />
       <item value=" * Utilities common to all UI application context implementations.&#10;" />
-      <item value="Initialize the theme capability." />
     </histories>
     <option name="languageScores">
       <map>
