@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BatchResult list of updated records" />
+      <item value="Flushes batch statements." />
       <item value="implementation" />
       <item value=" * Abstract adapter class for the HandlerInterceptor interface,&#10; * for simplified implementation of pre-only/post-only interceptors." />
       <item value="&#9; * Overridden method, invoked after any bean properties have been set and the&#10;&#9; * WebApplicationContext and BeanFactory for this namespace is available.&#10;&#9; * &lt;p&gt;Loads HandlerMapping and HandlerAdapter objects, and configures a&#10;&#9; * ViewResolver and a LocaleResolver." />
@@ -49,13 +51,11 @@
       <item value="Mutable" />
       <item value="&#9; * &quot;autowire constructor&quot; (with constructor arguments by type) behaviour.&#10;&#9; * Also applied if explicit constructor argument values are specified,&#10;&#9; * matching all remaining arguments with beans from the bean factory.&#10;&#9; * &lt;p&gt;This corresponds to constructor injection: In this mode, a Spring&#10;&#9; * bean factory is able to host components that expect constructor-based&#10;&#9; * dependency resolution." />
       <item value="Event raised when an ApplicationContext gets initialized or refreshed." />
-      <item value=" * Interface to be implemented by event listeners.&#10; * Based on standard java.util base class for Observer" />
-      <item value="&#9;&#9;// last step: publish respective event&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="3" />
