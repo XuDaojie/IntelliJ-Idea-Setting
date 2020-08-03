@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -27,10 +28,11 @@
     <mask>*java</mask>
     <mask>*Client.java</mask>
     <mask>*idn.*</mask>
-    <mask>*.pom</mask>
     <mask>*.gradle</mask>
     <mask>*.md</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.pom</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
