@@ -31,11 +31,11 @@
     <mask>*java</mask>
     <mask>*Client.java</mask>
     <mask>*idn.*</mask>
-    <mask>*.md</mask>
     <mask>*.pom</mask>
     <mask>pom.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.md</mask>
     <mask>*.java</mask>
   </component>
 </application>
