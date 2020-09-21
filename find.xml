@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -29,8 +30,8 @@
     <mask>*.xml</mask>
     <mask>*.md</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
