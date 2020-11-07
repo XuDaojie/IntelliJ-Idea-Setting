@@ -39,7 +39,13 @@
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="hive">
+      <artifact id="Hive" name="Hive" use="true" version="3.1.2" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="hsqldb.local">
       <option name="auto-sync" value="true" />
