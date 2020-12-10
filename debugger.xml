@@ -556,7 +556,7 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.util.HashMap$Node" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
@@ -571,17 +571,13 @@
       <sort-values>true</sort-values>
     </data-views>
     <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
       <unmute-on-stop>true</unmute-on-stop>
     </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
         </configuration>
       </debugger>
     </debuggers>
