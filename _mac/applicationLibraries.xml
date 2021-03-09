@@ -133,11 +133,6 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.8 interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="rake (v12.3.2, rbenv: jruby-9.2.9.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.9.0/lib/ruby/gems/shared/gems/rake-12.3.2/bin" />
