@@ -10,10 +10,12 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Monaco" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="InlayHintsSettings">
