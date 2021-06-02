@@ -1,51 +1,9 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
-    <driver id="cassandra">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="clickhouse">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="db2.11">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="db2">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="db2.jtopen">
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="derby.embedded">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="derby.remote">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="exasol">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="greenplum">
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-      <option name="send-app-info" value="false" />
-    </driver>
     <driver id="h2.unified">
       <artifact id="H2" name="H2" use="true" version="1.4.200" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="hive" jre-path="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home">
-      <artifact use="false" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
       <library>
         <url>file://$USER_HOME$/Downloads/lib/guice-servlet-3.0.jar</url>
       </library>
@@ -398,108 +356,30 @@
         <url>file://$USER_HOME$/Downloads/lib/stax-api-1.0-2.jar</url>
       </library>
     </driver>
-    <driver id="hsqldb.local">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hsqldb.remote">
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="mariadb">
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="mongo">
       <artifact id="MongoDB" name="MongoDB" use="true" version="1.7.1" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="sqlserver.ms">
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="false" />
-    </driver>
-    <driver id="sqlserver.jtds">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="azure.ms">
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="false" />
     </driver>
     <driver id="mysql.8">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.21" />
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.15" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql">
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.46" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="mysql_aurora">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle">
       <option name="auto-sync" value="false" />
-      <option name="auto-commit" value="false" />
     </driver>
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-    </driver>
-    <driver id="redshift">
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-    </driver>
-    <driver id="snowflake">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlite.xerial">
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.25.1" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="sybase.jtds">
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="sybase.ase">
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="vertica">
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="a8065490-0a81-4a00-a136-d92c7ef10e29" name="db_sqlite3 driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
       <url-template name="default" template="jdbc:sqlite:!(:memory:){file::identifier.sqlite}?" />
       <url-template name="In-memory" template="jdbc:sqlite::memory:" />
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.25.1" />
-      <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
       <property name="enable_load_extension" value="true" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/sqlite-jdbc-3.25.1.jar</url>
