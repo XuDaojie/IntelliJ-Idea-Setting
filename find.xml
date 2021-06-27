@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Impl.java</mask>
@@ -24,7 +25,6 @@
     <mask>*idn.*</mask>
     <mask>*.pom</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*.md</mask>
     <mask>*</mask>
     <mask>*.vue</mask>
@@ -33,5 +33,6 @@
     <mask>*.yml</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
