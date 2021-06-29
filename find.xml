@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Impl.java</mask>
@@ -31,7 +32,7 @@
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
     <mask>*.py</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
