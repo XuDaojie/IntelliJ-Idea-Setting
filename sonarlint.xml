@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df99df9edfc9df99df9adfcfdfc9dfcedf99df93dfcbdfcedf92dfcfdfcfdf93df9ddf93dfc9dfcbdf9cdfcbdfc9df93df92df98dfcedf9cdf98df9ddf9adf93dfccdf92dfc8dfcedfc9df9ddfc9df9c</token>
+          <option name="name" value="spring-cloud-alibaba" />
+          <organizationKey>xudaojie-github</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
