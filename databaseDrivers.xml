@@ -359,7 +359,7 @@
     <driver id="mongo">
       <artifact id="MongoDB" name="MongoDB" use="true" version="1.7.1" />
     </driver>
-    <driver id="mysql.8">
+    <driver id="mysql.8" driver-class="com.mysql.jdbc.Driver">
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.21" />
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.15" />
