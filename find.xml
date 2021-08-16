@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.mxml</mask>
     <mask>*Impl.java</mask>
     <mask>*.html</mask>
@@ -33,7 +34,7 @@
     <mask>*.py</mask>
     <mask>*.adoc</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
