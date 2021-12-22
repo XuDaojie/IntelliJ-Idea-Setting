@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="data__a012a1ac_bd1d_4644_b09d_8f8a06b2abe9" type="AUTO_DETECTED" />
       <mapping pattern="xx.txt" type="AUTO_DETECTED" />
+      <mapping pattern="LOG_FILE_IS_UNDEFINED" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
