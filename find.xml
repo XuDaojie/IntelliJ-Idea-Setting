@@ -5,11 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
-    <mask>*Impl.java</mask>
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*.java" />
     <mask>*-dev.properties</mask>
-    <mask>*.properties</mask>
     <mask>*.*</mask>
     <mask>*pro.*</mask>
     <mask>*Mapper.java</mask>
@@ -32,8 +29,12 @@
     <mask>*.py</mask>
     <mask>*.adoc</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>build.gradle</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
