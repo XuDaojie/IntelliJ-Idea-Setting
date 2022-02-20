@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*-dev.properties</mask>
     <mask>*.*</mask>
     <mask>*pro.*</mask>
@@ -28,12 +29,12 @@
     <mask>*.py</mask>
     <mask>*.adoc</mask>
     <mask>*.gradle</mask>
+    <mask>build.gradle</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>build.gradle</mask>
   </component>
 </application>
