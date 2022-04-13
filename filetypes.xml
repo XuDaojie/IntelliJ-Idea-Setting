@@ -8,6 +8,10 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="ddl" type="OdpsQL" />
+      <mapping ext="odpsql" type="OdpsQL" />
+      <mapping ext="sql" type="OdpsQL" />
+      <mapping ext="q" type="OdpsQL" />
       <mapping pattern=".java-version" type="PLAIN_TEXT" />
       <mapping pattern="gesture_ambient_lift" type="PLAIN_TEXT" />
       <mapping pattern="compile" type="PLAIN_TEXT" />
@@ -19,6 +23,8 @@
       <mapping ext="eq" type="PLAIN_TEXT" />
       <mapping ext="gradle-back" type="PLAIN_TEXT" />
       <mapping ext="ftml" type="PLAIN_TEXT" />
+      <removed_mapping ext="ddl" type="SQL" />
+      <removed_mapping ext="sql" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
