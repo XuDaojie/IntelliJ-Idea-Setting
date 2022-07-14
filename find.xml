@@ -16,7 +16,6 @@
     <mask>*java</mask>
     <mask>*Client.java</mask>
     <mask>*idn.*</mask>
-    <mask>*.pom</mask>
     <mask>*.md</mask>
     <mask>*</mask>
     <mask>*.vue</mask>
@@ -33,5 +32,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.pom</mask>
   </component>
 </application>
