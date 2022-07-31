@@ -1,0 +1,39 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="data__a012a1ac_bd1d_4644_b09d_8f8a06b2abe9" type="AUTO_DETECTED" />
+      <mapping pattern="xx.txt" type="AUTO_DETECTED" />
+      <mapping pattern="LOG_FILE_IS_UNDEFINED" type="AUTO_DETECTED" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".java-version" type="PLAIN_TEXT" />
+      <mapping pattern="gesture_ambient_lift" type="PLAIN_TEXT" />
+      <mapping pattern="compile" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern=".springformat" type="PLAIN_TEXT" />
+      <mapping pattern="gradlew" type="PLAIN_TEXT" />
+      <mapping pattern="filtershow_state_button_background" type="PLAIN_TEXT" />
+      <mapping ext="peroperties" type="PLAIN_TEXT" />
+      <mapping ext="eq" type="PLAIN_TEXT" />
+      <mapping ext="gradle-back" type="PLAIN_TEXT" />
+      <mapping ext="ftml" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ddl" approved="true" type="SQL" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="lua" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="qrc" approved="true" type="XML" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="sql" approved="true" type="SQL" />
+      <mapping ext="odpsql" type="OdpsQL" />
+      <mapping ext="q" type="OdpsQL" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="ignore" type="Git exclude file" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,79 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="5.7.28-log�BNFW����7-O`]&quot;&amp;|^C 9mysql native password" />
+      <item value="BatchResult list of updated records" />
+      <item value="Flushes batch statements." />
+      <item value="implementation" />
+      <item value=" * Abstract adapter class for the HandlerInterceptor interface,&#10; * for simplified implementation of pre-only/post-only interceptors." />
+      <item value="&#9; * Overridden method, invoked after any bean properties have been set and the&#10;&#9; * WebApplicationContext and BeanFactory for this namespace is available.&#10;&#9; * &lt;p&gt;Loads HandlerMapping and HandlerAdapter objects, and configures a&#10;&#9; * ViewResolver and a LocaleResolver." />
+      <item value="&#9; * Set if controller execution should be synchronized on the session,&#10;&#9; * to serialize parallel invocations from the same client.&#10;&#9; * &lt;p&gt;More specifically, the execution of the handleRequestInternal&#10;&#9; * method will get synchronized if this flag is true." />
+      <item value="&#9; * Context attribute to bind root WebApplicationContext to on successful startup.&#10;&#9; * &lt;p&gt;Note: If the startup of the root context fails, this attribute can contain&#10;&#9; * an exception or error as value. Use WebApplicationContextUtils for convenient&#10;&#9; * lookup of the root WebApplicationContext." />
+      <item value=" * Interface to be implemented by objects used within a BeanFactory&#10; * that are themselves factories. If a bean implements this interface,&#10; * it is used as a factory, not directly as a bean.&#10; *&#10; * &lt;p&gt;&lt;b&gt;NB: A bean that implements this interface cannot be used&#10; * as a normal bean.&lt;/b&gt;&#10; *&#10; * &lt;p&gt;FactoryBeans can support singletons and prototypes." />
+      <item value="a" />
+      <item value="either" />
+      <item value="PROPAGATION SUPPORTS" />
+      <item value="Globals can't be last unless we specified a targetSource using the property..." />
+      <item value="* DelegatingIntroductionInterceptor only replaces a return value with the proxy if the proxy is actually assignable&#10;* JdkDynamic/Cglib2AopProxy only replaces return value with proxy if declaring class is not marked for raw target access&#10;* AbstractRefreshableTargetSource's &quot;getTargetClass()&quot; method is properly synchronized&#10;* ScopedObject's &quot;getTargetObject()&quot; method returns the actual target object now (instead of the proxy object)&#10;* fixed &quot;aop:scoped-proxy&quot; tag to properly apply to defined alias names as well" />
+      <item value="Cannot proxy target class because CGLIB2 is not available. &quot; +&#10;&#9;&#9;&#9;&#9;&#9;&#9;&quot;Add CGLIB to the class path or specify proxy interfaces." />
+      <item value=" * Interface to be implemented by beans that wish to be aware of their owning  * BeanFactory. Beans can e.g. look up collaborating beans via the factory." />
+      <item value=" * Interface to be implemented by beans that wish to be aware of their owning&#10; * BeanFactory. Beans can e.g. look up collaborating beans via the factory." />
+      <item value="Depends on whether we have expose proxy or frozen or static ts" />
+      <item value=" * Superclass for AOP Proxy configuration managers.&#10; * These are not themselves AOP proxies, but&#10; * subclasses of this class are normally factories from which &#10; * AOP proxy instances are obtained directly.&#10; *&#10; * &lt;p&gt;This class frees subclasses of the housekeeping of Interceptors&#10; * and Advisors, but doesn't actually implement proxy creation&#10; * methods, which are provided by subclasses." />
+      <item value="representing" />
+      <item value="transaction" />
+      <item value=" * Interface for classes that define transaction properties.&#10; * Base interface for TransactionAttribute.&#10; *&#10; * &lt;p&gt;Note that isolation level, timeout and read-only settings will only&#10; * get applied when starting a new transaction. As only PROPAGATION_REQUIRED&#10; * and PROPAGATION_REQUIRES_NEW can actually cause that, it doesn't make sense&#10; * to specify any of those settings else. Furthermore, not all transaction&#10; * managers will support those features and thus throw respective exceptions&#10; * when given non-default values." />
+      <item value="&#9; * Invoked by a BeanFactory after it has set all bean properties supplied&#10;&#9; * (and satisfied BeanFactoryAware and ApplicationContextAware).&#10;&#9; * &lt;p&gt;This method allows the bean instance to perform initialization only&#10;&#9; * possible when all bean properties have been set and to throw an&#10;&#9; * exception in the event of misconfiguration.&#10;&#9; * @throws Exception in the event of misconfiguration (such&#10;&#9; * as failure to set an essential property) or if initialization fails." />
+      <item value="Interface to be implemented by beans that need to react once all their&#10; * properties have been set by a BeanFactory: for example, to perform custom&#10; * initialization, or merely to check that all mandatory properties have been set.&#10; * &#10; * &lt;p&gt;An alternative to implementing InitializingBean is specifying a custom&#10; * init-method, for example in an XML bean definition.&#10; * For a list of all bean lifecycle methods, see the BeanFactory javadocs." />
+      <item value=" * General purpose factory loading mechanism for internal use within the framework.&#10; *&#10; * &lt;p&gt;{@code SpringFactoriesLoader} {@linkplain #loadFactories loads} and instantiates&#10; * factories of a given type from {@value #FACTORIES_RESOURCE_LOCATION} files which&#10; * may be present in multiple JAR files in the classpath. The {@code spring.factories}&#10; * file must be in {@link Properties} format, where the key is the fully qualified&#10; * name of the interface or abstract class, and the value is a comma-separated list of&#10; * implementation class names. For example:&#10; *&#10; * &lt;pre class=&quot;code&quot;&gt;example.MyService=example.MyServiceImpl1,example.MyServiceImpl2&lt;/pre&gt;&#10; *&#10; * where {@code example.MyService} is the name of the interface, and {@code MyServiceImpl1}&#10; * and {@code MyServiceImpl2} are two implementations." />
+      <item value="Properties" />
+      <item value="&#9; * Subclasses must return their internal bean factory here.&#10;&#9; * They should implement the lookup efficiently, so that it can be called&#10;&#9; * repeatedly without a performance penalty.&#10;&#9; * @return this application context's internal bean factory" />
+      <item value="If the driver is packaged as a Service Provider, load it." />
+      <item value="     * Creates a new service loader for the given service type, using the&#10;     * extension class loader.&#10;     *&#10;     * &lt;p&gt; This convenience method simply locates the extension class loader,&#10;     * call it &lt;tt&gt;&lt;i&gt;extClassLoader&lt;/i&gt;&lt;/tt&gt;, and then returns&#10;     *&#10;     * &lt;blockquote&gt;&lt;pre&gt;&#10;     * ServiceLoader.load(&lt;i&gt;service&lt;/i&gt;, &lt;i&gt;extClassLoader&lt;/i&gt;)&lt;/pre&gt;&lt;/blockquote&gt;&#10;     *&#10;     * &lt;p&gt; If the extension class loader cannot be found then the system class&#10;     * loader is used; if there is no system class loader then the bootstrap&#10;     * class loader is used.&#10;     *&#10;     * &lt;p&gt; This method is intended for use when only installed providers are&#10;     * desired.  The resulting service will only find and load providers that&#10;     * have been installed into the current Java virtual machine; providers on&#10;     * the application's class path will be ignored." />
+      <item value="Access" />
+      <item value="Privileged" />
+      <item value="     * Lazily loads the available providers of this loader's service.&#10;     *&#10;     * &lt;p&gt; The iterator returned by this method first yields all of the&#10;     * elements of the provider cache, in instantiation order.  It then lazily&#10;     * loads and instantiates any remaining providers, adding each one to the&#10;     * cache in turn.&#10;     *&#10;     * &lt;p&gt; To achieve laziness the actual work of parsing the available&#10;     * provider-configuration files and instantiating providers must be done by&#10;     * the iterator itself.  Its {@link java.util.Iterator#hasNext hasNext} and&#10;     * {@link java.util.Iterator#next next} methods can therefore throw a&#10;     * {@link ServiceConfigurationError} if a provider-configuration file&#10;     * violates the specified format, or if it names a provider class that&#10;     * cannot be found and instantiated, or if the result of instantiating the&#10;     * class is not assignable to the service type, or if any other kind of&#10;     * exception or error is thrown as the next provider is located and&#10;     * instantiated.  To write robust code it is only necessary to catch {@link&#10;     * ServiceConfigurationError} when using a service iterator.&#10;     *&#10;     * &lt;p&gt; If such an error is thrown then subsequent invocations of the&#10;     * iterator will make a best effort to locate and instantiate the next&#10;     * available provider, but in general such recovery cannot be guaranteed.&#10;     *&#10;     * &lt;blockquote style=&quot;font-size: smaller; line-height: 1.2&quot;&gt;&lt;span&#10;     * style=&quot;padding-right: 1em; font-weight: bold&quot;&gt;Design Note&lt;/span&gt;&#10;     * Throwing an error in these cases may seem extreme.  The rationale for&#10;     * this behavior is that a malformed provider-configuration file, like a&#10;     * malformed class file, indicates a serious problem with the way the Java&#10;     * virtual machine is configured or is being used.  As such it is&#10;     * preferable to throw an error rather than try to recover or, even worse,&#10;     * fail silently.&lt;/blockquote&gt;&#10;     *&#10;     * &lt;p&gt; The iterator returned by this method does not support removal.&#10;     * Invoking its {@link java.util.Iterator#remove() remove} method will&#10;     * cause an {@link UnsupportedOperationException} to be thrown.&#10;     *&#10;     * @implNote When adding providers to the cache, the {@link #iterator&#10;     * Iterator} processes resources in the order that the {@link&#10;     * java.lang.ClassLoader#getResources(java.lang.String)&#10;     * ClassLoader.getResources(String)} method finds the service configuration&#10;     * files.&#10;     *&#10;     * @return  An iterator that lazily loads providers for this loader's&#10;     *          service" />
+      <item value="Private inner class implementing fully-lazy provider lookup" />
+      <item value="     * Clear this loader's provider cache so that all providers will be&#10;     * reloaded.&#10;     *&#10;     * &lt;p&gt; After invoking this method, subsequent invocations of the {@link&#10;     * #iterator() iterator} method will lazily look up and instantiate&#10;     * providers from scratch, just as is done by a newly-created loader.&#10;     *&#10;     * &lt;p&gt; This method is intended for use in situations in which new providers&#10;     * can be installed into a running Java virtual machine." />
+      <item value="The access control context taken when the ServiceLoader is created" />
+      <item value="The class loader used to locate, load, and instantiate providers" />
+      <item value="         * When callerCl is null, we should check the application's&#10;         * (which is invoking this class indirectly)&#10;         * classloader, so that the JDBC driver class outside rt.jar&#10;         * can be loaded from here.&#10;         */" />
+      <item value="     * Removes the specified driver from the {@code DriverManager}'s list of&#10;     * registered drivers.&#10;     * &lt;p&gt;&#10;     * If a {@code null} value is specified for the driver to be removed, then no&#10;     * action is taken.&#10;     * &lt;p&gt;&#10;     * If a security manager exists and its {@code checkPermission} denies&#10;     * permission, then a {@code SecurityException} will be thrown.&#10;     * &lt;p&gt;&#10;     * If the specified driver is not found in the list of registered drivers,&#10;     * then no action is taken.  If the driver was found, it will be removed&#10;     * from the list of registered drivers.&#10;     * &lt;p&gt;&#10;     * If a {@code DriverAction} instance was specified when the JDBC driver was&#10;     * registered, its deregister method will be called&#10;     * prior to the driver being removed from the list of registered drivers.&#10;     *&#10;     * @param driver the JDBC Driver to remove&#10;     * @exception SQLException if a database access error occurs&#10;     * @throws SecurityException if a security manager exists and its&#10;     * {@code checkPermission} method denies permission to deregister a driver.&#10;     *&#10;     * @see SecurityManager#checkPermission" />
+      <item value="pure" />
+      <item value="deadlock" />
+      <item value=" * Interface for accessing attributes at runtime. This is a facade,&#10; * which can accommodate any attributes API such as Jakarta Commons Attributes,&#10; * or (possibly in future) a Spring attributes implementation.&#10; *&#10; * &lt;p&gt;The purpose of using this interface is to decouple Spring code from any&#10; * specific attributes implementation. Even once JSR-175 is available, there&#10; * is still value in such a facade interface, as it allows for hierarchical&#10; * attribute sources: for example, an XML file or properties file might override&#10; * some attributes defined in source-level metadata with JSR-175 or another framework." />
+      <item value=" * A simple wrapper for exceptions that occur within the metadata package.&#10;" />
+      <item value="reworked" />
+      <item value="introduced" />
+      <item value="unsatisfied" />
+      <item value="&#9; * Return an array of object-type property names that are unsatisfied.&#10;&#9; * These are probably unsatisfied references to other beans in the&#10;&#9; * factory. Does not include simple properties like primitives or Strings." />
+      <item value="&#9; * Fills in any missing property values with references to&#10;&#9; * other beans in this factory if autowire is set to &quot;byName&quot;." />
+      <item value="Property Values" />
+      <item value="Mutable" />
+      <item value="&#9; * &quot;autowire constructor&quot; (with constructor arguments by type) behaviour.&#10;&#9; * Also applied if explicit constructor argument values are specified,&#10;&#9; * matching all remaining arguments with beans from the bean factory.&#10;&#9; * &lt;p&gt;This corresponds to constructor injection: In this mode, a Spring&#10;&#9; * bean factory is able to host components that expect constructor-based&#10;&#9; * dependency resolution." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="304" />
+        <entry key="ENGLISH" value="305" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="SPANISH" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="33b178d8a0960b4a" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

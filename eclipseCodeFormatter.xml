@@ -1,0 +1,25 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1599843765532" />
+          <option name="name" value="canal" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/IdeaProjects/open-source/alibaba/canal/codeformat.xml" />
+          <option name="selectedJavaProfile" value="canal-format" />
+        </Settings>
+        <Settings>
+          <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1625138023870" />
+          <option name="importOrderConfigFilePath" value="$USER_HOME$/IdeaProjects/open-source/alibaba/spring-cloud-alibaba/eclipse/org.eclipse.jdt.ui.prefs" />
+          <option name="importOrderFromFile" value="true" />
+          <option name="name" value="Spring Cloud Alibaba" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/IdeaProjects/open-source/alibaba/spring-cloud-alibaba/eclipse/eclipse-code-formatter.xml" />
+          <option name="selectedJavaProfile" value="Spring Boot Java Conventions" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
