@@ -8,6 +8,10 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="ddl" type="OdpsQL" />
+      <mapping ext="odpsql" type="OdpsQL" />
+      <mapping ext="sql" type="OdpsQL" />
+      <mapping ext="q" type="OdpsQL" />
       <mapping pattern=".java-version" type="PLAIN_TEXT" />
       <mapping pattern="gesture_ambient_lift" type="PLAIN_TEXT" />
       <mapping pattern="compile" type="PLAIN_TEXT" />
@@ -30,8 +34,6 @@
       <removed_mapping ext="qrc" approved="true" type="XML" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
-      <mapping ext="odpsql" type="OdpsQL" />
-      <mapping ext="q" type="OdpsQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
